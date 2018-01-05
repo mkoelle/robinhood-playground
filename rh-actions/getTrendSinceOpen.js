@@ -27,7 +27,7 @@ module.exports = async (Robinhood, ticker) => {
     return {
       open,
       last_trade_price,
-      previous_close,
+      // previous_close,
       trendPerc: getTrend(last_trade_price, open)
     };
 };
