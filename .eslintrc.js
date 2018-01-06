@@ -17,7 +17,7 @@ module.exports = {
         "no-console":0,
         "indent": [
             2,
-            2
+            4
         ],
         "quotes": [
             2,
