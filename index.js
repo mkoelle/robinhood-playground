@@ -1,7 +1,8 @@
 const stocks = require('./stocks');
 
 const login = require('./rh-actions/login');
-const getTrendSinceOpen = require('./rh-actions/getTrendSinceOpen');
+const getTrendSinceOpen = require('./rh-actions/get-trend-since-open');
+const getAllTickers = require('./rh-actions/get-all-tickers');
 
 const fs = require('mz/fs');
 const { CronJob } = require('cron');
@@ -14,7 +15,10 @@ const saveJSON = async (fileName, obj) => {
 
 const getTrendSinceOpenForAllStocks = async () => {
 
+
   const Robinhood = await login();
+
+  console.log(await getAllTickers(Robinhood));
 
   const promiseArray = stocks.map(async ticker => {
     return {
@@ -36,7 +40,7 @@ const getTrendSinceOpenForAllStocks = async () => {
 
 
 new CronJob('31 06 * * 1-5', () => {
-
+  
   [0, 3, 5, 10, 20, 30, 60, 75, 90, 105, 120, 180].forEach(min => {
     setTimeout(async () => {
       console.log(`getting trend since open for all stocks - 6:31am + ${min} minutes`);
