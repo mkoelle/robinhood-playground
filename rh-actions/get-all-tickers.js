@@ -1,9 +1,15 @@
-module.exports = (Robinhood) => {
-    return new Promise((resolve, reject) => {
+const fs = require('mz/fs');
+const recursiveUrl = require('./recursive-url');
 
-        Robinhood.url('http://api.robinhood.com/instruments/', (error, response, body) => {
-            return error ? reject(error) : resolve(body);
-        });
-
-    });
+const saveJSON = async (fileName, obj) => {
+    await fs.writeFile(fileName, JSON.stringify(obj, null, 2));
 };
+
+const getAllTickers = async (Robinhood) => {
+    console.log('getting all tickers...');
+    const allResults = await recursiveUrl(Robinhood, 'https://api.robinhood.com/instruments/');
+    await saveJSON('./stock-data/allStocks.json', allResults);
+    return allResults;
+};
+
+module.exports = getAllTickers;
