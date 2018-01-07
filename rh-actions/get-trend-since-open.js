@@ -8,18 +8,18 @@ const getTrend = require('../utils/get-trend');
 
 const getTrendSinceOpen = {
     single: async (Robinhood, ticker) => {
+
         try {
             var [fundamentals, quote_data] = await Promise.all([
                 Robinhood.fundamentals(ticker),
                 Robinhood.quote_data(ticker)
             ]);
-
             fundamentals = fundamentals.results[0];
             quote_data = quote_data.results[0];
-
         } catch (e) {
             return { trendPerc: null };
         }
+
         // console.log('fund', ticker, fundamentals);
         // console.log('quo', ticker, quote_data);
 
@@ -36,6 +36,7 @@ const getTrendSinceOpen = {
         };
     },
     multiple: async (Robinhood, stocks) => {
+      
         var timer = (() => {
             const start = new Date();
             return {
@@ -66,7 +67,7 @@ const getTrendSinceOpen = {
             .filter(obj => obj.trendPerc)
             .sort((a, b) => b.trendPerc - a.trendPerc);
 
-        console.log('result', result);
+        // console.log('result', result);
         const length = timer.stop();
         console.log('time', length, length / stocks.length);
 
