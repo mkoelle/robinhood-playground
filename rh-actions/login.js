@@ -1,8 +1,5 @@
 const { credentials } = require('../config');
-
-
 const retryPromise = require('../utils/retry-promise');
-
 
 module.exports = () => {
     return new Promise((resolve) => {

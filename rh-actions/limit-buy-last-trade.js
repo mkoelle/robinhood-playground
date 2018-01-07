@@ -60,6 +60,6 @@ module.exports = async (Robinhood, input, totalAmtToSpend, numStocksToPurchase) 
     if (Array.isArray(input)) {
         return await limitBuyLastTrade.multiple(Robinhood, input, totalAmtToSpend, numStocksToPurchase);
     } else {
-        return await limitBuyLastTrade.single(Robinhood, input, totalAmtToSpend)
+        return await limitBuyLastTrade.single(Robinhood, input, totalAmtToSpend);
     }
 };

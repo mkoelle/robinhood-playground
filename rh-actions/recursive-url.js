@@ -13,10 +13,8 @@ const recursiveUrl = async (Robinhood, callUrl) => {
         }
 
         allResults = allResults.concat(reqBody.results);
-        console.log('end')
     } while (reqBody.next);
 
-    console.log('woah there')
     return allResults;
 };
 

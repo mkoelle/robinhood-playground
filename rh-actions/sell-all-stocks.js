@@ -1,8 +1,7 @@
 const limitSellLastTrade = require('./limit-sell-last-trade');
 
 module.exports = async Robinhood => {
-
-    const {results: allPositions} = await Robinhood.nonzero_positions();
+    const { results: allPositions } = await Robinhood.nonzero_positions();
     console.log('allpos', allPositions);
 
     const sellPosition = async pos => {
@@ -19,7 +18,6 @@ module.exports = async Robinhood => {
     };
 
     for (let pos of allPositions) {
-        const response = await sellPosition(pos);
+        await sellPosition(pos);
     }
-
 };
