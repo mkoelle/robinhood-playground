@@ -1,5 +1,5 @@
 module.exports = async (Robinhood, ticker, quantity = 1) => {
-    console.log('limit ordering', ticker);
+    console.log('limit selling', ticker);
     const quoteData = await Robinhood.quote_data(ticker);
     const { last_trade_price: lastTrade, instrument } = quoteData.results[0];
     var options = {

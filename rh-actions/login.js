@@ -1,7 +1,7 @@
 const { credentials } = require('../config');
 
 
-const retry3x = require('../utils/retry-3x');
+const retryPromise = require('../utils/retry-promise');
 
 
 module.exports = () => {
@@ -12,10 +12,10 @@ module.exports = () => {
             Object.keys(Robinhood).forEach(key => {
                 console.log('key', key);
                 const origFn = Robinhood[key];
-                Robinhood[key] = retry3x((...callArgs) => {
+                Robinhood[key] = retryPromise((...callArgs) => {
                     return new Promise((resolve, reject) => {
                         origFn.apply(null, [...callArgs, (error, response, body) => {
-                            return (error) ? reject(error) : resolve(body);
+                            return (error || !body) ? reject(error) : resolve(body);
                         }]);
                     });
                 });
