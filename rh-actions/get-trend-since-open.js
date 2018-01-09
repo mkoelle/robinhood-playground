@@ -17,14 +17,14 @@ const getTrendSinceOpen = {
             fundamentals = fundamentals.results[0];
             quote_data = quote_data.results[0];
         } catch (e) {
-            return { trendPerc: null };
+            return {};
         }
 
         // console.log('fund', ticker, fundamentals);
         // console.log('quo', ticker, quote_data);
 
         const { open } = fundamentals;
-        const { last_trade_price } = quote_data;  // previous_close
+        const { last_trade_price, previous_close } = quote_data;
 
         return {
             fundamentals,
@@ -32,11 +32,12 @@ const getTrendSinceOpen = {
             open,
             last_trade_price,
             // previous_close,
-            trendPerc: getTrend(last_trade_price, open)
+            trend_since_open: getTrend(last_trade_price, open),
+            trend_since_prev_close: getTrend(last_trade_price, previous_close)
         };
     },
     multiple: async (Robinhood, stocks) => {
-      
+
         var timer = (() => {
             const start = new Date();
             return {
@@ -64,8 +65,8 @@ const getTrendSinceOpen = {
         });
 
         result = result
-            .filter(obj => obj.trendPerc)
-            .sort((a, b) => b.trendPerc - a.trendPerc);
+            .filter(obj => obj.trend_since_open)
+            .sort((a, b) => b.trend_since_open - a.trend_since_open);
 
         // console.log('result', result);
         const length = timer.stop();
