@@ -1,4 +1,5 @@
 const jsonMgr = require('../utils/json-mgr');
+const avgArray = require('../utils/avg-array');
 
 const alreadySoldThisStockToday = async ticker => {
     const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
@@ -25,10 +26,18 @@ const limitBuyLastTrade = {
 
         console.log('limit buying', ticker);
         const quoteData = await Robinhood.quote_data(ticker);
-        let { last_trade_price: lastTrade, instrument } = quoteData.results[0];
-        lastTrade = +(Number(lastTrade).toFixed(2));
+        let { last_trade_price: lastTrade, instrument, ask_price: askPrice } = quoteData.results[0];
+
+        const impNums = [
+            askPrice,
+            lastTrade
+        ].map(val => Number(val)).filter(val => val > 0);
+
+        let bidPrice = avgArray(impNums);
+        bidPrice = +(Number(bidPrice).toFixed(2));
+
         const quantity = Math.floor(maxPrice / lastTrade);
-        console.log('last trade price', lastTrade);
+        console.log('bidPrice', bidPrice);
         console.log('maxPrice', maxPrice);
         console.log('quanity', quantity);
 
@@ -37,7 +46,7 @@ const limitBuyLastTrade = {
         var options = {
             type: 'limit',
             quantity,
-            bid_price: lastTrade,
+            bid_price: bidPrice,
             instrument: {
                 url: instrument,
                 symbol: ticker
@@ -50,7 +59,7 @@ const limitBuyLastTrade = {
         await addToDailyTransactions({
             type: 'buy',
             ticker,
-            bid_price: lastTrade,
+            bid_price: bidPrice,
             quantity
         });
         return await Robinhood.place_buy_order(options);
@@ -65,23 +74,32 @@ const limitBuyLastTrade = {
 
         // randomize the order
         stocksToBuy = stocksToBuy.sort(() => Math.random() > Math.random());
+        let amtToSpendLeft = totalAmtToSpend;
+        let failedStocks = [];
         for (let stock of stocksToBuy) {
-            const perStock = totalAmtToSpend / numberOfStocksPurchasing;
+            const perStock = amtToSpendLeft / (numberOfStocksPurchasing - numPurchased);
             const response = await limitBuyLastTrade.single(Robinhood, stock, perStock);
             console.log('response for limitorder');
             console.log(response);
 
             if (!response || response.detail) {
                 // failed
+                failedStocks.push(stock);
                 console.log('failed purchase for ', stock);
             } else {
                 console.log('success,', stock);
+                amtToSpendLeft -= perStock;
                 numPurchased++;
                 if (numPurchased === numberOfStocksPurchasing) {
                     break;
                 }
             }
         }
+
+        console.log('finished purchasing', stocksToBuy.length, 'stocks');
+        console.log('attempted amount', totalAmtToSpend);
+        console.log('amount leftover', amtToSpendLeft);
+        failedStocks.length && console.log('failed stocks', JSON.stringify(failedStocks));
     }
 };
 
