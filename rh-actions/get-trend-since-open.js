@@ -52,11 +52,11 @@ const getTrendSinceOpen = {
         let curIndex = 0;
         let result = await mapLimit(stocks, 20, async ticker => {
             curIndex++;
-            console.log(
-                'getting trend',
-                curIndex + ' of ' + stocks.length,
-                ticker
-            );
+            // console.log(
+            //     'getting trend',
+            //     curIndex + ' of ' + stocks.length,
+            //     ticker
+            // );
             const trend = await getTrendSinceOpen.single(Robinhood, ticker);
             return {
                 ticker,

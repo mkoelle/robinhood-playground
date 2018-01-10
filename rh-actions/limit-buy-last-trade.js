@@ -1,5 +1,7 @@
 const jsonMgr = require('../utils/json-mgr');
-const avgArray = require('../utils/avg-array');
+// const avgArray = require('../utils/avg-array');
+
+const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
 
 const alreadySoldThisStockToday = async ticker => {
     const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
@@ -17,7 +19,7 @@ const addToDailyTransactions = async data => {
 };
 
 const limitBuyLastTrade = {
-    single: async (Robinhood, ticker, maxPrice) => {
+    single: async (Robinhood, { ticker, maxPrice }) => {
 
         if (await alreadySoldThisStockToday(ticker)) {
             console.log('not purchasing ', ticker, 'because already sold today');
@@ -25,23 +27,30 @@ const limitBuyLastTrade = {
         }
 
         console.log('limit buying', ticker);
+
         const quoteData = await Robinhood.quote_data(ticker);
-        let { last_trade_price: lastTrade, instrument, ask_price: askPrice } = quoteData.results[0];
+        let {
+            last_trade_price: lastTrade,
+            instrument,
+            // ask_price: askPrice
+        } = quoteData.results[0];
 
-        const impNums = [
-            askPrice,
-            lastTrade
-        ].map(val => Number(val)).filter(val => val > 0);
-
-        let bidPrice = avgArray(impNums);
+        //
+        // const impNums = [
+        //     askPrice,
+        //     lastTrade
+        // ].map(val => Number(val)).filter(val => val > 0);
+        //
+        // let bidPrice = avgArray(impNums);
+        let bidPrice = await scrapeYahooPrice(ticker) || lastTrade;
         bidPrice = +(Number(bidPrice).toFixed(2));
 
-        const quantity = Math.floor(maxPrice / lastTrade);
+        const quantity = Math.floor(maxPrice / bidPrice);
         console.log('bidPrice', bidPrice);
         console.log('maxPrice', maxPrice);
         console.log('quanity', quantity);
 
-        if (!quantity) return;
+        if (!quantity || !bidPrice || !maxPrice) return;
 
         var options = {
             type: 'limit',
@@ -78,7 +87,10 @@ const limitBuyLastTrade = {
         let failedStocks = [];
         for (let stock of stocksToBuy) {
             const perStock = amtToSpendLeft / (numberOfStocksPurchasing - numPurchased);
-            const response = await limitBuyLastTrade.single(Robinhood, stock, perStock);
+            const response = await limitBuyLastTrade.single(Robinhood, {
+                ticker: stock,
+                maxPrice: perStock,
+            });
             console.log('response for limitorder');
             console.log(response);
 

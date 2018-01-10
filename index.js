@@ -11,6 +11,8 @@ const cancelAllOrders = require('./rh-actions/cancel-all-orders');
 // const getRisk = require('./rh-actions/get-risk');
 // const trendingUp = require('./rh-actions/trending-up');
 
+const addOvernightJump = require('./app-actions/add-overnight-jump');
+
 // const fs = require('mz/fs');
 const { CronJob } = require('cron');
 const jsonMgr = require('./utils/json-mgr');
@@ -29,6 +31,7 @@ const startCrons = () => {
         const trendingArray = await getTrendSinceOpen(Robinhood, allTickers);
         const dateStr = (new Date()).toLocaleString();
         await jsonMgr.save(`./stock-data/${dateStr} (+${min}).json`, trendingArray);
+        console.log('done getting trend');
         return trendingArray;
     };
 
@@ -44,12 +47,18 @@ const startCrons = () => {
         setTimeout(async () => {
 
             // daily at 6:30AM + 4 seconds
+
+
             console.log('selling all stocks');
             await sellAllStocks(Robinhood);
             console.log('done selling all');
 
         }, 4000);
 
+
+        console.log('selling all stocks');
+        await sellAllStocks(Robinhood);
+        console.log('done selling all');
     }, null, true);
 
     // increments
@@ -78,12 +87,17 @@ const startCrons = () => {
     };
 
     regCronIncAfterSixThirty(
-        [150, 250, 300],  // 9:01am, 10:41am, 11:31am
+        [165, 250, 300],  // 9:16am, 10:41am, 11:31am
         async (min) => await executeStrategy(strategies.daytime, min, 0.16)
     );
 
     regCronIncAfterSixThirty(
-        [360, 380, 1009],  // 12:31, 12:50pm
+        [145],  // 12:31, 12:50pm
+        async (min) => await executeStrategy(strategies.basedOnJump, min, 0.16)
+    );
+
+    regCronIncAfterSixThirty(
+        [360, 380],  // 12:31, 12:50pm
         async (min, i) => await executeStrategy(strategies.beforeClose, min, (i + 1) / 3)
     );
 
@@ -96,6 +110,14 @@ const startCrons = () => {
 
     console.log('user', await Robinhood.accounts());
     await cancelAllOrders(Robinhood);
+
+    console.log('selling all stocks');
+    await sellAllStocks(Robinhood);
+    console.log('done selling all');
+
+    // let onj = require('./stock-data/2018-1-10 06:39:01 (+5)');
+    // onj = await strategies.basedOnJump(Robinhood, onj);
+    // console.log(JSON.stringify(onj, null, 2))
 
     // does the list of stocks need updating?
     try {

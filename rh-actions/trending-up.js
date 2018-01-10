@@ -1,5 +1,3 @@
-const getTrend = require('../utils/get-trend');
-
 const getRelatedHistorical = (historicals, daysBack) => {
     const d = new Date();
     d.setDate(d.getDate() - daysBack);
