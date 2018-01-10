@@ -27,6 +27,9 @@ const trendingUp = async (Robinhood, ticker, days) => {
     let { historicals } = await Robinhood.url(historicalDailyUrl);
 
     // console.log(historicals, historicals.length);
+    if (!historicals.length) {
+        return null;
+    }
 
     return mustMatch.every(period => {
         const trendingUpPeriod = Number(getRelatedHistorical(historicals, period).close_price) < Number(prevClose);

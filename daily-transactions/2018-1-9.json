@@ -676,5 +676,23 @@
     "ticker": "TRPX",
     "bid_price": "6.5200",
     "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "XXII",
+    "bid_price": 3.34,
+    "quantity": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 6.94,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "LMNR",
+    "bid_price": 24.89,
+    "quantity": 4
   }
 ]

@@ -8,6 +8,11 @@ const shouldWatchout = async (Robinhood, ticker) => {
     const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
     let { historicals: dailyYear} = await Robinhood.url(historicalDailyUrl);
 
+    if (!dailyYear.length) {
+        console.log('made it')
+        return { shouldWatchout: true };
+    }
+
     let maxClose = 0;
     const overnightJumps = [];
     dailyYear = dailyYear
@@ -30,11 +35,16 @@ const shouldWatchout = async (Robinhood, ticker) => {
         dailyYear.some(historical => historical.trend < -15)
     );
 
-    return {
-        shouldWatchout,
-        avgJumpAfterDrop: +(avgArray(overnightJumps).toFixed(2)),
-        percMax: getTrend(dailyYear[dailyYear.length - 1].close_price, maxClose)
-    };
+    try {
+        return {
+            shouldWatchout,
+            avgJumpAfterDrop: +(avgArray(overnightJumps).toFixed(2)),
+            percMax: getTrend(dailyYear[dailyYear.length - 1].close_price, maxClose)
+        };
+    } catch (e) {
+      console.log(ticker, dailyYear);
+    }
+
     // console.log(JSON.stringify(dailyYear, null, 2));
 };
 

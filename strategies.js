@@ -7,8 +7,9 @@ module.exports = {
 
     daytime: async (Robinhood, trend) => {
 
-        // stocks that are going up for the day
+        // cheap stocks that are going up for the day
         // and up at many different intervals in the year, month ... etc
+
         console.log('total trend stocks', trend.length);
         const trendingUp = trend.filter(stock => stock.trend_since_open && stock.trend_since_open > 3);
         console.log('trendingUp', trendingUp.length);
@@ -34,7 +35,11 @@ module.exports = {
 
     beforeClose: async (Robinhood, trend) => {
 
-        const trendingBelow10 = trend.filter(stock => stock.trend_since_open && stock.trend_since_open < 8);
+        // cheap stocks that have gone down the most since open
+        // but still going up recently 30 & 7 day trending
+        // dont buy stocks that have fluctuated a lot before today
+
+        const trendingBelow10 = trend.filter(stock => stock.trend_since_open && stock.trend_since_open < -8);
         console.log('trending below 10', trendingBelow10.length);
 
         const notJumpedSinceYesterday = trendingBelow10.filter(stock => stock.trend_since_prev_close < 6);

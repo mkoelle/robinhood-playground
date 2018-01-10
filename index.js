@@ -64,26 +64,27 @@ const startCrons = () => {
         });
     };
 
-    // store trend since open at intervalsw
+    // // store trend since open at intervalsw
     regCronIncAfterSixThirty(
         [0, 5, 10, 20, 30, 60, 75, 90, 105, 120, 180],
         getTrendAndSave
     );
 
     const executeStrategy = async (strategyFn, min, ratioToSpend) => {
+        await cancelAllOrders(Robinhood);
         const trend = await getTrendAndSave(min + '*');
         const toPurchase = await strategyFn(Robinhood, trend);
         await purchaseStocks(toPurchase, ratioToSpend);
     };
 
     regCronIncAfterSixThirty(
-        [360, 380],  // 12:31, 12:53am
-        async (min, i) => await executeStrategy(strategies.beforeClose, min, (i + 1) / 2)
+        [150, 250, 300],  // 9:01am, 10:41am, 11:31am
+        async (min) => await executeStrategy(strategies.daytime, min, 0.16)
     );
 
     regCronIncAfterSixThirty(
-        [150, 200],  // 9:01am, 12:01am
-        async (min) => await executeStrategy(strategies.daytime, min, 0.2)
+        [360, 380, 1009],  // 12:31, 12:50pm
+        async (min, i) => await executeStrategy(strategies.beforeClose, min, (i + 1) / 3)
     );
 
 };
@@ -95,15 +96,6 @@ const startCrons = () => {
 
     console.log('user', await Robinhood.accounts());
     await cancelAllOrders(Robinhood);
-
-
-
-    // nonzero.map(non => ({
-    //     ...nonzero,
-    //     urlwap: await Robinhood.url(non.url)
-    // }));
-    // console.log(nonzero);
-    // await shouldWatchout(Robinhood, 'APHB');
 
     // does the list of stocks need updating?
     try {
