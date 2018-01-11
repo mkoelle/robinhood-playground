@@ -12,7 +12,7 @@ module.exports = async ticker => {
 
         await browser.close();
         console.log('current price', ticker, returnVal);
-        return Number(returnVal)
+        return Number(returnVal);
     } catch (e) {
         return null;
     }
