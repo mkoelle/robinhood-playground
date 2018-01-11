@@ -1,6 +1,6 @@
-// retries a failed promise 3x before giving up
+// retries a failed promise before giving up
 
-const retry3x = fn => {
+const retryPromise = fn => {
 
     const attempt = async (...callArgs) => {
         try {
@@ -16,4 +16,4 @@ const retry3x = fn => {
 
 };
 
-module.exports = retry3x;
+module.exports = retryPromise;

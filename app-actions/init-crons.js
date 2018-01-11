@@ -31,7 +31,7 @@ const after630cronConfig = [
     // log the trend
     {
         name: 'log the trend',
-        run: [0, 5, 10, 20, 30, 60, 75, 90, 105, 120, 180],
+        run: [1, 5, 10, 20, 30, 60, 75, 90, 105, 120, 180],
         fn: getTrendAndSave
     },
 

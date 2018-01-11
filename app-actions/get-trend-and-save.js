@@ -7,7 +7,7 @@ const getTrendAndSave = async (Robinhood, min) => {
 
     // step 1 - get all tickers
     try {
-        var allTickers = require('./stock-data/allStocks');
+        var allTickers = require('../stock-data/allStocks');
     } catch (e) {
         allTickers = await getAllTickers(Robinhood);
     }
@@ -23,7 +23,7 @@ const getTrendAndSave = async (Robinhood, min) => {
     // step 3 - save trend
     await jsonMgr.save(`./stock-data/${dateStr} (+${min}).json`, trendingArray);
     console.log('done getting trend');
-    
+
     return trendingArray;
 
 };
