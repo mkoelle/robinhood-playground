@@ -4,9 +4,13 @@ const purchaseStocks = require('./purchase-stocks');
 
 const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend) => {
     await cancelAllOrders(Robinhood);
-    const trend = await getTrendAndSave(min + '*');
+    const trend = await getTrendAndSave(Robinhood, min + '*');
     const toPurchase = await strategyFn(Robinhood, trend);
-    await purchaseStocks(toPurchase, ratioToSpend);
+    await purchaseStocks(Robinhood, {
+        stocksToBuy: toPurchase,
+        ratioToSpend,
+        strategy: strategyFn.name
+    });
 };
 
 module.exports = executeStrategy;

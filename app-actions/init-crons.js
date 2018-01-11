@@ -39,26 +39,26 @@ const after630cronConfig = [
     // not working
     {
         name: 'execute basedOnJump strategy',
-        run: [145],  // 12:31
+        run: [174],  // 12:31
         fn: async (Robinhood, min) => {
-            await executeStrategy(Robinhood, basedOnJump, min, 0.16);
+            await executeStrategy(Robinhood, basedOnJump, min, 0.06);
         }
     },
     //
     {
         name: 'execute daytime strategy',
-        run: [165, 250, 300],  // 9:16am, 10:41am, 11:31am
+        run: [250, 300],  // 10:41am, 11:31am
         fn: async (Robinhood, min) => {
-            await executeStrategy(Robinhood, daytime, min, 0.16);
+            await executeStrategy(Robinhood, daytime, min, 0.06);
         }
     },
 
     // A+ ?
     {
         name: 'execute beforeClose strategy',
-        run: [360, 380],  // 12:31, 12:50pm
-        fn: async (Robinhood, min, ind) => {
-            await executeStrategy(Robinhood, beforeClose, min, (ind + 1) / 3);
+        run: [370],  // 12:31, 12:50pm
+        fn: async (Robinhood, min) => {
+            await executeStrategy(Robinhood, beforeClose, min, 0.6);
         }
     }
 ];

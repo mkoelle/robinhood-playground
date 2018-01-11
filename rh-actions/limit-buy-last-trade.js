@@ -19,7 +19,7 @@ const addToDailyTransactions = async data => {
 };
 
 const limitBuyLastTrade = {
-    single: async (Robinhood, { ticker, maxPrice }) => {
+    single: async (Robinhood, { ticker, maxPrice, strategy }) => {
 
         if (await alreadySoldThisStockToday(ticker)) {
             console.log('not purchasing ', ticker, 'because already sold today');
@@ -69,11 +69,12 @@ const limitBuyLastTrade = {
             type: 'buy',
             ticker,
             bid_price: bidPrice,
-            quantity
+            quantity,
+            strategy
         });
         return await Robinhood.place_buy_order(options);
     },
-    multiple: async (Robinhood, stocksToBuy, totalAmtToSpend, numberOfStocksPurchasing) => {
+    multiple: async (Robinhood, stocksToBuy, totalAmtToSpend, numberOfStocksPurchasing, strategy) => {
 
         // you cant attempt to purchase more stocks than you passed in
         console.log(numberOfStocksPurchasing, 'numstockstopurchase', stocksToBuy.length);
@@ -90,6 +91,7 @@ const limitBuyLastTrade = {
             const response = await limitBuyLastTrade.single(Robinhood, {
                 ticker: stock,
                 maxPrice: perStock,
+                strategy
             });
             console.log('response for limitorder');
             console.log(response);
@@ -115,9 +117,10 @@ const limitBuyLastTrade = {
     }
 };
 
-module.exports = async (Robinhood, input, totalAmtToSpend, numStocksToPurchase) => {
+module.exports = async (Robinhood, input, totalAmtToSpend, numStocksToPurchase, strategy) => {
+    console.log('limit buy', Robinhood, input, totalAmtToSpend, numStocksToPurchase, strategy);
     if (Array.isArray(input)) {
-        return await limitBuyLastTrade.multiple(Robinhood, input, totalAmtToSpend, numStocksToPurchase);
+        return await limitBuyLastTrade.multiple(Robinhood, input, totalAmtToSpend, numStocksToPurchase, strategy);
     } else {
         return await limitBuyLastTrade.single(Robinhood, input, totalAmtToSpend);
     }

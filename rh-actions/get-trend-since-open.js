@@ -17,11 +17,9 @@ const getTrendSinceOpen = {
             fundamentals = fundamentals.results[0];
             quote_data = quote_data.results[0];
         } catch (e) {
+            console.log(e, 'error getting trend', ticker);
             return {};
         }
-
-        // console.log('fund', ticker, fundamentals);
-        // console.log('quo', ticker, quote_data);
 
         const { open } = fundamentals;
         const { last_trade_price, previous_close } = quote_data;
