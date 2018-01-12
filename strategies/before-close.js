@@ -1,9 +1,15 @@
+// utils
+const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
+
+// app-actions
+const executeStrategy = require('../app-actions/execute-strategy');
+
 const mapLimit = require('promise-map-limit');
 
 const getRisk = require('../rh-actions/get-risk');
 const trendingUp = require('../rh-actions/trending-up');
 
-module.exports = async (Robinhood, trend) => {
+const trendFilter = async (Robinhood, trend) => {
 
     // cheap stocks that have gone down the most since open
     // but still going up recently 30 & 7 day trending
@@ -37,3 +43,23 @@ module.exports = async (Robinhood, trend) => {
     return cheapBuys.map(stock => stock.ticker);
 
 };
+
+const beforeClose = {
+    trendFilter,
+    init: (Robinhood) => {
+        // runs at init
+        regCronIncAfterSixThirty(
+            Robinhood,
+            {
+                name: 'execute before-close strategy',
+                run: [370],  // 12:31, 12:50pm
+                fn: async (Robinhood, min) => {
+                    await executeStrategy(Robinhood, trendFilter, min, 0.40, 'before-close');
+                }
+            },
+        );
+    }
+};
+
+
+module.exports = beforeClose;

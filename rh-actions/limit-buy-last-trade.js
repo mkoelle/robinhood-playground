@@ -21,58 +21,65 @@ const addToDailyTransactions = async data => {
 const limitBuyLastTrade = {
     single: async (Robinhood, { ticker, maxPrice, strategy }) => {
 
-        if (await alreadySoldThisStockToday(ticker)) {
-            console.log('not purchasing ', ticker, 'because already sold today');
-            return;
+        try {
+
+            if (await alreadySoldThisStockToday(ticker)) {
+                console.log('not purchasing ', ticker, 'because already sold today');
+                return;
+            }
+
+            console.log('limit buying', ticker);
+
+            const quoteData = await Robinhood.quote_data(ticker);
+            let {
+                last_trade_price: lastTrade,
+                instrument,
+                // ask_price: askPrice
+            } = quoteData.results[0];
+
+            //
+            // const impNums = [
+            //     askPrice,
+            //     lastTrade
+            // ].map(val => Number(val)).filter(val => val > 0);
+            //
+            // let bidPrice = avgArray(impNums);
+            let bidPrice = await scrapeYahooPrice(ticker) || lastTrade;
+            bidPrice = +(Number(bidPrice).toFixed(2));
+
+            const quantity = Math.floor(maxPrice / bidPrice);
+            console.log('bidPrice', bidPrice);
+            console.log('maxPrice', maxPrice);
+            console.log('quanity', quantity);
+
+            if (!quantity || !bidPrice || !maxPrice) return;
+
+            var options = {
+                type: 'limit',
+                quantity,
+                bid_price: bidPrice,
+                instrument: {
+                    url: instrument,
+                    symbol: ticker
+                }
+                // // Optional:
+                // trigger: String, // Defaults to "gfd" (Good For Day)
+                // time: String,    // Defaults to "immediate"
+                // type: String     // Defaults to "market"
+            };
+            await addToDailyTransactions({
+                type: 'buy',
+                ticker,
+                bid_price: bidPrice,
+                quantity,
+                strategy
+            });
+            return await Robinhood.place_buy_order(options);
+
+        } catch (e) {
+            return null;
         }
 
-        console.log('limit buying', ticker);
-
-        const quoteData = await Robinhood.quote_data(ticker);
-        let {
-            last_trade_price: lastTrade,
-            instrument,
-            // ask_price: askPrice
-        } = quoteData.results[0];
-
-        //
-        // const impNums = [
-        //     askPrice,
-        //     lastTrade
-        // ].map(val => Number(val)).filter(val => val > 0);
-        //
-        // let bidPrice = avgArray(impNums);
-        let bidPrice = await scrapeYahooPrice(ticker) || lastTrade;
-        bidPrice = +(Number(bidPrice).toFixed(2));
-
-        const quantity = Math.floor(maxPrice / bidPrice);
-        console.log('bidPrice', bidPrice);
-        console.log('maxPrice', maxPrice);
-        console.log('quanity', quantity);
-
-        if (!quantity || !bidPrice || !maxPrice) return;
-
-        var options = {
-            type: 'limit',
-            quantity,
-            bid_price: bidPrice,
-            instrument: {
-                url: instrument,
-                symbol: ticker
-            }
-            // // Optional:
-            // trigger: String, // Defaults to "gfd" (Good For Day)
-            // time: String,    // Defaults to "immediate"
-            // type: String     // Defaults to "market"
-        };
-        await addToDailyTransactions({
-            type: 'buy',
-            ticker,
-            bid_price: bidPrice,
-            quantity,
-            strategy
-        });
-        return await Robinhood.place_buy_order(options);
     },
     multiple: async (Robinhood, stocksToBuy, totalAmtToSpend, numberOfStocksPurchasing, strategy) => {
 

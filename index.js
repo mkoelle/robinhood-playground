@@ -2,12 +2,16 @@
 
 // console.log(stocks);
 const login = require('./rh-actions/login');
-const initCrons = require('./app-actions/init-crons');
+// const initCrons = require('./app-actions/init-crons');
+const initStrategies = require('./app-actions/init-strategies');
+
 const getAllTickers = require('./rh-actions/get-all-tickers');
+const cancelAllOrders = require('./rh-actions/cancel-all-orders');
+// const logPortfolioValue = require('./app-actions/log-portfolio-value');
 
 let Robinhood, allTickers;
 
-const rh = require('./shared-async/rh');
+// const rh = require('./shared-async/rh');
 
 (async () => {
 
@@ -15,8 +19,6 @@ const rh = require('./shared-async/rh');
 
     // await rh.init();
     // Robinhood = rh();
-
-    console.log('user', await Robinhood.accounts());
 
     // does the list of stocks need updating?
     try {
@@ -28,7 +30,11 @@ const rh = require('./shared-async/rh');
         .filter(stock => stock.tradeable)
         .map(stock => stock.symbol);
 
-    initCrons(Robinhood);
+    await cancelAllOrders(Robinhood);
+
+    // await logPortfolioValue(Robinhood);
+
+    await initStrategies(Robinhood);
 
     // startCrons();
 
