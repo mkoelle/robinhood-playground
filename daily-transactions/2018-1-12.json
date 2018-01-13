@@ -180,5 +180,96 @@
     "bid_price": 5.5,
     "quantity": 2,
     "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "LINU",
+    "bid_price": 2,
+    "quantity": 14,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMC",
+    "bid_price": 14.18,
+    "quantity": 2,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "OSUR",
+    "bid_price": 19.75,
+    "quantity": 1,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "CATB",
+    "bid_price": 1.55,
+    "quantity": 18,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "LINU",
+    "bid_price": 2.01,
+    "quantity": 3,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "CATB",
+    "bid_price": 1.55,
+    "quantity": 5,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "NSPR",
+    "bid_price": 0.17,
+    "quantity": 46,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 1.95,
+    "quantity": 6,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "SID",
+    "bid_price": 3.42,
+    "quantity": 3,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "CHK",
+    "bid_price": 4.25,
+    "quantity": 3,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "SIRI",
+    "bid_price": 5.51,
+    "quantity": 2,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "SWN",
+    "bid_price": 5.51,
+    "quantity": 2,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "SWN",
+    "bid_price": 5.51,
+    "quantity": 2,
+    "strategy": "pattern-predict-somewhat"
   }
 ]
