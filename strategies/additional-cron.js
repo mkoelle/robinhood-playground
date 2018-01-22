@@ -8,40 +8,54 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const timeoutPromise = require('../utils/timeout-promise');
 
 // rh actions
+const sellAllIfWentUp = require('../app-actions/sell-all-if-went-up');
 const sellAllStocks = require('../rh-actions/sell-all-stocks');
 
 const additionalCronConfig = [
     {
-        name: 'sell all stocks, log portfolio value',
+        name: 'sell all stocks if went up',
         run: [0],
         fn: (Robinhood) => {
 
             setTimeout(async () => {
                 // daily at 6:30AM + 4 seconds
-                console.log('selling all stocks');
-                await sellAllStocks(Robinhood);
+                console.log('selling all stocks that went up');
+                await sellAllIfWentUp(Robinhood);
                 console.log('done selling all');
-
+                //
                 timeoutPromise(20000);
-                console.log('logging portfolio value');
-                await logPortfolioValue(Robinhood);
+                await sellAllIfWentUp(Robinhood);
+                // console.log('logging portfolio value');
+                // await logPortfolioValue(Robinhood);
 
             }, 4000);
 
         }
     },
-    // log port value
+    // sell all if went up
     {
-        name: 'log the portfolio value',
-        run: [195, 292, 390],
-        fn: logPortfolioValue
+        name: 'sellAllIfWentUp',
+        run: [145, 292],
+        fn: sellAllIfWentUp
     },
-    // log the trend
+    // sell all if went up
     {
-        name: 'log the trend',
-        run: [75, 105, 180],
-        fn: getTrendAndSave
-    }
+        name: 'sellAllStocks',
+        run: [330],   // 12pm
+        fn: sellAllStocks
+    },
+    // log port value
+    // {
+    //     name: 'log the portfolio value',
+    //     run: [195, 292, 390],
+    //     fn: logPortfolioValue
+    // },
+    // log the trend
+    // {
+    //     name: 'log the trend',
+    //     run: [75, 105, 180],
+    //     fn: getTrendAndSave
+    // }
 ];
 
 const additionalCron = {

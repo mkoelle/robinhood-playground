@@ -13,45 +13,39 @@ const trendingUp = require('../rh-actions/trending-up');
 const timeoutPromise = require('../utils/timeout-promise');
 
 const currentRecommendations = {
-    'top': [
-        'OSUR',
-        'AMC',
-        'LINU',
-        'TRTC',
-        'CATB',
-        'BAC',
-        'NSPR',
-        'DXJ',
-        'AABA',
-        'HALO',
-        'GM',
-        'BABA',
-        'VRX',
-        'IGT',
-        'INAP',
-        'XPO',
-        'ERF',
-        'CPG',
-        'SNAP',
-        'PFSI',
-        'TWTR',
-        'MSFT'
-    ],
-    'somewhat': [
-        'GWPH',
-        'MULE',
-        'AAPL',
-        'UNFI',
-        'SID',
-        'SAGE',
-        'SBUX',
-        'SWN',
-        'SWN',
-        'SIRI',
-        'CHK',
-        'UONE',
-        'TSN'
-    ]
+  "top": [
+    "IGT",
+    "BAC",
+    "NEOS",
+    "CATB",
+    "DRYS",
+    "LINU",
+    "OSUR",
+    "INSY",
+    "TM",
+    "BABA",
+    "NSPR",
+    "NRG",
+    "IAC",
+    "GWPH",
+    "NFLX",
+    "ACH",
+    "AA",
+    "DE"
+  ],
+  "somewhat": [
+    "OPNT",
+    "ORCL",
+    "NMM",
+    "ERF",
+    "CPG",
+    "SID",
+    "TSN",
+    "^GSPC",
+    "GM",
+    "XPO",
+    "SIRI"
+  ]
 };
 
 const beforeClose = {
@@ -59,12 +53,12 @@ const beforeClose = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute pattern predict strategy',
-            run: [2], // 12:31, 12:50pm
+            run: [], // 12:31, 12:50pm
             fn: async (Robinhood) => {
 
                 await purchaseStocks(Robinhood, {
                     stocksToBuy: currentRecommendations.top.slice(0, 5),
-                    ratioToSpend: 0.15,
+                    ratioToSpend: 0.20,
                     strategy: 'pattern-predict-top-five'
                 });
 

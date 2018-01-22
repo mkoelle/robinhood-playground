@@ -1,5 +1,6 @@
 const jsonMgr = require('../utils/json-mgr');
-const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
+// const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
+const { lookup } = require('yahoo-stocks');
 
 const boughtThisStockToday = async ticker => {
     const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
@@ -16,7 +17,11 @@ const addToDailyTransactions = async data => {
     await jsonMgr.save(fileName, curTransactions);
 };
 
-module.exports = async (Robinhood, ticker, quantity = 1) => {
+module.exports = async (Robinhood, {
+    ticker,
+    quantity = 1,
+    bidPrice
+}) => {
     console.log('limit selling', ticker);
 
     if (await boughtThisStockToday(ticker)) {
@@ -25,13 +30,16 @@ module.exports = async (Robinhood, ticker, quantity = 1) => {
     }
 
     const quoteData = await Robinhood.quote_data(ticker);
-    let {
+    var {
         last_trade_price: lastTrade,
         instrument
     } = quoteData.results[0];
 
-    let bidPrice = await scrapeYahooPrice(ticker) || lastTrade;
+    if (!bidPrice) {
+        bidPrice = (await lookup(ticker)).currentPrice || lastTrade;
+    }
     bidPrice = +(Number(bidPrice).toFixed(2));
+
     var options = {
         type: 'limit',
         quantity,
@@ -52,5 +60,7 @@ module.exports = async (Robinhood, ticker, quantity = 1) => {
         quantity
     });
     console.log(options);
-    return await Robinhood.place_sell_order(options);
+    const res = await Robinhood.place_sell_order(options);
+    // console.log(res, 'res')
+    return res;
 };

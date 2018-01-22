@@ -8,8 +8,10 @@ const sellAllStocks = async (Robinhood) => {
         const instrument = await Robinhood.url(pos.instrument);
         const response = await limitSellLastTrade(
             Robinhood,
-            instrument.symbol,
-            pos.quantity
+            {
+                symbol: instrument.symbol,
+                quantity: pos.quantity
+            }
         );
         console.log('pos,', pos);
         console.log('ins', instrument);

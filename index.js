@@ -8,15 +8,20 @@ const initStrategies = require('./app-actions/init-strategies');
 const getAllTickers = require('./rh-actions/get-all-tickers');
 const cancelAllOrders = require('./rh-actions/cancel-all-orders');
 // const logPortfolioValue = require('./app-actions/log-portfolio-value');
+// const getPennyStocks = require('./app-actions/get-penny-stocks');
+// const activeBuy = require('./app-actions/active-buy');
+
 
 let Robinhood, allTickers;
 
+const regCronIncAfterSixThirty = require('./utils/reg-cron-after-630');
 // const rh = require('./shared-async/rh');
+// const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
+// const beforeCloseUp = require('./strategies/before-close-up');
 
 (async () => {
 
     Robinhood = await login();
-
     // await rh.init();
     // Robinhood = rh();
 
@@ -35,6 +40,7 @@ let Robinhood, allTickers;
     // await logPortfolioValue(Robinhood);
 
     await initStrategies(Robinhood);
+    regCronIncAfterSixThirty.display();
 
     // startCrons();
 

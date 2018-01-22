@@ -1,10 +1,14 @@
-const limitBuyLastTrade = require('../rh-actions/limit-buy-last-trade');
+const limitBuyMultiple = require('./limit-buy-multiple');
 
 const purchaseStocks = async (Robinhood, { stocksToBuy, ratioToSpend, strategy }) => {
     const accounts = await Robinhood.accounts();
     const totalAmtToSpend = Number(accounts.results[0].sma) * ratioToSpend;
     console.log('totalAmtToSpend', totalAmtToSpend);
-    await limitBuyLastTrade(Robinhood, stocksToBuy, totalAmtToSpend, null, strategy);
+    await limitBuyMultiple(Robinhood, {
+        stocksToBuy,
+        totalAmtToSpend,
+        strategy
+    });
 };
 
 module.exports = purchaseStocks;

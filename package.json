@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index 2>&1 | tee ~/outputfile.txt"
+    "start": "node index 2>&1 | tee ./outputfile.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -23,6 +23,7 @@
     "puppeteer": "^0.13.0",
     "retriable-promise": "^1.0.0",
     "robinhood": "^1.1.2",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.0.4",
+    "yahoo-stocks": "^2.0.1"
   }
 }
