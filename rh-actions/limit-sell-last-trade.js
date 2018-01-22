@@ -53,12 +53,7 @@ module.exports = async (Robinhood, {
         // time: String,    // Defaults to "immediate"
         // type: String     // Defaults to "market"
     };
-    await addToDailyTransactions({
-        type: 'sell',
-        ticker,
-        bid_price: bidPrice,
-        quantity
-    });
+    
     console.log(options);
     const res = await Robinhood.place_sell_order(options);
     // console.log(res, 'res')

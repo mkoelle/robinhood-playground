@@ -2,6 +2,7 @@
 // every attempt it goes down from there until it successfully gets sold or it reaches MIN_SELL_RATIO
 
 const limitSellLastTrade = require('../rh-actions/limit-sell-last-trade');
+const jsonMgr = require('../utils/json-mgr');
 
 const { lookup } = require('yahoo-stocks');
 const mapLimit = require('promise-map-limit');
@@ -10,6 +11,15 @@ const mapLimit = require('promise-map-limit');
 const MIN_SELL_RATIO = 0.97; // before gives up
 const TIME_BETWEEN_CHECK = 30; // seconds
 const SELL_RATIO_INCREMENT = 0.005;
+
+
+const addToDailyTransactions = async data => {
+    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
+    const curTransactions = await jsonMgr.get(fileName) || [];
+    curTransactions.push(data);
+    await jsonMgr.save(fileName, curTransactions);
+};
+
 
 module.exports = async (Robinhood, { ticker, quantity }) => {
 
@@ -55,8 +65,19 @@ module.exports = async (Robinhood, { ticker, quantity }) => {
                 } else {
                     console.log('reached MIN_SELL_RATIO, unable to sell', ticker);
                 }
-            } else if (attemptCount) {
-                console.log('successfully sold with attemptcount', attemptCount, ticker);
+            } else {
+
+                await addToDailyTransactions({
+                    type: 'sell',
+                    ticker,
+                    bid_price: bidPrice,
+                    quantity
+                });
+
+                if (attemptCount) {
+                    console.log('successfully sold with attemptcount', attemptCount, ticker);
+                }
+
             }
         }, TIME_BETWEEN_CHECK * 1000);
 
