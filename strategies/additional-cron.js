@@ -9,7 +9,7 @@ const timeoutPromise = require('../utils/timeout-promise');
 
 // rh actions
 const sellAllIfWentUp = require('../app-actions/sell-all-if-went-up');
-const sellAllStocks = require('../rh-actions/sell-all-stocks');
+const sellAllStocks = require('../app-actions/sell-all-stocks');
 
 const additionalCronConfig = [
     {

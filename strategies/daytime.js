@@ -64,7 +64,8 @@ const daytime = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute daytime strategy',
-            run: [190, 250], // 10:41am, 11:31am
+            // run: [190, 250], // 10:41am, 11:31am
+            run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'daytime');
             }

@@ -1,4 +1,4 @@
-const limitSellLastTrade = require('./limit-sell-last-trade');
+const activeSell = require('./active-sell');
 
 const sellAllStocks = async (Robinhood) => {
     const { results: allPositions } = await Robinhood.nonzero_positions();
@@ -6,10 +6,10 @@ const sellAllStocks = async (Robinhood) => {
 
     const sellPosition = async pos => {
         const instrument = await Robinhood.url(pos.instrument);
-        const response = await limitSellLastTrade(
+        const response = await activeSell(
             Robinhood,
             {
-                symbol: instrument.symbol,
+                ticker: instrument.symbol,
                 quantity: pos.quantity
             }
         );

@@ -52,7 +52,8 @@ const beforeClose = {
             Robinhood,
             {
                 name: 'execute before-close strategy',
-                run: [370],  // 12:31, 12:50pm
+                // run: [370],  // 12:31, 12:50pm
+                run: [],
                 fn: async (Robinhood, min) => {
                     await executeStrategy(Robinhood, trendFilter, min, 0.55, 'before-close');
                 }

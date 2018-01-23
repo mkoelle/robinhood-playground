@@ -1,5 +1,4 @@
 const detailedNonZero = require('./detailed-non-zero');
-const limitSellLastTrade = require('../rh-actions/limit-sell-last-trade');
 const activeSell = require('./active-sell');
 
 module.exports = async Robinhood => {
@@ -11,7 +10,7 @@ module.exports = async Robinhood => {
         const response = await activeSell(
             Robinhood,
             {
-                symbol: pos.symbol,
+                ticker: pos.symbol,
                 quantity: pos.quantity
             }
         );

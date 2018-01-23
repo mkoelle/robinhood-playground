@@ -56,7 +56,8 @@ const bigDayTrendUp = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute big-day-trend-up strategy',
-            run: [10, 30, 90], // 10:41am, 11:31am
+            // run: [10, 30, 90], // 10:41am, 11:31am
+            run: [],
             fn: async (Robinhood, min) => {
                 await executeStrategy(Robinhood, trendFilter, min, 0.3, 'big-day-trend-up');
             }

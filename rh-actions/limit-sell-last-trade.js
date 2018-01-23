@@ -10,13 +10,6 @@ const boughtThisStockToday = async ticker => {
     });
 };
 
-const addToDailyTransactions = async data => {
-    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
-    const curTransactions = await jsonMgr.get(fileName) || [];
-    curTransactions.push(data);
-    await jsonMgr.save(fileName, curTransactions);
-};
-
 module.exports = async (Robinhood, {
     ticker,
     quantity = 1,
@@ -53,7 +46,7 @@ module.exports = async (Robinhood, {
         // time: String,    // Defaults to "immediate"
         // type: String     // Defaults to "market"
     };
-    
+
     console.log(options);
     const res = await Robinhood.place_sell_order(options);
     // console.log(res, 'res')

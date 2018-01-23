@@ -29,7 +29,7 @@ const trendFilter = async (Robinhood, trend) => {
     cheapBuys = await mapLimit(cheapBuys, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
-        trendingUp: await trendingUp(Robinhood, buy.ticker, [180, 5])
+        trendingUp: await trendingUp(Robinhood, buy.ticker, [180, 10, 30, 5])
     }));
 
     console.log(
@@ -54,10 +54,11 @@ const basedOnJump = {
         // runs at init
         regCronIncAfterSixThirty(Robinhood, {
             name: 'execute based-on-jump strategy',
-            run: [1], // 7:00am
+            // run: [15], // 7:00am
+            run: [],
             fn: async (Robinhood, min) => {
                 setTimeout(async () => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.4, 'based-on-jump');
+                    await executeStrategy(Robinhood, trendFilter, min, 0.2, 'based-on-jump');
                 }, 5000);
             }
         });

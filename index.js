@@ -17,11 +17,15 @@ let Robinhood, allTickers;
 const regCronIncAfterSixThirty = require('./utils/reg-cron-after-630');
 // const rh = require('./shared-async/rh');
 // const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
-// const beforeCloseUp = require('./strategies/before-close-up');
+// const up10days = require('./strategies/up-10-days');
+// const getUpStreak = require('./app-actions/get-up-streak');
 
 (async () => {
 
     Robinhood = await login();
+    // console.log(await getUpStreak(Robinhood, 'AAPL', 3));
+    // await up10days.trendFilter(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-22 12:53:02 (+380*).json'));
+
     // await rh.init();
     // Robinhood = rh();
 

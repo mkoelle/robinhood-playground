@@ -9,7 +9,7 @@ const mapLimit = require('promise-map-limit');
 
 
 const MAX_BUY_RATIO = 1.02; // before gives up
-const TIME_BETWEEN_CHECK = 30; // seconds
+const TIME_BETWEEN_CHECK = 45; // seconds
 const BUY_RATIO_INCREMENT = 0.003;
 
 
@@ -25,6 +25,7 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
 
     let curBuyRatio = 1.0;
     let attemptCount = 0;
+    maxPrice = Math.min(maxPrice, 70);
 
     const attempt = async () => {
 
