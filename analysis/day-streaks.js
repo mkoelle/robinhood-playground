@@ -1,4 +1,4 @@
-
+const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const login = require('../rh-actions/login');
 
 const mapLimit = require('promise-map-limit');
@@ -11,12 +11,14 @@ const avgArray = require('../utils/avg-array');
 
 (async () => {
 
-
     Robinhood = await login();
-    let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-22 12:53:02 (+380*).json');
+
+    let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json');
+    // let trend = await getTrendAndSave(Robinhood);
+
     trend = addOvernightJump(trend);
     let cheapBuys = trend.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 3;
+        return Number(stock.quote_data.last_trade_price) < 10;
     });
     console.log('trading below $30', cheapBuys.length);
 

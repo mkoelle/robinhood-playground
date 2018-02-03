@@ -8,8 +8,8 @@ module.exports = async (Robinhood, trend) => {
         //     ticker: stock.ticker,
         //     last_trade_price: stock.last_trade_price
         // }))
-        .sort((a, b) => Number(b.fundamentals.pe_ratio) - Number(a.fundamentals.pe_ratio))
-        .slice(0, 100)
-        .sort((a, b) => Number(a.trend_since_open) - Number(b.trend_since_open))
+        // .sort((a, b) => Number(b.fundamentals.pe_ratio) - Number(a.fundamentals.pe_ratio))
+        // .slice(0, 100)
+        .sort((a, b) => Number(a.last_trade_price) - Number(b.last_trade_price))
 
 };

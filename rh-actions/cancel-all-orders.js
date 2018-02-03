@@ -6,10 +6,12 @@ const cancelAllOrders = async (Robinhood) => {
             return !['cancelled', 'filled', 'confirmed'].includes(order.state);
         });
         console.log('orders', pendingOrders);
-        for (let order of pendingOrders) {
+        const withoutGtc = pendingOrders.filter(order => order.time_in_force !== 'gtc');
+        for (let order of withoutGtc) {
+            console.log('order', order);
             await Robinhood.cancel_order(order);
         }
-        pendingOrders.length && console.log('canceled', pendingOrders.length, 'orders');
+        withoutGtc.length && console.log('canceled', withoutGtc.length, 'orders');
     } catch (e) {
         console.log('error canceling all orders', e);
     }

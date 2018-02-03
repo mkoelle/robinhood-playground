@@ -4,23 +4,40 @@ const fs = require('mz/fs');
 module.exports = async (Robinhood) => {
 
     // get portfolio value
-    const { results: nonzero } = await Robinhood.nonzero_positions();
-    const sumInvested = nonzero
-        .map(obj => Number(obj.quantity) * Number(obj.average_buy_price))
-        .reduce((acc, val) => acc + val, 0);
 
-    const accounts = await Robinhood.accounts();
-    const amtCash = Number(accounts.results[0].margin_balances.unallocated_margin_cash);
-    const totalPortfolioValue = sumInvested + amtCash;
-    console.log('user', JSON.stringify(totalPortfolioValue, null, 2));
+    // const totalPortfolioValue = ports[0].extended_hours_equity;
+    // console.log('user', JSON.stringify(totalPortfolioValue, null, 2));
+
+
+    const {results: ports} = await Robinhood.url('https://api.robinhood.com/portfolios/');
+    // console.log(ports, 'ports');
+
+    let portfolioCache = {};
+
+    let {equity_historicals: hist} = await Robinhood.url('https://api.robinhood.com/portfolios/historicals/5SA80442/?span=year&interval=day');
+    hist = hist.map(h => ({
+        ...h,
+        date: (() => {
+            const d = new Date(h.begins_at);
+            d.setDate(d.getDate() + 1);
+            return d.toLocaleDateString();
+        })(),
+        close: Number(h.adjusted_close_equity)
+    }));
+
+    hist.forEach(h => {
+        portfolioCache[h.date] = h.close;
+    });
+    console.log(hist.reverse());
+    hist.reverse();
 
     // log it
-    let portfolioCache = {};
-    try {
-        portfolioCache = JSON.parse(await fs.readFile('./portfolio-cache.json'));
-    } catch (e) {}
-    const dateStr = new Date().toLocaleString();
-    portfolioCache[dateStr] = totalPortfolioValue;
+    // try {
+    //     portfolioCache = JSON.parse(await fs.readFile('./portfolio-cache.json'));
+    // } catch (e) {}
+    // const dateStr = new Date().toLocaleString();
+    // portfolioCache[dateStr] = totalPortfolioValue;
+
     try {
         await fs.writeFile('./portfolio-cache.json', JSON.stringify(portfolioCache, null, 2));
     } catch (e) {}

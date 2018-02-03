@@ -19,7 +19,7 @@ module.exports = async (Robinhood, {
 
     if (await boughtThisStockToday(ticker)) {
         console.log('not selling ', ticker, 'because bought today');
-        return;
+        return null;
     }
 
     const quoteData = await Robinhood.quote_data(ticker);

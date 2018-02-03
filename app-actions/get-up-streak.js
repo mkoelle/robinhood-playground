@@ -1,14 +1,13 @@
-const getUpStreak = async (Robinhood, ticker) => {
+const getUpStreak = async (Robinhood, ticker, historicals) => {
     try {
 
-        console.log('trending up n days? ...', ticker);
-        const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
-        let { historicals } = await Robinhood.url(historicalDailyUrl);
+        // console.log('trending up n days? ...', ticker);
 
-        // console.log(historicals, historicals.length);
-        if (!historicals.length) {
-            return null;
-        }
+        historicals = historicals || await (async () => {
+            const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
+            let { historicals } = await Robinhood.url(historicalDailyUrl);
+            return (historicals.length) ? historicals : null;
+        })();
 
         let lastDay;
         // console.log('of', ofInterest);

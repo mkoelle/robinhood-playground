@@ -1,6 +1,8 @@
 // starts attempting to sell at 100% of current stock price
 // every attempt it goes down from there until it successfully gets sold or it reaches MIN_SELL_RATIO
 
+const keepers = require('../keepers');
+
 const limitSellLastTrade = require('../rh-actions/limit-sell-last-trade');
 const jsonMgr = require('../utils/json-mgr');
 
@@ -23,6 +25,11 @@ const addToDailyTransactions = async data => {
 
 module.exports = async (Robinhood, { ticker, quantity }) => {
 
+    if (keepers.includes(ticker)) {
+        console.log('ticker on keeper list', ticker);
+        return;
+    }
+
     let curSellRatio = 1.0;
     let attemptCount = 0;
 
@@ -32,7 +39,7 @@ module.exports = async (Robinhood, { ticker, quantity }) => {
         console.log('attempting ', curSellRatio, ticker);
         const curPrice = (await lookup(ticker)).currentPrice;
         const bidPrice = curPrice * curSellRatio;
-        await limitSellLastTrade(
+        const res = await limitSellLastTrade(
             Robinhood,
             {
                 ticker,
@@ -40,6 +47,12 @@ module.exports = async (Robinhood, { ticker, quantity }) => {
                 bidPrice
             }
         );
+
+        if (!res || res.detail)  {
+            // dont log transaction if failed
+            console.log('failed purchasing', ticker);
+            return;
+        }
 
         setTimeout(async () => {
 
