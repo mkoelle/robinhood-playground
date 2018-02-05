@@ -28,8 +28,6 @@ module.exports = async (Robinhood) => {
     hist.forEach(h => {
         portfolioCache[h.date] = h.close;
     });
-    console.log(hist.reverse());
-    hist.reverse();
 
     // log it
     // try {

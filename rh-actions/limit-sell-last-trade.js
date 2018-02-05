@@ -1,6 +1,6 @@
 const jsonMgr = require('../utils/json-mgr');
 // const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
-const { lookup } = require('yahoo-stocks');
+const lookup = require('../utils/lookup');
 
 const boughtThisStockToday = async ticker => {
     const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
@@ -22,15 +22,13 @@ module.exports = async (Robinhood, {
         return null;
     }
 
-    const quoteData = await Robinhood.quote_data(ticker);
-    var {
-        last_trade_price: lastTrade,
+    const {
+        yahooPrice,
+        lastTrade,
         instrument
-    } = quoteData.results[0];
+    } = (await lookup(ticker, Robinhood));
+    bidPrice = bidPrice || yahooPrice || lastTrade;
 
-    if (!bidPrice) {
-        bidPrice = (await lookup(ticker)).currentPrice || lastTrade;
-    }
     bidPrice = +(Number(bidPrice).toFixed(2));
 
     var options = {

@@ -2,7 +2,7 @@ const jsonMgr = require('../utils/json-mgr');
 // const avgArray = require('../utils/avg-array');
 
 // const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
-const { lookup } = require('yahoo-stocks');
+const lookup = require('../utils/lookup');
 
 const alreadySoldThisStockToday = async ticker => {
     const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
@@ -26,11 +26,6 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
 
 
         const quoteData = await Robinhood.quote_data(ticker);
-        let {
-            last_trade_price: lastTrade,
-            instrument,
-            // ask_price: askPrice
-        } = quoteData.results[0];
 
         //
         // const impNums = [
@@ -39,9 +34,12 @@ const limitBuyLastTrade = async (Robinhood, { ticker, maxPrice, quantity, bidPri
         // ].map(val => Number(val)).filter(val => val > 0);
         //
         // let bidPrice = avgArray(impNums);
-        if (!bidPrice) {
-            bidPrice = (await lookup(ticker)).currentPrice || lastTrade;
-        }
+        const {
+            yahooPrice,
+            lastTrade,
+            instrument
+        } = (await lookup(ticker, Robinhood));
+        bidPrice = bidPrice || yahooPrice || lastTrade;
 
         bidPrice = +(Number(bidPrice).toFixed(2));
 

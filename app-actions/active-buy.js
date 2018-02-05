@@ -4,7 +4,7 @@
 const limitBuyLastTrade = require('../rh-actions/limit-buy-last-trade');
 const jsonMgr = require('../utils/json-mgr');
 
-const { lookup } = require('yahoo-stocks');
+const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 
 
@@ -31,7 +31,8 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
 
         attemptCount++;
         console.log('attempting ', curBuyRatio, ticker, 'ratio', curBuyRatio);
-        const curPrice = (await lookup(ticker)).currentPrice;
+        const { yahooPrice, lastTrade } = (await lookup(ticker, Robinhood));
+        const curPrice = yahooPrice || lastTrade;
         const bidPrice = curPrice * curBuyRatio;
         const quantity = Math.floor(maxPrice / bidPrice);
         if (!quantity) {
