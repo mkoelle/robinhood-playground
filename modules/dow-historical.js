@@ -1,29 +1,22 @@
-const getTrendAndSave = require('../app-actions/get-trend-and-save');
-const login = require('../rh-actions/login');
+const DISABLED = true; // records picks but does not purchase
+
+// utils
+const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
+const getUpStreak = require('../app-actions/get-up-streak');
+const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
+const executeStrategy = require('../app-actions/execute-strategy');
+const addOvernightJump = require('../app-actions/add-overnight-jump');
+const getTrend = require('../utils/get-trend');
+const avgArray = require('../utils/avg-array');
 
 const mapLimit = require('promise-map-limit');
 
-let Robinhood;
+const trendFilter = async (Robinhood, trend) => {
 
-const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
-const addOvernightJump = require('../app-actions/add-overnight-jump');
-const getUpStreak = require('../app-actions/get-up-streak');
-const avgArray = require('../utils/avg-array');
-const getTrend = require('../utils/get-trend');
+    var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+    const todaysDay = days[(new Date()).getDay() + 1];
+    console.log('todays day', todaysDay);
 
-const getHistorical = async ticker => {
-    const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
-    let { historicals } = await Robinhood.url(historicalDailyUrl);
-    return (historicals.length) ? historicals : [];
-};
-
-
-(async () => {
-
-    Robinhood = await login();
-
-    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json');
-    let trend = await getTrendAndSave(Robinhood);
     let cheapBuys = trend
         .filter(stock => {
             return Number(stock.quote_data.last_trade_price) > 5 && Number(stock.quote_data.last_trade_price) < 6;
@@ -37,7 +30,7 @@ const getHistorical = async ticker => {
     //     .map(stock => stock.symbol);
 
 
-    console.log('getting historicals', cheapBuys);
+    // console.log('getting historicals', cheapBuys);
 
     let allHistoricals = await getMultipleHistoricals(
         Robinhood,
@@ -56,9 +49,6 @@ const getHistorical = async ticker => {
             console.log('historical', curIndex, 'of', withHistoricals.length);
         }
         curIndex++;
-
-
-        var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
         let prehistoricals = buy.historicals || [];
 
@@ -87,7 +77,7 @@ const getHistorical = async ticker => {
 
         });
 
-        console.log(historicals,'hist');
+        // console.log(historicals,'hist');
 
         return {
             ...buy,
@@ -119,55 +109,36 @@ const getHistorical = async ticker => {
         withHistoricals.map(buy => buy.dowAgg)
     )
         .filter(agg => agg.percUp && agg.avgToday && agg.count > 5)
-        .filter(agg => agg.day === 'Friday');
-
-
+        .filter(agg => agg.day === todaysDay);
 
     let sortedByPercUp = onlyAggs
         .sort((a, b) => b.percUp - a.percUp)
-        .slice(0, 20);
-
-
-    const addWentUp = aggregate => {
-        return aggregate.map(agg => {
-            const relBuy = withHistoricals.find(buy => agg.ticker === buy.ticker);
-            if (!relBuy.historicals) { return agg; }
-            const todayHist = relBuy.historicals[relBuy.historicals.length - 1];
-            return {
-                ...agg,
-                todayHist,
-                todayUpstreak: todayHist.upstreak,
-                wentUp: Number(todayHist.close_price) > Number(todayHist.open_price)
-            };
-        });
-    };
-
-    sortedByPercUp = addWentUp(sortedByPercUp);
-
+        .slice(0, 15)
+        .map(agg => agg.ticker);
 
     let sortedByAvgToday = onlyAggs
         .sort((a, b) => b.avgToday - a.avgToday)
-        .slice(0, 20);
+        .slice(0, 15)
+        .map(agg => agg.ticker);
 
-    sortedByAvgToday = addWentUp(sortedByAvgToday);
-
-    console.log('\nsortedByPercUp');
-    console.log(JSON.stringify(sortedByPercUp, null, 2));
-
-    console.log('\nsortedByAvgToday');
-    console.log(JSON.stringify(sortedByAvgToday, null, 2));
-
-
-    const breakdown = aggregate => {
-        const activeUp = aggregate.filter(agg => agg.todayUpstreak > 1);
-        const wentUp = activeUp.filter(agg => agg.wentUp);
-        console.log('activeUp', activeUp.length);
-        console.log('wentUp', wentUp.length);
-        console.log((wentUp / activeUp));
+    return {
+        sortedByAvgToday,
+        sortedByPercUp
     };
+};
 
-    breakdown(sortedByPercUp);
-    breakdown(sortedByAvgToday);
+const dowHistorical = {
+    trendFilter,
+    init: Robinhood => {
+        // runs at init
+        regCronIncAfterSixThirty(Robinhood, {
+            name: 'execute dow-historical strategy',
+            run: [13, 73, 196, 927], // 10:41am, 11:31am
+            fn: async (Robinhood, min) => {
+                await executeStrategy(Robinhood, trendFilter, min, 0.3, 'dow-historical', DISABLED);
+            }
+        });
+    }
+};
 
-
-})();
+module.exports = dowHistorical;
