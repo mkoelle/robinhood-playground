@@ -1,0 +1,112 @@
+{
+  "12": [
+    {
+      "ticker": "CEI",
+      "price": 0.0909
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2602
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2749
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2501
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.14
+    }
+  ],
+  "75": [
+    {
+      "ticker": "MNGA",
+      "price": 1.39
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.0915
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2621
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2594
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1161
+    }
+  ],
+  "120": [
+    {
+      "ticker": "MNGA",
+      "price": 1.44
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2499
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.25
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3145
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2134
+    }
+  ],
+  "180": [
+    {
+      "ticker": "MNGA",
+      "price": 1.37
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2533
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2475
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7102
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.317
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MNGA",
+      "price": 1.26
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2499
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.25
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3178
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.72
+    }
+  ]
+}

@@ -41,11 +41,11 @@ const additionalCronConfig = [
     //     fn: sellAllIfWentUp
     // },
     // sell all if went up
-    // {
-    //     name: 'sellAllStocks',
-    //     run: [330],   // 12pm
-    //     fn: sellAllStocks
-    // },
+    {
+        name: 'sellAllStocks',
+        run: [26],   // 12pm
+        fn: sellAllStocks
+    },
     // log port value
     // {
     //     name: 'log the portfolio value',

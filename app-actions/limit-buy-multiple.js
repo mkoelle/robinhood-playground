@@ -14,6 +14,7 @@ module.exports = async (Robinhood, {stocksToBuy, totalAmtToSpend, strategy, maxN
     let failedStocks = [];
     for (let stock of stocksToBuy) {
         const perStock = amtToSpendLeft / (maxNumStocksToPurchase - numPurchased);
+        console.log(perStock, 'purchasng ', stock);
         try {
             const response = await activeBuy(Robinhood, {
                 ticker: stock,
