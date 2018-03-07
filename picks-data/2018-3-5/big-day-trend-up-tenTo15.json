@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "DRIP",
+      "price": 13.6452
+    },
+    {
+      "ticker": "CLSD",
+      "price": 11.905
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CLSD",
+      "price": 11.188
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.8844
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CLSD",
+      "price": 10.42
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.14
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.66
+    },
+    {
+      "ticker": "WTID",
+      "price": 12.74
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.8064
+    }
+  ]
+}

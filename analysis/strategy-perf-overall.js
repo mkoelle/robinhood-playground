@@ -40,7 +40,7 @@ class HashTable {
 
 
 
-    let threeMostRecent = sortedFiles.slice(-2);
+    let threeMostRecent = sortedFiles.slice(-6);
     console.log(threeMostRecent);
 
     const stratResults = new HashTable();
@@ -86,24 +86,31 @@ class HashTable {
 
     // console.log('all', allPerfs)
 
-    const sortedFiltered = allPerfs
-        .filter(perf => perf.count >= 3)
-        // .filter(perf => !perf.trends.some(t => t < 0))
+    const withoutPerms = allPerfs
+        .filter(({ strategyName }) => {
+            const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
+            return !['single', 'first3'].includes(lastChunk);
+        })
+        .filter(perf => perf.count >= 3);
+
+    const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends }) => ({
+        name: strategyName + '-' + buyMin,
+        avgTrend,
+        trends: trends.map(t => Math.round(t)),
+        percUp: trends.filter(t => t > 0).length / trends.length
+    }));
+
+    const sortedByAvgTrend = withData
         .sort((a, b) => b.avgTrend - a.avgTrend);
 
     // console.log(sortedFiltered);
 
+    const sortedByPercUp = withData
+        .filter(t => t.trends.filter(trend => trend < 0).length < 6)
+        .sort((a, b) => b.percUp - a.percUp);
 
-    console.table(
-        sortedFiltered
-            .filter(({ strategyName }) => {
-                const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
-                return !['single', 'first3'].includes(lastChunk);
-            })
-            .map(({ strategyName, avgTrend, buyMin }) => ({
-                name: strategyName + '-' + buyMin,
-                avgTrend
-            }))
-    );
+
+    console.table(sortedByAvgTrend);
+    console.table(sortedByPercUp);
 
 })();

@@ -1,0 +1,34 @@
+{
+  "200": [
+    {
+      "ticker": "ARL",
+      "price": 12.7
+    },
+    {
+      "ticker": "HMTV",
+      "price": 11.4228
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBAY",
+      "price": 14.35
+    },
+    {
+      "ticker": "ARL",
+      "price": 12.685
+    },
+    {
+      "ticker": "HMTV",
+      "price": 11.4
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.16
+    },
+    {
+      "ticker": "KEG",
+      "price": 14.525
+    }
+  ]
+}

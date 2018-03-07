@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "MRSN",
+      "price": 14.2
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.65
+    },
+    {
+      "ticker": "TZA",
+      "price": 12.0716
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 13.87
+    },
+    {
+      "ticker": "SMDD",
+      "price": 10.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRSN",
+      "price": 14.18
+    },
+    {
+      "ticker": "TZA",
+      "price": 11.99
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.75
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 13.56
+    },
+    {
+      "ticker": "SMDD",
+      "price": 10.31
+    }
+  ]
+}

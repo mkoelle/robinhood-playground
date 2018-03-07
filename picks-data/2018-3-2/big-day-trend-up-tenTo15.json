@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "AFH",
+      "price": 11
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.65
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 10.1613
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.1244
+    },
+    {
+      "ticker": "TZA",
+      "price": 12.265
+    }
+  ],
+  "35": [
+    {
+      "ticker": "AFH",
+      "price": 11.2
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 10.059
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.65
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.9667
+    },
+    {
+      "ticker": "TZA",
+      "price": 12.2148
+    }
+  ],
+  "90": [
+    {
+      "ticker": "AFH",
+      "price": 10.95
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 10.101
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.7
+    },
+    {
+      "ticker": "EHTH",
+      "price": 14.57
+    },
+    {
+      "ticker": "TZA",
+      "price": 12.2692
+    }
+  ],
+  "223": [
+    {
+      "ticker": "MRSN",
+      "price": 14.25
+    },
+    {
+      "ticker": "AFH",
+      "price": 11.075
+    },
+    {
+      "ticker": "EHTH",
+      "price": 13.87
+    },
+    {
+      "ticker": "DRIP",
+      "price": 14.08
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.7601
+    }
+  ]
+}
