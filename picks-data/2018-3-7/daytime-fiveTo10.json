@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "RUN",
+      "price": 6.72
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.12
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.1
+    },
+    {
+      "ticker": "IAF",
+      "price": 6.3101
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.3101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RUN",
+      "price": 6.775
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.05
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.1
+    },
+    {
+      "ticker": "IAF",
+      "price": 6.28
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.875
+    }
+  ]
+}

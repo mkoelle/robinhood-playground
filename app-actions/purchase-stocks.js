@@ -8,7 +8,7 @@ const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier }) 
     const cashAvailable = Number(accounts.results[0].sma) - 1000;
     // const totalAmtToSpend = cashAvailable * ratioToSpend;
 
-    const amountPerBuy = 20 * multiplier;
+    const amountPerBuy = 12 * multiplier;
     const totalAmtToSpend = Math.min(amountPerBuy, cashAvailable);
     if (totalAmtToSpend < 10) {
         return console.log('not purchasing less than $10 to spend', strategy);

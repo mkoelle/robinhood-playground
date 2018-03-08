@@ -40,7 +40,7 @@ class HashTable {
 
 
 
-    let threeMostRecent = sortedFiles.slice(-6);
+    let threeMostRecent = sortedFiles.slice(-2);
     console.log(threeMostRecent);
 
     const stratResults = new HashTable();
@@ -103,14 +103,17 @@ class HashTable {
     const sortedByAvgTrend = withData
         .sort((a, b) => b.avgTrend - a.avgTrend);
 
-    // console.log(sortedFiltered);
+    // console.log(sortedByAvgTrend);
+    console.log('sorted by avg trend')
+    console.table(sortedByAvgTrend);
 
     const sortedByPercUp = withData
-        .filter(t => t.trends.filter(trend => trend < 0).length < 6)
+        // .filter(t => t.trends.filter(trend => trend < 0).length < 8)
         .sort((a, b) => b.percUp - a.percUp);
 
 
-    console.table(sortedByAvgTrend);
+
+    console.log('sorted by perc up')
     console.table(sortedByPercUp);
 
 })();
