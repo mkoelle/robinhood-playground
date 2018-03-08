@@ -1,8 +1,11 @@
+const appConfig = require('../../config');
+const { stockinvestapi } = appConfig;
+
 const config = {
-    RUN: [7, 60, 123, 263],
+    RUN: [7, 60, 123, 263, 1078],
     QUERIES: {
-        top100: 'https://stockinvest.us/list/buy/top100',
-        undervalued: 'https://stockinvest.us/list/undervalued'
+        top100: stockinvestapi.topBuy || 'https://stockinvest.us/list/buy/top100',
+        undervalued: stockinvestapi.undervalued || 'https://stockinvest.us/list/undervalued'
     }
 };
 const scrapeStockInvest = async (browser, url) => {
@@ -45,5 +48,20 @@ const scrapeStockInvest = async (browser, url) => {
 
 module.exports = {
     config,
-    scrapeFn: scrapeStockInvest
+    scrapeFn: async (browser, url) => {
+        if (stockinvestapi) {
+            const page = await browser.newPage();
+            await page.goto(url);
+            const bodyText = await page.evaluate(() => document.body.innerText);
+            console.log(bodyText);
+            let results = JSON.parse(bodyText); // array of objects
+            results = results
+                .filter(result => result.price < 6)
+                .map(result => result.tick);
+            console.log('results', results);
+            return results;
+        } else {
+            return await scrapeStockInvest(browser, url);
+        }
+    }
 };
