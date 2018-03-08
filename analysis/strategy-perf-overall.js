@@ -40,7 +40,7 @@ class HashTable {
 
 
 
-    let threeMostRecent = sortedFiles.slice(-2);
+    let threeMostRecent = sortedFiles.slice(-9);
     console.log(threeMostRecent);
 
     const stratResults = new HashTable();

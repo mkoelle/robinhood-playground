@@ -48,35 +48,54 @@
 
 
 module.exports = [
+    // fizbiz
+    'fizbiz-under5TopLosers-75',
     'fizbiz-under5TopLosers-120',
     'fizbiz-under5TopLosers-120',
-    'stockinvest-undervalued-123',
-    'stockinvest-undervalued-123',
+
+    'fizbiz-under5Target10Change2Vol200-2',
     'fizbiz-under5Target10Change2Vol200-2',
     'fizbiz-under5Target10Change2Vol200Within10of52Low-2',
     'fizbiz-under5Target10Change2Vol200Within10of52Low-75',
+
     'fizbiz-nanoEarlyRunners-2',
     'fizbiz-nanoEarlyRunners-12',
     'fizbiz-nanoEarlyRunners-12',
     'fizbiz-nanoEarlyRunners-12',
     'fizbiz-nanoEarlyRunners-12',
     'fizbiz-nanoEarlyRunners-380',
+
+    // stockinvest
+    'stockinvest-undervalued-123',
+    'stockinvest-undervalued-123',
+    'stockinvest-undervalued-60',
+
+    // upstreak
     '<$3-upstreak-3-up1overnight-189',
     '<$3-upstreak-3-up1overnight-189',
-    'fizbiz-under5TopLosers-75',
+
+    // swings
     'swings-fiveTo10-193',
-    'based-on-jump-fiveTo10-30',
-    'based-on-jump-fiveTo10-5',
-    'based-on-jump-tenTo15-30',
-    'based-on-jump-tenTo15-30',
     'swings-fiveTo10-253',
+
+    // week-swings
     'week-swings-1',
     'week-swings-273',
     'week-swings-169',
     'week-swings-tenTo15-1',
+    'week-swings-tenTo15-1',
+    'week-swings-tenTo15-273',
     'week-swings-tenTo15-273',
     'week-swings-tenTo15-169',
+    'week-swings-tenTo15-169',
+
+    // based on jump
+    'based-on-jump-fiveTo10-30',
+    'based-on-jump-fiveTo10-5',
+    'based-on-jump-tenTo15-30',
+    'based-on-jump-tenTo15-30',
+
+    // bid day trend up
     'big-day-trend-up-tenTo15-90',
-    'stockinvest-undervalued-60',
-    'fizbiz-under5Target10Change2Vol200-2',
+    'big-day-trend-up-tenTo15-90',
 ];
