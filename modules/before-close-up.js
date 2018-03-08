@@ -34,7 +34,7 @@ const trendFilter = async (Robinhood, trend) => {
     // console.log('> 5% below max of year', cheapBuys.filter(buy => buy.percMax < -5).length);
     trendingAbove4 = trendingAbove4.filter(buy => buy.trendingUp);
 
-    console.log('trendingAbove4', trendingAbove4, trendingAbove4.length);
+    console.log('trendingAbove4', trendingAbove4.length);
 
     return trendingAbove4
         .sort((a, b) => b.trend_since_prev_close - a.trend_since_prev_close)

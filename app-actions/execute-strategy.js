@@ -1,4 +1,4 @@
-const cancelAllOrders = require('../rh-actions/cancel-all-orders');
+// const cancelAllOrders = require('../rh-actions/cancel-all-orders');
 const getTrendAndSave = require('./get-trend-and-save');
 // const purchaseStocks = require('./purchase-stocks');
 const recordPicks = require('./record-picks');
@@ -9,7 +9,6 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
         await recordPicks(Robinhood, strategyName, min, stocks);
     };
 
-    await cancelAllOrders(Robinhood);
     const trend = await getTrendAndSave(Robinhood, min + '*');
 
     const pricePerms = {

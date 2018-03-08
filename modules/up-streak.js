@@ -5,7 +5,6 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const recordPicks = require('../app-actions/record-picks');
 
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
-const getUpStreak = require('../app-actions/get-up-streak');
 const limitBuyMultiple = require('../app-actions/limit-buy-multiple');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 
@@ -33,9 +32,6 @@ const perms = [
 ];
 
 const upstreakStrategy = async (Robinhood, min) => {
-
-
-    await cancelAllOrders(Robinhood);
 
     // get trend, filter < $15, add upstreak
     const trend = await getTrendAndSave(Robinhood, min + '*');

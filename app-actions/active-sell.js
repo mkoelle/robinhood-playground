@@ -86,7 +86,7 @@ module.exports = (Robinhood, { ticker, quantity }) => {
                         } else {
                             const errMessage = 'reached MIN_SELL_RATIO, unable to sell';
                             console.log(errMessage, ticker);
-                            reject(errMessage);
+                            return reject(errMessage);
                         }
                     } else {
 

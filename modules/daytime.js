@@ -49,7 +49,7 @@ const trendFilter = async (Robinhood, trend) => {
         buy => !buy.shouldWatchout && buy.trendingUp
     );
 
-    console.log(withTrendingUp, withTrendingUp.length);
+    console.log('final length num count', withTrendingUp.length);
     return withTrendingUp.map(stock => stock.ticker);
 };
 

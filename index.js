@@ -38,7 +38,7 @@ const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
         .filter(stock => stock.tradeable)
         .map(stock => stock.symbol);
 
-    // await cancelAllOrders(Robinhood);
+    await cancelAllOrders(Robinhood);
 
     await logPortfolioValue(Robinhood);
 
