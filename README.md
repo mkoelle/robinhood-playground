@@ -7,10 +7,12 @@ this repo is a Node.js stock scanner with Robinhood integration currently focuse
 `npm install`
 
 create a config.json or config.js file that exports an object 
-```{
+```
+{
   username: 'robinhoodusername',
   password: 'robinhoodpassword'
-}```
+}
+```
 
 `npm start`
 
