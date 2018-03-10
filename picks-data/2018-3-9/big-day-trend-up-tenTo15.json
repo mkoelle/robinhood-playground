@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "YEXT",
+      "price": 12.58
+    },
+    {
+      "ticker": "UMH",
+      "price": 11.61
+    },
+    {
+      "ticker": "CIO",
+      "price": 11.03
+    }
+  ],
+  "35": [
+    {
+      "ticker": "YEXT",
+      "price": 12.269
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.075
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.38
+    },
+    {
+      "ticker": "MBIO",
+      "price": 11.0223
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.4
+    }
+  ],
+  "90": [
+    {
+      "ticker": "INOV",
+      "price": 11.925
+    },
+    {
+      "ticker": "YEXT",
+      "price": 12.41
+    },
+    {
+      "ticker": "SEAS",
+      "price": 14.52
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.385
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.24
+    }
+  ],
+  "223": [
+    {
+      "ticker": "INOV",
+      "price": 11.7
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.03
+    },
+    {
+      "ticker": "SEAS",
+      "price": 14.505
+    },
+    {
+      "ticker": "YEXT",
+      "price": 12.54
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.365
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "INAP",
+      "price": 13.63
+    },
+    {
+      "ticker": "KRNT",
+      "price": 13.95
+    }
+  ],
+  "35": [
+    {
+      "ticker": "INAP",
+      "price": 13.17
+    },
+    {
+      "ticker": "GSUM",
+      "price": 10.49
+    }
+  ],
+  "90": [
+    {
+      "ticker": "INAP",
+      "price": 13.3
+    },
+    {
+      "ticker": "CATO",
+      "price": 11.84
+    },
+    {
+      "ticker": "KRNT",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 11.19
+    },
+    {
+      "ticker": "GDP",
+      "price": 10.551
+    }
+  ],
+  "223": [
+    {
+      "ticker": "INAP",
+      "price": 12.74
+    },
+    {
+      "ticker": "SNMP",
+      "price": 10.2
+    },
+    {
+      "ticker": "GSUM",
+      "price": 10.32
+    },
+    {
+      "ticker": "CORI",
+      "price": 11.81
+    },
+    {
+      "ticker": "CATO",
+      "price": 11.97
+    }
+  ]
+}

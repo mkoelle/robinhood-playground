@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "CLBS",
+      "price": 5.42
+    },
+    {
+      "ticker": "SEII",
+      "price": 5.0555
+    },
+    {
+      "ticker": "NDLS",
+      "price": 6.95
+    },
+    {
+      "ticker": "DL",
+      "price": 9.4979
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLBS",
+      "price": 5.3952
+    },
+    {
+      "ticker": "SEII",
+      "price": 5.06
+    },
+    {
+      "ticker": "NDLS",
+      "price": 6.8355
+    },
+    {
+      "ticker": "DL",
+      "price": 9.4205
+    },
+    {
+      "ticker": "PCYO",
+      "price": 8.5
+    }
+  ]
+}

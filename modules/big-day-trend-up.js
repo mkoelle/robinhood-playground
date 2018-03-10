@@ -41,7 +41,7 @@ const trendFilter = async (Robinhood, trend) => {
         buy => !buy.shouldWatchout && buy.percMax < -8
     );
 
-    console.log(withDetails, withDetails.length);
+    console.log('count', withDetails.length);
     return withDetails
         .sort((a, b) => b.trendSinceOpen - a.trendSinceOpen)
         .slice(0, 5)    // top five trending up

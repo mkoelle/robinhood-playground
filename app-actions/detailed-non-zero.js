@@ -15,6 +15,6 @@ module.exports = async (Robinhood) => {
             ...lookupObj,
         };
     });
-    console.log('made it', withTicks);
+    // console.log('made it', withTicks);
     return withTicks;
 };

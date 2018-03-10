@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "SEII",
+      "price": 5.431
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.5
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.7375
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.759
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SEII",
+      "price": 5.09
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.85
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.9557
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SEII",
+      "price": 5.1
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.4173
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.24
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.95
+    }
+  ]
+}

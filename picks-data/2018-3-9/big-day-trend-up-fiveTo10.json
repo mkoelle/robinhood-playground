@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "GDP",
+      "price": 9.9499
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.1
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.2612
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.84
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 8.16
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SCX",
+      "price": 7.3684
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.0972
+    },
+    {
+      "ticker": "PIRS",
+      "price": 7.0902
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.78
+    },
+    {
+      "ticker": "FNKO",
+      "price": 8.61
+    }
+  ],
+  "90": [
+    {
+      "ticker": "PIRS",
+      "price": 6.68
+    },
+    {
+      "ticker": "SCX",
+      "price": 7.29
+    },
+    {
+      "ticker": "FNKO",
+      "price": 8.2275
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.08
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.68
+    }
+  ],
+  "223": [
+    {
+      "ticker": "SCX",
+      "price": 7.3
+    },
+    {
+      "ticker": "FNKO",
+      "price": 8.39
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.64
+    },
+    {
+      "ticker": "PIRS",
+      "price": 7.0986
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.19
+    }
+  ]
+}

@@ -5,11 +5,13 @@ const getMinutesFrom630 = require('../utils/get-minutes-from-630');
 const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier }) => {
     const accounts = await Robinhood.accounts();
     // const ratioToSpend = Math.max(0.3, getMinutesFrom630() / 390);
-    const cashAvailable = Number(accounts.results[0].sma) - 1000;
+    const cashAvailable = Number(accounts.results[0].sma);
     // const totalAmtToSpend = cashAvailable * ratioToSpend;
 
-    const amountPerBuy = 12 * multiplier;
+    const amountPerBuy = 18 * multiplier;
     const totalAmtToSpend = Math.min(amountPerBuy, cashAvailable);
+    console.log('multiplier', multiplier, 'amountPerBuy', amountPerBuy, 'totalAmtToSpend', totalAmtToSpend);
+
     if (totalAmtToSpend < 10) {
         return console.log('not purchasing less than $10 to spend', strategy);
     }

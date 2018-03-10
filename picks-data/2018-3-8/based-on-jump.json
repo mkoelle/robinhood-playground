@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "IMUC",
+      "price": 0.3239
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.19
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.3965
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3105
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.5838
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMUC",
+      "price": 0.3128
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.1667
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.3856
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.5698
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.1701
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMUC",
+      "price": 0.3152
+    },
+    {
+      "ticker": "GNCA",
+      "price": 1.1806
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.385
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.565
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.19
+    }
+  ]
+}
