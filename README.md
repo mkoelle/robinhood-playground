@@ -35,3 +35,10 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 --
 
 `node analysis/run past-on-today` - look at strategy-perf-overall... if you were to have enabled the top 10 avgPerc and top 10 percUp strategies, how well would they have done today?
+
+
+## todo
+
+* integrate this electron front-end https://github.com/chiefsmurph/johns-electron-playground
+* fix filenames saved with `<` character (see https://github.com/chiefsmurph/robinhood-playground/issues/4)
+* make it profitable
