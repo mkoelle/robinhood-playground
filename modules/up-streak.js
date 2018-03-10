@@ -4,9 +4,12 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 // app-actions
 const recordPicks = require('../app-actions/record-picks');
 
+const executeStrategy = require('../app-actions/execute-strategy');
+
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const limitBuyMultiple = require('../app-actions/limit-buy-multiple');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
+const getUpStreak = require('../app-actions/get-up-streak');
 
 const cancelAllOrders = require('../rh-actions/cancel-all-orders');
 
@@ -15,12 +18,12 @@ const mapLimit = require('promise-map-limit');
 
 const perms = [
     {
-        name: '<$3-upstreak-3',
+        name: 'lt$3-upstreak-3',
         priceFilter: price => price < 3,
         upstreak: 3
     },
     {
-        name: '<$3-upstreak-4',
+        name: 'lt$3-upstreak-4',
         priceFilter: price => price < 3,
         upstreak: 4
     },
@@ -31,10 +34,7 @@ const perms = [
     }
 ];
 
-const upstreakStrategy = async (Robinhood, min) => {
-
-    // get trend, filter < $15, add upstreak
-    const trend = await getTrendAndSave(Robinhood, min + '*');
+const trendFilter = async (Robinhood, trend) => {
 
     const under5 = trend.filter(stock => {
         return Number(stock.quote_data.last_trade_price) < 5;
@@ -48,7 +48,7 @@ const upstreakStrategy = async (Robinhood, min) => {
     console.log('with upstreak')
     console.log(withUpstreak);
 
-
+    const returnData = {};
     for (let perm of perms) {
 
 
@@ -64,7 +64,8 @@ const upstreakStrategy = async (Robinhood, min) => {
         //     totalAmtToSpend: 100,
         //     strategy: perm.name
         // });
-        await recordPicks(Robinhood, perm.name, min, meetsUpstreak.map(t => t.ticker));
+        // await recordPicks(Robinhood, perm.name, min, meetsUpstreak.map(t => t.ticker));
+        returnData[perm.name] = meetsUpstreak.map(t => t.ticker);
 
         let withOvernightJump = await addOvernightJump(Robinhood, meetsUpstreak);
         const upOneOvernight = withOvernightJump.filter(t => {
@@ -77,14 +78,15 @@ const upstreakStrategy = async (Robinhood, min) => {
         //     strategy: perm.name + '-up1overnight'
         // });
 
-        await recordPicks(Robinhood, perm.name + '-up1overnight', min, upOneOvernight.map(t => t.ticker));
-
+        // await recordPicks(Robinhood, perm.name + '-up1overnight', min, upOneOvernight.map(t => t.ticker));
+        returnData[perm.name + '-up1overnight'] = upOneOvernight.map(t => t.ticker);
     }
 
-
+    return returnData;
 };
 
 const up10days = {
+    trendFilter,
     init: (Robinhood) => {
 
         // runs at init
@@ -94,8 +96,8 @@ const up10days = {
                 name: 'execute up-streak strategy',
                 run: [45, 189],  // 12:31, 12:50pm
                 // run: [],
-                fn: (Robinhood, min) => setTimeout(() => {
-                    upstreakStrategy(Robinhood, min);
+                fn: (Robinhood, min) => setTimeout(async () => {
+                    await executeStrategy(Robinhood, trendFilter, min, 0.3, 'up-streak');
                 }, 5000)
             },
         );
