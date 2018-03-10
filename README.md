@@ -40,5 +40,6 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 ## todo
 
 * integrate this electron front-end https://github.com/chiefsmurph/johns-electron-playground
+* better integrate with pattern-predict 
 * fix filenames saved with `<` character (see https://github.com/chiefsmurph/robinhood-playground/issues/4)
 * make it profitable
