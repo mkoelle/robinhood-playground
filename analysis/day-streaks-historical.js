@@ -3,33 +3,31 @@ const login = require('../rh-actions/login');
 
 const mapLimit = require('promise-map-limit');
 
-let Robinhood;
-
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 const getUpStreak = require('../app-actions/get-up-streak');
+const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const avgArray = require('../utils/avg-array');
 const getTrend = require('../utils/get-trend');
 
-const getHistorical = async ticker => {
-    const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
-    let { historicals } = await Robinhood.url(historicalDailyUrl);
-    return (historicals.length) ? historicals : null;
-};
+
+module.exports = async (Robinhood) => {
+
+    const getHistorical = async ticker => {
+        const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
+        let { historicals } = await Robinhood.url(historicalDailyUrl);
+        return (historicals.length) ? historicals : null;
+    };
 
 
-(async () => {
-
-    Robinhood = await login();
-
-    let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json');
-    // let trend = await getTrendAndSave(Robinhood);
-
-    trend = await addOvernightJump(Robinhood, trend);
+    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-3-10 11:06:43 (+276).json');
+    let trend = await getTrendAndSave(Robinhood);
 
 
     let cheapBuys = trend.filter(stock => {
         return Number(stock.quote_data.last_trade_price) > 5 && Number(stock.quote_data.last_trade_price) < 15;
     });
+
+    cheapBuys = await addOvernightJump(Robinhood, cheapBuys);
 
     // var allTickers = require('../stock-data/allStocks');
     // allTickers = allTickers
@@ -150,4 +148,4 @@ const getHistorical = async ticker => {
     // console.log(JSON.stringify(cheapBuys[cheapBuys.length - 1], null, 2));
     console.log(JSON.stringify(aggResults, null, 2));
 
-})();
+};

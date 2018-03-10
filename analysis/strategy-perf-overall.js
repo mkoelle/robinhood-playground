@@ -1,8 +1,9 @@
-// gets current strategy performance of picks TODAY
+// gets current strategy performance of picks looking back n days
+const NUM_DAYS = 7;
+
 const cTable = require('console.table');
 
 const fs = require('mz/fs');
-const login = require('../rh-actions/login');
 const { analyzeDay } = require('../app-actions/record-strat-perfs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
@@ -28,9 +29,7 @@ class HashTable {
     }
 }
 
-(async () => {
-
-    Robinhood = await login();
+module.exports = async (Robinhood) => {
 
     let files = await fs.readdir('./strat-perfs');
 
@@ -38,9 +37,7 @@ class HashTable {
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-
-
-    let threeMostRecent = sortedFiles.slice(-9);
+    let threeMostRecent = sortedFiles.slice(NUM_DAYS);
     console.log(threeMostRecent);
 
     const stratResults = new HashTable();
@@ -101,7 +98,8 @@ class HashTable {
     }));
 
     const sortedByAvgTrend = withData
-        .sort((a, b) => b.avgTrend - a.avgTrend);
+        .sort((a, b) => b.avgTrend - a.avgTrend)
+        .slice(0);
 
     // console.log(sortedByAvgTrend);
     console.log('sorted by avg trend')
@@ -116,4 +114,9 @@ class HashTable {
     console.log('sorted by perc up')
     console.table(sortedByPercUp);
 
-})();
+    return {
+        sortedByAvgTrend,
+        sortedByPercUp
+    };
+
+};

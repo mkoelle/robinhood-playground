@@ -14,8 +14,7 @@ const chunkApi = require('../utils/chunk-api');
 
 const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
 
-(async () => {
-    let Robinhood = await login();
+module.exports = async (Robinhood) => {
 
     let files = await fs.readdir('./daily-transactions');
 
@@ -104,4 +103,4 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
     console.log('\noverall')
     console.log(overallStats);
 
-})();
+};
