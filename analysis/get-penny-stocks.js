@@ -5,7 +5,7 @@ module.exports = async (Robinhood) => {
     let trend = await getTrendAndSave(Robinhood);
     const pennies = trend
         .filter(stock => {
-            return Number(stock.last_trade_price) < 2 && Number(stock.last_trade_price) > 0.3;
+            return Number(stock.last_trade_price) < 1;
         })
         // .map(stock => ({
         //     ticker: stock.ticker,
@@ -14,7 +14,10 @@ module.exports = async (Robinhood) => {
         // .sort((a, b) => Number(b.fundamentals.pe_ratio) - Number(a.fundamentals.pe_ratio))
         // .slice(0, 100)
         .sort((a, b) => Number(a.last_trade_price) - Number(b.last_trade_price))
-        .map(a => a.ticker);
+        .map(({ticker, last_trade_price}) => ({
+            ticker,
+            price: last_trade_price
+        }));
     console.log(JSON.stringify(pennies, null, 2))
     return pennies;
 };

@@ -1,59 +1,22 @@
-const getTrendAndSave = require('../app-actions/get-trend-and-save');
-const login = require('../rh-actions/login');
 const getTrend = require('../utils/get-trend');
+const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
+
+const executeStrategy = require('../app-actions/execute-strategy');
+const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
 
 const mapLimit = require('promise-map-limit');
 
-let Robinhood;
+const trendFilter = async (Robinhood, trend) => {
 
-const getHistorical = async ticker => {
-    const historicalDailyUrl = `https://api.robinhood.com/quotes/historicals/${ticker}/?interval=day`;
-    let { historicals } = await Robinhood.url(historicalDailyUrl);
-    return (historicals.length) ? historicals : [];
-};
+    let allHistoricals = await getMultipleHistoricals(
+        Robinhood,
+        trend.map(buy => buy.ticker)
+    );
 
-(async () => {
-
-    Robinhood = await login();
-
-    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-2-5 07:24:06 (+50).json');
-    let trend = await getTrendAndSave(Robinhood);
-
-
-    let cheapBuys = trend
-        .filter(stock => {
-            return Number(stock.quote_data.last_trade_price) < 15 &&
-                Number(stock.quote_data.last_trade_price) > .2;
-        });
-
-    let curIndex = 0;
-    const withHistoricals = await mapLimit(cheapBuys, 2, async buy => {
-
-        if (curIndex % Math.floor(cheapBuys.length / 10) === 0) {
-            console.log('historical', curIndex, 'of', cheapBuys.length);
-        }
-        curIndex++;
-
-        let historicals = await getHistorical(buy.ticker);
-        let prevClose;
-        historicals = historicals.map(hist => {
-            ['open_price', 'close_price', 'high_price', 'low_price'].forEach(key => {
-                hist[key] = Number(hist[key]);
-            });
-            if (prevClose) {
-                hist.trend = getTrend(hist.close_price, prevClose);
-            }
-            prevClose = hist.close_price;
-            return hist;
-        });
-
-        return {
-            // ticker: buy.ticker,
-            ...buy,
-            historicals,
-        };
-
-    });
+    let withHistoricals = trend.map((buy, i) => ({
+        ...buy,
+        historicals: allHistoricals[i]
+    }));
 
     const ofInterest = withHistoricals
         .filter(({historicals}) => historicals.length)
@@ -98,4 +61,31 @@ const getHistorical = async ticker => {
         .sort((a, b) => b.points - a.points);
 
     console.log(JSON.stringify(ofInterest, null, 2));
-})();
+
+    return ofInterest
+        .map(({ ticker }) => ({ ticker }));
+};
+
+
+const upsThenDowns = {
+    trendFilter,
+    init: (Robinhood) => {
+
+        // runs at init
+        regCronIncAfterSixThirty(
+            Robinhood,
+            {
+                name: 'execute ups-then-downs strategy',
+                run: [45, 189],  // 12:31, 12:50pm
+                // run: [],
+                fn: (Robinhood, min) => setTimeout(async () => {
+                    await executeStrategy(Robinhood, trendFilter, min, 0.3, 'up-streak');
+                }, 5000)
+            },
+        );
+
+    }
+};
+
+
+module.exports = upsThenDowns;
