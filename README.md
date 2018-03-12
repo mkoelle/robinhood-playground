@@ -18,6 +18,26 @@ module.exports = {
 
 `npm start`
 
+## tell me about the folders
+
+actions are divided up into "app-actions" and "rh-actions" (robinhood actions)
+
+modules are generally "strategies", but can be anything that runs at app init and using utils/reg-cron-after-630 something that gets run at various times of the day
+
+picks-data - each day a folder is created that saves the "picks" for each of the strategies / modules whenever they are run
+
+daily-transactions - the actual transactions that the program went ahead and bought or sold for each day
+
+stock-data - contains all the output of getTrendAndSave
+
+strat-perfs - when app-actions/record-strat-perfs is run, it calculates how well each of the strategies from the previous day have trended and averages them out, calculated at multiple times of the day as well
+
+shared-async and socket-server should be deleted
+
+## how does it work?
+
+strategies are mostly "trendFilter"s.  which just take in a Robinhood instance and the output of getTrendAndSave which contains all the tickers' quote_data and a few other things
+
 ## configuring
 
 all strategies (modules/*) are enabled to run at various times per day.  they run for every increment of $1-5, $5-10 and $10-15.
@@ -40,6 +60,6 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 ## todo
 
 * integrate this electron front-end https://github.com/chiefsmurph/johns-electron-playground
-* better integrate with pattern-predict 
+* better manage dependency on pattern-predict
 * fix filenames saved with `<` character (see https://github.com/chiefsmurph/robinhood-playground/issues/4)
 * make it profitable
