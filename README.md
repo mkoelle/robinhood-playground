@@ -34,9 +34,13 @@ strat-perfs - when app-actions/record-strat-perfs is run, it calculates how well
 
 shared-async and socket-server should be deleted
 
-## how does it work?
+## tell me more how does it work?
 
-strategies are mostly "trendFilter"s.  which just take in a Robinhood instance and the output of getTrendAndSave which contains all the tickers' quote_data and a few other things
+strategies are mostly "trendFilter"s.  which just take in a Robinhood instance and the output of getTrendAndSave which contains every tickers' quote_data and a few other things.  say a strategy is configured to run `[3, 10, 15, 90]`...that means that 15 minutes after opening bell (6:30am pacific), that strategy is not going to be run just once, but it will actually be run once for 0-$5, once for $5 - $10 and a third time for $10 - $15 - each time the trendFilter only containing the tickers whose last_trade_price are within that "price segment".
+
+when the strategy is run it returns a list of tickers (ie `[AAPL, GOOG, JAGX]`).  These "picks" are saved along with their current trading price in picks-data/[date]/[strategy-name]-[price-perm] as an object with their keys being the minute after opening bell of that particularly run.
+
+the program will actively purchase the strategies saved in strategies-enabled.js.  also the program sells half the holdings of each of the stocks it purchased after 1 day and it sells 100% of the shares after 2 days.
 
 ## configuring
 

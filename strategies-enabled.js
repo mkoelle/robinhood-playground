@@ -105,5 +105,5 @@ module.exports = [
     'dow-historical-sortedByAvgToday-fiveTo10-196',
     'dow-historical-sortedByPercUp-73',
 
-    'first-greens-tenTo15-190 '
+    'first-greens-tenTo15-190'
 ];
