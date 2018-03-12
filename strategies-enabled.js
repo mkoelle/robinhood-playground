@@ -94,8 +94,16 @@ module.exports = [
     'based-on-jump-fiveTo10-5',
     'based-on-jump-tenTo15-30',
     'based-on-jump-tenTo15-30',
+    'based-on-jump-tenTo15-16',
 
     // bid day trend up
     'big-day-trend-up-tenTo15-90',
     'big-day-trend-up-tenTo15-90',
+
+    'before-close-381',
+
+    'dow-historical-sortedByAvgToday-fiveTo10-196',
+    'dow-historical-sortedByPercUp-73',
+
+    'first-greens-tenTo15-190 '
 ];
