@@ -60,7 +60,6 @@ module.exports = [
 
     'fizbiz-nanoEarlyRunners-2',
     'fizbiz-nanoEarlyRunners-12',
-    'fizbiz-nanoEarlyRunners-75',
     'fizbiz-nanoEarlyRunners-380',
 
     // stockinvest
@@ -69,8 +68,8 @@ module.exports = [
     'stockinvest-top100-123',
 
     // upstreak
-    '<$3-upstreak-3-up1overnight-189',
-    '<$3-upstreak-3-up1overnight-189',
+    'upstreak-lt$3-upstreak-3-up1overnight-189',
+    'upstreak-lt$3-upstreak-3-up1overnight-189',
 
     // swings
     'swings-fiveTo10-193',
@@ -93,6 +92,7 @@ module.exports = [
     'based-on-jump-tenTo15-30',
     'based-on-jump-tenTo15-30',
     'based-on-jump-tenTo15-16',
+    'based-on-jump-tenTo15-5',
 
     // bid day trend up
     'big-day-trend-up-tenTo15-90',
