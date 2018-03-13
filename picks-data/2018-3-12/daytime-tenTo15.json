@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "MTG",
+      "price": 13.38
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.649
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.325
+    },
+    {
+      "ticker": "SXC",
+      "price": 11.65
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MTG",
+      "price": 13.405
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.058
+    },
+    {
+      "ticker": "SPOK",
+      "price": 15
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.9035
+    },
+    {
+      "ticker": "GRN",
+      "price": 14.65
+    }
+  ]
+}

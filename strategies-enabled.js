@@ -60,15 +60,13 @@ module.exports = [
 
     'fizbiz-nanoEarlyRunners-2',
     'fizbiz-nanoEarlyRunners-12',
-    'fizbiz-nanoEarlyRunners-12',
-    'fizbiz-nanoEarlyRunners-12',
-    'fizbiz-nanoEarlyRunners-12',
+    'fizbiz-nanoEarlyRunners-75',
     'fizbiz-nanoEarlyRunners-380',
 
     // stockinvest
     'stockinvest-undervalued-123',
-    'stockinvest-undervalued-123',
     'stockinvest-undervalued-60',
+    'stockinvest-top100-123',
 
     // upstreak
     '<$3-upstreak-3-up1overnight-189',

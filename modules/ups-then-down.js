@@ -76,10 +76,10 @@ const upsThenDowns = {
             Robinhood,
             {
                 name: 'execute ups-then-downs strategy',
-                run: [45, 189],  // 12:31, 12:50pm
+                run: [10, 45, 189, 280],  // 12:31, 12:50pm
                 // run: [],
                 fn: (Robinhood, min) => setTimeout(async () => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.3, 'up-streak');
+                    await executeStrategy(Robinhood, trendFilter, min, 0.3, 'ups-then-downs');
                 }, 5000)
             },
         );
