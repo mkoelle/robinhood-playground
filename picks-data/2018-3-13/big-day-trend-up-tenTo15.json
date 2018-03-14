@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "AKBA",
+      "price": 13.35
+    }
+  ],
+  "35": [
+    {
+      "ticker": "MPX",
+      "price": 14
+    },
+    {
+      "ticker": "AKBA",
+      "price": 13.2492
+    },
+    {
+      "ticker": "TOCA",
+      "price": 13.32
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.99
+    }
+  ],
+  "90": [
+    {
+      "ticker": "AKBA",
+      "price": 12.86
+    },
+    {
+      "ticker": "CORI",
+      "price": 11.745
+    },
+    {
+      "ticker": "TOCA",
+      "price": 13.3
+    }
+  ],
+  "223": [
+    {
+      "ticker": "AKBA",
+      "price": 12.84
+    },
+    {
+      "ticker": "CORI",
+      "price": 11.86
+    },
+    {
+      "ticker": "AP",
+      "price": 10.5
+    },
+    {
+      "ticker": "TOCA",
+      "price": 13.39
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.59
+    }
+  ]
+}

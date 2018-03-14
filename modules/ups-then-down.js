@@ -63,7 +63,7 @@ const trendFilter = async (Robinhood, trend) => {
     console.log(JSON.stringify(ofInterest, null, 2));
 
     return ofInterest
-        .map(({ ticker }) => ({ ticker }));
+        .map(({ ticker }) => ticker);
 };
 
 
