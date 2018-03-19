@@ -50,11 +50,11 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 
 ## analytics
 
-`node analysis/run day-report` - reports on how the purchases the app has made today have trended since they were purchased
+`node run analysis/day-report` - reports on how the purchases the app has made today have trended since they were purchased
 
-`node analysis/run strategy-perf-overall` - how have each of the strategies trended over the last 7 days?  by avgTrend and percUp
+`node run analysis/strategy-perf-overall` - how have each of the strategies trended over the last 7 days?  by avgTrend and percUp
 
-`node analysis/run strategy-perf-today` - of the strategies that have recorded picks today, how have they trended?
+`node run analysis/strategy-perf-today` - of the strategies that have recorded picks today, how have they trended?
 
 --
 
@@ -67,3 +67,6 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 * better manage dependency on pattern-predict
 * fix filenames saved with `<` character (see https://github.com/chiefsmurph/robinhood-playground/issues/4)
 * make it profitable
+
+* ups then downs variation: prevClose vs shiftedHist - is prevClose working troubleshoot?
+* cheapest 5 stocks, cheapest 10 stocks, cheapest 15 stocks
