@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 7;
+const NUM_DAYS = 3;
 
 const cTable = require('console.table');
 
@@ -37,8 +37,8 @@ module.exports = async (Robinhood) => {
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-    let threeMostRecent = sortedFiles.slice(NUM_DAYS);
-    console.log(threeMostRecent);
+    let threeMostRecent = sortedFiles.slice(0 - NUM_DAYS);
+    console.log('selected days', threeMostRecent);
 
     const stratResults = new HashTable();
     for (let day of threeMostRecent) {
@@ -84,10 +84,10 @@ module.exports = async (Robinhood) => {
     // console.log('all', allPerfs)
 
     const withoutPerms = allPerfs
-        .filter(({ strategyName }) => {
-            const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
-            return !['single', 'first3'].includes(lastChunk);
-        })
+        // .filter(({ strategyName }) => {
+        //     const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
+        //     return !['single', 'first3'].includes(lastChunk);
+        // })
         .filter(perf => perf.count >= 3);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, sellMin, trends }) => ({

@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "BYBK",
+      "price": 13.8
+    },
+    {
+      "ticker": "GRN",
+      "price": 14.53
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.45
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.375
+    },
+    {
+      "ticker": "BEL",
+      "price": 12.075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BYBK",
+      "price": 13.8
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12
+    },
+    {
+      "ticker": "AXL",
+      "price": 15.005
+    },
+    {
+      "ticker": "GRN",
+      "price": 14.6101
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.45
+    }
+  ]
+}

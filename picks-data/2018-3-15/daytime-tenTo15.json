@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "ASUR",
+      "price": 14.025
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.4684
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.64
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.64
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 12.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASUR",
+      "price": 13.87
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.4
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.545
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.64
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 12.571
+    }
+  ]
+}

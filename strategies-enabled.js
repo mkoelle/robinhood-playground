@@ -49,6 +49,8 @@
 
 module.exports = [
     // fizbiz
+    'fizbiz-under5TopLosers-2',
+    'fizbiz-under5TopLosers-12',
     'fizbiz-under5TopLosers-75',
     'fizbiz-under5TopLosers-120',
     'fizbiz-under5TopLosers-120',
@@ -60,6 +62,7 @@ module.exports = [
 
     'fizbiz-nanoEarlyRunners-2',
     'fizbiz-nanoEarlyRunners-12',
+    'fizbiz-nanoEarlyRunners-75',
     'fizbiz-nanoEarlyRunners-380',
 
     // stockinvest
@@ -68,9 +71,9 @@ module.exports = [
     'stockinvest-top100-123',
 
     // upstreak
-    'upstreak-lt$3-upstreak-3-up1overnight-189',
-    'upstreak-lt$3-upstreak-3-up1overnight-189',
-
+    'up-streak-lt$3-upstreak-3-up1overnight-189',
+    'up-streak-lt$3-upstreak-3-up1overnight-45',
+    'up-streak-lt$3-upstreak-4-up1overnight-45',
     // swings
     'swings-fiveTo10-193',
     'swings-fiveTo10-253',
@@ -89,17 +92,23 @@ module.exports = [
     // based on jump
     'based-on-jump-fiveTo10-30',
     'based-on-jump-fiveTo10-5',
+    'based-on-jump-fiveTo10-5',
+
     'based-on-jump-tenTo15-30',
     'based-on-jump-tenTo15-30',
     'based-on-jump-tenTo15-16',
+    'based-on-jump-tenTo15-16',
+    'based-on-jump-tenTo15-5',
     'based-on-jump-tenTo15-5',
 
     // bid day trend up
-    'big-day-trend-up-tenTo15-90',
+    'big-day-trend-up-tenTo15-10',
     'big-day-trend-up-tenTo15-90',
 
     'before-close-381',
 
+    'dow-historical-sortedByPercUp-tenTo15-13',
+    'dow-historical-sortedByPercUp-tenTo15-73',
     'dow-historical-sortedByAvgToday-fiveTo10-196',
     'dow-historical-sortedByPercUp-73',
 

@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "ticker": "DLPN",
+      "price": 3.25
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.8643
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.677
+    }
+  ],
+  "169": [
+    {
+      "ticker": "ARTW",
+      "price": 2.8643
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.9521
+    }
+  ],
+  "273": [
+    {
+      "ticker": "ARTW",
+      "price": 2.8643
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.9446
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.875
+    }
+  ]
+}

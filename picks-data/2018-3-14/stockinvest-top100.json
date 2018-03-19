@@ -1,0 +1,90 @@
+{
+  "7": [
+    {
+      "ticker": "JASN",
+      "price": 3.415
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.65
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.4799
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.45
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.82
+    }
+  ],
+  "60": [
+    {
+      "ticker": "JASN",
+      "price": 3.44
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.5634
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.45
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.4
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.81
+    }
+  ],
+  "123": [
+    {
+      "ticker": "JASN",
+      "price": 3.46
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.555
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.455
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.5
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.74
+    }
+  ],
+  "263": [
+    {
+      "ticker": "JASN",
+      "price": 3.46
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.59
+    },
+    {
+      "ticker": "APPS",
+      "price": 2.48
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.5
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.75
+    }
+  ]
+}

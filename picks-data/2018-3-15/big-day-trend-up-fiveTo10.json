@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "EVC",
+      "price": 5.525
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.59
+    },
+    {
+      "ticker": "SND",
+      "price": 6.6
+    },
+    {
+      "ticker": "WOW",
+      "price": 7.575
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.75
+    }
+  ],
+  "35": [
+    {
+      "ticker": "EVC",
+      "price": 5.275
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.5
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.73
+    },
+    {
+      "ticker": "SLDB",
+      "price": 9.72
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.025
+    }
+  ],
+  "90": [
+    {
+      "ticker": "EVC",
+      "price": 5.225
+    },
+    {
+      "ticker": "SLDB",
+      "price": 9.2548
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.105
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.4609
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.545
+    }
+  ],
+  "223": [
+    {
+      "ticker": "EVC",
+      "price": 5.19
+    },
+    {
+      "ticker": "SND",
+      "price": 6.1
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.26
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.37
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.35
+    }
+  ]
+}

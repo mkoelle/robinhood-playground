@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "VTL",
+      "price": 5.275
+    },
+    {
+      "ticker": "AGFS",
+      "price": 7.609
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.92
+    },
+    {
+      "ticker": "EVRI",
+      "price": 7.405
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VTL",
+      "price": 5.225
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.89
+    },
+    {
+      "ticker": "AGFS",
+      "price": 7.775
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.305
+    },
+    {
+      "ticker": "EVRI",
+      "price": 7.55
+    }
+  ]
+}
