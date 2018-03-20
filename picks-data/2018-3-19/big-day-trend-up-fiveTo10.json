@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "EVFM",
+      "price": 6
+    },
+    {
+      "ticker": "CDTX",
+      "price": 6.05
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.925
+    },
+    {
+      "ticker": "GMRE",
+      "price": 7.15
+    },
+    {
+      "ticker": "EIGI",
+      "price": 7.7
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CDTX",
+      "price": 6.2
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.6489
+    },
+    {
+      "ticker": "RCII",
+      "price": 8.66
+    },
+    {
+      "ticker": "AMZA",
+      "price": 7.155
+    },
+    {
+      "ticker": "MGI",
+      "price": 9.2
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CDTX",
+      "price": 6.325
+    },
+    {
+      "ticker": "MGI",
+      "price": 9.105
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.6489
+    },
+    {
+      "ticker": "ESTE",
+      "price": 9.33
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.72
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CDTX",
+      "price": 6.02
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.675
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.05
+    },
+    {
+      "ticker": "CLMT",
+      "price": 6.9
+    },
+    {
+      "ticker": "TRIL",
+      "price": 7.351
+    }
+  ]
+}

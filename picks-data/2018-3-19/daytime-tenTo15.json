@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.25
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.94
+    },
+    {
+      "ticker": "CBB",
+      "price": 14.55
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.645
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KRYS",
+      "price": 10.7
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.25
+    },
+    {
+      "ticker": "AAC",
+      "price": 12.2
+    },
+    {
+      "ticker": "CBB",
+      "price": 14.475
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.72
+    }
+  ]
+}

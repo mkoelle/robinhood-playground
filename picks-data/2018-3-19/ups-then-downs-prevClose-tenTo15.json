@@ -1,0 +1,42 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "DXR",
+      "price": 12.6014
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.25
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DXR",
+      "price": 12.95
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.25
+    }
+  ],
+  "380": [
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.25
+    }
+  ]
+}

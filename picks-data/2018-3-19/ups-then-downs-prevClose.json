@@ -1,0 +1,70 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "RXII",
+      "price": 4.549
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.61
+    },
+    {
+      "ticker": "SIFY",
+      "price": 2.211
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.3
+    },
+    {
+      "ticker": "AQB",
+      "price": 3.2521
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RXII",
+      "price": 4.51
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.64
+    },
+    {
+      "ticker": "SIFY",
+      "price": 2.18
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.3
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.73
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RXII",
+      "price": 4.6301
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.625
+    },
+    {
+      "ticker": "SIFY",
+      "price": 2.2
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.3
+    },
+    {
+      "ticker": "AQB",
+      "price": 3.32
+    }
+  ]
+}

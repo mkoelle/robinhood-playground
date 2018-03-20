@@ -1,0 +1,42 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "PTI",
+      "price": 7.01
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.48
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.5
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SSW",
+      "price": 6.445
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PTI",
+      "price": 6.98
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.45
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.3221
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 3;
+const NUM_DAYS = 17;
 
 const cTable = require('console.table');
 

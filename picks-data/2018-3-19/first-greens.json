@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "FRED",
+      "price": 2.63
+    },
+    {
+      "ticker": "DARE",
+      "price": 0.9429
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.34
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5927
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.7339
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FRED",
+      "price": 2.64
+    },
+    {
+      "ticker": "DARE",
+      "price": 0.9508
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.34
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5849
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.74
+    }
+  ]
+}

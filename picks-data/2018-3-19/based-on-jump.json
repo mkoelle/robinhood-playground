@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.7519
+    },
+    {
+      "ticker": "OPTT",
+      "price": 1.48
+    },
+    {
+      "ticker": "LENS",
+      "price": 3.56
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKER",
+      "price": 0.78
+    },
+    {
+      "ticker": "OPTT",
+      "price": 1.2965
+    },
+    {
+      "ticker": "LENS",
+      "price": 3.7
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.6312
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKER",
+      "price": 0.7897
+    },
+    {
+      "ticker": "OPTT",
+      "price": 1.2812
+    },
+    {
+      "ticker": "LENS",
+      "price": 3.55
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.5779
+    }
+  ]
+}

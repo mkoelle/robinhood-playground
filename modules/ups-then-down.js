@@ -25,6 +25,7 @@ const trendFilter = async (Robinhood, trend) => {
 
 
     const analyzeTrend = (trend) => {
+        console.log('running analyze')
         const ofInterest = trend
             .filter(({mostRecentTrend}) => mostRecentTrend < -3)
             .map(buy => {
@@ -52,8 +53,9 @@ const trendFilter = async (Robinhood, trend) => {
                     points
                 };
             })
-            .filter(buy => buy.daysUpCount > 2 && buy.percUp > Math.abs(buy.mostRecentTrend))
-            .sort((a, b) => b.points - a.points);
+            .filter(buy => buy.daysUpCount > 2 && buy.percUp > Math.abs(buy.mostRecentTrend) && buy.points > 200)
+            .sort((a, b) => b.points - a.points)
+            .slice(0, 5);
 
 
         console.log(JSON.stringify(ofInterest, null, 2));
@@ -69,6 +71,7 @@ const trendFilter = async (Robinhood, trend) => {
                 // .slice()
                 .map(buy => ({
                     ...buy,
+                    historicals: buy.historicals.reverse(),
                     mostRecentTrend: buy.trend_since_prev_close
                 }))
         ),
@@ -77,7 +80,6 @@ const trendFilter = async (Robinhood, trend) => {
                 .map(buy => {
                     console.log(buy.mostRecentTrend, 'does it exist already');
                     const {historicals} = buy;
-                    historicals.reverse();
                     // evening
                     const {trend: mostRecentHistorical} = historicals.shift();
                     // console.log('most recent trend...', mostRecentHistorical);
