@@ -1,0 +1,52 @@
+{
+  "10": [
+    {
+      "ticker": "XTNT",
+      "price": 9.5
+    },
+    {
+      "ticker": "ATXI",
+      "price": 5.5
+    }
+  ],
+  "50": [
+    {
+      "ticker": "XTNT",
+      "price": 9.2682
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XTNT",
+      "price": 8.9047
+    },
+    {
+      "ticker": "ATXI",
+      "price": 5.575
+    }
+  ],
+  "300": [
+    {
+      "ticker": "XTNT",
+      "price": 8.802
+    },
+    {
+      "ticker": "ATXI",
+      "price": 5.5495
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.925
+    }
+  ],
+  "380": [
+    {
+      "ticker": "XTNT",
+      "price": 8.6101
+    },
+    {
+      "ticker": "ATXI",
+      "price": 5.5
+    }
+  ]
+}

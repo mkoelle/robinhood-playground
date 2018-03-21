@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "TRIL",
+      "price": 7.3193
+    },
+    {
+      "ticker": "TRPX",
+      "price": 5.75
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.43
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.83
+    },
+    {
+      "ticker": "HCHC",
+      "price": 5.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIL",
+      "price": 7.499
+    },
+    {
+      "ticker": "TRPX",
+      "price": 5.74
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.43
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.1
+    },
+    {
+      "ticker": "NERV",
+      "price": 6.4
+    }
+  ]
+}

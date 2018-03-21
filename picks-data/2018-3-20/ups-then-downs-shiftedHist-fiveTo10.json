@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "PTI",
+      "price": 5.905
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.5
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PTI",
+      "price": 5.7875
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.4859
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTI",
+      "price": 5.645
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.6
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.495
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTI",
+      "price": 5.35
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.6
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.4857
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PTI",
+      "price": 5.1001
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.3501
+    },
+    {
+      "ticker": "SSW",
+      "price": 6.47
+    }
+  ]
+}

@@ -1,14 +1,16 @@
 
 module.exports = [
     // fizbiz
-    'fizbiz-under5TopLosers-2',
-    'fizbiz-under5TopLosers-12',
-    'fizbiz-under5TopLosers-75',
-    'fizbiz-under5TopLosers-120',
-    'fizbiz-under5TopLosers-120',
+    // 'fizbiz-under5TopLosers-2',
+    // 'fizbiz-under5TopLosers-12',
+    // 'fizbiz-under5TopLosers-75',
+    // 'fizbiz-under5TopLosers-120',
+    // 'fizbiz-under5TopLosers-120',
 
-    'fizbiz-under5Target10Change2Vol200-2',
-    'fizbiz-under5Target10Change2Vol200-2',
+    'fizbiz-under5Target10Change2Vol200-75',
+    'fizbiz-under5Target10Change2Vol200-75',
+    'fizbiz-under5Target10Change2Vol200-120',
+    'fizbiz-under5Target10Change2Vol200-120',
     'fizbiz-under5Target10Change2Vol200Within10of52Low-2',
     'fizbiz-under5Target10Change2Vol200Within10of52Low-75',
 
@@ -26,6 +28,7 @@ module.exports = [
     // upstreak
     'up-streak-lt$3-upstreak-3-up1overnight-189',
     'up-streak-lt$3-upstreak-3-up1overnight-45',
+    'up-streak-lt$3-upstreak-3-up1overnight-45',
 
     // swings
     'swings-fiveTo10-193',
@@ -37,6 +40,7 @@ module.exports = [
     'week-swings-1',
     'week-swings-273',
     'week-swings-169',
+    'week-swings-tenTo15-1',
     'week-swings-tenTo15-1',
     'week-swings-tenTo15-1',
     'week-swings-tenTo15-85',
@@ -76,8 +80,10 @@ module.exports = [
     'dow-historical-sortedByPercUp-73',
     'dow-historical-sortedByPercUp-73',
 
-    'ups-then-down-shiftedHist-50',
-    'ups-then-down-shiftedHist-200',
+    'ups-then-downs-prevClose-200',
+    'ups-then-downs-prevClose-200',
+    'ups-then-downs-prevClose-300',
+
     'ups-then-downs-prevClose-tenTo15-200',
     'ups-then-downs-prevClose-tenTo15-380',
     'ups-then-downs-prevClose-tenTo15-380',
@@ -86,7 +92,18 @@ module.exports = [
     'ups-then-downs-prevClose-tenTo15-300',
     'ups-then-downs-prevClose-tenTo15-300',
 
+    'ups-then-downs-prevClose-fiveTo10-380',
+    'ups-then-downs-prevClose-fiveTo10-380',
+
     'first-greens-tenTo15-190',
     'pattern-predict-not-recommended-single-230',
-    'pattern-predict-not-recommended-single-230'
+    'pattern-predict-not-recommended-single-230',
+
+    'cheapest-picks-chp1-4',
+    'cheapest-picks-chp1-4',
+    'cheapest-picks-chp1-4',
+    'cheapest-picks-chp3-4',
+    'cheapest-picks-chp3-4',
+    'cheapest-picks-chp1-65',
+    'cheapest-picks-chp5-4'
 ];

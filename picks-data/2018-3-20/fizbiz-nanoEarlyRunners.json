@@ -1,0 +1,134 @@
+{
+  "2": [
+    {
+      "ticker": "ANY",
+      "price": 1.9573
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.6204
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.505
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1438
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2731
+    }
+  ],
+  "12": [
+    {
+      "ticker": "ANY",
+      "price": 1.9562
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1367
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.0505
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.5
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.62
+    }
+  ],
+  "75": [
+    {
+      "ticker": "ANY",
+      "price": 2.045
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.6101
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.136
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.6806
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2504
+    }
+  ],
+  "120": [
+    {
+      "ticker": "IPCI",
+      "price": 0.6101
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.51
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.137
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.6366
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.111
+    }
+  ],
+  "180": [
+    {
+      "ticker": "SCYX",
+      "price": 1.505
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.6095
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.137
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.6601
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.1107
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ANY",
+      "price": 1.96
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.629
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1368
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.6539
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.1111
+    }
+  ]
+}
