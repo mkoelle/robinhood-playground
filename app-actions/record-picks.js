@@ -7,7 +7,7 @@ const purchaseStocks = require('./purchase-stocks');
 console.log(strategiesEnabled, 'strategies enabled ')
 module.exports = async (Robinhood, strategy, min, picks) => {
 
-    picks = picks.slice(0, 5);  // take only 5 picks
+    if (!strategy.includes('cheapest-picks')) picks = picks.slice(0, 5);  // take only 5 picks
 
     console.log('recording', strategy, 'strategy');
     const dateStr = (new Date()).toLocaleDateString();

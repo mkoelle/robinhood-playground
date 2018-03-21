@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 17;
+const NUM_DAYS = 12;
 
 const cTable = require('console.table');
 
@@ -84,10 +84,10 @@ module.exports = async (Robinhood) => {
     // console.log('all', allPerfs)
 
     const withoutPerms = allPerfs
-        // .filter(({ strategyName }) => {
-        //     const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
-        //     return !['single', 'first3'].includes(lastChunk);
-        // })
+        .filter(({ strategyName }) => {
+            const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
+            return !['single', 'first3'].includes(lastChunk);
+        })
         .filter(perf => perf.count >= 3);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, sellMin, trends }) => ({

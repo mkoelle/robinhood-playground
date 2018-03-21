@@ -14,25 +14,26 @@ const sellAllIfWentUp = require('../app-actions/sell-all-if-went-up');
 const sellAllStocks = require('../app-actions/sell-all-stocks');
 
 const additionalCronConfig = [
-    // {
-    //     name: 'sell all stocks if went up',
-    //     run: [0],
-    //     fn: (Robinhood) => {
-    //
-    //         setTimeout(async () => {
-    //             // daily at 6:30AM + 4 seconds
-    //             await sellAllStocks(Robinhood);
-    //             console.log('done selling all');
-    //             //
-    //             timeoutPromise(10000);
-    //             console.log('selling all stocks that went up');
-    //             // console.log('logging portfolio value');
-    //             // await logPortfolioValue(Robinhood);
-    //
-    //         }, 4000);
-    //
-    //     }
-    // },
+    {
+        name: 'sell all stocks if went up',
+        run: [0],
+        fn: (Robinhood) => {
+
+            setTimeout(async () => {
+                // daily at 6:30AM + 4 seconds
+                // await sellAllStocks(Robinhood);
+                // console.log('done selling all');
+                //
+                // timeoutPromise(5000);
+                console.log('selling all stocks that went up');
+                await sellAllIfWentUp(Robinhood);
+                // console.log('logging portfolio value');
+                // await logPortfolioValue(Robinhood);
+
+            }, 4000);
+
+        }
+    },
     // sell all if went up
     // {
     //     name: 'sellAllIfWentUp',

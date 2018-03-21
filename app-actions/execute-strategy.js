@@ -3,7 +3,7 @@ const getTrendAndSave = require('./get-trend-and-save');
 // const purchaseStocks = require('./purchase-stocks');
 const recordPicks = require('./record-picks');
 
-const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy) => {
+const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy, pricePermFilter) => {
 
     const record = async (stocks, strategyName) => {
         await recordPicks(Robinhood, strategyName, min, stocks);
@@ -11,11 +11,20 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
 
     const trend = await getTrendAndSave(Robinhood, min + '*');
 
-    const pricePerms = {
+    let pricePerms = {
         under5: [0.3, 5],
         fiveTo10: [5, 10],
         tenTo15: [10, 15]
     };
+
+    if (pricePermFilter) {
+        Object.keys(pricePerms)
+            .filter(priceKey => !pricePermFilter.includes(priceKey))
+            .forEach(priceKey => {
+                console.log('deleting', priceKey);
+                delete pricePerms[priceKey];
+            });
+    }
 
     for (let priceKey of Object.keys(pricePerms)) {
 

@@ -75,6 +75,16 @@ const trendFilter = async (Robinhood, trend) => {
                     mostRecentTrend: buy.trend_since_prev_close
                 }))
         ),
+        prevCloseWithoutDowntrending: analyzeTrend(
+            withHistoricals
+                // .slice()
+                .filter(buy => buy.trend_since_prev_close < 0)
+                .map(buy => ({
+                    ...buy,
+                    historicals: buy.historicals.reverse(),
+                    mostRecentTrend: buy.trend_since_prev_close
+                }))
+        ),
         shiftedHist: analyzeTrend(
             withHistoricals
                 .map(buy => {

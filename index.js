@@ -10,7 +10,7 @@ const cancelAllOrders = require('./rh-actions/cancel-all-orders');
 const logPortfolioValue = require('./app-actions/log-portfolio-value');
 // const getPennyStocks = require('./analysis/get-penny-stocks');
 // const activeBuy = require('./app-actions/active-buy');
-
+const detailedNonZero = require('./app-actions/detailed-non-zero');
 
 let Robinhood, allTickers;
 
@@ -29,6 +29,9 @@ const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
     // console.log(await getPennyStocks(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json')));
     // await logPortfolioValue(Robinhood);
     // does the list of stocks need updating?
+
+    // const detailed = await detailedNonZero(Robinhood);
+    // console.log(detailed);
     try {
         allTickers = require('./stock-data/allStocks');
     } catch (e) {

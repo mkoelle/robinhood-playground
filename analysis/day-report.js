@@ -69,6 +69,7 @@ module.exports = async (Robinhood) => {
 
 
     Object.keys(stratTrans).forEach(strategyName => {
+        console.log('all trends', stratTrans[strategyName].map(t => t.trend));
         const avgTrend = avgArray(stratTrans[strategyName].map(t => t.trend));
         stratTrans[strategyName] = {
             avgTrend,
