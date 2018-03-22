@@ -15,7 +15,7 @@ const trendFilter = async (Robinhood, trend) => {
 
         let withHistoricals = trend.map((buy, i) => ({
             ...buy,
-            historicals: allHistoricals[i].slice(0, 10)
+            historicals: allHistoricals[i]
         }));
 
         let withPercUp = withHistoricals
