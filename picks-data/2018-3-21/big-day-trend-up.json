@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "REFR",
+      "price": 0.95
+    },
+    {
+      "ticker": "AHPI",
+      "price": 3.31
+    },
+    {
+      "ticker": "THM",
+      "price": 0.4504
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.8714
+    },
+    {
+      "ticker": "APT",
+      "price": 3.1605
+    }
+  ],
+  "35": [
+    {
+      "ticker": "REFR",
+      "price": 0.9
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.3668
+    },
+    {
+      "ticker": "SLNO",
+      "price": 1.8279
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.62
+    },
+    {
+      "ticker": "THM",
+      "price": 0.4504
+    }
+  ],
+  "90": [
+    {
+      "ticker": "REFR",
+      "price": 0.902
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    },
+    {
+      "ticker": "JOB",
+      "price": 2.65
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.355
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.77
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.923
+    },
+    {
+      "ticker": "JOB",
+      "price": 2.66
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.715
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.4401
+    }
+  ]
+}

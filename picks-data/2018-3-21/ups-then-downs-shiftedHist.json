@@ -1,0 +1,76 @@
+{
+  "10": [
+    {
+      "ticker": "NFEC",
+      "price": 1.3628
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.83
+    },
+    {
+      "ticker": "RUBI",
+      "price": 1.98
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.368
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.79
+    }
+  ],
+  "50": [
+    {
+      "ticker": "TRX",
+      "price": 0.371
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRX",
+      "price": 0.3842
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.75
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.875
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LENS",
+      "price": 2.9599
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.3782
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.75
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NFEC",
+      "price": 1.6034
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.97
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.3842
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.76
+    }
+  ]
+}

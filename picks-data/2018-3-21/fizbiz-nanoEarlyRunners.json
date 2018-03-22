@@ -1,0 +1,134 @@
+{
+  "2": [
+    {
+      "ticker": "WG",
+      "price": 0.21
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.8683
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.4301
+    },
+    {
+      "ticker": "ANY",
+      "price": 1.9204
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3171
+    }
+  ],
+  "12": [
+    {
+      "ticker": "WG",
+      "price": 0.2082
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.311
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.851
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.0201
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.6201
+    }
+  ],
+  "75": [
+    {
+      "ticker": "WG",
+      "price": 0.2303
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1505
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.335
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.2294
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.6269
+    }
+  ],
+  "120": [
+    {
+      "ticker": "WG",
+      "price": 0.2395
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1549
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.2196
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.63
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.002
+    }
+  ],
+  "180": [
+    {
+      "ticker": "EVEP",
+      "price": 0.2251
+    },
+    {
+      "ticker": "WG",
+      "price": 0.24
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.2298
+    },
+    {
+      "ticker": "ONTX",
+      "price": 1.02
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.6129
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EVEP",
+      "price": 0.215
+    },
+    {
+      "ticker": "WG",
+      "price": 0.2308
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.595
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.22
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.235
+    }
+  ]
+}

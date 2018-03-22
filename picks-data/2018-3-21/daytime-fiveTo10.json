@@ -1,0 +1,30 @@
+{
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 9.8
+    },
+    {
+      "ticker": "ERY",
+      "price": 9.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABCD",
+      "price": 9.98
+    },
+    {
+      "ticker": "ERY",
+      "price": 9.6914
+    },
+    {
+      "ticker": "HHS",
+      "price": 9.4501
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.27
+    }
+  ]
+}

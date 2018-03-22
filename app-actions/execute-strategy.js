@@ -12,7 +12,7 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
     const trend = await getTrendAndSave(Robinhood, min + '*');
 
     let pricePerms = {
-        under5: [0.3, 5],
+        under5: [0, 5],
         fiveTo10: [5, 10],
         tenTo15: [10, 15]
     };

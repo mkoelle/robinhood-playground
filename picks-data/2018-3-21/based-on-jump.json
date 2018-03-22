@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "CHKE",
+      "price": 1.45
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.413
+    },
+    {
+      "ticker": "TGEN",
+      "price": 2.661
+    },
+    {
+      "ticker": "ARCI",
+      "price": 1.03
+    },
+    {
+      "ticker": "NBY",
+      "price": 3.821
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKE",
+      "price": 1.45
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.3979
+    },
+    {
+      "ticker": "TGEN",
+      "price": 2.88
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.9656
+    },
+    {
+      "ticker": "NBY",
+      "price": 3.7713
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKE",
+      "price": 1.45
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.189
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.3851
+    },
+    {
+      "ticker": "TGEN",
+      "price": 2.93
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.97
+    }
+  ]
+}

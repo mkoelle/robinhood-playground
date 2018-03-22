@@ -14,21 +14,15 @@ module.exports = [
     'fizbiz-under5Target10Change2Vol200Within10of52Low-2',
     'fizbiz-under5Target10Change2Vol200Within10of52Low-75',
 
-    // 'fizbiz-nanoEarlyRunners-2',
-    // 'fizbiz-nanoEarlyRunners-12',
-    // 'fizbiz-nanoEarlyRunners-75',
-    // 'fizbiz-nanoEarlyRunners-380',
+    'fizbiz-nanoEarlyRunners-75',
+    'fizbiz-nanoEarlyRunners-75',
 
     // stockinvest
-    'stockinvest-undervalued-123',
-    'stockinvest-undervalued-60',
-    'stockinvest-top100-123',
-    'stockinvest-undervalued-123',
 
     // upstreak
-    'up-streak-lt$3-upstreak-3-up1overnight-189',
-    'up-streak-lt$3-upstreak-3-up1overnight-45',
-    'up-streak-lt$3-upstreak-3-up1overnight-45',
+    // 'up-streak-lt$3-upstreak-3-up1overnight-189',
+    // 'up-streak-lt$3-upstreak-3-up1overnight-45',
+    // 'up-streak-lt$3-upstreak-3-up1overnight-45',
 
     // swings
     'swings-fiveTo10-193',
@@ -64,6 +58,9 @@ module.exports = [
     'based-on-jump-tenTo15-16',
     'based-on-jump-tenTo15-5',
     'based-on-jump-tenTo15-5',
+    'based-on-jump-tenTo15-330',
+    'based-on-jump-tenTo15-330',
+    'based-on-jump-tenTo15-330',
 
     // bid day trend up
     'big-day-trend-up-tenTo15-10',
@@ -71,14 +68,21 @@ module.exports = [
 
     'before-close-381',
 
-    'dow-historical-sortedByPercUp-tenTo15-13',
-    'dow-historical-sortedByPercUp-tenTo15-13',
-    'dow-historical-sortedByPercUp-tenTo15-73',
-    'dow-historical-sortedByPercUp-tenTo15-73',
-    'dow-historical-sortedByAvgToday-fiveTo10-196',
-    'dow-historical-sortedByAvgToday-fiveTo10-196',
+
     'dow-historical-sortedByPercUp-73',
     'dow-historical-sortedByPercUp-73',
+    
+    'dow-historical-sortedByPercUp-tenTo15-13',
+    'dow-historical-sortedByPercUp-tenTo15-13',
+
+
+    'dow-historical-sortedByPercUp-tenTo15-73',
+    'dow-historical-sortedByPercUp-tenTo15-73',
+
+    'dow-historical-sortedByAvgToday-fiveTo10-196',
+    'dow-historical-sortedByAvgToday-fiveTo10-196',
+    'dow-historical-sortedByAvgToday-fiveTo10-13',
+    'dow-historical-sortedByAvgToday-fiveTo10-13',
 
     'ups-then-downs-prevClose-200',
     'ups-then-downs-prevClose-200',
