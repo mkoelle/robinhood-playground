@@ -15,7 +15,7 @@ const trendFilter = async (Robinhood, trend) => {
 
         let withHistoricals = trend.map((buy, i) => ({
             ...buy,
-            historicals: allHistoricals[i]
+            historicals: allHistoricals[i].slice(0, 10)
         }));
 
         let withPercUp = withHistoricals
@@ -50,12 +50,17 @@ const trendFilter = async (Robinhood, trend) => {
             });
 
         console.log('with', withPercUp);
-        const orderBy = what => {
-            return withPercUp
+        const orderBy = (what, trend) => {
+            return trend
                 .sort((a, b) => b[what] - a[what])
                 .slice(0, 3)
                 .map(buy => buy.ticker);
         };
+
+
+        const filtered = (ratio) => withPercUp.filter(({ percUpHighClose, percUpCloseOnly }) => {
+            return percUpHighClose > ratio && percUpCloseOnly > ratio;
+        });
 
         return [
             'percUpHighClose',
@@ -63,7 +68,10 @@ const trendFilter = async (Robinhood, trend) => {
             'percUpHighClosePoints',
             'percUpCloseOnlyPoints'
         ].reduce((acc, val) => {
-            acc[`${interval}-${val}`] = orderBy(val);
+            acc[`${interval}-${val}`] = orderBy(val, withPercUp);
+            acc[`${interval}-${val}-filtered40`] = orderBy(val, filtered(0.4));
+            acc[`${interval}-${val}-filtered50`] = orderBy(val, filtered(0.5));
+            acc[`${interval}-${val}-filtered60`] = orderBy(val, filtered(0.6));
             return acc;
         }, {});
 
