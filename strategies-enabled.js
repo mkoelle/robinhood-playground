@@ -71,7 +71,7 @@ module.exports = [
 
     'dow-historical-sortedByPercUp-73',
     'dow-historical-sortedByPercUp-73',
-    
+
     'dow-historical-sortedByPercUp-tenTo15-13',
     'dow-historical-sortedByPercUp-tenTo15-13',
 
@@ -109,5 +109,16 @@ module.exports = [
     'cheapest-picks-chp3-4',
     'cheapest-picks-chp3-4',
     'cheapest-picks-chp1-65',
-    'cheapest-picks-chp5-4'
+    'cheapest-picks-chp5-4',
+
+
+    'constant-risers-5minute-percUpHighClose-40',
+    'constant-risers-10minute-percUpCloseOnly-80',
+    'constant-risers-5minute-percUpCloseOnly-80',
+    'constant-risers-5minute-percUpHighClose-100',
+    'constant-risers-10minute-percUpHighClosePoints-100',
+    'constant-risers-10minute-percUpCloseOnly-200',
+    'constant-risers-5minute-percUpCloseOnly-200',
+    'constant-risers-5minute-percUpHighClose-200',
+    'constant-risers-10minute-percUpHighClosePoints-200'
 ];
