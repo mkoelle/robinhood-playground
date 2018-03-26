@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "ENSV",
+      "price": 0.9
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.05
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.9
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.3921
+    },
+    {
+      "ticker": "RNWK",
+      "price": 3.05
+    }
+  ],
+  "73": [
+    {
+      "ticker": "ENSV",
+      "price": 0.89
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.4
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.0102
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.86
+    },
+    {
+      "ticker": "RNWK",
+      "price": 3.01
+    }
+  ],
+  "196": [
+    {
+      "ticker": "ENSV",
+      "price": 0.875
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.875
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.39
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.0186
+    },
+    {
+      "ticker": "NM",
+      "price": 1.04
+    }
+  ]
+}

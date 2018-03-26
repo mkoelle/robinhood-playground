@@ -1,0 +1,67 @@
+{
+  "40": [
+    {
+      "ticker": "ATOS",
+      "price": 0.5889
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.58
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.94
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ATOS",
+      "price": 0.5855
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.8001
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.1964
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1109
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.7901
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CBL",
+      "price": 4.355
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.99
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2036
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRIS",
+      "price": 0.7712
+    }
+  ],
+  "250": [],
+  "300": [
+    {
+      "ticker": "CRIS",
+      "price": 0.775
+    }
+  ]
+}

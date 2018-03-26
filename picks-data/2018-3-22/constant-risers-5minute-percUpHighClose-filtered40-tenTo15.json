@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ETE",
+      "price": 14.68
+    },
+    {
+      "ticker": "SPN",
+      "price": 10.06
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.64
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ECYT",
+      "price": 10.6513
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.36
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 10.65
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.61
+    },
+    {
+      "ticker": "DRIP",
+      "price": 12.63
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ECYT",
+      "price": 10.65
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.69
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.5802
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLY",
+      "price": 10.6299
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.07
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.86
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMD",
+      "price": 11.06
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.77
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 10.955
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.96
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.69
+    }
+  ]
+}

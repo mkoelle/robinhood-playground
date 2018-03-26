@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CARA",
+      "price": 12.65
+    },
+    {
+      "ticker": "FOSL",
+      "price": 12.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.07
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FOSL",
+      "price": 12.59
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.1106
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KIM",
+      "price": 14.325
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.9
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.12
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SOXS",
+      "price": 11.22
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.4
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.0443
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KRG",
+      "price": 14.95
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.335
+    },
+    {
+      "ticker": "AES",
+      "price": 10.9927
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MTG",
+      "price": 12.845
+    },
+    {
+      "ticker": "KRG",
+      "price": 14.935
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.34
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 13.28
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.48
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.06
+    }
+  ]
+}

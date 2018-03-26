@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "EARS",
+      "price": 2.6223
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.4696
+    },
+    {
+      "ticker": "SNGX",
+      "price": 2.54
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EARS",
+      "price": 1.83
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5855
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.4285
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EARS",
+      "price": 1.85
+    },
+    {
+      "ticker": "FSNN",
+      "price": 3.17
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.58
+    }
+  ],
+  "140": [
+    {
+      "ticker": "FSNN",
+      "price": 3.19
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.591
+    },
+    {
+      "ticker": "EARS",
+      "price": 1.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EARS",
+      "price": 1.7799
+    },
+    {
+      "ticker": "FSNN",
+      "price": 3.18
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.5717
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NFEC",
+      "price": 1.5805
+    },
+    {
+      "ticker": "FSNN",
+      "price": 3.15
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.4396
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FSNN",
+      "price": 3.15
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.8799
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.54
+    }
+  ]
+}

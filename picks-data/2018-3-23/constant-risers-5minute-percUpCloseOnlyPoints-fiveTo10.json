@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CALI",
+      "price": 5.52
+    },
+    {
+      "ticker": "IFMK",
+      "price": 8.8262
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.7801
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ABIL",
+      "price": 5.27
+    },
+    {
+      "ticker": "CDNA",
+      "price": 7.3599
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.8201
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 7.34
+    },
+    {
+      "ticker": "IFMK",
+      "price": 9.068
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.6851
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CDNA",
+      "price": 7.325
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.68
+    },
+    {
+      "ticker": "SLDB",
+      "price": 8.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CALI",
+      "price": 5.2578
+    },
+    {
+      "ticker": "CDNA",
+      "price": 7.2265
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.3
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CDNA",
+      "price": 7.365
+    },
+    {
+      "ticker": "CALI",
+      "price": 5.2853
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.918
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CDNA",
+      "price": 7.27
+    },
+    {
+      "ticker": "CALI",
+      "price": 5.2199
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.99
+    }
+  ]
+}

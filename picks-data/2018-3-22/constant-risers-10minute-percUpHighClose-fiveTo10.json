@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "P",
+      "price": 5.25
+    },
+    {
+      "ticker": "HLX",
+      "price": 6.17
+    },
+    {
+      "ticker": "EDZ",
+      "price": 7.79
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GSUM",
+      "price": 9.14
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.95
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "P",
+      "price": 5.13
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.98
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MDXG",
+      "price": 7.095
+    },
+    {
+      "ticker": "S",
+      "price": 5.03
+    },
+    {
+      "ticker": "LXP",
+      "price": 8.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DDR",
+      "price": 6.88
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.5752
+    },
+    {
+      "ticker": "P",
+      "price": 5.295
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 8.3734
+    },
+    {
+      "ticker": "DDR",
+      "price": 6.88
+    },
+    {
+      "ticker": "P",
+      "price": 5.435
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 8.85
+    },
+    {
+      "ticker": "DDR",
+      "price": 6.925
+    },
+    {
+      "ticker": "P",
+      "price": 5.415
+    }
+  ]
+}

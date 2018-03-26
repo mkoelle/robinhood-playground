@@ -1,0 +1,134 @@
+{
+  "2": [
+    {
+      "ticker": "CALI",
+      "price": 4.79
+    },
+    {
+      "ticker": "SCON",
+      "price": 1
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.955
+    },
+    {
+      "ticker": "RESN",
+      "price": 3.41
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.52
+    }
+  ],
+  "12": [
+    {
+      "ticker": "CALI",
+      "price": 5.4101
+    },
+    {
+      "ticker": "SCON",
+      "price": 1
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.953
+    },
+    {
+      "ticker": "RESN",
+      "price": 3.32
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.4102
+    }
+  ],
+  "75": [
+    {
+      "ticker": "ANY",
+      "price": 1.3001
+    },
+    {
+      "ticker": "DXLG",
+      "price": 1.85
+    },
+    {
+      "ticker": "ESES",
+      "price": 1
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.478
+    },
+    {
+      "ticker": "RESN",
+      "price": 3.355
+    }
+  ],
+  "120": [
+    {
+      "ticker": "ANY",
+      "price": 1.33
+    },
+    {
+      "ticker": "DXLG",
+      "price": 1.9
+    },
+    {
+      "ticker": "ESES",
+      "price": 1
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.87
+    },
+    {
+      "ticker": "RESN",
+      "price": 3.315
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ANY",
+      "price": 1.346
+    },
+    {
+      "ticker": "DXLG",
+      "price": 2.05
+    },
+    {
+      "ticker": "ESES",
+      "price": 1
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.6001
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.33
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ANY",
+      "price": 1.29
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.476
+    },
+    {
+      "ticker": "ESES",
+      "price": 1
+    },
+    {
+      "ticker": "DXLG",
+      "price": 1.95
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.61
+    }
+  ]
+}

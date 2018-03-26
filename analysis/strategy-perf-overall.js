@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 12;
+const NUM_DAYS = 23;
 
 const cTable = require('console.table');
 
@@ -53,8 +53,8 @@ module.exports = async (Robinhood) => {
                 const strategyName = split.join('-');
                 const key = {
                     strategyName,
-                    // buyMin,
-                    sellMin
+                    buyMin,
+                    // sellMin
                 };
                 stratResults.put(key, (stratResults.get(key) || []).concat(stratPerf.avgTrend));
             });
@@ -88,13 +88,14 @@ module.exports = async (Robinhood) => {
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        .filter(perf => perf.count >= 3);
+        .filter(perf => perf.count >= 13);
 
-    const withData = withoutPerms.map(({ strategyName, avgTrend, sellMin, trends }) => ({
-        name: strategyName + '-' + sellMin,
+    const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
+        name: strategyName + '-' + buyMin,
         avgTrend,
-        trends: trends.map(t => Math.round(t)),
-        percUp: trends.filter(t => t > 0).length / trends.length
+        // trends: trends.map(t => Math.round(t)),
+        percUp: trends.filter(t => t > 0).length / trends.length,
+        count
     }));
 
     const sortedByAvgTrend = withData
@@ -106,6 +107,7 @@ module.exports = async (Robinhood) => {
     console.table(sortedByAvgTrend);
 
     const sortedByPercUp = withData
+        // .filter(t => t.trend.length > 30)
         // .filter(t => t.trends.filter(trend => trend < 0).length < 8)
         .sort((a, b) => b.percUp - a.percUp);
 

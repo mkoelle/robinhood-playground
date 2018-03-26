@@ -1,0 +1,38 @@
+{
+  "200": [
+    {
+      "ticker": "ACIU",
+      "price": 11.46
+    },
+    {
+      "ticker": "CDXS",
+      "price": 11.1
+    },
+    {
+      "ticker": "AAC",
+      "price": 12.205
+    },
+    {
+      "ticker": "CO",
+      "price": 11.2
+    },
+    {
+      "ticker": "XCRA",
+      "price": 11.435
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CO",
+      "price": 11.12
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.59
+    },
+    {
+      "ticker": "AAC",
+      "price": 12.245
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2283
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.18
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.15
+    }
+  ],
+  "80": [
+    {
+      "ticker": "INFI",
+      "price": 2.61
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9999
+    },
+    {
+      "ticker": "CPRX",
+      "price": 2.73
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXAS",
+      "price": 2.29
+    },
+    {
+      "ticker": "CPRX",
+      "price": 2.75
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.4448
+    }
+  ],
+  "140": [
+    {
+      "ticker": "INFI",
+      "price": 2.65
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.7
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1136
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9701
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.435
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EGO",
+      "price": 0.9547
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.47
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.73
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GGB",
+      "price": 4.67
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.46
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.9164
+    }
+  ]
+}

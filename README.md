@@ -71,3 +71,4 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 * ups then downs variation: prevClose vs shiftedHist - is prevClose working troubleshoot?
 * cheapest 5 stocks, cheapest 10 stocks, cheapest 15 stocks - done
 * consistent-risers - constant rising since opening bell
+* sell 100% of stocks if have increased in price after 24 hours

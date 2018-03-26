@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "DRNA",
+      "price": 11.345
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.65
+    },
+    {
+      "ticker": "FOSL",
+      "price": 12.8
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ADAP",
+      "price": 11.75
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.78
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.2812
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRVS",
+      "price": 10.8676
+    },
+    {
+      "ticker": "FDUS",
+      "price": 13.14
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.12
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRVS",
+      "price": 10.99
+    },
+    {
+      "ticker": "FDUS",
+      "price": 13.1511
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAR",
+      "price": 10.16
+    },
+    {
+      "ticker": "AES",
+      "price": 10.9927
+    },
+    {
+      "ticker": "AHH",
+      "price": 13.6301
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AES",
+      "price": 11.01
+    },
+    {
+      "ticker": "VG",
+      "price": 11.185
+    },
+    {
+      "ticker": "AHH",
+      "price": 13.68
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PFLT",
+      "price": 13.54
+    },
+    {
+      "ticker": "HTGC",
+      "price": 12.37
+    },
+    {
+      "ticker": "AI",
+      "price": 11.73
+    }
+  ]
+}

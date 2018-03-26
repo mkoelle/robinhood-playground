@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CALI",
+      "price": 5.52
+    },
+    {
+      "ticker": "CDNA",
+      "price": 7.25
+    },
+    {
+      "ticker": "IFMK",
+      "price": 8.8262
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ABIL",
+      "price": 5.27
+    },
+    {
+      "ticker": "CDNA",
+      "price": 7.3599
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.8102
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 7.34
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.7499
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.6851
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CDNA",
+      "price": 7.325
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.68
+    },
+    {
+      "ticker": "SLDB",
+      "price": 8.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 7.2265
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.3
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.8699
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CDNA",
+      "price": 7.365
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.918
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.95
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CDNA",
+      "price": 7.27
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.99
+    },
+    {
+      "ticker": "SLDB",
+      "price": 9.0227
+    }
+  ]
+}

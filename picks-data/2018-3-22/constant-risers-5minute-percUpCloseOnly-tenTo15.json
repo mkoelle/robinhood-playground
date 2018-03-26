@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "OFS",
+      "price": 11.42
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.99
+    },
+    {
+      "ticker": "INFN",
+      "price": 11.11
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OFS",
+      "price": 11.47
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.87
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.1106
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPXU",
+      "price": 10.86
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.92
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.43
+    }
+  ],
+  "140": [
+    {
+      "ticker": "FAZ",
+      "price": 11.0443
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.99
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPXU",
+      "price": 10.86
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.99
+    },
+    {
+      "ticker": "KRG",
+      "price": 14.95
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MPW",
+      "price": 12.85
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.77
+    },
+    {
+      "ticker": "AHH",
+      "price": 13.68
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SPXU",
+      "price": 10.955
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.06
+    },
+    {
+      "ticker": "MPW",
+      "price": 12.785
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "SNMP",
+      "price": 11.56
+    },
+    {
+      "ticker": "CATO",
+      "price": 13.13
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CATO",
+      "price": 12.91
+    },
+    {
+      "ticker": "GSM",
+      "price": 14.58
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.56
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CSPI",
+      "price": 11.3349
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.15
+    },
+    {
+      "ticker": "CATO",
+      "price": 13.04
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.525
+    },
+    {
+      "ticker": "TORC",
+      "price": 14.14
+    }
+  ],
+  "223": [
+    {
+      "ticker": "LAUR",
+      "price": 13.27
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.5
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.955
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.15
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.18
+    }
+  ]
+}

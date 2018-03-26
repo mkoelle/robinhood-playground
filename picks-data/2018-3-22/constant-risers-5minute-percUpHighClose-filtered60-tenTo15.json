@@ -1,0 +1,71 @@
+{
+  "40": [
+    {
+      "ticker": "DB",
+      "price": 14.3
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.68
+    },
+    {
+      "ticker": "DDD",
+      "price": 11.98
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SPXU",
+      "price": 10.87
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.93
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPXU",
+      "price": 10.86
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.92
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.43
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SPXU",
+      "price": 10.985
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.4
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.0443
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPXU",
+      "price": 10.86
+    }
+  ],
+  "250": [],
+  "300": [
+    {
+      "ticker": "SPXU",
+      "price": 10.955
+    }
+  ]
+}

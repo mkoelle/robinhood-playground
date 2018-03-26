@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ASYS",
+      "price": 7.65
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.65
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.365
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CHS",
+      "price": 8.93
+    },
+    {
+      "ticker": "CERS",
+      "price": 5.64
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 5.595
+    },
+    {
+      "ticker": "CHS",
+      "price": 8.94
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.375
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CERS",
+      "price": 5.6053
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.41
+    },
+    {
+      "ticker": "SLDB",
+      "price": 8.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 5.62
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.375
+    },
+    {
+      "ticker": "DXD",
+      "price": 9.05
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CHS",
+      "price": 8.99
+    },
+    {
+      "ticker": "CERS",
+      "price": 5.645
+    },
+    {
+      "ticker": "OIL",
+      "price": 7.4
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SLDB",
+      "price": 9.0227
+    },
+    {
+      "ticker": "DXD",
+      "price": 9
+    },
+    {
+      "ticker": "OCLR",
+      "price": 9.835
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GSUM",
+      "price": 9.28
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.5
+    },
+    {
+      "ticker": "INO",
+      "price": 5.1718
+    }
+  ],
+  "80": [
+    {
+      "ticker": "INO",
+      "price": 5.22
+    },
+    {
+      "ticker": "GERN",
+      "price": 6.543
+    },
+    {
+      "ticker": "NUV",
+      "price": 9.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INO",
+      "price": 5.175
+    },
+    {
+      "ticker": "DDR",
+      "price": 6.88
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.115
+    }
+  ],
+  "140": [
+    {
+      "ticker": "INO",
+      "price": 5.175
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.145
+    },
+    {
+      "ticker": "MGEN",
+      "price": 8.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INO",
+      "price": 5.2133
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.23
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.445
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INO",
+      "price": 5.34
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.28
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.935
+    }
+  ],
+  "300": [
+    {
+      "ticker": "INO",
+      "price": 5.31
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.26
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.46
+    }
+  ]
+}

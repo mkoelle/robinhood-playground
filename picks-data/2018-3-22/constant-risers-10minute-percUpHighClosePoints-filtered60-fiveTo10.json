@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GSUM",
+      "price": 9.28
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.6634
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.535
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GERN",
+      "price": 6.5499
+    },
+    {
+      "ticker": "IFON",
+      "price": 9.0651
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.13
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.9214
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MGEN",
+      "price": 8.04
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.425
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.815
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WPG",
+      "price": 6.445
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.23
+    },
+    {
+      "ticker": "INO",
+      "price": 5.2133
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INO",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.49
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "INO",
+      "price": 5.31
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.465
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.35
+    }
+  ]
+}

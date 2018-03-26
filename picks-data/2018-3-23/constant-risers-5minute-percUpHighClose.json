@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "HL",
+      "price": 3.67
+    },
+    {
+      "ticker": "SMRT",
+      "price": 1.4101
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2827
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NOG",
+      "price": 1.8
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.224
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.085
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NOG",
+      "price": 1.8
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.2351
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.8262
+    }
+  ],
+  "140": [
+    {
+      "ticker": "KGC",
+      "price": 3.855
+    },
+    {
+      "ticker": "HMNY",
+      "price": 3.0401
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMPE",
+      "price": 2.8614
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.86
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.465
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMPE",
+      "price": 2.92
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.5
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.865
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHK",
+      "price": 3.145
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.865
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.465
+    }
+  ]
+}

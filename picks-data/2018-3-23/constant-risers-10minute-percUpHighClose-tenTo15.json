@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "RPAI",
+      "price": 11.49
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.85
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.08
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RIG",
+      "price": 10.44
+    },
+    {
+      "ticker": "KRG",
+      "price": 14.81
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SBS",
+      "price": 11.485
+    },
+    {
+      "ticker": "OMER",
+      "price": 13.96
+    },
+    {
+      "ticker": "ABX",
+      "price": 12.575
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BGCP",
+      "price": 13.285
+    },
+    {
+      "ticker": "WPX",
+      "price": 14.77
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TZA",
+      "price": 11.8836
+    },
+    {
+      "ticker": "OMER",
+      "price": 14.52
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ECYT",
+      "price": 10.66
+    },
+    {
+      "ticker": "GG",
+      "price": 13.975
+    },
+    {
+      "ticker": "MFGP",
+      "price": 13.38
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MFGP",
+      "price": 13.3049
+    },
+    {
+      "ticker": "GG",
+      "price": 13.9658
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.65
+    }
+  ]
+}

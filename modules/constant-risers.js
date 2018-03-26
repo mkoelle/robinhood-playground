@@ -45,11 +45,11 @@ const trendFilter = async (Robinhood, trend) => {
 
             })
             .map(buy => {
-                delete buy.historicals;
+                // delete buy.historicals;
                 return buy;
             });
 
-        console.log('with', withPercUp);
+        console.log('with', JSON.stringify(withPercUp, null, 2));
         const orderBy = (what, trend) => {
             return trend
                 .sort((a, b) => b[what] - a[what])

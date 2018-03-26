@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GERN",
+      "price": 5.6634
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.28
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.535
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GERN",
+      "price": 6.5498
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.14
+    },
+    {
+      "ticker": "IFON",
+      "price": 9.0651
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 5.975
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.13
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.9214
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TVIX",
+      "price": 9.045
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.99
+    },
+    {
+      "ticker": "MGEN",
+      "price": 8.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GERN",
+      "price": 5.45
+    },
+    {
+      "ticker": "PSEC",
+      "price": 6.84
+    },
+    {
+      "ticker": "IFON",
+      "price": 9.6531
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 5.5532
+    },
+    {
+      "ticker": "P",
+      "price": 5.435
+    },
+    {
+      "ticker": "INO",
+      "price": 5.34
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VUZI",
+      "price": 6.375
+    },
+    {
+      "ticker": "P",
+      "price": 5.415
+    },
+    {
+      "ticker": "PSEC",
+      "price": 6.83
+    }
+  ]
+}

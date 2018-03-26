@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GSUM",
+      "price": 9.28
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.6634
+    },
+    {
+      "ticker": "METC",
+      "price": 6.91
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GERN",
+      "price": 6.5498
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.14
+    },
+    {
+      "ticker": "IFON",
+      "price": 9.0651
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 5.975
+    },
+    {
+      "ticker": "GSUM",
+      "price": 9.13
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.9214
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MGEN",
+      "price": 8.04
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.425
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.145
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WPG",
+      "price": 6.445
+    },
+    {
+      "ticker": "INO",
+      "price": 5.2133
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.23
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INO",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.49
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "INO",
+      "price": 5.31
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.35
+    },
+    {
+      "ticker": "MBI",
+      "price": 9.201
+    }
+  ]
+}

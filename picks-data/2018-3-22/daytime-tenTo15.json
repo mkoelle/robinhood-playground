@@ -1,0 +1,30 @@
+{
+  "200": [
+    {
+      "ticker": "LAUR",
+      "price": 13.39
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.2701
+    },
+    {
+      "ticker": "CO",
+      "price": 11.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAUR",
+      "price": 13.45
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.25
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.46
+    }
+  ]
+}

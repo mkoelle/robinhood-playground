@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "OCSL",
+      "price": 4.385
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.59
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.81
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OCSL",
+      "price": 4.42
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.1074
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2062
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1109
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.7901
+    },
+    {
+      "ticker": "FSM",
+      "price": 4.98
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRIS",
+      "price": 0.7708
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2036
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRIS",
+      "price": 0.7712
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.93
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.2524
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CRIS",
+      "price": 0.7793
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.84
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.41
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRIS",
+      "price": 0.775
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.265
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.9164
+    }
+  ]
+}

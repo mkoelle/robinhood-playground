@@ -1,0 +1,67 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "CTRV",
+      "price": 0.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTN",
+      "price": 1.14
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.72
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.6822
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTN",
+      "price": 1.11
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2366
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.1155
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.075
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.79
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PTN",
+      "price": 1.12
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2406
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.075
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.65
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.61
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "JAG",
+      "price": 12.535
+    },
+    {
+      "ticker": "CATO",
+      "price": 14.16
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.8359
+    }
+  ],
+  "80": [
+    {
+      "ticker": "JAG",
+      "price": 12.62
+    },
+    {
+      "ticker": "CATO",
+      "price": 14.42
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CATO",
+      "price": 14.48
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.285
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.47
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SOXS",
+      "price": 12.06
+    },
+    {
+      "ticker": "CATO",
+      "price": 14.46
+    },
+    {
+      "ticker": "FINL",
+      "price": 10.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 12.0628
+    },
+    {
+      "ticker": "FINL",
+      "price": 10.41
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.7826
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FINL",
+      "price": 10.61
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.42
+    },
+    {
+      "ticker": "GTN",
+      "price": 12.45
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FINL",
+      "price": 10.5399
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.93
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.5
+    }
+  ]
+}

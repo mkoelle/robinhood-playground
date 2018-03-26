@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 8.72
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.24
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.7801
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AU",
+      "price": 9.785
+    },
+    {
+      "ticker": "QEP",
+      "price": 9.61
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QEP",
+      "price": 9.6199
+    },
+    {
+      "ticker": "SSRM",
+      "price": 9.74
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.385
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SSRM",
+      "price": 9.725
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.68
+    },
+    {
+      "ticker": "CRK",
+      "price": 7.944
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YANG",
+      "price": 5.22
+    },
+    {
+      "ticker": "TECS",
+      "price": 6.04
+    },
+    {
+      "ticker": "DXD",
+      "price": 9.05
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DXD",
+      "price": 8.91
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DXD",
+      "price": 9
+    }
+  ]
+}

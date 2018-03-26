@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "KOS",
+      "price": 6.28
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.7801
+    },
+    {
+      "ticker": "TK",
+      "price": 8.065
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SPN",
+      "price": 9.63
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.8201
+    },
+    {
+      "ticker": "QEP",
+      "price": 9.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPTX",
+      "price": 8.6851
+    },
+    {
+      "ticker": "CRK",
+      "price": 7.85
+    },
+    {
+      "ticker": "SSRM",
+      "price": 9.74
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DXD",
+      "price": 9.035
+    },
+    {
+      "ticker": "YANG",
+      "price": 5.201
+    },
+    {
+      "ticker": "TECS",
+      "price": 6.0398
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DXD",
+      "price": 9.05
+    },
+    {
+      "ticker": "TECS",
+      "price": 6.04
+    },
+    {
+      "ticker": "YANG",
+      "price": 5.22
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DXD",
+      "price": 8.91
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DXD",
+      "price": 9
+    }
+  ]
+}

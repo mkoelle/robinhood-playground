@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CARA",
+      "price": 12.65
+    },
+    {
+      "ticker": "FOSL",
+      "price": 12.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.07
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ADAP",
+      "price": 11.75
+    },
+    {
+      "ticker": "DRNA",
+      "price": 11.36
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.538
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRNA",
+      "price": 11.49
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.61
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.59
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AKAO",
+      "price": 12.984
+    },
+    {
+      "ticker": "DRNA",
+      "price": 11.46
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.2322
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRVS",
+      "price": 11.335
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.8938
+    },
+    {
+      "ticker": "DRNA",
+      "price": 11.4999
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKAO",
+      "price": 13.1836
+    },
+    {
+      "ticker": "CRVS",
+      "price": 11.1
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.78
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 13.28
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.66
+    },
+    {
+      "ticker": "DRNA",
+      "price": 11.39
+    }
+  ]
+}

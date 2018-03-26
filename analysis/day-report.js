@@ -71,27 +71,33 @@ module.exports = async (Robinhood) => {
     Object.keys(stratTrans).forEach(strategyName => {
         console.log('all trends', stratTrans[strategyName].map(t => t.trend));
         const avgTrend = avgArray(stratTrans[strategyName].map(t => t.trend));
+        const totalInvested = sumArray(stratTrans[strategyName].map(t => t.totalInvested));
+        const dollarChange = sumArray(stratTrans[strategyName].map(t => t.dollarChange));
         stratTrans[strategyName] = {
+            strategyName,
             avgTrend,
-            totalInvested: sumArray(stratTrans[strategyName].map(t => t.totalInvested)),
-            dollarChange: sumArray(stratTrans[strategyName].map(t => t.dollarChange)),
+            totalInvested,
+            dollarChange,
             transactions: stratTrans[strategyName],
-            tickers: stratTrans[strategyName].map(t => t.ticker)
+            tickers: stratTrans[strategyName].map(t => t.ticker),
+            actualTrend: getTrend(totalInvested + dollarChange, totalInvested)
         };
     });
     console.log(JSON.stringify(stratTrans, null, 2));
 
     console.log('\nCurrent report for ', mostRecentDay);
     console.log('Strategies')
-    Object.keys(stratTrans).forEach(strategyName => {
-        const { totalInvested, dollarChange, avgTrend, tickers } = stratTrans[strategyName];
-        console.log('\n' + strategyName);
-        console.log('total invested: ', totalInvested);
-        console.log('dollarChange: ', dollarChange);
-        console.log('avg trend: ', avgTrend);
-        console.log('tickers: ', tickers);
-        console.log('actual trend: ', getTrend(totalInvested + dollarChange, totalInvested));
-    });
+    Object.keys(stratTrans)
+        .map(strategyName => stratTrans[strategyName])
+        .sort((a, b) => Number(b.actualTrend) - Number(a.actualTrend))
+        .forEach(({ strategyName, totalInvested, dollarChange, avgTrend, tickers, actualTrend }) => {
+            console.log('\n' + strategyName);
+            console.log('total invested: ', totalInvested);
+            console.log('dollarChange: ', dollarChange);
+            console.log('avg trend: ', avgTrend);
+            console.log('tickers: ', tickers);
+            console.log('actual trend: ', actualTrend);
+        });
 
     const arrayFromProp = (prop) => Object.keys(stratTrans).map(strategyName => stratTrans[strategyName][prop]);
     const totalInvested = sumArray(arrayFromProp('totalInvested'));

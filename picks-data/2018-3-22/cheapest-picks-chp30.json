@@ -1,0 +1,734 @@
+{
+  "4": [
+    {
+      "ticker": "NVCN",
+      "price": 0.106
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.142
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.181
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1855
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2023
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.2096
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.2138
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2299
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.23
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2448
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.236
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2353
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2401
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.246
+    },
+    {
+      "ticker": "WG",
+      "price": 0.25
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2551
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.266
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2651
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.27
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.28
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.2872
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.29
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3056
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.31
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3102
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.3252
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3252
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.3445
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.36
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3613
+    }
+  ],
+  "65": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1075
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1432
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1717
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.1831
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.2
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2047
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.217
+    },
+    {
+      "ticker": "WG",
+      "price": 0.2196
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2261
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2268
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2284
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2374
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.242
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2426
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2431
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2431
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2593
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2651
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2663
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.2892
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.293
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3095
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3184
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3203
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.3216
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.327
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.3399
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3566
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3643
+    }
+  ],
+  "125": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1126
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1425
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1615
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.1819
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.198
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2044
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.216
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.219
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2199
+    },
+    {
+      "ticker": "WG",
+      "price": 0.22
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.226
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2351
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2351
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2402
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2413
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2451
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2571
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2661
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2698
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.2827
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.287
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.3
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3088
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.31
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.313
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.319
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3297
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.335
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.347
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3602
+    }
+  ],
+  "175": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1126
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1419
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1724
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.1804
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1986
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.2008
+    },
+    {
+      "ticker": "WG",
+      "price": 0.2203
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2238
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.224
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.225
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.2268
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2327
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2335
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.24
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2413
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.245
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2579
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2635
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2698
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2729
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.2779
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2844
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3084
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.3135
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.318
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3193
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3244
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.3333
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.345
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.36
+    }
+  ],
+  "225": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1132
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1409
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.168
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.181
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.1957
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1995
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2166
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.22
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2201
+    },
+    {
+      "ticker": "WG",
+      "price": 0.2251
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2284
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2291
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2372
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2387
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2412
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2438
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2618
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.266
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2695
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.278
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2846
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2848
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.3138
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.3175
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3203
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3243
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3308
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3371
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.3371
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.36
+    }
+  ],
+  "386": [
+    {
+      "ticker": "NVCN",
+      "price": 0.1129
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.139
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.1774
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1799
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1911
+    },
+    {
+      "ticker": "JAGX",
+      "price": 0.197
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2083
+    },
+    {
+      "ticker": "WG",
+      "price": 0.2091
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2157
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.2153
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2182
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2218
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2313
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.24
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2401
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.252
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2643
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2651
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2652
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.2718
+    },
+    {
+      "ticker": "RTTR",
+      "price": 0.2844
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2845
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.305
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.3101
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.3125
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3197
+    },
+    {
+      "ticker": "PED",
+      "price": 0.32
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.3335
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.34
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3401
+    }
+  ]
+}

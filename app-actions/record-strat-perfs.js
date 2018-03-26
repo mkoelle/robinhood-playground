@@ -24,12 +24,12 @@ const analyzeDay = async (Robinhood, day) => {
         for (let min of Object.keys(obj)) {
             // for each strategy run
             strategyPicks[`${strategyName}-${min}`] = obj[min];
-            if (obj[min].length) {
-                strategyPicks[`${strategyName}-single-${min}`] = obj[min].slice(0, 1);
-            }
-            if (obj[min].length >= 3) {
-                strategyPicks[`${strategyName}-first3-${min}`] = obj[min].slice(0, 3);
-            }
+            // if (obj[min].length) {
+            //     strategyPicks[`${strategyName}-single-${min}`] = obj[min].slice(0, 1);
+            // }
+            // if (obj[min].length >= 3) {
+            //     strategyPicks[`${strategyName}-first3-${min}`] = obj[min].slice(0, 3);
+            // }
             obj[min].forEach(({ticker}) => {
                 tickerLookups[ticker] = null;
             });
