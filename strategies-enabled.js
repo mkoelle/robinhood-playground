@@ -174,8 +174,10 @@ module.exports = [
     'constant-risers-10minute-percUpCloseOnlyPoints-140',
     'constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-200',
     'constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-200',
+
     'constant-risers-5minute-percUpHighClose-fiveTo10-140',
     'constant-risers-5minute-percUpHighClose-fiveTo10-140',
+    'constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-140',
 
     'ups-then-downs-prevClose-fiveTo10-200',
     'up-streak-lt$3-upstreak-4-up1overnight-45',
