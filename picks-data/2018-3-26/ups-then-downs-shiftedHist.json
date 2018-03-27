@@ -44,5 +44,41 @@
       "ticker": "OSG",
       "price": 2.71
     }
+  ],
+  "300": [
+    {
+      "ticker": "PTN",
+      "price": 1.12
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.243
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.125
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.71
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PTN",
+      "price": 1.12
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.243
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.125
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.71
+    }
   ]
 }

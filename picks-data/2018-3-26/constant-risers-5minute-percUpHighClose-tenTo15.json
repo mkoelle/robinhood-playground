@@ -68,5 +68,33 @@
       "ticker": "GE",
       "price": 12.89
     }
+  ],
+  "250": [
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "F",
+      "price": 10.83
+    },
+    {
+      "ticker": "GE",
+      "price": 12.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "F",
+      "price": 10.83
+    },
+    {
+      "ticker": "GE",
+      "price": 12.89
+    }
   ]
 }

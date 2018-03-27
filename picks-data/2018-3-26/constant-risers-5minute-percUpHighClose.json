@@ -68,5 +68,33 @@
       "ticker": "NE",
       "price": 3.86
     }
+  ],
+  "250": [
+    {
+      "ticker": "AKER",
+      "price": 0.92
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.41
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.12
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKER",
+      "price": 0.92
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.41
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.12
+    }
   ]
 }

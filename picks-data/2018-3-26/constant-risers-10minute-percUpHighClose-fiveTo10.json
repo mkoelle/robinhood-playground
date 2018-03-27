@@ -68,5 +68,33 @@
       "ticker": "ECYT",
       "price": 9.94
     }
+  ],
+  "250": [
+    {
+      "ticker": "P",
+      "price": 5.33
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.94
+    }
+  ],
+  "300": [
+    {
+      "ticker": "P",
+      "price": 5.33
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.94
+    }
   ]
 }

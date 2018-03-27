@@ -68,5 +68,33 @@
       "ticker": "BLPH",
       "price": 2.32
     }
+  ],
+  "250": [
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.33
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.32
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.33
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.32
+    }
   ]
 }

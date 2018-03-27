@@ -5,7 +5,7 @@ const getTrendAndSave = require('./app-actions/get-trend-and-save');
 
 (async () => {
     let Robinhood = await login();
-    const argPath = process.argv.pop();
+    const argPath = process.argv[2];
     let relatedAnalysisFn = require(`./${argPath}`);
 
     let callArgs = [Robinhood];
@@ -19,7 +19,7 @@ const getTrendAndSave = require('./app-actions/get-trend-and-save');
     }
 
 
-    const response = await relatedAnalysisFn(...callArgs);
+    const response = await relatedAnalysisFn(...callArgs, ...process.argv.slice(3));
     console.log('response');
     console.log(JSON.stringify(response, null, 2));
 })();

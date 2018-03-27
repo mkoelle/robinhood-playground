@@ -68,5 +68,33 @@
       "ticker": "HZNP",
       "price": 14.29
     }
+  ],
+  "250": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.42
+    },
+    {
+      "ticker": "HZNP",
+      "price": 14.29
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.42
+    },
+    {
+      "ticker": "HZNP",
+      "price": 14.29
+    }
   ]
 }

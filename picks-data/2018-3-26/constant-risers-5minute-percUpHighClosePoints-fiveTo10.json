@@ -68,5 +68,33 @@
       "ticker": "TTS",
       "price": 6.1
     }
+  ],
+  "250": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.1
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.1
+    }
   ]
 }

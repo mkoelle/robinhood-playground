@@ -66,5 +66,27 @@
       "ticker": "EVC",
       "price": 4.6
     }
+  ],
+  "380": [
+    {
+      "ticker": "TOPS",
+      "price": 2.2
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.03
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.61
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.14
+    },
+    {
+      "ticker": "SBGL",
+      "price": 4.14
+    }
   ]
 }

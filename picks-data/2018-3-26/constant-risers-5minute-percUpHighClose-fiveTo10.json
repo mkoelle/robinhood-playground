@@ -68,5 +68,33 @@
       "ticker": "P",
       "price": 5.33
     }
+  ],
+  "250": [
+    {
+      "ticker": "CLF",
+      "price": 6.86
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "P",
+      "price": 5.33
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLF",
+      "price": 6.86
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "P",
+      "price": 5.33
+    }
   ]
 }

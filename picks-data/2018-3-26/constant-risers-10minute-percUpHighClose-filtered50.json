@@ -68,5 +68,33 @@
       "ticker": "OPK",
       "price": 3.32
     }
+  ],
+  "250": [
+    {
+      "ticker": "TEUM",
+      "price": 3.245
+    },
+    {
+      "ticker": "MEET",
+      "price": 1.96
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TEUM",
+      "price": 3.245
+    },
+    {
+      "ticker": "MEET",
+      "price": 1.96
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    }
   ]
 }

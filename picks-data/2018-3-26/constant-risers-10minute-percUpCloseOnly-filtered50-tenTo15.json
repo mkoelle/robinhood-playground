@@ -68,5 +68,33 @@
       "ticker": "CARA",
       "price": 12.85
     }
+  ],
+  "250": [
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "AMKR",
+      "price": 10.76
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "AMKR",
+      "price": 10.76
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    }
   ]
 }

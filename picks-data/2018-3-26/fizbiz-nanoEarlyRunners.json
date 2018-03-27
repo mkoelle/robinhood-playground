@@ -108,5 +108,27 @@
       "ticker": "ANY",
       "price": 1.09
     }
+  ],
+  "380": [
+    {
+      "ticker": "CHEK",
+      "price": 0.5489
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.113
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.42
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.9398
+    },
+    {
+      "ticker": "ANY",
+      "price": 1.09
+    }
   ]
 }

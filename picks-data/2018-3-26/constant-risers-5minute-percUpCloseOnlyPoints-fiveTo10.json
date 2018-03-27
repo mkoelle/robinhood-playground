@@ -68,5 +68,33 @@
       "ticker": "INSY",
       "price": 6.28
     }
+  ],
+  "250": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.45
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.45
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    }
   ]
 }

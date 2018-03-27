@@ -68,5 +68,33 @@
       "ticker": "BSTI",
       "price": 10.84
     }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.84
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.84
+    }
   ]
 }

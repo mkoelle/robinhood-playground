@@ -8,6 +8,8 @@ const { analyzeDay } = require('../app-actions/record-strat-perfs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
 
+const strategyPerfToday = require('./strategy-perf-today');
+
 let Robinhood;
 
 class HashTable {
@@ -29,7 +31,9 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood) => {
+module.exports = async (Robinhood, includeToday) => {
+    console.log('turkey', includeToday);
+
 
     let files = await fs.readdir('./strat-perfs');
 
@@ -60,6 +64,32 @@ module.exports = async (Robinhood) => {
             });
 
         });
+    }
+
+    // should includetoday?
+    if (includeToday) {
+        console.log('adding today');
+        const todayPerf = await strategyPerfToday(Robinhood);
+        todayPerf.forEach(perf => {
+            let { strategyName, avgTrend } = perf;
+            const lastDash = strategyName.lastIndexOf('-');
+            const buyMin = Number(strategyName.substring(lastDash + 1));
+
+
+            strategyName = strategyName.substring(0, lastDash);
+            const key = {
+                strategyName,
+                buyMin
+            };
+
+            // const curCount = (stratResults.get(key) || []).length;
+            // console.log(curCount, 'curcount');
+            console.log(key, 'key', avgTrend);
+
+            // const trendCurCountTimes = Array(curCount || 1).fill(avgTrend);
+            stratResults.put(key, (stratResults.get(key) || []).concat(avgTrend));
+        });
+        console.log('turkey true', todayPerf);
     }
 
     stratResults.keys().forEach(keyObj => {

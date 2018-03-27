@@ -68,5 +68,33 @@
       "ticker": "AMLP",
       "price": 9.34
     }
+  ],
+  "250": [
+    {
+      "ticker": "P",
+      "price": 5.33
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.345
+    }
+  ],
+  "300": [
+    {
+      "ticker": "P",
+      "price": 5.33
+    },
+    {
+      "ticker": "GERN",
+      "price": 5.98
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.345
+    }
   ]
 }

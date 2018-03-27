@@ -68,5 +68,33 @@
       "ticker": "NVAX",
       "price": 2.11
     }
+  ],
+  "250": [
+    {
+      "ticker": "CRIS",
+      "price": 0.6801
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.86
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRIS",
+      "price": 0.6801
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.86
+    }
   ]
 }

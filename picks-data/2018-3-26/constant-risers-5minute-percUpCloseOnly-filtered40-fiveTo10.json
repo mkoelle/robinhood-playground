@@ -68,5 +68,33 @@
       "ticker": "GSUM",
       "price": 8.64
     }
+  ],
+  "250": [
+    {
+      "ticker": "DF",
+      "price": 8.4
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.24
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.64
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DF",
+      "price": 8.4
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.24
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.64
+    }
   ]
 }

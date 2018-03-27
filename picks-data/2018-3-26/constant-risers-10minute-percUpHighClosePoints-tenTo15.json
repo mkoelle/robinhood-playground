@@ -68,5 +68,33 @@
       "ticker": "UA",
       "price": 14.46
     }
+  ],
+  "250": [
+    {
+      "ticker": "CRVS",
+      "price": 11.21
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRVS",
+      "price": 11.21
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    }
   ]
 }

@@ -40,5 +40,41 @@
       "ticker": "DRV",
       "price": 14.25
     }
+  ],
+  "300": [
+    {
+      "ticker": "FAZ",
+      "price": 11.27
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.99
+    },
+    {
+      "ticker": "QID",
+      "price": 11.62
+    },
+    {
+      "ticker": "DRV",
+      "price": 14.25
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FAZ",
+      "price": 11.27
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.99
+    },
+    {
+      "ticker": "QID",
+      "price": 11.62
+    },
+    {
+      "ticker": "DRV",
+      "price": 14.25
+    }
   ]
 }

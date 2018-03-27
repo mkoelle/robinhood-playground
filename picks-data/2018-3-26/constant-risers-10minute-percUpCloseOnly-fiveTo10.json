@@ -68,5 +68,33 @@
       "ticker": "MDXG",
       "price": 7.25
     }
+  ],
+  "250": [
+    {
+      "ticker": "CNAT",
+      "price": 6.17
+    },
+    {
+      "ticker": "LSCC",
+      "price": 5.88
+    },
+    {
+      "ticker": "MDXG",
+      "price": 7.25
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CNAT",
+      "price": 6.17
+    },
+    {
+      "ticker": "LSCC",
+      "price": 5.88
+    },
+    {
+      "ticker": "MDXG",
+      "price": 7.25
+    }
   ]
 }

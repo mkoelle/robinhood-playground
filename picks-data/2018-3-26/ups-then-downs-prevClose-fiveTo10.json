@@ -40,5 +40,33 @@
       "ticker": "SSG",
       "price": 8.0647
     }
+  ],
+  "300": [
+    {
+      "ticker": "TECS",
+      "price": 5.61
+    },
+    {
+      "ticker": "IFMK",
+      "price": 8.94
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.0647
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TECS",
+      "price": 5.61
+    },
+    {
+      "ticker": "IFMK",
+      "price": 8.94
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.0647
+    }
   ]
 }

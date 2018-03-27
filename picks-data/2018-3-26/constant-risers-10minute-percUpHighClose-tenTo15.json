@@ -68,5 +68,33 @@
       "ticker": "NLY",
       "price": 10.57
     }
+  ],
+  "250": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.57
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.57
+    }
   ]
 }

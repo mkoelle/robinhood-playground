@@ -68,5 +68,33 @@
       "ticker": "CRIS",
       "price": 0.6801
     }
+  ],
+  "250": [
+    {
+      "ticker": "SAND",
+      "price": 4.91
+    },
+    {
+      "ticker": "HMNY",
+      "price": 3.06
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.6801
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SAND",
+      "price": 4.91
+    },
+    {
+      "ticker": "HMNY",
+      "price": 3.06
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.6801
+    }
   ]
 }

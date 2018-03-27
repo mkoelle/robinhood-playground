@@ -68,5 +68,33 @@
       "ticker": "UA",
       "price": 14.46
     }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    }
   ]
 }

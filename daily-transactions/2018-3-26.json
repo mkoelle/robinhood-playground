@@ -369,5 +369,19 @@
     "ticker": "NTN",
     "bid_price": 5.322355999999999,
     "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "CPST",
+    "bid_price": 1.1750799999999983,
+    "quantity": 9,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "BDR",
+    "bid_price": 0.7615199999999999,
+    "quantity": 4,
+    "strategy": "week-swings"
   }
 ]

@@ -68,5 +68,33 @@
       "ticker": "SPWR",
       "price": 8.24
     }
+  ],
+  "250": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "RCII",
+      "price": 8.72
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.24
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "RCII",
+      "price": 8.72
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.24
+    }
   ]
 }

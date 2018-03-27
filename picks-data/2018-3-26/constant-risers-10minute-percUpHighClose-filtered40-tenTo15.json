@@ -68,5 +68,33 @@
       "ticker": "BB",
       "price": 13.09
     }
+  ],
+  "250": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "BB",
+      "price": 13.09
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "BB",
+      "price": 13.09
+    }
   ]
 }

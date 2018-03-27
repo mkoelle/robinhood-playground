@@ -68,5 +68,33 @@
       "ticker": "VTNR",
       "price": 1.36
     }
+  ],
+  "250": [
+    {
+      "ticker": "EKSO",
+      "price": 2.07
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.36
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EKSO",
+      "price": 2.07
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.36
+    }
   ]
 }

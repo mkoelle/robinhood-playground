@@ -68,5 +68,33 @@
       "ticker": "BB",
       "price": 13.09
     }
+  ],
+  "250": [
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.42
+    },
+    {
+      "ticker": "BB",
+      "price": 13.09
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.42
+    },
+    {
+      "ticker": "BB",
+      "price": 13.09
+    }
   ]
 }

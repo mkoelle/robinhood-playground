@@ -68,5 +68,33 @@
       "ticker": "RCII",
       "price": 8.72
     }
+  ],
+  "250": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    },
+    {
+      "ticker": "RCII",
+      "price": 8.72
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    },
+    {
+      "ticker": "RCII",
+      "price": 8.72
+    }
   ]
 }
