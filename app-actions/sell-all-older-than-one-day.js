@@ -3,8 +3,6 @@ const activeSell = require('./active-sell');
 
 const mapLimit = require('promise-map-limit');
 
-const MIN_PERC_UP = 6.5; // sell if stock rose 18% since yesterdays close
-
 const daysBetween = (firstDate, secondDate) => {
     var oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
     var diffDays = Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
@@ -23,7 +21,7 @@ module.exports = async Robinhood => {
     console.log(nonzero.length, 'total', olderThanADay.length, 'olderThanADay');
 
     const results = mapLimit(olderThanADay, 3, async pos => {
-        const sellRatio = (pos.dayAge === 1) ? 0.5 : 1;
+        const sellRatio = (pos.dayAge === 1 && true) ? 0.5 : 1;
         console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
         const numSharesToSell = Math.ceil(pos.quantity * sellRatio);
         try {
