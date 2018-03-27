@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "F",
+      "price": 10.805
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.7299
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.37
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IMGN",
+      "price": 12.79
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.5158
+    },
+    {
+      "ticker": "USO",
+      "price": 13.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 12.65
+    },
+    {
+      "ticker": "USO",
+      "price": 13.2033
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.4482
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IMGN",
+      "price": 12.94
+    },
+    {
+      "ticker": "GE",
+      "price": 12.895
+    },
+    {
+      "ticker": "F",
+      "price": 10.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "F",
+      "price": 10.83
+    },
+    {
+      "ticker": "GE",
+      "price": 12.89
+    }
+  ]
+}

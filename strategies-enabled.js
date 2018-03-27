@@ -128,20 +128,20 @@ module.exports = [
     'week-swings-1',
     'week-swings-169',
 
-    'stockinvest-top100-123',
-    'stockinvest-top100-123',
-    'stockinvest-top100-123',
+    // 'stockinvest-top100-123',
+    // 'stockinvest-top100-123',
+    // 'stockinvest-top100-123',
 
     'big-day-trend-up-tenTo15-35',
 
-    'based-on-jump-tenTo15-30',
-    'based-on-jump-tenTo15-30',
-    'based-on-jump-tenTo15-30',
-    'based-on-jump-tenTo15-5',
-    'based-on-jump-tenTo15-5',
+    // 'based-on-jump-tenTo15-30',
+    // 'based-on-jump-tenTo15-30',
+    // 'based-on-jump-tenTo15-30',
+    // 'based-on-jump-tenTo15-5',
+    // 'based-on-jump-tenTo15-5',
 
 
 
-    '<$3-upstreak-4-up1overnight-45',
+    'up-streak-lt$3-upstreak-4-up1overnight-45',
     '<$3-upstreak-4-189'
 ];

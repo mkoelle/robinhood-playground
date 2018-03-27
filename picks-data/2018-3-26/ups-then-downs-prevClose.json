@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "DRRX",
+      "price": 2.0227
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.8849
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RHE",
+      "price": 0.4804
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.91
+    },
+    {
+      "ticker": "DRRX",
+      "price": 2.154
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RHE",
+      "price": 0.4592
+    },
+    {
+      "ticker": "YANG",
+      "price": 4.77
+    },
+    {
+      "ticker": "WHLR",
+      "price": 3.74
+    },
+    {
+      "ticker": "DRRX",
+      "price": 2.11
+    }
+  ]
+}

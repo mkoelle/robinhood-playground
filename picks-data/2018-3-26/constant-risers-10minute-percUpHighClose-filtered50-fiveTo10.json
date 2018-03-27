@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "OCUL",
+      "price": 6.7539
+    },
+    {
+      "ticker": "CERS",
+      "price": 5.63
+    },
+    {
+      "ticker": "XIN",
+      "price": 5.6
+    }
+  ],
+  "80": [
+    {
+      "ticker": "HIMX",
+      "price": 6.88
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.55
+    },
+    {
+      "ticker": "CNAT",
+      "price": 6.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "P",
+      "price": 5.19
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.8334
+    },
+    {
+      "ticker": "KTOS",
+      "price": 9.32
+    }
+  ],
+  "140": [
+    {
+      "ticker": "P",
+      "price": 5.335
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.86
+    },
+    {
+      "ticker": "OAS",
+      "price": 8.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "P",
+      "price": 5.33
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.86
+    },
+    {
+      "ticker": "OAS",
+      "price": 8.37
+    }
+  ]
+}

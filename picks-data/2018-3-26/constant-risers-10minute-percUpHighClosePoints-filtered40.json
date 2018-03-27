@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "ENRJ",
+      "price": 0.2456
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.8196
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.2899
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ENRJ",
+      "price": 0.245
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.43
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.3075
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENRJ",
+      "price": 0.2205
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.38
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.325
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.35
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2051
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 3.17
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.36
+    },
+    {
+      "ticker": "ENRJ",
+      "price": 0.2051
+    }
+  ]
+}

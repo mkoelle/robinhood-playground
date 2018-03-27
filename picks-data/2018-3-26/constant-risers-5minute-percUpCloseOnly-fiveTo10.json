@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "XIN",
+      "price": 5.6
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.24
+    },
+    {
+      "ticker": "KEYW",
+      "price": 8.05
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RCM",
+      "price": 7.57
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.75
+    },
+    {
+      "ticker": "NLNK",
+      "price": 7.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSUM",
+      "price": 8.565
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.78
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.04
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SPWR",
+      "price": 8.25
+    },
+    {
+      "ticker": "DF",
+      "price": 8.4
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 8.4
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.24
+    },
+    {
+      "ticker": "GSUM",
+      "price": 8.64
+    }
+  ]
+}

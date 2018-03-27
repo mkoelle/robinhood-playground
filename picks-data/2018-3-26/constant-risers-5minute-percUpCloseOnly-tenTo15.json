@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "CARA",
+      "price": 12.62
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.09
+    },
+    {
+      "ticker": "ALDR",
+      "price": 11.8
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FATE",
+      "price": 11.49
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.53
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.009
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FATE",
+      "price": 11.38
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.41
+    },
+    {
+      "ticker": "ABX",
+      "price": 12.76
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.43
+    },
+    {
+      "ticker": "HZNP",
+      "price": 14.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "ETE",
+      "price": 14.42
+    },
+    {
+      "ticker": "HZNP",
+      "price": 14.29
+    }
+  ]
+}

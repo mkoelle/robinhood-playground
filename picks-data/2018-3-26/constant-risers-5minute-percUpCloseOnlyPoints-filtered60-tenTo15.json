@@ -1,0 +1,38 @@
+{
+  "40": [
+    {
+      "ticker": "NXEO",
+      "price": 10.47
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.7299
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.725
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FATE",
+      "price": 11.49
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FATE",
+      "price": 11.38
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.41
+    }
+  ],
+  "140": [],
+  "200": []
+}

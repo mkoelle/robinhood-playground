@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "NXEO",
+      "price": 10.47
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.7299
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.725
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DRIP",
+      "price": 13.009
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.795
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 12.9994
+    },
+    {
+      "ticker": "CRVS",
+      "price": 11
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.38
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    },
+    {
+      "ticker": "UA",
+      "price": 14.48
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CARA",
+      "price": 12.85
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.84
+    }
+  ]
+}

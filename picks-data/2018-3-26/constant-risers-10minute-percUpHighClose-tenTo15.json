@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "CMCM",
+      "price": 12.13
+    },
+    {
+      "ticker": "BGCP",
+      "price": 13.305
+    },
+    {
+      "ticker": "MFGP",
+      "price": 13.105
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SLM",
+      "price": 10.82
+    },
+    {
+      "ticker": "AKAO",
+      "price": 13.101
+    },
+    {
+      "ticker": "AMD",
+      "price": 10.235
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKAO",
+      "price": 12.98
+    },
+    {
+      "ticker": "SLM",
+      "price": 10.81
+    },
+    {
+      "ticker": "BB",
+      "price": 12.82
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.94
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMD",
+      "price": 10.44
+    },
+    {
+      "ticker": "IMGN",
+      "price": 12.95
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.57
+    }
+  ]
+}

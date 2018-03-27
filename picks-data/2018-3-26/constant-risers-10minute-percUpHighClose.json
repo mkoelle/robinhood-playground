@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "HTGM",
+      "price": 4.53
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.0601
+    },
+    {
+      "ticker": "DCAR",
+      "price": 2.11
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TOPS",
+      "price": 2.11
+    },
+    {
+      "ticker": "TEUM",
+      "price": 3.2795
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.9229
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPK",
+      "price": 3.17
+    },
+    {
+      "ticker": "TEUM",
+      "price": 3.26
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.9049
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TEUM",
+      "price": 3.245
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    },
+    {
+      "ticker": "MEET",
+      "price": 1.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TEUM",
+      "price": 3.22
+    },
+    {
+      "ticker": "MEET",
+      "price": 1.96
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.32
+    }
+  ]
+}

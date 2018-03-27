@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "ECA",
+      "price": 11.72
+    },
+    {
+      "ticker": "NAVI",
+      "price": 12.83
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.62
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BB",
+      "price": 12.795
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.5158
+    },
+    {
+      "ticker": "NAVI",
+      "price": 12.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BB",
+      "price": 12.815
+    },
+    {
+      "ticker": "UA",
+      "price": 14.01
+    },
+    {
+      "ticker": "NAVI",
+      "price": 12.95
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "UA",
+      "price": 14.48
+    },
+    {
+      "ticker": "AMKR",
+      "price": 10.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BB",
+      "price": 13.09
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "AMKR",
+      "price": 10.76
+    }
+  ]
+}

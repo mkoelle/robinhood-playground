@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 5.03
+    },
+    {
+      "ticker": "PTGX",
+      "price": 8.515
+    },
+    {
+      "ticker": "XIN",
+      "price": 5.6
+    }
+  ],
+  "80": [
+    {
+      "ticker": "PTGX",
+      "price": 8.67
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.7601
+    },
+    {
+      "ticker": "TTS",
+      "price": 5.925
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTGX",
+      "price": 8.6969
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.78
+    },
+    {
+      "ticker": "TTS",
+      "price": 5.975
+    }
+  ],
+  "140": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.5
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTGX",
+      "price": 8.75
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.45
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.28
+    }
+  ]
+}

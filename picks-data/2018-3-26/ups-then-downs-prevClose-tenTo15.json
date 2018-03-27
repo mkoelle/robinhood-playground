@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "FAZ",
+      "price": 11.48
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.265
+    }
+  ],
+  "50": [
+    {
+      "ticker": "FAZ",
+      "price": 11.6734
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.46
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FAZ",
+      "price": 11.27
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.99
+    },
+    {
+      "ticker": "QID",
+      "price": 11.62
+    },
+    {
+      "ticker": "DRV",
+      "price": 14.25
+    }
+  ]
+}

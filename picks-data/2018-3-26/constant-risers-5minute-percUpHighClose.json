@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "CIG",
+      "price": 2.5813
+    },
+    {
+      "ticker": "BW",
+      "price": 4.29
+    },
+    {
+      "ticker": "SAND",
+      "price": 4.91
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AKER",
+      "price": 0.9229
+    },
+    {
+      "ticker": "TOPS",
+      "price": 2.11
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKER",
+      "price": 0.9049
+    },
+    {
+      "ticker": "TOPS",
+      "price": 2.1599
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.03
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AKER",
+      "price": 0.911
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.12
+    },
+    {
+      "ticker": "NE",
+      "price": 3.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKER",
+      "price": 0.92
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.41
+    },
+    {
+      "ticker": "NE",
+      "price": 3.86
+    }
+  ]
+}

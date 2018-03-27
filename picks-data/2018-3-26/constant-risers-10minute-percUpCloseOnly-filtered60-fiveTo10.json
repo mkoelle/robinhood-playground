@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "MBI",
+      "price": 9.55
+    },
+    {
+      "ticker": "MACK",
+      "price": 8.475
+    },
+    {
+      "ticker": "AU",
+      "price": 9.72
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EXPR",
+      "price": 7.145
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.88
+    },
+    {
+      "ticker": "KTOS",
+      "price": 9.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AU",
+      "price": 9.86
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.04
+    },
+    {
+      "ticker": "GCAP",
+      "price": 6.73
+    }
+  ],
+  "140": [
+    {
+      "ticker": "LSCC",
+      "price": 5.88
+    },
+    {
+      "ticker": "MDXG",
+      "price": 7.25
+    },
+    {
+      "ticker": "CNAT",
+      "price": 6.165
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNAT",
+      "price": 6.17
+    },
+    {
+      "ticker": "LSCC",
+      "price": 5.88
+    },
+    {
+      "ticker": "MDXG",
+      "price": 7.25
+    }
+  ]
+}

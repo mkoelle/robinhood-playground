@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 10.725
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.7299
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.76
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DRIP",
+      "price": 13.009
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.795
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 14.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 10.74
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.38
+    },
+    {
+      "ticker": "AMBC",
+      "price": 14.72
+    }
+  ],
+  "140": [
+    {
+      "ticker": "FOLD",
+      "price": 14.87
+    },
+    {
+      "ticker": "UA",
+      "price": 14.48
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FOLD",
+      "price": 14.88
+    },
+    {
+      "ticker": "UA",
+      "price": 14.46
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.84
+    }
+  ]
+}
