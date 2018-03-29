@@ -1,0 +1,3 @@
+[submodule "modules/pattern-predict"]
+	path = modules/pattern-predict
+	url = git://github.com/chiefsmurph/pattern-predict.git
