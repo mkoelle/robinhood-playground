@@ -14,9 +14,13 @@ module.exports = async (Robinhood) => {
     for (let file of files) {
         const isDir = (await fs.lstat(file)).isDirectory();
         // if (!isDir) {
-        const moduleObj = require(file);
-        moduleObj.init(Robinhood);
-        modules.push(moduleObj);
+        try {
+            const moduleObj = require(file);
+            moduleObj.init(Robinhood);
+            modules.push(moduleObj);
+        } catch (e) {
+            console.log('unable to init', file);
+        }
         // }
     }
 
