@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SGYP",
+      "price": 1.769
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.8739
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.625
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SGYP",
+      "price": 1.785
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.04
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SGYP",
+      "price": 1.755
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.8938
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.8662
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NVAX",
+      "price": 2.045
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.785
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.9253
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 2.9744
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.05
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.75
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NVAX",
+      "price": 2.05
+    },
+    {
+      "ticker": "HMNY",
+      "price": 2.9841
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.6931
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LABD",
+      "price": 3.72
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.705
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.6501
+    }
+  ]
+}

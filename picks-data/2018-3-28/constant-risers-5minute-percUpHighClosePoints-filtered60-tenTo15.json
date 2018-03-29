@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "TVIX",
+      "price": 10.93
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.9
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.3
+    }
+  ],
+  "80": [
+    {
+      "ticker": "KTOS",
+      "price": 10.495
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.356
+    },
+    {
+      "ticker": "MPW",
+      "price": 13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.85
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.385
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "KTOS",
+      "price": 10.455
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.3397
+    },
+    {
+      "ticker": "MPW",
+      "price": 13.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MPW",
+      "price": 12.975
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.07
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NAVI",
+      "price": 13.095
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.94
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NAVI",
+      "price": 13.18
+    }
+  ]
+}

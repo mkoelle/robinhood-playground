@@ -24,7 +24,7 @@ const sellAllStocks = async (Robinhood) => {
         }
     };
 
-    const results = mapLimit(allPositions, 3, sellPosition);
+    const results = mapLimit(allPositions, 5, sellPosition);
 };
 
 module.exports = sellAllStocks;

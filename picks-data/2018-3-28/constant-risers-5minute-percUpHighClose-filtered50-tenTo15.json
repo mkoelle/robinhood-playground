@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "KIM",
+      "price": 14.51
+    },
+    {
+      "ticker": "TZA",
+      "price": 12.26
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.6445
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SOXS",
+      "price": 12.56
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.71
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.356
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 12.51
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.49
+    },
+    {
+      "ticker": "TVIX",
+      "price": 10.82
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BRS",
+      "price": 12.75
+    },
+    {
+      "ticker": "TVIX",
+      "price": 11.0814
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KIM",
+      "price": 14.59
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.425
+    },
+    {
+      "ticker": "TVIX",
+      "price": 10.96
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 10.88
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.44
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.59
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 10.81
+    },
+    {
+      "ticker": "F",
+      "price": 10.91
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.625
+    }
+  ]
+}

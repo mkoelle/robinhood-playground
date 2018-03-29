@@ -1,0 +1,80 @@
+{
+  "10": [
+    {
+      "ticker": "TOPS",
+      "price": 2.2694
+    }
+  ],
+  "50": [
+    {
+      "ticker": "TOPS",
+      "price": 2.3561
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.3416
+    },
+    {
+      "ticker": "UTI",
+      "price": 2.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOPS",
+      "price": 2.28
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.1499
+    },
+    {
+      "ticker": "HBIO",
+      "price": 4.905
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.3391
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TOPS",
+      "price": 2.1748
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.1
+    },
+    {
+      "ticker": "HBIO",
+      "price": 4.95
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.3391
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.705
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TOPS",
+      "price": 2.07
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.07
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.3126
+    },
+    {
+      "ticker": "HBIO",
+      "price": 4.975
+    }
+  ]
+}

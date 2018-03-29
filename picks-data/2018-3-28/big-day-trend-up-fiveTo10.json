@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "CRON",
+      "price": 6.3989
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.6
+    },
+    {
+      "ticker": "VUZI",
+      "price": 5.6002
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.89
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.1558
+    }
+  ],
+  "35": [
+    {
+      "ticker": "GSVC",
+      "price": 6.94
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.477
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.11
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.83
+    }
+  ],
+  "90": [
+    {
+      "ticker": "NL",
+      "price": 7.55
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5
+    },
+    {
+      "ticker": "VUZI",
+      "price": 5.5
+    },
+    {
+      "ticker": "CPG",
+      "price": 6.5499
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.67
+    }
+  ],
+  "223": [
+    {
+      "ticker": "NL",
+      "price": 7.55
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.095
+    },
+    {
+      "ticker": "CPG",
+      "price": 6.565
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.66
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.6
+    }
+  ]
+}

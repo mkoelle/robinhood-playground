@@ -1,0 +1,126 @@
+{
+  "2": [
+    {
+      "ticker": "ODP",
+      "price": 2.165
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.03
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.985
+    },
+    {
+      "ticker": "HK",
+      "price": 4.79
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.2298
+    }
+  ],
+  "12": [
+    {
+      "ticker": "ODP",
+      "price": 2.175
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.045
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.24
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.57
+    },
+    {
+      "ticker": "HK",
+      "price": 4.8738
+    }
+  ],
+  "75": [
+    {
+      "ticker": "RAD",
+      "price": 1.541
+    },
+    {
+      "ticker": "CDR",
+      "price": 3.885
+    },
+    {
+      "ticker": "HK",
+      "price": 4.795
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.975
+    }
+  ],
+  "120": [
+    {
+      "ticker": "RAD",
+      "price": 1.55
+    },
+    {
+      "ticker": "CDR",
+      "price": 3.9
+    },
+    {
+      "ticker": "HK",
+      "price": 4.82
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.98
+    }
+  ],
+  "180": [
+    {
+      "ticker": "RAD",
+      "price": 1.59
+    },
+    {
+      "ticker": "HK",
+      "price": 4.865
+    },
+    {
+      "ticker": "CDR",
+      "price": 3.92
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.06
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.13
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RAD",
+      "price": 1.66
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.06
+    },
+    {
+      "ticker": "HK",
+      "price": 4.84
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.045
+    },
+    {
+      "ticker": "SREV",
+      "price": 3.755
+    }
+  ]
+}

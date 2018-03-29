@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GPOR",
+      "price": 9.26
+    },
+    {
+      "ticker": "TECS",
+      "price": 6.22
+    },
+    {
+      "ticker": "BKD",
+      "price": 6.885
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MDR",
+      "price": 6.2742
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.6893
+    },
+    {
+      "ticker": "DDR",
+      "price": 7.215
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 9.26
+    },
+    {
+      "ticker": "ADT",
+      "price": 7.75
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.45
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MDR",
+      "price": 6.275
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.7031
+    },
+    {
+      "ticker": "DDR",
+      "price": 7.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKD",
+      "price": 6.945
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.745
+    },
+    {
+      "ticker": "CX",
+      "price": 6.565
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BKD",
+      "price": 6.945
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.15
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.3187
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 9.83
+    },
+    {
+      "ticker": "BKD",
+      "price": 6.95
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.145
+    }
+  ]
+}

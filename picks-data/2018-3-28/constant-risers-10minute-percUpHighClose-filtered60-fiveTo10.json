@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MGEN",
+      "price": 7.05
+    },
+    {
+      "ticker": "IGR",
+      "price": 7.2367
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.69
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MGEN",
+      "price": 7.04
+    },
+    {
+      "ticker": "CDNA",
+      "price": 7.67
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 7.72
+    },
+    {
+      "ticker": "DDR",
+      "price": 7.215
+    },
+    {
+      "ticker": "PTGX",
+      "price": 8.96
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MGEN",
+      "price": 7.07
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.49
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.7031
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WPG",
+      "price": 6.53
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.695
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.125
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WPG",
+      "price": 6.55
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.73
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.15
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TRUE",
+      "price": 9.29
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.585
+    }
+  ]
+}

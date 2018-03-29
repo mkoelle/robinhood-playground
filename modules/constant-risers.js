@@ -44,6 +44,7 @@ const trendFilter = async (Robinhood, trend) => {
                 };
 
             })
+            .filter(buy => buy.trendPerc > 1)
             .map(buy => {
                 // delete buy.historicals;
                 return buy;

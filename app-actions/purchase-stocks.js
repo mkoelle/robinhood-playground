@@ -2,7 +2,7 @@ const limitBuyMultiple = require('./limit-buy-multiple');
 const getMinutesFrom630 = require('../utils/get-minutes-from-630');
 
 
-const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier }) => {
+const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier, min }) => {
     const accounts = await Robinhood.accounts();
     // const ratioToSpend = Math.max(0.3, getMinutesFrom630() / 390);
     const cashAvailable = Number(accounts.results[0].sma);
@@ -22,7 +22,8 @@ const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier }) 
     await limitBuyMultiple(Robinhood, {
         stocksToBuy,
         totalAmtToSpend,
-        strategy
+        strategy,
+        min
     });
 };
 

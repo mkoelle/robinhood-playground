@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ZNGA",
+      "price": 3.675
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.769
+    },
+    {
+      "ticker": "CLWT",
+      "price": 3.15
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GERN",
+      "price": 4.11
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.835
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.5101
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLWT",
+      "price": 3.1862
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.87
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.56
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GERN",
+      "price": 4.25
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 3.685
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GERN",
+      "price": 4.213
+    },
+    {
+      "ticker": "SRNE",
+      "price": 4.675
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.3
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 4.2266
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.915
+    },
+    {
+      "ticker": "SRNE",
+      "price": 4.555
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GERN",
+      "price": 4.2201
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.0402
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.955
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "10": [
+    {
+      "ticker": "FAZ",
+      "price": 11.83
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.57
+    },
+    {
+      "ticker": "QID",
+      "price": 12.38
+    }
+  ],
+  "50": [
+    {
+      "ticker": "FAZ",
+      "price": 11.83
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.57
+    },
+    {
+      "ticker": "QID",
+      "price": 12.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FAZ",
+      "price": 11.4
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.161
+    },
+    {
+      "ticker": "QID",
+      "price": 12.06
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FAZ",
+      "price": 11.8351
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.57
+    },
+    {
+      "ticker": "QID",
+      "price": 12.38
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FAZ",
+      "price": 11.83
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.57
+    },
+    {
+      "ticker": "QID",
+      "price": 12.38
+    }
+  ]
+}

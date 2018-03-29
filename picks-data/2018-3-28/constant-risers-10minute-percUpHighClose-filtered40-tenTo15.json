@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CORI",
+      "price": 11.18
+    },
+    {
+      "ticker": "DNP",
+      "price": 10.24
+    },
+    {
+      "ticker": "QID",
+      "price": 12.6
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SOXS",
+      "price": 12.56
+    },
+    {
+      "ticker": "REPH",
+      "price": 10.7264
+    },
+    {
+      "ticker": "QID",
+      "price": 12.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REPH",
+      "price": 10.775
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.28
+    },
+    {
+      "ticker": "MPW",
+      "price": 12.91
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TZA",
+      "price": 12.2048
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.5899
+    },
+    {
+      "ticker": "MPW",
+      "price": 13.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RRC",
+      "price": 14.4215
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.93
+    },
+    {
+      "ticker": "MPW",
+      "price": 12.975
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TZA",
+      "price": 12.14
+    },
+    {
+      "ticker": "TVIX",
+      "price": 10.86
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.94
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GE",
+      "price": 13.5973
+    },
+    {
+      "ticker": "ISBC",
+      "price": 13.62
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.74
+    }
+  ]
+}

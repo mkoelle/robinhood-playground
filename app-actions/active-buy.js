@@ -21,7 +21,7 @@ const addToDailyTransactions = async data => {
 };
 
 
-module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
+module.exports = async (Robinhood, { ticker, strategy, maxPrice, min }) => {
 
     return new Promise((resolve, reject) => {
 
@@ -91,7 +91,8 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice }) => {
                             ticker,
                             bid_price: bidPrice,
                             quantity,
-                            strategy
+                            strategy,
+                            min
                         };
                         await addToDailyTransactions(successObj);
 

@@ -40,10 +40,13 @@ module.exports = async (Robinhood, strategy, min, picks) => {
 
     const enableCount = strategiesEnabled.filter(strat => strat === `${strategy}-${min}`).length;
     if (enableCount) {
+        console.log('strategy enabled: ', `${strategy}-${min}`, 'purchasing');
+        console.log('picks', picks);
         await purchaseStocks(Robinhood, {
             stocksToBuy: picks,
             strategy,
-            multiplier: enableCount
+            multiplier: enableCount,
+            min
         });
     }
 

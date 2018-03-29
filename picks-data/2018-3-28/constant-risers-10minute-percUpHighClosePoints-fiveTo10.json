@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 9.95
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.12
+    },
+    {
+      "ticker": "IVAC",
+      "price": 6.6
+    }
+  ],
+  "80": [
+    {
+      "ticker": "JNP",
+      "price": 9.825
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.1735
+    },
+    {
+      "ticker": "IVAC",
+      "price": 6.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 9.851
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.0958
+    },
+    {
+      "ticker": "IVAC",
+      "price": 6.6
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JNP",
+      "price": 10
+    },
+    {
+      "ticker": "IVAC",
+      "price": 6.7248
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 9.6
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.135
+    },
+    {
+      "ticker": "IVAC",
+      "price": 6.7
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TXMD",
+      "price": 5.2
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.65
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "JNP",
+      "price": 9.449
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.1
+    },
+    {
+      "ticker": "QHC",
+      "price": 9.28
+    }
+  ]
+}

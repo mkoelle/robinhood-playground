@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 9.95
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.12
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.455
+    }
+  ],
+  "80": [
+    {
+      "ticker": "JNP",
+      "price": 9.825
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.1735
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 9.851
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.0958
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.45
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JNP",
+      "price": 10
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.15
+    },
+    {
+      "ticker": "VRAY",
+      "price": 6.6599
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WPG",
+      "price": 6.53
+    },
+    {
+      "ticker": "VRAY",
+      "price": 6.61
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.74
+    }
+  ],
+  "250": [
+    {
+      "ticker": "VRAY",
+      "price": 6.7
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.55
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.12
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WPG",
+      "price": 6.585
+    },
+    {
+      "ticker": "VRAY",
+      "price": 6.61
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.11
+    }
+  ]
+}

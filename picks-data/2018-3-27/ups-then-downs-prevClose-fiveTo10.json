@@ -1,0 +1,60 @@
+{
+  "10": [
+    {
+      "ticker": "GERN",
+      "price": 5.15
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.02
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.55
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GERN",
+      "price": 5.15
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.02
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GERN",
+      "price": 5.28
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GERN",
+      "price": 5.145
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.56
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GERN",
+      "price": 5.15
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.02
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.55
+    }
+  ]
+}

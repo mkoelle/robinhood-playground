@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TVIX",
+      "price": 10.92
+    },
+    {
+      "ticker": "CUE",
+      "price": 14.17
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.9
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TVIX",
+      "price": 11.04
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.495
+    },
+    {
+      "ticker": "DRIP",
+      "price": 13.356
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIX",
+      "price": 10.82
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.385
+    },
+    {
+      "ticker": "CUE",
+      "price": 14.15
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TVIX",
+      "price": 11.1
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.455
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIX",
+      "price": 11.01
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.36
+    },
+    {
+      "ticker": "LAUR",
+      "price": 13.9
+    }
+  ],
+  "250": [
+    {
+      "ticker": "KTOS",
+      "price": 10.3
+    },
+    {
+      "ticker": "CHRS",
+      "price": 11.35
+    },
+    {
+      "ticker": "LAUR",
+      "price": 13.9
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ERY",
+      "price": 10.65
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.0817
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.35
+    }
+  ]
+}

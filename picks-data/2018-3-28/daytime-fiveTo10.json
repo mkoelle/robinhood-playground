@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "DWSN",
+      "price": 6.2
+    },
+    {
+      "ticker": "CX",
+      "price": 6.57
+    },
+    {
+      "ticker": "JMBA",
+      "price": 8.68
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.8
+    },
+    {
+      "ticker": "RLH",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMBA",
+      "price": 8.61
+    },
+    {
+      "ticker": "CX",
+      "price": 6.545
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.8
+    },
+    {
+      "ticker": "KMPH",
+      "price": 7.5499
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.1
+    }
+  ]
+}

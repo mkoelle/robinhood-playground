@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "INN",
+      "price": 13.52
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.84
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.76
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MPW",
+      "price": 13
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.495
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MPW",
+      "price": 12.91
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.8
+    },
+    {
+      "ticker": "WSR",
+      "price": 10.47
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MPW",
+      "price": 13.005
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.455
+    },
+    {
+      "ticker": "NAVI",
+      "price": 12.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVI",
+      "price": 13.07
+    },
+    {
+      "ticker": "MPW",
+      "price": 12.975
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.36
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NAVI",
+      "price": 13.095
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.94
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NAVI",
+      "price": 13.18
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.99
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.42
+    }
+  ]
+}

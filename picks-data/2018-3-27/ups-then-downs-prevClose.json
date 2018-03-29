@@ -1,0 +1,64 @@
+{
+  "10": [
+    {
+      "ticker": "SSC",
+      "price": 2.25
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.22
+    },
+    {
+      "ticker": "NG",
+      "price": 4.48
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SSC",
+      "price": 2.25
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.22
+    },
+    {
+      "ticker": "NG",
+      "price": 4.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAUH",
+      "price": 1.1942
+    },
+    {
+      "ticker": "NG",
+      "price": 4.53
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SSC",
+      "price": 2.25
+    },
+    {
+      "ticker": "NG",
+      "price": 4.45
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SSC",
+      "price": 2.25
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.22
+    },
+    {
+      "ticker": "NG",
+      "price": 4.48
+    }
+  ]
+}
