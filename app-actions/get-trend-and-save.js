@@ -22,7 +22,7 @@ const getTrendAndSave = async (Robinhood, min) => {
     // step 2 - get trend
     console.log(`getting trend since open for all stocks - 6:31am + ${min} minutes`);
     const trendingArray = await getTrendSinceOpen(Robinhood, allTickers);
-    const dateStr = (new Date()).toLocaleString();
+    const dateStr = (new Date()).toLocaleString().split('/').join('-').split(',').join('');
 
     // step 3 - save trend
     await jsonMgr.save(`./stock-data/${dateStr} (+${min}).json`, trendingArray);

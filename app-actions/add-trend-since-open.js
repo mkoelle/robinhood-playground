@@ -27,7 +27,7 @@ module.exports = async (Robinhood, trend) => {
 
     return withFundamentals.map(stock => ({
         ...stock,
-        trendSinceOpen: getTrend(stock.fundamentals.open, stock.quote_data.last_trade_price)
+        trendSinceOpen: getTrend(stock.quote_data.last_trade_price, stock.fundamentals.open)
     })).sort((a, b) => b.trendSinceOpen - a.trendSinceOpen);
 
 };
