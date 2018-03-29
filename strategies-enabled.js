@@ -28,5 +28,5 @@ module.exports = [
     // 2 day wrap up
     // 100% up
     'cheapest-picks-chp3-65',
-
+    'constant-risers-10minute-percUpCloseOnly-filtered40-40'
 ];
