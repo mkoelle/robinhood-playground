@@ -16,7 +16,7 @@ const sellAllStocks = require('../app-actions/sell-all-stocks');
 const additionalCronConfig = [
     {
         name: 'sell all stocks if went up',
-        run: [0],
+        run: [8],
         fn: (Robinhood) => {
 
             setTimeout(async () => {
@@ -30,7 +30,7 @@ const additionalCronConfig = [
                 // console.log('logging portfolio value');
                 // await logPortfolioValue(Robinhood);
 
-            }, 4000);
+            }, 4);
 
         }
     },
