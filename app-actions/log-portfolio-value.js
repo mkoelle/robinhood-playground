@@ -20,7 +20,7 @@ module.exports = async (Robinhood) => {
         date: (() => {
             const d = new Date(h.begins_at);
             d.setDate(d.getDate() + 1);
-            return d.toLocaleDateString();
+            return d.toLocaleDateString().split('/').join('-');
         })(),
         close: Number(h.adjusted_close_equity)
     }));

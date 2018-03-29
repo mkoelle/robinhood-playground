@@ -14,7 +14,7 @@ const BUY_RATIO_INCREMENT = 0.001;
 
 
 const addToDailyTransactions = async data => {
-    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
+    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString().split('/').join('-')}.json`;
     const curTransactions = await jsonMgr.get(fileName) || [];
     curTransactions.push(data);
     await jsonMgr.save(fileName, curTransactions);

@@ -86,7 +86,7 @@ module.exports = async (Robinhood) => {
         buy.historicals.forEach(hist => {
             let d = new Date(hist.begins_at);
             d.setDate(d.getDate() + 1);
-            d = d.toLocaleDateString();
+            d = d.toLocaleDateString().split('/').join('-');
             // console.log('historicadaw', hist.upstreak);
             if (
                 (getTrend(hist.close_price, hist.open_price) > 10) ||
@@ -131,7 +131,7 @@ module.exports = async (Robinhood) => {
                 const folDay = relBuy.historicals.findIndex(hist => {
                     let d = new Date(hist.begins_at);
                     d.setDate(d.getDate() + 1);
-                    d = d.toLocaleDateString();
+                    d = d.toLocaleDateString().split('/').join('-');
                     return d === key;
                 });
 

@@ -3,7 +3,7 @@ const jsonMgr = require('../utils/json-mgr');
 const lookup = require('../utils/lookup');
 
 const boughtThisStockToday = async ticker => {
-    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString()}.json`;
+    const fileName = `./daily-transactions/${(new Date()).toLocaleDateString().split('/').join('-')}.json`;
     const curTransactions = await jsonMgr.get(fileName) || [];
     return curTransactions.some(transaction => {
         return transaction.ticker === ticker && transaction.type === 'buy';
