@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "CLF",
+      "price": 6.8502
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.43
+    },
+    {
+      "ticker": "TELL",
+      "price": 6.945
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CLF",
+      "price": 6.95
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.275
+    },
+    {
+      "ticker": "TELL",
+      "price": 6.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TELL",
+      "price": 7.06
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.35
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.635
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TELL",
+      "price": 7.18
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.86
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.615
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TELL",
+      "price": 7.15
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.59
+    },
+    {
+      "ticker": "QEP",
+      "price": 9.69
+    }
+  ]
+}

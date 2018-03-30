@@ -1,0 +1,36 @@
+{
+  "200": [
+    {
+      "ticker": "SHLD",
+      "price": 2.7069
+    },
+    {
+      "ticker": "TST",
+      "price": 1.8556
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SHLD",
+      "price": 2.6699
+    },
+    {
+      "ticker": "TST",
+      "price": 1.85
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SHLD",
+      "price": 2.66
+    },
+    {
+      "ticker": "TST",
+      "price": 1.8
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3893
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 6.27
+    },
+    {
+      "ticker": "KMPH",
+      "price": 7.85
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 6.3
+    },
+    {
+      "ticker": "KMPH",
+      "price": 7.9
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.1266
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.2
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.2
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 4.6
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.64
+    },
+    {
+      "ticker": "VKTX",
+      "price": 4.3302
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GERN",
+      "price": 4.565
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.62
+    },
+    {
+      "ticker": "PTI",
+      "price": 4.8197
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GERN",
+      "price": 4.6036
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.635
+    },
+    {
+      "ticker": "TNDM",
+      "price": 4.9399
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GGB",
+      "price": 4.645
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.47
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GGB",
+      "price": 4.67
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.505
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.61
+    }
+  ]
+}

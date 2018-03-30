@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "WPX",
+      "price": 14.305
+    },
+    {
+      "ticker": "SNDX",
+      "price": 14.25
+    },
+    {
+      "ticker": "XOG",
+      "price": 11.52
+    }
+  ],
+  "140": [
+    {
+      "ticker": "WPX",
+      "price": 14.32
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.08
+    },
+    {
+      "ticker": "CPE",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADAP",
+      "price": 11.4566
+    },
+    {
+      "ticker": "CPE",
+      "price": 12.925
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.95
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CMCM",
+      "price": 13.115
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.44
+    },
+    {
+      "ticker": "CPE",
+      "price": 13.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CMCM",
+      "price": 13.15
+    },
+    {
+      "ticker": "CPE",
+      "price": 13.145
+    },
+    {
+      "ticker": "WPX",
+      "price": 14.655
+    }
+  ]
+}

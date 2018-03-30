@@ -1,0 +1,60 @@
+{
+  "100": [
+    {
+      "ticker": "TELL",
+      "price": 6.945
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.175
+    },
+    {
+      "ticker": "RIG",
+      "price": 9.905
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TELL",
+      "price": 6.97
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.275
+    },
+    {
+      "ticker": "DRNA",
+      "price": 9.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TELL",
+      "price": 7.06
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.35
+    },
+    {
+      "ticker": "DRNA",
+      "price": 9.42
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TELL",
+      "price": 7.18
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.0825
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TELL",
+      "price": 7.15
+    }
+  ]
+}

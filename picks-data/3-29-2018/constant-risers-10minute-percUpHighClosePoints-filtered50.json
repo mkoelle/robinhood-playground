@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "EVEP",
+      "price": 0.1999
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.5
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.415
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GALT",
+      "price": 4.51
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.193
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKG",
+      "price": 0.9203
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.87
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.33
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKG",
+      "price": 0.9251
+    },
+    {
+      "ticker": "SMRT",
+      "price": 1.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.1569
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKG",
+      "price": 0.9424
+    },
+    {
+      "ticker": "SMRT",
+      "price": 1.54
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.115
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "QEP",
+      "price": 9.58
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.82
+    },
+    {
+      "ticker": "CVE",
+      "price": 8.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRON",
+      "price": 6.74
+    },
+    {
+      "ticker": "SND",
+      "price": 5.73
+    },
+    {
+      "ticker": "FTR",
+      "price": 7.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRNA",
+      "price": 9.42
+    },
+    {
+      "ticker": "SRNE",
+      "price": 5.1
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.815
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FTR",
+      "price": 7.42
+    },
+    {
+      "ticker": "DRNA",
+      "price": 9.48
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.86
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IBN",
+      "price": 8.86
+    },
+    {
+      "ticker": "SND",
+      "price": 5.805
+    },
+    {
+      "ticker": "QEP",
+      "price": 9.69
+    }
+  ]
+}

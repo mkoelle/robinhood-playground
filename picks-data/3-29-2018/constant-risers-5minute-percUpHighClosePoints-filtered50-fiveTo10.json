@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "SFUN",
+      "price": 5.155
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.175
+    },
+    {
+      "ticker": "TELL",
+      "price": 6.945
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRBP",
+      "price": 6.275
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.585
+    },
+    {
+      "ticker": "TELL",
+      "price": 6.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRBP",
+      "price": 6.35
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.06
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.585
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NPTN",
+      "price": 6.91
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.18
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.0825
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NPTN",
+      "price": 7.04
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.175
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.15
+    }
+  ]
+}

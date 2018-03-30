@@ -1,0 +1,51 @@
+{
+  "100": [
+    {
+      "ticker": "GALT",
+      "price": 4.5
+    },
+    {
+      "ticker": "PETX",
+      "price": 4.65
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.765
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OSG",
+      "price": 2.82
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.28
+    },
+    {
+      "ticker": "PETX",
+      "price": 4.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKG",
+      "price": 0.9203
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.3578
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.795
+    }
+  ],
+  "250": [
+    {
+      "ticker": "OSG",
+      "price": 2.8099
+    }
+  ],
+  "300": []
+}

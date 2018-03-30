@@ -102,6 +102,9 @@ module.exports = {
         console.log(sortedFolders);
 
         const prevDayDate = sortedFolders[sortedFolders.length - 2];
+        if (!prevDayDate) {
+            return console.log('not enough picks-data to analyze within record-strat-perfs.')
+        }
         const analyzed = await analyzeDay(Robinhood, prevDayDate);
 
         const curStratPerfs = await jsonMgr.get(`./strat-perfs/${prevDayDate}.json`) || {};

@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.82
+    },
+    {
+      "ticker": "CLF",
+      "price": 6.8502
+    },
+    {
+      "ticker": "TNDM",
+      "price": 5.01
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRON",
+      "price": 6.74
+    },
+    {
+      "ticker": "CLF",
+      "price": 6.9448
+    },
+    {
+      "ticker": "TELL",
+      "price": 6.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLF",
+      "price": 6.9138
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.06
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.635
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TELL",
+      "price": 7.18
+    },
+    {
+      "ticker": "CLF",
+      "price": 6.939
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TELL",
+      "price": 7.15
+    },
+    {
+      "ticker": "CLF",
+      "price": 6.935
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7459
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "100": [
+    {
+      "ticker": "CMCM",
+      "price": 12.5062
+    },
+    {
+      "ticker": "SVXY",
+      "price": 11.66
+    },
+    {
+      "ticker": "FOSL",
+      "price": 13.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SVXY",
+      "price": 11.66
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.785
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.4507
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMCM",
+      "price": 12.95
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.15
+    },
+    {
+      "ticker": "UA",
+      "price": 14.48
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WPX",
+      "price": 14.64
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.115
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WPX",
+      "price": 14.655
+    },
+    {
+      "ticker": "CZZ",
+      "price": 10.42
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.15
+    }
+  ]
+}

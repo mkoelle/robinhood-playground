@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "GALT",
+      "price": 4.5
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.415
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.35
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GALT",
+      "price": 4.51
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.89
+    },
+    {
+      "ticker": "NM",
+      "price": 0.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKG",
+      "price": 0.9203
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.6099
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.87
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKG",
+      "price": 0.9251
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.8851
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.8099
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKG",
+      "price": 0.9424
+    },
+    {
+      "ticker": "CDMO",
+      "price": 2.89
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.9
+    }
+  ]
+}

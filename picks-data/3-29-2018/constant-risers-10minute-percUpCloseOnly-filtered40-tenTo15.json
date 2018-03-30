@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "CPE",
+      "price": 12.93
+    },
+    {
+      "ticker": "SNDX",
+      "price": 14.25
+    },
+    {
+      "ticker": "DFRG",
+      "price": 14.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SNDX",
+      "price": 14.24
+    },
+    {
+      "ticker": "CAFD",
+      "price": 12.16
+    },
+    {
+      "ticker": "ABEO",
+      "price": 14.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNDX",
+      "price": 14.14
+    },
+    {
+      "ticker": "ABEO",
+      "price": 14.25
+    },
+    {
+      "ticker": "WPX",
+      "price": 14.54
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CPE",
+      "price": 13.05
+    },
+    {
+      "ticker": "WPX",
+      "price": 14.64
+    },
+    {
+      "ticker": "ABEO",
+      "price": 14.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SBS",
+      "price": 10.6
+    },
+    {
+      "ticker": "CPE",
+      "price": 13.145
+    },
+    {
+      "ticker": "WPX",
+      "price": 14.655
+    }
+  ]
+}

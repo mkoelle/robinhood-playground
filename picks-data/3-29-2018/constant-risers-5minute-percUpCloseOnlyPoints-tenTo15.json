@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 10.3501
+    },
+    {
+      "ticker": "MNTX",
+      "price": 12.06
+    },
+    {
+      "ticker": "FOSL",
+      "price": 13.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JNP",
+      "price": 10.55
+    },
+    {
+      "ticker": "FOSL",
+      "price": 13.415
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.9453
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 10.65
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.4566
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "JNP",
+      "price": 10.5
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.44
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.83
+    }
+  ],
+  "300": [
+    {
+      "ticker": "JNP",
+      "price": 10.5508
+    },
+    {
+      "ticker": "JAG",
+      "price": 14
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.5099
+    }
+  ]
+}

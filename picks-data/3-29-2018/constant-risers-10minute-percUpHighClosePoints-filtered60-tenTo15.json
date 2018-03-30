@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 10.3501
+    },
+    {
+      "ticker": "FOSL",
+      "price": 13.48
+    },
+    {
+      "ticker": "SNDX",
+      "price": 14.25
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JNP",
+      "price": 10.55
+    },
+    {
+      "ticker": "FOSL",
+      "price": 13.415
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADAP",
+      "price": 11.4566
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.76
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.95
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ADAP",
+      "price": 11.44
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.115
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.83
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ADAP",
+      "price": 11.5
+    },
+    {
+      "ticker": "JAG",
+      "price": 14
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.009
+    }
+  ]
+}

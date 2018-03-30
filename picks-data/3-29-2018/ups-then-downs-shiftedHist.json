@@ -1,0 +1,32 @@
+{
+  "200": [
+    {
+      "ticker": "AYTU",
+      "price": 0.6193
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.3969
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AYTU",
+      "price": 0.6386
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.375
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AYTU",
+      "price": 0.6147
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.37
+    }
+  ]
+}
