@@ -6,8 +6,8 @@ const executeStrategy = require('../app-actions/execute-strategy');
 // const mapLimit = require('promise-map-limit');
 
 const DEFAULT_OPTS = {
-    BUFFERS: [ 10, 20, 30 ],
-    MIN_SWINGS: [ 4, 5, 6 ],
+    BUFFERS: [ 10, 25, 40 ],
+    MIN_SWINGS: [ 3, 4, 5 ],
     MIN_DIFF: 120
 };
 
