@@ -13,14 +13,13 @@ module.exports = [
     // 80%+
     'fizbiz-under5TopLosers-380',
     'daytime-fiveTo10-260',
-    'daytime-fiveTo10-200',
+    'daytime-200',
     'cheapest-picks-chp1-4',
 
     // 3 day wrap up
     // 100% up
     'cheapest-picks-chp3-175',
     'ups-then-downs-shiftedHist-50',
-    'fizbiz-under5TopLosers-380',
     'week-swings-fiveTo10-1',
     'ups-then-downs-shiftedHist-tenTo15-200',
     'first-greens-tenTo15-250',

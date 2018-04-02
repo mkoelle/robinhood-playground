@@ -92,7 +92,7 @@ module.exports = async (Robinhood) => {
                 count: matches.length,
                 percUp: matches.filter(b => Number(b.recentTrend) > 0).length / matches.length,
                 avgToday: avgArray(matches.map(m => Number(m.recentTrend))),
-                // tickers: matches.map(m => m.ticker)
+                tickers: matches.map(m => m.ticker)
                 // jumpedUp: {
                 //     count: jumpedUp.length,
                 //     percUp: jumpedUp.filter(b => Number(b.trend_since_open) > 0).length / jumpedUp.length,
