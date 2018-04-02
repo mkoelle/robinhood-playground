@@ -53,9 +53,7 @@ const beforeCloseUp = {
                 name: 'execute before-close-up strategy',
                 run: [350, 380],  // 12:31, 12:50pm
                 // run: [],
-                fn: async (Robinhood, min) => {
-                    await executeStrategy(Robinhood, trendFilter, min, 0.35, 'before-close-up');
-                }
+                fn: (Robinhood, min) => executeStrategy(Robinhood, trendFilter, min, 0.35, 'before-close-up')
             },
         );
     }

@@ -113,7 +113,7 @@ const upsThenDowns = {
             Robinhood,
             {
                 name: 'execute ups-then-downs strategy',
-                run: [10, 50, 200, 300, 380],
+                run: [10, 50, 200, 300, 380, 600],
                 // run: [],
                 fn: (Robinhood, min) => setTimeout(async () => {
                     await executeStrategy(Robinhood, trendFilter, min, 0.3, 'ups-then-downs');
