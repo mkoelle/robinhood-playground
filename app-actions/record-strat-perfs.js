@@ -122,7 +122,7 @@ module.exports = {
 
             const curStratPerfs = await jsonMgr.get(`./strat-perfs/${pastDayDate}.json`) || {};
             curStratPerfs[`${key}-${min}`] = analyzed;
-            await jsonMgr.save(`./strat-perfs/${prevDayDate}.json`, curStratPerfs);
+            await jsonMgr.save(`./strat-perfs/${pastDayDate}.json`, curStratPerfs);
             console.log(key, 'saved strat-perf');
         }
 

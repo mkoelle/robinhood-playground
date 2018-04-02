@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 12.9811
+    },
+    {
+      "ticker": "MFGP",
+      "price": 14.11
+    },
+    {
+      "ticker": "CATO",
+      "price": 14.79
+    }
+  ],
+  "80": [
+    {
+      "ticker": "QID",
+      "price": 12.63
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.79
+    },
+    {
+      "ticker": "SE",
+      "price": 11.545
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QID",
+      "price": 12.7731
+    },
+    {
+      "ticker": "MAG",
+      "price": 10.31
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.77
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SOXS",
+      "price": 13.1869
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.0201
+    },
+    {
+      "ticker": "TVIX",
+      "price": 11.26
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SPXU",
+      "price": 11.895
+    },
+    {
+      "ticker": "GME",
+      "price": 13.03
+    },
+    {
+      "ticker": "TVIX",
+      "price": 10.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABX",
+      "price": 12.7351
+    },
+    {
+      "ticker": "DWT",
+      "price": 10.98
+    },
+    {
+      "ticker": "SPXU",
+      "price": 12.21
+    }
+  ]
+}

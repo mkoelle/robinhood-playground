@@ -1,0 +1,44 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "XBIT",
+      "price": 5.029
+    },
+    {
+      "ticker": "TSQ",
+      "price": 7.64
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TSQ",
+      "price": 7.57
+    },
+    {
+      "ticker": "BGFV",
+      "price": 6.85
+    }
+  ],
+  "380": [
+    {
+      "ticker": "XBIT",
+      "price": 5.159
+    }
+  ],
+  "600": [
+    {
+      "ticker": "XBIT",
+      "price": 5.13
+    },
+    {
+      "ticker": "TSQ",
+      "price": 7.65
+    },
+    {
+      "ticker": "SBBP",
+      "price": 8.4
+    }
+  ]
+}

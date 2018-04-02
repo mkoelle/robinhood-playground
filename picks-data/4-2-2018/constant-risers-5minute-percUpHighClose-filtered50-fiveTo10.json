@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "MARK",
+      "price": 6.21
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.61
+    },
+    {
+      "ticker": "QHC",
+      "price": 8.63
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CCJ",
+      "price": 9.23
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.518
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DXD",
+      "price": 9.0649
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.055
+    },
+    {
+      "ticker": "CCJ",
+      "price": 9.175
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DXD",
+      "price": 9.1748
+    },
+    {
+      "ticker": "CCJ",
+      "price": 9.1599
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.035
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DXD",
+      "price": 9.195
+    },
+    {
+      "ticker": "CCJ",
+      "price": 9.21
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.535
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DXD",
+      "price": 9.364
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.395
+    },
+    {
+      "ticker": "RUN",
+      "price": 8.98
+    }
+  ]
+}
