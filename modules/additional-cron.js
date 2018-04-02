@@ -61,7 +61,7 @@ const additionalCronConfig = [
     // record prev day strat performances,
     {
         name: 'record-strat-perfs',
-        run: [9, 85, 155, 230, 270, 330],
+        run: [9, 85, 230, 330],
         fn: recordStratPerfs
     },
     {

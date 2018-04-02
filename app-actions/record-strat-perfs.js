@@ -101,16 +101,32 @@ module.exports = {
 
         console.log(sortedFolders);
 
-        const prevDayDate = sortedFolders[sortedFolders.length - 2];
-        if (!prevDayDate) {
-            return console.log('not enough picks-data to analyze within record-strat-perfs.')
-        }
-        const analyzed = await analyzeDay(Robinhood, prevDayDate);
+        const perms = {
+            'next-day': 2,
+            ...(min === 9 && {
+                'second-day': 3,
+                'third-day': 4,
+                'fourth-day': 5
+            })
+        };
 
-        const curStratPerfs = await jsonMgr.get(`./strat-perfs/${prevDayDate}.json`) || {};
-        curStratPerfs[`next-day-${min}`] = analyzed;
-        await jsonMgr.save(`./strat-perfs/${prevDayDate}.json`, curStratPerfs);
-        console.log('saved strat-perfs!');
+        for (let [key, daysBack] of Object.entries(perms)) {
+            console.log(key, daysBack);
+
+            const pastDayDate = sortedFolders[sortedFolders.length - daysBack];
+            if (!pastDayDate) {
+                console.log(key, 'not enough picks-data to analyze within record-strat-perfs.');
+                break;
+            }
+            const analyzed = await analyzeDay(Robinhood, pastDayDate);
+
+            const curStratPerfs = await jsonMgr.get(`./strat-perfs/${pastDayDate}.json`) || {};
+            curStratPerfs[`${key}-${min}`] = analyzed;
+            await jsonMgr.save(`./strat-perfs/${prevDayDate}.json`, curStratPerfs);
+            console.log(key, 'saved strat-perf');
+        }
+
+        console.log('done saving strat-perfs!');
     }
 
 };

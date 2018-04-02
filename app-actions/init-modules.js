@@ -19,7 +19,7 @@ module.exports = async (Robinhood) => {
             moduleObj.init(Robinhood);
             modules.push(moduleObj);
         } catch (e) {
-            console.log('unable to init', file);
+            console.log('unable to init', file, e);
         }
         // }
     }
