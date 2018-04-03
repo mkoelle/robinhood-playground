@@ -12,35 +12,48 @@ const getRisk = require('../rh-actions/get-risk');
 const trendingUp = require('../rh-actions/trending-up');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 
+const getTicks = arr => arr.map(buy => buy.ticker);
 const trendFilter = async (Robinhood, trend) => {
     // stocks that went up overnight and
     // trending upward
     console.log('running based-on-jump strategy');
 
-    let upOvernight = await addOvernightJump(Robinhood, trend);
-    upOvernight = upOvernight.filter(stock => stock.overnightJump > 3);
+    let withOvernight = await addOvernightJump(Robinhood, trend);
+    let upOvernight = withOvernight.filter(stock => stock.overnightJump > 3);
 
     upOvernight = await mapLimit(upOvernight, 20, async buy => ({
         ...buy,
         ...(await getRisk(Robinhood, buy.ticker)),
-        trendingUp: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
+        trending35257: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
     }));
 
     console.log(
-        'num not trending',
-        upOvernight.filter(buy => !buy.trendingUp).length
+        'num trending35257',
+        upOvernight.filter(buy => buy.trending35257).length
     );
     console.log(
         '> 8% below max of year',
-        upOvernight.filter(buy => buy.percMax > -8).length
+        upOvernight.filter(buy => buy.percMax < -8).length
     );
-    upOvernight = upOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
+    const allFilters = upOvernight.filter(buy => buy.trending35257 && buy.percMax < -8);
 
-    console.log('upovernight lenght', upOvernight.length);
-    return upOvernight
-        .sort((a, b) => a.percMax - b.percMax)
-        .slice(0, 15)
-        .map(stock => stock.ticker);
+    const first5 = trend => trend
+        .sort((a, b) => b.overnightJump - a.overnightJump)
+        .slice(0, 5);
+
+    const biggestDowners = num => withOvernight
+        .sort((a, b) => a.overnightJump - b.overnightJump)
+        .slice(0, num);
+
+    return {
+        up3overnight: getTicks(upOvernight),
+        'up3overnight-first5': getTicks(first5(upOvernight)),
+        'up3overnight-trending35257': getTicks(first5(upOvernight.filter(buy => buy.trending35257))),
+        'up3overnight-gtneg8percmax': getTicks(first5(upOvernight.filter(buy => buy.percMax < -8))),
+        'up3overnight-allFilters': getTicks(allFilters),
+        'biggestDowners5': getTicks(biggestDowners(5)),
+        'biggestDowners3': getTicks(biggestDowners(3))
+    };
 };
 
 // based on jump
