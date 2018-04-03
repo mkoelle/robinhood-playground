@@ -12,17 +12,35 @@ const getRisk = require('../rh-actions/get-risk');
 const trendingUp = require('../rh-actions/trending-up');
 
 const trendFilter = async (Robinhood, trend) => {
-    // going up at least 3% 
+    // going up at least 3%
 
-    console.log('running daytime strategy');
+    console.log('running dynamo-3000 strategy');
 
     console.log('total trend stocks', trend.length);
 
-    const withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
-    let allUp = withTrendSinceOpen.filter(
-        stock => stock.trendSinceOpen && stock.trendSinceOpen > 3
-    );
-    console.log('trendingUp', allUp.length);
+    let withTrendSinceOpen = await addTrendSinceOpen(Robinhood, trend);
+    withTrendSinceOpen = withTrendSinceOpen
+        .filter(buy => buy.trendSinceOpen)
+        .sort((a, b) => a.trendSinceOpen - b.trendSinceOpen);
+
+    const theMiddle = Math.floor(withTrendSinceOpen.length / 2);
+
+    const tsoBreakdowns = [
+        {
+            name: 'bottom50tso',
+            trend: withTrendSinceOpen.slice(0, 50)
+        },
+        {
+            name: 'middle50tso',
+            trend: withTrendSinceOpen.slice(theMiddle - 25, theMiddle + 25)
+        },
+        {
+            name: 'top50tso',
+            trend: withTrendSinceOpen.slice(-50)
+        },
+    ];
+
+    const getTicks = arr => arr.map(buy => buy.ticker);
 
     const allVariations = (stratname, trend) => {
         const withYearPosition = trend
@@ -49,7 +67,7 @@ const trendFilter = async (Robinhood, trend) => {
                 [`${stratname}-5highest${acronym}`]: firstFiveBySort((a, b) => b[key] - a[key]),
             };
         }
-            
+
         return {
             [stratname]: getTicks(trend),
             ...highestLowest('TSO', 'trendSinceOpen'),  // lowest trend since open is still > 3%
@@ -57,41 +75,51 @@ const trendFilter = async (Robinhood, trend) => {
         };
     };
 
-    let withTrendingUp = await mapLimit(allUp, 20, async buy => ({
-        ...buy,
-        ...(await getRisk(Robinhood, buy.ticker)),
-        trendingUp30: await trendingUp(Robinhood, buy.ticker, [ 30 ]),
-        trendingUp3010: await trendingUp(Robinhood, buy.ticker, [ 30, 10 ]),
-        trendingUp10: await trendingUp(Robinhood, buy.ticker, [ 10 ]),
-    }));
+    const allVariationsForTsoBreakdown = async ({ name, trend: trendFilteredByTSO }) => {
+        console.log('trendFilter', name, 'count', trendFilteredByTSO.length);
+        let withTrendingUp = await mapLimit(trendFilteredByTSO, 20, async buy => ({
+            ...buy,
+            ...(await getRisk(Robinhood, buy.ticker)),
+            // trendingUp30: await trendingUp(Robinhood, buy.ticker, [ 30 ]),
+            trendingUp3010: await trendingUp(Robinhood, buy.ticker, [ 30, 10 ]),
+            // trendingUp10: await trendingUp(Robinhood, buy.ticker, [ 10 ]),
+        }));
 
-    console.log(
-        'num watcout',
-        withTrendingUp.filter(buy => buy.shouldWatchout).length
-    );
-    console.log(
-        'trendingUp3010',
-        withTrendingUp.filter(buy => !buy.trendingUp3010).length
-    );
+        console.log(
+            'num watchout',
+            withTrendingUp.filter(buy => buy.shouldWatchout).length
+        );
+        console.log(
+            'trendingUp3010',
+            withTrendingUp.filter(buy => buy.trendingUp3010).length
+        );
 
-    const allFilters = withTrendingUp.filter(
-        buy => buy.trendingUp3010 && !buy.shouldWatchout
-    );
+        const allFilters = withTrendingUp.filter(
+            buy => buy.trendingUp3010 && !buy.shouldWatchout
+        );
 
-    console.log('final length num count', withTrendingUp.length);
-    console.log(withTrendingUp);
+        console.log('final length num count', withTrendingUp.length);
+        console.log(withTrendingUp);
 
-    const getTicks = arr => arr.map(buy => buy.ticker);
-    return {
-        ...allVariations('trendingUp10', withTrendingUp.filter(buy => buy.trendingUp10)),
-        ...allVariations('trendingUp3010', withTrendingUp.filter(buy => buy.trendingUp3010)),
-        ...allVariations('trendingUp30', withTrendingUp.filter(buy => buy.trendingUp30)),
-        ...allVariations('notWatchout', withTrendingUp.filter(buy => !buy.shouldWatchout)),
-        ...allVariations('onlyWatchout', withTrendingUp.filter(buy => buy.shouldWatchout)),
-        ...allVariations('trendingUp10', withTrendingUp.filter(buy => buy.trendingUp10)),
-        ...allVariations('trendingUp10', withTrendingUp.filter(buy => buy.trendingUp10)),
-        allFilters: getTicks(allFilters)
+        return {
+            ...allVariations(`${name}-overall`, withTrendingUp),
+            // ...allVariations(`${name}-trendingUp10`, withTrendingUp.filter(buy => buy.trendingUp10)),
+            ...allVariations(`${name}-trendingUp3010`, withTrendingUp.filter(buy => buy.trendingUp3010)),
+            // ...allVariations(`${name}-trendingUp30`, withTrendingUp.filter(buy => buy.trendingUp30)),
+            ...allVariations(`${name}-notWatchout`, withTrendingUp.filter(buy => !buy.shouldWatchout)),
+            ...allVariations(`${name}-onlyWatchout`, withTrendingUp.filter(buy => buy.shouldWatchout)),
+            [`${name}-allFilters`]: getTicks(allFilters)
+        };
+    };
+
+    let returnObj = {};
+    for (let obj of tsoBreakdowns) {
+        returnObj = {
+            ...returnObj,
+            ...await allVariationsForTsoBreakdown(obj)
+        };
     }
+    return returnObj;
 };
 
 const dynamo3000 = {

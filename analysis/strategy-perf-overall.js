@@ -51,7 +51,7 @@ module.exports = async (Robinhood, includeToday) => {
         Object.keys(dayStrats).forEach(period => {
 
             const sellMin = Number(period.substring(period.lastIndexOf('-') + 1));
-            if (sellMin !== 9) return; // only consider 9 minute sell times
+            if (sellMin !== 230) return; // only consider 9 minute sell times
             dayStrats[period].forEach(stratPerf => {
                 if (stratPerf.avgTrend > 100) return;
                 const split = stratPerf.strategyName.split('-');
