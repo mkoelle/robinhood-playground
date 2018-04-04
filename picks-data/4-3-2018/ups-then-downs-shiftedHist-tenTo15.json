@@ -1,0 +1,53 @@
+{
+  "10": [
+    {
+      "ticker": "NSSC",
+      "price": 10.575
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "BBGI",
+      "price": 10.45
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.9
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BBGI",
+      "price": 10.35
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.03
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NSSC",
+      "price": 10.575
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.55
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.02
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BBGI",
+      "price": 10.525
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13
+    }
+  ]
+}

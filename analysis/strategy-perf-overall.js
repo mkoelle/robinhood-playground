@@ -120,7 +120,7 @@ module.exports = async (Robinhood, includeToday) => {
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        // .filter(perf => perf.count >= 13);
+        .filter(perf => perf.count >= 3);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,
@@ -141,7 +141,9 @@ module.exports = async (Robinhood, includeToday) => {
     const sortedByPercUp = withData
         // .filter(t => t.trend.length > 30)
         // .filter(t => t.trends.filter(trend => trend < 0).length < 8)
-        .sort((a, b) => b.percUp - a.percUp);
+        .sort((a, b) => {
+            return (b.percUp == a.percUp) ? b.avgTrend - a.avgTrend : b.percUp - a.percUp;
+        });
 
 
 

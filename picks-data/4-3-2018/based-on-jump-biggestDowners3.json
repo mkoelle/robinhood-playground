@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CGIX",
+      "price": 1.025
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.28
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.9999
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CGIX",
+      "price": 1.0621
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2697
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CGIX",
+      "price": 0.9787
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2559
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.9701
+    }
+  ]
+}

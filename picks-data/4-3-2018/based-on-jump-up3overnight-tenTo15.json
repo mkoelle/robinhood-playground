@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "KRNT",
+      "price": 13.2
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRNT",
+      "price": 13.225
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CSPI",
+      "price": 12.1799
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.6
+    },
+    {
+      "ticker": "KRNT",
+      "price": 13.4832
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.72
+    }
+  ]
+}

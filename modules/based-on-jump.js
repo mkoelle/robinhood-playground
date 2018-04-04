@@ -49,7 +49,7 @@ const trendFilter = async (Robinhood, trend) => {
         up3overnight: getTicks(upOvernight),
         'up3overnight-first5': getTicks(first5(upOvernight)),
         'up3overnight-trending35257': getTicks(first5(upOvernight.filter(buy => buy.trending35257))),
-        'up3overnight-gtneg8percmax': getTicks(first5(upOvernight.filter(buy => buy.percMax < -8))),
+        'up3overnight-ltneg8percmax': getTicks(first5(upOvernight.filter(buy => buy.percMax < -8))),
         'up3overnight-allFilters': getTicks(allFilters),
         'biggestDowners5': getTicks(biggestDowners(5)),
         'biggestDowners3': getTicks(biggestDowners(3))

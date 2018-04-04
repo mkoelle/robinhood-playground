@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "LFIN",
+      "price": 10.1596
+    },
+    {
+      "ticker": "XBIT",
+      "price": 5.19
+    },
+    {
+      "ticker": "CLRO",
+      "price": 7.2818
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TZOO",
+      "price": 6.835
+    },
+    {
+      "ticker": "CLRO",
+      "price": 7.2818
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.29
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XBIT",
+      "price": 5.139
+    },
+    {
+      "ticker": "TZOO",
+      "price": 6.9
+    },
+    {
+      "ticker": "DL",
+      "price": 8.03
+    }
+  ]
+}

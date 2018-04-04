@@ -18,8 +18,8 @@ const analyzeDay = async (Robinhood, day) => {
     for (let file of files) {
         const strategyName = file.split('.')[0];
         const obj = await jsonMgr.get(`./picks-data/${day}/${file}`);
-        // console.log(strategyName);
-        // console.log(obj);
+        console.log(strategyName);
+        console.log(obj);
 
         for (let min of Object.keys(obj)) {
             // for each strategy run
