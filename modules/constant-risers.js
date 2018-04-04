@@ -3,6 +3,8 @@ const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 const getMultipleHistoricals = require('../app-actions/get-multiple-historicals');
 const executeStrategy = require('../app-actions/execute-strategy');
 const getTrend = require('../utils/get-trend');
+const addOvernightJump = require('../app-actions/add-overnight-jump');
+
 const trendFilter = async (Robinhood, trend) => {
 
     const analyzeForRisers = async interval => {
@@ -50,6 +52,8 @@ const trendFilter = async (Robinhood, trend) => {
                 return buy;
             });
 
+        withPercUp = await addOvernightJump(Robinhood, withPercUp);
+
         console.log('with', JSON.stringify(withPercUp, null, 2));
         const orderBy = (what, trend) => {
             return trend
@@ -63,18 +67,20 @@ const trendFilter = async (Robinhood, trend) => {
             return percUpHighClose > ratio && percUpCloseOnly > ratio;
         });
 
+        const onlyOvernightGT5 = withPercUp.filter(buy => buy.overnightJump > 5);
+
         return [
             'percUpHighClose',
             'percUpCloseOnly',
             'percUpHighClosePoints',
             'percUpCloseOnlyPoints'
-        ].reduce((acc, val) => {
-            acc[`${interval}-${val}`] = orderBy(val, withPercUp);
-            acc[`${interval}-${val}-filtered40`] = orderBy(val, filtered(0.4));
-            acc[`${interval}-${val}-filtered50`] = orderBy(val, filtered(0.5));
-            acc[`${interval}-${val}-filtered60`] = orderBy(val, filtered(0.6));
-            return acc;
-        }, {});
+          ].reduce((acc, val) => ({
+              [`${interval}-${val}`]: orderBy(val, withPercUp),
+              [`${interval}-${val}-filtered40`]: orderBy(val, filtered(0.4)),
+              [`${interval}-${val}-filtered50`]: orderBy(val, filtered(0.5)),
+              [`${interval}-${val}-filtered60`]: orderBy(val, filtered(0.6)),
+              [`${interval}-${val}-highovernightjumps`]: orderBy(val, onlyOvernightGT5)
+          }), {});
 
     };
 

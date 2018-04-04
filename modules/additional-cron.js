@@ -64,11 +64,11 @@ const additionalCronConfig = [
         run: [9, 85, 230, 330],
         fn: recordStratPerfs
     },
-    {
-        name: 'sell all if older than a day',
-        run: [80],
-        fn: sellAllOlderThanOneDay
-    }
+    // {
+    //     name: 'sell all if older than a day',
+    //     run: [80],
+    //     fn: sellAllOlderThanOneDay
+    // }
 ];
 
 const additionalCron = {

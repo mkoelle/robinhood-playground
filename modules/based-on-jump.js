@@ -58,15 +58,13 @@ const trendFilter = async (Robinhood, trend) => {
     ];
 
     const runPerms = (name, fn) => {
-        return {
+        return filterPerms.reduce((acc, [subFilterName, filter]) => ({
+            ...acc,
+            [`${name}-${subFilterName}`]: fn(5, filter)
+        }), {
             [`${name}`]: fn(),
-            [`${name}-first5`]: fn(5),
-            ...filterPerms.reduce((acc, val) => {
-                const [subFilterName, filter] = val;
-                acc[`${name}-${subFilterName}`] = fn(5, filter);
-                return acc;
-            }, {})
-        };
+            [`${name}-first5`]: fn(5)
+        });
     };
 
     return {
