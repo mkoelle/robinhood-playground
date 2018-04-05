@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "BDR",
+      "price": 1.1101
+    },
+    {
+      "ticker": "INTX",
+      "price": 2
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.255
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.68
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.8251
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BDR",
+      "price": 1.083
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.985
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.68
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2548
+    },
+    {
+      "ticker": "FTD",
+      "price": 4.31
+    }
+  ]
+}

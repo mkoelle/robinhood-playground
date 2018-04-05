@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "KEG",
+      "price": 11.3669
+    },
+    {
+      "ticker": "SVXY",
+      "price": 11.07
+    },
+    {
+      "ticker": "CHRS",
+      "price": 10.75
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KEG",
+      "price": 11.3669
+    },
+    {
+      "ticker": "SVXY",
+      "price": 11.05
+    },
+    {
+      "ticker": "CHRS",
+      "price": 10.9
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LFIN",
+      "price": 10.1352
+    },
+    {
+      "ticker": "KEG",
+      "price": 11.3
+    },
+    {
+      "ticker": "SVXY",
+      "price": 11.0567
+    },
+    {
+      "ticker": "CHRS",
+      "price": 11.05
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.6
+    }
+  ]
+}

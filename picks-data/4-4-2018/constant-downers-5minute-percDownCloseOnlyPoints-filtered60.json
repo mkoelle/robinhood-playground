@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MYND",
+      "price": 1.5
+    },
+    {
+      "ticker": "AEHR",
+      "price": 2.22
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MYND",
+      "price": 1.489
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.59
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MYND",
+      "price": 1.53
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.423
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.2423
+    }
+  ]
+}
