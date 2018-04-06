@@ -75,6 +75,7 @@ const trendFilter = async (Robinhood, trend) => {
             'percDownLowClosePoints',
             'percDownCloseOnlyPoints'
         ].reduce((acc, val) => ({
+            ...acc,
             [`${interval}-${val}`]: orderBy(val, withPercDown),
             [`${interval}-${val}-filtered40`]: orderBy(val, filtered(0.4)),
             [`${interval}-${val}-filtered50`]: orderBy(val, filtered(0.5)),

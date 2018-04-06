@@ -48,13 +48,13 @@ const trendFilter = async (Robinhood, trend) => {
             })
             .filter(buy => buy.trendPerc > 1)
             .map(buy => {
-                // delete buy.historicals;
+                delete buy.historicals;
                 return buy;
             });
 
         withPercUp = await addOvernightJump(Robinhood, withPercUp);
 
-        console.log('with', JSON.stringify(withPercUp, null, 2));
+        // console.log('with', JSON.stringify(withPercUp, null, 2));
         const orderBy = (what, trend) => {
             return trend
                 .sort((a, b) => b[what] - a[what])
@@ -74,13 +74,14 @@ const trendFilter = async (Robinhood, trend) => {
             'percUpCloseOnly',
             'percUpHighClosePoints',
             'percUpCloseOnlyPoints'
-          ].reduce((acc, val) => ({
-              [`${interval}-${val}`]: orderBy(val, withPercUp),
-              [`${interval}-${val}-filtered40`]: orderBy(val, filtered(0.4)),
-              [`${interval}-${val}-filtered50`]: orderBy(val, filtered(0.5)),
-              [`${interval}-${val}-filtered60`]: orderBy(val, filtered(0.6)),
-              [`${interval}-${val}-highovernightjumps`]: orderBy(val, onlyOvernightGT5)
-          }), {});
+        ].reduce((acc, val) => ({
+            ...acc,
+            [`${interval}-${val}`]: orderBy(val, withPercUp),
+            [`${interval}-${val}-filtered40`]: orderBy(val, filtered(0.4)),
+            [`${interval}-${val}-filtered50`]: orderBy(val, filtered(0.5)),
+            [`${interval}-${val}-filtered60`]: orderBy(val, filtered(0.6)),
+            [`${interval}-${val}-highovernightjumps`]: orderBy(val, onlyOvernightGT5)
+        }), {});
 
     };
 
