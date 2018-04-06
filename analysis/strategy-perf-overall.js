@@ -31,8 +31,10 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood, includeToday) => {
-    console.log('turkey', includeToday);
+module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0) => {
+    console.log('includeToday', includeToday);
+    console.log('days back', daysBack);
+    console.log('mincount', minCount);
 
 
     let files = await fs.readdir('./strat-perfs');
@@ -41,7 +43,7 @@ module.exports = async (Robinhood, includeToday) => {
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-    let threeMostRecent = sortedFiles.slice(0 - NUM_DAYS);
+    let threeMostRecent = sortedFiles.slice(0 - daysBack);
     console.log('selected days', threeMostRecent);
 
     const stratResults = new HashTable();
@@ -120,7 +122,7 @@ module.exports = async (Robinhood, includeToday) => {
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        .filter(perf => perf.count >= 2);
+        .filter(perf => perf.count >= minCount);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,
