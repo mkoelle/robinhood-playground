@@ -1,0 +1,90 @@
+{
+  "7": [
+    {
+      "ticker": "SSI",
+      "price": 2.705
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.55
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.185
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.3701
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.9
+    }
+  ],
+  "60": [
+    {
+      "ticker": "SSI",
+      "price": 2.7902
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.57
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.16
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.3499
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.925
+    }
+  ],
+  "123": [
+    {
+      "ticker": "SSI",
+      "price": 2.72
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.66
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.175
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.46
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.92
+    }
+  ],
+  "263": [
+    {
+      "ticker": "SSI",
+      "price": 2.73
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.6667
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.19
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.5
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.91
+    }
+  ]
+}

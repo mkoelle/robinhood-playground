@@ -15266,5 +15266,3827 @@
       "avgTrend": -46.72,
       "picks": "NVCN"
     }
+  ],
+  "fourth-day-9": [
+    {
+      "strategyName": "up-streak-$3-$5-upstreak-5-189",
+      "avgTrend": 9,
+      "picks": "PIR"
+    },
+    {
+      "strategyName": "up-streak-$3-$5-upstreak-5-45",
+      "avgTrend": 9,
+      "picks": "PIR"
+    },
+    {
+      "strategyName": "up-streak-$3-$5-upstreak-5-up1overnight-189",
+      "avgTrend": 9,
+      "picks": "PIR"
+    },
+    {
+      "strategyName": "up-streak-$3-$5-upstreak-5-up1overnight-45",
+      "avgTrend": 9,
+      "picks": "PIR"
+    },
+    {
+      "strategyName": "before-close-up-tenTo15-380",
+      "avgTrend": 7.789999999999999,
+      "picks": "JAG, CMCM, SELB, ALNA, PAR"
+    },
+    {
+      "strategyName": "before-close-up-tenTo15-350",
+      "avgTrend": 7.789999999999999,
+      "picks": "JAG, CMCM, SELB, ALNA, PAR"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-fiveTo10-196",
+      "avgTrend": 7.351999999999999,
+      "picks": "TENX, NTN, NTRP, ICCC, ATAI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-fiveTo10-73",
+      "avgTrend": 7.351999999999999,
+      "picks": "TENX, NTN, NTRP, ICCC, ATAI"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-fiveTo10-13",
+      "avgTrend": 7.351999999999999,
+      "picks": "TENX, NTN, NTRP, ICCC, ATAI"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-300",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-200",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-300",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-140",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-100",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-80",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-40",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-40",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-80",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-100",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-140",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-200",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-40",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-250",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-250",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-250",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-fiveTo10-200",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-80",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-250",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-200",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-140",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-100",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-80",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-fiveTo10-40",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-fiveTo10-300",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-80",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-100",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-140",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-200",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-250",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-fiveTo10-300",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-40",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-100",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-140",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-fiveTo10-300",
+      "avgTrend": 6.640000000000001,
+      "picks": "TELL, SND, CLF"
+    },
+    {
+      "strategyName": "before-close-up-380",
+      "avgTrend": 6.1499999999999995,
+      "picks": "UUUU, BKYI, REED, GSL"
+    },
+    {
+      "strategyName": "before-close-up-350",
+      "avgTrend": 6.1499999999999995,
+      "picks": "UUUU, BKYI, REED, GSL"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-40",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-250",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-300",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-200",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-140",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-100",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-300",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-250",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-200",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-140",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-100",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-fiveTo10-80",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-40",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-fiveTo10-80",
+      "avgTrend": 5.873333333333334,
+      "picks": "TELL, SND, JPS"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-300",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-100",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-200",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-140",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-100",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-80",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-140",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-200",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-250",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-300",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-300",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-250",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-200",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-140",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-100",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-80",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-fiveTo10-40",
+      "avgTrend": 5.446666666666666,
+      "picks": "QEP, GPOR, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-300",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-80",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-fiveTo10-40",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-250",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-200",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-140",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-100",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-80",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-250",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-fiveTo10-40",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-fiveTo10-40",
+      "avgTrend": 5.446666666666666,
+      "picks": "TELL, GPOR, QEP"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-3-189",
+      "avgTrend": 4.984,
+      "picks": "AEMD, ECR, GSL, INFU, REFR"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-3-45",
+      "avgTrend": 4.984,
+      "picks": "AEMD, ECR, GSL, INFU, REFR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-40",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-80",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-200",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-100",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-140",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-300",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-250",
+      "avgTrend": 4.1466666666666665,
+      "picks": "AKS, AMPE, GGB"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-140",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-40",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-250",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-300",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-250",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-100",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-200",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-80",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-140",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-100",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-200",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-80",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-fiveTo10-40",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-fiveTo10-300",
+      "avgTrend": 3.8433333333333337,
+      "picks": "NPTN, TELL, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-40",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-100",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-80",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-140",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-200",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-250",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-fiveTo10-300",
+      "avgTrend": 3.746666666666666,
+      "picks": "NPTN, SFUN, TELL"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-3-up1overnight-45",
+      "avgTrend": 3.6024999999999996,
+      "picks": "IDSA, NAK, GSL, AEMD"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-3-up1overnight-189",
+      "avgTrend": 3.6024999999999996,
+      "picks": "IDSA, NAK, GSL, AEMD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-tenTo15-196",
+      "avgTrend": 2.999999999999999,
+      "picks": "EHTH, IRMD, VERI, GNK, TACT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-tenTo15-73",
+      "avgTrend": 2.999999999999999,
+      "picks": "EHTH, IRMD, VERI, GNK, TACT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-tenTo15-13",
+      "avgTrend": 2.999999999999999,
+      "picks": "EHTH, IRMD, VERI, GNK, TACT"
+    },
+    {
+      "strategyName": "swings-fiveTo10-193",
+      "avgTrend": 2.9779999999999998,
+      "picks": "EVFM, CNFR, ZYNE, SCWX, CSSE"
+    },
+    {
+      "strategyName": "swings-fiveTo10-253",
+      "avgTrend": 2.9779999999999998,
+      "picks": "EVFM, CNFR, ZYNE, SCWX, CSSE"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-140",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-200",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-250",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-300",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-40",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-100",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-80",
+      "avgTrend": 2.9033333333333338,
+      "picks": "NPTN, TELL, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-300",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-40",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-200",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-140",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-100",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-80",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-250",
+      "avgTrend": 2.903333333333333,
+      "picks": "NPTN, FOMX, TELL"
+    },
+    {
+      "strategyName": "week-swings-273",
+      "avgTrend": 2.8660000000000005,
+      "picks": "RTTR, BDR, IBIO, TOPS, NBEV"
+    },
+    {
+      "strategyName": "week-swings-1",
+      "avgTrend": 2.8660000000000005,
+      "picks": "RTTR, BDR, IBIO, TOPS, NBEV"
+    },
+    {
+      "strategyName": "week-swings-169",
+      "avgTrend": 2.8660000000000005,
+      "picks": "RTTR, BDR, IBIO, TOPS, NBEV"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-300",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-40",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-80",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-100",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-140",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-200",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-250",
+      "avgTrend": 2.7433333333333327,
+      "picks": "AMPE, GGB, AUY"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-40",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-250",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-200",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-140",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-100",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-80",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-300",
+      "avgTrend": 2.513333333333333,
+      "picks": "AKG, AKS, EGO"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-250",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-200",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-140",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-100",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-80",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-40",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-300",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-40",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-80",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-100",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-140",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-200",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-250",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-300",
+      "avgTrend": 2.4333333333333336,
+      "picks": "NPTN, TELL, ARWR"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-300",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-250",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-200",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-140",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-100",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-80",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-40",
+      "avgTrend": 2.063333333333333,
+      "picks": "AKS, AMPE, AUY"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-40",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-40",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-100",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-140",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-200",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-250",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-300",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-40",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-80",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-100",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-140",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-200",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-250",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-300",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-80",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-100",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-140",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-200",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-250",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-300",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-80",
+      "avgTrend": 1.7766666666666666,
+      "picks": "AKG, XXII, EGO"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-tenTo15-196",
+      "avgTrend": 1.634,
+      "picks": "NAZ, LNDC, HMTV, OMN, MFD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-tenTo15-73",
+      "avgTrend": 1.634,
+      "picks": "NAZ, LNDC, HMTV, OMN, MFD"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-tenTo15-13",
+      "avgTrend": 1.634,
+      "picks": "NAZ, LNDC, HMTV, OMN, MFD"
+    },
+    {
+      "strategyName": "first-greens-tenTo15-250",
+      "avgTrend": 1.44,
+      "picks": "QD, RDC, MTRX, BRID, CZR"
+    },
+    {
+      "strategyName": "first-greens-tenTo15-190",
+      "avgTrend": 1.44,
+      "picks": "QD, RDC, MTRX, BRID, CZR"
+    },
+    {
+      "strategyName": "big-day-trend-up-fiveTo10-35",
+      "avgTrend": 1.0779999999999998,
+      "picks": "FOMX, CRBP, PIH, SIF, DRNA"
+    },
+    {
+      "strategyName": "big-day-trend-up-fiveTo10-90",
+      "avgTrend": 1.0779999999999998,
+      "picks": "FOMX, CRBP, PIH, SIF, DRNA"
+    },
+    {
+      "strategyName": "big-day-trend-up-fiveTo10-223",
+      "avgTrend": 1.0779999999999998,
+      "picks": "FOMX, CRBP, PIH, SIF, DRNA"
+    },
+    {
+      "strategyName": "big-day-trend-up-fiveTo10-10",
+      "avgTrend": 1.0779999999999998,
+      "picks": "FOMX, CRBP, PIH, SIF, DRNA"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-200",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-250",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-300",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-40",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-80",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-100",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-fiveTo10-140",
+      "avgTrend": 0.9899999999999999,
+      "picks": "IBN, FTR, QEP"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-196",
+      "avgTrend": 0.9620000000000001,
+      "picks": "MBII, IZEA, AKTX, ENSV, EVEP"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-13",
+      "avgTrend": 0.9620000000000001,
+      "picks": "MBII, IZEA, AKTX, ENSV, EVEP"
+    },
+    {
+      "strategyName": "dow-historical-sortedByAvgToday-73",
+      "avgTrend": 0.9620000000000001,
+      "picks": "MBII, IZEA, AKTX, ENSV, EVEP"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-40",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-80",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-80",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-100",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-140",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-200",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-250",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-300",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-140",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-100",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-200",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-250",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-40",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-300",
+      "avgTrend": 0.6966666666666668,
+      "picks": "AKG, OSG, XXII"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-40",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-80",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-100",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-140",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-200",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-250",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10-300",
+      "avgTrend": 0.09666666666666668,
+      "picks": "AMLP, IBN, ADT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-250",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-40",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-100",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-200",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-80",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-300",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-140",
+      "avgTrend": 0.029999999999999954,
+      "picks": "AUY, OSG, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-40",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-80",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-100",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-140",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-200",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-250",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-fiveTo10-300",
+      "avgTrend": -0.5133333333333333,
+      "picks": "AMLP, IBN, WPG"
+    },
+    {
+      "strategyName": "before-close-up-fiveTo10-380",
+      "avgTrend": -0.5340000000000005,
+      "picks": "NTN, SHSP, KODK, SIF, NSTG"
+    },
+    {
+      "strategyName": "before-close-up-fiveTo10-350",
+      "avgTrend": -0.5340000000000005,
+      "picks": "NTN, SHSP, KODK, SIF, NSTG"
+    },
+    {
+      "strategyName": "based-on-jump-tenTo15-30",
+      "avgTrend": -0.6033333333333334,
+      "picks": "SOXS, REW, NVTR"
+    },
+    {
+      "strategyName": "based-on-jump-tenTo15-5",
+      "avgTrend": -0.6033333333333334,
+      "picks": "SOXS, REW, NVTR"
+    },
+    {
+      "strategyName": "based-on-jump-tenTo15-16",
+      "avgTrend": -0.6033333333333334,
+      "picks": "SOXS, REW, NVTR"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered50-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "JAG, CMCM, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-80",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-300",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-200",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-140",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-100",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50-tenTo15-40",
+      "avgTrend": -0.6900000000000001,
+      "picks": "CMCM, JAG, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-tenTo15-250",
+      "avgTrend": -0.6900000000000001,
+      "picks": "ABCD, CMCM, JAG"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-4-45",
+      "avgTrend": -0.73,
+      "picks": "SXE, RAND"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-4-up1overnight-189",
+      "avgTrend": -0.73,
+      "picks": "RAND, SXE"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-4-up1overnight-45",
+      "avgTrend": -0.73,
+      "picks": "RAND, SXE"
+    },
+    {
+      "strategyName": "up-streak-lt$3-upstreak-4-189",
+      "avgTrend": -0.73,
+      "picks": "SXE, RAND"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-40",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-80",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-200",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-100",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-140",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-250",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-tenTo15-300",
+      "avgTrend": -1.1199999999999999,
+      "picks": "JNUG, CMCM, AMD"
+    },
+    {
+      "strategyName": "daytime-200",
+      "avgTrend": -1.2574999999999998,
+      "picks": "FSNN, BSQR, OBCI, THM"
+    },
+    {
+      "strategyName": "daytime-260",
+      "avgTrend": -1.2574999999999998,
+      "picks": "FSNN, BSQR, OBCI, THM"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-80",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-40",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-80",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-100",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-140",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-200",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-250",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-fiveTo10-300",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-140",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-200",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-80",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-250",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-300",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-300",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-250",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-40",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-80",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-100",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-140",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-200",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-250",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-40",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-80",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-100",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-140",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-200",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-250",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-300",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-fiveTo10-300",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-100",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-fiveTo10-40",
+      "avgTrend": -1.33,
+      "picks": "SFUN, NPTN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-200",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-140",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-100",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-fiveTo10-40",
+      "avgTrend": -1.33,
+      "picks": "NPTN, SFUN, FOMX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-100",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-40",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-80",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-100",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-140",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-200",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-250",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-80",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-40",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered60-300",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-250",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-200",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60-140",
+      "avgTrend": -1.5333333333333332,
+      "picks": "AKG, OSG, GST"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-175",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-225",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-125",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-65",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-4",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "cheapest-picks-chp50-386",
+      "avgTrend": -1.6074000000000006,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB, ATNM, RHE, EGI, ESNC, IPAS, EYEG, TRX, GMO, HEB, BUR, VII, BIOL, APRI, AUMN, WLB, ISR, NEON, ATOS, DNN, AMMA"
+    },
+    {
+      "strategyName": "daytime-tenTo15-200",
+      "avgTrend": -1.6780000000000002,
+      "picks": "JAG, MNTX, CPE, GDP, AKAO"
+    },
+    {
+      "strategyName": "daytime-tenTo15-260",
+      "avgTrend": -1.6780000000000002,
+      "picks": "JAG, MNTX, CPE, GDP, AKAO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-175",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-125",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-65",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-225",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-386",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "cheapest-picks-chp15-4",
+      "avgTrend": -1.9200000000000013,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered40-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-250",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-200",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-40",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-80",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-100",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-300",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-140",
+      "avgTrend": -2.0033333333333334,
+      "picks": "OCX, AKG, GALT"
+    },
+    {
+      "strategyName": "first-greens-fiveTo10-190",
+      "avgTrend": -2.1079999999999997,
+      "picks": "RIOT, ORN, HBP, NVUS, ECYT"
+    },
+    {
+      "strategyName": "first-greens-fiveTo10-250",
+      "avgTrend": -2.1079999999999997,
+      "picks": "RIOT, ORN, HBP, NVUS, ECYT"
+    },
+    {
+      "strategyName": "based-on-jump-16",
+      "avgTrend": -2.146,
+      "picks": "BPTH, XBIO, ESNC, SKYS, JCS"
+    },
+    {
+      "strategyName": "based-on-jump-30",
+      "avgTrend": -2.146,
+      "picks": "BPTH, XBIO, ESNC, SKYS, JCS"
+    },
+    {
+      "strategyName": "based-on-jump-5",
+      "avgTrend": -2.146,
+      "picks": "BPTH, XBIO, ESNC, SKYS, JCS"
+    },
+    {
+      "strategyName": "daytime-fiveTo10-200",
+      "avgTrend": -2.26,
+      "picks": "SHSP, WHLM, ONDK"
+    },
+    {
+      "strategyName": "daytime-fiveTo10-260",
+      "avgTrend": -2.26,
+      "picks": "SHSP, WHLM, ONDK"
+    },
+    {
+      "strategyName": "first-greens-250",
+      "avgTrend": -2.341999999999999,
+      "picks": "SPI, NAP, NCTY, USAU, EPE"
+    },
+    {
+      "strategyName": "first-greens-190",
+      "avgTrend": -2.341999999999999,
+      "picks": "SPI, NAP, NCTY, USAU, EPE"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-386",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-225",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-175",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-125",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-65",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "cheapest-picks-chp30-4",
+      "avgTrend": -2.5553333333333343,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO, OHRP, GLOW, NLST, BPMX, CTRV, LODE, UAMY, IMUC, CYTX, PLG, BIOC, PED, CPHI, SYN, ANTH, HUSA, TROV, IMNP, VVUS, NAVB"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-300",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-140",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-300",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-80",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-250",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-100",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-140",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-100",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-200",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-40",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-40",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15-80",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-200",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered50-tenTo15-250",
+      "avgTrend": -2.723333333333333,
+      "picks": "JNUG, CMCM, SBS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-125",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-65",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-4",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-175",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-225",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "cheapest-picks-chp10-386",
+      "avgTrend": -2.8480000000000016,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP, ALN, JAGX, SDRL, OREX, IBIO"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-250",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-100",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-140",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-200",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-300",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-300",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-40",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10-80",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-40",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-80",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-100",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-140",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-200",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-fiveTo10-250",
+      "avgTrend": -2.8499999999999996,
+      "picks": "CRON, CLF, ADT"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-200",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-200",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-140",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-100",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-80",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-40",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-80",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-100",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-140",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-300",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-tenTo15-250",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-300",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-250",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-tenTo15-40",
+      "avgTrend": -2.9066666666666667,
+      "picks": "AMD, WPX, JNUG"
+    },
+    {
+      "strategyName": "big-day-trend-up-10",
+      "avgTrend": -3.2060000000000004,
+      "picks": "SITO, UUUU, GNUS, WWR, BTX"
+    },
+    {
+      "strategyName": "big-day-trend-up-223",
+      "avgTrend": -3.2060000000000004,
+      "picks": "SITO, UUUU, GNUS, WWR, BTX"
+    },
+    {
+      "strategyName": "big-day-trend-up-90",
+      "avgTrend": -3.2060000000000004,
+      "picks": "SITO, UUUU, GNUS, WWR, BTX"
+    },
+    {
+      "strategyName": "big-day-trend-up-35",
+      "avgTrend": -3.2060000000000004,
+      "picks": "SITO, UUUU, GNUS, WWR, BTX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-80",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-250",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-140",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-100",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-80",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-40",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-40",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-200",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-100",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-140",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-200",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-250",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-300",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered40-300",
+      "avgTrend": -3.236666666666667,
+      "picks": "GGB, ZN, AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-200",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-250",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-300",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-80",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-300",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-140",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-200",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-250",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-300",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-40",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-80",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-40",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-80",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-100",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-140",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-40",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-250",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-300",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-250",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-200",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-140",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-100",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-80",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-tenTo15-40",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-100",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-100",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-tenTo15-140",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-tenTo15-200",
+      "avgTrend": -3.526666666666667,
+      "picks": "CPE, WPX, ABCD"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, CMCM, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered40-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered50-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-40",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, JAG, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "CMCM, WPX, JAG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-300",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-250",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-140",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-100",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-80",
+      "avgTrend": -3.8699999999999997,
+      "picks": "JAG, CMCM, WPX"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-200",
+      "avgTrend": -3.8699999999999997,
+      "picks": "WPX, JAG, CMCM"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-300",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-250",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-200",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-140",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-40",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-80",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-100",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-140",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-100",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-250",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-300",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-40",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered40-80",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered40-200",
+      "avgTrend": -4.303333333333334,
+      "picks": "AKG, GALT, ZN"
+    },
+    {
+      "strategyName": "big-day-trend-up-tenTo15-10",
+      "avgTrend": -4.516,
+      "picks": "JAG, CMCM, CBAY, SCPH, PHIIK"
+    },
+    {
+      "strategyName": "big-day-trend-up-tenTo15-223",
+      "avgTrend": -4.516,
+      "picks": "JAG, CMCM, CBAY, SCPH, PHIIK"
+    },
+    {
+      "strategyName": "big-day-trend-up-tenTo15-90",
+      "avgTrend": -4.516,
+      "picks": "JAG, CMCM, CBAY, SCPH, PHIIK"
+    },
+    {
+      "strategyName": "big-day-trend-up-tenTo15-35",
+      "avgTrend": -4.516,
+      "picks": "JAG, CMCM, CBAY, SCPH, PHIIK"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-200",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-250",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-300",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-140",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-100",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-80",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-40",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-300",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-200",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-40",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-80",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-100",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnly-filtered60-140",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClose-filtered60-250",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-40",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-80",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-100",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-140",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-200",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-300",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-250",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-200",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-140",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-100",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-80",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpHighClosePoints-filtered60-40",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-300",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-250",
+      "avgTrend": -4.92,
+      "picks": "AKG"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-100",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-40",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-250",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-200",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-140",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-300",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClose-filtered60-tenTo15-80",
+      "avgTrend": -5.579999999999999,
+      "picks": "CMCM, CBAY, SBS"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-196",
+      "avgTrend": -5.686000000000001,
+      "picks": "ENSV, VRML, KOOL, ACHN, AKTX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-73",
+      "avgTrend": -5.686000000000001,
+      "picks": "ENSV, VRML, KOOL, ACHN, AKTX"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-13",
+      "avgTrend": -5.686000000000001,
+      "picks": "ENSV, VRML, KOOL, ACHN, AKTX"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-40",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-200",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-250",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-300",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-100",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-80",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-140",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-140",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-200",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-250",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-300",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpHighClosePoints-filtered50-100",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-40",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnlyPoints-filtered50-80",
+      "avgTrend": -5.833333333333333,
+      "picks": "AKG, ZN, SMRT"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-fiveTo10-13",
+      "avgTrend": -5.84,
+      "picks": "BCX, NTN, ALRN, LXU, KTCC"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-fiveTo10-73",
+      "avgTrend": -5.84,
+      "picks": "BCX, NTN, ALRN, LXU, KTCC"
+    },
+    {
+      "strategyName": "dow-historical-sortedByPercUp-fiveTo10-196",
+      "avgTrend": -5.84,
+      "picks": "BCX, NTN, ALRN, LXU, KTCC"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-4",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-65",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-125",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-175",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-386",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "cheapest-picks-chp5-225",
+      "avgTrend": -5.888000000000003,
+      "picks": "NVCN, JRJR, RAS, CRMD, EVEP"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-300",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-300",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-40",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-80",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-100",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-140",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-200",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-80",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-300",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-250",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-250",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-200",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-140",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-200",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-140",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-100",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-40",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-250",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-300",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-200",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-100",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-80",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-80",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered40-40",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-40",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-100",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered50-140",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, AUY, GST"
+    },
+    {
+      "strategyName": "constant-risers-10minute-percUpCloseOnly-filtered60-250",
+      "avgTrend": -6.083333333333333,
+      "picks": "AKG, GST, AUY"
+    },
+    {
+      "strategyName": "before-close-351",
+      "avgTrend": -9.168000000000001,
+      "picks": "IDSA, AIPT, TST, GEVO, NVFY"
+    },
+    {
+      "strategyName": "before-close-381",
+      "avgTrend": -9.168000000000001,
+      "picks": "IDSA, AIPT, TST, GEVO, NVFY"
+    },
+    {
+      "strategyName": "swings-193",
+      "avgTrend": -10.484,
+      "picks": "FCRE, ABIL, INFI, BIOC, LENS"
+    },
+    {
+      "strategyName": "swings-253",
+      "avgTrend": -10.484,
+      "picks": "FCRE, ABIL, INFI, BIOC, LENS"
+    },
+    {
+      "strategyName": "week-swings-fiveTo10-1",
+      "avgTrend": -11.59,
+      "picks": "IFMK"
+    },
+    {
+      "strategyName": "week-swings-fiveTo10-169",
+      "avgTrend": -11.59,
+      "picks": "IFMK"
+    },
+    {
+      "strategyName": "week-swings-fiveTo10-273",
+      "avgTrend": -11.59,
+      "picks": "IFMK"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-4",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-125",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-175",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-386",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-65",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp3-225",
+      "avgTrend": -30.33333333333334,
+      "picks": "NVCN, JRJR, RAS"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-65",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-4",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-175",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-225",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-386",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    },
+    {
+      "strategyName": "cheapest-picks-chp1-125",
+      "avgTrend": -34.1,
+      "picks": "NVCN"
+    }
   ]
 }

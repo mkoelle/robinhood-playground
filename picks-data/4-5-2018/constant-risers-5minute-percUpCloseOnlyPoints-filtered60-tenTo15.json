@@ -1,0 +1,74 @@
+{
+  "40": [
+    {
+      "ticker": "XNET",
+      "price": 11.4601
+    },
+    {
+      "ticker": "SD",
+      "price": 14.5
+    },
+    {
+      "ticker": "CVRR",
+      "price": 14.225
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SD",
+      "price": 14.6
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.8199
+    },
+    {
+      "ticker": "RDC",
+      "price": 12.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDC",
+      "price": 12.945
+    },
+    {
+      "ticker": "SD",
+      "price": 14.72
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.46
+    }
+  ],
+  "140": [
+    {
+      "ticker": "RDC",
+      "price": 12.91
+    },
+    {
+      "ticker": "XOG",
+      "price": 11.18
+    },
+    {
+      "ticker": "ECA",
+      "price": 11.21
+    }
+  ],
+  "198": [
+    {
+      "ticker": "XOG",
+      "price": 11.32
+    },
+    {
+      "ticker": "RDC",
+      "price": 12.925
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.54
+    }
+  ],
+  "250": [],
+  "300": []
+}

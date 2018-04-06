@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 4;
+const NUM_DAYS = 2;
 
 const cTable = require('console.table');
 
@@ -120,7 +120,7 @@ module.exports = async (Robinhood, includeToday) => {
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        .filter(perf => perf.count >= 4);
+        .filter(perf => perf.count >= 2);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,
