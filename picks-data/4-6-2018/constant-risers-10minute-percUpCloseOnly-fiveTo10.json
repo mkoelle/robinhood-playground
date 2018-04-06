@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "FBP",
+      "price": 6.425
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.81
+    },
+    {
+      "ticker": "RRD",
+      "price": 8.79
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RRD",
+      "price": 8.8301
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.268
+    },
+    {
+      "ticker": "FBP",
+      "price": 6.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RRD",
+      "price": 8.77
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.53
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.4
+    }
+  ],
+  "140": [
+    {
+      "ticker": "I",
+      "price": 5.0405
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.64
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.8262
+    }
+  ],
+  "198": [
+    {
+      "ticker": "I",
+      "price": 5.1
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.68
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "I",
+      "price": 5.049
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.4744
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "I",
+      "price": 5.05
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.97
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.2654
+    }
+  ]
+}

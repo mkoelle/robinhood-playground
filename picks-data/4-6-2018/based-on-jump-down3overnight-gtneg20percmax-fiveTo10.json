@@ -1,0 +1,48 @@
+{
+  "5": [
+    {
+      "ticker": "FEIM",
+      "price": 8.551
+    },
+    {
+      "ticker": "CDXS",
+      "price": 9.7001
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FEIM",
+      "price": 9.16
+    },
+    {
+      "ticker": "CDXS",
+      "price": 9.475
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.404
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FEIM",
+      "price": 9.16
+    },
+    {
+      "ticker": "CDXS",
+      "price": 9.775
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.365
+    },
+    {
+      "ticker": "PTM",
+      "price": 9.36
+    }
+  ]
+}

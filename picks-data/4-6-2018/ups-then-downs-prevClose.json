@@ -1,0 +1,92 @@
+{
+  "10": [
+    {
+      "ticker": "CPST",
+      "price": 1.4177
+    },
+    {
+      "ticker": "GIGM",
+      "price": 2.76
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AMPE",
+      "price": 3.659
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.46
+    },
+    {
+      "ticker": "HEAR",
+      "price": 0.6903
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMPE",
+      "price": 3.66
+    },
+    {
+      "ticker": "ITUS",
+      "price": 4.4431
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.95
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.4501
+    },
+    {
+      "ticker": "HEAR",
+      "price": 0.6831
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMPE",
+      "price": 3.6499
+    },
+    {
+      "ticker": "ITUS",
+      "price": 4.46
+    },
+    {
+      "ticker": "HEAR",
+      "price": 0.6301
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.26
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.9
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AMPE",
+      "price": 3.6
+    },
+    {
+      "ticker": "ITUS",
+      "price": 4.41
+    },
+    {
+      "ticker": "HEAR",
+      "price": 0.6322
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.8444
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.319
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "4": [
+    {
+      "ticker": "PI",
+      "price": 13.07
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.06
+    },
+    {
+      "ticker": "TISI",
+      "price": 14.65
+    },
+    {
+      "ticker": "FET",
+      "price": 11.575
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNCR",
+      "price": 10.73
+    },
+    {
+      "ticker": "TISI",
+      "price": 14.7
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.75
+    },
+    {
+      "ticker": "OMER",
+      "price": 13.989
+    },
+    {
+      "ticker": "EGOV",
+      "price": 13.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNCR",
+      "price": 10.73
+    },
+    {
+      "ticker": "TISI",
+      "price": 14.725
+    },
+    {
+      "ticker": "OMER",
+      "price": 13.78
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNCR",
+      "price": 10.73
+    },
+    {
+      "ticker": "TISI",
+      "price": 14.625
+    },
+    {
+      "ticker": "SPKE",
+      "price": 11.65
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 11.95
+    },
+    {
+      "ticker": "EGOV",
+      "price": 13.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TISI",
+      "price": 14.7
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 11.8
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.88
+    },
+    {
+      "ticker": "EGOV",
+      "price": 13.95
+    },
+    {
+      "ticker": "OMER",
+      "price": 14.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TISI",
+      "price": 14.725
+    },
+    {
+      "ticker": "OMER",
+      "price": 13.655
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.7
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 11.85
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TISI",
+      "price": 14.85
+    },
+    {
+      "ticker": "BSWN",
+      "price": 12.9465
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.125
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.25
+    },
+    {
+      "ticker": "SMMT",
+      "price": 12.25
+    }
+  ]
+}

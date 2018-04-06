@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "FNJN",
+      "price": 3
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FNJN",
+      "price": 3.0799
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.4382
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.0342
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FNJN",
+      "price": 3.06
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.4912
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3895
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.0342
+    }
+  ]
+}

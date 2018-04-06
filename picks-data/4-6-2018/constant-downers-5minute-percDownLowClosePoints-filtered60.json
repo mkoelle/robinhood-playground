@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "REXX",
+      "price": 0.75
+    },
+    {
+      "ticker": "RXII",
+      "price": 3.13
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.9101
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2301
+    },
+    {
+      "ticker": "HEAR",
+      "price": 0.6703
+    },
+    {
+      "ticker": "CVRS",
+      "price": 1.365
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HEAR",
+      "price": 0.6327
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.259
+    },
+    {
+      "ticker": "GST",
+      "price": 0.6078
+    }
+  ]
+}

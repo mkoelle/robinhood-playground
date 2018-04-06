@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SNMP",
+      "price": 12.0445
+    },
+    {
+      "ticker": "NDP",
+      "price": 11.24
+    },
+    {
+      "ticker": "PCOM",
+      "price": 10.2816
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SNMP",
+      "price": 11.95
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.5
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.6
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FLY",
+      "price": 13.395
+    },
+    {
+      "ticker": "GLQ",
+      "price": 13.04
+    },
+    {
+      "ticker": "CUE",
+      "price": 12.9999
+    }
+  ]
+}

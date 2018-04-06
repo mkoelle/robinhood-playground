@@ -3,7 +3,7 @@ module.exports = [
     'dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15-4',
     'dynamo-3000-top50tso-overall-5lowestYP-tenTo15-4',
     'dynamo-3000-middle50tso-onlyWatchout-5lowestYP-4',
-    'based-on-jump-down3overnight-fiveTo10-5' // *
+    'based-on-jump-down3overnight-fiveTo10-5', // *
     'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',   // *
     'based-on-jump-down3overnight-shouldWatchout-fiveTo10-16',  // *
     'based-on-jump-down3overnight-shouldWatchout-fiveTo10-30',
