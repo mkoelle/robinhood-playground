@@ -67,7 +67,8 @@ const trendFilter = async (Robinhood, trend) => {
             return percUpHighClose > ratio && percUpCloseOnly > ratio;
         });
 
-        const onlyOvernightGT5 = withPercUp.filter(buy => buy.overnightJump > 5);
+        const onlyOvernightDown5 = withPercUp.filter(buy => buy.overnightJump < -5);
+        const onlyOvernightUp5 = withPercUp.filter(buy => buy.overnightJump > 5);
 
         return [
             'percUpHighClose',
@@ -80,7 +81,8 @@ const trendFilter = async (Robinhood, trend) => {
             [`${interval}-${val}-filtered40`]: orderBy(val, filtered(0.4)),
             [`${interval}-${val}-filtered50`]: orderBy(val, filtered(0.5)),
             [`${interval}-${val}-filtered60`]: orderBy(val, filtered(0.6)),
-            [`${interval}-${val}-highovernightjumps`]: orderBy(val, onlyOvernightGT5)
+            [`${interval}-${val}-lowovernightjumps`]: orderBy(val, onlyOvernightDown5),
+            [`${interval}-${val}-highovernightjumps`]: orderBy(val, onlyOvernightUp5)
         }), {});
 
     };
