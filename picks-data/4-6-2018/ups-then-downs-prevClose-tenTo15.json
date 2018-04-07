@@ -1,0 +1,52 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "MNOV",
+      "price": 12.26
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLXT",
+      "price": 14.76
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.02
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.03
+    },
+    {
+      "ticker": "KEG",
+      "price": 11.82
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CLXT",
+      "price": 14.89
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.22
+    },
+    {
+      "ticker": "OOMA",
+      "price": 11.025
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CLXT",
+      "price": 14.79
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.24
+    }
+  ]
+}

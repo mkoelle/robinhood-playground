@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "NLNK",
+      "price": 4.725
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6061
+    },
+    {
+      "ticker": "BCLI",
+      "price": 3.543
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NLNK",
+      "price": 4.57
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.9092
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3.1636
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NLNK",
+      "price": 4.565
+    },
+    {
+      "ticker": "DLPN",
+      "price": 2.998
+    },
+    {
+      "ticker": "BCLI",
+      "price": 3.512
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DLPN",
+      "price": 3.0282
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6102
+    },
+    {
+      "ticker": "BCLI",
+      "price": 3.5058
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DLPN",
+      "price": 3.0301
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6086
+    },
+    {
+      "ticker": "BCLI",
+      "price": 3.41
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DLPN",
+      "price": 3.03
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6144
+    },
+    {
+      "ticker": "DARE",
+      "price": 0.84
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DLPN",
+      "price": 3.09
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6095
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.57
+    }
+  ]
+}

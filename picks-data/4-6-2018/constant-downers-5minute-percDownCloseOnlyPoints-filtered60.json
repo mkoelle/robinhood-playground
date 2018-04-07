@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPI",
+      "price": 0.44
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.35
+    },
+    {
+      "ticker": "CHEK",
+      "price": 3.85
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MTNB",
+      "price": 0.6975
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.88
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.6628
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SEED",
+      "price": 0.6421
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.6828
+    },
+    {
+      "ticker": "NM",
+      "price": 0.731
+    }
+  ]
+}

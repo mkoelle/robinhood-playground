@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "XOG",
+      "price": 11.01
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.52
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SD",
+      "price": 14.5
+    },
+    {
+      "ticker": "IOR",
+      "price": 10.8483
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.1203
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.3
+    },
+    {
+      "ticker": "RDC",
+      "price": 12.48
+    }
+  ],
+  "90": [
+    {
+      "ticker": "IOR",
+      "price": 11.24
+    },
+    {
+      "ticker": "RDC",
+      "price": 12.805
+    },
+    {
+      "ticker": "SD",
+      "price": 14.68
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.8
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 10.9
+    }
+  ],
+  "223": [
+    {
+      "ticker": "IOR",
+      "price": 11.28
+    },
+    {
+      "ticker": "XOG",
+      "price": 11.26
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.97
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.65
+    },
+    {
+      "ticker": "RDC",
+      "price": 12.81
+    }
+  ]
+}

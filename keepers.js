@@ -1,5 +1,6 @@
 module.exports = [
     'TOPS',
     'NSPR',
-    'BPMX'
+    'BPMX',
+    'NVCN'
 ];

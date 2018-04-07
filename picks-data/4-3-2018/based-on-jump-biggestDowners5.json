@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "CGIX",
+      "price": 1.025
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.28
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.9999
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.7916
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.18
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CGIX",
+      "price": 1.0621
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2697
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.98
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.7205
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1792
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CGIX",
+      "price": 0.9787
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.2559
+    },
+    {
+      "ticker": "MARA",
+      "price": 0.9701
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.7284
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1767
+    }
+  ]
+}

@@ -1,31 +1,17 @@
 module.exports = [
-
-    // 7 day wrap up
-    // 100% up
-    'up-streak-lt$3-upstreak-4-189',
-    'constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15-250',
-    'week-swings-fiveTo10-1',
-    'constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15-250',
-    'ups-then-downs-shiftedHist-tenTo15-10',
-    'constant-risers-5minute-percUpHighClose-filtered60-tenTo15-250',
-    'constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15-250',
-
-    // 80%+
-    'fizbiz-under5TopLosers-380',
-    'daytime-fiveTo10-260',
-    'daytime-200',
-    'cheapest-picks-chp1-4',
-
-    // 3 day wrap up
-    // 100% up
-    'cheapest-picks-chp3-175',
-    'ups-then-downs-shiftedHist-50',
-    'week-swings-fiveTo10-1',
-    'ups-then-downs-shiftedHist-tenTo15-200',
-    'first-greens-tenTo15-250',
-
-    // 2 day wrap up
-    // 100% up
-    'cheapest-picks-chp3-65',
-    'constant-risers-10minute-percUpCloseOnly-filtered40-40'
+    'week-swings-tenTo15-1',    // *
+    'dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15-4',
+    'dynamo-3000-top50tso-overall-5lowestYP-tenTo15-4',
+    'dynamo-3000-middle50tso-onlyWatchout-5lowestYP-4',
+    'based-on-jump-down3overnight-fiveTo10-5', // *
+    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',   // *
+    'based-on-jump-down3overnight-shouldWatchout-fiveTo10-16',  // *
+    'based-on-jump-down3overnight-shouldWatchout-fiveTo10-30',
+    'constant-risers-10minute-percUpHighClosePoints-filtered50-fiveTo10-40',  // *
+    'constant-downers-5minute-percDownCloseOnlyPoints-filtered40-77',
+    'constant-risers-10minute-percUpCloseOnlyPoints-filtered40-fiveTo10-198',
+    'dynamo-3000-middle50tso-onlyWatchout-fiveTo10-200',
+    'constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-250',
+    'constant-risers-5minute-percUpCloseOnlyPoints-highovernightjumps-250',
+    'constant-risers-10minute-percUpHighClosePoints-300'  // *
 ];

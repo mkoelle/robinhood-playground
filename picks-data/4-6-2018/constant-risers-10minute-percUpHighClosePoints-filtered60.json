@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.5846
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.4399
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.52
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AYTU",
+      "price": 0.605
+    },
+    {
+      "ticker": "TNTR",
+      "price": 2.18
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.423
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AYTU",
+      "price": 0.5988
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.53
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0468
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0549
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.57
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.5849
+    }
+  ],
+  "198": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0621
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.55
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.39
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FORD",
+      "price": 1.56
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.7154
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FORD",
+      "price": 1.5301
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9789
+    }
+  ]
+}

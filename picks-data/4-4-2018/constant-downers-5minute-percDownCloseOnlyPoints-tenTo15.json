@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CUE",
+      "price": 12.85
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.65
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.4
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TVIX",
+      "price": 11.179
+    },
+    {
+      "ticker": "SOXS",
+      "price": 13
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.5962
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TVIX",
+      "price": 10.83
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.68
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.3652
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 // gets current strategy performance of picks looking back n days
-const NUM_DAYS = 7;
+const NUM_DAYS = 2;
 
 const cTable = require('console.table');
 
@@ -31,8 +31,10 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood, includeToday) => {
-    console.log('turkey', includeToday);
+module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0) => {
+    console.log('includeToday', includeToday);
+    console.log('days back', daysBack);
+    console.log('mincount', minCount);
 
 
     let files = await fs.readdir('./strat-perfs');
@@ -41,7 +43,7 @@ module.exports = async (Robinhood, includeToday) => {
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-    let threeMostRecent = sortedFiles.slice(0 - NUM_DAYS);
+    let threeMostRecent = sortedFiles.slice(0 - daysBack);
     console.log('selected days', threeMostRecent);
 
     const stratResults = new HashTable();
@@ -51,7 +53,7 @@ module.exports = async (Robinhood, includeToday) => {
         Object.keys(dayStrats).forEach(period => {
 
             const sellMin = Number(period.substring(period.lastIndexOf('-') + 1));
-            if (sellMin !== 9) return; // only consider 9 minute sell times
+            if (period !== 'next-day-9') return; // only consider 9 minute sell times
             dayStrats[period].forEach(stratPerf => {
                 if (stratPerf.avgTrend > 100) return;
                 const split = stratPerf.strategyName.split('-');
@@ -120,7 +122,7 @@ module.exports = async (Robinhood, includeToday) => {
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        // .filter(perf => perf.count >= 13);
+        .filter(perf => perf.count >= minCount);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,
@@ -141,7 +143,9 @@ module.exports = async (Robinhood, includeToday) => {
     const sortedByPercUp = withData
         // .filter(t => t.trend.length > 30)
         // .filter(t => t.trends.filter(trend => trend < 0).length < 8)
-        .sort((a, b) => b.percUp - a.percUp);
+        .sort((a, b) => {
+            return (b.percUp == a.percUp) ? b.avgTrend - a.avgTrend : b.percUp - a.percUp;
+        });
 
 
 

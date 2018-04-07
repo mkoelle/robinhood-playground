@@ -16,73 +16,40 @@ const cancelAllOrders = require('../rh-actions/cancel-all-orders');
 
 const mapLimit = require('promise-map-limit');
 
-const perms = [
-    {
-        name: 'lt$3-upstreak-3',
-        priceFilter: price => price < 3,
-        upstreak: 3
-    },
-    {
-        name: 'lt$3-upstreak-4',
-        priceFilter: price => price < 3,
-        upstreak: 4
-    },
-    {
-        name: '$3-$5-upstreak-5',
-        priceFilter: price => price > 3 && price < 5,
-        upstreak: 5
-    }
-];
-
+const getTicks = arr => arr.map(buy => buy.ticker);
 const trendFilter = async (Robinhood, trend) => {
 
-    const under5 = trend.filter(stock => {
-        return Number(stock.quote_data.last_trade_price) < 5;
-    });
-    console.log('uner 5', under5.length);
-    const withUpstreak = await mapLimit(under5, 20, async buy => ({
+    const withUpstreak = await mapLimit(trend, 20, async buy => ({
         ...buy,
         upstreak: await getUpStreak(Robinhood, buy.ticker)
     }));
 
-    console.log('with upstreak')
-    console.log(withUpstreak);
+    const withOvernightJump = await addOvernightJump(Robinhood, withUpstreak);
 
-    const returnData = {};
-    for (let perm of perms) {
+    console.log('with withOvernightJump and upstreak')
+    console.log(withOvernightJump);
 
+    const upstreakVariations = (numStreak, trend) => {
+        return {
+            [`${numStreak}days`]: getTicks(trend),  // all of them woah!
+            [`${numStreak}days-gt1overnight`]: getTicks(trend.filter(buy => buy.overnightJump > 1)),
+            [`${numStreak}days-gt3overnight`]: getTicks(trend.filter(buy => buy.overnightJump > 3)),
+            [`${numStreak}days-ltneg1overnight`]: getTicks(trend.filter(buy => buy.overnightJump < -1)),
+            [`${numStreak}days-ltneg3overnight`]: getTicks(trend.filter(buy => buy.overnightJump < -3))
+        };
+    };
 
-        const inPriceFilter = withUpstreak.filter(t => {
-            return perm.priceFilter(Number(t.quote_data.last_trade_price));
-        });
-        const meetsUpstreak = inPriceFilter.filter(t => {
-            return t.upstreak === perm.upstreak;
-        });
-
-        // await limitBuyMultiple(Robinhood, {
-        //     stocksToBuy: meetsUpstreak.map(t => t.ticker),
-        //     totalAmtToSpend: 100,
-        //     strategy: perm.name
-        // });
-        // await recordPicks(Robinhood, perm.name, min, meetsUpstreak.map(t => t.ticker));
-        returnData[perm.name] = meetsUpstreak.map(t => t.ticker);
-
-        let withOvernightJump = await addOvernightJump(Robinhood, meetsUpstreak);
-        const upOneOvernight = withOvernightJump.filter(t => {
-            return t.overnightJump > 1;
-        });
-
-        // await limitBuyMultiple(Robinhood, {
-        //     stocksToBuy: upOneOvernight.map(t => t.ticker),
-        //     totalAmtToSpend: 50,
-        //     strategy: perm.name + '-up1overnight'
-        // });
-
-        // await recordPicks(Robinhood, perm.name + '-up1overnight', min, upOneOvernight.map(t => t.ticker));
-        returnData[perm.name + '-up1overnight'] = upOneOvernight.map(t => t.ticker);
-    }
-
-    return returnData;
+    return {
+        ...upstreakVariations('3to5', withOvernightJump.filter(({ upstreak }) => upstreak >= 3 && upstreak <= 5)),
+        ...upstreakVariations('4', withOvernightJump.filter(({ upstreak }) => upstreak === 4)),
+        ...upstreakVariations('5', withOvernightJump.filter(({ upstreak }) => upstreak === 5)),
+        ...upstreakVariations('6', withOvernightJump.filter(({ upstreak }) => upstreak === 6)),
+        ...upstreakVariations('7', withOvernightJump.filter(({ upstreak }) => upstreak === 7)),
+        ...upstreakVariations('8', withOvernightJump.filter(({ upstreak }) => upstreak === 8)),
+        ...upstreakVariations('9', withOvernightJump.filter(({ upstreak }) => upstreak === 9)),
+        ...upstreakVariations('6to8', withOvernightJump.filter(({ upstreak }) => upstreak >= 6 && upstreak <= 8)),
+        ...upstreakVariations('gt8', withOvernightJump.filter(({ upstreak }) => upstreak >= 8)),
+    };
 };
 
 const up10days = {

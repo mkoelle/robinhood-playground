@@ -12,35 +12,65 @@ const getRisk = require('../rh-actions/get-risk');
 const trendingUp = require('../rh-actions/trending-up');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 
+const getTicks = arr => arr.map(buy => buy.ticker);
 const trendFilter = async (Robinhood, trend) => {
     // stocks that went up overnight and
     // trending upward
     console.log('running based-on-jump strategy');
 
-    let upOvernight = await addOvernightJump(Robinhood, trend);
-    upOvernight = upOvernight.filter(stock => stock.overnightJump > 3);
+    let withOvernight = await addOvernightJump(Robinhood, trend);
 
-    upOvernight = await mapLimit(upOvernight, 20, async buy => ({
-        ...buy,
-        ...(await getRisk(Robinhood, buy.ticker)),
-        trendingUp: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
-    }));
+    const filterSortedTicks = async (filter, sort) => {
+        const passedFirstFilter = withOvernight.filter(filter).sort(sort);
+        const withRisk = await mapLimit(passedFirstFilter, 20, async buy => ({
+            ...buy,
+            ...(await getRisk(Robinhood, buy.ticker)),
+            trending35257: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
+        }));
+        console.log(withRisk);
+        return (num, secondFilter) => {
+            const ofInterest = secondFilter ? withRisk.filter(secondFilter) : withRisk;
+            const sortedSliced = ofInterest.sort(sort).slice(0, num);
+            return getTicks(sortedSliced);
+        };
+    };
 
-    console.log(
-        'num not trending',
-        upOvernight.filter(buy => !buy.trendingUp).length
+    console.log('prepping up3overnight');
+    const up3overnight = await filterSortedTicks(
+        buy => buy.overnightJump > 3,
+        (a, b) => b.overnightJump - a.overnightJump
     );
-    console.log(
-        '> 8% below max of year',
-        upOvernight.filter(buy => buy.percMax > -8).length
+    console.log('prepping down3overnight');
+    const down3overnight = await filterSortedTicks(
+        buy => buy.overnightJump < -3,
+        (a, b) => a.overnightJump - b.overnightJump
     );
-    upOvernight = upOvernight.filter(buy => buy.trendingUp && buy.percMax < -8);
 
-    console.log('upovernight lenght', upOvernight.length);
-    return upOvernight
-        .sort((a, b) => a.percMax - b.percMax)
-        .slice(0, 15)
-        .map(stock => stock.ticker);
+    const filterPerms = [
+        ['trending35257', buy => buy.trending35257],
+        ['ltneg50percmax', buy => buy.percMax < -50],
+        ['gtneg20percmax', buy => buy.percMax > -20],
+        ['shouldWatchout', buy => buy.shouldWatchout],
+        ['notWatchout', buy => !buy.shouldWatchout],
+        ['trending35257-ltneg50percmax', buy => buy.trending35257 && buy.percMax < -50],
+        ['trending35257-gtneg20percmax', buy => buy.trending35257 && buy.percMax > -20],
+        ['trending35257-notWatchout', buy => buy.trending35257 && !buy.shouldWatchout]
+    ];
+
+    const runPerms = (name, fn) => {
+        return filterPerms.reduce((acc, [subFilterName, filter]) => ({
+            ...acc,
+            [`${name}-${subFilterName}`]: fn(5, filter)
+        }), {
+            [`${name}`]: fn(),
+            [`${name}-first5`]: fn(5)
+        });
+    };
+
+    return {
+        ...runPerms('up3overnight', up3overnight),
+        ...runPerms('down3overnight', down3overnight)
+    };
 };
 
 // based on jump

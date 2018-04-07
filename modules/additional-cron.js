@@ -16,17 +16,17 @@ const sellAllStocks = require('../app-actions/sell-all-stocks');
 const additionalCronConfig = [
     {
         name: 'sell all stocks if went up',
-        run: [8],
+        run: [0],
         fn: (Robinhood) => {
 
             setTimeout(async () => {
                 // daily at 6:30AM + 4 seconds
-                await sellAllStocks(Robinhood);
-                console.log('done selling all');
+                // await sellAllStocks(Robinhood);
+                // console.log('done selling all');
                 //
                 // timeoutPromise(5000);
-                // console.log('selling all stocks that went up');
-                // await sellAllIfWentUp(Robinhood);
+                console.log('selling all stocks that went up');
+                await sellAllIfWentUp(Robinhood);
                 // console.log('logging portfolio value');
                 // await logPortfolioValue(Robinhood);
 
@@ -41,11 +41,11 @@ const additionalCronConfig = [
     //     fn: sellAllIfWentUp
     // },
     // sell all if went up
-    // {
-    //     name: 'sellAllStocks',
-    //     run: [26],   // 12pm
-    //     fn: sellAllStocks
-    // },
+    {
+        name: 'sellAllStocks',
+        run: [8],   // 12pm
+        fn: sellAllStocks
+    },
     // log port value
     // {
     //     name: 'log the portfolio value',
@@ -61,14 +61,14 @@ const additionalCronConfig = [
     // record prev day strat performances,
     {
         name: 'record-strat-perfs',
-        run: [9, 85, 155, 230, 270, 330],
+        run: [9, 85, 230, 330],
         fn: recordStratPerfs
     },
-    {
-        name: 'sell all if older than a day',
-        run: [80],
-        fn: sellAllOlderThanOneDay
-    }
+    // {
+    //     name: 'sell all if older than a day',
+    //     run: [80],
+    //     fn: sellAllOlderThanOneDay
+    // }
 ];
 
 const additionalCron = {

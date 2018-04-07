@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AKER",
+      "price": 0.88
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.88
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.218
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CDMO",
+      "price": 3.1501
+    },
+    {
+      "ticker": "NVTA",
+      "price": 4.8536
+    },
+    {
+      "ticker": "JCP",
+      "price": 3.0999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDMO",
+      "price": 3.175
+    },
+    {
+      "ticker": "NVTA",
+      "price": 4.85
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.9
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CDMO",
+      "price": 3.135
+    },
+    {
+      "ticker": "NVTA",
+      "price": 4.87
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.3433
+    }
+  ],
+  "198": [
+    {
+      "ticker": "OREX",
+      "price": 0.3529
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.16
+    },
+    {
+      "ticker": "NVTA",
+      "price": 4.89
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SENS",
+      "price": 3.2306
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.3293
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.19
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SENS",
+      "price": 3.22
+    },
+    {
+      "ticker": "OREX",
+      "price": 0.281
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.24
+    }
+  ]
+}

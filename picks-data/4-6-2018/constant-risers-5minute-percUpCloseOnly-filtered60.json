@@ -1,0 +1,76 @@
+{
+  "40": [
+    {
+      "ticker": "NG",
+      "price": 4.61
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.095
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.855
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NG",
+      "price": 4.6267
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.22
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NG",
+      "price": 4.6267
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.195
+    },
+    {
+      "ticker": "OGEN",
+      "price": 2.7599
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ATRS",
+      "price": 2.235
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.415
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.8099
+    }
+  ],
+  "198": [
+    {
+      "ticker": "BWEN",
+      "price": 3.0111
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BWEN",
+      "price": 2.93
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BWEN",
+      "price": 2.906
+    }
+  ]
+}

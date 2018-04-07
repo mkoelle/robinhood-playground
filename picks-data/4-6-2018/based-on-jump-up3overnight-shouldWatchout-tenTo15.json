@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 13.25
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 13.53
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 14.9199
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 13.435
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.85
+    },
+    {
+      "ticker": "LOOP",
+      "price": 14.9199
+    }
+  ]
+}

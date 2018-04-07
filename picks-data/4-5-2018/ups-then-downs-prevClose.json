@@ -1,0 +1,75 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "AFMD",
+      "price": 2.1507
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.115
+    },
+    {
+      "ticker": "CSBR",
+      "price": 3.7866
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2409
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.125
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.1
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2441
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.1
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.1
+    },
+    {
+      "ticker": "SMSI",
+      "price": 1.7201
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2392
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.57
+    },
+    {
+      "ticker": "AFMD",
+      "price": 2.1
+    },
+    {
+      "ticker": "NVAX",
+      "price": 2.0662
+    },
+    {
+      "ticker": "OSG",
+      "price": 2.985
+    }
+  ]
+}

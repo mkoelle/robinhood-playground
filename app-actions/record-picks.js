@@ -4,6 +4,8 @@ const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 const strategiesEnabled = require('../strategies-enabled');
 const purchaseStocks = require('./purchase-stocks');
+const sendEmail = require('../utils/send-email');
+
 console.log(strategiesEnabled, 'strategies enabled ')
 module.exports = async (Robinhood, strategy, min, picks) => {
 
@@ -42,12 +44,16 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     if (enableCount) {
         console.log('strategy enabled: ', `${strategy}-${min}`, 'purchasing');
         console.log('picks', picks);
-        await purchaseStocks(Robinhood, {
-            stocksToBuy: picks,
-            strategy,
-            multiplier: enableCount,
-            min
-        });
+        // await purchaseStocks(Robinhood, {
+        //     stocksToBuy: picks,
+        //     strategy,
+        //     multiplier: enableCount,
+        //     min
+        // });
+        await sendEmail(
+            `robinhood-playground: ${strategy}-${min}`,
+            JSON.stringify(withPrices, null, 2)
+        );
     }
 
 

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CMCL",
+      "price": 8.16
+    },
+    {
+      "ticker": "RMT",
+      "price": 9.41
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.0001
+    }
+  ],
+  "242": [
+    {
+      "ticker": "IIJI",
+      "price": 9.638
+    },
+    {
+      "ticker": "SIEB",
+      "price": 7.85
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.1464
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TSI",
+      "price": 5.485
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.638
+    },
+    {
+      "ticker": "DHCP",
+      "price": 8.9
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "RUN",
+      "price": 9.38
+    },
+    {
+      "ticker": "XTNT",
+      "price": 7.89
+    },
+    {
+      "ticker": "NERV",
+      "price": 6.85
+    },
+    {
+      "ticker": "DXR",
+      "price": 9.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RUN",
+      "price": 9.41
+    },
+    {
+      "ticker": "XTNT",
+      "price": 7.89
+    },
+    {
+      "ticker": "NERV",
+      "price": 6.8
+    },
+    {
+      "ticker": "DXR",
+      "price": 9.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RUN",
+      "price": 9.365
+    },
+    {
+      "ticker": "XTNT",
+      "price": 8.085
+    },
+    {
+      "ticker": "NERV",
+      "price": 6.8
+    },
+    {
+      "ticker": "DXR",
+      "price": 9.645
+    }
+  ]
+}

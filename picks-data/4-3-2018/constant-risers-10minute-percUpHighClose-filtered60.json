@@ -1,0 +1,96 @@
+{
+  "40": [
+    {
+      "ticker": "FRAN",
+      "price": 4.815
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.77
+    },
+    {
+      "ticker": "PACB",
+      "price": 2.205
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TNTR",
+      "price": 1.91
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.965
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDRL",
+      "price": 0.2229
+    },
+    {
+      "ticker": "SSC",
+      "price": 3.0729
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.055
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CBL",
+      "price": 4.205
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.095
+    },
+    {
+      "ticker": "ZIOP",
+      "price": 4.125
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GERN",
+      "price": 4.1635
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.11
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.7599
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 4.205
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.8135
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.54
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MBII",
+      "price": 2.58
+    },
+    {
+      "ticker": "FTD",
+      "price": 3.795
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MYND",
+      "price": 1.5
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.6467
+    },
+    {
+      "ticker": "ASTC",
+      "price": 2.57
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MYND",
+      "price": 1.489
+    },
+    {
+      "ticker": "ASTC",
+      "price": 2.4979
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MYND",
+      "price": 1.53
+    },
+    {
+      "ticker": "ASTC",
+      "price": 2.5657
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0353
+    }
+  ]
+}

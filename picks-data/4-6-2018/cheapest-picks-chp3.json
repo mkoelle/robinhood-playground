@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0416
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.051
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1734
+    }
+  ],
+  "65": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0472
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.0575
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1711
+    }
+  ],
+  "125": [
+    {
+      "ticker": "NVCN",
+      "price": 0.053
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.054
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.17
+    }
+  ],
+  "175": [
+    {
+      "ticker": "JRJR",
+      "price": 0.054
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0639
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.17
+    }
+  ],
+  "225": [
+    {
+      "ticker": "JRJR",
+      "price": 0.0532
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0601
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.171
+    }
+  ],
+  "386": [
+    {
+      "ticker": "JRJR",
+      "price": 0.056
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.061
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1683
+    }
+  ]
+}

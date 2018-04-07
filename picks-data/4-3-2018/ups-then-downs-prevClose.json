@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "OREX",
+      "price": 0.2803
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1798
+    }
+  ],
+  "50": [
+    {
+      "ticker": "OREX",
+      "price": 0.2679
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1617
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OREX",
+      "price": 0.247
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1617
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.7565
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OREX",
+      "price": 0.2279
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.168
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OREX",
+      "price": 0.24
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1675
+    }
+  ],
+  "600": [
+    {
+      "ticker": "OREX",
+      "price": 0.2229
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1745
+    },
+    {
+      "ticker": "QUMU",
+      "price": 1.72
+    }
+  ]
+}

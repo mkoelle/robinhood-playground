@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "BZQ",
+      "price": 7.04
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EAST",
+      "price": 6.8752
+    },
+    {
+      "ticker": "BZQ",
+      "price": 7.1101
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EAST",
+      "price": 6.8752
+    },
+    {
+      "ticker": "BZQ",
+      "price": 7.1405
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.1
+    }
+  ]
+}

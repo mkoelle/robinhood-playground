@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "NAII",
+      "price": 10.73
+    },
+    {
+      "ticker": "BVXV",
+      "price": 5.21
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.185
+    },
+    {
+      "ticker": "JT",
+      "price": 5.35
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BVXV",
+      "price": 5.84
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.29
+    },
+    {
+      "ticker": "JT",
+      "price": 5.35
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.56
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BVXV",
+      "price": 5.84
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.15
+    },
+    {
+      "ticker": "JT",
+      "price": 5.49
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.395
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.49
+    }
+  ]
+}

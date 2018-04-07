@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "MARK",
+      "price": 6.21
+    },
+    {
+      "ticker": "SHSP",
+      "price": 6.8325
+    },
+    {
+      "ticker": "SLS",
+      "price": 6.3199
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SLS",
+      "price": 9.1
+    },
+    {
+      "ticker": "MARK",
+      "price": 6.43
+    },
+    {
+      "ticker": "QHC",
+      "price": 8.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SLS",
+      "price": 9.8138
+    },
+    {
+      "ticker": "MARK",
+      "price": 6.45
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.9478
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SLS",
+      "price": 8.241
+    },
+    {
+      "ticker": "MARK",
+      "price": 6.86
+    },
+    {
+      "ticker": "QHC",
+      "price": 8.87
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SLS",
+      "price": 9.1128
+    },
+    {
+      "ticker": "MARK",
+      "price": 6.54
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.535
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SLS",
+      "price": 8.64
+    },
+    {
+      "ticker": "MARK",
+      "price": 6.26
+    },
+    {
+      "ticker": "BLFS",
+      "price": 5.95
+    }
+  ]
+}
