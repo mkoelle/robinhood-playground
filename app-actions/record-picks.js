@@ -2,7 +2,7 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
-const strategiesEnabled = require('../strategies-enabled');
+const { purchase, email } = require('../strategies-enabled');
 const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
 
@@ -32,6 +32,7 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     });
     withPrices = withPrices.filter(tickerPrice => !!tickerPrice);
 
+    
     console.log('saving', strategy, 'picks', withPrices);
     const curData = await jsonMgr.get(fileLocation);
     const savedData = {
@@ -40,21 +41,28 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     };
     await jsonMgr.save(fileLocation, savedData);
 
-    const enableCount = strategiesEnabled.filter(strat => strat === `${strategy}-${min}`).length;
+    const stratMin = `${strategy}-${min}`;
+    // for purchase
+    const enableCount = purchase.filter(strat => strat === stratMin).length;
     if (enableCount) {
-        console.log('strategy enabled: ', `${strategy}-${min}`, 'purchasing');
+        console.log('strategy enabled: ', stratMin, 'purchasing');
         console.log('picks', picks);
-        // await purchaseStocks(Robinhood, {
-        //     stocksToBuy: picks,
-        //     strategy,
-        //     multiplier: enableCount,
-        //     min
-        // });
-        await sendEmail(
-            `robinhood-playground: ${strategy}-${min}`,
-            JSON.stringify(withPrices, null, 2)
-        );
+        await purchaseStocks(Robinhood, {
+            stocksToBuy: picks,
+            strategy,
+            multiplier: enableCount,
+            min
+        });
     }
 
+    // for email
+    const toEmail = Object.keys(email).filter(addr => email[addr].includes(stratMin));
+    for (let addr of toEmail) {
+        await sendEmail(
+            `robinhood-playground: ${stratMin}`,
+            JSON.stringify(withPrices, null, 2),
+            addr
+        );
+    }
 
 };
