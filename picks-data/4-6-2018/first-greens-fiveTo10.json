@@ -64,5 +64,27 @@
       "ticker": "TRPX",
       "price": 5.1252
     }
+  ],
+  "600": [
+    {
+      "ticker": "SJT",
+      "price": 6.78
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.03
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.9963
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.46
+    },
+    {
+      "ticker": "TRPX",
+      "price": 5.2
+    }
   ]
 }

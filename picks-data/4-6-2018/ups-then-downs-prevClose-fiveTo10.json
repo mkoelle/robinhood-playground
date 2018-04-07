@@ -84,5 +84,23 @@
       "ticker": "TELL",
       "price": 7.8248
     }
+  ],
+  "600": [
+    {
+      "ticker": "NETE",
+      "price": 7.33
+    },
+    {
+      "ticker": "RUN",
+      "price": 8.52
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9
+    },
+    {
+      "ticker": "TELL",
+      "price": 7.87
+    }
   ]
 }

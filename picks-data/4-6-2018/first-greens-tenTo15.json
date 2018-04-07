@@ -64,5 +64,27 @@
       "ticker": "PZE",
       "price": 11.8
     }
+  ],
+  "600": [
+    {
+      "ticker": "DZSI",
+      "price": 11.2
+    },
+    {
+      "ticker": "XOG",
+      "price": 10.72
+    },
+    {
+      "ticker": "CLDR",
+      "price": 12.98
+    },
+    {
+      "ticker": "SBLK",
+      "price": 10.82
+    },
+    {
+      "ticker": "PZE",
+      "price": 11.94
+    }
   ]
 }
