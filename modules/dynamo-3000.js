@@ -51,19 +51,26 @@ const trendFilter = async (Robinhood, trend) => {
                 const perc = buy.last_trade_price / total;
                 return {
                     ...buy,
-                    yearPosition: perc
+                    yearPosition: perc,
+                    peRatio: buy.fundamentals.pe_ratio,
+                    sharesToCap: buy.fundamentals.shares_outstanding / buy.fundamentals.market_cap
                 };
-            })
-        const firstFiveBySort = (sortFn) => getTicks(
-            withYearPosition
-                .sort(sortFn)
-                .slice(0, 5)
-        );
+            });
 
         const highestLowest = (acronym, key) => {
+            const filtered = withYearPosition.filter(buy => !!buy[key]);
+            const firstFiveBySort = (sortFn) => getTicks(
+                filtered
+                    .sort(sortFn)
+                    .slice(0, 5)
+            );
             return {
-                [`${stratname}-5lowest${acronym}`]: firstFiveBySort((a, b) => a[key] - b[key]),
-                [`${stratname}-5highest${acronym}`]: firstFiveBySort((a, b) => b[key] - a[key]),
+                [`${stratname}-5lowest${acronym}`]: firstFiveBySort(
+                    (a, b) => a[key] - b[key]
+                ),
+                [`${stratname}-5highest${acronym}`]: firstFiveBySort(
+                    (a, b) => b[key] - a[key]
+                )
             };
         };
 
@@ -71,6 +78,7 @@ const trendFilter = async (Robinhood, trend) => {
             [stratname]: getTicks(trend),
             ...highestLowest('TSO', 'trendSinceOpen'),  // lowest trend since open is still > 3%
             ...highestLowest('YP', 'yearPosition'),
+            ...highestLowest('sharesToCap', 'sharesToCap')
         };
     };
 
@@ -122,6 +130,14 @@ const trendFilter = async (Robinhood, trend) => {
 
         console.log('final length num count', withTrendingUp.length);
         console.log(withTrendingUp);
+        const topPe = withTrendingUp
+            .map(buy => ({
+                ...buy,
+                peRatio: buy.fundamentals.pe_ratio
+            }))
+            .filter(buy => buy.peRatio)
+            .sort((a, b) => b.peRatio - a.peRatio)
+            .slice(0, 3);
 
         return {
             ...allVariations(`${name}-overall`, withTrendingUp),
@@ -131,7 +147,8 @@ const trendFilter = async (Robinhood, trend) => {
             ...allVariations(`${name}-notWatchout`, withTrendingUp.filter(buy => !buy.shouldWatchout)),
             ...allVariations(`${name}-onlyWatchout`, withTrendingUp.filter(buy => buy.shouldWatchout)),
             [`${name}-allFilters`]: getTicks(allFilters),
-            ...volumePerms(withTrendingUp, name)
+            ...volumePerms(withTrendingUp, name),
+            [`${name}-topPE`]: getTicks(topPe)
         };
     };
 
