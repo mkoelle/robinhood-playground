@@ -66,7 +66,7 @@ const trendFilter = async (Robinhood, trend) => {
                 [`${stratname}-5lowest${acronym}`]: firstFiveBySort((a, b) => a[key] - b[key]),
                 [`${stratname}-5highest${acronym}`]: firstFiveBySort((a, b) => b[key] - a[key]),
             };
-        }
+        };
 
         return {
             [stratname]: getTicks(trend),
