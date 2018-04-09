@@ -6,7 +6,7 @@ const { purchase, email } = require('../strategies-enabled');
 const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
 
-console.log(strategiesEnabled, 'strategies enabled ')
+console.log(purchase, email, 'strategies enabled ')
 module.exports = async (Robinhood, strategy, min, picks) => {
 
     if (!strategy.includes('cheapest-picks')) picks = picks.slice(0, 5);  // take only 5 picks
