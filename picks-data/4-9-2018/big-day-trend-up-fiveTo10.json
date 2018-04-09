@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "GSIT",
+      "price": 7.68
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.9
+    }
+  ],
+  "35": [
+    {
+      "ticker": "ATXI",
+      "price": 5.18
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.6001
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.875
+    },
+    {
+      "ticker": "GSIT",
+      "price": 7.56
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.43
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ACIU",
+      "price": 9.825
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.071
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.755
+    },
+    {
+      "ticker": "ORMP",
+      "price": 7.49
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.56
+    }
+  ],
+  "223": [
+    {
+      "ticker": "HIMX",
+      "price": 6.8
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.625
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.05
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.4375
+    }
+  ]
+}

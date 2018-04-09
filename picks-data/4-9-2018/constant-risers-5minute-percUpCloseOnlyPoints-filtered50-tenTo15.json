@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BILI",
+      "price": 11.5
+    },
+    {
+      "ticker": "ALNA",
+      "price": 13.585
+    },
+    {
+      "ticker": "IMMU",
+      "price": 14.8
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ALNA",
+      "price": 13.95
+    },
+    {
+      "ticker": "SELB",
+      "price": 11.16
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALNA",
+      "price": 13.93
+    },
+    {
+      "ticker": "SLDB",
+      "price": 10.29
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.5
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SLDB",
+      "price": 10.27
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.87
+    },
+    {
+      "ticker": "FOLD",
+      "price": 13.88
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SELB",
+      "price": 11.21
+    },
+    {
+      "ticker": "SLDB",
+      "price": 10.115
+    },
+    {
+      "ticker": "IMMU",
+      "price": 14.75
+    }
+  ],
+  "250": [
+    {
+      "ticker": "URA",
+      "price": 13.44
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.0655
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "XNET",
+      "price": 11.85
+    },
+    {
+      "ticker": "IMMU",
+      "price": 14.76
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.0218
+    }
+  ]
+}

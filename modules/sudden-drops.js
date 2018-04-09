@@ -16,24 +16,25 @@ const trendFilter = async (Robinhood, trend) => {
     let withHistoricals = trend.map((buy, i) => ({
         ...buy,
         historicals: allHistoricals[i]
-    })).filter(buy => !!buy.historicals);
+    })).filter(buy => !!buy.historicals && buy.historicals.length);
 
     const perms = [1, 2, 3, 5, 10, 18, 30, 50];
-    let withQuickTrends = withHistoricals.map(buy => {
-        const lastClose = buy.historicals[buy.historicals.length - 1].close_price;
-        return {
-            ...buy,
-            ...perms.reduce((acc, val) => {
-                const pastHistorical = buy.historicals[buy.historicals.length - val];
-                return {
-                    ...acc,
-                    ...pastHistorical && {
-                        [`last${val}trend`]: getTrend(lastClose, pastHistorical.open_price)
-                    }
-                };
-            }, {})
-        };
-    });
+    let withQuickTrends = withHistoricals
+        .map(buy => {
+            const lastClose = buy.historicals[buy.historicals.length - 1].close_price;
+            return {
+                ...buy,
+                ...perms.reduce((acc, val) => {
+                    const pastHistorical = buy.historicals[buy.historicals.length - val];
+                    return {
+                        ...acc,
+                        ...pastHistorical && {
+                            [`last${val}trend`]: getTrend(lastClose, pastHistorical.open_price)
+                        }
+                    };
+                }, {})
+            };
+        });
 
 
     // console.log(JSON.stringify(withQuickTrends, null, 2));

@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "INPX",
+      "price": 1.0096
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2071
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.0003
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.369
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.5444
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RAS",
+      "price": 0.2204
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.6877
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.3487
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3508
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.9601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RAS",
+      "price": 0.2463
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.4136
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.2111
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.315
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3529
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RAS",
+      "price": 0.2605
+    },
+    {
+      "ticker": "INSG",
+      "price": 2.03
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3699
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.683
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.3815
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RAS",
+      "price": 0.223
+    },
+    {
+      "ticker": "INSG",
+      "price": 2.0901
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2448
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.811
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RAS",
+      "price": 0.2417
+    },
+    {
+      "ticker": "INSG",
+      "price": 2.1413
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3821
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.8201
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.6922
+    }
+  ]
+}

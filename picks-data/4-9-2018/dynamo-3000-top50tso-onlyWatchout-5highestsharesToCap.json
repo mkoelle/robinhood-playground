@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "RAS",
+      "price": 0.2071
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.3186
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3401
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.369
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.4432
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RAS",
+      "price": 0.2204
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2191
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.34
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3508
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.4396
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RAS",
+      "price": 0.2463
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.222
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.266
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3376
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3529
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RAS",
+      "price": 0.2558
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2219
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2801
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.34
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3699
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RAS",
+      "price": 0.223
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2421
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2709
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3445
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RAS",
+      "price": 0.2417
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.239
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3402
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3821
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.46
+    }
+  ]
+}

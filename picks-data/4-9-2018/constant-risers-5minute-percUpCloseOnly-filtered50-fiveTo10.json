@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 8.815
+    },
+    {
+      "ticker": "ADT",
+      "price": 8.91
+    },
+    {
+      "ticker": "DS",
+      "price": 5.001
+    }
+  ],
+  "80": [
+    {
+      "ticker": "I",
+      "price": 5.83
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.51
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PVG",
+      "price": 6.88
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.205
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.57
+    }
+  ],
+  "140": [
+    {
+      "ticker": "I",
+      "price": 5.75
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.26
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.55
+    }
+  ],
+  "198": [
+    {
+      "ticker": "WETF",
+      "price": 8.92
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.47
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.78
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ADT",
+      "price": 9.15
+    },
+    {
+      "ticker": "WETF",
+      "price": 8.96
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.25
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FSM",
+      "price": 5.39
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.84
+    },
+    {
+      "ticker": "WETF",
+      "price": 8.945
+    }
+  ]
+}

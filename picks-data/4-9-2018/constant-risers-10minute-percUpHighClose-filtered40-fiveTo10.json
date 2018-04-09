@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "WIT",
+      "price": 5.295
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.545
+    },
+    {
+      "ticker": "I",
+      "price": 5.35
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OAS",
+      "price": 8.03
+    },
+    {
+      "ticker": "MITL",
+      "price": 9.43
+    },
+    {
+      "ticker": "TELL",
+      "price": 8.17
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPTX",
+      "price": 9.24
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.805
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.195
+    }
+  ],
+  "140": [
+    {
+      "ticker": "HPR",
+      "price": 5.28
+    },
+    {
+      "ticker": "I",
+      "price": 5.76
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.35
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FSP",
+      "price": 7.655
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.27
+    },
+    {
+      "ticker": "I",
+      "price": 5.74
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FTR",
+      "price": 7.97
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.15
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.81
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SRNE",
+      "price": 5.89
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.175
+    },
+    {
+      "ticker": "FTR",
+      "price": 7.9631
+    }
+  ]
+}

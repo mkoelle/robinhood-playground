@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CCXI",
+      "price": 12.51
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.27
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.56
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RCUS",
+      "price": 13.36
+    },
+    {
+      "ticker": "PRTK",
+      "price": 12.7
+    },
+    {
+      "ticker": "LAUR",
+      "price": 13.72
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PRTK",
+      "price": 12.6
+    },
+    {
+      "ticker": "RCUS",
+      "price": 13.7
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.43
+    }
+  ]
+}

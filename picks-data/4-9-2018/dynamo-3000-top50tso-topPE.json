@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "GROW",
+      "price": 2.68
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.699
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.5444
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GROW",
+      "price": 2.76
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.6974
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.3772
+    }
+  ],
+  "200": [
+    {
+      "ticker": "URG",
+      "price": 0.701
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.64
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "URG",
+      "price": 0.7027
+    },
+    {
+      "ticker": "EXK",
+      "price": 2.625
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.3693
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXK",
+      "price": 2.58
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.6902
+    },
+    {
+      "ticker": "CODA",
+      "price": 3.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXK",
+      "price": 2.585
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.6902
+    },
+    {
+      "ticker": "CODA",
+      "price": 3.6
+    }
+  ]
+}

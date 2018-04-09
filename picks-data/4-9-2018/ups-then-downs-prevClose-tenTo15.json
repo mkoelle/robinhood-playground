@@ -1,0 +1,31 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "OMER",
+      "price": 13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMER",
+      "price": 12.9699
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SNMP",
+      "price": 11.8028
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OMER",
+      "price": 13.03
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.875
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "10": [
+    {
+      "ticker": "ACIU",
+      "price": 10.4
+    },
+    {
+      "ticker": "IPIC",
+      "price": 11.674
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.64
+    }
+  ],
+  "35": [
+    {
+      "ticker": "IPIC",
+      "price": 11.674
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.64
+    },
+    {
+      "ticker": "PZE",
+      "price": 12.07
+    }
+  ],
+  "90": [
+    {
+      "ticker": "IPIC",
+      "price": 11.674
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.5155
+    },
+    {
+      "ticker": "XOG",
+      "price": 11.33
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.4999
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.545
+    }
+  ],
+  "223": [
+    {
+      "ticker": "IPIC",
+      "price": 11.674
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.69
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.69
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.296
+    },
+    {
+      "ticker": "FOLD",
+      "price": 13.78
+    }
+  ]
+}

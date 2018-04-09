@@ -1,0 +1,39 @@
+{
+  "10": [
+    {
+      "ticker": "TNDM",
+      "price": 5.555
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "SHLO",
+      "price": 9.02
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TNDM",
+      "price": 5.565
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.04
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.025
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SHLO",
+      "price": 8.85
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7
+    }
+  ]
+}

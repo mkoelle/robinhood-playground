@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 4.67
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.97
+    },
+    {
+      "ticker": "AIPT",
+      "price": 0.949
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LTS",
+      "price": 3.18
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.221
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PGH",
+      "price": 0.715
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2411
+    },
+    {
+      "ticker": "USAS",
+      "price": 3.5152
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CREG",
+      "price": 1.5983
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2558
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRRX",
+      "price": 2.485
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2259
+    },
+    {
+      "ticker": "EVK",
+      "price": 3.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LUNA",
+      "price": 3.4201
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2417
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2
+    }
+  ]
+}

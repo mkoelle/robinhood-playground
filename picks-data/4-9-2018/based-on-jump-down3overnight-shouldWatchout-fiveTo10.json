@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "SLS",
+      "price": 6.605
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTN",
+      "price": 5.275
+    },
+    {
+      "ticker": "SLS",
+      "price": 6.5
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTN",
+      "price": 5.275
+    },
+    {
+      "ticker": "SLS",
+      "price": 6.47
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.75
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "RHE",
+      "price": 0.3558
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.8348
+    },
+    {
+      "ticker": "VISI",
+      "price": 2.99
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RHE",
+      "price": 0.3651
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.9616
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.785
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RHE",
+      "price": 0.365
+    },
+    {
+      "ticker": "BWEN",
+      "price": 3.0272
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "RHE",
+      "price": 0.3705
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.855
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.92
+    }
+  ],
+  "198": [
+    {
+      "ticker": "RHE",
+      "price": 0.36
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.89
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.87
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RHE",
+      "price": 0.3705
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.86
+    },
+    {
+      "ticker": "FTEK",
+      "price": 1.4
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RHE",
+      "price": 0.3612
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.805
+    },
+    {
+      "ticker": "FTEK",
+      "price": 1.39
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NGL",
+      "price": 10.85
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.95
+    },
+    {
+      "ticker": "OBSV",
+      "price": 13.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "INAP",
+      "price": 10.77
+    },
+    {
+      "ticker": "SMLP",
+      "price": 13.25
+    },
+    {
+      "ticker": "CLXT",
+      "price": 14.64
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LNDC",
+      "price": 13.1
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.675
+    },
+    {
+      "ticker": "SCPH",
+      "price": 10.85
+    }
+  ]
+}

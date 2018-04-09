@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "DNOW",
+      "price": 10.765
+    },
+    {
+      "ticker": "DEX",
+      "price": 11.78
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.86
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.17
+    },
+    {
+      "ticker": "XIVH",
+      "price": 13.121
+    }
+  ],
+  "73": [
+    {
+      "ticker": "DNOW",
+      "price": 10.805
+    },
+    {
+      "ticker": "DEX",
+      "price": 11.72
+    },
+    {
+      "ticker": "GCH",
+      "price": 13.37
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.26
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.97
+    }
+  ],
+  "196": [
+    {
+      "ticker": "DNOW",
+      "price": 10.735
+    },
+    {
+      "ticker": "DEX",
+      "price": 11.75
+    },
+    {
+      "ticker": "GCH",
+      "price": 13.37
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.85
+    },
+    {
+      "ticker": "WTTR",
+      "price": 12.345
+    }
+  ]
+}

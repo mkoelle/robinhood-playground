@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "CMCM",
+      "price": 13.4
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.895
+    },
+    {
+      "ticker": "TVIX",
+      "price": 10.015
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CAFD",
+      "price": 12.083
+    },
+    {
+      "ticker": "REI",
+      "price": 13.4
+    },
+    {
+      "ticker": "PZE",
+      "price": 11.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASA",
+      "price": 10.5101
+    },
+    {
+      "ticker": "CDXS",
+      "price": 10.625
+    },
+    {
+      "ticker": "PZN",
+      "price": 10.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GRBK",
+      "price": 10.85
+    },
+    {
+      "ticker": "QEP",
+      "price": 10.04
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.23
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CWCO",
+      "price": 13.75
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.58
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.17
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNSL",
+      "price": 11.605
+    },
+    {
+      "ticker": "ACH",
+      "price": 14.43
+    },
+    {
+      "ticker": "NAII",
+      "price": 11
+    }
+  ]
+}

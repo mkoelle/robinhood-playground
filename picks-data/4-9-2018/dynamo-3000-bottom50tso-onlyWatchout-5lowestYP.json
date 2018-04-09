@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0666
+    },
+    {
+      "ticker": "PXS",
+      "price": 1.0616
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.71
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.4276
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0635
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.4
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.7204
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.655
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.896
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0669
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.82
+    },
+    {
+      "ticker": "CHFS",
+      "price": 2.83
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.236
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.3851
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0665
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.82
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2352
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.3879
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.6699
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0667
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.811
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.368
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.68
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.8521
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0627
+    },
+    {
+      "ticker": "NVIV",
+      "price": 0.3576
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.375
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3784
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.8
+    }
+  ]
+}

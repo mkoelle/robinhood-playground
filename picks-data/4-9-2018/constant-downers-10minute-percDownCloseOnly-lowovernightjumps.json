@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CGIX",
+      "price": 1.025
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.41
+    },
+    {
+      "ticker": "KOOL",
+      "price": 1.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CGIX",
+      "price": 1.02
+    },
+    {
+      "ticker": "KOOL",
+      "price": 1.47
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.45
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SMIT",
+      "price": 2.4435
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.01
+    },
+    {
+      "ticker": "KOOL",
+      "price": 1.47
+    }
+  ]
+}

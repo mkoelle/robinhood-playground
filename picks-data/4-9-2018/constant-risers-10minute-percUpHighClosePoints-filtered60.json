@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "INPX",
+      "price": 1.06
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3558
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.5119
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RAS",
+      "price": 0.2139
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3651
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 2.6738
+    },
+    {
+      "ticker": "LGCY",
+      "price": 4.83
+    },
+    {
+      "ticker": "BWEN",
+      "price": 3.02
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AVEO",
+      "price": 2.6401
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.6772
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.83
+    }
+  ],
+  "198": [
+    {
+      "ticker": "RAS",
+      "price": 0.2427
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.6358
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.67
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FCEL",
+      "price": 1.86
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.7
+    },
+    {
+      "ticker": "UPL",
+      "price": 3.625
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GROW",
+      "price": 2.6898
+    }
+  ]
+}

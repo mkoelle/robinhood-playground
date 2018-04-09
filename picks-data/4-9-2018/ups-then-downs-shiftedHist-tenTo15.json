@@ -1,0 +1,30 @@
+{
+  "10": [
+    {
+      "ticker": "MNOV",
+      "price": 12.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNOV",
+      "price": 12.6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MNOV",
+      "price": 12.74
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CLXT",
+      "price": 14.98
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.6978
+    }
+  ]
+}

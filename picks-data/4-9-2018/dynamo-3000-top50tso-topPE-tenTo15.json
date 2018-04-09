@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "KRNY",
+      "price": 13.2
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.325
+    },
+    {
+      "ticker": "GME",
+      "price": 13.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REI",
+      "price": 13.4
+    },
+    {
+      "ticker": "GOL",
+      "price": 14.4176
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.5155
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSPI",
+      "price": 11.296
+    },
+    {
+      "ticker": "QBAK",
+      "price": 11.37
+    },
+    {
+      "ticker": "PZN",
+      "price": 10.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.475
+    },
+    {
+      "ticker": "ACH",
+      "price": 14.555
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.296
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IRMD",
+      "price": 14.7
+    },
+    {
+      "ticker": "NTP",
+      "price": 12.5
+    },
+    {
+      "ticker": "RQI",
+      "price": 11.9932
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IRMD",
+      "price": 14.6
+    },
+    {
+      "ticker": "NTP",
+      "price": 12.6
+    },
+    {
+      "ticker": "ITCB",
+      "price": 14.97
+    }
+  ]
+}

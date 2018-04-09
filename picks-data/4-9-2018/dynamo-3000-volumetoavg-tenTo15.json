@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "NMIH",
+      "price": 13.975
+    },
+    {
+      "ticker": "MHN",
+      "price": 12.5901
+    },
+    {
+      "ticker": "OMER",
+      "price": 13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NMIH",
+      "price": 13.925
+    },
+    {
+      "ticker": "EVG",
+      "price": 13.48
+    },
+    {
+      "ticker": "OMER",
+      "price": 13.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NMIH",
+      "price": 13.875
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.31
+    },
+    {
+      "ticker": "QD",
+      "price": 10.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMIH",
+      "price": 13.55
+    },
+    {
+      "ticker": "MTLS",
+      "price": 11.72
+    },
+    {
+      "ticker": "QD",
+      "price": 10.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMIH",
+      "price": 13.725
+    },
+    {
+      "ticker": "SCD",
+      "price": 12.52
+    },
+    {
+      "ticker": "EPZM",
+      "price": 13.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NMIH",
+      "price": 13.65
+    },
+    {
+      "ticker": "ACP",
+      "price": 13.72
+    },
+    {
+      "ticker": "EPZM",
+      "price": 13.775
+    }
+  ]
+}

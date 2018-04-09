@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "STAF",
+      "price": 1.94
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.94
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.6455
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CGIX",
+      "price": 1.02
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.11
+    },
+    {
+      "ticker": "LLEX",
+      "price": 4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "INTX",
+      "price": 2
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.01
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.37
+    }
+  ]
+}

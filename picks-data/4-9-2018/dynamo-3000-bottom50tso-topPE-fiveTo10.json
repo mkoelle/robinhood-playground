@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "CRON",
+      "price": 5.56
+    },
+    {
+      "ticker": "ORN",
+      "price": 6.21
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 5.5995
+    },
+    {
+      "ticker": "LGL",
+      "price": 5.42
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LGL",
+      "price": 5.33
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9.11
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGL",
+      "price": 5.33
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9.05
+    },
+    {
+      "ticker": "CELP",
+      "price": 6.347
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LGL",
+      "price": 5.33
+    },
+    {
+      "ticker": "RCII",
+      "price": 9.615
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LGL",
+      "price": 5.33
+    },
+    {
+      "ticker": "RCII",
+      "price": 9.54
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5722
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.385
+    },
+    {
+      "ticker": "UPL",
+      "price": 3.61
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.18
+    },
+    {
+      "ticker": "AMPE",
+      "price": 3.675
+    }
+  ],
+  "180": [
+    {
+      "ticker": "AXAS",
+      "price": 2.42
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5756
+    },
+    {
+      "ticker": "UPL",
+      "price": 3.585
+    },
+    {
+      "ticker": "ATRS",
+      "price": 2.1602
+    },
+    {
+      "ticker": "EXK",
+      "price": 2.495
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EXK",
+      "price": 2.585
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5852
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.135
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.335
+    },
+    {
+      "ticker": "UPL",
+      "price": 3.525
+    }
+  ]
+}

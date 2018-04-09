@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "EYEG",
+      "price": 0.375
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.9587
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0666
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 0.4
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3841
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0637
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 0.3851
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3723
+    },
+    {
+      "ticker": "FTD",
+      "price": 4.515
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 0.3879
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3768
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.8999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 0.368
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3744
+    },
+    {
+      "ticker": "MBII",
+      "price": 2.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 0.3576
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3784
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.89
+    }
+  ]
+}

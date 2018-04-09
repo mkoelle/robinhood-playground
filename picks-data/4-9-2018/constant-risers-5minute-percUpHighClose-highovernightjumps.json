@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CYTR",
+      "price": 1.78
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.05
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.68
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CYTR",
+      "price": 1.7292
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7711
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.9009
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HEAR",
+      "price": 3.68
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.69
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.7286
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MEET",
+      "price": 2.31
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.6796
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.757
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AYTU",
+      "price": 0.6114
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.315
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.67
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MEET",
+      "price": 2.32
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.6137
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.69
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MEET",
+      "price": 2.29
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.6195
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.6841
+    }
+  ]
+}
