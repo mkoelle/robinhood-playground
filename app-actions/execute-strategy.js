@@ -41,10 +41,10 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
 
         if (!Array.isArray(toPurchase)) {
             // its an object
-            Object.keys(toPurchase).forEach(async strategyName => {
+            for (let strategyName of Object.keys(toPurchase)) {
                 const subsetToPurchase = toPurchase[strategyName];
                 await record(subsetToPurchase, `${strategy}-${strategyName}${priceFilterSuffix}`);
-            });
+            }
         } else {
             await record(toPurchase, `${strategy}${priceFilterSuffix}`);
         }
