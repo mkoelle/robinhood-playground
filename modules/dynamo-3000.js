@@ -24,7 +24,6 @@ const trendFilter = async (Robinhood, trend) => {
         .sort((a, b) => a.trendSinceOpen - b.trendSinceOpen);
 
     const theMiddle = Math.floor(withTrendSinceOpen.length / 2);
-
     const tsoBreakdowns = [
         {
             name: 'bottom50tso',
@@ -75,6 +74,29 @@ const trendFilter = async (Robinhood, trend) => {
         };
     };
 
+    const volumePerms = (trend, keyPrefix) => {
+        const withVolume = trend.map(buy => ({
+            ...buy,
+            volumetoavg: buy.fundamentals.volume / buy.fundamentals.average_volume,
+            volumeto2weekavg: buy.fundamentals.volume / buy.fundamentals.average_volume_2_weeks,
+            twoweekvolumetoavg: buy.fundamentals.average_volume_2_weeks / buy.fundamentals.average_volume,
+            absvolume: buy.fundamentals.volume
+        }));
+        return [
+            'absvolume',
+            'volumetoavg',
+            'volumeto2weekavg',
+            'twoweekvolumetoavg'
+        ].reduce((acc, key) => ({
+            ...acc,
+            [`${keyPrefix ? keyPrefix + '-' : ''}${key}`]: getTicks(
+                trend
+                    .sort((a, b) => b[key] - a[key])
+                    .slice(0, 3)
+            )
+        }), {});
+    };
+
     const allVariationsForTsoBreakdown = async ({ name, trend: trendFilteredByTSO }) => {
         console.log('trendFilter', name, 'count', trendFilteredByTSO.length);
         let withTrendingUp = await mapLimit(trendFilteredByTSO, 20, async buy => ({
@@ -108,15 +130,18 @@ const trendFilter = async (Robinhood, trend) => {
             // ...allVariations(`${name}-trendingUp30`, withTrendingUp.filter(buy => buy.trendingUp30)),
             ...allVariations(`${name}-notWatchout`, withTrendingUp.filter(buy => !buy.shouldWatchout)),
             ...allVariations(`${name}-onlyWatchout`, withTrendingUp.filter(buy => buy.shouldWatchout)),
-            [`${name}-allFilters`]: getTicks(allFilters)
+            [`${name}-allFilters`]: getTicks(allFilters),
+            ...volumePerms(withTrendingUp, name)
         };
     };
 
-    let returnObj = {};
+    let returnObj = {
+        ...volumePerms(withTrendSinceOpen)
+    };
     for (let obj of tsoBreakdowns) {
         returnObj = {
             ...returnObj,
-            ...await allVariationsForTsoBreakdown(obj)
+            ...await allVariationsForTsoBreakdown(obj),
         };
     }
     return returnObj;
