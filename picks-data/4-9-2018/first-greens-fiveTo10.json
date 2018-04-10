@@ -64,5 +64,27 @@
       "ticker": "HDGE",
       "price": 8.249
     }
+  ],
+  "600": [
+    {
+      "ticker": "TRVG",
+      "price": 6.39
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.9
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.8
+    },
+    {
+      "ticker": "SHSP",
+      "price": 6.18
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.05
+    }
   ]
 }

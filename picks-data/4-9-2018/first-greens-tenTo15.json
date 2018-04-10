@@ -64,5 +64,27 @@
       "ticker": "REW",
       "price": 14.6
     }
+  ],
+  "600": [
+    {
+      "ticker": "TZA",
+      "price": 12.11
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 13.78
+    },
+    {
+      "ticker": "SMN",
+      "price": 14.34
+    },
+    {
+      "ticker": "QID",
+      "price": 12.53
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.45
+    }
   ]
 }
