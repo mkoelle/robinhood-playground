@@ -24,18 +24,19 @@ const stratManager = {
         this.io.emit(eventName, data);
     },
     async getRelatedPrices() {
-        console.log('getting related prices');
+
         // console.log(this.picks);
         const flatten = list => list.reduce(
           (a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []
         );
-        const tickersToLookup = flatten(this.picks.map(pick => {
+        let tickersToLookup = flatten(this.picks.map(pick => {
             return pick.withPrices.map(tickerObj => tickerObj.ticker);
         }));
-        // console.log(tickersToLookup);
+        tickersToLookup = [...new Set(tickersToLookup)];     // uniquify duplicate tickers
+        console.log('getting related prices', tickersToLookup.length);
         const relatedPrices = await lookupTickers(
             this.Robinhood,
-            ...new Set(tickersToLookup)   // uniquify duplicate tickers
+            tickersToLookup
         );
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
