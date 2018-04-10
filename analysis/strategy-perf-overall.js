@@ -88,12 +88,12 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
 
             // const curCount = (stratResults.get(key) || []).length;
             // console.log(curCount, 'curcount');
-            console.log(key, 'key', avgTrend);
+            // console.log(key, 'key', avgTrend);
 
             // const trendCurCountTimes = Array(curCount || 1).fill(avgTrend);
             stratResults.put(key, (stratResults.get(key) || []).concat(avgTrend));
         });
-        console.log('turkey true', todayPerf);
+        // console.log('turkey true', todayPerf);
     }
 
     stratResults.keys().forEach(keyObj => {
@@ -115,7 +115,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     });
     // stratResults.print();
 
-    // console.log('all', allPerfs)
+    console.log('all', JSON.stringify(allPerfs, null, 2));
 
     const withoutPerms = allPerfs
         .filter(({ strategyName }) => {

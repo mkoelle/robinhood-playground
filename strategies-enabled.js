@@ -5,6 +5,7 @@ module.exports = {
     email: {
         [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: [
             'week-swings-tenTo15-1',    // *
+            'dynamo-3000-volumeto2weekavg-4',
             'constant-risers-5minute-percUpHighClosePoints-300',    // *
             'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',
             'based-on-jump-down3overnight-fiveTo10-5',

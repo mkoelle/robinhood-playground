@@ -20,6 +20,8 @@ const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
 // const up10days = require('./strategies/up-10-days');
 // const getUpStreak = require('./app-actions/get-up-streak');
 
+require('./socket-server');
+
 (async () => {
 
     Robinhood = await login();

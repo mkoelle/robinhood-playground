@@ -3,6 +3,8 @@ const jsonMgr = require('../utils/json-mgr');
 const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 const { purchase, email } = require('../strategies-enabled');
+const stratManager = require('../socket-server/strat-manager');
+
 const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
 
@@ -42,6 +44,13 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     await jsonMgr.save(fileLocation, savedData);
 
     const stratMin = `${strategy}-${min}`;
+
+    // for socket-server
+    stratManager.sendToAll('server:picks-data', {
+        stratMin,
+        withPrices
+    });
+
     // for purchase
     const enableCount = purchase.filter(strat => strat === stratMin).length;
     if (enableCount) {
@@ -64,5 +73,7 @@ module.exports = async (Robinhood, strategy, min, picks) => {
             addr
         );
     }
+
+
 
 };
