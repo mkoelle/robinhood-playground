@@ -14,7 +14,7 @@ let users = [];
 let sockets = {};
 
 app.use(compression({}));
-app.use(express['static'](__dirname + '/../client'));
+app.use(express['static'](__dirname + '/../client/build'));
 
 io.on('connection', (socket) => {
 

@@ -25,17 +25,21 @@ const stratManager = {
     },
     async getRelatedPrices() {
         console.log('getting related prices');
-        console.log(this.picks);
+        // console.log(this.picks);
         const flatten = list => list.reduce(
           (a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []
         );
         const tickersToLookup = flatten(this.picks.map(pick => {
             return pick.withPrices.map(tickerObj => tickerObj.ticker);
         }));
-        console.log(tickersToLookup);
-        const relatedPrices = await lookupTickers(this.Robinhood, tickersToLookup);
+        // console.log(tickersToLookup);
+        const relatedPrices = await lookupTickers(
+            this.Robinhood,
+            ...new Set(tickersToLookup)   // uniquify duplicate tickers
+        );
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
+        console.log('done getting related prices');
     }
 };
 
