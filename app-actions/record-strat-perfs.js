@@ -6,12 +6,33 @@ const jsonMgr = require('../utils/json-mgr');
 const filterByTradeable = require('../utils/filter-by-tradeable');
 const chunkApi = require('../utils/chunk-api');
 
+const lookupTickers = async (Robinhood, tickersToLookup) => {
+    // takes in array of tickers
+    // returns object of tickers and current prices
+    let quotes = await chunkApi(
+        tickersToLookup,
+        async (tickerStr) => {
+            // console.log('ti', tickerStr);
+            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/?symbols=${tickerStr}`);
+            return results;
+        },
+        1630
+    );
+    const tickerLookups = {};
+    quotes.forEach(quote => {
+        if (!quote) return;
+        const {symbol, last_trade_price} = quote;
+        tickerLookups[symbol] = Number(last_trade_price);
+    });
+    return tickerLookups;
+};
+
 const analyzeDay = async (Robinhood, day) => {
 
     let files = await fs.readdir(`./picks-data/${day}`);
     console.log(day, files);
 
-    const tickerLookups = {};
+    let tickerLookups = {};
     const strategyPicks = {};
 
     // load data from picks-data and keep track of tickers to lookup
@@ -39,21 +60,8 @@ const analyzeDay = async (Robinhood, day) => {
     // lookup prices of all tickers (chunked)
     const tickersToLookup = Object.keys(tickerLookups);
     // console.log(tickersToLookup, 'feaf')
-    let quotes = await chunkApi(
-        tickersToLookup,
-        async (tickerStr) => {
-            // console.log('ti', tickerStr);
-            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/?symbols=${tickerStr}`);
-            return results;
-        },
-        1630
-    );
 
-    quotes.forEach(quote => {
-        if (!quote) return;
-        const {symbol, last_trade_price} = quote;
-        tickerLookups[symbol] = Number(last_trade_price);
-    });
+    tickerLookups = await lookupTickers(Robinhood, tickersToLookup);
 
     // calc trend and avg for each strategy-min
     const withTrend = [];
@@ -86,6 +94,7 @@ const analyzeDay = async (Robinhood, day) => {
 };
 
 module.exports = {
+    lookupTickers,
     analyzeDay,
     default: async (Robinhood, min) => {
 

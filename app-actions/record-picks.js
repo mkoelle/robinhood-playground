@@ -46,7 +46,7 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     const stratMin = `${strategy}-${min}`;
 
     // for socket-server
-    stratManager.sendToAll('server:picks-data', {
+    stratManager.newPick({
         stratMin,
         withPrices
     });

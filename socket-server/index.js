@@ -18,7 +18,11 @@ app.use(express['static'](__dirname + '/../client'));
 
 io.on('connection', (socket) => {
 
-    socket.emit('server:set-picks', stratManager.getAllPicks());
+    socket.emit('server:welcome', {
+        picks: stratManager.picks,
+        relatedPrices: stratManager.relatedPrices
+    });
+
     socket.on('disconnect', () => {
         socket.broadcast.emit('userDisconnect');
     });
