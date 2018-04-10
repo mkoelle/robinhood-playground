@@ -12,6 +12,7 @@ const timeoutPromise = require('../utils/timeout-promise');
 // rh actions
 const sellAllIfWentUp = require('../app-actions/sell-all-if-went-up');
 const sellAllStocks = require('../app-actions/sell-all-stocks');
+const getAllTickers = require('../rh-actions/get-all-tickers');
 
 const additionalCronConfig = [
     {
@@ -68,6 +69,11 @@ const additionalCronConfig = [
         name: 'sell all if older than a day',
         run: [80],
         fn: sellAllOlderThanOneDay
+    },
+    {
+        name: 'getAllTickers',
+        run: [1020],
+        fn: getAllTickers
     }
 ];
 
