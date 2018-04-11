@@ -7,7 +7,7 @@ const avgArray = require('../utils/avg-array');
 const strategiesEnabled = require('../strategies-enabled');
 
 module.exports = async (Robinhood) => {
-    const overall = await stratPerfOverall(Robinhood);
+    const overall = await stratPerfOverall(Robinhood, false, 6, 4);
     const today = await stratPerfToday(Robinhood);
     console.log(overall, today);
 
@@ -36,12 +36,13 @@ module.exports = async (Robinhood) => {
 
     Object.keys(overall).forEach(breakdown => {
         const top10 = overall[breakdown]
-            .slice(0, 10)
+            .filter(stratPerf => !stratPerf.name.includes('cheapest-picks'))
+            .slice(0, 3)
             .map(stratPerf => stratPerf.name);
         addStrategiesToResults(breakdown, top10);
     });
 
-    addStrategiesToResults('strategies-enabled', strategiesEnabled);
-
+    addStrategiesToResults('strategies-enabled purchase', strategiesEnabled.purchase);
+    addStrategiesToResults('strategies-enabled for email', strategiesEnabled.email['chiefsmurph@gmail.com']);
     return results;
 };

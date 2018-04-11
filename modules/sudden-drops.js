@@ -44,7 +44,7 @@ const trendFilter = async (Robinhood, trend) => {
             ...acc,
             [`last${val}trend`]: withQuickTrends
                 .sort((a, b) => a[`last${val}trend`] - b[`last${val}trend`])
-                .slice(0, 3)
+                .slice(0, 2)
                 .map(buy => buy.ticker)
         }), {});
 

@@ -5,6 +5,7 @@ const http = require('http');
 const SocketIO = require('socket.io');
 const compression = require('compression');
 const stratManager = require('./strat-manager');
+const strategiesEnabled = require('../strategies-enabled');
 
 let app = express();
 let server = http.Server(app);
@@ -20,7 +21,8 @@ io.on('connection', (socket) => {
 
     socket.emit('server:welcome', {
         picks: stratManager.picks,
-        relatedPrices: stratManager.relatedPrices
+        relatedPrices: stratManager.relatedPrices,
+        vipStrategies: strategiesEnabled.purchase
     });
 
     socket.on('disconnect', () => {
@@ -29,7 +31,7 @@ io.on('connection', (socket) => {
 
 });
 
-server.listen(port, () => {
-    stratManager.init(io);
+server.listen(port, async () => {
+    await stratManager.init(io);
     console.log('[INFO] Listening on *:' + port);
 });

@@ -11,13 +11,14 @@ class Pick extends Component {
       showingDetails: false
   };
   toggleDetails = () => {
+      console.log('toggle!');
       this.setState({ showingDetails: !this.state.showingDetails })
   };
   render() {
       const { showingDetails } = this.state;
       const { pick } = this.props;
       return (
-          <div>
+          <div className="pick">
               <button onClick={this.toggleDetails}>
                   {showingDetails ? '-' : '+'}
               </button>
@@ -55,9 +56,14 @@ class Pick extends Component {
 }
 
 class App extends Component {
-  state = { picks: [], relatedPrices: {} };
+  state = { picks: [], relatedPrices: {}, vipStrategiesOnly: true };
   componentDidMount() {
-      const socket = socketIOClient();
+      const { protocol, hostname } = window.location;
+      let endpoint = `${protocol}//${hostname}`;
+      if (hostname === 'localhost') {
+          endpoint += ':3000';
+      }
+      const socket = socketIOClient(endpoint);
       socket.on('server:picks-data', data => {
           console.log(data);
           this.setState({
@@ -71,8 +77,13 @@ class App extends Component {
           this.setState({ relatedPrices: data });
       });
   }
+  toggleVipStrategies = () => {
+      this.setState({
+          vipStrategiesOnly: !this.state.vipStrategiesOnly
+      });
+  }
   render() {
-      let { picks, relatedPrices } = this.state;
+      let { picks, relatedPrices, vipStrategies, vipStrategiesOnly } = this.state;
       picks = picks.map(pick => {
           const calcedTrend = pick.withPrices.map(({ ticker, price }) => ({
               ticker,
@@ -86,12 +97,29 @@ class App extends Component {
               withTrend: calcedTrend
           };
       });
-      const sortedByAvgTrend = picks.sort((a, b) => b.avgTrend - a.avgTrend);
+      let sortedByAvgTrend = picks.sort((a, b) => b.avgTrend - a.avgTrend);
+      if (vipStrategiesOnly) {
+          sortedByAvgTrend = sortedByAvgTrend.filter(strat => vipStrategies.includes(strat.stratMin));
+      }
+      console.log('rendering!');
+      const avgTrendOverall = avgArray(sortedByAvgTrend.map(strat => strat.avgTrend).filter(val => !!val));
       return (
           <div className="App">
               <header className="App-header">
                   <h1 className="App-title">robinhood-playground</h1>
+                  <input
+                      type="checkbox"
+                      id="vipStrategies"
+                      checked={vipStrategiesOnly}
+                      onChange={this.toggleVipStrategies}
+                  />
+                  <label htmlFor="vipStrategies">
+                      VIP Strategies Only
+                  </label>
               </header>
+              <p>
+                  <h2>overall average trend: {avgTrendOverall}</h2>
+              </p>
               <p className="App-intro">
                   {
                     sortedByAvgTrend.map(pick => (

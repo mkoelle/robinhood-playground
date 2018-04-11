@@ -1,13 +1,48 @@
 const { lookupTickers } = require('../app-actions/record-strat-perfs');
+const jsonMgr = require('../utils/json-mgr');
+const fs = require('mz/fs');
+
+const initPicks = async () => {
+
+    const picks = [];
+
+    let folders = await fs.readdir('./picks-data');
+    let sortedFolders = folders.sort((a, b) => {
+        return new Date(a) - new Date(b);
+    });
+    console.log(sortedFolders);
+    const mostRecentDay = sortedFolders[sortedFolders.length - 1];
+    let files = await fs.readdir(`./picks-data/${mostRecentDay}`);
+    for (let file of files) {
+        const strategyName = file.split('.')[0];
+        const obj = await jsonMgr.get(`./picks-data/${mostRecentDay}/${file}`);
+        // console.log(strategyName);
+        // console.log(obj);
+
+        for (let min of Object.keys(obj)) {
+            // for each strategy run
+            picks.push({
+                stratMin: `${strategyName}-${min}`,
+                withPrices: obj[min]
+            });
+        }
+    }
+
+    return picks;
+}
+
+
 const stratManager = {
     Robinhood: null,
     io: null,
     picks: [],
     relatedPrices: {},
-
-    init(io) {
+    
+    async init(io) {
         this.Robinhood = global.Robinhood;
         this.io = io;
+        this.picks = await initPicks();
+        await this.getRelatedPrices();
         console.log('initd strat manager');
         setInterval(() => this.getRelatedPrices(), 40000);
     },
