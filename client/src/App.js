@@ -6,6 +6,12 @@ import socketIOClient from "socket.io-client";
 import getTrend from './utils/get-trend';
 import avgArray from './utils/avg-array';
 
+const trendPerc = num => (
+    <span className={ num > 0 ? 'positive' : 'negative'}>
+        {num.toFixed(2)}%
+    </span>
+);
+
 class Pick extends Component {
   state = {
       showingDetails: false
@@ -22,9 +28,10 @@ class Pick extends Component {
               <button onClick={this.toggleDetails}>
                   {showingDetails ? '-' : '+'}
               </button>
-              <b>{pick.stratMin}</b><br/>
-              <i>avg trend: {pick.avgTrend}</i>
-
+              <b>
+                  {trendPerc(pick.avgTrend)}
+                  {' ' + pick.stratMin}
+              </b>
               {
                 showingDetails && (
                     <table>
@@ -41,7 +48,7 @@ class Pick extends Component {
                                         <td>{tickerObj.ticker}</td>
                                         <td>{tickerObj.thenPrice}</td>
                                         <td>{tickerObj.nowPrice}</td>
-                                        <td>{tickerObj.trend}</td>
+                                        <td>{tickerObj.trend}%</td>
                                     </tr>
                                 ))
                             }
@@ -84,6 +91,7 @@ class App extends Component {
   }
   render() {
       let { picks, relatedPrices, vipStrategies, vipStrategiesOnly } = this.state;
+      if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
       picks = picks.map(pick => {
           const calcedTrend = pick.withPrices.map(({ ticker, price }) => ({
               ticker,
@@ -118,7 +126,7 @@ class App extends Component {
                   </label>
               </header>
               <p>
-                  <h2>overall average trend: {avgTrendOverall}</h2>
+                  <h2>overall average trend: {trendPerc(avgTrendOverall)}</h2>
               </p>
               <p className="App-intro">
                   {

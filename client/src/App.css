@@ -36,17 +36,26 @@ label {
 }
 
 .pick button {
-  margin-right: 15px;
+  margin-right: 5px;
   zoom: 200%;
   width: 30px;
   cursor: pointer;
+  outline: 0;
 }
 
 .pick table {
   background-color: #eee;
   padding: 10px;
   margin-top: 5px;
-  width: 400px;
+  width: 80%;
+  max-width: 100%;
+}
+
+.positive {
+  color: green;
+}
+.negative {
+  color: red;
 }
 
 @keyframes App-logo-spin {
