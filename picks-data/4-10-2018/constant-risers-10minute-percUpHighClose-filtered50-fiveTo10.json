@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 7.575
+    },
+    {
+      "ticker": "SIEN",
+      "price": 9.4
+    },
+    {
+      "ticker": "SLS",
+      "price": 6.35
+    }
+  ],
+  "80": [
+    {
+      "ticker": "PIRS",
+      "price": 6.47
+    },
+    {
+      "ticker": "TNDM",
+      "price": 6.89
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNDM",
+      "price": 6.8
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.045
+    },
+    {
+      "ticker": "AMZA",
+      "price": 6.986
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MITL",
+      "price": 9.615
+    },
+    {
+      "ticker": "DERM",
+      "price": 7.84
+    },
+    {
+      "ticker": "I",
+      "price": 6.11
+    }
+  ],
+  "198": [
+    {
+      "ticker": "I",
+      "price": 6.28
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.215
+    },
+    {
+      "ticker": "MITL",
+      "price": 9.6548
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MITL",
+      "price": 9.64
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.285
+    },
+    {
+      "ticker": "SPN",
+      "price": 8.965
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SPN",
+      "price": 9.055
+    },
+    {
+      "ticker": "AMD",
+      "price": 9.98
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.31
+    }
+  ]
+}

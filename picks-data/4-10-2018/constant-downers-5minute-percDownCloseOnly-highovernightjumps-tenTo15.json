@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "BBGI",
+      "price": 10.25
+    },
+    {
+      "ticker": "KPTI",
+      "price": 12.485
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CSPI",
+      "price": 11.285
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.25
+    },
+    {
+      "ticker": "KPTI",
+      "price": 12.56
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BBGI",
+      "price": 10.25
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.4
+    },
+    {
+      "ticker": "KPTI",
+      "price": 12.58
+    }
+  ]
+}

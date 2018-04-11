@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "BBGI",
+      "price": 10.3
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.76
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.345
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BBGI",
+      "price": 10.25
+    },
+    {
+      "ticker": "MNOV",
+      "price": 12.44
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMEH",
+      "price": 14
+    },
+    {
+      "ticker": "DRIP",
+      "price": 11.1529
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FENC",
+      "price": 13.27
+    },
+    {
+      "ticker": "DRIP",
+      "price": 11
+    },
+    {
+      "ticker": "CLXT",
+      "price": 14.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FENC",
+      "price": 13.3996
+    },
+    {
+      "ticker": "DRIP",
+      "price": 10.77
+    },
+    {
+      "ticker": "CLXT",
+      "price": 14.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 10.9201
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.56
+    },
+    {
+      "ticker": "CLXT",
+      "price": 14.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FENC",
+      "price": 13.52
+    },
+    {
+      "ticker": "DRIP",
+      "price": 10.9732
+    },
+    {
+      "ticker": "CLXT",
+      "price": 14.01
+    }
+  ]
+}

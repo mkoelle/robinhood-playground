@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "SOXS",
+      "price": 12.36
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.95
+    },
+    {
+      "ticker": "DWT",
+      "price": 10.11
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.11
+    },
+    {
+      "ticker": "DRIP",
+      "price": 11.648
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOXS",
+      "price": 12.561
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.92
+    },
+    {
+      "ticker": "DWT",
+      "price": 10.13
+    },
+    {
+      "ticker": "DRIP",
+      "price": 11.545
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOXS",
+      "price": 12.642
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.92
+    },
+    {
+      "ticker": "DWT",
+      "price": 10.18
+    },
+    {
+      "ticker": "DRIP",
+      "price": 11.62
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.14
+    }
+  ]
+}

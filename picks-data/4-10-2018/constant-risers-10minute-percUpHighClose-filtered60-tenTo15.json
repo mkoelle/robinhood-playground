@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "IMMU",
+      "price": 15.04
+    },
+    {
+      "ticker": "ANGI",
+      "price": 13.5
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.48
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FOSL",
+      "price": 14.83
+    },
+    {
+      "ticker": "BB",
+      "price": 10.4752
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 10.215
+    },
+    {
+      "ticker": "BAS",
+      "price": 14.66
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.99
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GPOR",
+      "price": 10.18
+    },
+    {
+      "ticker": "RIG",
+      "price": 10.495
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.715
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PBR",
+      "price": 13.8162
+    },
+    {
+      "ticker": "RIG",
+      "price": 10.565
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.316
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MAT",
+      "price": 13.6062
+    },
+    {
+      "ticker": "RIG",
+      "price": 10.65
+    },
+    {
+      "ticker": "PBR",
+      "price": 13.895
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PBR",
+      "price": 14.0052
+    },
+    {
+      "ticker": "RIG",
+      "price": 10.615
+    },
+    {
+      "ticker": "ECA",
+      "price": 11.41
+    }
+  ]
+}

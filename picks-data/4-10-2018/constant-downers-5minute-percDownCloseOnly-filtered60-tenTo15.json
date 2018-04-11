@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SA",
+      "price": 10.75
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.66
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CSPI",
+      "price": 11.285
+    },
+    {
+      "ticker": "PBBI",
+      "price": 10.3
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.74
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AMEH",
+      "price": 14.1
+    },
+    {
+      "ticker": "PBBI",
+      "price": 10.3
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.25
+    }
+  ]
+}

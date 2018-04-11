@@ -1,0 +1,68 @@
+{
+  "40": [
+    {
+      "ticker": "SELB",
+      "price": 10.065
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.9301
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.14
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SELB",
+      "price": 10
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIX",
+      "price": 10.0662
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TVIX",
+      "price": 10.0344
+    },
+    {
+      "ticker": "NXEOU",
+      "price": 11.5
+    }
+  ],
+  "198": [
+    {
+      "ticker": "TVIX",
+      "price": 10.2
+    },
+    {
+      "ticker": "NXEOU",
+      "price": 11.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 10.2
+    },
+    {
+      "ticker": "NXEOU",
+      "price": 11.5
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 9.99
+    },
+    {
+      "ticker": "NXEOU",
+      "price": 11.09
+    }
+  ]
+}

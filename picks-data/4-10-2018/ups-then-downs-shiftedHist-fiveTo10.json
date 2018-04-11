@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "SHLO",
+      "price": 9.13
+    }
+  ],
+  "50": [
+    {
+      "ticker": "FTD",
+      "price": 5.115
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTD",
+      "price": 5.415
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.1
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FTD",
+      "price": 5.4
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.105
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FTD",
+      "price": 5.4
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.0701
+    }
+  ],
+  "600": [
+    {
+      "ticker": "FTD",
+      "price": 5.42
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.08
+    }
+  ]
+}

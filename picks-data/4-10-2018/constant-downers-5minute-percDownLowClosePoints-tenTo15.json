@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DRIP",
+      "price": 11.22
+    },
+    {
+      "ticker": "FENC",
+      "price": 14.18
+    },
+    {
+      "ticker": "KPTI",
+      "price": 12.485
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DRIP",
+      "price": 10.86
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.3
+    },
+    {
+      "ticker": "VNDA",
+      "price": 14.925
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DRIP",
+      "price": 10.7724
+    },
+    {
+      "ticker": "VNDA",
+      "price": 14.525
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.53
+    }
+  ]
+}

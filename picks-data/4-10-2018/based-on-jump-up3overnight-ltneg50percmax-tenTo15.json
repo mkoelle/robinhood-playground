@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "BAS",
+      "price": 13.65
+    },
+    {
+      "ticker": "QD",
+      "price": 10.1416
+    },
+    {
+      "ticker": "KEG",
+      "price": 12.3641
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BAS",
+      "price": 14.13
+    },
+    {
+      "ticker": "QD",
+      "price": 10.2284
+    },
+    {
+      "ticker": "KEG",
+      "price": 12.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BAS",
+      "price": 14.07
+    },
+    {
+      "ticker": "QD",
+      "price": 10.31
+    },
+    {
+      "ticker": "KEG",
+      "price": 12.52
+    }
+  ]
+}

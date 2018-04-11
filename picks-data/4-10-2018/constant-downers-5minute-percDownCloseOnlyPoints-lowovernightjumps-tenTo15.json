@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "DRIP",
+      "price": 11.22
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.1641
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DRIP",
+      "price": 10.855
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.2959
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DRIP",
+      "price": 10.7724
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.2284
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.531
+    }
+  ]
+}

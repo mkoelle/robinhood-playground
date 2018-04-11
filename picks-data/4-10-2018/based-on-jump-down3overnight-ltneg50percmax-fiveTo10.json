@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "SELB",
+      "price": 9.37
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.1
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.73
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.96
+    },
+    {
+      "ticker": "RARX",
+      "price": 5.2982
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSG",
+      "price": 8.81
+    },
+    {
+      "ticker": "RARX",
+      "price": 5.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SELB",
+      "price": 9.95
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.075
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.81
+    },
+    {
+      "ticker": "RARX",
+      "price": 5.48
+    }
+  ]
+}

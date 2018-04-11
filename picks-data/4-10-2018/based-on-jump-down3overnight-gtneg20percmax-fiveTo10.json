@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "CYRX",
+      "price": 8.26
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CYRX",
+      "price": 8.35
+    },
+    {
+      "ticker": "ATTU",
+      "price": 7.1
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CYRX",
+      "price": 8.22
+    },
+    {
+      "ticker": "ATTU",
+      "price": 7.18
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.58
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "OMER",
+      "price": 13.02
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SNMP",
+      "price": 12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMER",
+      "price": 13.39
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OMER",
+      "price": 13.49
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OMER",
+      "price": 13.41
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.8825
+    }
+  ],
+  "600": [
+    {
+      "ticker": "OMER",
+      "price": 13.38
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.9
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BW",
+      "price": 3.86
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.3249
+    },
+    {
+      "ticker": "FIT",
+      "price": 4.94
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AXAS",
+      "price": 2.545
+    },
+    {
+      "ticker": "ESV",
+      "price": 4.93
+    },
+    {
+      "ticker": "NE",
+      "price": 3.905
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESV",
+      "price": 4.895
+    },
+    {
+      "ticker": "NE",
+      "price": 3.875
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.04
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ESV",
+      "price": 4.895
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.575
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.43
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ESV",
+      "price": 4.925
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.01
+    },
+    {
+      "ticker": "NE",
+      "price": 3.915
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ESV",
+      "price": 5
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.015
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.47
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ESV",
+      "price": 4.975
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.05
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.45
+    }
+  ]
+}

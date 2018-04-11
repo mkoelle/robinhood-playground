@@ -1,0 +1,40 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "FENC",
+      "price": 13.46
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AP",
+      "price": 10.5
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.57
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AP",
+      "price": 10.05
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.53
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CLFD",
+      "price": 13.35
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.5
+    }
+  ]
+}

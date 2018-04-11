@@ -1,0 +1,64 @@
+{
+  "5": [
+    {
+      "ticker": "SELB",
+      "price": 9.37
+    },
+    {
+      "ticker": "TSRI",
+      "price": 5.2186
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.73
+    },
+    {
+      "ticker": "TVIX",
+      "price": 9.96
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TSRI",
+      "price": 5.2186
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.81
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.63
+    },
+    {
+      "ticker": "EEV",
+      "price": 7.7668
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SELB",
+      "price": 9.9301
+    },
+    {
+      "ticker": "TSRI",
+      "price": 5.2186
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.81
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.665
+    },
+    {
+      "ticker": "EEV",
+      "price": 7.755
+    }
+  ]
+}

@@ -57,7 +57,7 @@ class Pick extends Component {
 class App extends Component {
   state = { picks: [], relatedPrices: {} };
   componentDidMount() {
-      const socket = socketIOClient('http://localhost:3000');
+      const socket = socketIOClient();
       socket.on('server:picks-data', data => {
           console.log(data);
           this.setState({
@@ -97,7 +97,7 @@ class App extends Component {
               <p className="App-intro">
                   {
                     sortedByAvgTrend.map(pick => (
-                        <Pick pick={pick} />
+                        <Pick pick={pick} key={pick.stratMin} />
                     ))
                   }
               </p>

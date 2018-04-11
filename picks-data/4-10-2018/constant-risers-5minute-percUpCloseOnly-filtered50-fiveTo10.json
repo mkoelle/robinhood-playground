@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SLS",
+      "price": 6.35
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.04
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.4548
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AMLP",
+      "price": 9.55
+    },
+    {
+      "ticker": "CRK",
+      "price": 5.595
+    },
+    {
+      "ticker": "HK",
+      "price": 5.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRK",
+      "price": 5.54
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.965
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.569
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMLP",
+      "price": 9.555
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.23
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.79
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FTR",
+      "price": 8.495
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.5928
+    },
+    {
+      "ticker": "CRON",
+      "price": 5.8476
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FTR",
+      "price": 8.595
+    },
+    {
+      "ticker": "CRON",
+      "price": 6
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.29
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRON",
+      "price": 6.12
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.5699
+    },
+    {
+      "ticker": "AMLP",
+      "price": 9.6794
+    }
+  ]
+}
