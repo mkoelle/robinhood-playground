@@ -74,14 +74,12 @@ class App extends Component {
   render() {
       let { picks, relatedPrices } = this.state;
       picks = picks.map(pick => {
-          const calcedTrend = pick.withPrices.map(({ ticker, price }) => {
-              return {
-                  ticker,
-                  thenPrice: price,
-                  nowPrice: relatedPrices[ticker],
-                  trend: getTrend(relatedPrices[ticker], price)
-              };
-          });
+          const calcedTrend = pick.withPrices.map(({ ticker, price }) => ({
+              ticker,
+              thenPrice: price,
+              nowPrice: relatedPrices[ticker],
+              trend: getTrend(relatedPrices[ticker], price)
+          }));
           return {
               ...pick,
               avgTrend: avgArray(calcedTrend.map(t => t.trend)),
