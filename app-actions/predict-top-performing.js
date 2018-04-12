@@ -1,0 +1,92 @@
+const brain = require('brain.js');
+const fs = require('mz/fs');
+const jsonMgr = require('../utils/json-mgr');
+const avgArray = require('../utils/avg-array');
+
+const predictForDays = async (days) => {
+
+    console.log('days', days);
+    const stratPerfsTrend = {};
+    // console.log(allDays);
+    for (let file of days) {
+        const obj = await jsonMgr.get(`./strat-perfs/${file}`);
+        // console.log(strategyName);
+        // console.log(file);
+        if (!obj['next-day-9']) continue;
+        console.log('found', file, obj['next-day-9'].length);
+        obj['next-day-9'].forEach(({ strategyName, avgTrend }) => {
+            stratPerfsTrend[strategyName] = (stratPerfsTrend[strategyName] || []).concat([avgTrend]);
+        });
+    }
+
+
+    const predictStrategy = (trends) => {
+        console.log('strategy', trends)
+        const trainingObjs = (() => {
+            const arr = [];
+            for (let i = 0; i < trends.length - 1; i++) {
+                arr.push({
+                    input: trends.slice(0, i + 1).map(n => Number(n)),
+                    output: { outputTrend: [Number(trends[i + 1])] }
+                });
+            }
+            return arr;
+        })();
+
+        // console.log(JSON.stringify(trainingObjs, null, 2));
+        const net = new brain.NeuralNetwork();
+        net.train(trainingObjs);
+        const prediction = net.run(trends);
+        // console.log(strategyName, 'strategy completed');
+        return prediction;
+        // var net2 = new brain.NeuralNetwork();
+        // net2.train([
+        //     { input: { r: 0.03, g: 0.7, b: 0.5 }, output: { black: 1 } },
+        //     { input: { r: 0.16, g: 0.09, b: 0.2 }, output: { white: 1 } },
+        //     { input: { r: 0.5, g: 0.5, b: 1.0 }, output: { white: 1 } }
+        // ]);
+
+        // var output = net2.run({ r: 1, g: 0.4, b: 0 }); // { white: 0.99, black: 0.002 }
+        // console.log(output);
+    };
+
+    const toPredict = Object.keys(stratPerfsTrend)
+        .filter(strategyName => stratPerfsTrend[strategyName].length > 3);
+
+
+    const allPredictions = toPredict
+        .filter(stratName => stratPerfsTrend[stratName].every(trend => trend > 0))
+        .map((stratName, i, array) => {
+            const weighted = stratPerfsTrend[stratName]
+                .filter(trend => trend < 80)
+                .map((trend, i) => Array(i).fill(trend))
+                .reduce((a, b) => a.concat(b), [])
+            console.log()
+            return {
+                stratName,
+                myPrediction: avgArray(weighted),
+                brainPrediction: predictStrategy(stratPerfsTrend[stratName]),
+                trend: weighted
+            };
+        });
+
+    return {
+        myPredictions: allPredictions
+            .sort((a, b) => Number(b.myPrediction) - Number(a.myPrediction))
+            .slice(0, 20)
+            .map(pred => pred.stratName),
+        brainPredictions: allPredictions
+            .sort((a, b) => Number(b.brainPrediction) - Number(a.brainPrediction))
+            .slice(0, 20)
+            .map(pred => pred.stratName)
+    };
+
+};
+
+module.exports = {
+    predictForDays,
+    predictCurrent: async (Robinhood) => {
+        let allDays = await fs.readdir(`./strat-perfs`);
+        return await predictForDays(allDays)
+    }
+}

@@ -14,6 +14,9 @@ const sellAllIfWentUp = require('../app-actions/sell-all-if-went-up');
 const sellAllStocks = require('../app-actions/sell-all-stocks');
 const getAllTickers = require('../rh-actions/get-all-tickers');
 
+// socket-server
+const stratManager = require('../socket-server/strat-manager');
+
 const additionalCronConfig = [
     {
         name: 'sell all stocks',
@@ -62,9 +65,18 @@ const additionalCronConfig = [
     // record prev day strat performances,
     {
         name: 'record-strat-perfs',
-        run: [9, 85, 230, 330],
+        run: [85, 230, 330],
+        fn: async (Robinhood) => {
+            await recordStratPerfs(Robinhood);
+            await stratManager.refreshPastData();
+        }
+    },
+    {
+        name: 'record-strat-perfs important!',
+        run: [9],
         fn: recordStratPerfs
     },
+    
     // {
     //     name: 'sell all if older than a day',
     //     run: [80],
