@@ -71,7 +71,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     }
 
     // should includetoday?
-    if (includeToday) {
+    if (includeToday === 'true') {
         console.log('adding today');
         const todayPerf = await strategyPerfToday(Robinhood);
         todayPerf.forEach(perf => {

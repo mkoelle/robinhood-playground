@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "QNST",
+      "price": 10.7
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.9001
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QNST",
+      "price": 10.42
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.9204
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QNST",
+      "price": 10.66
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.9204
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.83
+    }
+  ]
+}

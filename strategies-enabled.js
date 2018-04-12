@@ -11,7 +11,10 @@ const hotStrats = [
     'sudden-drops-last5trend-fiveTo10-328',
     'sudden-drops-last10trend-388',
     'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-16',
-    'ups-then-downs-prevClose-fiveTo10-300'
+    'ups-then-downs-prevClose-fiveTo10-300',
+
+    // add
+    // 'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5'
 ];
 
 module.exports = {

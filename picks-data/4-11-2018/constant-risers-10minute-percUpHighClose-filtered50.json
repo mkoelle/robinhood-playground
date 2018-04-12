@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MVIS",
+      "price": 1.13
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2651
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.74
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AMPE",
+      "price": 3.11
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.383
+    },
+    {
+      "ticker": "BW",
+      "price": 2.395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BTG",
+      "price": 2.985
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3826
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.9601
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TRXC",
+      "price": 1.94
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.4066
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.42
+    }
+  ],
+  "198": [
+    {
+      "ticker": "TRXC",
+      "price": 1.96
+    },
+    {
+      "ticker": "VSTM",
+      "price": 3.6526
+    },
+    {
+      "ticker": "WTI",
+      "price": 4.97
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WTI",
+      "price": 4.9632
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.94
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3976
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EYEG",
+      "price": 0.4031
+    },
+    {
+      "ticker": "TRXC",
+      "price": 1.95
+    },
+    {
+      "ticker": "SN",
+      "price": 3.755
+    }
+  ]
+}

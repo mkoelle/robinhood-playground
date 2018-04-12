@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "AP",
+      "price": 10.05
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AP",
+      "price": 10.325
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AP",
+      "price": 10.2
+    },
+    {
+      "ticker": "FENC",
+      "price": 14.1
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AP",
+      "price": 10.075
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.5
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.95
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AP",
+      "price": 10.125
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.5
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.94
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AP",
+      "price": 10.05
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.55
+    },
+    {
+      "ticker": "FENC",
+      "price": 13.95
+    }
+  ]
+}

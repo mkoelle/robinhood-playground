@@ -1,0 +1,88 @@
+{
+  "40": [
+    {
+      "ticker": "SPN",
+      "price": 9.255
+    },
+    {
+      "ticker": "RUN",
+      "price": 8.39
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.47
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SPN",
+      "price": 9.4877
+    },
+    {
+      "ticker": "AG",
+      "price": 6.74
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRFS",
+      "price": 6.615
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.4
+    },
+    {
+      "ticker": "AG",
+      "price": 6.77
+    }
+  ],
+  "140": [
+    {
+      "ticker": "P",
+      "price": 5.02
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.6
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.56
+    }
+  ],
+  "198": [
+    {
+      "ticker": "BRFS",
+      "price": 6.61
+    },
+    {
+      "ticker": "P",
+      "price": 5.01
+    },
+    {
+      "ticker": "I",
+      "price": 6.9299
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BRFS",
+      "price": 6.625
+    },
+    {
+      "ticker": "PIRS",
+      "price": 6.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BRFS",
+      "price": 6.69
+    }
+  ]
+}
