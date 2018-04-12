@@ -22,8 +22,14 @@
   font-size: large;
 }
 
+input[type="checkbox"] {
+  zoom: 140%;
+  cursor: pointer;
+  outline: 0;
+}
 h2 {
   margin-left: 15px;
+  font-variant: small-caps;
   text-decoration: underline;
 }
 
@@ -43,14 +49,27 @@ label {
   outline: 0;
 }
 
+.pick strong {
+  /* font-variant: small-caps; */
+  /* font-size: 120%; */
+}
 .pick table {
   background-color: #eee;
   padding: 10px;
   margin-top: 5px;
-  width: 80%;
-  max-width: 100%;
+  width: 100%;
+  max-width: 700px;
+  font-family: monospace;
 }
-
+.pick b span {
+  width: 4em;
+  text-align: center;
+  display: inline-block;
+}
+table th {
+  text-decoration: underline;
+  /* border-bottom: 1px solid black; */
+}
 .positive {
   color: green;
 }

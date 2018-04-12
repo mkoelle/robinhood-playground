@@ -19,7 +19,11 @@ const hotStrats = [
     'week-swings-tenTo15-1',
     'sudden-drops-last30trend-fiveTo10-388',
     'based-on-jump-up3overnight-ltneg50percmax-tenTo15-5',
-    'sudden-drops-last5trend-fiveTo10-328'
+    'constant-risers-10minute-percUpHighClosePoints-filtered60-140',
+    'sudden-drops-last5trend-fiveTo10-328',
+    'sudden-drops-last10trend-388',
+    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-16',
+    'ups-then-downs-prevClose-fiveTo10-300',
 ];
 
 module.exports = {

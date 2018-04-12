@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "HQCL",
+      "price": 7.4
+    },
+    {
+      "ticker": "NCMI",
+      "price": 5.46
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EURN",
+      "price": 8.625
+    },
+    {
+      "ticker": "NCMI",
+      "price": 5.45
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TZOO",
+      "price": 6.95
+    },
+    {
+      "ticker": "PRGX",
+      "price": 9.55
+    },
+    {
+      "ticker": "CUZ",
+      "price": 8.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRON",
+      "price": 6.48
+    },
+    {
+      "ticker": "AMD",
+      "price": 9.915
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMD",
+      "price": 9.915
+    },
+    {
+      "ticker": "GCI",
+      "price": 9.41
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRON",
+      "price": 6.46
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.075
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTG",
+      "price": 8.25
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.035
+    },
+    {
+      "ticker": "CART",
+      "price": 9.14
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 const { lookupTickers } = require('../app-actions/record-strat-perfs');
 const jsonMgr = require('../utils/json-mgr');
+const { CronJob } = require('cron');
 const fs = require('mz/fs');
+const strategiesEnabled = require('../strategies-enabled');
 
 const initPicks = async () => {
 
@@ -16,9 +18,6 @@ const initPicks = async () => {
     for (let file of files) {
         const strategyName = file.split('.')[0];
         const obj = await jsonMgr.get(`./picks-data/${mostRecentDay}/${file}`);
-        // console.log(strategyName);
-        // console.log(obj);
-
         for (let min of Object.keys(obj)) {
             // for each strategy run
             picks.push({
@@ -29,7 +28,7 @@ const initPicks = async () => {
     }
 
     return picks;
-}
+};
 
 
 const stratManager = {
@@ -37,14 +36,40 @@ const stratManager = {
     io: null,
     picks: [],
     relatedPrices: {},
-    
+
     async init(io) {
         this.Robinhood = global.Robinhood;
         this.io = io;
-        this.picks = await initPicks();
+
+        // init picks?
+        const curDate = new Date();
+        const day = curDate.getDay();
+        const isWeekday = day >= 1 && day <= 5;
+        const dateStr = (new Date()).toLocaleDateString().split('/').join('-');
+        const hasPicksData = await fs.exists(`./picks-data/${dateStr}`);
+        if (!isWeekday || hasPicksData) {
+            // from most recent day (weekend will get friday)
+            this.picks = await initPicks();
+        }
+        console.log(day, hasPicksData);
+
         await this.getRelatedPrices();
         console.log('initd strat manager');
+
+        new CronJob('0 0 * * 1-5', () => {
+            console.log('New day!');
+            this.picks = [];
+            this.relatedPrices = {};
+            this.sendToAll('server:welcome', this.getWelcomeData());
+        }, null, true);
         setInterval(() => this.getRelatedPrices(), 40000);
+    },
+    getWelcomeData() {
+        return {
+            picks: this.picks,
+            relatedPrices: this.relatedPrices,
+            vipStrategies: strategiesEnabled.purchase
+        };
     },
     newPick(data) {
         // console.log('new pick', data);

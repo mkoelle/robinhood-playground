@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "DRNA",
+      "price": 10.4
+    },
+    {
+      "ticker": "DDD",
+      "price": 11.815
+    },
+    {
+      "ticker": "GME",
+      "price": 13.845
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CZZ",
+      "price": 10.78
+    },
+    {
+      "ticker": "SBS",
+      "price": 10.05
+    },
+    {
+      "ticker": "SNCR",
+      "price": 11.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 10.87
+    },
+    {
+      "ticker": "DRNA",
+      "price": 10.69
+    },
+    {
+      "ticker": "CZZ",
+      "price": 10.75
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SD",
+      "price": 14.335
+    },
+    {
+      "ticker": "CZZ",
+      "price": 10.84
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.6
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ADAP",
+      "price": 11.885
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.7375
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.765
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ADAP",
+      "price": 11.9786
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.73
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.075
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ADAP",
+      "price": 11.82
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.74
+    },
+    {
+      "ticker": "JO",
+      "price": 14.415
+    }
+  ]
+}

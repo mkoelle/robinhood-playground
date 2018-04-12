@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AKER",
+      "price": 0.5454
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4402
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2651
+    }
+  ],
+  "80": [
+    {
+      "ticker": "LBCC",
+      "price": 1.14
+    },
+    {
+      "ticker": "BW",
+      "price": 2.4
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2031
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LBCC",
+      "price": 1.2399
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2079
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5412
+    }
+  ],
+  "140": [
+    {
+      "ticker": "LBCC",
+      "price": 1.3742
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2122
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5356
+    }
+  ],
+  "198": [
+    {
+      "ticker": "LBCC",
+      "price": 1.28
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2066
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.535
+    }
+  ],
+  "250": [
+    {
+      "ticker": "LBCC",
+      "price": 1.28
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5412
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2074
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LBCC",
+      "price": 1.2801
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2061
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4614
+    }
+  ]
+}

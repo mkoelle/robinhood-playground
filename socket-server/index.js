@@ -5,7 +5,6 @@ const http = require('http');
 const SocketIO = require('socket.io');
 const compression = require('compression');
 const stratManager = require('./strat-manager');
-const strategiesEnabled = require('../strategies-enabled');
 
 let app = express();
 let server = http.Server(app);
@@ -19,11 +18,7 @@ app.use(express['static'](__dirname + '/../client/build'));
 
 io.on('connection', (socket) => {
 
-    socket.emit('server:welcome', {
-        picks: stratManager.picks,
-        relatedPrices: stratManager.relatedPrices,
-        vipStrategies: strategiesEnabled.purchase
-    });
+    socket.emit('server:welcome', stratManager.getWelcomeData());
 
     socket.on('disconnect', () => {
         socket.broadcast.emit('userDisconnect');

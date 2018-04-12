@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "DDD",
+      "price": 11.8
+    },
+    {
+      "ticker": "GE",
+      "price": 13.025
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.614
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FOLD",
+      "price": 14.68
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.32
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBR",
+      "price": 14.295
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.055
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.8685
+    }
+  ],
+  "140": [
+    {
+      "ticker": "RIG",
+      "price": 11.185
+    },
+    {
+      "ticker": "GME",
+      "price": 13.905
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.355
+    }
+  ],
+  "198": [
+    {
+      "ticker": "RIG",
+      "price": 11.07
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.89
+    },
+    {
+      "ticker": "GME",
+      "price": 13.84
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RIG",
+      "price": 11.12
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.3701
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.9786
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RIG",
+      "price": 11.16
+    },
+    {
+      "ticker": "BBD",
+      "price": 10.405
+    },
+    {
+      "ticker": "GME",
+      "price": 13.885
+    }
+  ]
+}

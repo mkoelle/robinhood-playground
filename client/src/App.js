@@ -28,10 +28,8 @@ class Pick extends Component {
               <button onClick={this.toggleDetails}>
                   {showingDetails ? '-' : '+'}
               </button>
-              <b>
-                  {trendPerc(pick.avgTrend)}
-                  {' ' + pick.stratMin}
-              </b>
+              <b>{trendPerc(pick.avgTrend)}</b>
+              <strong>{' ' + pick.stratMin}</strong>
               {
                 showingDetails && (
                     <table>
@@ -105,7 +103,7 @@ class App extends Component {
               withTrend: calcedTrend
           };
       });
-      let sortedByAvgTrend = picks.sort((a, b) => b.avgTrend - a.avgTrend);
+      let sortedByAvgTrend = picks.sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
       if (vipStrategiesOnly) {
           sortedByAvgTrend = sortedByAvgTrend.filter(strat => vipStrategies.includes(strat.stratMin));
       }

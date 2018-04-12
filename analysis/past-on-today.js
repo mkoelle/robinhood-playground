@@ -37,7 +37,7 @@ module.exports = async (Robinhood) => {
     Object.keys(overall).forEach(breakdown => {
         const top10 = overall[breakdown]
             .filter(stratPerf => !stratPerf.name.includes('cheapest-picks'))
-            .slice(0, 3)
+            .slice(0, 10)
             .map(stratPerf => stratPerf.name);
         addStrategiesToResults(breakdown, top10);
     });

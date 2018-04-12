@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "ZF",
+      "price": 10.9001
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZF",
+      "price": 10.9204
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.89
+    },
+    {
+      "ticker": "GDXS",
+      "price": 13.8598
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZF",
+      "price": 10.9204
+    },
+    {
+      "ticker": "LAYN",
+      "price": 14.83
+    },
+    {
+      "ticker": "GDXS",
+      "price": 13.8598
+    }
+  ]
+}

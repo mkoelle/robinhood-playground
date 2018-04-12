@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "DDD",
+      "price": 11.8
+    },
+    {
+      "ticker": "GE",
+      "price": 13.025
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6102
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CBAY",
+      "price": 14.45
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.68
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABX",
+      "price": 13.23
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.295
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.8685
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ABX",
+      "price": 13.15
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.0201
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.41
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ABX",
+      "price": 13.195
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.07
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.92
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CBAY",
+      "price": 13.2698
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.12
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.125
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CBAY",
+      "price": 13.16
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.165
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.1252
+    }
+  ]
+}

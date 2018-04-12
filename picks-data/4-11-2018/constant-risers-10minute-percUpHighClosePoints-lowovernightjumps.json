@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CTRV",
+      "price": 0.2651
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4402
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.4302
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CTRV",
+      "price": 0.2661
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4445
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.6098
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTRV",
+      "price": 0.2702
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2099
+    },
+    {
+      "ticker": "LBCC",
+      "price": 1.228
+    }
+  ],
+  "140": [
+    {
+      "ticker": "LBCC",
+      "price": 1.39
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2699
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2121
+    }
+  ],
+  "198": [
+    {
+      "ticker": "LBCC",
+      "price": 1.274
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4504
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.27
+    }
+  ],
+  "250": [
+    {
+      "ticker": "LBCC",
+      "price": 1.28
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4613
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.27
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LBCC",
+      "price": 1.285
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4614
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.27
+    }
+  ]
+}
