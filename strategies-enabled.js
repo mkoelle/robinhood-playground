@@ -16,6 +16,10 @@ const hotStrats = [
     'constant-downers-5minute-percDownCloseOnlyPoints-filtered40-242',
     'dow-historical-sortedByAvgToday-73',
     'constant-risers-10minute-percUpHighClosePoints-300',
+    'week-swings-tenTo15-1',
+    'sudden-drops-last30trend-fiveTo10-388',
+    'based-on-jump-up3overnight-ltneg50percmax-tenTo15-5',
+    'sudden-drops-last5trend-fiveTo10-328'
 ];
 
 module.exports = {
