@@ -45,7 +45,8 @@ module.exports = {
         'my educated random selection': [
             'before-close-up-350',
             'dow-historical-sortedByAvgToday-13',
-            'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-100'
+            'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-100',
+            'dynamo-3000-top50tso-onlyWatchout-5lowestsharesToCap-381',
         ]
     }
 }
