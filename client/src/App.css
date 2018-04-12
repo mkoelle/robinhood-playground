@@ -22,7 +22,7 @@
   font-size: large;
 }
 
-input[type="checkbox"] {
+select {
   zoom: 140%;
   cursor: pointer;
   outline: 0;

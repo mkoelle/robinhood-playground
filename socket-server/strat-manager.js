@@ -3,7 +3,7 @@ const jsonMgr = require('../utils/json-mgr');
 const { CronJob } = require('cron');
 const fs = require('mz/fs');
 const strategiesEnabled = require('../strategies-enabled');
-
+const stratPerfOverall = require('../analysis/strategy-perf-overall');
 const initPicks = async () => {
 
     const picks = [];
@@ -53,6 +53,10 @@ const stratManager = {
         }
         console.log(day, hasPicksData);
 
+
+        const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
+        await this.setStrategies(stratPerfData);
+        await this.setPastData(stratPerfData);
         await this.getRelatedPrices();
         console.log('initd strat manager');
 
@@ -68,7 +72,8 @@ const stratManager = {
         return {
             picks: this.picks,
             relatedPrices: this.relatedPrices,
-            vipStrategies: strategiesEnabled.purchase
+            pastData: this.pastData,
+            strategies: this.strategies
         };
     },
     newPick(data) {
@@ -83,8 +88,38 @@ const stratManager = {
         // console.log('sending to all', eventName, data);
         this.io.emit(eventName, data);
     },
+    async setStrategies(stratPerfData) {
+        const getFirstN = (strats, n) => strats.slice(0, n).map(({ name }) => name);
+        this.strategies = {
+            vip: strategiesEnabled.purchase,
+            fiveDayByAvgPercFirst10: getFirstN(stratPerfData.sortedByAvgTrend, 10),
+            fiveDayByPercUpFirst10: getFirstN(stratPerfData.sortedByPercUp, 10),
+            fiveDayByAvgPercFirst3: getFirstN(stratPerfData.sortedByAvgTrend, 3),
+            fiveDayByPercUpFirst3: getFirstN(stratPerfData.sortedByPercUp, 3),
+            fiveDayByAvgPercFirst1: getFirstN(stratPerfData.sortedByAvgTrend, 1),
+            fiveDayByPercUpFirst1: getFirstN(stratPerfData.sortedByPercUp, 1),
+            ...strategiesEnabled.extras
+        };
+    },
+    async setPastData(stratPerfData) {
+        const stratPerfObj = {};
+        stratPerfData.sortedByAvgTrend.forEach(({
+            name,
+            avgTrend,
+            count,
+            percUp
+        }) => {
+            stratPerfObj[name] = {
+                avgTrend,
+                percUp,
+                count
+            };
+        });
+        this.pastData = {
+            fiveDay: stratPerfObj
+        };
+    },
     async getRelatedPrices() {
-
         // console.log(this.picks);
         const flatten = list => list.reduce(
           (a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []

@@ -33,5 +33,19 @@ module.exports = {
         [['ViperKi', 'ller847', '@a', 'ol.com'].join('')]: [
             'cheapest-picks-chp50--4'
         ]
+    },
+    extras: {
+        'wild n crazy': [
+            'week-swings-tenTo15-1',
+            'constant-risers-10minute-percUpHighClosePoints-300'
+        ],
+        'my actual random selection': [
+            'based-on-jump-down3overnight-trending35257-5'
+        ],
+        'my educated random selection': [
+            'before-close-up-350',
+            'dow-historical-sortedByAvgToday-13',
+            'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-100'
+        ]
     }
 }

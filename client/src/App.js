@@ -22,14 +22,22 @@ class Pick extends Component {
   };
   render() {
       const { showingDetails } = this.state;
-      const { pick } = this.props;
+      const { pick, fiveDay } = this.props;
+      let percUpFontSize = fiveDay.percUp * 100.4;
+      if (fiveDay.avgTrend > 1) percUpFontSize *= 1.9;
       return (
-          <div className="pick">
+          <div className="pick" style={{ fontSize: Math.max(percUpFontSize, 39) + '%'}}>
               <button onClick={this.toggleDetails}>
                   {showingDetails ? '-' : '+'}
               </button>
               <b>{trendPerc(pick.avgTrend)}</b>
               <strong>{' ' + pick.stratMin}</strong>
+              <hr/>
+              <i>
+                5 day - avgTrend {trendPerc(fiveDay.avgTrend)}%
+                - percUp {trendPerc(fiveDay.percUp * 100)}
+                - count {fiveDay.count}
+              </i>
               {
                 showingDetails && (
                     <table>
@@ -61,7 +69,7 @@ class Pick extends Component {
 }
 
 class App extends Component {
-  state = { picks: [], relatedPrices: {}, vipStrategiesOnly: true };
+  state = { picks: [], relatedPrices: {}, strategyFilter: 'vip', pastData: {}, strategies: {} };
   componentDidMount() {
       const { protocol, hostname } = window.location;
       let endpoint = `${protocol}//${hostname}`;
@@ -82,13 +90,15 @@ class App extends Component {
           this.setState({ relatedPrices: data });
       });
   }
-  toggleVipStrategies = () => {
+  setStrategyFilter = (event) => {
       this.setState({
-          vipStrategiesOnly: !this.state.vipStrategiesOnly
+          strategyFilter: event.target.value
       });
   }
   render() {
-      let { picks, relatedPrices, vipStrategies, vipStrategiesOnly } = this.state;
+      let { picks, relatedPrices, strategies, strategyFilter, pastData } = this.state;
+      const { fiveDay } = pastData;
+      const { vip: vipStrategies } = strategies;
       if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
       picks = picks.map(pick => {
           const calcedTrend = pick.withPrices.map(({ ticker, price }) => ({
@@ -104,8 +114,9 @@ class App extends Component {
           };
       });
       let sortedByAvgTrend = picks.sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
-      if (vipStrategiesOnly) {
-          sortedByAvgTrend = sortedByAvgTrend.filter(strat => vipStrategies.includes(strat.stratMin));
+      if (strategyFilter !== 'no filter') {
+          console.log('strat', strategyFilter)
+          sortedByAvgTrend = sortedByAvgTrend.filter(strat => strategies[strategyFilter].includes(strat.stratMin));
       }
       console.log('rendering!');
       const avgTrendOverall = avgArray(sortedByAvgTrend.map(strat => strat.avgTrend).filter(val => !!val));
@@ -113,24 +124,27 @@ class App extends Component {
           <div className="App">
               <header className="App-header">
                   <h1 className="App-title">robinhood-playground</h1>
-                  <input
-                      type="checkbox"
-                      id="vipStrategies"
-                      checked={vipStrategiesOnly}
-                      onChange={this.toggleVipStrategies}
-                  />
-                  <label htmlFor="vipStrategies">
-                      VIP Strategies Only
-                  </label>
+                  <select value={strategyFilter} onChange={this.setStrategyFilter}>
+                      {strategies && Object.keys(strategies).map(strategy => (
+                          <option value={strategy}>{strategy}</option>
+                      ))}
+                      <option>no filter</option>
+                  </select>
               </header>
               <p>
                   <h2>overall average trend: {trendPerc(avgTrendOverall)}</h2>
               </p>
               <p className="App-intro">
                   {
-                    sortedByAvgTrend.map(pick => (
-                        <Pick pick={pick} key={pick.stratMin} />
-                    ))
+                      sortedByAvgTrend.slice(0, 200).map(pick => (
+                          <div>
+                              <Pick
+                                  pick={pick}
+                                  key={pick.stratMin}
+                                  fiveDay={fiveDay ? fiveDay[pick.stratMin] : null}
+                              />
+                          </div>
+                      ))
                   }
               </p>
           </div>
