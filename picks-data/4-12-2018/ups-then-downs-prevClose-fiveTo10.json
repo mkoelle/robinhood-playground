@@ -1,0 +1,64 @@
+{
+  "10": [
+    {
+      "ticker": "LEDS",
+      "price": 5.6142
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.8401
+    }
+  ],
+  "50": [
+    {
+      "ticker": "LEDS",
+      "price": 5.4536
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LEDS",
+      "price": 5.6031
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.585
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.15
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LEDS",
+      "price": 5.58
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.615
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.1401
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LEDS",
+      "price": 5.51
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.5
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.1208
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "10": [
+    {
+      "ticker": "KONE",
+      "price": 7.258
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.1746
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.6
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.98
+    }
+  ],
+  "50": [
+    {
+      "ticker": "KONE",
+      "price": 6.82
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.1133
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.6
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SRAX",
+      "price": 5.04
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.6
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.1804
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SRAX",
+      "price": 5.01
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.6
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.1449
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ROSE",
+      "price": 6.6
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.125
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RCUS",
+      "price": 14.465
+    },
+    {
+      "ticker": "FMO",
+      "price": 11.1
+    },
+    {
+      "ticker": "CORI",
+      "price": 10.585
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CMCM",
+      "price": 12.715
+    },
+    {
+      "ticker": "FMO",
+      "price": 11.0201
+    },
+    {
+      "ticker": "FEI",
+      "price": 12.201
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CMCM",
+      "price": 12.78
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.38
+    },
+    {
+      "ticker": "FEI",
+      "price": 12.2028
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "PBR",
+      "price": 14.37
+    },
+    {
+      "ticker": "FRA",
+      "price": 14.51
+    },
+    {
+      "ticker": "BSIG",
+      "price": 15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AHH",
+      "price": 13.625
+    },
+    {
+      "ticker": "VMO",
+      "price": 11.76
+    },
+    {
+      "ticker": "CEF",
+      "price": 13.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DSU",
+      "price": 11.705
+    },
+    {
+      "ticker": "BSE",
+      "price": 12.47
+    },
+    {
+      "ticker": "IGA",
+      "price": 10.9786
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCQ",
+      "price": 14.74
+    },
+    {
+      "ticker": "NAC",
+      "price": 13.4401
+    },
+    {
+      "ticker": "ABE",
+      "price": 14.915
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAC",
+      "price": 13.4303
+    },
+    {
+      "ticker": "EMD",
+      "price": 14.57
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.235
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAST",
+      "price": 11
+    },
+    {
+      "ticker": "MMU",
+      "price": 13.04
+    },
+    {
+      "ticker": "BBF",
+      "price": 13.24
+    }
+  ]
+}

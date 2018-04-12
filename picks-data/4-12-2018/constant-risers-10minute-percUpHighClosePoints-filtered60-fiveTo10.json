@@ -1,0 +1,82 @@
+{
+  "40": [
+    {
+      "ticker": "ESND",
+      "price": 9.91
+    },
+    {
+      "ticker": "JT",
+      "price": 5.8
+    },
+    {
+      "ticker": "P",
+      "price": 5.11
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ADVM",
+      "price": 6.375
+    },
+    {
+      "ticker": "I",
+      "price": 6.76
+    },
+    {
+      "ticker": "INO",
+      "price": 5.2301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INO",
+      "price": 5.245
+    },
+    {
+      "ticker": "SBBP",
+      "price": 8.3755
+    },
+    {
+      "ticker": "SCWX",
+      "price": 9.38
+    }
+  ],
+  "198": [
+    {
+      "ticker": "INO",
+      "price": 5.2381
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7
+    },
+    {
+      "ticker": "LSCC",
+      "price": 5.61
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INO",
+      "price": 5.22
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.69
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.33
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SPN",
+      "price": 9.395
+    },
+    {
+      "ticker": "SRCI",
+      "price": 9.745
+    }
+  ]
+}

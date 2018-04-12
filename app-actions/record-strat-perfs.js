@@ -21,8 +21,8 @@ const lookupTickers = async (Robinhood, tickersToLookup) => {
     const tickerLookups = {};
     quotes.forEach(quote => {
         if (!quote) return;
-        const {symbol, last_trade_price} = quote;
-        tickerLookups[symbol] = Number(last_trade_price);
+        const {symbol, last_trade_price, last_extended_hours_trade_price} = quote;
+        tickerLookups[symbol] = Number(last_extended_hours_trade_price || last_trade_price);
     });
     return tickerLookups;
 };

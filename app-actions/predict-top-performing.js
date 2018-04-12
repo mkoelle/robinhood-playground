@@ -51,17 +51,17 @@ const predictForDays = async (days) => {
     };
 
     const toPredict = Object.keys(stratPerfsTrend)
-        .filter(strategyName => stratPerfsTrend[strategyName].length > 3);
-
+        .filter(strategyName => stratPerfsTrend[strategyName].length > 3)
+        .filter(stratName => stratPerfsTrend[stratName].every(trend => trend > -1));
+    console.log('topredict count', toPredict.length);
 
     const allPredictions = toPredict
-        .filter(stratName => stratPerfsTrend[stratName].every(trend => trend > 0))
         .map((stratName, i, array) => {
             const weighted = stratPerfsTrend[stratName]
                 .filter(trend => trend < 80)
                 .map((trend, i) => Array(i).fill(trend))
                 .reduce((a, b) => a.concat(b), [])
-            console.log()
+            console.log(i+1, '/', toPredict.length)
             return {
                 stratName,
                 myPrediction: avgArray(weighted),
@@ -72,12 +72,14 @@ const predictForDays = async (days) => {
 
     return {
         myPredictions: allPredictions
+            .slice(0)
             .sort((a, b) => Number(b.myPrediction) - Number(a.myPrediction))
-            .slice(0, 20)
+            .slice(0, 50)
             .map(pred => pred.stratName),
         brainPredictions: allPredictions
+            .slice(0)
             .sort((a, b) => Number(b.brainPrediction) - Number(a.brainPrediction))
-            .slice(0, 20)
+            .slice(0, 50)
             .map(pred => pred.stratName)
     };
 

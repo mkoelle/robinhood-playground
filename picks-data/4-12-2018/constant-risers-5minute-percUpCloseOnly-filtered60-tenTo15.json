@@ -1,0 +1,65 @@
+{
+  "40": [
+    {
+      "ticker": "INFN",
+      "price": 11.35
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.17
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.37
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ESND",
+      "price": 10.3101
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.98
+    },
+    {
+      "ticker": "EXTR",
+      "price": 11.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLDR",
+      "price": 14.2852
+    },
+    {
+      "ticker": "EXTR",
+      "price": 11.2
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.26
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CLDR",
+      "price": 13.995
+    },
+    {
+      "ticker": "WPX",
+      "price": 15.01
+    },
+    {
+      "ticker": "EXTR",
+      "price": 11.215
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WPX",
+      "price": 14.91
+    }
+  ],
+  "300": []
+}

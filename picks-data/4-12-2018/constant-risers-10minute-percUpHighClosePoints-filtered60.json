@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "MYND",
+      "price": 2.0507
+    },
+    {
+      "ticker": "CLWT",
+      "price": 2.75
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.8201
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MYND",
+      "price": 1.9711
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.79
+    },
+    {
+      "ticker": "PIXY",
+      "price": 4.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PIXY",
+      "price": 4.0929
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.75
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.4768
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DPW",
+      "price": 1.0847
+    },
+    {
+      "ticker": "ANY",
+      "price": 1.045
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 1.5389
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DPW",
+      "price": 1.09
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.9232
+    },
+    {
+      "ticker": "RIGL",
+      "price": 4.02
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GERN",
+      "price": 3.94
+    },
+    {
+      "ticker": "DPW",
+      "price": 1.095
+    },
+    {
+      "ticker": "RTTR",
+      "price": 2.99
+    }
+  ]
+}

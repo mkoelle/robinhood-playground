@@ -109,8 +109,8 @@ const stratManager = {
             ...createPerms([10, 3, 1], 'fiveDayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
             ...createPerms([10, 3, 1], 'fiveDayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
             ...strategiesEnabled.extras,
-            ...createPerms([20, 10, 3, 1], 'myPredictionModel', curPredictions.myPredictions),
-            ...createPerms([20, 10, 3, 1], 'brainPredictionModel', curPredictions.brainPredictions),
+            ...createPerms([50, 30, 20, 10, 3, 1], 'myPredictionModel', curPredictions.myPredictions),
+            ...createPerms([50, 30, 20, 10, 3, 1], 'brainPredictionModel', curPredictions.brainPredictions),
         };
     },
     async setPastData(stratPerfData) {

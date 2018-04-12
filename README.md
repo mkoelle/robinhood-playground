@@ -73,3 +73,4 @@ strategies-enabled.js determines which strategies are "enabled for purchase"
 * consistent-risers - constant rising since opening bell
 * sell 100% of stocks if have increased in price after 24 hours
 * before-close-up - return an object / make variations
+* getprices should be batched for variations of strategies

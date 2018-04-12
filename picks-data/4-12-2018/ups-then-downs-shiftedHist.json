@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "PLXP",
+      "price": 3.3
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.391
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.986
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PLXP",
+      "price": 3.3
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.995
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLXP",
+      "price": 3.45
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.99
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABAC",
+      "price": 2.65
+    },
+    {
+      "ticker": "PLXP",
+      "price": 3.4896
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.99
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ABAC",
+      "price": 2.49
+    },
+    {
+      "ticker": "PLXP",
+      "price": 3.451
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.41
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.97
+    }
+  ]
+}

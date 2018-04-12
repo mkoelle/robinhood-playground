@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "FOSL",
+      "price": 14.73
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.72
+    },
+    {
+      "ticker": "CISN",
+      "price": 11.99
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IMGN",
+      "price": 10.435
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.15
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDD",
+      "price": 12.1432
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.2845
+    },
+    {
+      "ticker": "DRH",
+      "price": 10.7
+    }
+  ],
+  "198": [
+    {
+      "ticker": "EXTR",
+      "price": 11.215
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.99
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.05
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EXTR",
+      "price": 11.19
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.1362
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.98
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AROC",
+      "price": 10.225
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.97
+    },
+    {
+      "ticker": "QEP",
+      "price": 10.83
+    }
+  ]
+}

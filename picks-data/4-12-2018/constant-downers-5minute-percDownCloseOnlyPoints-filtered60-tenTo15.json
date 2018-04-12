@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LRN",
+      "price": 13.46
+    },
+    {
+      "ticker": "RPT",
+      "price": 12.29
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RPT",
+      "price": 12.325
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.715
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.36
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RPT",
+      "price": 12.325
+    },
+    {
+      "ticker": "GOV",
+      "price": 12.07
+    },
+    {
+      "ticker": "SNDX",
+      "price": 11.11
+    }
+  ]
+}

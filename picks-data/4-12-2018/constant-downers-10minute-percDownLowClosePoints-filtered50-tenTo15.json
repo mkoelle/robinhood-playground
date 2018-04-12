@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MRT",
+      "price": 10.015
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.53
+    },
+    {
+      "ticker": "STAA",
+      "price": 14.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CBB",
+      "price": 14.25
+    },
+    {
+      "ticker": "STAA",
+      "price": 14.05
+    },
+    {
+      "ticker": "CTR",
+      "price": 10.075
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LAND",
+      "price": 12.505
+    },
+    {
+      "ticker": "RCUS",
+      "price": 14.68
+    },
+    {
+      "ticker": "SUP",
+      "price": 14.25
+    }
+  ]
+}

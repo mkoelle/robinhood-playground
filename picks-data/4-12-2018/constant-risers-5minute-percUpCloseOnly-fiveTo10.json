@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "ESND",
+      "price": 9.91
+    },
+    {
+      "ticker": "JT",
+      "price": 5.8
+    },
+    {
+      "ticker": "P",
+      "price": 5.112
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CDE",
+      "price": 8.37
+    },
+    {
+      "ticker": "INO",
+      "price": 5.2343
+    },
+    {
+      "ticker": "VKTX",
+      "price": 5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INO",
+      "price": 5.25
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.335
+    },
+    {
+      "ticker": "JT",
+      "price": 5.59
+    }
+  ],
+  "198": [
+    {
+      "ticker": "INO",
+      "price": 5.2381
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.1804
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.37
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CRON",
+      "price": 6.65
+    },
+    {
+      "ticker": "INO",
+      "price": 5.2248
+    },
+    {
+      "ticker": "TELL",
+      "price": 8.78
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TELL",
+      "price": 8.77
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.48
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.63
+    }
+  ]
+}

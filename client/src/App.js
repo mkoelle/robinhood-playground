@@ -23,8 +23,8 @@ class Pick extends Component {
   render() {
       const { showingDetails } = this.state;
       const { pick, fiveDay } = this.props;
-      let percUpFontSize = fiveDay.percUp * 100.4;
-      if (fiveDay.avgTrend > 1) percUpFontSize *= 1.9;
+      let percUpFontSize = fiveDay ? fiveDay.percUp * 100.4 : 100;
+      if (fiveDay && fiveDay.avgTrend > 1) percUpFontSize *= 1.9;
       return (
           <div className="pick" style={{ fontSize: Math.max(percUpFontSize, 39) + '%'}}>
               <button onClick={this.toggleDetails}>
@@ -33,11 +33,13 @@ class Pick extends Component {
               <b>{trendPerc(pick.avgTrend)}</b>
               <strong>{' ' + pick.stratMin}</strong>
               <hr/>
-              <i>
-                5 day - avgTrend {trendPerc(fiveDay.avgTrend)}%
-                - percUp {trendPerc(fiveDay.percUp * 100)}
-                - count {fiveDay.count}
-              </i>
+              {fiveDay && (
+                <i>
+                  5 day - avgTrend {trendPerc(fiveDay.avgTrend)}%
+                  - percUp {trendPerc(fiveDay.percUp * 100)}
+                  - count {fiveDay.count}
+                </i>
+              )}
               {
                 showingDetails && (
                     <table>
@@ -115,7 +117,7 @@ class App extends Component {
       });
       let sortedByAvgTrend = picks.sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
       if (strategyFilter !== 'no filter') {
-          console.log('strat', strategyFilter)
+          console.log('strat', strategyFilter, strategies[strategyFilter])
           sortedByAvgTrend = sortedByAvgTrend.filter(strat => strategies[strategyFilter].includes(strat.stratMin));
       }
       console.log('rendering!');

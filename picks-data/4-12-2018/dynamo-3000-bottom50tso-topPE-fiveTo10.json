@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "AMD",
+      "price": 9.981
+    },
+    {
+      "ticker": "NR",
+      "price": 9.025
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.225
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNR",
+      "price": 8.35
+    },
+    {
+      "ticker": "HIMX",
+      "price": 6.97
+    },
+    {
+      "ticker": "SVBI",
+      "price": 7.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AIRG",
+      "price": 8.16
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.42
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EURN",
+      "price": 8.55
+    },
+    {
+      "ticker": "JMF",
+      "price": 9.9352
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HQCL",
+      "price": 7.23
+    },
+    {
+      "ticker": "JMF",
+      "price": 9.9418
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HQCL",
+      "price": 7.28
+    },
+    {
+      "ticker": "JMF",
+      "price": 9.94
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.38
+    }
+  ]
+}

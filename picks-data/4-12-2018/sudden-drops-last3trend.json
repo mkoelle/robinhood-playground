@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "CHCI",
+      "price": 1.8
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.5199
+    }
+  ],
+  "63": [
+    {
+      "ticker": "PED",
+      "price": 0.3221
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2839
+    }
+  ],
+  "221": [
+    {
+      "ticker": "ABIL",
+      "price": 3.5499
+    },
+    {
+      "ticker": "STDY",
+      "price": 3.1504
+    }
+  ],
+  "328": [
+    {
+      "ticker": "UAN",
+      "price": 2.94
+    },
+    {
+      "ticker": "ABIL",
+      "price": 3.15
+    }
+  ],
+  "388": [
+    {
+      "ticker": "TWMC",
+      "price": 1.39
+    },
+    {
+      "ticker": "REXX",
+      "price": 0.57
+    }
+  ]
+}

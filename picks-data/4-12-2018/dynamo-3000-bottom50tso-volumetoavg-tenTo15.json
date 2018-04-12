@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "PHIIK",
+      "price": 10.43
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 10.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MNK",
+      "price": 13.78
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.26
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNK",
+      "price": 13.74
+    },
+    {
+      "ticker": "CTRE",
+      "price": 13.15
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LRN",
+      "price": 12.83
+    },
+    {
+      "ticker": "MPW",
+      "price": 12.515
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LRN",
+      "price": 12.99
+    },
+    {
+      "ticker": "MHH",
+      "price": 11.98
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LRN",
+      "price": 12.95
+    },
+    {
+      "ticker": "GOV",
+      "price": 12.09
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.11
+    }
+  ]
+}
