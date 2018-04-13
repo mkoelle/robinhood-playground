@@ -52,7 +52,8 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     });
 
     // for purchase
-    const enableCount = purchase.filter(strat => strat === stratMin).length;
+    const strategiesEnabled = stratManager.strategies.myPredictionModelFirst10;
+    const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');
         console.log('picks', picks);
