@@ -10,8 +10,8 @@ const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 
 
-const MIN_SELL_RATIO = 0.97; // before gives up
-const TIME_BETWEEN_CHECK = 30; // seconds
+const MIN_SELL_RATIO = 0.99; // before gives up
+const TIME_BETWEEN_CHECK = 18; // seconds
 const SELL_RATIO_INCREMENT = 0.001;
 
 

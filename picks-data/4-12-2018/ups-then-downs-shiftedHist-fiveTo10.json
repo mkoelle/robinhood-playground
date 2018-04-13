@@ -72,5 +72,19 @@
       "ticker": "SPWR",
       "price": 8.125
     }
+  ],
+  "600": [
+    {
+      "ticker": "SRAX",
+      "price": 5.05
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.71
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.14
+    }
   ]
 }

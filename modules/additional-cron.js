@@ -65,18 +65,18 @@ const additionalCronConfig = [
     // record prev day strat performances,
     {
         name: 'record-strat-perfs',
-        run: [85, 230, 330],
+        run: [9],
         fn: async (Robinhood) => {
             await recordStratPerfs(Robinhood);
-            await stratManager.refreshPastData();
+            await stratManager.newDay();
         }
     },
     {
         name: 'record-strat-perfs important!',
-        run: [9],
+        run: [85, 230, 330],
         fn: recordStratPerfs
     },
-    
+
     // {
     //     name: 'sell all if older than a day',
     //     run: [80],

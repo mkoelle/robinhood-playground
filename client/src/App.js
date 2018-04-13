@@ -6,8 +6,8 @@ import socketIOClient from "socket.io-client";
 import getTrend from './utils/get-trend';
 import avgArray from './utils/avg-array';
 
-const trendPerc = num => (
-    <span className={ num > 0 ? 'positive' : 'negative'}>
+const trendPerc = (num, redAt = 0) => (
+    <span className={ num > redAt ? 'positive' : 'negative'}>
         {num.toFixed(2)}%
     </span>
 );
@@ -36,7 +36,7 @@ class Pick extends Component {
               {fiveDay && (
                 <i>
                   5 day - avgTrend {trendPerc(fiveDay.avgTrend)}%
-                  - percUp {trendPerc(fiveDay.percUp * 100)}
+                  - percUp {trendPerc(fiveDay.percUp * 100, 50)}
                   - count {fiveDay.count}
                 </i>
               )}
@@ -98,7 +98,7 @@ class App extends Component {
       });
   }
   render() {
-      let { picks, relatedPrices, strategies, strategyFilter, pastData } = this.state;
+      let { picks, relatedPrices, strategies, strategyFilter, pastData, curDate } = this.state;
       const { fiveDay } = pastData;
       const { vip: vipStrategies } = strategies;
       if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
@@ -125,7 +125,7 @@ class App extends Component {
       return (
           <div className="App">
               <header className="App-header">
-                  <h1 className="App-title">robinhood-playground</h1>
+                  <h1 className="App-title">robinhood-playground: {curDate}</h1>
                   <select value={strategyFilter} onChange={this.setStrategyFilter}>
                       {strategies && Object.keys(strategies).map(strategy => (
                           <option value={strategy}>{strategy}</option>

@@ -65,7 +65,7 @@ const predictForDays = async (days) => {
             return {
                 stratName,
                 myPrediction: avgArray(weighted),
-                brainPrediction: predictStrategy(stratPerfsTrend[stratName]),
+                // brainPrediction: predictStrategy(stratPerfsTrend[stratName]),
                 trend: weighted
             };
         });
