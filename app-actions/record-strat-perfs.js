@@ -6,7 +6,7 @@ const jsonMgr = require('../utils/json-mgr');
 const filterByTradeable = require('../utils/filter-by-tradeable');
 const chunkApi = require('../utils/chunk-api');
 
-const lookupTickers = async (Robinhood, tickersToLookup) => {
+const lookupTickers = async (Robinhood, tickersToLookup, includeAfterHours) => {
     // takes in array of tickers
     // returns object of tickers and current prices
     let quotes = await chunkApi(
@@ -22,7 +22,10 @@ const lookupTickers = async (Robinhood, tickersToLookup) => {
     quotes.forEach(quote => {
         if (!quote) return;
         const {symbol, last_trade_price, last_extended_hours_trade_price} = quote;
-        tickerLookups[symbol] = Number(last_trade_price);
+        tickerLookups[symbol] = includeAfterHours ? {
+            lastTradePrice: Number(last_trade_price),
+            afterHourPrice: Number(last_extended_hours_trade_price)
+        } : Number(last_trade_price);
     });
     return tickerLookups;
 };

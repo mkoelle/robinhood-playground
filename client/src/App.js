@@ -71,7 +71,7 @@ class Pick extends Component {
 }
 
 class App extends Component {
-  state = { picks: [], relatedPrices: {}, strategyFilter: 'vip', pastData: {}, strategies: {} };
+  state = { picks: [], relatedPrices: {}, strategyFilter: 'vip', pastData: {}, strategies: {}, afterHoursEnabled: false };
   componentDidMount() {
       const { protocol, hostname } = window.location;
       let endpoint = `${protocol}//${hostname}`;
@@ -97,18 +97,23 @@ class App extends Component {
           strategyFilter: event.target.value
       });
   }
+  toggleAfterHours = () => this.setState({ afterHoursEnabled: !this.state.afterHoursEnabled })
   render() {
-      let { picks, relatedPrices, strategies, strategyFilter, pastData, curDate } = this.state;
+      let { picks, relatedPrices, strategies, strategyFilter, pastData, curDate, afterHoursEnabled } = this.state;
       const { fiveDay } = pastData;
       const { vip: vipStrategies } = strategies;
       if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
       picks = picks.map(pick => {
-          const calcedTrend = pick.withPrices.map(({ ticker, price }) => ({
-              ticker,
-              thenPrice: price,
-              nowPrice: relatedPrices[ticker],
-              trend: getTrend(relatedPrices[ticker], price)
-          }));
+          const calcedTrend = pick.withPrices.map(({ ticker, price }) => {
+              const { lastTradePrice, afterHourPrice } = relatedPrices[ticker];
+              const nowPrice = afterHoursEnabled ? afterHourPrice || lastTradePrice : lastTradePrice;
+              return {
+                  ticker,
+                  thenPrice: price,
+                  nowPrice,
+                  trend: getTrend(nowPrice, price)
+              }
+          });
           return {
               ...pick,
               avgTrend: avgArray(calcedTrend.map(t => t.trend)),
@@ -126,12 +131,16 @@ class App extends Component {
           <div className="App">
               <header className="App-header">
                   <h1 className="App-title">robinhood-playground: {curDate}</h1>
+                  strategy filter:
                   <select value={strategyFilter} onChange={this.setStrategyFilter}>
                       {strategies && Object.keys(strategies).map(strategy => (
                           <option value={strategy}>{strategy}</option>
                       ))}
                       <option>no filter</option>
                   </select>
+                  <br/>
+                  include after hours:
+                  <input type="checkbox" checked={afterHoursEnabled} onChange={this.toggleAfterHours} />
               </header>
               <p>
                   <h2>overall average trend: {trendPerc(avgTrendOverall)}</h2>

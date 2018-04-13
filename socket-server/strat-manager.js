@@ -39,9 +39,9 @@ const stratManager = {
         }
         console.log(day, 'hasPicksData', hasPicksData);
 
-
         await this.refreshPastData();
         await this.getRelatedPrices();
+        await this.sendStrategyReport();
         console.log('initd strat manager');
 
         setInterval(() => this.getRelatedPrices(), 40000);
@@ -116,7 +116,7 @@ const stratManager = {
                 if (!foundStrategy) return null;
                 const { withPrices } = foundStrategy;
                 const withTrend = withPrices.map(stratObj => {
-                    const nowPrice = this.relatedPrices[stratObj.ticker];
+                    const nowPrice = this.relatedPrices[stratObj.ticker].lastTradePrice;
                     return {
                         ticker: stratObj.ticker,
                         thenPrice: stratObj.price,
@@ -137,7 +137,7 @@ const stratManager = {
                 avgTrend: overallAvg.toFixed(2) + '%'
             };
         });
-        await sendEmail(`robinhood-playground: 24hr report for ${this.todaysDate}`, JSON.stringify(strategyReport, null, 2));
+        await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, JSON.stringify(strategyReport, null, 2));
 
     },
     async refreshPastData() {
@@ -195,7 +195,8 @@ const stratManager = {
         console.log('getting related prices', tickersToLookup.length);
         const relatedPrices = await lookupTickers(
             this.Robinhood,
-            tickersToLookup
+            tickersToLookup,
+            true
         );
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
