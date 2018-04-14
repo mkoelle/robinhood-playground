@@ -154,15 +154,30 @@ const stratManager = {
                 [`${name}First${val}`]: getFirstN(picks, val)
             }), {});
         };
-
-        const curPredictions = await predictCurrent();
+        const stratPerf12Day = await stratPerfOverall(this.Robinhood, false, 12, 5);
+        const filteredCount = trend => trend.filter(strat => {
+            console.log('STRATMAN', strat);
+            return strat.count >= 5 && strat.count <= 6;
+        });
+        const curOverallPredictions = await predictCurrent();
+        const cur8DayPredictions = await predictCurrent(8);
+        const cur5DayPredictions = await predictCurrent(5);
+        const cur3DayPredictions = await predictCurrent(3);
         this.strategies = {
             vip: strategiesEnabled.purchase,
-            ...createPerms([10, 3, 1], 'fiveDayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
-            ...createPerms([10, 3, 1], 'fiveDayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
+            ...createPerms([10, 5, 3, 1], '12DayByAvgPerc', mapNames(filteredCount(stratPerf12Day.sortedByAvgTrend))),
+            ...createPerms([10, 5, 3, 1], '12DayByPercUp', mapNames(filteredCount(stratPerf12Day.sortedByPercUp))),
+            ...createPerms([10, 5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
             ...strategiesEnabled.extras,
-            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curPredictions.myPredictions),
-            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel', curPredictions.brainPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-overall-', curOverallPredictions.myPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-overall-', curOverallPredictions.brainPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-8day-', cur8DayPredictions.myPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-8day-', cur8DayPredictions.brainPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-5-day-', cur5DayPredictions.myPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-5-day-', cur5DayPredictions.brainPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-3-day-', cur3DayPredictions.myPredictions),
+            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-3-day-', cur3DayPredictions.brainPredictions),
         };
     },
     async setPastData(stratPerfData) {

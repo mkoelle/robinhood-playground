@@ -87,8 +87,9 @@ const predictForDays = async (days) => {
 
 module.exports = {
     predictForDays,
-    predictCurrent: async (Robinhood) => {
+    predictCurrent: async (numDays) => {
+        console.log('predict current', numDays);
         let allDays = await fs.readdir(`./strat-perfs`);
-        return await predictForDays(allDays)
+        return await predictForDays(numDays ? allDays.slice(0 - numDays) : allDays)
     }
 }

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LAZY",
+      "price": 10.15
+    },
+    {
+      "ticker": "GDXS",
+      "price": 13.65
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.95
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GDXS",
+      "price": 13.65
+    },
+    {
+      "ticker": "APB",
+      "price": 14.35
+    },
+    {
+      "ticker": "SLD",
+      "price": 14.3725
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SRV",
+      "price": 10.93
+    },
+    {
+      "ticker": "APB",
+      "price": 14.35
+    },
+    {
+      "ticker": "CLFD",
+      "price": 13.25
+    }
+  ]
+}

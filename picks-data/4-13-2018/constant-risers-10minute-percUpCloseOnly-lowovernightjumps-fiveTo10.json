@@ -1,0 +1,52 @@
+{
+  "40": [
+    {
+      "ticker": "TSRI",
+      "price": 5.95
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TSRI",
+      "price": 5.9
+    },
+    {
+      "ticker": "IFMK",
+      "price": 7.6184
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TSRI",
+      "price": 5.9
+    },
+    {
+      "ticker": "IFMK",
+      "price": 7.6184
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IFMK",
+      "price": 7.6184
+    }
+  ],
+  "198": [
+    {
+      "ticker": "IFMK",
+      "price": 7.434
+    }
+  ],
+  "250": [
+    {
+      "ticker": "IFMK",
+      "price": 7.434
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IFMK",
+      "price": 7.3798
+    }
+  ]
+}

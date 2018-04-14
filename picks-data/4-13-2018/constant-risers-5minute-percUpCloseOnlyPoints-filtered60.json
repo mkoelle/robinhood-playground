@@ -1,0 +1,88 @@
+{
+  "40": [
+    {
+      "ticker": "FTFT",
+      "price": 2.7762
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.102
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.4928
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BDR",
+      "price": 1.1901
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.28
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYND",
+      "price": 2.11
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.814
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3168
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MYND",
+      "price": 2.271
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.71
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.326
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HEAR",
+      "price": 3.77
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3276
+    },
+    {
+      "ticker": "NE",
+      "price": 4.435
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HEAR",
+      "price": 3.9917
+    },
+    {
+      "ticker": "NE",
+      "price": 4.44
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HEAR",
+      "price": 3.94
+    }
+  ]
+}

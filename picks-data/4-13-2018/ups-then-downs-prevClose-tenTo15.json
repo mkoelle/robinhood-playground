@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "MBI",
+      "price": 10.19
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MBI",
+      "price": 9.98
+    },
+    {
+      "ticker": "PI",
+      "price": 13.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 11.3
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.45
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.425
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.96
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHS",
+      "price": 10.3
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.3
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.9
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CHS",
+      "price": 10.435
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.4
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.36
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.805
+    },
+    {
+      "ticker": "OMER",
+      "price": 14.18
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CHS",
+      "price": 10.41
+    },
+    {
+      "ticker": "OMER",
+      "price": 14.18
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.4
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.83
+    }
+  ]
+}

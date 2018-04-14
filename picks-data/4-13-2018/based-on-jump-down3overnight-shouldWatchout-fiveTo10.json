@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "TSRI",
+      "price": 5.95
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.81
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TSRI",
+      "price": 5.95
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.88
+    },
+    {
+      "ticker": "CSSE",
+      "price": 6.85
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TSRI",
+      "price": 5.95
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.9872
+    },
+    {
+      "ticker": "CSSE",
+      "price": 6.94
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.35
+    },
+    {
+      "ticker": "NEXT",
+      "price": 5.16
+    }
+  ]
+}

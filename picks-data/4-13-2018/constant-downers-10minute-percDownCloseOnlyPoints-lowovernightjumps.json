@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.5936
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.0494
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9901
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PIXY",
+      "price": 3.1467
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5979
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.089
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ANY",
+      "price": 0.6
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.1922
+    },
+    {
+      "ticker": "LEDS",
+      "price": 3.992
+    }
+  ]
+}

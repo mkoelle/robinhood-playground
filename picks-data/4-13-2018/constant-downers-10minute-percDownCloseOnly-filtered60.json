@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ENG",
+      "price": 0.8
+    },
+    {
+      "ticker": "DFBG",
+      "price": 1.4
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SAEX",
+      "price": 1.3293
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.37
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.81
+    }
+  ],
+  "309": [
+    {
+      "ticker": "INOD",
+      "price": 1.09
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.05
+    },
+    {
+      "ticker": "NNDM",
+      "price": 1.73
+    }
+  ]
+}

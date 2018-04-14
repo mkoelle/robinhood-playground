@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "FSI",
+      "price": 1.474
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.1406
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.71
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FSI",
+      "price": 1.45
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.71
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.12
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CTIB",
+      "price": 3.97
+    },
+    {
+      "ticker": "FSI",
+      "price": 1.44
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.65
+    }
+  ]
+}

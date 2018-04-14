@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MYND",
+      "price": 2.065
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3125
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.471
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MYND",
+      "price": 2.2873
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3184
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.4755
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYND",
+      "price": 2.1003
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3161
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.4967
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MYND",
+      "price": 2.271
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.326
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.99
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MYND",
+      "price": 2.14
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.3287
+    },
+    {
+      "ticker": "VRML",
+      "price": 1
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EYEG",
+      "price": 0.3248
+    },
+    {
+      "ticker": "MYND",
+      "price": 1.935
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9999
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EYEG",
+      "price": 0.33
+    },
+    {
+      "ticker": "MYND",
+      "price": 1.91
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9981
+    }
+  ]
+}

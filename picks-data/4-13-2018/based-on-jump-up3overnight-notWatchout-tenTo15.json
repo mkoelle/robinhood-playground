@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "MNOV",
+      "price": 13.055
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.615
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MNOV",
+      "price": 13.1272
+    },
+    {
+      "ticker": "SCWX",
+      "price": 10.1
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MNOV",
+      "price": 12.851
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.665
+    },
+    {
+      "ticker": "MHH",
+      "price": 12.0901
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "INAP",
+      "price": 10.95
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.1
+    },
+    {
+      "ticker": "EROS",
+      "price": 10.8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "INAP",
+      "price": 10.92
+    },
+    {
+      "ticker": "PAR",
+      "price": 13.84
+    },
+    {
+      "ticker": "AQXP",
+      "price": 13.04
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PAR",
+      "price": 13.65
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.94
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.91
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "IAG",
+      "price": 5.625
+    },
+    {
+      "ticker": "TNDM",
+      "price": 7.17
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.5725
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SRCI",
+      "price": 9.81
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.29
+    },
+    {
+      "ticker": "EBR",
+      "price": 5.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIX",
+      "price": 9.023
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.599
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.155
+    }
+  ],
+  "140": [
+    {
+      "ticker": "I",
+      "price": 7.18
+    },
+    {
+      "ticker": "PAH",
+      "price": 9.615
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.245
+    }
+  ],
+  "198": [
+    {
+      "ticker": "I",
+      "price": 7.16
+    },
+    {
+      "ticker": "AG",
+      "price": 6.7192
+    },
+    {
+      "ticker": "BLCM",
+      "price": 8.74
+    }
+  ],
+  "250": [
+    {
+      "ticker": "I",
+      "price": 7.1
+    },
+    {
+      "ticker": "BLCM",
+      "price": 8.95
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.205
+    }
+  ],
+  "300": [
+    {
+      "ticker": "I",
+      "price": 7.11
+    },
+    {
+      "ticker": "NETE",
+      "price": 9.8086
+    },
+    {
+      "ticker": "BLCM",
+      "price": 8.79
+    }
+  ]
+}

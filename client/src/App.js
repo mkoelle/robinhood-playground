@@ -103,30 +103,33 @@ class App extends Component {
       const { fiveDay } = pastData;
       const { vip: vipStrategies } = strategies;
       if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
-      picks = picks.map(pick => {
-          const calcedTrend = pick.withPrices.map(({ ticker, price }) => {
-              const { lastTradePrice, afterHourPrice } = relatedPrices[ticker];
+      let showingPicks = strategyFilter !== 'no filter' ? picks.filter(pick => strategies[strategyFilter].includes(pick.stratMin)) : picks;
+
+      showingPicks = showingPicks.map(pick => {
+          const calcedTrends = pick.withPrices.map(({ ticker, price }) => {
+              const foundPrice = relatedPrices[ticker];
+              if (!foundPrice) {
+                  return console.log(pick, 'not found', ticker, price);
+              }
+              const { lastTradePrice, afterHourPrice } = foundPrice;
               const nowPrice = afterHoursEnabled ? afterHourPrice || lastTradePrice : lastTradePrice;
               return {
                   ticker,
                   thenPrice: price,
                   nowPrice,
                   trend: getTrend(nowPrice, price)
-              }
+              };
           });
+          console.log(pick, 'caled trends', calcedTrends.map(t => t.trend));
           return {
               ...pick,
-              avgTrend: avgArray(calcedTrend.map(t => t.trend)),
-              withTrend: calcedTrend
+              avgTrend: avgArray(calcedTrends.map(t => t.trend)),
+              withTrend: calcedTrends
           };
       });
-      let sortedByAvgTrend = picks.sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
-      if (strategyFilter !== 'no filter') {
-          console.log('strat', strategyFilter, strategies[strategyFilter])
-          sortedByAvgTrend = sortedByAvgTrend.filter(strat => strategies[strategyFilter].includes(strat.stratMin));
-      }
+      let sortedByAvgTrend = showingPicks.filter(val => !isNaN(val.avgTrend)).sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
       console.log('rendering!');
-      const avgTrendOverall = avgArray(sortedByAvgTrend.map(strat => strat.avgTrend).filter(val => !!val));
+      const avgTrendOverall = avgArray(sortedByAvgTrend.map(strat => strat.avgTrend));
       return (
           <div className="App">
               <header className="App-header">
@@ -147,7 +150,7 @@ class App extends Component {
               </p>
               <p className="App-intro">
                   {
-                      sortedByAvgTrend.slice(0, 200).map(pick => (
+                      sortedByAvgTrend.slice(0).map(pick => (
                           <div>
                               <Pick
                                   pick={pick}

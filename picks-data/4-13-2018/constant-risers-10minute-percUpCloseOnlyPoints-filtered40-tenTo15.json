@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 11.65
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.1878
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.88
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SOXS",
+      "price": 11.629
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.86
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.3552
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 11.7513
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.49
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.72
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SOXS",
+      "price": 11.655
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.4
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.81
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FAZ",
+      "price": 11.42
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.5699
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.3179
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKAO",
+      "price": 12.45
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.325
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.5752
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 12.4499
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.37
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.5
+    }
+  ]
+}

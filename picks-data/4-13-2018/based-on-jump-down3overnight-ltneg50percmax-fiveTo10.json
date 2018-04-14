@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 8.85
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIX",
+      "price": 8.8
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.35
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIX",
+      "price": 8.9362
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.35
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.13
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CTRV",
+      "price": 0.29
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.4
+    },
+    {
+      "ticker": "LONE",
+      "price": 4.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRV",
+      "price": 0.285
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.2695
+    },
+    {
+      "ticker": "LONE",
+      "price": 4.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRV",
+      "price": 0.2848
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.4183
+    },
+    {
+      "ticker": "LONE",
+      "price": 4.54
+    }
+  ]
+}

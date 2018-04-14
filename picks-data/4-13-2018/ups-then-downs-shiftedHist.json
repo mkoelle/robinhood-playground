@@ -1,0 +1,126 @@
+{
+  "10": [
+    {
+      "ticker": "THM",
+      "price": 0.7057
+    },
+    {
+      "ticker": "VHC",
+      "price": 4.1679
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3634
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.2821
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.2934
+    }
+  ],
+  "50": [
+    {
+      "ticker": "THM",
+      "price": 0.7137
+    },
+    {
+      "ticker": "VHC",
+      "price": 4.2252
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3851
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.2801
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "THM",
+      "price": 0.74
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.2951
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.3
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.5302
+    }
+  ],
+  "300": [
+    {
+      "ticker": "THM",
+      "price": 0.7316
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.66
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.29
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.25
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.52
+    }
+  ],
+  "380": [
+    {
+      "ticker": "THM",
+      "price": 0.745
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.6698
+    },
+    {
+      "ticker": "NFEC",
+      "price": 1.28
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.225
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.5204
+    }
+  ],
+  "600": [
+    {
+      "ticker": "THM",
+      "price": 0.75
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.65
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.25
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.524
+    }
+  ]
+}

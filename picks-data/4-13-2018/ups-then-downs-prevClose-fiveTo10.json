@@ -1,0 +1,76 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "MBI",
+      "price": 9.9
+    },
+    {
+      "ticker": "RMTI",
+      "price": 5.78
+    },
+    {
+      "ticker": "RYI",
+      "price": 9.075
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MBI",
+      "price": 9.78
+    },
+    {
+      "ticker": "RMTI",
+      "price": 5.8
+    },
+    {
+      "ticker": "AGLE",
+      "price": 9.85
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MBI",
+      "price": 9.42
+    },
+    {
+      "ticker": "AGLE",
+      "price": 9.59
+    },
+    {
+      "ticker": "RMTI",
+      "price": 5.84
+    },
+    {
+      "ticker": "EGAN",
+      "price": 8.55
+    },
+    {
+      "ticker": "PCMI",
+      "price": 9.1
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MBI",
+      "price": 9.36
+    },
+    {
+      "ticker": "AGLE",
+      "price": 9.62
+    },
+    {
+      "ticker": "RMTI",
+      "price": 5.81
+    },
+    {
+      "ticker": "EGAN",
+      "price": 8.5
+    },
+    {
+      "ticker": "FLKS",
+      "price": 5.33
+    }
+  ]
+}
