@@ -134,10 +134,14 @@ const stratManager = {
             console.log('overall', overallAvg);
             return {
                 stratName,
-                avgTrend: overallAvg.toFixed(2) + '%'
+                avgTrend: overallAvg
             };
-        });
-        await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, JSON.stringify(strategyReport, null, 2));
+        }).filter(t => !!t.avgTrend).sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend))
+
+        const emailFormatted = strategyReport.map(strat => {
+            return `${strat.avgTrend.toFixed(2)}% ${strat.stratName}`;
+        }).join('\n');
+        await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, emailFormatted);
 
     },
     async refreshPastData() {
@@ -155,23 +159,63 @@ const stratManager = {
             }), {});
         };
         const stratPerf12Day = await stratPerfOverall(this.Robinhood, false, 12, 5);
+        const stratPerf3DayCount1 = await stratPerfOverall(this.Robinhood, false, 3, 1);
+        const stratPerf3DayCount2 = await stratPerfOverall(this.Robinhood, false, 3, 2);
+        const stratPerf2Day = await stratPerfOverall(this.Robinhood, false, 2);
+        const stratPerfDayBeforeYesterday = await stratPerfOverall(this.Robinhood, false, 1, 1, true);
+        const stratPerf2DayBeforeYesterday = await stratPerfOverall(this.Robinhood, false, 2, 1, true);
+
         const filteredCount = trend => trend.filter(strat => {
-            console.log('STRATMAN', strat);
+            // console.log('STRATMAN', strat);
             return strat.count >= 5 && strat.count <= 6;
         });
         const curOverallPredictions = await predictCurrent();
+        const curOverallFilteredPredictions = await predictCurrent(null, strategies => {
+            return strategies.length > 3 && strategies.every(trend => trend > -1);
+        });
         const cur8DayPredictions = await predictCurrent(8);
         const cur5DayPredictions = await predictCurrent(5);
         const cur3DayPredictions = await predictCurrent(3);
+        console.log('calculate daysbeforeyest')
+        const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
+
         this.strategies = {
             vip: strategiesEnabled.purchase,
-            ...createPerms([10, 5, 3, 1], '12DayByAvgPerc', mapNames(filteredCount(stratPerf12Day.sortedByAvgTrend))),
-            ...createPerms([10, 5, 3, 1], '12DayByPercUp', mapNames(filteredCount(stratPerf12Day.sortedByPercUp))),
-            ...createPerms([10, 5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
+            ...createPerms([3, 1], '12DayByAvgPerc', mapNames(filteredCount(stratPerf12Day.sortedByAvgTrend))),
+            ...createPerms([3, 1], '12DayByPercUp', mapNames(filteredCount(stratPerf12Day.sortedByPercUp))),
+            // ...createPerms([10, 5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
+            // ...createPerms([10, 5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
+            // ...createPerms([10, 5, 3, 1], '3DayCount1ByAvgPerc', mapNames(stratPerf3DayCount1.sortedByAvgTrend)),
+            // ...createPerms([10, 5, 3, 1], '3DayCount1DayByPercUp', mapNames(stratPerf3DayCount1.sortedByPercUp)),
+            // ...createPerms([10, 5, 3, 1], '3DayCount2ByAvgPerc', mapNames(stratPerf3DayCount2.sortedByAvgTrend)),
+            // ...createPerms([10, 5, 3, 1], '3DayCount2ByPercUp', mapNames(stratPerf3DayCount2.sortedByPercUp)),
+            // ...createPerms([10, 5, 3, 1], '2DayByAvgPerc', mapNames(stratPerf2Day.sortedByAvgTrend)),
+            // ...createPerms([10, 5, 3, 1], '2DayByPercUp', mapNames(stratPerf2Day.sortedByPercUp)),
+
+            ...createPerms([10, 5, 3, 1], 'dayBeforeYesterdayByAvgPerc', mapNames(stratPerfDayBeforeYesterday.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3, 1], 'dayBeforeYesterdayByPercUp', mapNames(stratPerfDayBeforeYesterday.sortedByPercUp)),
+            ...createPerms([10, 5, 3, 1], '2DayBeforeYesterdayByAvgPerc', mapNames(stratPerf2DayBeforeYesterday.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3, 1], '2DayBeforeYesterdayByPercUp', mapNames(stratPerf2DayBeforeYesterday.sortedByPercUp)),
+
+            ...createPerms([5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
+            ...createPerms([5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
+
             ...strategiesEnabled.extras,
-            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curOverallPredictions.myPredictions),
-            ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
+
+
+
+            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curOverallPredictions.myPredictions),
+            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
+            ...createPerms([10, 5, 3, 1], 'myFilteredPredictionModel', curOverallFilteredPredictions.myPredictions),
+            ...createPerms([10, 5, 3, 1], 'brainFilteredPredictionModel-', curOverallFilteredPredictions.brainPredictions),
+
+
+            ...createPerms([5, 3, 1], 'dayBeforeYesterdaymyPredictionModel', dayBeforeYesterdayPredictions.myPredictions),
+            ...createPerms([5, 3, 1], 'dayBeforeYesterdaybrainPredictionModel-', dayBeforeYesterdayPredictions.brainPredictions),
+
+
+
+
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-8day-', cur8DayPredictions.myPredictions),
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-8day-', cur8DayPredictions.brainPredictions),
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-5-day-', cur5DayPredictions.myPredictions),
