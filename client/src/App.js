@@ -97,6 +97,17 @@ class App extends Component {
           strategyFilter: event.target.value
       });
   }
+  strategyMove = increment => {
+      const curStrategy = this.state.strategyFilter;
+      const listOfStrategies = [...Object.keys(this.state.strategies), 'no filter'];
+      const index = listOfStrategies.findIndex(strat => strat === curStrategy);
+      let nextIndex = (index + increment) % listOfStrategies.length;
+      console.info(nextIndex);
+      nextIndex = nextIndex === -1 ? listOfStrategies.length - 1 : nextIndex;
+      this.setState({
+          strategyFilter: listOfStrategies[nextIndex]
+      });
+  }
   toggleAfterHours = () => this.setState({ afterHoursEnabled: !this.state.afterHoursEnabled })
   render() {
       let { picks, relatedPrices, strategies, strategyFilter, pastData, curDate, afterHoursEnabled } = this.state;
@@ -135,12 +146,20 @@ class App extends Component {
               <header className="App-header">
                   <h1 className="App-title">robinhood-playground: {curDate}</h1>
                   strategy filter:
+                  <button
+                    onClick={() => this.strategyMove(-1)}>
+                    {'<<'}
+                  </button>
                   <select value={strategyFilter} onChange={this.setStrategyFilter}>
                       {strategies && Object.keys(strategies).map(strategy => (
                           <option value={strategy}>{strategy}</option>
                       ))}
                       <option>no filter</option>
                   </select>
+                  <button
+                    onClick={() => this.strategyMove(1)}>
+                    {'>>'}
+                  </button>
                   <br/>
                   include after hours:
                   <input type="checkbox" checked={afterHoursEnabled} onChange={this.toggleAfterHours} />
