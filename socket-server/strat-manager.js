@@ -9,6 +9,9 @@ const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 const sendEmail = require('../utils/send-email');
 
+const formatDate = date => date.toLocaleDateString().split('/').join('-');
+const getDate = () => formatDate(new Date());
+
 const stratManager = {
     Robinhood: null,
     io: null,
@@ -31,7 +34,7 @@ const stratManager = {
         if (compareDate - now > 0) {
             now.setDate(now.getDate()-1);
         }
-        const dateStr = (now).toLocaleDateString().split('/').join('-');
+        const dateStr = formatDate(now);
         const hasPicksData = await fs.exists(`./picks-data/${dateStr}`);
         if (!isWeekday || hasPicksData) {
             // from most recent day (weekend will get friday)
@@ -57,7 +60,7 @@ const stratManager = {
     },
     newPick(data) {
         // console.log('new pick', data);
-        if (this.curDate !== (new Date()).toLocaleDateString().split('/').join('-')) {
+        if (this.curDate !== getDate()) {
             return;
         }
         this.picks.push(data);
@@ -146,10 +149,11 @@ const stratManager = {
     },
     async refreshPastData() {
         const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
-        await this.setStrategies(stratPerfData);
+        // set predictionmodels
+        this.strategies = await this.createPredictionModels(stratPerfData);
         await this.setPastData(stratPerfData);
     },
-    async setStrategies(stratPerfData) {
+    async createPredictionModels(stratPerfData) {
         const mapNames = strats => strats.map(({ name }) => name);
         const getFirstN = (strats, n) => strats.slice(0, n);
         const createPerms = (set, name, picks) => {
@@ -179,7 +183,7 @@ const stratManager = {
         console.log('calculate daysbeforeyest')
         const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
 
-        this.strategies = {
+        return {
             vip: strategiesEnabled.purchase,
             ...createPerms([3, 1], '12DayByAvgPerc', mapNames(filteredCount(stratPerf12Day.sortedByAvgTrend))),
             ...createPerms([3, 1], '12DayByPercUp', mapNames(filteredCount(stratPerf12Day.sortedByPercUp))),

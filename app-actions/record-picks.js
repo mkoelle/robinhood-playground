@@ -9,9 +9,9 @@ const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
 
 console.log(purchase, email, 'strategies enabled ');
-module.exports = async (Robinhood, strategy, min, picks) => {
+module.exports = async (Robinhood, strategy, min, withPrices) => {
 
-    if (!strategy.includes('cheapest-picks')) picks = picks.slice(0, 5);  // take only 5 picks
+    if (!strategy.includes('cheapest-picks')) withPrices = withPrices.slice(0, 5);  // take only 5 picks
 
     console.log('recording', strategy, 'strategy');
     const dateStr = (new Date()).toLocaleDateString().split('/').join('-');
@@ -21,17 +21,17 @@ module.exports = async (Robinhood, strategy, min, picks) => {
         await fs.mkdir(`./picks-data/${dateStr}`);
     }
 
-    console.log('getting prices', picks);
-    let withPrices = await mapLimit(picks, 1, async ticker => {
-        try {
-            return {
-                ticker,
-                price: (await lookup(Robinhood, ticker)).currentPrice
-            };
-        } catch (e) {
-            return null;
-        }
-    });
+    // console.log('getting prices', picks);
+    // let withPrices = await mapLimit(picks, 1, async ticker => {
+    //     try {
+    //         return {
+    //             ticker,
+    //             price: (await lookup(Robinhood, ticker)).currentPrice
+    //         };
+    //     } catch (e) {
+    //         return null;
+    //     }
+    // });
     withPrices = withPrices.filter(tickerPrice => !!tickerPrice);
 
 
@@ -52,7 +52,7 @@ module.exports = async (Robinhood, strategy, min, picks) => {
     });
 
     // for purchase
-    const strategiesEnabled = stratManager.strategies.myPredictionModelFirst10;
+    const strategiesEnabled = stratManager.strategies.dayBeforeYesterdayByPercUpFirst3;
     const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');

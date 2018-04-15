@@ -131,7 +131,7 @@ class App extends Component {
                   trend: getTrend(nowPrice, price)
               };
           });
-          console.log(pick, 'caled trends', calcedTrends.map(t => t.trend));
+          console.log(pick, 'caled trends', calcedTrends);
           return {
               ...pick,
               avgTrend: avgArray(calcedTrends.map(t => t.trend)),
