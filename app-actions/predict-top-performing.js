@@ -3,7 +3,7 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
 
-const predictForDays = async (days) => {
+const predictForDays = async (days, filterFn) => {
 
     console.log('days', days);
     const stratPerfsTrend = {};
@@ -50,9 +50,10 @@ const predictForDays = async (days) => {
         // console.log(output);
     };
 
-    const toPredict = Object.keys(stratPerfsTrend)
-        .filter(strategyName => stratPerfsTrend[strategyName].length > 3)
-        .filter(stratName => stratPerfsTrend[stratName].every(trend => trend > -1));
+    let toPredict = Object.keys(stratPerfsTrend);
+    if (filterFn) {
+        toPredict = toPredict.filter(strategyName => filterFn(stratPerfsTrend[strategyName]));
+    }
     console.log('topredict count', toPredict.length);
 
     const allPredictions = toPredict
@@ -70,6 +71,8 @@ const predictForDays = async (days) => {
             };
         });
 
+    console.log('dayssss', days);
+    console.log('allPredictions', JSON.stringify(allPredictions, null, 2));
     return {
         myPredictions: allPredictions
             .slice(0)
@@ -87,9 +90,11 @@ const predictForDays = async (days) => {
 
 module.exports = {
     predictForDays,
-    predictCurrent: async (numDays) => {
+    predictCurrent: async (numDays, filterFn, skipYesterday) => {
         console.log('predict current', numDays);
         let allDays = await fs.readdir(`./strat-perfs`);
-        return await predictForDays(numDays ? allDays.slice(0 - numDays) : allDays)
+        if (skipYesterday) allDays.pop();
+        const forDays = numDays ? allDays.slice(0 - numDays) : allDays;
+        return await predictForDays(forDays, filterFn)
     }
 }

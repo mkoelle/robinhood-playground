@@ -31,7 +31,7 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0) => {
+module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0, ignoreYesterday) => {
     console.log('includeToday', includeToday);
     console.log('days back', daysBack);
     console.log('mincount', minCount);
@@ -43,6 +43,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
+    if (ignoreYesterday) sortedFiles.pop();
     let threeMostRecent = sortedFiles.slice(0 - daysBack);
     console.log('selected days', threeMostRecent);
 
