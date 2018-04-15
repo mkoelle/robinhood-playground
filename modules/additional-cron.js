@@ -66,8 +66,8 @@ const additionalCronConfig = [
     {
         name: 'record-strat-perfs',
         run: [9],
-        fn: async (Robinhood) => {
-            await recordStratPerfs(Robinhood);
+        fn: async (Robinhood, min) => {
+            await recordStratPerfs(Robinhood, min);
             await stratManager.newDay();
         }
     },
