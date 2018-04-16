@@ -91,9 +91,6 @@ module.exports = {
         ]
     },
     extras: {
-        anotherList,
-        fiveDay,
-        highStreaks,
         'wild n crazy': [
             'week-swings-tenTo15-1',
             'constant-risers-10minute-percUpHighClosePoints-300'
@@ -101,6 +98,10 @@ module.exports = {
         'my actual random selection': [
             'based-on-jump-down3overnight-trending35257-5'
         ],
-        'my educated random selection': myEducated
+        fiveDay,
+        highStreaks,
+        anotherList,
+        'my educated random selection': myEducated,
+        hotStrats
     }
 }
