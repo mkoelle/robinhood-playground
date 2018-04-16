@@ -52,9 +52,18 @@ const highStreaks = [
     'constant-downers-10minute-percDownLowClosePoints-filtered40-77'
 ];
 
+const anotherList = [ // short 3 day
+    'ups-then-downs-shiftedHist-tenTo15-10',
+    'up-streak-5days-gt1overnight-fiveTo10-45',
+    'sudden-drops-last50trend-fiveTo10-388',
+    'constant-risers-5minute-percUpHighClose-100',
+    'fizbiz-under5TopLosers-12'
+];
+
 const myEducated = [
     ...fiveDay,
-    ...highStreaks
+    ...highStreaks,
+    ...anotherList
 ];
 
 const forPurchase = [
@@ -82,6 +91,7 @@ module.exports = {
         ]
     },
     extras: {
+        anotherList,
         fiveDay,
         highStreaks,
         'wild n crazy': [
