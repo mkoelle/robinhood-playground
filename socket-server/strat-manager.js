@@ -189,6 +189,12 @@ const stratManager = {
                 [`${name}First${val}`]: getFirstN(picks, val)
             }), {});
         };
+
+        const stratPerf4IncToday = await stratPerfOverall(this.Robinhood, true, 4, 2);
+        const stratPerf2IncToday = await stratPerfOverall(this.Robinhood, true, 2, 2);
+        const stratPerf10IncToday = await stratPerfOverall(this.Robinhood, true, 10, 7);
+
+
         const stratPerf12Day = await stratPerfOverall(this.Robinhood, false, 12, 5);
         const stratPerf3DayCount1 = await stratPerfOverall(this.Robinhood, false, 3, 1);
         const stratPerf3DayCount2 = await stratPerfOverall(this.Robinhood, false, 3, 2);
@@ -233,6 +239,14 @@ const stratManager = {
 
             ...createPerms([5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
             ...createPerms([5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
+
+            // including todays
+            ...createPerms([10, 5, 3], 'stratPerf4IncTodayAvgPerc', mapNames(stratPerf4IncToday.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3], 'stratPerf4IncTodayPercUp', mapNames(stratPerf4IncToday.sortedByPercUp)),
+            ...createPerms([10, 5, 3], 'stratPerf2IncTodayAvgPerc', mapNames(stratPerf2IncToday.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3], 'stratPerf2IncTodayPercUp', mapNames(stratPerf2IncToday.sortedByPercUp)),
+            ...createPerms([10, 5, 3], 'stratPerf10IncTodayAvgPerc', mapNames(stratPerf10IncToday.sortedByAvgTrend)),
+            ...createPerms([10, 5, 3], 'stratPerf10IncTodayPercUp', mapNames(stratPerf10IncToday.sortedByPercUp)),
 
             ...strategiesEnabled.extras,
 
