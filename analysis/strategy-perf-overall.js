@@ -116,7 +116,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     });
     // stratResults.print();
 
-    console.log('all', JSON.stringify(allPerfs, null, 2));
+    // console.log('all', JSON.stringify(allPerfs, null, 2));
 
     const withoutPerms = allPerfs
         .filter(({ strategyName }) => {

@@ -52,7 +52,7 @@ module.exports = async (Robinhood, strategy, min, withPrices) => {
     });
 
     // for purchase
-    const strategiesEnabled = stratManager.strategies.dayBeforeYesterdayByPercUpFirst3;
+    const strategiesEnabled = stratManager.strategies.forPurchase;
     const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');

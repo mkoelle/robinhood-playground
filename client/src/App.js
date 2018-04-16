@@ -71,7 +71,7 @@ class Pick extends Component {
 }
 
 class App extends Component {
-  state = { picks: [], relatedPrices: {}, strategyFilter: 'vip', pastData: {}, strategies: {}, afterHoursEnabled: false };
+  state = { picks: [], relatedPrices: {}, strategyFilter: 'forPurchase', pastData: {}, strategies: {}, afterHoursEnabled: false };
   componentDidMount() {
       const { protocol, hostname } = window.location;
       let endpoint = `${protocol}//${hostname}`;
@@ -112,8 +112,7 @@ class App extends Component {
   render() {
       let { picks, relatedPrices, strategies, strategyFilter, pastData, curDate, afterHoursEnabled } = this.state;
       const { fiveDay } = pastData;
-      const { vip: vipStrategies } = strategies;
-      if (!vipStrategies) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
+      if (!strategies.forPurchase) return <h1 style={{ textAlign: 'center' }}>loading</h1>;
       let showingPicks = strategyFilter !== 'no filter' ? picks.filter(pick => strategies[strategyFilter].includes(pick.stratMin)) : picks;
 
       showingPicks = showingPicks.map(pick => {

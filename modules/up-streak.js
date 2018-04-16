@@ -27,7 +27,7 @@ const trendFilter = async (Robinhood, trend) => {
     const withOvernightJump = await addOvernightJump(Robinhood, withUpstreak);
 
     console.log('with withOvernightJump and upstreak')
-    console.log(withOvernightJump);
+    // console.log(withOvernightJump);
 
     const upstreakVariations = (numStreak, trend) => {
         return {

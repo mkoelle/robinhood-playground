@@ -39,7 +39,7 @@ module.exports = async (Robinhood) => {
     console.log('getting historicals')
 
     let curIndex = 0;
-    console.log('ey,', (cheapBuys.length / 10));
+    // console.log('ey,', (cheapBuys.length / 10));
     cheapBuys = await mapLimit(cheapBuys, 20, async buy => {
 
         if (curIndex % Math.floor(cheapBuys.length / 10) === 0) {

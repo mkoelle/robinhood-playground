@@ -23,11 +23,18 @@ const hotStrats = [
     'sudden-drops-last5trend-fiveTo10-328',
     'sudden-drops-last10trend-388',
     'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-16',
-    'ups-then-downs-prevClose-fiveTo10-300',
+    'ups-then-downs-prevClose-fiveTo10-300'
+];
+
+const forPurchase = [
+    '[my actual random selection]',
+    '[YesterdayByAvgPercFirst5]',
+    '[brainFilteredPredictionModel-First1]'
 ];
 
 module.exports = {
-    purchase: hotStrats,
+    forPurchase,
+    // purchase: hotStrats,
     email: {
         [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: hotStrats,
         [['ViperKi', 'ller847', '@a', 'ol.com'].join('')]: [

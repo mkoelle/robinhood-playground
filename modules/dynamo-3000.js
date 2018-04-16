@@ -129,7 +129,7 @@ const trendFilter = async (Robinhood, trend) => {
         );
 
         console.log('final length num count', withTrendingUp.length);
-        console.log(withTrendingUp);
+        // console.log(withTrendingUp);
         const topPe = withTrendingUp
             .map(buy => ({
                 ...buy,

@@ -11,10 +11,10 @@ module.exports = async (Robinhood) => {
         return new Date(a) - new Date(b);
     });
 
-    console.log(sortedFolders);
+    // console.log(sortedFolders);
 
     let todayReport = await analyzeDay(Robinhood, sortedFolders[sortedFolders.length - 1]);
     todayReport = todayReport.filter(strat => !strat.strategyName.includes('-first3') && !strat.strategyName.includes('-single') );
-    console.log(JSON.stringify(todayReport, null, 2));
+    // console.log(JSON.stringify(todayReport, null, 2));
     return todayReport;
 };
