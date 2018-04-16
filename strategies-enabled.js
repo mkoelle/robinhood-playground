@@ -33,14 +33,43 @@ const hotStrats = [
 //     '[dayBeforeYesterdaymyPredictionModelFirst3]'
 // ];
 
+const fiveDay = [
+    // 5 day
+    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',
+    'sudden-drops-last18trend-fiveTo10-328',
+    'dynamo-3000-bottom50tso-notWatchout-100',
+    'dynamo-3000-volumeto2weekavg-tenTo15-381',
+    'constant-risers-5minute-percUpCloseOnlyPoints-highovernightjumps-250',
+    'dow-historical-sortedByAvgToday-13',
+];
+
+const highStreaks = [
+    // high streaks
+    'constant-risers-5minute-percUpHighClose-filtered50-300',
+    'based-on-jump-down3overnight-trending35257-5',
+    'dynamo-3000-bottom50tso-notWatchout-5lowestYP-40',
+    'up-streak-3to5days-gt3overnight-189',
+    'constant-downers-10minute-percDownLowClosePoints-filtered40-77'
+];
+
+const myEducated = [
+    ...fiveDay,
+    ...highStreaks
+];
+
 const forPurchase = [
     '[my actual random selection]',
     '[my actual random selection]',
-    '[YesterdayByAvgPercFirst5]',
+
     '[brainFilteredPredictionModel-First3]',
     '[brainFilteredPredictionModel-First1]',
     '[myFilteredPredictionModelFirst5]',
-    '[yesterdayMyPredictionModelFirst3]'
+
+    '[YesterdayByAvgPercFirst5]',
+    '[yesterdayMyPredictionModelFirst3]',
+
+
+    ...myEducated
 ];
 
 module.exports = {
@@ -53,6 +82,8 @@ module.exports = {
         ]
     },
     extras: {
+        fiveDay,
+        highStreaks,
         'wild n crazy': [
             'week-swings-tenTo15-1',
             'constant-risers-10minute-percUpHighClosePoints-300'
@@ -60,11 +91,6 @@ module.exports = {
         'my actual random selection': [
             'based-on-jump-down3overnight-trending35257-5'
         ],
-        'my educated random selection': [
-            'before-close-up-350',
-            'dow-historical-sortedByAvgToday-13',
-            'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-100',
-            'dynamo-3000-top50tso-onlyWatchout-5lowestsharesToCap-381',
-        ]
+        'my educated random selection': myEducated
     }
 }
