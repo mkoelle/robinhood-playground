@@ -336,11 +336,16 @@
   ],
   "forPurchase": [
     "based-on-jump-down3overnight-trending35257-5",
-    "constant-risers-5minute-percUpHighClosePoints-highovernightjumps-80",
-    "constant-risers-10minute-percUpHighClosePoints-highovernightjumps-80",
-    "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-80",
-    "constant-risers-10minute-percUpHighClosePoints-highovernightjumps-100",
-    "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-100",
-    "constant-risers-5minute-percUpHighClose-filtered50-300"
+    "sudden-drops-last2trend-14",
+    "dynamo-3000-volumeto2weekavg-4",
+    "dynamo-3000-bottom50tso-volumeto2weekavg-4",
+    "dynamo-3000-bottom50tso-absvolume-4",
+    "dynamo-3000-bottom50tso-twoweekvolumetoavg-4",
+    "constant-risers-5minute-percUpHighClose-filtered50-300",
+    "up-streak-3to5days-ltneg3overnight-fiveTo10-189",
+    "constant-risers-5minute-percUpHighClose-filtered50-tenTo15-250",
+    "constant-downers-5minute-percDownLowClosePoints-filtered60-309",
+    "constant-risers-5minute-percUpHighClose-40",
+    "constant-downers-5minute-percDownLowClosePoints-filtered50-242"
   ]
 }

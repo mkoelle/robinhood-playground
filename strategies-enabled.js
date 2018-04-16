@@ -26,10 +26,21 @@ const hotStrats = [
     'ups-then-downs-prevClose-fiveTo10-300'
 ];
 
+// const tempforPurchase = [
+//     '[my actual random selection]',
+//     '[dayBeforeYesterdayByAvgPercFirst5]',
+//     '[brainFilteredPredictionModel-First3]',
+//     '[dayBeforeYesterdaymyPredictionModelFirst3]'
+// ];
+
 const forPurchase = [
     '[my actual random selection]',
+    '[my actual random selection]',
     '[YesterdayByAvgPercFirst5]',
-    '[brainFilteredPredictionModel-First1]'
+    '[brainFilteredPredictionModel-First3]',
+    '[brainFilteredPredictionModel-First1]',
+    '[myFilteredPredictionModelFirst5]',
+    '[yesterdayMyPredictionModelFirst3]'
 ];
 
 module.exports = {
