@@ -1,31 +1,3 @@
-const hotStrats = [
-    'dynamo-3000-top50tso-onlyWatchout-5lowestsharesToCap-351',
-    'constant-risers-5minute-percUpHighClosePoints-140',
-    'constant-downers-5minute-percDownLowClosePoints-filtered60-242',
-    'sudden-drops-last30trend-fiveTo10-388',
-    'dynamo-3000-top50tso-onlyWatchout-5lowestsharesToCap-381',
-    'dynamo-3000-bottom50tso-notWatchout-5lowestsharesToCap-tenTo15-40',
-    'constant-risers-10minute-percUpHighClose-250',
-    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',
-    'fizbiz-under5Target10Change2Vol200Within10of52Low-75',
-    'dow-historical-sortedByAvgToday-73',
-    'up-streak-3to5days-ltneg1overnight-fiveTo10-189',
-    'based-on-jump-down3overnight-trending35257-5',
-    'dynamo-3000-middle50tso-onlyWatchout-5lowestYP-4',
-    'based-on-jump-down3overnight-gtneg20percmax-fiveTo10-30',
-    'constant-downers-5minute-percDownCloseOnlyPoints-filtered40-242',
-    'dow-historical-sortedByAvgToday-73',
-    'constant-risers-10minute-percUpHighClosePoints-300',
-    'week-swings-tenTo15-1',
-    'sudden-drops-last30trend-fiveTo10-388',
-    'based-on-jump-up3overnight-ltneg50percmax-tenTo15-5',
-    'constant-risers-10minute-percUpHighClosePoints-filtered60-140',
-    'sudden-drops-last5trend-fiveTo10-328',
-    'sudden-drops-last10trend-388',
-    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-16',
-    'ups-then-downs-prevClose-fiveTo10-300'
-];
-
 // const tempforPurchase = [
 //     '[my actual random selection]',
 //     '[dayBeforeYesterdayByAvgPercFirst5]',
@@ -35,34 +7,77 @@ const hotStrats = [
 
 const fiveDay = [
     // 5 day
-    'based-on-jump-down3overnight-ltneg50percmax-fiveTo10-5',
+    'based-on-jump-down3overnight-trending35257-gtneg20percmax-fiveTo10-5',
+    'sudden-drops-last10trend-fiveTo10-328',
+    'based-on-jump-up3overnight-trending35257-fiveTo10-16',
+    'constant-risers-5minute-percUpHighClose-filtered50-80',
+    'constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-40',
     'sudden-drops-last18trend-fiveTo10-328',
-    'dynamo-3000-bottom50tso-notWatchout-100',
-    'dynamo-3000-volumeto2weekavg-tenTo15-381',
-    'constant-risers-5minute-percUpCloseOnlyPoints-highovernightjumps-250',
-    'dow-historical-sortedByAvgToday-13',
+    'sudden-drops-last5trend-32',
+    'constant-risers-10minute-percUpHighClose-filtered60-250',
+    'up-streak-5days-gt1overnight-189',
+    'dynamo-3000-top50tso-topPE-fiveTo10-4',
+    'before-close-up-350',
+    'constant-risers-5minute-percUpCloseOnly-198',
+    'based-on-jump-down3overnight-trending35257-fiveTo10-30',
+    'constant-risers-5minute-percUpHighClose-filtered40-80',
+    'constant-risers-5minute-percUpHighClosePoints-filtered40-fiveTo10-40',
+    'dynamo-3000-top50tso-trendingUp3010-5lowestYP-fiveTo10-4'
 ];
-
-const highStreaks = [
-    // high streaks
-    'constant-risers-5minute-percUpHighClose-filtered50-300',
-    'based-on-jump-down3overnight-trending35257-5',
-    'dynamo-3000-bottom50tso-notWatchout-5lowestYP-40',
-    'up-streak-3to5days-gt3overnight-189',
-    'constant-downers-10minute-percDownLowClosePoints-filtered40-77'
-];
+//
+// const highStreaks = [
+//     // high streaks
+//     'constant-risers-5minute-percUpHighClose-filtered50-300',
+//     'based-on-jump-down3overnight-trending35257-5',
+//     'dynamo-3000-bottom50tso-notWatchout-5lowestYP-40',
+//     'up-streak-3to5days-gt3overnight-189',
+//     'constant-downers-10minute-percDownLowClosePoints-filtered40-77'
+// ];
 
 const anotherList = [ // short 3 day
-    'ups-then-downs-shiftedHist-tenTo15-10',
-    'up-streak-5days-gt1overnight-fiveTo10-45',
-    'sudden-drops-last50trend-fiveTo10-388',
-    'constant-risers-5minute-percUpHighClose-100',
-    'fizbiz-under5TopLosers-12'
+    'constant-risers-5minute-percUpHighClose-filtered40-80',
+    'based-on-jump-down3overnight-trending35257-tenTo15-5',
+    'based-on-jump-down3overnight-gtneg20percmax-tenTo15-5',
+    'based-on-jump-down3overnight-trending35257-notWatchout-fiveTo10-5',
+    'based-on-jump-down3overnight-shouldWatchout-tenTo15-30',
+    'sudden-drops-last18trend-221',
+    'sudden-drops-last5trend-32',
+    'sudden-drops-last3trend-tenTo15-63',
+    'dynamo-3000-volumeto2weekavg-4',
+    'fizbiz-under5TopLosers-2',
+    'based-on-jump-down3overnight-shouldWatchout-tenTo15-30'
+];
+
+const goodTodayBad5day = [
+    'constant-risers-5minute-percUpHighClose-filtered60-198',
+    'dynamo-3000-bottom50tso-onlyWatchout-4',
+    'constant-risers-5minute-percUpCloseOnly-filtered40-140',
+    'dynamo-3000-absvolume-fiveTo10-4',
+    'up-streak-5days-ltneg1overnight-45',
+    'constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-198',
+    'based-on-jump-down3overnight-trending35257-gtneg20percmax-16',
+    'dynamo-3000-top50tso-absvolume-fiveTo10-4',
+    'ups-then-downs-prevClose-200',
+    'dynamo-3000-bottom50tso-trendingUp3010-5lowestYP-200',
+    'sudden-drops-last30trend-328',
+    'constant-downers-10minute-percDownLowClosePoints-filtered50-242'
+];
+
+const goodTodayGood5day = [
+    'constant-risers-5minute-percUpCloseOnly-198',
+    'constant-risers-5minute-percUpHighClose-filtered50-80',
+    'constant-risers-5minute-percUpCloseOnly-filtered50-300',
+    'based-on-jump-down3overnight-trending35257-fiveTo10-30',
+    'constant-risers-10minute-percUpCloseOnlyPoints-filtered50-fiveTo10-40',
+    'sudden-drops-last18trend-388',
+    'constant-risers-5minute-percUpHighClosePoints-fiveTo10-40',
+    'sudden-drops-last2trend-tenTo15-14',
+    'constant-risers-5minute-percUpCloseOnlyPoints-filtered50-300'
 ];
 
 const myEducated = [
     ...fiveDay,
-    ...highStreaks,
+    // ...highStreaks,
     ...anotherList
 ];
 
@@ -72,12 +87,13 @@ const forPurchase = [
 
     '[brainFilteredPredictionModel-First3]',
     '[brainFilteredPredictionModel-First1]',
-    '[myFilteredPredictionModelFirst5]',
+    '[brainFilteredPredictionModel-First1]',
 
-    '[YesterdayByAvgPercFirst5]',
-    '[yesterdayMyPredictionModelFirst3]',
-
-
+    '[myFilteredPredictionModelFirst3]',
+    '[myFilteredPredictionModelFirst10]',
+    '[myFilteredPredictionModelFirst1]',
+    '[stratPerf4IncTodayPercUpFirst5]',
+    '[5DayByPercUpFirst5]',
     ...myEducated
 ];
 
@@ -85,7 +101,7 @@ module.exports = {
     forPurchase,
     // purchase: hotStrats,
     email: {
-        [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: hotStrats,
+        [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: forPurchase,
         [['ViperKi', 'ller847', '@a', 'ol.com'].join('')]: [
             'cheapest-picks-chp50--4'
         ]
@@ -99,9 +115,10 @@ module.exports = {
             'based-on-jump-down3overnight-trending35257-5'
         ],
         fiveDay,
-        highStreaks,
+        // highStreaks,
         anotherList,
         'my educated random selection': myEducated,
-        hotStrats
+        goodTodayBad5day,
+        goodTodayGood5day
     }
 }
