@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "CLDX",
+      "price": 1
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.7
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.56
+    },
+    {
+      "ticker": "FSI",
+      "price": 1.48
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDX",
+      "price": 1.0134
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.7
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.63
+    },
+    {
+      "ticker": "FSI",
+      "price": 1.48
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.3002
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDX",
+      "price": 0.9089
+    },
+    {
+      "ticker": "UONE",
+      "price": 1.7
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.625
+    },
+    {
+      "ticker": "FSI",
+      "price": 1.48
+    },
+    {
+      "ticker": "CYAN",
+      "price": 4.155
+    }
+  ]
+}

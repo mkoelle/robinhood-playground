@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "ACMR",
+      "price": 13.31
+    },
+    {
+      "ticker": "CDLX",
+      "price": 13.95
+    }
+  ],
+  "63": [
+    {
+      "ticker": "SELB",
+      "price": 12.2301
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.53
+    }
+  ],
+  "221": [
+    {
+      "ticker": "LOOP",
+      "price": 13.95
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.26
+    }
+  ],
+  "328": [
+    {
+      "ticker": "MBIO",
+      "price": 10.3
+    },
+    {
+      "ticker": "CUE",
+      "price": 14.29
+    }
+  ],
+  "388": [
+    {
+      "ticker": "LIVE",
+      "price": 12.48
+    },
+    {
+      "ticker": "AMEH",
+      "price": 13.52
+    }
+  ]
+}

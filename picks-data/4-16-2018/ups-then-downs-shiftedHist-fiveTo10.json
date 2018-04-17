@@ -1,0 +1,44 @@
+{
+  "50": [
+    {
+      "ticker": "RMTI",
+      "price": 5.87
+    },
+    {
+      "ticker": "EGAN",
+      "price": 8.5438
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 8.55
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FLKS",
+      "price": 5.3726
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EGAN",
+      "price": 8.525
+    },
+    {
+      "ticker": "FLKS",
+      "price": 5.47
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EGAN",
+      "price": 8.6
+    },
+    {
+      "ticker": "FLKS",
+      "price": 5.45
+    }
+  ]
+}

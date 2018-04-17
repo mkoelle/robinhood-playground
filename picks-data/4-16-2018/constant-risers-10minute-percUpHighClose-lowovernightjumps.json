@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SYN",
+      "price": 0.3599
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.625
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.6711
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SYN",
+      "price": 0.3484
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.67
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.674
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYN",
+      "price": 0.3508
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.67
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.65
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SYN",
+      "price": 0.3518
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.6754
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.68
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SYN",
+      "price": 0.3534
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.7917
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.6499
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SYN",
+      "price": 0.3514
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.6699
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.7748
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SYN",
+      "price": 0.3544
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.674
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.751
+    }
+  ]
+}

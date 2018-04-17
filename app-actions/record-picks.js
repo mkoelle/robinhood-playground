@@ -56,9 +56,8 @@ module.exports = async (Robinhood, strategy, min, withPrices) => {
     const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');
-        console.log('picks', picks);
         await purchaseStocks(Robinhood, {
-            stocksToBuy: picks,
+            stocksToBuy: withPrices.map(obj => obj.ticker),
             strategy,
             multiplier: enableCount,
             min

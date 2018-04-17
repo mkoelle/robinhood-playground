@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ABCD",
+      "price": 11.96
+    },
+    {
+      "ticker": "RIG",
+      "price": 11.62
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.36
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RIG",
+      "price": 11.82
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 12.17
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.871
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.09
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ABCD",
+      "price": 12.23
+    },
+    {
+      "ticker": "SRCI",
+      "price": 10.07
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.055
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AMD",
+      "price": 10.14
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.17
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.315
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMD",
+      "price": 10.135
+    },
+    {
+      "ticker": "ENLK",
+      "price": 14.65
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.17
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 10.11
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.0472
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.19
+    }
+  ]
+}

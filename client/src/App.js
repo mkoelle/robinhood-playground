@@ -133,7 +133,7 @@ class App extends Component {
           console.log(pick, 'caled trends', calcedTrends);
           return {
               ...pick,
-              avgTrend: avgArray(calcedTrends.map(t => t.trend)),
+              avgTrend: avgArray(calcedTrends.filter(val => !!val).map(t => t.trend)),
               withTrend: calcedTrends
           };
       });

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CART",
+      "price": 8.8
+    },
+    {
+      "ticker": "CVV",
+      "price": 8.85
+    },
+    {
+      "ticker": "TCCO",
+      "price": 5.05
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLPR",
+      "price": 8.15
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.92
+    },
+    {
+      "ticker": "NATR",
+      "price": 9.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PDEX",
+      "price": 7.05
+    },
+    {
+      "ticker": "IDSY",
+      "price": 6.43
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.1
+    }
+  ]
+}

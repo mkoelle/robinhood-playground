@@ -1,0 +1,90 @@
+{
+  "190": [
+    {
+      "ticker": "AMEH",
+      "price": 13.87
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.61
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.4
+    },
+    {
+      "ticker": "TZA",
+      "price": 11.03
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMEH",
+      "price": 14.02
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.54
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.525
+    },
+    {
+      "ticker": "TZA",
+      "price": 10.9
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.25
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AMEH",
+      "price": 13.52
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.65
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.52
+    },
+    {
+      "ticker": "TZA",
+      "price": 10.99
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.25
+    }
+  ],
+  "-15": [
+    {
+      "ticker": "AMEH",
+      "price": 13.8
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.72
+    },
+    {
+      "ticker": "LRN",
+      "price": 13.72
+    },
+    {
+      "ticker": "FXP",
+      "price": 14.97
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.83
+    }
+  ]
+}
