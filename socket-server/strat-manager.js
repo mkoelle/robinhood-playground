@@ -192,6 +192,7 @@ const stratManager = {
         await this.setPastData(stratPerfData);
     },
     async createPredictionModels() {
+        console.log('TESTING')
 
         const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
         const mapNames = strats => strats.map(({ name }) => name);
@@ -199,93 +200,58 @@ const stratManager = {
         const createPerms = (set, name, picks) => {
             return set.reduce((acc, val) => ({
                 ...acc,
-                [`${name}First${val}`]: getFirstN(picks, val)
+                [`${name}-first${val}`]: getFirstN(picks, val)
             }), {});
         };
 
-        const stratPerf4IncToday = await stratPerfOverall(this.Robinhood, true, 4, 2);
-        const stratPerf2IncToday = await stratPerfOverall(this.Robinhood, true, 2, 2);
-        const stratPerf10IncToday = await stratPerfOverall(this.Robinhood, true, 10, 7);
+        const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
+        const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
+        const uniq4IncToday = await stratPerfPredictions(this.Robinhood, true, 4, 2);
+        const uniq4IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 4, 2);
+        const uniq10IncTodayCount6 = await stratPerfPredictions(this.Robinhood, true, 10, 6);
+        const uniq12Count5 = await stratPerfPredictions(this.Robinhood, true, 12, 5);
+        const uniqYesterday = await stratPerfPredictions(this.Robinhood, false, 1);
 
-
-        const stratPerf12Day = await stratPerfOverall(this.Robinhood, false, 12, 5);
-        const stratPerf3DayCount1 = await stratPerfOverall(this.Robinhood, false, 3, 1);
-        const stratPerf3DayCount2 = await stratPerfOverall(this.Robinhood, false, 3, 2);
-        const stratPerf2Day = await stratPerfOverall(this.Robinhood, false, 2);
-        const stratPerfDayBeforeYesterday = await stratPerfOverall(this.Robinhood, false, 1, 1, true);
-        const stratPerf2DayBeforeYesterday = await stratPerfOverall(this.Robinhood, false, 2, 1, true);
-        const stratPerfYesterday = await stratPerfOverall(this.Robinhood, false, 1);
+        const createPermsForObj = (set, name, stratPerf) => {
+            return Object.keys(stratPerf).reduce((acc, val) => ({
+                ...acc,
+                ...createPerms(set, `${name}-${val}`, stratPerf[val])
+            }), {});
+        };
 
         const filteredCount = trend => trend.filter(strat => {
             // console.log('STRATMAN', strat);
             return strat.count >= 5 && strat.count <= 6;
         });
+
         const curOverallPredictions = await predictCurrent();
         const curOverallFilteredPredictions = await predictCurrent(null, strategies => {
             return strategies.length > 3 && strategies.every(trend => trend > -1);
         });
-        const cur8DayPredictions = await predictCurrent(8);
-        const cur5DayPredictions = await predictCurrent(5);
-        const cur3DayPredictions = await predictCurrent(3);
-        console.log('calculate daysbeforeyest')
         const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
         const yesterdayPredictions = await predictCurrent(1);
         let strategies = {
-            // vip: strategiesEnabled.purchase,
-            ...createPerms([3, 1], '12DayByAvgPerc', mapNames(filteredCount(stratPerf12Day.sortedByAvgTrend))),
-            ...createPerms([3, 1], '12DayByPercUp', mapNames(filteredCount(stratPerf12Day.sortedByPercUp))),
-            // ...createPerms([10, 5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
-            // ...createPerms([10, 5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
-            // ...createPerms([10, 5, 3, 1], '3DayCount1ByAvgPerc', mapNames(stratPerf3DayCount1.sortedByAvgTrend)),
-            // ...createPerms([10, 5, 3, 1], '3DayCount1DayByPercUp', mapNames(stratPerf3DayCount1.sortedByPercUp)),
-            // ...createPerms([10, 5, 3, 1], '3DayCount2ByAvgPerc', mapNames(stratPerf3DayCount2.sortedByAvgTrend)),
-            // ...createPerms([10, 5, 3, 1], '3DayCount2ByPercUp', mapNames(stratPerf3DayCount2.sortedByPercUp)),
-            // ...createPerms([10, 5, 3, 1], '2DayByAvgPerc', mapNames(stratPerf2Day.sortedByAvgTrend)),
-            // ...createPerms([10, 5, 3, 1], '2DayByPercUp', mapNames(stratPerf2Day.sortedByPercUp)),
-            ...createPerms([10, 5, 3, 1], 'YesterdayByAvgPerc', mapNames(stratPerfYesterday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3, 1], 'YesterdayByPercUp', mapNames(stratPerfYesterday.sortedByPercUp)),
 
-            ...createPerms([10, 5, 3, 1], 'dayBeforeYesterdayByAvgPerc', mapNames(stratPerfDayBeforeYesterday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3, 1], 'dayBeforeYesterdayByPercUp', mapNames(stratPerfDayBeforeYesterday.sortedByPercUp)),
-            ...createPerms([10, 5, 3, 1], '2DayBeforeYesterdayByAvgPerc', mapNames(stratPerf2DayBeforeYesterday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3, 1], '2DayBeforeYesterdayByPercUp', mapNames(stratPerf2DayBeforeYesterday.sortedByPercUp)),
+            ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
+            ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
+            ...createPermsForObj([10, 5, 3, 1], '4IncToday', uniq4IncToday),
+            ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount2', uniq4IncTodayCount2),
 
-            ...createPerms([5, 3, 1], '5DayByAvgPerc', mapNames(stratPerfData.sortedByAvgTrend)),
-            ...createPerms([5, 3, 1], '5DayByPercUp', mapNames(stratPerfData.sortedByPercUp)),
-
-            // including todays
-            ...createPerms([10, 5, 3], 'stratPerf4IncTodayAvgPerc', mapNames(stratPerf4IncToday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3], 'stratPerf4IncTodayPercUp', mapNames(stratPerf4IncToday.sortedByPercUp)),
-            ...createPerms([10, 5, 3], 'stratPerf2IncTodayAvgPerc', mapNames(stratPerf2IncToday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3], 'stratPerf2IncTodayPercUp', mapNames(stratPerf2IncToday.sortedByPercUp)),
-            ...createPerms([10, 5, 3], 'stratPerf10IncTodayAvgPerc', mapNames(stratPerf10IncToday.sortedByAvgTrend)),
-            ...createPerms([10, 5, 3], 'stratPerf10IncTodayPercUp', mapNames(stratPerf10IncToday.sortedByPercUp)),
+            ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount6', uniq10IncTodayCount6),
+            ...createPermsForObj([10, 5, 3, 1], '12Count5', uniq12Count5),
+            ...createPermsForObj([10, 5, 3, 1], 'Yesterday', uniqYesterday),
 
             ...strategiesEnabled.extras,
 
-
-
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curOverallPredictions.myPredictions),
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
-            ...createPerms([10, 5, 3, 1], 'myFilteredPredictionModel', curOverallFilteredPredictions.myPredictions),
-            ...createPerms([10, 5, 3, 1], 'brainFilteredPredictionModel-', curOverallFilteredPredictions.brainPredictions),
 
 
-            ...createPerms([5, 3, 1], 'dayBeforeYesterdaymyPredictionModel', dayBeforeYesterdayPredictions.myPredictions),
-            ...createPerms([5, 3, 1], 'dayBeforeYesterdaybrainPredictionModel-', dayBeforeYesterdayPredictions.brainPredictions),
+            ...createPermsForObj([10, 5, 3, 1], 'curOverallPredictions', curOverallPredictions),
+            ...createPermsForObj([10, 5, 3, 1], 'curOverallFilteredPredictions', curOverallFilteredPredictions),
+            ...createPermsForObj([10, 5, 3, 1], 'dayBeforeYesterdayPredictions', dayBeforeYesterdayPredictions),
+            ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
 
-            ...createPerms([5, 3, 1], 'yesterdayMyPredictionModel', yesterdayPredictions.myPredictions),
-            ...createPerms([5, 3, 1], 'yesterdayBrainPredictionModel-', yesterdayPredictions.brainPredictions),
-
-
-
-
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-8day-', cur8DayPredictions.myPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-8day-', cur8DayPredictions.brainPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-5-day-', cur5DayPredictions.myPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-5-day-', cur5DayPredictions.brainPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel-3-day-', cur3DayPredictions.myPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-3-day-', cur3DayPredictions.brainPredictions),
         };
 
         return {
@@ -328,7 +294,7 @@ const stratManager = {
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
         console.log('done getting related prices');
-        console.log(JSON.stringify(relatedPrices, null, 2));
+        // console.log(JSON.stringify(relatedPrices, null, 2));
     }
 };
 

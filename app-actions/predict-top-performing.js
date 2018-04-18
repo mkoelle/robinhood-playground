@@ -2,7 +2,35 @@ const brain = require('brain.js');
 const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
-const mapLimit = require('map-limit');
+const stratPerfOverall = require('../analysis/strategy-perf-overall');
+const stringSimilarity = require('string-similarity');
+
+
+const uniqifyArray = arrayOfStrategies => {
+    return arrayOfStrategies.reduce((acc, val) => {
+        const shouldInclude = acc.every(strat => {
+            return stringSimilarity.compareTwoStrings(strat, val) < 0.5;
+        });
+        return shouldInclude ? acc.concat(val) : acc;
+    }, []);
+};
+
+const uniqifyObj = obj => {
+    return Object.keys(obj).reduce((acc, val) => {
+        if (!obj[val][0]) {
+            console.log('UH OH');
+            console.log(obj[val], 'val');
+            console.log(obj);
+        }
+        const allStrategyNames = obj[val].map(stratObj => stratObj.name);
+        return {
+            ...acc,
+            [val]: allStrategyNames,
+            [`${val}-uniq`]: uniqifyArray(allStrategyNames)
+        };
+    }, {});
+};
+
 
 const predictForDays = async (days, filterFn) => {
 
@@ -65,7 +93,7 @@ const predictForDays = async (days, filterFn) => {
                 .reduce((a, b) => a.concat(b), [])
             console.log(i+1, '/', toPredict.length)
             return {
-                stratName,
+                name: stratName,
                 myPrediction: avgArray(weighted),
                 // brainPrediction: predictStrategy(stratPerfsTrend[stratName]),
                 trend: weighted
@@ -77,14 +105,10 @@ const predictForDays = async (days, filterFn) => {
     return {
         myPredictions: allPredictions
             .slice(0)
-            .sort((a, b) => Number(b.myPrediction) - Number(a.myPrediction))
-            .slice(0, 50)
-            .map(pred => pred.stratName),
+            .sort((a, b) => Number(b.myPrediction) - Number(a.myPrediction)),
         brainPredictions: allPredictions
             .slice(0)
             .sort((a, b) => Number(b.brainPrediction) - Number(a.brainPrediction))
-            .slice(0, 50)
-            .map(pred => pred.stratName)
     };
 
 };
@@ -96,21 +120,12 @@ module.exports = {
         let allDays = await fs.readdir(`./strat-perfs`);
         if (skipYesterday) allDays.pop();
         const forDays = numDays ? allDays.slice(0 - numDays) : allDays;
-        return await predictForDays(forDays, filterFn)
+        const prediction = await predictForDays(forDays, filterFn);
+        return uniqifyObj(prediction);
     },
     stratPerfPredictions: async (Robinhood, includeToday, numDays, minCount) => {
         const stratPerfData = await stratPerfOverall(this.Robinhood, includeToday, numDays, minCount);
-        return Object.keys(stratPerfData).reduce(async (acc, val) => {
-            return {
-                ...acc,
-                [val]: (() => {
-                    const allStrategyNames = stratPerfData[val].map(stratObj => stratObj.name);
-                    return allStrategyNames.reduce((acc, val) => {
-                        const shouldInclude = acc.every(strat => compareTwoStrings(strat, val) < 0.5);
-                        return shouldInclude ? acc.concat(val) : acc;
-                    }, []);
-                })()
-            }
-        }, {});
+        console.log('keys', Object.keys(stratPerfData));
+        return uniqifyObj(stratPerfData);
     }
 }
