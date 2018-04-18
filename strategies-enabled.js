@@ -34,7 +34,7 @@ const forPurchase = [
     '[curOverallFilteredPredictions-myPredictions-uniq-first10]',
     '[curOverallPredictions-myPredictions-first3]',
 
-    '[short3Day]'
+    '[short3Day]',
     '[goodTodayBad5day]'
 ];
 
