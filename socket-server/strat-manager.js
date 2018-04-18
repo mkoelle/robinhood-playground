@@ -257,7 +257,7 @@ const stratManager = {
         return {
             ...strategies,
             forPurchase: flatten(strategiesEnabled.forPurchase.map(strat => {
-                return strat.startsWith('[') ? strategies[strat.substring(1, strat.length - 1)] : strat;
+                return strat && strat.startsWith('[') ? strategies[strat.substring(1, strat.length - 1)] : strat;
             }))
         };
     },
