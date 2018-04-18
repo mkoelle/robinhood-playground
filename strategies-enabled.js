@@ -24,14 +24,17 @@ const goodTodayBad5day = [
 const forPurchase = [
     '[my actual random selection]',
     '[my actual random selection]',
+    '[my actual random selection]',
+    '[my actual random selection]',
 
     '[5dayCount2-sortedByPercUp-uniq-first5]',
+    '[curOverallPredictions-brainPredictions-first1]',
     '[curOverallPredictions-brainPredictions-first1]',
     '[curOverallPredictions-brainPredictions-uniq-first3]',
     '[curOverallFilteredPredictions-myPredictions-uniq-first10]',
     '[curOverallPredictions-myPredictions-first3]',
 
-    ...short3Day
+    '[short3Day]'
 ];
 
 module.exports = {
