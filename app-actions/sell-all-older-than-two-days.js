@@ -21,7 +21,7 @@ module.exports = async Robinhood => {
     console.log(withAge, 'total', olderThanTwoDays.length, 'olderThanTwoDay');
 
     const sellIt = async pos => {
-        const sellRatio = (pos.dayAge === 1) ? 0.5 : 1;
+        const sellRatio = (pos.dayAge === 2) ? 0.5 : 1;
         console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
         const numSharesToSell = Math.ceil(pos.quantity * sellRatio);
         try {
