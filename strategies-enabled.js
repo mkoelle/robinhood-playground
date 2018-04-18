@@ -35,6 +35,7 @@ const forPurchase = [
     '[curOverallPredictions-myPredictions-first3]',
 
     '[short3Day]'
+    '[goodTodayBad5day]'
 ];
 
 module.exports = {

@@ -3,7 +3,7 @@
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
 const logPortfolioValue = require('../app-actions/log-portfolio-value');
 const { default: recordStratPerfs } = require('../app-actions/record-strat-perfs');
-const sellAllOlderThanOneDay = require('../app-actions/sell-all-older-than-one-day');
+const sellAllOlderThanTwoDays = require('../app-actions/sell-all-older-than-two-days');
 
 // utils
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
@@ -18,26 +18,26 @@ const getAllTickers = require('../rh-actions/get-all-tickers');
 const stratManager = require('../socket-server/strat-manager');
 
 const additionalCronConfig = [
-    {
-        name: 'sell all stocks',
-        run: [8],
-        fn: (Robinhood) => {
-
-            setTimeout(async () => {
-                // daily at 6:30AM + 4 seconds
-                // await sellAllStocks(Robinhood);
-                // console.log('done selling all');
-                //
-                // timeoutPromise(5000);
-                console.log('selling all stocks that went up');
-                await sellAllIfWentUp(Robinhood);
-                // console.log('logging portfolio value');
-                // await logPortfolioValue(Robinhood);
-
-            }, 8);
-
-        }
-    },
+    // {
+    //     name: 'sell all stocks',
+    //     run: [8],
+    //     fn: (Robinhood) => {
+    //
+    //         setTimeout(async () => {
+    //             // daily at 6:30AM + 4 seconds
+    //             // await sellAllStocks(Robinhood);
+    //             // console.log('done selling all');
+    //             //
+    //             // timeoutPromise(5000);
+    //             console.log('selling all stocks that went up');
+    //             await sellAllIfWentUp(Robinhood);
+    //             // console.log('logging portfolio value');
+    //             // await logPortfolioValue(Robinhood);
+    //
+    //         }, 8);
+    //
+    //     }
+    // },
     // sell all if went up
     {
         name: 'sellAllIfWentUp',
@@ -76,12 +76,12 @@ const additionalCronConfig = [
         run: [85, 230, 330],
         fn: recordStratPerfs
     },
-
-    // {
-    //     name: 'sell all if older than a day',
-    //     run: [80],
-    //     fn: sellAllOlderThanOneDay
-    // },
+    //sellAllOlderThanTwoDays
+    {
+        name: 'sell all if older than two days',
+        run: [368],
+        fn: sellAllOlderThanTwoDays
+    },
     {
         name: 'getAllTickers',
         run: [1020],

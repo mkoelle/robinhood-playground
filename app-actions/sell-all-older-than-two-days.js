@@ -16,12 +16,12 @@ module.exports = async Robinhood => {
         dayAge: daysBetween(new Date(), new Date(pos.created_at))
     }));
 
-    const olderThanADay = withAge.filter(pos => pos.dayAge > 0);
+    const olderThanTwoDays = withAge.filter(pos => pos.dayAge >= 2);
 
-    console.log(nonzero.length, 'total', olderThanADay.length, 'olderThanADay');
+    console.log(nonzero.length, 'total', olderThanADay.length, 'olderThanTwoDay');
 
-    const results = mapLimit(olderThanADay, 3, async pos => {
-        const sellRatio = (pos.dayAge === 1 && true) ? 0.5 : 1;
+    const results = mapLimit(olderThanTwoDays, 3, async pos => {
+        const sellRatio = (pos.dayAge === 2) ? 0.5 : 1;
         console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
         const numSharesToSell = Math.ceil(pos.quantity * sellRatio);
         try {
@@ -32,7 +32,7 @@ module.exports = async Robinhood => {
                     quantity: numSharesToSell
                 }
             );
-            console.log('sold because olderThanADay', pos.symbol);
+            console.log('sold because olderThanTwoDays', pos.symbol);
         } catch (e) {
             console.log('more err', e);
         }
