@@ -1,0 +1,80 @@
+{
+  "40": [
+    {
+      "ticker": "CHEK",
+      "price": 5.94
+    },
+    {
+      "ticker": "IFON",
+      "price": 5.73
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.43
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IFON",
+      "price": 6.02
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.5241
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKTS",
+      "price": 5.525
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.69
+    },
+    {
+      "ticker": "NVTA",
+      "price": 5.915
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VUZI",
+      "price": 6.5333
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.72
+    },
+    {
+      "ticker": "WTI",
+      "price": 5.09
+    }
+  ],
+  "198": [
+    {
+      "ticker": "INSY",
+      "price": 6.84
+    },
+    {
+      "ticker": "CRK",
+      "price": 5.1635
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INSY",
+      "price": 6.8399
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WTI",
+      "price": 5.2001
+    }
+  ]
+}

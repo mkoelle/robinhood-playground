@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "OMEX",
+      "price": 11.3852
+    },
+    {
+      "ticker": "CBI",
+      "price": 14.828
+    }
+  ],
+  "63": [
+    {
+      "ticker": "DZSI",
+      "price": 10.861
+    },
+    {
+      "ticker": "PZE",
+      "price": 11.1
+    }
+  ],
+  "221": [
+    {
+      "ticker": "PZN",
+      "price": 10
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.7032
+    }
+  ],
+  "328": [
+    {
+      "ticker": "OMEX",
+      "price": 10.51
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.725
+    }
+  ],
+  "388": [
+    {
+      "ticker": "CUE",
+      "price": 13.76
+    },
+    {
+      "ticker": "PBPB",
+      "price": 11.5
+    }
+  ]
+}

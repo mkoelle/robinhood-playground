@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4224
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.72
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.13
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SPI",
+      "price": 0.5631
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.0205
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.527
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SPI",
+      "price": 0.57
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.02
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2084
+    }
+  ]
+}

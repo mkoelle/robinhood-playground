@@ -4,7 +4,7 @@ const { CronJob } = require('cron');
 const fs = require('mz/fs');
 const strategiesEnabled = require('../strategies-enabled');
 const stratPerfOverall = require('../analysis/strategy-perf-overall');
-const { predictCurrent } = require('../app-actions/predict-top-performing');
+const { predictCurrent, stratPerfPredictions } = require('../app-actions/predict-top-performing');
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 const sendEmail = require('../utils/send-email');
@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`27 6 * * *`, () => this.newDay, null, true);
+        new CronJob(`28 6 * * *`, () => this.newDay, null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -122,39 +122,51 @@ const stratManager = {
         this.picks = picks;
     },
     async sendStrategyReport() {
+        console.log('sending strategy report');
         // console.log('STRATS HERE', this.strategies);
         const strategyReport = Object.entries(this.strategies).map(entry => {
             const [ stratName, trends ] = entry;
             console.log('stratname', stratName);
             console.log(trends, 'trends');
-            const foundStrategies = trends.map(stratMin => {
-                const foundStrategy = this.picks.find(pick => pick.stratMin === stratMin);
-                // console.log('foundStrategy', foundStrategy);
-                if (!foundStrategy) return null;
-                const { withPrices } = foundStrategy;
-                const withTrend = withPrices.map(stratObj => {
-                    const nowPrice = this.relatedPrices[stratObj.ticker].lastTradePrice;
-                    return {
-                        ticker: stratObj.ticker,
-                        thenPrice: stratObj.price,
-                        nowPrice,
-                        trend: getTrend(nowPrice, stratObj.price)
-                    };
+            // const foundStrategies = trends
+            //     .filter(stratMin => {
+            //         return stratMin.withPrices;
+            //     });
+            // console.log('found count', foundStrategies.length);
+            let foundStrategies = trends
+                .map(stratMin => {
+                    const foundStrategy = this.picks.find(pick => pick.stratMin === stratMin);
+                    console.log('foundStrategy', foundStrategy);
+                    if (!foundStrategy) return null;
+                    console.log('found strategy', foundStrategy);
+                    const { withPrices } = foundStrategy;
+                    if (typeof withPrices[0] === 'string') return;
+                    console.log('withprices', withPrices);
+                    const withTrend = withPrices.map(stratObj => {
+                        console.log('stratobj', stratObj);
+                        const { lastTradePrice, afterHourPrice } = this.relatedPrices[stratObj.ticker];
+                        const nowPrice = afterHourPrice || lastTradePrice;
+                        return {
+                            ticker: stratObj.ticker,
+                            thenPrice: stratObj.price,
+                            nowPrice,
+                            trend: getTrend(nowPrice, stratObj.price)
+                        };
+                    });
+                    const avgTrend = avgArray(
+                        withTrend.map(obj => obj.trend)
+                    );
+                    // console.log('avg', avgTrend);
+                    return avgTrend;
                 });
-                const avgTrend = avgArray(
-                    withTrend.map(obj => obj.trend)
-                );
-                // console.log('avg', avgTrend);
-                return avgTrend;
-            });
             const overallAvg = avgArray(foundStrategies.filter(val => !!val));
-            // console.log('overall', overallAvg);
+            console.log(stratName, 'overall', overallAvg);
             return {
                 stratName,
                 avgTrend: overallAvg
             };
         }).filter(t => !!t.avgTrend).sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend))
-
+        console.log('stratrepo', strategyReport);
         const emailFormatted = strategyReport.map(strat => {
             return `${strat.avgTrend.toFixed(2)}% ${strat.stratName}`;
         }).join('\n');
@@ -180,6 +192,7 @@ const stratManager = {
         await this.setPastData(stratPerfData);
     },
     async createPredictionModels() {
+
         const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
         const mapNames = strats => strats.map(({ name }) => name);
         const getFirstN = (strats, n) => strats.slice(0, n);
@@ -275,13 +288,12 @@ const stratManager = {
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-3-day-', cur3DayPredictions.brainPredictions),
         };
 
-        strategies = {
+        return {
             ...strategies,
             forPurchase: flatten(strategiesEnabled.forPurchase.map(strat => {
-                return strategies[strat.substring(1, strat.length - 1)];
+                return strat.startsWith('[') ? strategies[strat.substring(1, strat.length - 1)] : strat;
             }))
         };
-        return strategies;
     },
     async setPastData(stratPerfData) {
         const stratPerfObj = {};
@@ -316,6 +328,7 @@ const stratManager = {
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
         console.log('done getting related prices');
+        console.log(JSON.stringify(relatedPrices, null, 2));
     }
 };
 

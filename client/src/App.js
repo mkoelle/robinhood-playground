@@ -51,7 +51,7 @@ class Pick extends Component {
                         </thead>
                         <tbody>
                             {
-                                pick.withTrend.map(tickerObj => (
+                                pick.withTrend.filter(val => !!val).map(tickerObj => (
                                     <tr>
                                         <td>{tickerObj.ticker}</td>
                                         <td>{tickerObj.thenPrice}</td>

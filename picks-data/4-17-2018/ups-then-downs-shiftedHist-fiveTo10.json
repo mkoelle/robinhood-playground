@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "HIHO",
+      "price": 5.795
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.46
+    },
+    {
+      "ticker": "SND",
+      "price": 6.44
+    },
+    {
+      "ticker": "PTIE",
+      "price": 8.2001
+    }
+  ],
+  "50": [
+    {
+      "ticker": "HIHO",
+      "price": 5.85
+    },
+    {
+      "ticker": "NETE",
+      "price": 9.15
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.57
+    },
+    {
+      "ticker": "SND",
+      "price": 6.4
+    },
+    {
+      "ticker": "PTIE",
+      "price": 8.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HIHO",
+      "price": 5.825
+    },
+    {
+      "ticker": "NETE",
+      "price": 9.0101
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.41
+    },
+    {
+      "ticker": "SND",
+      "price": 6.3601
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RIOT",
+      "price": 7.3396
+    },
+    {
+      "ticker": "SND",
+      "price": 6.3149
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SND",
+      "price": 6.315
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SND",
+      "price": 6.29
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "OMER",
+      "price": 14.4
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.5105
+    },
+    {
+      "ticker": "GE",
+      "price": 13.74
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OMER",
+      "price": 14.66
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.5
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMER",
+      "price": 14.75
+    },
+    {
+      "ticker": "QD",
+      "price": 11.02
+    },
+    {
+      "ticker": "CLSD",
+      "price": 11.11
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OMER",
+      "price": 14.83
+    },
+    {
+      "ticker": "CLSD",
+      "price": 11.21
+    },
+    {
+      "ticker": "QD",
+      "price": 10.87
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CLSD",
+      "price": 11.28
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.87
+    },
+    {
+      "ticker": "EXTR",
+      "price": 10.88
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CLSD",
+      "price": 11.28
+    },
+    {
+      "ticker": "EXTR",
+      "price": 10.89
+    },
+    {
+      "ticker": "GE",
+      "price": 13.785
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLSD",
+      "price": 11.37
+    },
+    {
+      "ticker": "GE",
+      "price": 13.785
+    },
+    {
+      "ticker": "CORI",
+      "price": 10.89
+    }
+  ]
+}

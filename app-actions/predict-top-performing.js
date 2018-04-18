@@ -2,6 +2,7 @@ const brain = require('brain.js');
 const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
+const mapLimit = require('map-limit');
 
 const predictForDays = async (days, filterFn) => {
 
@@ -96,5 +97,20 @@ module.exports = {
         if (skipYesterday) allDays.pop();
         const forDays = numDays ? allDays.slice(0 - numDays) : allDays;
         return await predictForDays(forDays, filterFn)
+    },
+    stratPerfPredictions: async (Robinhood, includeToday, numDays, minCount) => {
+        const stratPerfData = await stratPerfOverall(this.Robinhood, includeToday, numDays, minCount);
+        return Object.keys(stratPerfData).reduce(async (acc, val) => {
+            return {
+                ...acc,
+                [val]: (() => {
+                    const allStrategyNames = stratPerfData[val].map(stratObj => stratObj.name);
+                    return allStrategyNames.reduce((acc, val) => {
+                        const shouldInclude = acc.every(strat => compareTwoStrings(strat, val) < 0.5);
+                        return shouldInclude ? acc.concat(val) : acc;
+                    }, []);
+                })()
+            }
+        }, {});
     }
 }

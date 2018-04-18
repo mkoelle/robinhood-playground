@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 9.5267
+    },
+    {
+      "ticker": "TELL",
+      "price": 9.325
+    },
+    {
+      "ticker": "P",
+      "price": 5.265
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ECYT",
+      "price": 9.6148
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.2
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.5241
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 9.69
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.45
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.805
+    }
+  ],
+  "140": [
+    {
+      "ticker": "I",
+      "price": 8.85
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.445
+    },
+    {
+      "ticker": "S",
+      "price": 6.015
+    }
+  ],
+  "198": [
+    {
+      "ticker": "I",
+      "price": 9.0901
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.855
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.4
+    }
+  ],
+  "250": [
+    {
+      "ticker": "I",
+      "price": 8.9913
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.86
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.645
+    }
+  ],
+  "300": [
+    {
+      "ticker": "I",
+      "price": 8.84
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.855
+    },
+    {
+      "ticker": "CLF",
+      "price": 6.89
+    }
+  ]
+}

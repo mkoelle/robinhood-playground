@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "IEC",
+      "price": 4.38
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.56
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IEC",
+      "price": 4.38
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7297
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IEC",
+      "price": 4.47
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.63
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DLPN",
+      "price": 2.85
+    },
+    {
+      "ticker": "IEC",
+      "price": 4.41
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DLPN",
+      "price": 2.85
+    },
+    {
+      "ticker": "IEC",
+      "price": 4.41
+    },
+    {
+      "ticker": "ELSE",
+      "price": 4.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "SMED",
+      "price": 4.7423
+    },
+    {
+      "ticker": "IEC",
+      "price": 4.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DLPN",
+      "price": 3
+    },
+    {
+      "ticker": "SMED",
+      "price": 4.7423
+    },
+    {
+      "ticker": "IEC",
+      "price": 4.47
+    }
+  ]
+}

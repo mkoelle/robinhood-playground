@@ -1,0 +1,38 @@
+{
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 5.265
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.95
+    },
+    {
+      "ticker": "SHSP",
+      "price": 6.63
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.1853
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 5.27
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.64
+    },
+    {
+      "ticker": "SHSP",
+      "price": 6.63
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.17
+    }
+  ]
+}

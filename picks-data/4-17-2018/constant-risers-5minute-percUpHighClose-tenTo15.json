@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "EXTR",
+      "price": 10.63
+    },
+    {
+      "ticker": "BB",
+      "price": 10.75
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.094
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IMGN",
+      "price": 10.61
+    },
+    {
+      "ticker": "AMD",
+      "price": 10.39
+    },
+    {
+      "ticker": "BB",
+      "price": 10.745
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.78
+    },
+    {
+      "ticker": "BB",
+      "price": 10.74
+    },
+    {
+      "ticker": "SNAP",
+      "price": 14.77
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMD",
+      "price": 10.49
+    },
+    {
+      "ticker": "GE",
+      "price": 13.7606
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.74
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AMD",
+      "price": 10.4338
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.87
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.015
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMD",
+      "price": 10.45
+    },
+    {
+      "ticker": "GE",
+      "price": 13.785
+    },
+    {
+      "ticker": "AES",
+      "price": 11.7
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 10.4601
+    },
+    {
+      "ticker": "GE",
+      "price": 13.785
+    },
+    {
+      "ticker": "AES",
+      "price": 11.755
+    }
+  ]
+}

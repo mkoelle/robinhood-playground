@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "JILL",
+      "price": 5.43
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.27
+    }
+  ],
+  "80": [
+    {
+      "ticker": "JILL",
+      "price": 5.5241
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JILL",
+      "price": 5.45
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.525
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JILL",
+      "price": 5.445
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.36
+    }
+  ],
+  "198": [
+    {
+      "ticker": "JILL",
+      "price": 5.4
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.26
+    }
+  ],
+  "250": [
+    {
+      "ticker": "JILL",
+      "price": 5.3449
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.32
+    }
+  ],
+  "300": [
+    {
+      "ticker": "JILL",
+      "price": 5.3163
+    },
+    {
+      "ticker": "AKTS",
+      "price": 5.27
+    }
+  ]
+}

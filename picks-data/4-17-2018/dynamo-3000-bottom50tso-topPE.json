@@ -1,0 +1,71 @@
+{
+  "4": [
+    {
+      "ticker": "SIFY",
+      "price": 2.0765
+    },
+    {
+      "ticker": "SKYS",
+      "price": 1.2308
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TYHT",
+      "price": 1.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ISNS",
+      "price": 4.7595
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.6
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PME",
+      "price": 3.7824
+    }
+  ],
+  "260": [],
+  "351": [
+    {
+      "ticker": "ISNS",
+      "price": 4.7151
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.74
+    },
+    {
+      "ticker": "VISI",
+      "price": 2.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ISNS",
+      "price": 4.68
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.74
+    },
+    {
+      "ticker": "VISI",
+      "price": 2.775
+    }
+  ]
+}

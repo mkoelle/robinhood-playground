@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "I",
+      "price": 8.56
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.64
+    }
+  ],
+  "63": [
+    {
+      "ticker": "CPIX",
+      "price": 6.67
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.3
+    }
+  ],
+  "221": [
+    {
+      "ticker": "ASPU",
+      "price": 7.0001
+    },
+    {
+      "ticker": "DHCP",
+      "price": 7.2308
+    }
+  ],
+  "328": [
+    {
+      "ticker": "CSSE",
+      "price": 6.94
+    },
+    {
+      "ticker": "TRIL",
+      "price": 7.4
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EDGW",
+      "price": 5.46
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.0826
+    }
+  ]
+}

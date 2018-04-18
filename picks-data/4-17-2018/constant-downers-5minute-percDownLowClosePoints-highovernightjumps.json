@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CNET",
+      "price": 3.4348
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.0241
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.59
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SPI",
+      "price": 0.5631
+    },
+    {
+      "ticker": "CNET",
+      "price": 3.52
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.0205
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CNET",
+      "price": 3.2991
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.57
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.02
+    }
+  ]
+}

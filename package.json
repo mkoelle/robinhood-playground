@@ -29,6 +29,7 @@
     "retriable-promise": "^1.0.0",
     "robinhood": "^1.1.2",
     "socket.io": "^2.0.4",
+    "string-similarity": "^1.2.0",
     "yahoo-stocks": "^2.0.1"
   }
 }

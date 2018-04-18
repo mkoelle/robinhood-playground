@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ADAP",
+      "price": 12.15
+    },
+    {
+      "ticker": "KN",
+      "price": 12.235
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.775
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SOXS",
+      "price": 11.05
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.74
+    },
+    {
+      "ticker": "KN",
+      "price": 12.0052
+    }
+  ],
+  "309": [
+    {
+      "ticker": "UVXY",
+      "price": 14.6
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.95
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.7
+    }
+  ]
+}

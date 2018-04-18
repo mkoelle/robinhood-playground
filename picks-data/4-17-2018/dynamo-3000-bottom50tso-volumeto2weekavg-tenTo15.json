@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "MTLS",
+      "price": 11.75
+    },
+    {
+      "ticker": "SLDB",
+      "price": 10.32
+    },
+    {
+      "ticker": "LMLP",
+      "price": 14.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FENC",
+      "price": 13.4131
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.985
+    },
+    {
+      "ticker": "SIEN",
+      "price": 10.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FENC",
+      "price": 13.0984
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.73
+    },
+    {
+      "ticker": "DRV",
+      "price": 12.5008
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 14.8961
+    },
+    {
+      "ticker": "CDLX",
+      "price": 14.105
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 11.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMEX",
+      "price": 10.27
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.7662
+    },
+    {
+      "ticker": "PBPB",
+      "price": 11.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OMEX",
+      "price": 10.1
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.2764
+    },
+    {
+      "ticker": "IOR",
+      "price": 11.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 14.34
+    },
+    {
+      "ticker": "PBPB",
+      "price": 11.575
+    },
+    {
+      "ticker": "IOR",
+      "price": 11.4
+    }
+  ]
+}

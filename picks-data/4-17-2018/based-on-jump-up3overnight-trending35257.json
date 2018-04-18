@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "DNN",
+      "price": 0.51
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.68
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9668
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNN",
+      "price": 0.502
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.6782
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9411
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNN",
+      "price": 0.5098
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.6774
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9498
+    }
+  ]
+}

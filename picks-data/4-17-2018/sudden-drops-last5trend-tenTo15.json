@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "ADAP",
+      "price": 12.15
+    },
+    {
+      "ticker": "STAA",
+      "price": 14.35
+    }
+  ],
+  "63": [
+    {
+      "ticker": "ACMR",
+      "price": 12.3359
+    },
+    {
+      "ticker": "MRRL",
+      "price": 14.2799
+    }
+  ],
+  "221": [
+    {
+      "ticker": "OMEX",
+      "price": 10.7032
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.74
+    }
+  ],
+  "328": [
+    {
+      "ticker": "OMEX",
+      "price": 10.51
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.47
+    }
+  ],
+  "388": [
+    {
+      "ticker": "PHII",
+      "price": 11.4801
+    },
+    {
+      "ticker": "EIGR",
+      "price": 10.8
+    }
+  ]
+}

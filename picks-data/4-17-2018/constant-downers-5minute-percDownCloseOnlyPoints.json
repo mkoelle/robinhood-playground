@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPI",
+      "price": 0.59
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.29
+    },
+    {
+      "ticker": "HEAR",
+      "price": 3.9735
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SPI",
+      "price": 0.5631
+    },
+    {
+      "ticker": "APRN",
+      "price": 1.965
+    },
+    {
+      "ticker": "CNET",
+      "price": 3.52
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CNET",
+      "price": 3.2991
+    },
+    {
+      "ticker": "CGIX",
+      "price": 1.2942
+    },
+    {
+      "ticker": "SHLD",
+      "price": 3.099
+    }
+  ]
+}
