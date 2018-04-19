@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "RFIL",
+      "price": 5.5
+    },
+    {
+      "ticker": "ECYT",
+      "price": 9.72
+    }
+  ],
+  "63": [
+    {
+      "ticker": "RFIL",
+      "price": 5.4
+    },
+    {
+      "ticker": "LBY",
+      "price": 5.35
+    }
+  ],
+  "221": [
+    {
+      "ticker": "BRFS",
+      "price": 6.7
+    },
+    {
+      "ticker": "BLCM",
+      "price": 7.84
+    }
+  ],
+  "328": [
+    {
+      "ticker": "KONE",
+      "price": 5.76
+    },
+    {
+      "ticker": "WTI",
+      "price": 6
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EDGW",
+      "price": 5.645
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.05
+    }
+  ]
+}

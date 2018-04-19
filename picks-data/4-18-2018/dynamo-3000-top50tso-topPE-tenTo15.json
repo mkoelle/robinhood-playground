@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "DGII",
+      "price": 11.3
+    },
+    {
+      "ticker": "SLVP",
+      "price": 10.95
+    },
+    {
+      "ticker": "MHH",
+      "price": 12.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DGII",
+      "price": 11.45
+    },
+    {
+      "ticker": "SLVP",
+      "price": 11.03
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DGII",
+      "price": 11.6
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.59
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.1078
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EROS",
+      "price": 12.1
+    },
+    {
+      "ticker": "GOL",
+      "price": 13.45
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOL",
+      "price": 13.5601
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.6
+    },
+    {
+      "ticker": "AROC",
+      "price": 10.725
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GOL",
+      "price": 13.4
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.6
+    },
+    {
+      "ticker": "AMRK",
+      "price": 14.04
+    }
+  ]
+}

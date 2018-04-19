@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "FBM",
+      "price": 14.84
+    },
+    {
+      "ticker": "ASUR",
+      "price": 14.787
+    },
+    {
+      "ticker": "MMLP",
+      "price": 14.925
+    },
+    {
+      "ticker": "DPG",
+      "price": 14.512
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FBM",
+      "price": 14.89
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.6799
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.545
+    },
+    {
+      "ticker": "NLS",
+      "price": 14.175
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPHC",
+      "price": 14.7
+    },
+    {
+      "ticker": "ASUR",
+      "price": 15.06
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.99
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.73
+    },
+    {
+      "ticker": "LOOP",
+      "price": 14.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPHC",
+      "price": 14.7
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.88
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.7699
+    },
+    {
+      "ticker": "VDSI",
+      "price": 14.4
+    },
+    {
+      "ticker": "ANGI",
+      "price": 14.211
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPHC",
+      "price": 14.75
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.9
+    },
+    {
+      "ticker": "VDSI",
+      "price": 14.575
+    },
+    {
+      "ticker": "ANGI",
+      "price": 14.2
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPHC",
+      "price": 14.75
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.87
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 14.26
+    },
+    {
+      "ticker": "VDSI",
+      "price": 14.75
+    }
+  ]
+}

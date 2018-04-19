@@ -1,0 +1,112 @@
+{
+  "50": [
+    {
+      "ticker": "CLDC",
+      "price": 2.3252
+    },
+    {
+      "ticker": "LLIT",
+      "price": 2.54
+    },
+    {
+      "ticker": "SEAC",
+      "price": 2.985
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.75
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.4491
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLIT",
+      "price": 2.63
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.15
+    },
+    {
+      "ticker": "SEAC",
+      "price": 3
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.7
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLDC",
+      "price": 2.2
+    },
+    {
+      "ticker": "LLIT",
+      "price": 2.59
+    },
+    {
+      "ticker": "HMNY",
+      "price": 4.0806
+    },
+    {
+      "ticker": "SEAC",
+      "price": 3.02
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.85
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CLDC",
+      "price": 2.2
+    },
+    {
+      "ticker": "LLIT",
+      "price": 2.6
+    },
+    {
+      "ticker": "SEAC",
+      "price": 3.035
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.6743
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.85
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CLDC",
+      "price": 2.2
+    },
+    {
+      "ticker": "LLIT",
+      "price": 2.6
+    },
+    {
+      "ticker": "SEAC",
+      "price": 3.03
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.85
+    },
+    {
+      "ticker": "CARV",
+      "price": 2.85
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "USLV",
+      "price": 11.54
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.1548
+    },
+    {
+      "ticker": "INWK",
+      "price": 10.01
+    },
+    {
+      "ticker": "GREK",
+      "price": 10.667
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMEX",
+      "price": 10.3627
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.175
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.085
+    },
+    {
+      "ticker": "INWK",
+      "price": 10.02
+    },
+    {
+      "ticker": "UCFC",
+      "price": 10.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    },
+    {
+      "ticker": "OAS",
+      "price": 10.09
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.45
+    },
+    {
+      "ticker": "UCFC",
+      "price": 10.28
+    },
+    {
+      "ticker": "SRCI",
+      "price": 10.645
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    },
+    {
+      "ticker": "OAS",
+      "price": 10.3351
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.4016
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.105
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    },
+    {
+      "ticker": "OAS",
+      "price": 10.23
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.1616
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.155
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OAS",
+      "price": 10.185
+    },
+    {
+      "ticker": "OMEX",
+      "price": 10.0999
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.02
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.26
+    },
+    {
+      "ticker": "UCFC",
+      "price": 10.49
+    }
+  ]
+}

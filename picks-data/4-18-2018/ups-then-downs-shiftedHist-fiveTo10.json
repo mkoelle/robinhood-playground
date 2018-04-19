@@ -1,0 +1,72 @@
+{
+  "50": [
+    {
+      "ticker": "EGC",
+      "price": 5.9404
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGC",
+      "price": 6.01
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.135
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.83
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EGC",
+      "price": 5.985
+    },
+    {
+      "ticker": "RFIL",
+      "price": 5.7
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.115
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.995
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EGC",
+      "price": 5.9
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.065
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.97
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EGC",
+      "price": 5.9
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.06
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.9
+    }
+  ]
+}

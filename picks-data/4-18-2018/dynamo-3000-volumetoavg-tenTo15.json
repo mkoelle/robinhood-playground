@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "MTG",
+      "price": 10.48
+    },
+    {
+      "ticker": "EMD",
+      "price": 14.5367
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.9012
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTG",
+      "price": 10.3792
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.8755
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MTG",
+      "price": 10.09
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.0499
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.195
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MTG",
+      "price": 10.29
+    },
+    {
+      "ticker": "LVL",
+      "price": 11.03
+    },
+    {
+      "ticker": "NMIH",
+      "price": 13.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MTG",
+      "price": 10.3389
+    },
+    {
+      "ticker": "VMO",
+      "price": 11.6775
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.151
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MTG",
+      "price": 10.46
+    },
+    {
+      "ticker": "NID",
+      "price": 12.38
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.15
+    }
+  ]
+}

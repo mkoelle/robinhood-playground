@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "VTVT",
+      "price": 1.98
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.74
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.359
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VTVT",
+      "price": 2.37
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.805
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.9801
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTVT",
+      "price": 2.37
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.81
+    },
+    {
+      "ticker": "IZEA",
+      "price": 2.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VTVT",
+      "price": 2.4002
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.865
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.2058
+    }
+  ],
+  "198": [
+    {
+      "ticker": "VTVT",
+      "price": 2.175
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.3702
+    },
+    {
+      "ticker": "IZEA",
+      "price": 2.8051
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SDRL",
+      "price": 0.3813
+    },
+    {
+      "ticker": "IZEA",
+      "price": 3
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.85
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SDRL",
+      "price": 0.3447
+    },
+    {
+      "ticker": "IZEA",
+      "price": 2.9929
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.895
+    }
+  ]
+}

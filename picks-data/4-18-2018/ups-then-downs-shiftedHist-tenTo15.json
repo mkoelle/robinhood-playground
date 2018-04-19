@@ -1,0 +1,52 @@
+{
+  "50": [
+    {
+      "ticker": "OMEX",
+      "price": 10.15
+    },
+    {
+      "ticker": "SIEN",
+      "price": 10.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMEX",
+      "price": 10.45
+    },
+    {
+      "ticker": "SIEN",
+      "price": 11.34
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OMEX",
+      "price": 10.38
+    },
+    {
+      "ticker": "SIEN",
+      "price": 10.89
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OMEX",
+      "price": 10.01
+    },
+    {
+      "ticker": "SIEN",
+      "price": 11.1
+    }
+  ],
+  "600": [
+    {
+      "ticker": "OMEX",
+      "price": 10.12
+    },
+    {
+      "ticker": "SIEN",
+      "price": 11.05
+    }
+  ]
+}

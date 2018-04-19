@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "MTG",
+      "price": 10.49
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.7377
+    }
+  ],
+  "63": [
+    {
+      "ticker": "MTG",
+      "price": 10.23
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.64
+    }
+  ],
+  "221": [
+    {
+      "ticker": "CDXS",
+      "price": 11.275
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.9621
+    }
+  ],
+  "328": [
+    {
+      "ticker": "OMEX",
+      "price": 10.21
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.025
+    }
+  ],
+  "388": [
+    {
+      "ticker": "KRYS",
+      "price": 10.2775
+    },
+    {
+      "ticker": "BDD",
+      "price": 10.7429
+    }
+  ]
+}

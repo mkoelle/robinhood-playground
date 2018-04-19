@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BKCC",
+      "price": 6.37
+    },
+    {
+      "ticker": "USAT",
+      "price": 9.325
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.47
+    }
+  ],
+  "80": [
+    {
+      "ticker": "I",
+      "price": 8.91
+    },
+    {
+      "ticker": "ESND",
+      "price": 9.72
+    },
+    {
+      "ticker": "AU",
+      "price": 9.3652
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AG",
+      "price": 6.9717
+    },
+    {
+      "ticker": "EVRI",
+      "price": 6.4952
+    },
+    {
+      "ticker": "WTI",
+      "price": 5.6816
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMR",
+      "price": 7.53
+    },
+    {
+      "ticker": "FTD",
+      "price": 6.54
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.13
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AMR",
+      "price": 7.52
+    },
+    {
+      "ticker": "I",
+      "price": 9.07
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.2205
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HPR",
+      "price": 6.26
+    },
+    {
+      "ticker": "I",
+      "price": 9.275
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.57
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HPR",
+      "price": 6.3
+    },
+    {
+      "ticker": "AG",
+      "price": 6.95
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.085
+    }
+  ]
+}

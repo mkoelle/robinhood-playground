@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "SLVP",
+      "price": 10.95
+    },
+    {
+      "ticker": "ACSF",
+      "price": 11.35
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.3
+    },
+    {
+      "ticker": "INWK",
+      "price": 10.01
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SLVP",
+      "price": 11.03
+    },
+    {
+      "ticker": "GREK",
+      "price": 10.735
+    },
+    {
+      "ticker": "INWK",
+      "price": 10.02
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.47
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.915
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RST",
+      "price": 13.72
+    },
+    {
+      "ticker": "SRCI",
+      "price": 10.645
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.59
+    },
+    {
+      "ticker": "XOG",
+      "price": 13.51
+    },
+    {
+      "ticker": "CPE",
+      "price": 14.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AP",
+      "price": 11.25
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.88
+    },
+    {
+      "ticker": "RST",
+      "price": 13.7302
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.19
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MAG",
+      "price": 11.5001
+    },
+    {
+      "ticker": "PHII",
+      "price": 12.095
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.7399
+    },
+    {
+      "ticker": "PICO",
+      "price": 12.8
+    },
+    {
+      "ticker": "AROC",
+      "price": 10.725
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CISN",
+      "price": 13.765
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.43
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.87
+    },
+    {
+      "ticker": "PICO",
+      "price": 12.725
+    },
+    {
+      "ticker": "RST",
+      "price": 13.765
+    }
+  ]
+}

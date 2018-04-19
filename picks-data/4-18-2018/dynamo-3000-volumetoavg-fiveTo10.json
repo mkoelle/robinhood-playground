@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "CTG",
+      "price": 8.535
+    },
+    {
+      "ticker": "JASO",
+      "price": 6.995
+    },
+    {
+      "ticker": "NVIV",
+      "price": 8.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTG",
+      "price": 8.67
+    },
+    {
+      "ticker": "PHK",
+      "price": 7.7578
+    },
+    {
+      "ticker": "CALA",
+      "price": 6.6375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTG",
+      "price": 8.68
+    },
+    {
+      "ticker": "JQC",
+      "price": 8.015
+    },
+    {
+      "ticker": "CALA",
+      "price": 6.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVA",
+      "price": 7.14
+    },
+    {
+      "ticker": "NCA",
+      "price": 9.245
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.71
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVA",
+      "price": 7.24
+    },
+    {
+      "ticker": "IHIT",
+      "price": 9.8
+    },
+    {
+      "ticker": "CALA",
+      "price": 6.3595
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVA",
+      "price": 7.35
+    },
+    {
+      "ticker": "EVF",
+      "price": 6.8
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.74
+    }
+  ]
+}

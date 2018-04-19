@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "USAS",
+      "price": 4.0572
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXU",
+      "price": 1.65
+    },
+    {
+      "ticker": "USAS",
+      "price": 4.0951
+    },
+    {
+      "ticker": "MXC",
+      "price": 3.8008
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 3.45
+    },
+    {
+      "ticker": "GORO",
+      "price": 4.9775
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.22
+    },
+    {
+      "ticker": "MXC",
+      "price": 3.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GORO",
+      "price": 4.9701
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.21
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRX",
+      "price": 0.5363
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.54
+    },
+    {
+      "ticker": "MXC",
+      "price": 3.9808
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRX",
+      "price": 0.505
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.1999
+    },
+    {
+      "ticker": "MXC",
+      "price": 3.97
+    }
+  ]
+}

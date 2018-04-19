@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "CRK",
+      "price": 5.47
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.4899
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.27
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.86
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.82
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CRK",
+      "price": 5.34
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.48
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.9299
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.32
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.8501
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CRK",
+      "price": 5.31
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.45
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.32
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.49
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.19
+    }
+  ]
+}

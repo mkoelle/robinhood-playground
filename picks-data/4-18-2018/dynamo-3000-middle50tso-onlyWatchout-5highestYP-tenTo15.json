@@ -1,0 +1,58 @@
+{
+  "40": [
+    {
+      "ticker": "PBR.A",
+      "price": 12.66
+    },
+    {
+      "ticker": "QBAK",
+      "price": 10.9811
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QBAK",
+      "price": 10.9811
+    },
+    {
+      "ticker": "LSVX",
+      "price": 14.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OBSV",
+      "price": 13.3374
+    },
+    {
+      "ticker": "PBI",
+      "price": 10.93
+    },
+    {
+      "ticker": "NSH",
+      "price": 12.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OBSV",
+      "price": 13.3374
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OBSV",
+      "price": 13.335
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XNET",
+      "price": 12.61
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.955
+    }
+  ]
+}

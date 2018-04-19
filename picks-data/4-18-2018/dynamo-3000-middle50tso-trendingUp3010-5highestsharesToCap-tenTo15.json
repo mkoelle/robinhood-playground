@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "CTR",
+      "price": 10.87
+    },
+    {
+      "ticker": "SRV",
+      "price": 11.495
+    },
+    {
+      "ticker": "VTA",
+      "price": 11.79
+    },
+    {
+      "ticker": "AES",
+      "price": 11.77
+    },
+    {
+      "ticker": "GGZ",
+      "price": 12.2393
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OR",
+      "price": 10.13
+    },
+    {
+      "ticker": "RLH",
+      "price": 10.5033
+    },
+    {
+      "ticker": "SEA",
+      "price": 10.84
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.8755
+    },
+    {
+      "ticker": "CHI",
+      "price": 11.3908
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHS",
+      "price": 10.375
+    },
+    {
+      "ticker": "DNP",
+      "price": 10.765
+    },
+    {
+      "ticker": "DDF",
+      "price": 10.83
+    },
+    {
+      "ticker": "CHI",
+      "price": 11.4
+    },
+    {
+      "ticker": "VTA",
+      "price": 11.7942
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DDF",
+      "price": 10.83
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.93
+    },
+    {
+      "ticker": "BWP",
+      "price": 11.015
+    },
+    {
+      "ticker": "LVL",
+      "price": 11.03
+    },
+    {
+      "ticker": "GXG",
+      "price": 11.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOIL",
+      "price": 10.421
+    },
+    {
+      "ticker": "WSR",
+      "price": 10.825
+    },
+    {
+      "ticker": "LVL",
+      "price": 11.02
+    },
+    {
+      "ticker": "GXG",
+      "price": 11.49
+    },
+    {
+      "ticker": "WIA",
+      "price": 11.542
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WSR",
+      "price": 10.845
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.866
+    },
+    {
+      "ticker": "BWP",
+      "price": 11
+    },
+    {
+      "ticker": "LVL",
+      "price": 11.02
+    },
+    {
+      "ticker": "GXG",
+      "price": 11.49
+    }
+  ]
+}

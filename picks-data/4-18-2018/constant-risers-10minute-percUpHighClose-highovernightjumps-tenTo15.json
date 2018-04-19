@@ -1,0 +1,55 @@
+{
+  "40": [
+    {
+      "ticker": "USLV",
+      "price": 11.55
+    }
+  ],
+  "80": [],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 11.5152
+    }
+  ],
+  "140": [
+    {
+      "ticker": "USLV",
+      "price": 11.5365
+    },
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    }
+  ],
+  "198": [
+    {
+      "ticker": "USLV",
+      "price": 11.59
+    },
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    }
+  ],
+  "250": [
+    {
+      "ticker": "USLV",
+      "price": 11.52
+    },
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    }
+  ],
+  "300": [
+    {
+      "ticker": "USLV",
+      "price": 11.5432
+    },
+    {
+      "ticker": "BDD",
+      "price": 10.99
+    }
+  ]
+}

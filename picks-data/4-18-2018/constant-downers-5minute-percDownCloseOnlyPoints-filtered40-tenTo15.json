@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MIE",
+      "price": 10.01
+    },
+    {
+      "ticker": "FMO",
+      "price": 11.66
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.82
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RDNT",
+      "price": 14.1752
+    },
+    {
+      "ticker": "CEM",
+      "price": 13.76
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.02
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RDNT",
+      "price": 13.975
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.325
+    },
+    {
+      "ticker": "CHRS",
+      "price": 12.75
+    }
+  ]
+}

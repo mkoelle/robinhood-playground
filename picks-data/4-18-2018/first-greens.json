@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "CLDX",
+      "price": 0.7322
+    },
+    {
+      "ticker": "LEDS",
+      "price": 3.42
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.2847
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.528
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CLDX",
+      "price": 0.727
+    },
+    {
+      "ticker": "LEDS",
+      "price": 3.4406
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.275
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.2801
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.5363
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CLDX",
+      "price": 0.7261
+    },
+    {
+      "ticker": "LEDS",
+      "price": 3.46
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.2803
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.53
+    }
+  ]
+}

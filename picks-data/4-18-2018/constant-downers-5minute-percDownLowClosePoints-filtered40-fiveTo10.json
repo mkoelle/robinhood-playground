@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RFIL",
+      "price": 5.45
+    },
+    {
+      "ticker": "RFL",
+      "price": 6.45
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.5801
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CTG",
+      "price": 8.75
+    },
+    {
+      "ticker": "RFL",
+      "price": 6.51
+    },
+    {
+      "ticker": "ARDX",
+      "price": 5.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ARDX",
+      "price": 5.175
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.725
+    },
+    {
+      "ticker": "RFL",
+      "price": 6.5375
+    }
+  ]
+}
