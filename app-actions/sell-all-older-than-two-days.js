@@ -39,7 +39,7 @@ module.exports = async Robinhood => {
     };
 
     const results = mapLimit(olderThanTwoDays, 3, pos => {
-        const waitTime = Math.random() * 1000*60*30;
+        const waitTime = Math.random() * 1000*60*50;
         console.log('waiting', waitTime, 'for', pos.symbol);
         setTimeout(() => sellIt(pos), waitTime);
     });
