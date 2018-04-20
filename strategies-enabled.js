@@ -8,6 +8,8 @@ const forPurchase = [
     'based-on-jump-down3overnight-trending35257-5',
     'based-on-jump-down3overnight-trending35257-5',
     'based-on-jump-down3overnight-trending35257-16',
+    'based-on-jump-down3overnight-notWatchout-fiveTo10-5',
+    'sudden-drops-last10trend-fiveTo10-328',
     'based-on-jump-down3overnight-trending35257-notWatchout-fiveTo10-16',
     'based-on-jump-down3overnight-trending35257-notWatchout-fiveTo10-16',
     'based-on-jump-down3overnight-gtneg20percmax-fiveTo10-5',
@@ -15,14 +17,15 @@ const forPurchase = [
     'based-on-jump-down3overnight-trending35257-gtneg20percmax-5',
     'dynamo-3000-bottom50tso-trendingUp3010-5highestYP-fiveTo10-4',
     'sudden-drops-last10trend-221',
+    'sudden-drops-last10trend-221',
     'sudden-drops-last10trend-fiveTo10-328',
     'dynamo-3000-bottom50tso-notWatchout-5lowestTSO-200',
     'sudden-drops-last2trend-tenTo15-14',
     'dynamo-3000-top50tso-topPE-351',
     'up-streak-5days-ltneg3overnight-189',
-    'sudden-drops-last10trend-221',
     'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
-    'constant-downers-10minute-percDownLowClose-filtered40-77',
+    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
+    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
     'constant-downers-10minute-percDownLowClose-filtered40-77',
     'constant-downers-10minute-percDownLowClose-filtered40-77',
     'dynamo-3000-bottom50tso-overall-381',
@@ -34,14 +37,20 @@ const forPurchase = [
     'dynamo-3000-bottom50tso-trendingUp3010-5lowestsharesToCap-fiveTo10-4'
 ];
 
+const cheapestPicksEmailList = [
+    ['And', 're', 'wzouza@', 'gm', 'ail.com'].join(''),
+    ['ViperKi', 'ller847', '@a', 'ol.com'].join('')
+];
+
 module.exports = {
     forPurchase,
     // purchase: hotStrats,
     email: {
         [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: forPurchase,
-        [['ViperKi', 'ller847', '@a', 'ol.com'].join('')]: [
-            'cheapest-picks-chp50--4'
-        ]
+        ...cheapestPicksEmailList.reduce((acc, val) => ({
+            ...acc,
+            [val]: 'cheapest-picks-chp50--4'
+        }), {})
     },
     extras: {
         'wild n crazy': [
