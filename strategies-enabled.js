@@ -22,9 +22,11 @@ const forPurchase = [
 
     'null',
 
-    '[5day-sortedByPercUp-first3]',
-    '[4IncToday-sortedByPercUp-first5]',
-    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first3]',
+    '[5day-sortedByAvgTrend-first10]',
+    '[4IncTodayCount2-sortedByAvgTrend-uniq-first10]',
+    '[5dayCount2-sortedByAvgTrend-uniq-first10]',
+    '[4IncToday-sortedByAvgTrend-uniq-first5]',
+    '[10IncTodayCount6-sortedByAvgTrend-first10]',
 
     'null',
 

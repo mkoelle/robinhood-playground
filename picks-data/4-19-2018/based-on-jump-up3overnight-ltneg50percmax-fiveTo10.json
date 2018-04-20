@@ -1,0 +1,48 @@
+{
+  "5": [
+    {
+      "ticker": "BRFS",
+      "price": 7.25
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.27
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRFS",
+      "price": 7.26
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.26
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRFS",
+      "price": 7.38
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.5286
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.245
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.3
+    }
+  ]
+}

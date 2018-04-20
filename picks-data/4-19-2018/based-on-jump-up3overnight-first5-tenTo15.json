@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "SIEN",
+      "price": 12.21
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.18
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SIEN",
+      "price": 12.13
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.141
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIEN",
+      "price": 12
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.35
+    },
+    {
+      "ticker": "OBSV",
+      "price": 13.7
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.3999
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11
+    }
+  ]
+}

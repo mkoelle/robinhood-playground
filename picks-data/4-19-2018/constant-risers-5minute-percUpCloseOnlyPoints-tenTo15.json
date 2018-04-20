@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 12.455
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.51
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.675
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SOXS",
+      "price": 12.56
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.675
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.455
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 12.7392
+    },
+    {
+      "ticker": "ECOM",
+      "price": 10.5809
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.75
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.8898
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.71
+    },
+    {
+      "ticker": "ECOM",
+      "price": 10.7
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ZYNE",
+      "price": 11.2198
+    },
+    {
+      "ticker": "ECOM",
+      "price": 11.2
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.63
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ECOM",
+      "price": 11.1428
+    },
+    {
+      "ticker": "SOXS",
+      "price": 12.7452
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.55
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SOXS",
+      "price": 12.861
+    },
+    {
+      "ticker": "ECOM",
+      "price": 11.15
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.38
+    }
+  ]
+}

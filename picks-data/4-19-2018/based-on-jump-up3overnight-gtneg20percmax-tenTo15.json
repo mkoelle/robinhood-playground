@@ -1,0 +1,36 @@
+{
+  "5": [
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OBSV",
+      "price": 13.7
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.3999
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.53
+    }
+  ]
+}

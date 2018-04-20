@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "PFIE",
+      "price": 3.6
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.575
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.5599
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1857
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.88
+    },
+    {
+      "ticker": "WSCI",
+      "price": 4.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "GROW",
+      "price": 3.059
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.905
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.91
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.33
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DLPN",
+      "price": 2.92
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.9
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DLPN",
+      "price": 2.9
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.9
+    },
+    {
+      "ticker": "GROW",
+      "price": 3.03
+    }
+  ]
+}

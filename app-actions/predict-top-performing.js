@@ -7,15 +7,18 @@ const stringSimilarity = require('string-similarity');
 
 
 const uniqifyArray = arrayOfStrategies => {
-    return arrayOfStrategies.reduce((acc, val) => {
-        const shouldInclude = acc.every(strat => {
-            return stringSimilarity.compareTwoStrings(strat, val) < 0.7;
-        });
-        return shouldInclude ? acc.concat(val) : acc;
-    }, []);
+    return arrayOfStrategies
+        .reduce((acc, val) => {
+            const shouldInclude = acc.every(strat => {
+                return stringSimilarity.compareTwoStrings(strat, val) < 0.85;
+            });
+            return shouldInclude ? acc.concat(val) : acc;
+        }, []);
 };
 
 const uniqifyObj = obj => {
+    const removeCheapest = arr => arr
+        .filter(strat => !strat.includes('cheapest-picks'));
     return Object.keys(obj).reduce((acc, val) => {
         if (!obj[val][0]) {
             console.log('UH OH');
@@ -23,10 +26,11 @@ const uniqifyObj = obj => {
             console.log(obj);
         }
         const allStrategyNames = obj[val].map(stratObj => stratObj.name);
+        const filtered = removeCheapest(allStrategyNames);
         return {
             ...acc,
-            [val]: allStrategyNames,
-            [`${val}-uniq`]: uniqifyArray(allStrategyNames)
+            [val]: filtered,
+            [`${val}-uniq`]: uniqifyArray(filtered)
         };
     }, {});
 };

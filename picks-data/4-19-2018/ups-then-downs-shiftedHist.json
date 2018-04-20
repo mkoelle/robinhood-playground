@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "CHEK",
+      "price": 4.4401
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.76
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CHEK",
+      "price": 4.37
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.8713
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.7331
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MRDN",
+      "price": 0.7061
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CVM",
+      "price": 1.9
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.7191
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CVM",
+      "price": 1.8892
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.6993
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CVM",
+      "price": 1.9
+    },
+    {
+      "ticker": "MRDN",
+      "price": 0.66
+    }
+  ]
+}

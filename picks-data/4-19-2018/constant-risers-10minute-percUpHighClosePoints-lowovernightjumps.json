@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MBII",
+      "price": 1.81
+    },
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.392
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VTVT",
+      "price": 2.28
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.3825
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARGS",
+      "price": 0.3888
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.7
+    },
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ARGS",
+      "price": 0.39
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.755
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.655
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PTN",
+      "price": 1.2995
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.77
+    },
+    {
+      "ticker": "VTVT",
+      "price": 2.117
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PTN",
+      "price": 1.33
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.77
+    },
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PTN",
+      "price": 1.35
+    },
+    {
+      "ticker": "MBII",
+      "price": 1.7698
+    },
+    {
+      "ticker": "DLPN",
+      "price": 2.89
+    }
+  ]
+}

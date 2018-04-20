@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "ISBC",
+      "price": 13.47
+    },
+    {
+      "ticker": "QSII",
+      "price": 14.01
+    },
+    {
+      "ticker": "DSU",
+      "price": 11.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCR",
+      "price": 14.9
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.95
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.69
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIG",
+      "price": 12.69
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    },
+    {
+      "ticker": "CCR",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SBS",
+      "price": 10.115
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.94
+    },
+    {
+      "ticker": "CDXS",
+      "price": 11.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTA",
+      "price": 11.22
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.94
+    },
+    {
+      "ticker": "SBS",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBAY",
+      "price": 13.18
+    },
+    {
+      "ticker": "SSP",
+      "price": 11.87
+    },
+    {
+      "ticker": "SNAP",
+      "price": 14.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRT",
+      "price": 13.84
+    },
+    {
+      "ticker": "GE",
+      "price": 13.975
+    },
+    {
+      "ticker": "MBTF",
+      "price": 10.8
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "5": [
+    {
+      "ticker": "SIEN",
+      "price": 12.21
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SIEN",
+      "price": 12.13
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIEN",
+      "price": 12
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.53
+    }
+  ]
+}

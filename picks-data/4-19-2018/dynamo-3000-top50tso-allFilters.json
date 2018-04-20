@@ -1,0 +1,152 @@
+{
+  "4": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.3399
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5215
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.9367
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAT",
+      "price": 1.745
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.75
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.58
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "STNG",
+      "price": 2.39
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.75
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.1252
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.05
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5884
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STNG",
+      "price": 2.4
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.0009
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.23
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5897
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.7319
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRX",
+      "price": 0.5669
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.6007
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.0009
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.18
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.71
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRX",
+      "price": 0.5699
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.5759
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.0009
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.2
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.7001
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STNG",
+      "price": 2.41
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5698
+    },
+    {
+      "ticker": "MXC",
+      "price": 4.1801
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.08
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.749
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "5": [
+    {
+      "ticker": "SOXS",
+      "price": 12.18
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOXS",
+      "price": 12.141
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.8099
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOXS",
+      "price": 12.35
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.3999
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11
+    },
+    {
+      "ticker": "ABCD",
+      "price": 13.53
+    }
+  ]
+}

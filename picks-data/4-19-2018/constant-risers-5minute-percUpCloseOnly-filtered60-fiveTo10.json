@@ -1,0 +1,61 @@
+{
+  "40": [
+    {
+      "ticker": "GORO",
+      "price": 5.1001
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.86
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.55
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GORO",
+      "price": 5.215
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.62
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 5.2898
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.64
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.9568
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GORO",
+      "price": 5.22
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.92
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.59
+    }
+  ],
+  "198": [],
+  "250": [],
+  "300": []
+}

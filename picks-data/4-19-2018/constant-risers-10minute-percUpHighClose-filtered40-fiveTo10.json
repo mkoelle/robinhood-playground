@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ASPU",
+      "price": 7.55
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.3326
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.7438
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NETE",
+      "price": 8.795
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.62
+    },
+    {
+      "ticker": "ERIC",
+      "price": 6.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ERIC",
+      "price": 6.61
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.37
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.91
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ERIC",
+      "price": 6.625
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.875
+    },
+    {
+      "ticker": "HK",
+      "price": 5.5332
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DWT",
+      "price": 8.27
+    },
+    {
+      "ticker": "SND",
+      "price": 6.55
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.54
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 7.375
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.5124
+    },
+    {
+      "ticker": "SPWR",
+      "price": 9.56
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRON",
+      "price": 7.47
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SPWR",
+      "price": 9.62
+    }
+  ]
+}

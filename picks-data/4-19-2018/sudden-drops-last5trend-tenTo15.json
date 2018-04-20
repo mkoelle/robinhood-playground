@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "SIEN",
+      "price": 11.94
+    },
+    {
+      "ticker": "SNDX",
+      "price": 10.8684
+    }
+  ],
+  "63": [
+    {
+      "ticker": "PZE",
+      "price": 10.97
+    },
+    {
+      "ticker": "SIEN",
+      "price": 11.755
+    }
+  ],
+  "221": [
+    {
+      "ticker": "EIGR",
+      "price": 10.45
+    },
+    {
+      "ticker": "ECOM",
+      "price": 11.1
+    }
+  ],
+  "328": [
+    {
+      "ticker": "TVIZ",
+      "price": 11.41
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.77
+    }
+  ],
+  "388": [
+    {
+      "ticker": "OBSV",
+      "price": 12.98
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.4
+    }
+  ]
+}

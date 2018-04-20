@@ -63,6 +63,7 @@ const stratManager = {
         this.io.emit(eventName, data);
     },
     async newDay() {
+        console.log('NEW DAY')
         await this.getRelatedPrices();
         await this.sendStrategyReport();
         await this.refreshPastData();
@@ -89,9 +90,9 @@ const stratManager = {
             // from most recent day (weekend will get friday)
             await this.initPicks();
         } else {
-            this.curDate  = dateStr;
+            this.curDate = dateStr;
         }
-
+        console.log('cur date now', this.curDate);
         await this.refreshPredictionModels();
     },
     async initPicks(dateStr) {
