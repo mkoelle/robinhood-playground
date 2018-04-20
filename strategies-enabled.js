@@ -7,6 +7,7 @@ const forPurchase = [
     'based-on-jump-down3overnight-trending35257-5',
     'based-on-jump-down3overnight-trending35257-5',
     'based-on-jump-down3overnight-trending35257-5',
+    'based-on-jump-down3overnight-trending35257-5',
     'based-on-jump-down3overnight-trending35257-16',
     'based-on-jump-down3overnight-notWatchout-fiveTo10-5',
     'sudden-drops-last10trend-fiveTo10-328',
