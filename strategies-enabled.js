@@ -4,6 +4,7 @@ const mySpecialSauce = [
 
 const forPurchase = [
     '[5day-sortedByAvgTrend-uniq-first10]',
+    '[5day-sortedByPercUp-first3]',
     '[5dayCount2-sortedByPercUp-uniq-first3]',
     '[4IncTodayCount2-sortedByPercUp-uniq-first5]',
     '[10IncTodayCount6-sortedByAvgTrend-first10]',
