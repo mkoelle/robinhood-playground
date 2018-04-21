@@ -4,11 +4,13 @@ const mySpecialSauce = [
 
 const forPurchase = [
     '[5day-sortedByAvgTrend-uniq-first10]',
-    '[5dayCount2-sortedByAvgTrend-uniq-first10]',
+    '[5dayCount2-sortedByPercUp-uniq-first3]',
     '[4IncTodayCount2-sortedByPercUp-uniq-first5]',
     '[10IncTodayCount6-sortedByAvgTrend-first10]',
+    '[12Count5-sortedByAvgTrend-uniq-first5]',
     '[Yesterday-sortedByPercUp-uniq-first3]',
-    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first5]',
+    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first3]',
+    '[dayBeforeYesterdayPredictions-myPredictions-first3]',
     '[curOverallPredictions-brainPredictions-first5]',
 
     '[mySpecialSauce]',
@@ -19,11 +21,12 @@ const forPurchase = [
 const cheapestPicksEmailObj = [
     ['And', 're', 'wzouza@', 'gm', 'ail.com'],
     ['ViperKi', 'ller847', '@a', 'ol.com']
-].map(val => val.join(''))
-.reduce((acc, val) => ({
-    ...acc,
-    [val]: 'cheapest-picks-chp50--4'
-}), {});
+]
+    .map(val => val.join(''))
+    .reduce((acc, val) => ({
+        ...acc,
+        [val]: 'cheapest-picks-chp50--4'
+    }), {});
 
 module.exports = {
     forPurchase,
