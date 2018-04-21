@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OVID",
+      "price": 9.93
+    },
+    {
+      "ticker": "AMRC",
+      "price": 12.4
+    },
+    {
+      "ticker": "CDLX",
+      "price": 13.34
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SYRS",
+      "price": 12.63
+    },
+    {
+      "ticker": "AMRC",
+      "price": 12.407
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.13
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSP",
+      "price": 11.39
+    },
+    {
+      "ticker": "AQ",
+      "price": 14.77
+    },
+    {
+      "ticker": "RPT",
+      "price": 11.58
+    }
+  ]
+}

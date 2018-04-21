@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 13.05
+    },
+    {
+      "ticker": "TELL",
+      "price": 10.301
+    },
+    {
+      "ticker": "PRGX",
+      "price": 10.1
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OFG",
+      "price": 13
+    },
+    {
+      "ticker": "DRNA",
+      "price": 10.537
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRNA",
+      "price": 11.6
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.4401
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.69
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DRNA",
+      "price": 11.96
+    },
+    {
+      "ticker": "XNET",
+      "price": 13.6192
+    },
+    {
+      "ticker": "OFG",
+      "price": 13.125
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DRNA",
+      "price": 13.88
+    },
+    {
+      "ticker": "XNET",
+      "price": 13.65
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.75
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DRNA",
+      "price": 13.0137
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.47
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.54
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DRNA",
+      "price": 12.29
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.75
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.55
+    }
+  ]
+}

@@ -61,6 +61,7 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
                 await record(subsetToPurchase, `${strategy}-${strategyName}${priceFilterSuffix}`, tickerLookups);
             }
         } else {
+            console.log('no variety to purchase', toPurchase);
             const tickerLookups = await lookupTickers(Robinhood, toPurchase);
             console.log('ticker lookups', tickerLookups);
             await record(toPurchase, `${strategy}${priceFilterSuffix}`, tickerLookups);

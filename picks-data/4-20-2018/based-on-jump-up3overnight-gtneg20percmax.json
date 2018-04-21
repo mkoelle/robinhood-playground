@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "CHCI",
+      "price": 2.25
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.5878
+    },
+    {
+      "ticker": "EBIO",
+      "price": 1.655
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHCI",
+      "price": 2.3
+    },
+    {
+      "ticker": "NTWK",
+      "price": 4.75
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.36
+    },
+    {
+      "ticker": "EBIO",
+      "price": 1.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHCI",
+      "price": 2.3308
+    },
+    {
+      "ticker": "NTWK",
+      "price": 4.75
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.22
+    },
+    {
+      "ticker": "EBIO",
+      "price": 1.7
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "RCM",
+      "price": 8.03
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.0055
+    },
+    {
+      "ticker": "KOS",
+      "price": 6.82
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RCM",
+      "price": 8.01
+    },
+    {
+      "ticker": "KOS",
+      "price": 6.895
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DXD",
+      "price": 8.55
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.5798
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SSW",
+      "price": 7.7
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.39
+    },
+    {
+      "ticker": "I",
+      "price": 9.41
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SSW",
+      "price": 7.71
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.5234
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.055
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 7.2798
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.4
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 7.26
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.78
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.33
+    }
+  ]
+}

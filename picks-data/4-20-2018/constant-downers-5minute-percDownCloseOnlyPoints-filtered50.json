@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "APRI",
+      "price": 0.2587
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4367
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.6453
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CHKE",
+      "price": 1.04
+    },
+    {
+      "ticker": "SHOS",
+      "price": 1.9
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.62
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CHKE",
+      "price": 0.94
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.6128
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.6243
+    }
+  ]
+}

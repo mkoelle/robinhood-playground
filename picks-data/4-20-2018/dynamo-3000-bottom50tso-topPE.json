@@ -1,0 +1,92 @@
+{
+  "4": [
+    {
+      "ticker": "NEPT",
+      "price": 2.905
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.19
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.7802
+    }
+  ],
+  "40": [
+    {
+      "ticker": "URG",
+      "price": 0.72
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.25
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.7301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PME",
+      "price": 3.59
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.6905
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.745
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PME",
+      "price": 3.56
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PME",
+      "price": 3.54
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.6775
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.6801
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HGT",
+      "price": 0.6799
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GIGM",
+      "price": 2.5201
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.6531
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.585
+    }
+  ]
+}

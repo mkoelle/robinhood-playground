@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "IPIC",
+      "price": 10.25
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.6252
+    }
+  ],
+  "63": [
+    {
+      "ticker": "SPNE",
+      "price": 11.2
+    },
+    {
+      "ticker": "AMRC",
+      "price": 12.3
+    }
+  ],
+  "221": [
+    {
+      "ticker": "DRNA",
+      "price": 13.5095
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.4644
+    }
+  ],
+  "328": [
+    {
+      "ticker": "ABCD",
+      "price": 10.56
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.07
+    }
+  ],
+  "388": [
+    {
+      "ticker": "CSPI",
+      "price": 11.05
+    },
+    {
+      "ticker": "CCR",
+      "price": 14.5
+    }
+  ]
+}

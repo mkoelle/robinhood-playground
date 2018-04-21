@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "JRJC",
+      "price": 2.23
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.61
+    },
+    {
+      "ticker": "PME",
+      "price": 3.56
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CHKE",
+      "price": 1.04
+    },
+    {
+      "ticker": "SHOS",
+      "price": 1.9
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.82
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CHKE",
+      "price": 0.94
+    },
+    {
+      "ticker": "SHOS",
+      "price": 1.9001
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.15
+    }
+  ]
+}

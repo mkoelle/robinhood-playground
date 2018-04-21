@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "FRBK",
+      "price": 8.05
+    },
+    {
+      "ticker": "LOCO",
+      "price": 9.75
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRON",
+      "price": 7.6123
+    },
+    {
+      "ticker": "CTG",
+      "price": 9.05
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTG",
+      "price": 9.0999
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.15
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.347
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTG",
+      "price": 9.2125
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.5
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTG",
+      "price": 9.25
+    },
+    {
+      "ticker": "CLUB",
+      "price": 8.5997
+    },
+    {
+      "ticker": "FRBK",
+      "price": 8.1799
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTG",
+      "price": 9.2
+    },
+    {
+      "ticker": "CLUB",
+      "price": 8.5499
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTG",
+      "price": 9.22
+    },
+    {
+      "ticker": "CLUB",
+      "price": 8.45
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.1
+    }
+  ]
+}

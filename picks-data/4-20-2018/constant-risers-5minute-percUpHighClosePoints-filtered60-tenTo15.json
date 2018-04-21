@@ -1,0 +1,70 @@
+{
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 13.05
+    },
+    {
+      "ticker": "TELL",
+      "price": 10.301
+    },
+    {
+      "ticker": "SBLK",
+      "price": 12.01
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OFG",
+      "price": 13
+    },
+    {
+      "ticker": "SBLK",
+      "price": 12.095
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPXU",
+      "price": 10.69
+    },
+    {
+      "ticker": "TZA",
+      "price": 10.97
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DRNA",
+      "price": 11.96
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.695
+    },
+    {
+      "ticker": "SRCI",
+      "price": 10.84
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DRNA",
+      "price": 13.88
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.72
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.74
+    }
+  ],
+  "250": [],
+  "300": []
+}
