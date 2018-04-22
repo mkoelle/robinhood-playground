@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`25 6 * * *`, () => this.newDay, null, true);
+        new CronJob(`25 6 * * 1-5`, () => this.newDay, null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -175,11 +175,13 @@ const stratManager = {
 
     },
     async createAndSaveNewPredictionModels(todayPMpath) {
+        console.log('creating new prediction models');
         const newPMs = await this.createPredictionModels();
         await jsonMgr.save(todayPMpath, newPMs);
         return newPMs;
     },
     async refreshPredictionModels() {
+        console.log('refreshing prediction models');
         // set predictionmodels
         const todayPMpath = `./prediction-models/${this.curDate}.json`;
         try {
@@ -189,6 +191,7 @@ const stratManager = {
         this.strategies = foundDayPMs ? foundDayPMs : await this.createAndSaveNewPredictionModels(todayPMpath);
     },
     async refreshPastData() {
+        console.log('refreshing past data');
         const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
         await this.setPastData(stratPerfData);
     },

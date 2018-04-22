@@ -137,9 +137,16 @@ class App extends Component {
               withTrend: calcedTrends
           };
       });
-      let sortedByAvgTrend = showingPicks.filter(val => !isNaN(val.avgTrend)).sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend));
+      let sortedByAvgTrend = showingPicks
+          .sort(({ avgTrend: a }, { avgTrend: b}) => {
+              return (isNaN(a)) - (isNaN(b)) || -(a>b)||+(a<b);
+          });
       console.log('rendering!');
-      const avgTrendOverall = avgArray(sortedByAvgTrend.map(strat => strat.avgTrend));
+      const avgTrendOverall = avgArray(
+            sortedByAvgTrend
+                .filter(val => !isNaN(val.avgTrend))
+                .map(strat => strat.avgTrend)
+      );
       return (
           <div className="App">
               <header className="App-header">
