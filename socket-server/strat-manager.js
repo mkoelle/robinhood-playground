@@ -210,6 +210,15 @@ const stratManager = {
 
         const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
         const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
+        const uniq5dayCount3 = await stratPerfPredictions(this.Robinhood, false, 5, 3);
+        const uniq5dayCount4 = await stratPerfPredictions(this.Robinhood, false, 5, 4);
+
+        const uniqIncToday5dayCount3 = await stratPerfPredictions(this.Robinhood, true, 5, 3);
+        const uniqIncToday5dayCount4 = await stratPerfPredictions(this.Robinhood, true, 5, 4);
+        const uniqIncToday5dayCount5 = await stratPerfPredictions(this.Robinhood, true, 5, 5);
+        const uniqIncToday7dayCount5 = await stratPerfPredictions(this.Robinhood, true, 7, 5);
+
+
         const uniq4IncToday = await stratPerfPredictions(this.Robinhood, true, 4, 2);
         const uniq4IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 4, 2);
         const uniq10IncTodayCount6 = await stratPerfPredictions(this.Robinhood, true, 10, 6);
@@ -238,6 +247,15 @@ const stratManager = {
 
             ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
             ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
+            ...createPermsForObj([10, 5, 3, 1], '5dayCount3', uniq5dayCount3),
+            ...createPermsForObj([10, 5, 3, 1], '5dayCount4', uniq5dayCount4),
+            ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
+
+            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount3', uniqIncToday5dayCount3),
+            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount4', uniqIncToday5dayCount4),
+            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount5', uniqIncToday5dayCount5),
+            ...createPermsForObj([10, 5, 3, 1], '7IncTodayCount5', uniqIncToday7dayCount5),
+
             ...createPermsForObj([10, 5, 3, 1], '4IncToday', uniq4IncToday),
             ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount2', uniq4IncTodayCount2),
 
