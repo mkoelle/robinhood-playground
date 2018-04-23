@@ -2,6 +2,15 @@ const mySpecialSauce = [
     'based-on-jump-down3overnight-trending35257-5'
 ];
 
+const myOtherGuesses = [
+    'sudden-drops-last5trend-32',
+    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
+    'sudden-drops-last10trend-63',
+    'constant-downers-10minute-percDownCloseOnlyPoints-filtered40-242',
+    'sudden-drops-last5trend-221',
+    'dynamo-3000-volumetoavg-200',
+];
+
 const forPurchase = [
     '[5day-sortedByAvgTrend-uniq-first10]',
     '[5day-sortedByPercUp-first3]',
@@ -17,6 +26,7 @@ const forPurchase = [
     '[mySpecialSauce]',
     '[mySpecialSauce]',
     '[mySpecialSauce]',
+    '[myOtherGuesses]'
 ];
 
 const cheapestPicksEmailObj = [
@@ -41,6 +51,7 @@ module.exports = {
             'week-swings-tenTo15-1',  // wild
             'constant-risers-10minute-percUpHighClosePoints-300'  // crazy
         ],
-        mySpecialSauce
+        mySpecialSauce,
+        myOtherGuesses
     }
 }

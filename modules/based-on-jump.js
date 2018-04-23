@@ -25,7 +25,10 @@ const trendFilter = async (Robinhood, trend) => {
         const withRisk = await mapLimit(passedFirstFilter, 20, async buy => ({
             ...buy,
             ...(await getRisk(Robinhood, buy.ticker)),
-            trending35257: await trendingUp(Robinhood, buy.ticker, [35, 25, 7])
+            trending35257: await trendingUp(Robinhood, buy.ticker, [35, 25, 7]),
+            trending607: await trendingUp(Robinhood, buy.ticker, [60, 7]),
+            trending103: await trendingUp(Robinhood, buy.ticker, [10, 3]),
+            trending53: await trendingUp(Robinhood, buy.ticker, [5, 3]),
         }));
         console.log(withRisk);
         return (num, secondFilter) => {
@@ -46,25 +49,39 @@ const trendFilter = async (Robinhood, trend) => {
         (a, b) => a.overnightJump - b.overnightJump
     );
 
+    const specificPerms = (name) => {
+        return [
+            [name, buy => buy[name]],
+            [`${name}-ltneg50percmax`, buy => buy[name] && buy.percMax < -50],
+            [`${name}-gtneg20percmax`, buy => buy[name] && buy.percMax > -20],
+            [`${name}-shouldWatchout`, buy => buy[name] && buy.shouldWatchout],
+            [`${name}-notWatchout`, buy => buy[name] && !buy.shouldWatchout]
+        ];
+    };
+
     const filterPerms = [
-        ['trending35257', buy => buy.trending35257],
         ['ltneg50percmax', buy => buy.percMax < -50],
         ['gtneg20percmax', buy => buy.percMax > -20],
         ['shouldWatchout', buy => buy.shouldWatchout],
         ['notWatchout', buy => !buy.shouldWatchout],
-        ['trending35257-ltneg50percmax', buy => buy.trending35257 && buy.percMax < -50],
-        ['trending35257-gtneg20percmax', buy => buy.trending35257 && buy.percMax > -20],
-        ['trending35257-notWatchout', buy => buy.trending35257 && !buy.shouldWatchout]
+
+        ...specificPerms('trending35257'),
+        ...specificPerms('trending607'),
+        ...specificPerms('trending103'),
+        ...specificPerms('trending53'),
     ];
 
     const runPerms = (name, fn) => {
-        return filterPerms.reduce((acc, [subFilterName, filter]) => ({
-            ...acc,
-            [`${name}-${subFilterName}`]: fn(5, filter)
-        }), {
-            [`${name}`]: fn(),
-            [`${name}-first5`]: fn(5)
-        });
+        return filterPerms.reduce((acc, [subFilterName, filter]) => {
+            const first5 = fn(5, filter);
+            return {
+                ...acc,
+                [`${name}-${subFilterName}`]: first5,
+                [`${name}-${subFilterName}-first3`]: first5.slice(0, 3),
+                [`${name}-${subFilterName}-first2`]: first5.slice(0, 2),
+                [`${name}-${subFilterName}-first1`]: first5.slice(0, 1),
+            };
+        }, {});
     };
 
     return {
