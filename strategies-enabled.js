@@ -3,29 +3,22 @@ const mySpecialSauce = [
 ];
 
 const myOtherGuesses = [
-    'sudden-drops-last5trend-32',
-    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
-    'sudden-drops-last10trend-63',
-    'constant-downers-10minute-percDownCloseOnlyPoints-filtered40-242',
-    'sudden-drops-last5trend-221',
-    'dynamo-3000-volumetoavg-200',
+    'dynamo-3000-twoweekvolumetoavg-200',
+    'dynamo-3000-absvolume-200'
 ];
 
 const forPurchase = [
-    '[5day-sortedByAvgTrend-uniq-first10]',
-    '[5day-sortedByPercUp-first3]',
-    '[5dayCount2-sortedByPercUp-uniq-first3]',
-    '[4IncTodayCount2-sortedByPercUp-uniq-first5]',
-    '[10IncTodayCount6-sortedByAvgTrend-first10]',
-    '[12Count5-sortedByAvgTrend-uniq-first5]',
-    '[Yesterday-sortedByPercUp-uniq-first3]',
-    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first3]',
-    '[dayBeforeYesterdayPredictions-myPredictions-first3]',
-    '[curOverallPredictions-brainPredictions-first5]',
+    '[Yesterday-sortedByAvgTrend-first1]',
+    '[Yesterday-sortedByAvgTrend-first1]',
+    '[5dayCount3-sortedByPercUp-first1]',
+    '[5dayCount4-sortedByAvgTrend-uniq-first5]',
+    '[4IncTodayCount2-sortedByPercUp-first1]',
+    '[4IncTodayCount2-sortedByAvgTrend-uniq-first3]',
+    '[4IncToday-sortedByPercUp-first3]',
+    '[5dayCount4-sortedByAvgTrend-uniq-first5]',
+    '[7IncTodayCount5-sortedByPercUp-uniq-first3]',
+    '[12Count5-sortedByAvgTrend-uniq-first3]',
 
-    '[mySpecialSauce]',
-    '[mySpecialSauce]',
-    '[mySpecialSauce]',
     '[myOtherGuesses]'
 ];
 
