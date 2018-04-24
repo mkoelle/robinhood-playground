@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "TAHO",
+      "price": 5
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.92
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.2375
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAHO",
+      "price": 5.005
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.935
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.25
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.765
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAHO",
+      "price": 5.035
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.87
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.25
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.7517
+    }
+  ]
+}

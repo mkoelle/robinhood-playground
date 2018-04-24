@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "VLRX",
+      "price": 3.85
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.42
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.475
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ARGS",
+      "price": 0.2765
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.5001
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHEK",
+      "price": 4.5538
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.895
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.6562
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CHEK",
+      "price": 4.7
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.8532
+    },
+    {
+      "ticker": "VLRX",
+      "price": 3.27
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HEAR",
+      "price": 4.6398
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.064
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.2697
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 4.1893
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.88
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.235
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GERN",
+      "price": 4.055
+    },
+    {
+      "ticker": "EPE",
+      "price": 1.87
+    },
+    {
+      "ticker": "HEAR",
+      "price": 4.58
+    }
+  ]
+}

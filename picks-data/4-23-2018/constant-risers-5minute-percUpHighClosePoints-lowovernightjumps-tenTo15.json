@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "CBI",
+      "price": 13.3689
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.1901
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CBI",
+      "price": 13.3969
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKRX",
+      "price": 13.9704
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.13
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AKRX",
+      "price": 13.895
+    },
+    {
+      "ticker": "CBI",
+      "price": 12.835
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AKRX",
+      "price": 14.005
+    },
+    {
+      "ticker": "CBI",
+      "price": 12.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKRX",
+      "price": 13.5032
+    },
+    {
+      "ticker": "CBI",
+      "price": 12.52
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CBI",
+      "price": 12.81
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.145
+    }
+  ]
+}

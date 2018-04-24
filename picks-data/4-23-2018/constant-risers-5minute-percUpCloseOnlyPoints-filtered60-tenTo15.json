@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "CBI",
+      "price": 13.3689
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.35
+    },
+    {
+      "ticker": "ECOM",
+      "price": 11.85
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ABCD",
+      "price": 11.9
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.3969
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKRX",
+      "price": 13.9704
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.425
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.26
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AKRX",
+      "price": 13.895
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.34
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.2731
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MAT",
+      "price": 13.59
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.2299
+    },
+    {
+      "ticker": "AES",
+      "price": 11.835
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MAT",
+      "price": 13.53
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MAT",
+      "price": 13.765
+    }
+  ]
+}

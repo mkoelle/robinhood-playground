@@ -1,0 +1,32 @@
+{
+  "5": [
+    {
+      "ticker": "TAHO",
+      "price": 5
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.92
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAHO",
+      "price": 5.005
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.935
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAHO",
+      "price": 5.035
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.87
+    }
+  ]
+}

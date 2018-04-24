@@ -1,0 +1,66 @@
+{
+  "40": [
+    {
+      "ticker": "AGLE",
+      "price": 8.2
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.39
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.06
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SPWH",
+      "price": 5.17
+    },
+    {
+      "ticker": "WTI",
+      "price": 5.8
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 5.815
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.3
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.07
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMZA",
+      "price": 7.455
+    },
+    {
+      "ticker": "VHI",
+      "price": 9.06
+    },
+    {
+      "ticker": "ESV",
+      "price": 6
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ESV",
+      "price": 5.9735
+    }
+  ],
+  "250": [],
+  "300": []
+}

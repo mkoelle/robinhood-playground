@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GEOS",
+      "price": 10.75
+    },
+    {
+      "ticker": "IMMR",
+      "price": 11.42
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.48
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SMMT",
+      "price": 13.2
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.15
+    },
+    {
+      "ticker": "ACH",
+      "price": 14.37
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GEOS",
+      "price": 10.44
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.2849
+    },
+    {
+      "ticker": "ACH",
+      "price": 14.33
+    }
+  ]
+}

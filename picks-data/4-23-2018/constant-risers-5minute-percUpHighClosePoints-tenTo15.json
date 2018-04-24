@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CBI",
+      "price": 13.3689
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.35
+    },
+    {
+      "ticker": "NLS",
+      "price": 15
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ABCD",
+      "price": 11.9
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.3969
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 11.77
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.9704
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.13
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ABCD",
+      "price": 11.63
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.895
+    },
+    {
+      "ticker": "SLDB",
+      "price": 13.82
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AKRX",
+      "price": 14.005
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.44
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.59
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ABCD",
+      "price": 11.4311
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.53
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.5032
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MAT",
+      "price": 13.765
+    },
+    {
+      "ticker": "SOXS",
+      "price": 13.752
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.14
+    }
+  ]
+}

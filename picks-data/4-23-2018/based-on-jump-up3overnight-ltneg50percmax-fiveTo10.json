@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "MLNT",
+      "price": 7.75
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.805
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MRIN",
+      "price": 7.65
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.55
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRIN",
+      "price": 7.6
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.4
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.82
+    }
+  ]
+}

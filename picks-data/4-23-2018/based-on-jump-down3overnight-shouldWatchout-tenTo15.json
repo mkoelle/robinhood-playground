@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "PRTA",
+      "price": 12.15
+    },
+    {
+      "ticker": "AKRX",
+      "price": 12.9201
+    },
+    {
+      "ticker": "CBI",
+      "price": 12.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTA",
+      "price": 11.27
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.02
+    },
+    {
+      "ticker": "CBI",
+      "price": 12.87
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.425
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRTA",
+      "price": 11.785
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.2301
+    },
+    {
+      "ticker": "CBI",
+      "price": 13.01
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.425
+    }
+  ]
+}

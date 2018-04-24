@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SUP",
+      "price": 13.325
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.4007
+    },
+    {
+      "ticker": "OFG",
+      "price": 12.875
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SPKE",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACH",
+      "price": 14.37
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ACH",
+      "price": 14.33
+    },
+    {
+      "ticker": "QTNA",
+      "price": 13.06
+    },
+    {
+      "ticker": "SPKE",
+      "price": 11.5
+    }
+  ]
+}

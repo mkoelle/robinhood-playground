@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "GSUM",
+      "price": 5.01
+    },
+    {
+      "ticker": "NICK",
+      "price": 8.74
+    },
+    {
+      "ticker": "NL",
+      "price": 8.005
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.2375
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 8.8199
+    },
+    {
+      "ticker": "NL",
+      "price": 8.005
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.25
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.765
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 8.82
+    },
+    {
+      "ticker": "NL",
+      "price": 8.05
+    },
+    {
+      "ticker": "SHNY",
+      "price": 8.25
+    },
+    {
+      "ticker": "SPPP",
+      "price": 8.7517
+    }
+  ]
+}

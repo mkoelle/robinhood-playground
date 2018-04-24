@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AQ",
+      "price": 14.25
+    },
+    {
+      "ticker": "SUP",
+      "price": 13.325
+    },
+    {
+      "ticker": "SCPH",
+      "price": 10.01
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SYRS",
+      "price": 12.015
+    },
+    {
+      "ticker": "IMMR",
+      "price": 11.21
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IMMR",
+      "price": 11.14
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.03
+    },
+    {
+      "ticker": "NVTR",
+      "price": 13.26
+    }
+  ]
+}

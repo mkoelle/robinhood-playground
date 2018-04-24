@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "OBE",
+      "price": 1.11
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "URG",
+      "price": 0.7106
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.115
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.235
+    }
+  ],
+  "30": [
+    {
+      "ticker": "URG",
+      "price": 0.7124
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.11
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.22
+    }
+  ]
+}

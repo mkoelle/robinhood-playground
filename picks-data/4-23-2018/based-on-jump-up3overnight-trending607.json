@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "PED",
+      "price": 0.3496
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.05
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.3868
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PED",
+      "price": 0.335
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.0099
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.395
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PED",
+      "price": 0.3448
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.99
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.021
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.41
+    }
+  ]
+}

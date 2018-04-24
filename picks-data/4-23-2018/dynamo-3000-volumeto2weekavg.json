@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "ATOS",
+      "price": 3.31
+    },
+    {
+      "ticker": "LONE",
+      "price": 4.63
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSUM",
+      "price": 4.3999
+    },
+    {
+      "ticker": "MOC",
+      "price": 3.0717
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYN",
+      "price": 0.237
+    },
+    {
+      "ticker": "GSUM",
+      "price": 4.1202
+    },
+    {
+      "ticker": "ATOS",
+      "price": 2.9603
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYN",
+      "price": 0.2188
+    },
+    {
+      "ticker": "ATOS",
+      "price": 2.933
+    },
+    {
+      "ticker": "FTK",
+      "price": 3.9939
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYN",
+      "price": 0.2225
+    },
+    {
+      "ticker": "FTK",
+      "price": 3.9264
+    },
+    {
+      "ticker": "ATOS",
+      "price": 2.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYN",
+      "price": 0.2356
+    },
+    {
+      "ticker": "FTK",
+      "price": 3.85
+    },
+    {
+      "ticker": "ATOS",
+      "price": 3.0219
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYN",
+      "price": 0.243
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.2003
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.196
+    }
+  ]
+}

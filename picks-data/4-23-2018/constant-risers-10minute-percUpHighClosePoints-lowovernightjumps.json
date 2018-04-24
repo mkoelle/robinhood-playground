@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SSC",
+      "price": 2.5092
+    },
+    {
+      "ticker": "BIOL",
+      "price": 0.3359
+    },
+    {
+      "ticker": "PXS",
+      "price": 1.0902
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BIOL",
+      "price": 0.3302
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.45
+    },
+    {
+      "ticker": "PXS",
+      "price": 1.0902
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOL",
+      "price": 0.3417
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.44
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BIOL",
+      "price": 0.3414
+    },
+    {
+      "ticker": "NHLD",
+      "price": 3.44
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.6092
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SSC",
+      "price": 2.5096
+    },
+    {
+      "ticker": "BIOL",
+      "price": 0.3371
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.6
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SSC",
+      "price": 2.52
+    },
+    {
+      "ticker": "BIOL",
+      "price": 0.3371
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SSC",
+      "price": 2.51
+    },
+    {
+      "ticker": "BIOL",
+      "price": 0.3421
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.65
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MOC",
+      "price": 3.0648
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.669
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4461
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MOC",
+      "price": 2.96
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4365
+    },
+    {
+      "ticker": "CNIT",
+      "price": 1.81
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MOC",
+      "price": 3.0291
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4357
+    },
+    {
+      "ticker": "CNIT",
+      "price": 1.8
+    }
+  ]
+}

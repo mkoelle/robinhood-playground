@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "VXRT",
+      "price": 5.615
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.9932
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RCM",
+      "price": 7.61
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VXRT",
+      "price": 5.35
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.66
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VXRT",
+      "price": 5.21
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.55
+    },
+    {
+      "ticker": "RCM",
+      "price": 7.64
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CTG",
+      "price": 8.52
+    },
+    {
+      "ticker": "RCM",
+      "price": 7.545
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CTG",
+      "price": 8.49
+    },
+    {
+      "ticker": "RCM",
+      "price": 7.59
+    }
+  ]
+}

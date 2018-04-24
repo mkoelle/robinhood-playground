@@ -1,0 +1,42 @@
+{
+  "63": [
+    {
+      "ticker": "PRTA",
+      "price": 11.22
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.3772
+    }
+  ],
+  "221": [
+    {
+      "ticker": "KEG",
+      "price": 14.7
+    },
+    {
+      "ticker": "NMS",
+      "price": 14.0024
+    }
+  ],
+  "328": [
+    {
+      "ticker": "GME",
+      "price": 13.15
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.1
+    }
+  ],
+  "388": [
+    {
+      "ticker": "LIVE",
+      "price": 13.22
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.04
+    }
+  ]
+}
