@@ -62,17 +62,21 @@ module.exports = async (Robinhood, strategy, min, withPrices) => {
             multiplier: enableCount,
             min
         });
+        await sendEmail(
+            `robinhood-playground: ${stratMin}`,
+            JSON.stringify(withPrices, null, 2)
+        );
     }
 
     // for email
-    const toEmail = Object.keys(email).filter(addr => email[addr].includes(stratMin));
-    for (let addr of toEmail) {
-        await sendEmail(
-            `robinhood-playground: ${stratMin}`,
-            JSON.stringify(withPrices, null, 2),
-            addr
-        );
-    }
+    // const toEmail = Object.keys(email).filter(addr => email[addr].includes(stratMin));
+    // for (let addr of toEmail) {
+    //     await sendEmail(
+    //         `robinhood-playground: ${stratMin}`,
+    //         JSON.stringify(withPrices, null, 2),
+    //         addr
+    //     );
+    // }
 
 
 
