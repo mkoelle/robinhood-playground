@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`27 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`22 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -77,7 +77,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(27);
+        compareDate.setMinutes(22);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
@@ -221,6 +221,14 @@ const stratManager = {
 
         const uniq4IncToday = await stratPerfPredictions(this.Robinhood, true, 4, 2);
         const uniq4IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 4, 2);
+        const uniq4IncTodayCount3 = await stratPerfPredictions(this.Robinhood, true, 4, 3);
+
+        const uniq3IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 3, 2);
+        const uniq3IncToday = await stratPerfPredictions(this.Robinhood, true, 3);
+        const uniq2IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 2, 2);
+        const uniq2IncToday = await stratPerfPredictions(this.Robinhood, true, 2);
+
+
         const uniq10IncTodayCount6 = await stratPerfPredictions(this.Robinhood, true, 10, 6);
         const uniq12Count5 = await stratPerfPredictions(this.Robinhood, true, 12, 5);
         const uniqYesterday = await stratPerfPredictions(this.Robinhood, false, 1);
@@ -258,6 +266,11 @@ const stratManager = {
 
             ...createPermsForObj([10, 5, 3, 1], '4IncToday', uniq4IncToday),
             ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount2', uniq4IncTodayCount2),
+            ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount3', uniq4IncTodayCount3),
+
+            ...createPermsForObj([10, 5, 3, 1], '3IncToday', uniq3IncToday),
+            ...createPermsForObj([10, 5, 3, 1], '3IncTodayCount2', uniq3IncTodayCount2),
+
 
             ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount6', uniq10IncTodayCount6),
             ...createPermsForObj([10, 5, 3, 1], '12Count5', uniq12Count5),
