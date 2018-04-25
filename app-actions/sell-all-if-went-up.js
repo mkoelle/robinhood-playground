@@ -28,7 +28,7 @@ module.exports = async Robinhood => {
                 Robinhood,
                 {
                     ticker: pos.symbol,
-                    quantity: pos.quantity
+                    quantity: Math.ceil(pos.quantity / 2)
                 }
             );
             console.log('sold because gone up', response);

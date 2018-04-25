@@ -41,7 +41,7 @@ const additionalCronConfig = [
     // sell all if went up
     {
         name: 'sellAllIfWentUp',
-        run: [3, 120, 305],
+        run: [90, 305],
         fn: sellAllIfWentUp
     },
     // sell all if went up
