@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "ERN",
+      "price": 2.412
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.6696
+    },
+    {
+      "ticker": "CTIB",
+      "price": 3.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ERN",
+      "price": 2.475
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7199
+    },
+    {
+      "ticker": "LUB",
+      "price": 2.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ERN",
+      "price": 2.45
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7199
+    },
+    {
+      "ticker": "ELSE",
+      "price": 3.972
+    }
+  ]
+}

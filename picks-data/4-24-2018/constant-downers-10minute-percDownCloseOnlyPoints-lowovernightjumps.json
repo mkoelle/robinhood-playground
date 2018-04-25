@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4401
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.26
+    },
+    {
+      "ticker": "ERN",
+      "price": 2.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "IPCI",
+      "price": 0.435
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.2603
+    },
+    {
+      "ticker": "SIFY",
+      "price": 2.0468
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IPCI",
+      "price": 0.44
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.78
+    },
+    {
+      "ticker": "SIFY",
+      "price": 2.0168
+    }
+  ]
+}

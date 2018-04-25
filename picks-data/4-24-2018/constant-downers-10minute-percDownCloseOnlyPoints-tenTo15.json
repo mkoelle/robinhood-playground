@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ABCD",
+      "price": 10.51
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.32
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.5322
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ABCD",
+      "price": 10.17
+    },
+    {
+      "ticker": "MNTX",
+      "price": 10.89
+    },
+    {
+      "ticker": "SWCH",
+      "price": 14.1996
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ABCD",
+      "price": 10.06
+    },
+    {
+      "ticker": "RCUS",
+      "price": 15.07
+    },
+    {
+      "ticker": "MNTX",
+      "price": 10.75
+    }
+  ]
+}

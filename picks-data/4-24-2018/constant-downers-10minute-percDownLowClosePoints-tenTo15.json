@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ABCD",
+      "price": 10.51
+    },
+    {
+      "ticker": "MNOV",
+      "price": 10.5
+    },
+    {
+      "ticker": "NLS",
+      "price": 14.4
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ABCD",
+      "price": 10.17
+    },
+    {
+      "ticker": "CNX",
+      "price": 14.92
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ABCD",
+      "price": 10.06
+    },
+    {
+      "ticker": "CNX",
+      "price": 14.79
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.175
+    }
+  ]
+}

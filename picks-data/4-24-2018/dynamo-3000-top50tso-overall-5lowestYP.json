@@ -1,0 +1,156 @@
+{
+  "4": [
+    {
+      "ticker": "INPX",
+      "price": 0.3948
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.27
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.4361
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.186
+    },
+    {
+      "ticker": "EVEP",
+      "price": 0.1429
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.44
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.6004
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1936
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2334
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.455
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRPO",
+      "price": 0.44
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.2616
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.22
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1913
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 1.27
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1948
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2336
+    },
+    {
+      "ticker": "DFFN",
+      "price": 0.5799
+    },
+    {
+      "ticker": "RSYS",
+      "price": 0.7339
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AXON",
+      "price": 1.105
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1886
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2303
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.8624
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.4201
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SNES",
+      "price": 0.4505
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1912
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2323
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.8725
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.851
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNES",
+      "price": 0.4507
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1913
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.53
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.8822
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.4505
+    }
+  ]
+}

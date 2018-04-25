@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "VLRX",
+      "price": 1.78
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.5
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VLRX",
+      "price": 1.78
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.499
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.2672
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VLRX",
+      "price": 1.795
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.47
+    },
+    {
+      "ticker": "ARGS",
+      "price": 0.265
+    }
+  ]
+}

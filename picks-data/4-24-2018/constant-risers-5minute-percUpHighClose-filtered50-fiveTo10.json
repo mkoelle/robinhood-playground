@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "HIMX",
+      "price": 7.36
+    },
+    {
+      "ticker": "I",
+      "price": 9.7105
+    },
+    {
+      "ticker": "P",
+      "price": 5.32
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CLNS",
+      "price": 5.9471
+    },
+    {
+      "ticker": "I",
+      "price": 9.86
+    },
+    {
+      "ticker": "GPOR",
+      "price": 9.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLNS",
+      "price": 5.965
+    },
+    {
+      "ticker": "I",
+      "price": 9.9106
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.3
+    }
+  ],
+  "140": [
+    {
+      "ticker": "I",
+      "price": 9.88
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.2814
+    },
+    {
+      "ticker": "P",
+      "price": 5.305
+    }
+  ],
+  "198": [
+    {
+      "ticker": "TVIX",
+      "price": 7.7866
+    },
+    {
+      "ticker": "I",
+      "price": 9.94
+    },
+    {
+      "ticker": "VER",
+      "price": 6.705
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 8.095
+    },
+    {
+      "ticker": "I",
+      "price": 9.9011
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.95
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 8.275
+    },
+    {
+      "ticker": "I",
+      "price": 9.87
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.94
+    }
+  ]
+}

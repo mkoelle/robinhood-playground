@@ -1,0 +1,48 @@
+{
+  "5": [
+    {
+      "ticker": "SIFY",
+      "price": 2.2149
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.45
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SIFY",
+      "price": 2.2433
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.45
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIFY",
+      "price": 2.19
+    },
+    {
+      "ticker": "ELSE",
+      "price": 3.972
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.45
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.95
+    }
+  ]
+}

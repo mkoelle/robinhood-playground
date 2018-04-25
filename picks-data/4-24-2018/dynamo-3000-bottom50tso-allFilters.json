@@ -1,0 +1,99 @@
+{
+  "4": [
+    {
+      "ticker": "NURO",
+      "price": 1.401
+    }
+  ],
+  "40": [],
+  "100": [
+    {
+      "ticker": "VRML",
+      "price": 1.32
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.94
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.78
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.785
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 4.55
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.31
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRML",
+      "price": 1.261
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.47
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.2261
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.7369
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 4.47
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.29
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.729
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.215
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 4.43
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.7241
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.31
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.22
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.73
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ABX",
+      "price": 13.335
+    },
+    {
+      "ticker": "CLSD",
+      "price": 11.62
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.66
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ABX",
+      "price": 13.31
+    },
+    {
+      "ticker": "FNB",
+      "price": 13.355
+    },
+    {
+      "ticker": "CLSD",
+      "price": 11.69
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABX",
+      "price": 13.435
+    },
+    {
+      "ticker": "UA",
+      "price": 14.9244
+    },
+    {
+      "ticker": "CHEK",
+      "price": 12.31
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ABX",
+      "price": 13.38
+    },
+    {
+      "ticker": "QID",
+      "price": 12.05
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.74
+    }
+  ],
+  "198": [
+    {
+      "ticker": "QID",
+      "price": 12.26
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.71
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.3901
+    }
+  ],
+  "250": [
+    {
+      "ticker": "QID",
+      "price": 12.335
+    },
+    {
+      "ticker": "TZA",
+      "price": 11.23
+    },
+    {
+      "ticker": "UA",
+      "price": 14.8766
+    }
+  ],
+  "300": [
+    {
+      "ticker": "QID",
+      "price": 12.4299
+    },
+    {
+      "ticker": "TZA",
+      "price": 11.295
+    },
+    {
+      "ticker": "SOXS",
+      "price": 14.35
+    }
+  ]
+}

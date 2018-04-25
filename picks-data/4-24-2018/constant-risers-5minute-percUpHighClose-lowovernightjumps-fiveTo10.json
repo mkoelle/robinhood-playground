@@ -1,0 +1,71 @@
+{
+  "40": [],
+  "80": [
+    {
+      "ticker": "DLNG",
+      "price": 9.39
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.7941
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DLNG",
+      "price": 9.37
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.7941
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DLNG",
+      "price": 9.2401
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.7941
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DLNG",
+      "price": 9.35
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.85
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DLNG",
+      "price": 9.294
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.85
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.705
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DLNG",
+      "price": 9.1452
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.85
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.705
+    }
+  ]
+}

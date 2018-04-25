@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 6.521
+    },
+    {
+      "ticker": "PRGX",
+      "price": 9.95
+    },
+    {
+      "ticker": "TOUR",
+      "price": 6.13
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OMEX",
+      "price": 8.16
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.275
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.325
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EIGR",
+      "price": 9.1
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.129
+    },
+    {
+      "ticker": "EGAN",
+      "price": 8.6747
+    }
+  ]
+}

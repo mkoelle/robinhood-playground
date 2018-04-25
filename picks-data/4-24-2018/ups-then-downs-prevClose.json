@@ -1,0 +1,40 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "NAP",
+      "price": 4.33
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NAP",
+      "price": 4.3472
+    },
+    {
+      "ticker": "ENSV",
+      "price": 0.9802
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NAP",
+      "price": 4.455
+    },
+    {
+      "ticker": "ENSV",
+      "price": 0.9801
+    }
+  ],
+  "600": [
+    {
+      "ticker": "NAP",
+      "price": 4.5
+    },
+    {
+      "ticker": "ENSV",
+      "price": 0.985
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 7.045
+    },
+    {
+      "ticker": "SIEB",
+      "price": 7.92
+    },
+    {
+      "ticker": "VXRT",
+      "price": 5.5367
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIX",
+      "price": 6.955
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    },
+    {
+      "ticker": "VXRT",
+      "price": 5.4
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIX",
+      "price": 7.145
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    },
+    {
+      "ticker": "VXRT",
+      "price": 5.37
+    },
+    {
+      "ticker": "GFA",
+      "price": 7.05
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 6.521
+    },
+    {
+      "ticker": "VTL",
+      "price": 5.525
+    },
+    {
+      "ticker": "HHS",
+      "price": 9.31
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ALRN",
+      "price": 5.53
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.16
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.325
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ALRN",
+      "price": 5.44
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.1
+    },
+    {
+      "ticker": "ULBI",
+      "price": 8.75
+    }
+  ]
+}

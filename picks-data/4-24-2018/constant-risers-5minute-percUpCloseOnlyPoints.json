@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "LEDS",
+      "price": 4.51
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.7
+    },
+    {
+      "ticker": "RAS",
+      "price": 0.1935
+    }
+  ],
+  "80": [
+    {
+      "ticker": "LEDS",
+      "price": 4.4592
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.75
+    },
+    {
+      "ticker": "PQ",
+      "price": 0.6098
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LEDS",
+      "price": 4.11
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.302
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.7
+    }
+  ],
+  "140": [
+    {
+      "ticker": "LEDS",
+      "price": 4.2099
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.72
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.299
+    }
+  ],
+  "198": [
+    {
+      "ticker": "LEDS",
+      "price": 4.1092
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.5623
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.715
+    }
+  ],
+  "250": [
+    {
+      "ticker": "LEDS",
+      "price": 4.234
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.873
+    },
+    {
+      "ticker": "PQ",
+      "price": 0.6094
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LEDS",
+      "price": 4.29
+    },
+    {
+      "ticker": "EYPT",
+      "price": 1.93
+    },
+    {
+      "ticker": "CDMO",
+      "price": 3.77
+    }
+  ]
+}

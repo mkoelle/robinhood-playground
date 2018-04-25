@@ -1,0 +1,83 @@
+{
+  "4": [
+    {
+      "ticker": "SIFY",
+      "price": 2.2149
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.8599
+    },
+    {
+      "ticker": "NVFY",
+      "price": 1.67
+    }
+  ],
+  "40": [],
+  "100": [
+    {
+      "ticker": "DGSE",
+      "price": 0.8597
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELSE",
+      "price": 4.12
+    },
+    {
+      "ticker": "FRAN",
+      "price": 4.99
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.1304
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELSE",
+      "price": 4.12
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.1311
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DLPN",
+      "price": 2.985
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.14
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7322
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DLPN",
+      "price": 3.25
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.1204
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7398
+    }
+  ]
+}

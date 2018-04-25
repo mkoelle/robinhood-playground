@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "EVFM",
+      "price": 7
+    },
+    {
+      "ticker": "SIEB",
+      "price": 7.92
+    },
+    {
+      "ticker": "UNAM",
+      "price": 7.745
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 7.025
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    },
+    {
+      "ticker": "UNAM",
+      "price": 7.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 7.24
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    },
+    {
+      "ticker": "UNAM",
+      "price": 7.5
+    }
+  ]
+}

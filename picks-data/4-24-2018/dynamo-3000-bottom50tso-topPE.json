@@ -1,0 +1,92 @@
+{
+  "4": [
+    {
+      "ticker": "PME",
+      "price": 3.4892
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.6511
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODA",
+      "price": 3.88
+    },
+    {
+      "ticker": "PME",
+      "price": 3.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OZM",
+      "price": 2.045
+    },
+    {
+      "ticker": "PME",
+      "price": 3.4
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OZM",
+      "price": 2.02
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.23
+    },
+    {
+      "ticker": "NAP",
+      "price": 4.3324
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OZM",
+      "price": 2.035
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.2261
+    },
+    {
+      "ticker": "NAP",
+      "price": 4.2211
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OZM",
+      "price": 2.0349
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.215
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.2936
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OZM",
+      "price": 2.04
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.22
+    },
+    {
+      "ticker": "NAP",
+      "price": 4.4562
+    }
+  ]
+}

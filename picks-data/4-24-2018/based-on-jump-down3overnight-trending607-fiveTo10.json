@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "CNFR",
+      "price": 5.5
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.9415
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.045
+    },
+    {
+      "ticker": "SIEB",
+      "price": 7.92
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNFR",
+      "price": 5.5
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.925
+    },
+    {
+      "ticker": "TVIX",
+      "price": 6.955
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNFR",
+      "price": 5.5
+    },
+    {
+      "ticker": "SSG",
+      "price": 8.87
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.145
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.16
+    }
+  ]
+}

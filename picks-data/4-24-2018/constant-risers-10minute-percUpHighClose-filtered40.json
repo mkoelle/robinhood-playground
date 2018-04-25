@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SSC",
+      "price": 2.57
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.105
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.2401
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CLNE",
+      "price": 1.6
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2833
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EBIO",
+      "price": 2.25
+    },
+    {
+      "ticker": "NG",
+      "price": 4.88
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.302
+    }
+  ],
+  "140": [
+    {
+      "ticker": "EBIO",
+      "price": 2.2425
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.73
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.37
+    }
+  ],
+  "198": [
+    {
+      "ticker": "TEUM",
+      "price": 2.73
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.22
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.7
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TEUM",
+      "price": 2.725
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.7
+    },
+    {
+      "ticker": "GPRO",
+      "price": 4.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARA",
+      "price": 1.6683
+    },
+    {
+      "ticker": "GPRO",
+      "price": 4.889
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.7299
+    }
+  ]
+}
