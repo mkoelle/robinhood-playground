@@ -5,11 +5,13 @@ const mySpecialSauce = [
 const forPurchase = [
     '[Yesterday-sortedByAvgTrend-first1]',
     '[Yesterday-sortedByAvgTrend-first1]',
-    '[4IncTodayCount2-sortedByPercUp-first1]',
+    '[4IncTodayCount2-sortedByPercUp-uniq-first3]',
+    '[4IncTodayCount3-sortedByPercUp-uniq-first3]',
     '[4IncTodayCount2-sortedByPercUp-first1]',
     '[4IncTodayCount2-sortedByAvgTrend-uniq-first3]',
     '[4IncToday-sortedByPercUp-first3]',
-    '[12Count5-sortedByAvgTrend-uniq-first3]'
+    '[12Count5-sortedByAvgTrend-uniq-first3]',
+    '[curOverallPredictions-myPredictions-uniq-first3]',
 ];
 
 const cheapestPicksEmailObj = [

@@ -8,7 +8,7 @@ const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier, mi
     const cashAvailable = Number(accounts.results[0].sma);
     // const totalAmtToSpend = cashAvailable * ratioToSpend;
 
-    const amountPerBuy = 32 * multiplier;
+    const amountPerBuy = 40 * multiplier;
     const totalAmtToSpend = Math.min(amountPerBuy, cashAvailable);
     console.log('multiplier', multiplier, 'amountPerBuy', amountPerBuy, 'totalAmtToSpend', totalAmtToSpend);
 
