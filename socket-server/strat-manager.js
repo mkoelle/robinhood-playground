@@ -163,16 +163,22 @@ const stratManager = {
             const overallAvg = avgArray(foundStrategies.filter(val => !!val));
             console.log(stratName, 'overall', overallAvg);
             return {
-                stratName,
+                pm: stratName,
                 avgTrend: overallAvg
             };
-        }).filter(t => !!t.avgTrend).sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend))
+        })
+            .filter(t => !!t.avgTrend)
+            .sort((a, b) => Number(b.avgTrend) - Number(a.avgTrend))
+            .map(({ pm, avgTrend }) => ({
+                pm,
+                avgTrend: avgTrend.toFixed(2) + '%'
+            }));
         console.log('stratrepo', strategyReport);
         const emailFormatted = strategyReport.map(strat => {
-            return `${strat.avgTrend.toFixed(2)}% ${strat.stratName}`;
+            return `${strat.avgTrend} ${strat.pm}`;
         }).join('\n');
         await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, emailFormatted);
-
+        await jsonMgr.save(`./pm-perfs/${this.curDate}.json`, strategyReport);
     },
     async createAndSaveNewPredictionModels(todayPMpath) {
         console.log('creating new prediction models');
