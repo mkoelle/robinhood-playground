@@ -19,7 +19,9 @@ module.exports = async (Robinhood, daysBack = 5) => {
     for (let file of filesOfInterest) {
         const json = await jsonMgr.get(`./pm-perfs/${file}.json`);
         json.forEach(({ pm, avgTrend }) => {
-            pmCache[pm] = (pmCache[pm] || []).concat(Number(avgTrend.slice(0, -1)));
+            pmCache[pm] = (pmCache[pm] || []).concat(
+                Number(avgTrend.slice(0, -1))
+            );
         });
     }
 
@@ -44,7 +46,7 @@ module.exports = async (Robinhood, daysBack = 5) => {
             ...pmAnalysis[pm]
         }))
         .sort((a, b) => b.avgTrend - a.avgTrend)
-        .filter(t => t.trends.length > 2 && t.trends.every(a => a > 2));
+        .filter(t => t.trends.length > 1 && t.trends.every(a => a > 2));
 
     console.log(JSON.stringify(sortedArray, null, 2));
 
