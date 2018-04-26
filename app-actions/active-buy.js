@@ -57,6 +57,7 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice, min }) => {
                     return reject(res.detail || 'unable to purchase' + ticker);
                 }
 
+                const timeout = ((0.8 * TIME_BETWEEN_CHECK) + (Math.random() * TIME_BETWEEN_CHECK * 0.8)) * 1000;
                 setTimeout(async () => {
 
                     // get orders, check if still pending
@@ -103,7 +104,7 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice, min }) => {
                         return resolve(successObj);
 
                     }
-                }, TIME_BETWEEN_CHECK * 1000);
+                }, timeout);
 
             };
 

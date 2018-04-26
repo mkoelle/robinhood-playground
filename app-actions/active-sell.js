@@ -11,7 +11,7 @@ const mapLimit = require('promise-map-limit');
 
 
 const MIN_SELL_RATIO = 0.99; // before gives up
-const TIME_BETWEEN_CHECK = 18; // seconds
+const TIME_BETWEEN_CHECK = 22; // seconds
 const SELL_RATIO_INCREMENT = 0.001;
 
 
@@ -62,6 +62,7 @@ module.exports = (Robinhood, { ticker, quantity }) => {
                     return reject(res.detail);
                 }
 
+                const timeout = ((0.8 * TIME_BETWEEN_CHECK) + (Math.random() * TIME_BETWEEN_CHECK * 0.8)) * 1000;
                 setTimeout(async () => {
 
                     // get orders, check if still pending
@@ -105,7 +106,7 @@ module.exports = (Robinhood, { ticker, quantity }) => {
                         return resolve(successObj);
 
                     }
-                }, TIME_BETWEEN_CHECK * 1000);
+                }, timeout);
 
             };
 
