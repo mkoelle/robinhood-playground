@@ -24,21 +24,21 @@ module.exports = async Robinhood => {
         const sellRatio = (pos.dayAge === 2) ? 0.5 : 1;
         console.log('selling', sellRatio * 100, '% of', pos.symbol, 'age=', pos.dayAge);
         const numSharesToSell = Math.ceil(pos.quantity * sellRatio);
-        try {
-            const response = await activeSell(
-                Robinhood,
-                {
-                    ticker: pos.symbol,
-                    quantity: numSharesToSell
-                }
-            );
-            console.log('sold because olderThanOneDay', pos.symbol);
-        } catch (e) {
-            console.log('more err', e);
-        }
+        // try {
+        //     const response = await activeSell(
+        //         Robinhood,
+        //         {
+        //             ticker: pos.symbol,
+        //             quantity: numSharesToSell
+        //         }
+        //     );
+        //     console.log('sold because olderThanOneDay', pos.symbol);
+        // } catch (e) {
+        //     console.log('more err', e);
+        // }
     };
 
-    const results = mapLimit(olderThanTwoDays, 3, pos => {
+    const results = mapLimit(olderThanOneDay, 3, pos => {
         const waitTime = Math.random() * 1000*60*50;
         console.log('waiting', waitTime, 'for', pos.symbol);
         setTimeout(() => sellIt(pos), waitTime);

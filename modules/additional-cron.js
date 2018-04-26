@@ -18,32 +18,32 @@ const getAllTickers = require('../rh-actions/get-all-tickers');
 const stratManager = require('../socket-server/strat-manager');
 
 const additionalCronConfig = [
-    // {
-    //     name: 'sell all stocks',
-    //     run: [8],
-    //     fn: (Robinhood) => {
-    //
-    //         setTimeout(async () => {
-    //             // daily at 6:30AM + 4 seconds
-    //             // await sellAllStocks(Robinhood);
-    //             // console.log('done selling all');
-    //             //
-    //             // timeoutPromise(5000);
-    //             console.log('selling all stocks that went up');
-    //             await sellAllIfWentUp(Robinhood);
-    //             // console.log('logging portfolio value');
-    //             // await logPortfolioValue(Robinhood);
-    //
-    //         }, 8);
-    //
-    //     }
-    // },
-    // sell all if went up
     {
-        name: 'sellAllIfWentUp',
-        run: [90, 305],
-        fn: sellAllIfWentUp
+        name: 'sell all stocks',
+        run: [0],
+        fn: (Robinhood) => {
+
+            setTimeout(async () => {
+                // daily at 6:30AM + 4 seconds
+                await sellAllStocks(Robinhood);
+                console.log('done selling all');
+                //
+                // timeoutPromise(5000);
+                // console.log('selling all stocks that went up');
+                // await sellAllIfWentUp(Robinhood);
+                // console.log('logging portfolio value');
+                // await logPortfolioValue(Robinhood);
+
+            }, 8);
+
+        }
     },
+    // sell all if went up
+    // {
+    //     name: 'sellAllIfWentUp',
+    //     run: [90, 305],
+    //     fn: sellAllIfWentUp
+    // },
     // sell all if went up
     // {
     //     name: 'sellAllStocks',
@@ -77,11 +77,11 @@ const additionalCronConfig = [
         fn: recordStratPerfs
     },
     //sellAllOlderThanTwoDays
-    {
-        name: 'sell all if older than one day',
-        run: [45],
-        fn: sellAllOlderThanTwoDays
-    },
+    // {
+    //     name: 'sell all if older than one day',
+    //     run: [45],
+    //     fn: sellAllOlderThanTwoDays
+    // },
     {
         name: 'getAllTickers',
         run: [1020],
