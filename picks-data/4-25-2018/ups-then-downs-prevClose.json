@@ -1,0 +1,94 @@
+{
+  "10": [
+    {
+      "ticker": "MARA",
+      "price": 1.7699
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.155
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MARA",
+      "price": 1.6361
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.289
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.1157
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARA",
+      "price": 1.705
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.2219
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.12
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARA",
+      "price": 1.7623
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.22
+    },
+    {
+      "ticker": "AVXL",
+      "price": 2.4
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.11
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MARA",
+      "price": 1.7634
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.23
+    },
+    {
+      "ticker": "AVXL",
+      "price": 2.38
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.09
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MARA",
+      "price": 1.76
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.27
+    },
+    {
+      "ticker": "AVXL",
+      "price": 2.38
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.14
+    }
+  ]
+}

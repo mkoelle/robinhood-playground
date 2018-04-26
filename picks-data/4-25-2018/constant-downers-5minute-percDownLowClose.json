@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MATR",
+      "price": 2.15
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.4
+    },
+    {
+      "ticker": "SYNC",
+      "price": 1.6
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DXLG",
+      "price": 1.775
+    },
+    {
+      "ticker": "JOB",
+      "price": 2.21
+    },
+    {
+      "ticker": "IDN",
+      "price": 1.925
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MICR",
+      "price": 3.74
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.36
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.3501
+    }
+  ]
+}

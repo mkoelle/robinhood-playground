@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 14.7201
+    },
+    {
+      "ticker": "SPN",
+      "price": 10.025
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.385
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SPN",
+      "price": 10.46
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.66
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TELL",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.7
+    },
+    {
+      "ticker": "KPTI",
+      "price": 14.27
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TELL",
+      "price": 10.035
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.62
+    },
+    {
+      "ticker": "KPTI",
+      "price": 14.23
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CVE",
+      "price": 10.04
+    },
+    {
+      "ticker": "KPTI",
+      "price": 14.525
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.5639
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CVE",
+      "price": 10.06
+    },
+    {
+      "ticker": "KPTI",
+      "price": 14.6
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.5451
+    }
+  ],
+  "300": [
+    {
+      "ticker": "KPTI",
+      "price": 14.57
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.4642
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.45
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "10": [
+    {
+      "ticker": "BSTI",
+      "price": 11
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "TELL",
+      "price": 10.035
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.04
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TELL",
+      "price": 10.3
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.08
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TELL",
+      "price": 10.3
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.03
+    }
+  ],
+  "600": [
+    {
+      "ticker": "TELL",
+      "price": 10.3
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.03
+    }
+  ]
+}

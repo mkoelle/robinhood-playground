@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "FCRE",
+      "price": 0.67
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.77
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.4692
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCRE",
+      "price": 0.75
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.76
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCRE",
+      "price": 0.75
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.67
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.06
+    }
+  ]
+}

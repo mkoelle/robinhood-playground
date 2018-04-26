@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TZOO",
+      "price": 9
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.88
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.51
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MDXG",
+      "price": 7.91
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.87
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 8.72
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.92
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.73
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CVE",
+      "price": 9.9
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.37
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.68
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CDE",
+      "price": 8.45
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.64
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.41
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TVIX",
+      "price": 8.39
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.875
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.52
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IRT",
+      "price": 9.26
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.44
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.51
+    }
+  ]
+}

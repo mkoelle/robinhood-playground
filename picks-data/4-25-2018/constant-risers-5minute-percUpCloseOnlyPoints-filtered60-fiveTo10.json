@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "CVE",
+      "price": 9.51
+    },
+    {
+      "ticker": "SND",
+      "price": 6.81
+    },
+    {
+      "ticker": "TELL",
+      "price": 9.8241
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MDXG",
+      "price": 7.91
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.575
+    },
+    {
+      "ticker": "SND",
+      "price": 6.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVE",
+      "price": 9.73
+    },
+    {
+      "ticker": "MDXG",
+      "price": 7.97
+    },
+    {
+      "ticker": "SND",
+      "price": 7.005
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TZOO",
+      "price": 9.683
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.9
+    },
+    {
+      "ticker": "SND",
+      "price": 7.05
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CPG",
+      "price": 9.1
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.45
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CPG",
+      "price": 9.08
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.52
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CPG",
+      "price": 9.06
+    }
+  ]
+}

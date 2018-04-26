@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "SLDB",
+      "price": 12.52
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SLDB",
+      "price": 12.53
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHEK",
+      "price": 12.75
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.07
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHEK",
+      "price": 13.0761
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.9
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CHEK",
+      "price": 13.37
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.89
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CHEK",
+      "price": 12.87
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.99
+    }
+  ]
+}

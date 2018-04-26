@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "MNKD",
+      "price": 1.825
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.6884
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4588
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MNKD",
+      "price": 1.79
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.6583
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MNKD",
+      "price": 1.78
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.49
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.6259
+    }
+  ]
+}

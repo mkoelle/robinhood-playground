@@ -1,0 +1,60 @@
+{
+  "40": [
+    {
+      "ticker": "MDR",
+      "price": 6.88
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.51
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MDR",
+      "price": 6.87
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.575
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDR",
+      "price": 6.92
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.73
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MDR",
+      "price": 6.825
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.9
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MDR",
+      "price": 6.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MDR",
+      "price": 6.875
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MDR",
+      "price": 6.815
+    }
+  ]
+}

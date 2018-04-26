@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "SWN",
+      "price": 4.35
+    },
+    {
+      "ticker": "SN",
+      "price": 3.07
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.765
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IPI",
+      "price": 4.57
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.37
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.72
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SWN",
+      "price": 4.38
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.651
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.535
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IPI",
+      "price": 4.691
+    },
+    {
+      "ticker": "CNAT",
+      "price": 3.5
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.505
+    }
+  ],
+  "198": [
+    {
+      "ticker": "IPI",
+      "price": 4.7232
+    },
+    {
+      "ticker": "CNAT",
+      "price": 3.5459
+    }
+  ],
+  "250": [
+    {
+      "ticker": "IPI",
+      "price": 4.75
+    },
+    {
+      "ticker": "CNAT",
+      "price": 3.6099
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CNAT",
+      "price": 3.645
+    }
+  ]
+}

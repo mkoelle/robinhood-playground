@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "MARA",
+      "price": 1.77
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.42
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARA",
+      "price": 1.76
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.42
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARA",
+      "price": 1.67
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.4202
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.75
+    }
+  ]
+}
