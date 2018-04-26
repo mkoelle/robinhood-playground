@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`23 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`21 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -77,7 +77,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(23);
+        compareDate.setMinutes(21);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
