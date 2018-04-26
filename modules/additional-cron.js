@@ -84,7 +84,7 @@ const additionalCronConfig = [
     // },
     {
         name: 'getAllTickers',
-        run: [1020],
+        run: [1027],
         fn: getAllTickers
     }
 ];
