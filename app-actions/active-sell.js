@@ -12,7 +12,7 @@ const mapLimit = require('promise-map-limit');
 
 const MIN_SELL_RATIO = 0.99; // before gives up
 const TIME_BETWEEN_CHECK = 22; // seconds
-const SELL_RATIO_INCREMENT = 0.001;
+const SELL_RATIO_INCREMENT = 0.0005;
 
 
 const addToDailyTransactions = async data => {
