@@ -8,6 +8,7 @@ const forPurchase = [
     '[12Count5-sortedByAvgTrend-first3]',
     '[10IncTodayCount6-sortedByAvgTrend-uniq-first3]',
     '[5dayCount3-sortedByAvgTrend-uniq-first1]',
+    '[5IncTodayCount5-sortedByAvgTrend-first1]',
     '[5dayCount3-sortedByAvgTrend-uniq-first1]',
     '[3IncToday-sortedByPercUp-first1]',
     '[5day-sortedByPercUp-uniq-first1]',
