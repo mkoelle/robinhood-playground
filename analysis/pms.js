@@ -46,7 +46,7 @@ module.exports = async (Robinhood, daysBack = 5) => {
             ...pmAnalysis[pm]
         }))
         .sort((a, b) => b.avgTrend - a.avgTrend)
-        .filter(t => t.trends.length > 1 && t.trends.every(a => a > 1));
+        // .filter(t => t.trends.length > 2 && t.trends.every(a => a > 1));
 
     console.log(JSON.stringify(sortedArray, null, 2));
 
