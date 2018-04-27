@@ -8,8 +8,8 @@ const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 
 
-const MAX_BUY_RATIO = 1.013; // before gives up
-const TIME_BETWEEN_CHECK = 18; // seconds
+const MAX_BUY_RATIO = 1.025; // before gives up
+const TIME_BETWEEN_CHECK = 20; // seconds
 const BUY_RATIO_INCREMENT = 0.001;
 
 
