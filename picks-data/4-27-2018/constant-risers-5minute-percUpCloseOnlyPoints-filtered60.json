@@ -1,0 +1,60 @@
+{
+  "40": [
+    {
+      "ticker": "FCRE",
+      "price": 1.355
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.0352
+    },
+    {
+      "ticker": "MARA",
+      "price": 2.0132
+    }
+  ],
+  "80": [
+    {
+      "ticker": "INPX",
+      "price": 0.39
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.4819
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INPX",
+      "price": 0.3851
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9054
+    }
+  ],
+  "140": [
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.9999
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3685
+    }
+  ],
+  "198": [],
+  "300": []
+}

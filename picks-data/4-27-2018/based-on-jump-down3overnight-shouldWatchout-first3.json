@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CLDC",
+      "price": 2.02
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.85
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.3948
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 2.234
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.9
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.385
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 2.234
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.89
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.381
+    }
+  ]
+}

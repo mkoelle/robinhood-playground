@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 12.7
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.65
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 13.4
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.615
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 13.7152
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.434
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    }
+  ]
+}

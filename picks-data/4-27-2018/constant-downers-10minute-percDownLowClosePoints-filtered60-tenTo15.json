@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RYI",
+      "price": 10.1
+    },
+    {
+      "ticker": "OOMA",
+      "price": 11.1
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.39
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WAIR",
+      "price": 10.075
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.12
+    },
+    {
+      "ticker": "CUE",
+      "price": 12.38
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CUE",
+      "price": 12.075
+    },
+    {
+      "ticker": "DRV",
+      "price": 12.23
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.22
+    }
+  ]
+}

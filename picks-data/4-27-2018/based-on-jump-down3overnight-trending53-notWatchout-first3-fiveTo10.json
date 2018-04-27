@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "RLH",
+      "price": 10.1
+    },
+    {
+      "ticker": "MITK",
+      "price": 7.75
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MITK",
+      "price": 7.8132
+    },
+    {
+      "ticker": "MDR",
+      "price": 7.03
+    },
+    {
+      "ticker": "NR",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MITK",
+      "price": 7.75
+    },
+    {
+      "ticker": "MDR",
+      "price": 7.08
+    },
+    {
+      "ticker": "NR",
+      "price": 9.55
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "5": [
+    {
+      "ticker": "HUSA",
+      "price": 0.23
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.2
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.115
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.4627
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2374
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.15
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.115
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.4627
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2352
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.165
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.105
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.8
+    }
+  ]
+}

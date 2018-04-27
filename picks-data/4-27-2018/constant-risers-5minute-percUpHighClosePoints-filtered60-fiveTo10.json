@@ -1,0 +1,65 @@
+{
+  "40": [
+    {
+      "ticker": "CRR",
+      "price": 7.805
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.98
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.825
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AGLE",
+      "price": 8.6028
+    },
+    {
+      "ticker": "BKD",
+      "price": 7.13
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.9699
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AGLE",
+      "price": 8.75
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.105
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.9
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AGLE",
+      "price": 8.95
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.93
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.08
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AGLE",
+      "price": 8.855
+    }
+  ],
+  "300": []
+}

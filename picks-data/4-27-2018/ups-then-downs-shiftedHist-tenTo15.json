@@ -1,0 +1,44 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 13.6
+    },
+    {
+      "ticker": "REW",
+      "price": 14.65
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SOXS",
+      "price": 13.55
+    },
+    {
+      "ticker": "REW",
+      "price": 14.4752
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SOXS",
+      "price": 13.6055
+    },
+    {
+      "ticker": "REW",
+      "price": 14.4752
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SOXS",
+      "price": 13.58
+    },
+    {
+      "ticker": "REW",
+      "price": 14.4752
+    }
+  ]
+}

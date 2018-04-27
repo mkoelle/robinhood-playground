@@ -1,0 +1,64 @@
+{
+  "5": [
+    {
+      "ticker": "KN",
+      "price": 12.825
+    },
+    {
+      "ticker": "CNHI",
+      "price": 12.3738
+    },
+    {
+      "ticker": "BRID",
+      "price": 15
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KN",
+      "price": 12.97
+    },
+    {
+      "ticker": "CNHI",
+      "price": 12.34
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KN",
+      "price": 12.65
+    },
+    {
+      "ticker": "CNHI",
+      "price": 12.335
+    },
+    {
+      "ticker": "COE",
+      "price": 10.78
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12.71
+    }
+  ]
+}

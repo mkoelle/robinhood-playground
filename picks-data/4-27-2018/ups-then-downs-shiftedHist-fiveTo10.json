@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "SSG",
+      "price": 8.7893
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.25
+    }
+  ],
+  "50": [
+    {
+      "ticker": "KONE",
+      "price": 6.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSG",
+      "price": 9.05
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.44
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SSG",
+      "price": 9.03
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.3123
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SSG",
+      "price": 9.03
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.3162
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SSG",
+      "price": 9.05
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.34
+    }
+  ]
+}

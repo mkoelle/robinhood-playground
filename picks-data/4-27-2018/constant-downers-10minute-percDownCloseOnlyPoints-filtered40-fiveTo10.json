@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VOC",
+      "price": 5.284
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.2001
+    },
+    {
+      "ticker": "VTL",
+      "price": 5.625
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TRIL",
+      "price": 6.15
+    },
+    {
+      "ticker": "NERV",
+      "price": 6.5
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NERV",
+      "price": 6.45
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.4
+    },
+    {
+      "ticker": "SCPH",
+      "price": 9.27
+    }
+  ]
+}

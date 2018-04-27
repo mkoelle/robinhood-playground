@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "EVLV",
+      "price": 1.1888
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.4502
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PFIE",
+      "price": 3.5186
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 3.51
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PFIE",
+      "price": 3.61
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PFIE",
+      "price": 3.54
+    }
+  ],
+  "600": [
+    {
+      "ticker": "PFIE",
+      "price": 3.5
+    }
+  ]
+}

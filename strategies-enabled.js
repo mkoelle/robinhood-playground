@@ -3,22 +3,13 @@ const mySpecialSauce = [
 ];
 
 const forPurchase = [
-    'sudden-drops-last10trend-63',
-    '[7IncTodayCount5-sortedByAvgTrend-first3]',
-    '[12Count5-sortedByAvgTrend-first3]',
-    '[10IncTodayCount6-sortedByAvgTrend-uniq-first3]',
-    '[5dayCount3-sortedByAvgTrend-uniq-first1]',
-    '[5IncTodayCount5-sortedByAvgTrend-first1]',
-    '[5dayCount3-sortedByAvgTrend-uniq-first1]',
     '[3IncToday-sortedByPercUp-first1]',
-    '[5day-sortedByPercUp-uniq-first1]',
-    '[3IncToday-sortedByPercUp-first3]',
-    '[5IncTodayCount4-sortedByPercUp-uniq-first1]',
-    '[5IncTodayCount4-sortedByPercUp-uniq-first1]',
-    '[4IncTodayCount3-sortedByAvgTrend-uniq-first1]',
-    '[4IncTodayCount3-sortedByAvgTrend-uniq-first1]',
-    '[7IncTodayCount5-sortedByPercUp-uniq-first1]',
-    '[7IncTodayCount5-sortedByPercUp-uniq-first1]'
+    '[5day-sortedByPercUp-first3]',
+    '[5IncTodayCount4-sortedByPercUp-first1]',
+    '[12Count5-sortedByAvgTrend-uniq-first1]',
+    '[4IncTodayCount3-sortedByPercUp-uniq-first1]',
+    '[5dayCount3-sortedByPercUp-uniq-first1]',
+    '[7IncTodayCount5-sortedByAvgTrend-first3]',
 ];
 
 const cheapestPicksEmailObj = [

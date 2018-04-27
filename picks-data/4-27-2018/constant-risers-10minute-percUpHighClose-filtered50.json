@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "ICON",
+      "price": 0.9441
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.4
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.6683
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NGD",
+      "price": 2.4
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.51
+    },
+    {
+      "ticker": "WFT",
+      "price": 2.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGO",
+      "price": 0.9475
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.275
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9054
+    }
+  ],
+  "140": [
+    {
+      "ticker": "WFT",
+      "price": 2.985
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.9768
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.635
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MARA",
+      "price": 1.9668
+    },
+    {
+      "ticker": "CLD",
+      "price": 2.98
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.2291
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARA",
+      "price": 1.9
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9499
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.65
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "TGA",
+      "price": 1.72
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.88
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FPAY",
+      "price": 4.2252
+    },
+    {
+      "ticker": "TGA",
+      "price": 1.65
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.9048
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FPAY",
+      "price": 4.2452
+    },
+    {
+      "ticker": "TGA",
+      "price": 1.68
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.91
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "SPWR",
+      "price": 9.2416
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.805
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.705
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AGLE",
+      "price": 8.6028
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.6194
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMKR",
+      "price": 8.5789
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.75
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.8
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AGLE",
+      "price": 8.95
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.93
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.08
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AGLE",
+      "price": 8.855
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.895
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.09
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TNDM",
+      "price": 7.59
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.915
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.81
+    }
+  ]
+}

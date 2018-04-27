@@ -1,0 +1,32 @@
+{
+  "5": [
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSBI",
+      "price": 14.25
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12.71
+    }
+  ]
+}

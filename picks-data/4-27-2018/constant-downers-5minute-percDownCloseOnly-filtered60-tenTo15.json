@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LIVE",
+      "price": 13.07
+    },
+    {
+      "ticker": "AQXP",
+      "price": 12.39
+    },
+    {
+      "ticker": "PICO",
+      "price": 12.025
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GRBK",
+      "price": 10.45
+    },
+    {
+      "ticker": "TACT",
+      "price": 12.35
+    },
+    {
+      "ticker": "MSON",
+      "price": 11.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PHII",
+      "price": 13
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.075
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.55
+    }
+  ]
+}

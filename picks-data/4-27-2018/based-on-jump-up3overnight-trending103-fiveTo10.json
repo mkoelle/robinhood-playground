@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "HEAR",
+      "price": 5.12
+    },
+    {
+      "ticker": "CLUB",
+      "price": 9.361
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEAR",
+      "price": 5.2694
+    },
+    {
+      "ticker": "CLUB",
+      "price": 9.1972
+    },
+    {
+      "ticker": "MFCB",
+      "price": 6.4497
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEAR",
+      "price": 5.0999
+    },
+    {
+      "ticker": "CLUB",
+      "price": 9.225
+    },
+    {
+      "ticker": "MFCB",
+      "price": 6.4497
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.8
+    }
+  ]
+}

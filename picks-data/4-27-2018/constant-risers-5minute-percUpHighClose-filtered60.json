@@ -1,0 +1,60 @@
+{
+  "40": [
+    {
+      "ticker": "FCRE",
+      "price": 1.355
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.6548
+    },
+    {
+      "ticker": "CVM",
+      "price": 2.12
+    }
+  ],
+  "80": [
+    {
+      "ticker": "PDS",
+      "price": 3.51
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.37
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9054
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3851
+    }
+  ],
+  "140": [
+    {
+      "ticker": "EGO",
+      "price": 0.957
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3685
+    }
+  ],
+  "198": [],
+  "300": []
+}

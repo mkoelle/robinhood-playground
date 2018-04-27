@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "RLH",
+      "price": 10.1
+    },
+    {
+      "ticker": "NR",
+      "price": 9.55
+    },
+    {
+      "ticker": "RBS",
+      "price": 7.46
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.411
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NR",
+      "price": 9.5
+    },
+    {
+      "ticker": "RBS",
+      "price": 7.45
+    },
+    {
+      "ticker": "DAVE",
+      "price": 8.001
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NR",
+      "price": 9.55
+    },
+    {
+      "ticker": "RBS",
+      "price": 7.46
+    },
+    {
+      "ticker": "DAVE",
+      "price": 8.15
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.21
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "HUSA",
+      "price": 0.23
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.2
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.115
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.4627
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2374
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.4627
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2352
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.165
+    }
+  ]
+}

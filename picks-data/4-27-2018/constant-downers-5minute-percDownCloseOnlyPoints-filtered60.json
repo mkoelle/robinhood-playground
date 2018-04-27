@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CGEN",
+      "price": 3.55
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.6299
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.343
+    }
+  ],
+  "242": [
+    {
+      "ticker": "UAVS",
+      "price": 2.4
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.5253
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1563
+    }
+  ],
+  "309": [
+    {
+      "ticker": "UAVS",
+      "price": 2.3628
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.7521
+    },
+    {
+      "ticker": "SITO",
+      "price": 3.32
+    }
+  ]
+}

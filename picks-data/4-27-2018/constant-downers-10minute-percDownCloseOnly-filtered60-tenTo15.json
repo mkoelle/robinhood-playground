@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PICO",
+      "price": 12.025
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.07
+    },
+    {
+      "ticker": "GAIA",
+      "price": 14.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PHII",
+      "price": 13
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.05
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.55
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TACT",
+      "price": 12.5
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.55
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "BXE",
+      "price": 1.5115
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PDS",
+      "price": 3.49
+    },
+    {
+      "ticker": "CSBR",
+      "price": 4.34
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.5717
+    },
+    {
+      "ticker": "ACTG",
+      "price": 3.75
+    },
+    {
+      "ticker": "ICAD",
+      "price": 4.0611
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACTG",
+      "price": 3.705
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.515
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.59
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACTG",
+      "price": 3.75
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.5739
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.89
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACTG",
+      "price": 3.75
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.3373
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.8945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPHS",
+      "price": 2.408
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSBR",
+      "price": 4.45
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.44
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "LTRX",
+      "price": 2.45
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.5825
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.623
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LTRX",
+      "price": 2.4554
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.5736
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LTRX",
+      "price": 2.4554
+    },
+    {
+      "ticker": "LINU",
+      "price": 1.6092
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.2952
+    }
+  ]
+}
