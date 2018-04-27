@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CHEK",
+      "price": 9.45
+    },
+    {
+      "ticker": "ESND",
+      "price": 8.85
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.3228
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHEK",
+      "price": 9.375
+    },
+    {
+      "ticker": "ESND",
+      "price": 8.33
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHEK",
+      "price": 8.98
+    },
+    {
+      "ticker": "ESND",
+      "price": 7.68
+    },
+    {
+      "ticker": "CRR",
+      "price": 7.57
+    }
+  ]
+}

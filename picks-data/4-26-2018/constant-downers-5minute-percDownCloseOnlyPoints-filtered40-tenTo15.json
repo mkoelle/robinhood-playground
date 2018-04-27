@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BEL",
+      "price": 10.875
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.345
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "STRL",
+      "price": 11.11
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.52
+    },
+    {
+      "ticker": "NSH",
+      "price": 11.611
+    }
+  ],
+  "309": [
+    {
+      "ticker": "STRL",
+      "price": 11.16
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.68
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.58
+    }
+  ]
+}

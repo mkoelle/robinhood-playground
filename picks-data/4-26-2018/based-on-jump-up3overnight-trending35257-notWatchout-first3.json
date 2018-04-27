@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "PGH",
+      "price": 0.909
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.2
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PGH",
+      "price": 0.9252
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.2
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.4148
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PGH",
+      "price": 0.9148
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.2
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.41
+    }
+  ]
+}

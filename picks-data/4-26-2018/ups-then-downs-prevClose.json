@@ -1,0 +1,60 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "LEDS",
+      "price": 4.3499
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.7799
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EVLV",
+      "price": 1.17
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.57
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.4501
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.9948
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PFIE",
+      "price": 3.42
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.1816
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.93
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EVLV",
+      "price": 1.17
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.4
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.97
+    }
+  ]
+}

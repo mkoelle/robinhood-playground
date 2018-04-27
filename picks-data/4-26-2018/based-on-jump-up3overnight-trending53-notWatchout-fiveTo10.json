@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "VOC",
+      "price": 5.41
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.165
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.72
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VOC",
+      "price": 5.43
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.76
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.78
+    },
+    {
+      "ticker": "KRYS",
+      "price": 9.4999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VOC",
+      "price": 5.41
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.811
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.88
+    },
+    {
+      "ticker": "KRYS",
+      "price": 9.81
+    }
+  ]
+}

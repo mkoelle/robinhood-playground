@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CDTI",
+      "price": 0.6701
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3606
+    },
+    {
+      "ticker": "USAS",
+      "price": 3.8054
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PLG",
+      "price": 0.2111
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.145
+    },
+    {
+      "ticker": "VHC",
+      "price": 2.549
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PLG",
+      "price": 0.21
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.1699
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4596
+    }
+  ]
+}

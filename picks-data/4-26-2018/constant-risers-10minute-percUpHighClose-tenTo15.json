@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BRX",
+      "price": 14.23
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.0177
+    },
+    {
+      "ticker": "VLY",
+      "price": 12.33
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ENLK",
+      "price": 14.43
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.375
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.885
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMD",
+      "price": 11.1812
+    },
+    {
+      "ticker": "VLY",
+      "price": 12.52
+    },
+    {
+      "ticker": "PRTA",
+      "price": 11.67
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMD",
+      "price": 11.015
+    },
+    {
+      "ticker": "AI",
+      "price": 11.33
+    },
+    {
+      "ticker": "PRTA",
+      "price": 11.67
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PRTA",
+      "price": 11.81
+    },
+    {
+      "ticker": "NUAN",
+      "price": 14.84
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.22
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PRTA",
+      "price": 11.64
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.94
+    },
+    {
+      "ticker": "GE",
+      "price": 14.385
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PBR",
+      "price": 13.8
+    },
+    {
+      "ticker": "PRTA",
+      "price": 12.01
+    },
+    {
+      "ticker": "AES",
+      "price": 12.235
+    }
+  ]
+}

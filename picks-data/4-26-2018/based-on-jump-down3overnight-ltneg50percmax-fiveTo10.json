@@ -1,0 +1,64 @@
+{
+  "5": [
+    {
+      "ticker": "CHEK",
+      "price": 9.45
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.0173
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.38
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHEK",
+      "price": 9.375
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.1
+    },
+    {
+      "ticker": "IRIX",
+      "price": 5.3001
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.5199
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.9292
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHEK",
+      "price": 8.98
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.32
+    },
+    {
+      "ticker": "IRIX",
+      "price": 5.3101
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.45
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.8251
+    }
+  ]
+}

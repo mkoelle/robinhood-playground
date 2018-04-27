@@ -1,0 +1,156 @@
+{
+  "4": [
+    {
+      "ticker": "DS",
+      "price": 5.2
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.7562
+    },
+    {
+      "ticker": "TZOO",
+      "price": 9.85
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.98
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 5.76
+    },
+    {
+      "ticker": "SVA",
+      "price": 7.7399
+    },
+    {
+      "ticker": "SHSP",
+      "price": 6.019
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.45
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFSW",
+      "price": 9.5732
+    },
+    {
+      "ticker": "INS",
+      "price": 5.2
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.3989
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.35
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 7.08
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.525
+    },
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.7
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFSW",
+      "price": 9.465
+    },
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.47
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.7
+    },
+    {
+      "ticker": "CPG",
+      "price": 8.9373
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LGCY",
+      "price": 5.61
+    },
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.352
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.65
+    },
+    {
+      "ticker": "CATS",
+      "price": 5.0323
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LGCY",
+      "price": 5.585
+    },
+    {
+      "ticker": "DAVE",
+      "price": 8.4008
+    },
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.26
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.72
+    }
+  ]
+}

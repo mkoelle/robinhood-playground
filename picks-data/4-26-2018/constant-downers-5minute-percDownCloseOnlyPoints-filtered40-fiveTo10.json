@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OMEX",
+      "price": 7.6
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.39
+    },
+    {
+      "ticker": "XONE",
+      "price": 7.17
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NEXT",
+      "price": 6.699
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.65
+    },
+    {
+      "ticker": "GMZ",
+      "price": 8.63
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EGC",
+      "price": 5.64
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.68
+    },
+    {
+      "ticker": "GMZ",
+      "price": 8.68
+    }
+  ]
+}

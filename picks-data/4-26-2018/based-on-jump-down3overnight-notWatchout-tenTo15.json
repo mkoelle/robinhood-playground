@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "HRG",
+      "price": 9.925
+    },
+    {
+      "ticker": "SOXS",
+      "price": 13.688
+    },
+    {
+      "ticker": "REW",
+      "price": 14.575
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HRG",
+      "price": 9.69
+    },
+    {
+      "ticker": "SOXS",
+      "price": 13.67
+    },
+    {
+      "ticker": "REW",
+      "price": 14.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOXS",
+      "price": 13.39
+    },
+    {
+      "ticker": "REW",
+      "price": 14.5601
+    }
+  ]
+}

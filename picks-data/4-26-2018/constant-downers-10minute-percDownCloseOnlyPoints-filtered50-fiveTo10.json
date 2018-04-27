@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VOC",
+      "price": 5.39
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.6
+    },
+    {
+      "ticker": "RFIL",
+      "price": 5.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NEXT",
+      "price": 6.699
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.285
+    },
+    {
+      "ticker": "EIGR",
+      "price": 8.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VOC",
+      "price": 5.3399
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.63
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.68
+    }
+  ]
+}

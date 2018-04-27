@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "EROS",
+      "price": 10.9
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.25
+    },
+    {
+      "ticker": "GOV",
+      "price": 12.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVX",
+      "price": 14.91
+    },
+    {
+      "ticker": "EROS",
+      "price": 10.75
+    },
+    {
+      "ticker": "KN",
+      "price": 11.235
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVX",
+      "price": 14.76
+    },
+    {
+      "ticker": "FLY",
+      "price": 12.4554
+    },
+    {
+      "ticker": "GOL",
+      "price": 10.9492
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVX",
+      "price": 14.63
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.35
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.1736
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVX",
+      "price": 14.82
+    },
+    {
+      "ticker": "GOL",
+      "price": 10.86
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVX",
+      "price": 14.72
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.305
+    },
+    {
+      "ticker": "QNST",
+      "price": 10.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVX",
+      "price": 14.68
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.275
+    },
+    {
+      "ticker": "QNST",
+      "price": 10.92
+    }
+  ]
+}

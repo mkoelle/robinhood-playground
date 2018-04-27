@@ -1,0 +1,32 @@
+{
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 12.13
+    },
+    {
+      "ticker": "AMD",
+      "price": 10.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 12.245
+    },
+    {
+      "ticker": "AMD",
+      "price": 10.895
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PCMI",
+      "price": 12.45
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.13
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "PGH",
+      "price": 0.909
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.04
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.37
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PGH",
+      "price": 0.9252
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.045
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.4148
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.4168
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PGH",
+      "price": 0.9148
+    },
+    {
+      "ticker": "HMY",
+      "price": 2.035
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.41
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.445
+    }
+  ]
+}

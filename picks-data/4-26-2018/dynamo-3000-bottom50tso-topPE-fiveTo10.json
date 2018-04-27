@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "CRON",
+      "price": 6.8006
+    },
+    {
+      "ticker": "RCII",
+      "price": 9.91
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRCP",
+      "price": 8.82
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.725
+    },
+    {
+      "ticker": "RFIL",
+      "price": 5.3768
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INS",
+      "price": 5.2
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.29
+    },
+    {
+      "ticker": "PRCP",
+      "price": 8.815
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.27
+    },
+    {
+      "ticker": "PRCP",
+      "price": 8.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.12
+    },
+    {
+      "ticker": "PRCP",
+      "price": 8.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "PRCP",
+      "price": 8.69
+    },
+    {
+      "ticker": "KTCC",
+      "price": 7.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ORN",
+      "price": 6.78
+    },
+    {
+      "ticker": "INS",
+      "price": 5.1102
+    },
+    {
+      "ticker": "PRCP",
+      "price": 8.74
+    }
+  ]
+}

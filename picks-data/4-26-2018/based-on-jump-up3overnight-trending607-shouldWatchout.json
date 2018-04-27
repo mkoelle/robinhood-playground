@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CIDM",
+      "price": 1.66
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.9813
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CIDM",
+      "price": 1.63
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.979
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CIDM",
+      "price": 1.65
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.9674
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.661
+    }
+  ]
+}

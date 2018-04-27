@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.1777
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.7305
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.57
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VTVT",
+      "price": 1.92
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.58
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTVT",
+      "price": 1.976
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1778
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.4299
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VTVT",
+      "price": 1.9301
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.6949
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.03
+    }
+  ],
+  "198": [
+    {
+      "ticker": "VTVT",
+      "price": 2.03
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1774
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NLST",
+      "price": 0.1748
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.77
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.5872
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VTVT",
+      "price": 1.9509
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1718
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.03
+    }
+  ]
+}

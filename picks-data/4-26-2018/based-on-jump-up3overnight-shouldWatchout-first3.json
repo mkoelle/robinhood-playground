@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "MATR",
+      "price": 2.63
+    },
+    {
+      "ticker": "AXSM",
+      "price": 2.85
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MATR",
+      "price": 2.645
+    },
+    {
+      "ticker": "AXSM",
+      "price": 2.875
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MATR",
+      "price": 2.65
+    },
+    {
+      "ticker": "AXSM",
+      "price": 2.875
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3433
+    }
+  ]
+}

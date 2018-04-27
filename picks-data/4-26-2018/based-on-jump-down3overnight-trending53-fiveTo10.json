@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "ESND",
+      "price": 8.85
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.98
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ESND",
+      "price": 8.33
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9.0702
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.9292
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ESND",
+      "price": 7.68
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9.125
+    },
+    {
+      "ticker": "TVIX",
+      "price": 7.8251
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    }
+  ]
+}

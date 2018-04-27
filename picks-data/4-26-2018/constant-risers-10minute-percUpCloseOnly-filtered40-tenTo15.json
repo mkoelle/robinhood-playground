@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "APTS",
+      "price": 14.24
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.76
+    },
+    {
+      "ticker": "CECO",
+      "price": 13.5
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BSTI",
+      "price": 11.2599
+    },
+    {
+      "ticker": "AI",
+      "price": 11.3501
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.885
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FOSL",
+      "price": 15.0232
+    },
+    {
+      "ticker": "BRX",
+      "price": 14.3
+    },
+    {
+      "ticker": "RQI",
+      "price": 11.3793
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BSTI",
+      "price": 11.2703
+    },
+    {
+      "ticker": "RPAI",
+      "price": 11.185
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.86
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MAT",
+      "price": 13.9
+    },
+    {
+      "ticker": "RQI",
+      "price": 11.4386
+    },
+    {
+      "ticker": "RPAI",
+      "price": 11.22
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RPAI",
+      "price": 11.2438
+    },
+    {
+      "ticker": "RQI",
+      "price": 11.4236
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.94
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RPAI",
+      "price": 11.299
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.04
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.28
+    }
+  ]
+}

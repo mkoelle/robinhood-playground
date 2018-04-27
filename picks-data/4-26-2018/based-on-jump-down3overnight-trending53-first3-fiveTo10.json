@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "ESND",
+      "price": 8.85
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ESND",
+      "price": 8.33
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9.0702
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ESND",
+      "price": 7.68
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "SSG",
+      "price": 9.125
+    }
+  ]
+}

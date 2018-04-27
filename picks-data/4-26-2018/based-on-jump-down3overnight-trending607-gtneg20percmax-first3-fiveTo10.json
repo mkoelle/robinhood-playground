@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    },
+    {
+      "ticker": "MAMS",
+      "price": 7.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.1401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFNX",
+      "price": 5.45
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.71
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.156
+    }
+  ]
+}

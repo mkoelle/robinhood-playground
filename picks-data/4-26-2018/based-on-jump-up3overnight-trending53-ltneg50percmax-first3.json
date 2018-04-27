@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "DARE",
+      "price": 1.3399
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.37
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4691
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DARE",
+      "price": 1.34
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.4148
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4569
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DARE",
+      "price": 1.3348
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.41
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.46
+    }
+  ]
+}

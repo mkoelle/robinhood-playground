@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "UONEK",
+      "price": 1.9
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.0901
+    },
+    {
+      "ticker": "CREG",
+      "price": 1.492
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FSI",
+      "price": 1.48
+    },
+    {
+      "ticker": "EVOL",
+      "price": 3.7
+    },
+    {
+      "ticker": "NHLD",
+      "price": 3.34
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EVOL",
+      "price": 3.7
+    },
+    {
+      "ticker": "INSE",
+      "price": 4.75
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.7
+    }
+  ]
+}
