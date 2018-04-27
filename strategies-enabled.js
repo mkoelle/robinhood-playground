@@ -12,6 +12,7 @@ const forPurchase = [
     '[5dayCount3-sortedByAvgTrend-uniq-first1]',
     '[3IncToday-sortedByPercUp-first1]',
     '[5day-sortedByPercUp-uniq-first1]',
+    '[3IncToday-sortedByPercUp-first3]',
     '[5IncTodayCount4-sortedByPercUp-uniq-first1]',
     '[5IncTodayCount4-sortedByPercUp-uniq-first1]',
     '[4IncTodayCount3-sortedByAvgTrend-uniq-first1]',
