@@ -3,6 +3,8 @@ const mySpecialSauce = [
 ];
 
 const forPurchase = [
+    '[5day-sortedByPercUp-uniq-first1]',
+
     '[5IncTodayCount4-sortedByPercUp-first1]',
     '[5IncTodayCount4-sortedByPercUp-first1]',
     '[5dayCount4-sortedByPercUp-uniq-first1]',
@@ -12,7 +14,7 @@ const forPurchase = [
     // '[5day-sortedByPercUp-first3]', decided against (no count, first3)
     '[12Count5-sortedByAvgTrend-uniq-first1]',
     '[4IncTodayCount3-sortedByPercUp-uniq-first1]',
-    '[7IncTodayCount5-sortedByAvgTrend-first3]',
+    '[7IncTodayCount5-sortedByAvgTrend-uniq-first3]',
 ];
 
 const cheapestPicksEmailObj = [
