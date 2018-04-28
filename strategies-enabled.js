@@ -10,7 +10,7 @@ const forPurchase = [
     '[5dayCount4-sortedByPercUp-uniq-first1]',
     '[5dayCount3-sortedByPercUp-uniq-first1]',
 
-    '[3IncToday-sortedByPercUp-first1]',
+    '[3IncToday-sortedByPercUp-first1]',  // risky - no count
     // '[5day-sortedByPercUp-first3]', decided against (no count, first3)
     '[12Count5-sortedByAvgTrend-uniq-first1]',
     '[4IncTodayCount3-sortedByPercUp-uniq-first1]',
