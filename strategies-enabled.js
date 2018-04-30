@@ -2,6 +2,16 @@ const mySpecialSauce = [
     'based-on-jump-down3overnight-trending35257-5'
 ];
 
+const hothot = [
+    'based-on-jump-up3overnight-trending35257-fiveTo10-5',
+    'sudden-drops-last1trend-fiveTo10-32',    //
+    'sudden-drops-last1trend-221',
+    'sudden-drops-last1trend-first2-fiveTo10-14',
+    'based-on-jump-up3overnight-trending35257-shouldWatchout-tenTo15-16',
+    'based-on-jump-up3overnight-shouldWatchout-first3-fiveTo10-30',
+    'based-on-jump-up3overnight-trending607-shouldWatchout-first2-tenTo15-5'
+];
+
 const forPurchase = [
     '[5day-sortedByPercUp-uniq-first1]',
 
@@ -39,6 +49,7 @@ module.exports = {
             'week-swings-tenTo15-1',  // wild
             'constant-risers-10minute-percUpHighClosePoints-300'  // crazy
         ],
-        mySpecialSauce
+        mySpecialSauce,
+        hothot
     }
 }
