@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "S",
+      "price": 5.725
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.98
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "S",
+      "price": 5.7
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.8299
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.5162
+    }
+  ],
+  "30": [
+    {
+      "ticker": "S",
+      "price": 5.675
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.789
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.56
+    }
+  ]
+}

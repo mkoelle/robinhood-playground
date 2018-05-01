@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VLRX",
+      "price": 1.695
+    },
+    {
+      "ticker": "AQMS",
+      "price": 2.9301
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.5726
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MTNB",
+      "price": 0.4705
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.11
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.196
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BIOC",
+      "price": 0.195
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.4758
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3578
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "10": [
+    {
+      "ticker": "PGH",
+      "price": 0.91
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AQMS",
+      "price": 3.121
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.893
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AQMS",
+      "price": 3.1368
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.893
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.4102
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.911
+    },
+    {
+      "ticker": "TYME",
+      "price": 2.37
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AQMS",
+      "price": 3.12
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.9002
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.38
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.945
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.2399
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AQMS",
+      "price": 3.1401
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.8958
+    },
+    {
+      "ticker": "CVM",
+      "price": 2.3001
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.41
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.14
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AQMS",
+      "price": 3.13
+    },
+    {
+      "ticker": "CVM",
+      "price": 2.29
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.9
+    },
+    {
+      "ticker": "TYME",
+      "price": 2.29
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.12
+    }
+  ]
+}

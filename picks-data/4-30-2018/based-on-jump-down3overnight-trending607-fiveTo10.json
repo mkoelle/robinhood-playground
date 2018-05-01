@@ -1,0 +1,56 @@
+{
+  "5": [
+    {
+      "ticker": "S",
+      "price": 5.725
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.015
+    },
+    {
+      "ticker": "BNED",
+      "price": 7.43
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "S",
+      "price": 5.7
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.16
+    },
+    {
+      "ticker": "BNED",
+      "price": 7.38
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "S",
+      "price": 5.675
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.0989
+    },
+    {
+      "ticker": "BNED",
+      "price": 7.39
+    },
+    {
+      "ticker": "PFIN",
+      "price": 7.84
+    }
+  ]
+}

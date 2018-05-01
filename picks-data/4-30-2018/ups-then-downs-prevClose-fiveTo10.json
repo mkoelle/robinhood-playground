@@ -1,0 +1,60 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "CYTK",
+      "price": 8.225
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.625
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.625
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CYTK",
+      "price": 8.2
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.59
+    }
+  ],
+  "380": [
+    {
+      "ticker": "METC",
+      "price": 6.9
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 6.52
+    },
+    {
+      "ticker": "CYTK",
+      "price": 8.325
+    }
+  ],
+  "600": [
+    {
+      "ticker": "METC",
+      "price": 6.83
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.47
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 6.41
+    },
+    {
+      "ticker": "CYTK",
+      "price": 8.3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "DARE",
+      "price": 1.21
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.42
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.7402
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.545
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.471
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DARE",
+      "price": 1.2799
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.37
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.71
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.4685
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DARE",
+      "price": 1.32
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.371
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.7599
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.4815
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.45
+    }
+  ]
+}

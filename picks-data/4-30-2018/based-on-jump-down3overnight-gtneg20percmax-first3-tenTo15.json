@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "SIEN",
+      "price": 11.86
+    },
+    {
+      "ticker": "MAG",
+      "price": 11.053
+    },
+    {
+      "ticker": "SBS",
+      "price": 10.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SIEN",
+      "price": 12.11
+    },
+    {
+      "ticker": "MAG",
+      "price": 11.1101
+    },
+    {
+      "ticker": "SBS",
+      "price": 10.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIEN",
+      "price": 12.1
+    },
+    {
+      "ticker": "MAG",
+      "price": 11.1
+    },
+    {
+      "ticker": "SBS",
+      "price": 10.1101
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "AQ",
+      "price": 11.5239
+    },
+    {
+      "ticker": "FLEX",
+      "price": 13.6901
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.85
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CHEK",
+      "price": 12.3155
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.6728
+    },
+    {
+      "ticker": "SLDB",
+      "price": 14.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHEK",
+      "price": 12.9801
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.7057
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.725
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AQ",
+      "price": 11.5373
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.67
+    },
+    {
+      "ticker": "OAS",
+      "price": 10.955
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.005
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.8132
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MAT",
+      "price": 14.7692
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.125
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.76
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MAT",
+      "price": 14.9
+    }
+  ]
+}

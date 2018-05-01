@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "COE",
+      "price": 11.2
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.45
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.65
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DRIV",
+      "price": 14.77
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.605
+    },
+    {
+      "ticker": "XIVH",
+      "price": 13.6101
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HX",
+      "price": 11.05
+    },
+    {
+      "ticker": "OOMA",
+      "price": 10.7
+    },
+    {
+      "ticker": "CZWI",
+      "price": 13.61
+    }
+  ]
+}

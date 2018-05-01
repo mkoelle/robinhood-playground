@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "EYPT",
+      "price": 2.3834
+    },
+    {
+      "ticker": "III",
+      "price": 4.4
+    }
+  ],
+  "50": [
+    {
+      "ticker": "EYPT",
+      "price": 2.335
+    },
+    {
+      "ticker": "III",
+      "price": 4.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EYPT",
+      "price": 2.345
+    },
+    {
+      "ticker": "III",
+      "price": 4.36
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EYPT",
+      "price": 2.45
+    },
+    {
+      "ticker": "III",
+      "price": 4.34
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EYPT",
+      "price": 2.465
+    },
+    {
+      "ticker": "III",
+      "price": 4.36
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EYPT",
+      "price": 2.46
+    },
+    {
+      "ticker": "III",
+      "price": 4.34
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ALT",
+      "price": 0.756
+    },
+    {
+      "ticker": "AQB",
+      "price": 3.0156
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3052
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AQMS",
+      "price": 3.11
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.4425
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.196
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BIOC",
+      "price": 0.195
+    },
+    {
+      "ticker": "UAVS",
+      "price": 1.9363
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.1
+    }
+  ]
+}

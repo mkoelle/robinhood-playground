@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "XXII",
+      "price": 2.085
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9549
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.8391
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EGO",
+      "price": 0.958
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9583
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.8475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGO",
+      "price": 0.9574
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.15
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.8699
+    }
+  ],
+  "140": [
+    {
+      "ticker": "EGO",
+      "price": 0.9479
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.1805
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9499
+    }
+  ],
+  "198": [
+    {
+      "ticker": "BTE",
+      "price": 4.445
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.9239
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9557
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BTE",
+      "price": 4.505
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.75
+    },
+    {
+      "ticker": "NE",
+      "price": 4.73
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BTE",
+      "price": 4.525
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.65
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9502
+    }
+  ]
+}

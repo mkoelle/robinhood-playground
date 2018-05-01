@@ -29,7 +29,7 @@ module.exports = async (Robinhood, { ticker, strategy, maxPrice, min }) => {
 
             let curBuyRatio = 1.0;
             let attemptCount = 0;
-            maxPrice = Math.min(maxPrice, 35);
+            // maxPrice = Math.min(maxPrice, 35);
 
             const attempt = async () => {
 

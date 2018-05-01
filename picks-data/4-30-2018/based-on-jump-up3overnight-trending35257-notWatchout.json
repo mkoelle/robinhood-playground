@@ -1,0 +1,36 @@
+{
+  "5": [
+    {
+      "ticker": "CHKR",
+      "price": 1.6
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.471
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKR",
+      "price": 1.5972
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKR",
+      "price": 1.5964
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.45
+    },
+    {
+      "ticker": "SACH",
+      "price": 3.6
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "PTN",
+      "price": 1.2
+    },
+    {
+      "ticker": "CYRN",
+      "price": 2.9963
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.1022
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PTN",
+      "price": 1.2068
+    },
+    {
+      "ticker": "CYRN",
+      "price": 2.9963
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.099
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTN",
+      "price": 1.21
+    },
+    {
+      "ticker": "CYRN",
+      "price": 2.95
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.0936
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MYND",
+      "price": 2.28
+    },
+    {
+      "ticker": "SPCB",
+      "price": 2.469
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.66
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ATOS",
+      "price": 4.58
+    },
+    {
+      "ticker": "MEIP",
+      "price": 2.295
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.715
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATOS",
+      "price": 4.4101
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.7301
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.15
+    }
+  ],
+  "140": [
+    {
+      "ticker": "EBIO",
+      "price": 2.8197
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.1805
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.1499
+    }
+  ],
+  "198": [
+    {
+      "ticker": "EBIO",
+      "price": 2.81
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2498
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.6339
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HTBX",
+      "price": 2.1488
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.68
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.75
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HTBX",
+      "price": 2.4072
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.67
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.3299
+    }
+  ]
+}

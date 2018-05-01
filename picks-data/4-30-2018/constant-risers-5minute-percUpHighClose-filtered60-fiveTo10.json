@@ -1,0 +1,66 @@
+{
+  "40": [
+    {
+      "ticker": "FIT",
+      "price": 5.8
+    },
+    {
+      "ticker": "CRR",
+      "price": 8.45
+    },
+    {
+      "ticker": "WTI",
+      "price": 5.961
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CRR",
+      "price": 8.41
+    },
+    {
+      "ticker": "WTI",
+      "price": 5.98
+    },
+    {
+      "ticker": "HEAR",
+      "price": 5.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 7.1274
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.445
+    },
+    {
+      "ticker": "HEAR",
+      "price": 5.171
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRR",
+      "price": 8.4374
+    },
+    {
+      "ticker": "HEAR",
+      "price": 5.19
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.055
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HEAR",
+      "price": 5.18
+    }
+  ],
+  "250": [],
+  "300": []
+}

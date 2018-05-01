@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AQ",
+      "price": 11.5239
+    },
+    {
+      "ticker": "BWP",
+      "price": 12.2
+    },
+    {
+      "ticker": "SLDB",
+      "price": 14.01
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CHEK",
+      "price": 12.3155
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.6728
+    },
+    {
+      "ticker": "SLDB",
+      "price": 14.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHEK",
+      "price": 12.9801
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.7057
+    },
+    {
+      "ticker": "SLDB",
+      "price": 14.6
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CHEK",
+      "price": 12.1366
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.5373
+    },
+    {
+      "ticker": "BWP",
+      "price": 11.97
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CHEK",
+      "price": 11.81
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.7
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.9901
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CHEK",
+      "price": 12.061
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.7
+    },
+    {
+      "ticker": "SIEN",
+      "price": 13.14
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHEK",
+      "price": 12
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.84
+    },
+    {
+      "ticker": "SIEN",
+      "price": 12.9501
+    }
+  ]
+}

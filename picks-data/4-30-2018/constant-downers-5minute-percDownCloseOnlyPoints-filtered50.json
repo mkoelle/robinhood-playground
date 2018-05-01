@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2141
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.2538
+    },
+    {
+      "ticker": "SKYS",
+      "price": 1.18
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MTNB",
+      "price": 0.4705
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.7408
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.0563
+    }
+  ],
+  "309": [
+    {
+      "ticker": "UAVS",
+      "price": 1.9363
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.4758
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.7311
+    }
+  ]
+}
