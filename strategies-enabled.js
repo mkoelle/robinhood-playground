@@ -42,7 +42,7 @@ const shorttermhot = [
     'based-on-jump-down3overnight-ltneg50percmax-tenTo15-16',
     'based-on-jump-up3overnight-trending103-first1-fiveTo10-5',
     'week-swings-tenTo15-575',
-    'sudden-drops-last3trend-fiveTo10-32'
+    'sudden-drops-last3trend-fiveTo10-32',
 
     'based-on-jump-down3overnight-shouldWatchout-tenTo15-5',
     'based-on-jump-down3overnight-trending607-gtneg20percmax-first1-fiveTo10-16',
