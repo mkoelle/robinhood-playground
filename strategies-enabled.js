@@ -48,7 +48,7 @@ const shorttermhot = [
 
 const forPurchase = [
     // auto                     20
-                                // 5
+    // generated with smart-pms  // 5
     "[5day-sortedByAvgTrend-first1]",
     "[3IncToday-sortedByAvgTrend-first1]",
     "[12Count5-sortedByAvgTrend-first1]",
