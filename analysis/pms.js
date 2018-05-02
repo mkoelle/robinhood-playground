@@ -2,7 +2,7 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
 
-module.exports = async (Robinhood, daysBack = 5) => {
+module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
 
     let files = await fs.readdir('./pm-perfs');
 
@@ -46,7 +46,7 @@ module.exports = async (Robinhood, daysBack = 5) => {
             ...pmAnalysis[pm]
         }))
         .sort((a, b) => b.avgTrend - a.avgTrend)
-        .filter(t => t.trends.length >= 3 && t.trends.every(a => a > -1));
+        // .filter(t => t.trends.length >= minCount && t.trends.every(a => a > -1));
     console.log(JSON.stringify(sortedArray, null, 2));
 
 

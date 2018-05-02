@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`21 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`19 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -77,7 +77,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(21);
+        compareDate.setMinutes(19);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
@@ -214,6 +214,13 @@ const stratManager = {
             }), {});
         };
 
+
+        const uniq16Count3 = await stratPerfPredictions(this.Robinhood, false, 16, 3);
+        const uniq16Count5 = await stratPerfPredictions(this.Robinhood, false, 16, 5);
+        const uniq16IncTodayCount9 = await stratPerfPredictions(this.Robinhood, true, 16, 9);
+        const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
+
+
         const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
         const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
         const uniq5dayCount3 = await stratPerfPredictions(this.Robinhood, false, 5, 3);
@@ -260,6 +267,11 @@ const stratManager = {
         const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
         const yesterdayPredictions = await predictCurrent(1);
         let strategies = {
+
+            ...createPermsForObj([10, 5, 3, 1], '16Count3', uniq16Count3),
+            ...createPermsForObj([10, 5, 3, 1], '16Count5', uniq16Count5),
+            ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount9', uniq16IncTodayCount9),
+            ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount12', uniq16IncTodayCount12),
 
             ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
             ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
