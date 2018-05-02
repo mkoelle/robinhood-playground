@@ -85,14 +85,17 @@ const forPurchase = [
     '[5day-sortedByPercUp-first3]',
 
                                 // 3
-    '[4IncToday-sortedByAvgTrend-uniq-first3]'
+    '[4IncToday-sortedByAvgTrend-uniq-first3]',
 
 
 
     // manual                   24
     '[shorttermhot]',           // 8
     '[longtermhotavgtrend]',    // 8
-    '[longtermhotpercup]'       // 8
+    '[longtermhotpercup]',       // 8
+
+    'sudden-drops-last2trend-tenTo15-328',
+    'sudden-drops-last2trend-tenTo15-328'
 
 ];
 
