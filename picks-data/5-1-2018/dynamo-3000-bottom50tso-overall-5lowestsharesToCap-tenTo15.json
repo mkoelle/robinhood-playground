@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "VSTO",
+      "price": 14.075
+    },
+    {
+      "ticker": "CYBE",
+      "price": 14.85
+    },
+    {
+      "ticker": "SEAS",
+      "price": 14.75
+    },
+    {
+      "ticker": "KALA",
+      "price": 14.69
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSTO",
+      "price": 14.2605
+    },
+    {
+      "ticker": "AXL",
+      "price": 14.96
+    },
+    {
+      "ticker": "CYBE",
+      "price": 14.725
+    },
+    {
+      "ticker": "FCX",
+      "price": 14.735
+    },
+    {
+      "ticker": "KURA",
+      "price": 14.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSTO",
+      "price": 14.51
+    },
+    {
+      "ticker": "CYBE",
+      "price": 14.6
+    },
+    {
+      "ticker": "FCX",
+      "price": 14.665
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.065
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSTO",
+      "price": 14.515
+    },
+    {
+      "ticker": "AXL",
+      "price": 15.005
+    },
+    {
+      "ticker": "CYBE",
+      "price": 14.65
+    },
+    {
+      "ticker": "FCX",
+      "price": 14.705
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSTO",
+      "price": 14.55
+    },
+    {
+      "ticker": "FCX",
+      "price": 14.815
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.61
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.5
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.91
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSTO",
+      "price": 14.5525
+    },
+    {
+      "ticker": "BRID",
+      "price": 14.75
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.46
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.5
+    },
+    {
+      "ticker": "UVXY",
+      "price": 14.7501
+    }
+  ]
+}

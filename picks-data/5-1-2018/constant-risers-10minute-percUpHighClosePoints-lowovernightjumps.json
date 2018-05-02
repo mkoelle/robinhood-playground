@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CHKR",
+      "price": 1.6965
+    },
+    {
+      "ticker": "AMCN",
+      "price": 0.668
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.8285
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CDTX",
+      "price": 4.25
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.84
+    },
+    {
+      "ticker": "USAS",
+      "price": 3.8176
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAK",
+      "price": 0.8448
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.232
+    },
+    {
+      "ticker": "AMCN",
+      "price": 0.6599
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NAK",
+      "price": 0.839
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.7
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.275
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CHKR",
+      "price": 1.6819
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.8403
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.8022
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AZRX",
+      "price": 2.7
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.8366
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.275
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AZRX",
+      "price": 2.685
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.325
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.7
+    }
+  ]
+}

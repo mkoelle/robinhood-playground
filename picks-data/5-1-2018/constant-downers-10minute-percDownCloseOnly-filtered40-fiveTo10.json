@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MDCA",
+      "price": 7.325
+    },
+    {
+      "ticker": "IID",
+      "price": 6.82
+    },
+    {
+      "ticker": "TSQ",
+      "price": 7.44
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DHCP",
+      "price": 5.59
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.1
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.04
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SPNS",
+      "price": 8.84
+    },
+    {
+      "ticker": "GSIT",
+      "price": 7.335
+    },
+    {
+      "ticker": "MVO",
+      "price": 8.71
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "40": [],
+  "80": [
+    {
+      "ticker": "IOR",
+      "price": 13.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IOR",
+      "price": 13.4383
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IOR",
+      "price": 13.18
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ELOX",
+      "price": 13.21
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.18
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ELOX",
+      "price": 13.4699
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.18
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ELOX",
+      "price": 13.21
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.18
+    }
+  ]
+}

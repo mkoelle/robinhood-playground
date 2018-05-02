@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RKDA",
+      "price": 11.04
+    },
+    {
+      "ticker": "VSTO",
+      "price": 14.28
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.4
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RKDA",
+      "price": 11.5403
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.1
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.525
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RKDA",
+      "price": 11.1894
+    },
+    {
+      "ticker": "KPTI",
+      "price": 14.35
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.45
+    }
+  ]
+}

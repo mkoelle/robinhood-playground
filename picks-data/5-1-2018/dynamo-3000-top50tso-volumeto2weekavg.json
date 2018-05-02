@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1699
+    },
+    {
+      "ticker": "TYME",
+      "price": 2.37
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.4452
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ROYT",
+      "price": 2.16
+    },
+    {
+      "ticker": "TPIV",
+      "price": 2.85
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LODE",
+      "price": 0.34
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.7501
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMCN",
+      "price": 0.666
+    },
+    {
+      "ticker": "CRHM",
+      "price": 3.1
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.955
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OBLN",
+      "price": 4.01
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.2
+    },
+    {
+      "ticker": "PMTS",
+      "price": 2.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSLT",
+      "price": 3.9
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.7549
+    },
+    {
+      "ticker": "OTIC",
+      "price": 3.9
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 5.52
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.6348
+    },
+    {
+      "ticker": "DAVE",
+      "price": 8.1435
+    },
+    {
+      "ticker": "RUN",
+      "price": 8.82
+    },
+    {
+      "ticker": "ATTU",
+      "price": 8.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 9.29
+    },
+    {
+      "ticker": "LGCY",
+      "price": 5.56
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.5705
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.62
+    },
+    {
+      "ticker": "PIRS",
+      "price": 6.199
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USLV",
+      "price": 9.34
+    },
+    {
+      "ticker": "LGCY",
+      "price": 5.5863
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.26
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.075
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 8.9
+    },
+    {
+      "ticker": "VTL",
+      "price": 5.3
+    },
+    {
+      "ticker": "NRT",
+      "price": 7.975
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.59
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KZIA",
+      "price": 5.2006
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.625
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.25
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.905
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KZIA",
+      "price": 5.2006
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.25
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.9
+    },
+    {
+      "ticker": "PFSW",
+      "price": 8.74
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.51
+    }
+  ]
+}

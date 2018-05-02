@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "PI",
+      "price": 12.3801
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.16
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.63
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.2046
+    },
+    {
+      "ticker": "HRG",
+      "price": 11.33
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PI",
+      "price": 12.37
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.1
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.57
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.2046
+    },
+    {
+      "ticker": "HRG",
+      "price": 11.3475
+    }
+  ],
+  "600": [
+    {
+      "ticker": "PI",
+      "price": 12.61
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.22
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.6
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 11.01
+    },
+    {
+      "ticker": "HRG",
+      "price": 11.73
+    }
+  ]
+}

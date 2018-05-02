@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MNOV",
+      "price": 10.98
+    },
+    {
+      "ticker": "CECO",
+      "price": 12.75
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.52
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ARA",
+      "price": 14.171
+    },
+    {
+      "ticker": "CECO",
+      "price": 12.53
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.24
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PCMI",
+      "price": 12.225
+    },
+    {
+      "ticker": "ARA",
+      "price": 14.33
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.29
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TNDM",
+      "price": 7.78
+    },
+    {
+      "ticker": "SBS",
+      "price": 9.905
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.75
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TNDM",
+      "price": 7.8
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.795
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNDM",
+      "price": 7.82
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.8
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.79
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SSW",
+      "price": 7.945
+    },
+    {
+      "ticker": "TNDM",
+      "price": 7.91
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.825
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SSW",
+      "price": 7.9725
+    },
+    {
+      "ticker": "TNDM",
+      "price": 7.89
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.8866
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MDR",
+      "price": 6.72
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.9599
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.825
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MDR",
+      "price": 6.725
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.825
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.99
+    }
+  ]
+}

@@ -20,7 +20,7 @@ const longtermhot = [
     'dynamo-3000-top50tso-overall-5lowestYP-tenTo15-4'
 ];
 
-const shorttermhot = [
+const shorttermhotA = [
     'sudden-drops-last1trend-first1-fiveTo10-32',
     'sudden-drops-last2trend-first1-fiveTo10-14',
     'sudden-drops-last2trend-first1-221',
@@ -29,9 +29,10 @@ const shorttermhot = [
     'sudden-drops-last50trend-first2-328',
     'constant-risers-5minute-percUpHighClosePoints-fiveTo10-40',
     'dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10-40',
-    'based-on-jump-down3overnight-shouldWatchout-first3-tenTo15-5',
+    'based-on-jump-down3overnight-shouldWatchout-first3-tenTo15-5'
+];
 
-    //
+const shorttermhotB = [
     'based-on-jump-up3overnight-trending607-shouldWatchout-first1-tenTo15-5',
     'based-on-jump-up3overnight-trending35257-shouldWatchout-first1-tenTo15-16',
     'based-on-jump-down3overnight-ltneg50percmax-first1-tenTo15-16',
@@ -42,12 +43,20 @@ const shorttermhot = [
     'based-on-jump-down3overnight-ltneg50percmax-tenTo15-16',
     'based-on-jump-up3overnight-trending103-first1-fiveTo10-5',
     'week-swings-tenTo15-575',
-    'sudden-drops-last3trend-fiveTo10-32',
+    'sudden-drops-last3trend-fiveTo10-32'
+];
 
+const shorttermhotC = [
     'based-on-jump-down3overnight-shouldWatchout-tenTo15-5',
     'based-on-jump-down3overnight-trending607-gtneg20percmax-first1-fiveTo10-16',
     'based-on-jump-down3overnight-trending607-gtneg20percmax-first2-fiveTo10-5',
     'sudden-drops-last3trend-first1-328'
+];
+
+const shorttermhot = [
+    ...shorttermhotA,
+    ...shorttermhotB,
+    ...shorttermhotC
 ];
 
 const forPurchase = [
@@ -81,7 +90,7 @@ const forPurchase = [
     '[5dayCount3-sortedByPercUp-uniq-first1]',
 
     '[3IncToday-sortedByPercUp-first1]',  // risky - no count
-    // '[5day-sortedByPercUp-first3]', decided against (no count, first3)
+    '[5day-sortedByPercUp-first3]',       // decided against (no count, first3)
     '[12Count5-sortedByAvgTrend-uniq-first1]',
     '[4IncTodayCount3-sortedByPercUp-uniq-first1]',
     '[7IncTodayCount5-sortedByAvgTrend-uniq-first3]',
@@ -112,6 +121,9 @@ module.exports = {
         mySpecialSauce,
         hothot,
         longtermhot,
+        shorttermhotA,
+        shorttermhotB,
+        shorttermhotC,
         shorttermhot
     }
-}
+};

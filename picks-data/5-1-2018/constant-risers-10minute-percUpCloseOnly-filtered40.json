@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ZNGA",
+      "price": 3.465
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.4002
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.6033
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VVUS",
+      "price": 0.46
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.4
+    },
+    {
+      "ticker": "MRNS",
+      "price": 4.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VVUS",
+      "price": 0.4969
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.66
+    },
+    {
+      "ticker": "MRNS",
+      "price": 4.48
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NLNK",
+      "price": 4.711
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5099
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.5089
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MTNB",
+      "price": 0.5699
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.565
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MTNB",
+      "price": 0.5692
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.5491
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.76
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MTNB",
+      "price": 0.5632
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.8148
+    },
+    {
+      "ticker": "BW",
+      "price": 2.38
+    }
+  ]
+}

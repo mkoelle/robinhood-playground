@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "CNSL",
+      "price": 11.17
+    },
+    {
+      "ticker": "CHRS",
+      "price": 11.8372
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.35
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.905
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSH",
+      "price": 11.195
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.775
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.25
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.4639
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BWP",
+      "price": 11.025
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.325
+    },
+    {
+      "ticker": "MAT",
+      "price": 13.925
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.3
+    },
+    {
+      "ticker": "KN",
+      "price": 12.295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BWP",
+      "price": 11.045
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.275
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.06
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.26
+    },
+    {
+      "ticker": "KN",
+      "price": 12.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 13.5986
+    },
+    {
+      "ticker": "BWP",
+      "price": 11
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.255
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.03
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 13.3449
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.95
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.2306
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.025
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.39
+    }
+  ]
+}

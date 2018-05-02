@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.4035
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.26
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.2802
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AYTU",
+      "price": 0.416
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.4
+    },
+    {
+      "ticker": "EDGE",
+      "price": 0.9892
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AYTU",
+      "price": 0.4166
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.532
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICON",
+      "price": 0.69
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.5213
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.1301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ICON",
+      "price": 0.6898
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.5302
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.9951
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ICON",
+      "price": 0.6875
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.528
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2601
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "LGL",
+      "price": 5.4043
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.74
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.2072
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIEB",
+      "price": 9.4584
+    },
+    {
+      "ticker": "RCII",
+      "price": 9.67
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.1747
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 9.7
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.185
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIEB",
+      "price": 9.6439
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.22
+    },
+    {
+      "ticker": "RFIL",
+      "price": 5.734
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 9.99
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.56
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AIRG",
+      "price": 8.17
+    },
+    {
+      "ticker": "DSKE",
+      "price": 8.575
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.75
+    }
+  ]
+}

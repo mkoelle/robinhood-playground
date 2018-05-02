@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "KVHI",
+      "price": 10.35
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.75
+    },
+    {
+      "ticker": "CIVI",
+      "price": 14.075
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BBGI",
+      "price": 11.25
+    },
+    {
+      "ticker": "CRT",
+      "price": 13.38
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MHH",
+      "price": 14.4529
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.5
+    },
+    {
+      "ticker": "SDD",
+      "price": 14.95
+    }
+  ]
+}

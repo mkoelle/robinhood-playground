@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "SPXU",
+      "price": 11.11
+    },
+    {
+      "ticker": "REGI",
+      "price": 12.925
+    },
+    {
+      "ticker": "TREC",
+      "price": 13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OFG",
+      "price": 13.525
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.3937
+    },
+    {
+      "ticker": "LOOP",
+      "price": 13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OFG",
+      "price": 13.625
+    },
+    {
+      "ticker": "NTRA",
+      "price": 11.23
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.095
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SMN",
+      "price": 14.27
+    },
+    {
+      "ticker": "PDFS",
+      "price": 11.31
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NLS",
+      "price": 14.825
+    },
+    {
+      "ticker": "COE",
+      "price": 11
+    },
+    {
+      "ticker": "QBAK",
+      "price": 10.7566
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REGI",
+      "price": 13.175
+    },
+    {
+      "ticker": "PI",
+      "price": 12.64
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.15
+    }
+  ]
+}

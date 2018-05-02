@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MDR",
+      "price": 6.75
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.315
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.67
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AMKR",
+      "price": 8.37
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.9201
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMKR",
+      "price": 8.32
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.88
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.775
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMKR",
+      "price": 8.385
+    },
+    {
+      "ticker": "TNDM",
+      "price": 7.91
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.883
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AMKR",
+      "price": 8.405
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.9152
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.88
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CASI",
+      "price": 6.97
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.8808
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.425
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CASI",
+      "price": 7.13
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.4
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.455
+    }
+  ]
+}

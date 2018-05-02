@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "QHC",
+      "price": 7.31
+    },
+    {
+      "ticker": "ASYS",
+      "price": 7.1
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.75
+    }
+  ],
+  "80": [
+    {
+      "ticker": "QHC",
+      "price": 7.4
+    },
+    {
+      "ticker": "OXSQ",
+      "price": 6.3
+    },
+    {
+      "ticker": "ASYS",
+      "price": 7.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESND",
+      "price": 7.63
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.775
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.39
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IOTS",
+      "price": 9.475
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.39
+    },
+    {
+      "ticker": "TNDM",
+      "price": 7.91
+    }
+  ],
+  "198": [
+    {
+      "ticker": "IOTS",
+      "price": 9.475
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.9725
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.8866
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CASI",
+      "price": 6.97
+    },
+    {
+      "ticker": "SSW",
+      "price": 7.9599
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.425
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CASI",
+      "price": 7.13
+    },
+    {
+      "ticker": "FMSA",
+      "price": 5.7116
+    },
+    {
+      "ticker": "ESND",
+      "price": 7.65
+    }
+  ]
+}

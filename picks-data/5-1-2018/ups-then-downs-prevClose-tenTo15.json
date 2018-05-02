@@ -1,0 +1,48 @@
+{
+  "50": [
+    {
+      "ticker": "GNPX",
+      "price": 13.365
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNPX",
+      "price": 13.7801
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.325
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GNPX",
+      "price": 14.04
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.2
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GNPX",
+      "price": 13.3812
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.2306
+    }
+  ],
+  "600": [
+    {
+      "ticker": "GNPX",
+      "price": 13.2
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.25
+    }
+  ]
+}

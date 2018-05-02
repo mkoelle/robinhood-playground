@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`21 6 * * 1-5`, this.newDay, null, true);
+        new CronJob(`21 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },

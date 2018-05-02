@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ALIM",
+      "price": 1.11
+    },
+    {
+      "ticker": "BIOL",
+      "price": 0.378
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3516
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ELTK",
+      "price": 3.6801
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3511
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLIN",
+      "price": 1.6999
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3511
+    },
+    {
+      "ticker": "SOFO",
+      "price": 2.25
+    }
+  ]
+}

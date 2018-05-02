@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPOK",
+      "price": 14.55
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.04
+    },
+    {
+      "ticker": "MNOV",
+      "price": 10.98
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CYBE",
+      "price": 14.58
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.2
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.475
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FENC",
+      "price": 12.05
+    },
+    {
+      "ticker": "CYBE",
+      "price": 14.8
+    },
+    {
+      "ticker": "OBSV",
+      "price": 11.7
+    }
+  ]
+}

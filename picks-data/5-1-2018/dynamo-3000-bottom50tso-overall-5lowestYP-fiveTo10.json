@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 8.9189
+    },
+    {
+      "ticker": "TIS",
+      "price": 6.03
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.5141
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.65
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IDT",
+      "price": 5.215
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.99
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.4201
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.5
+    },
+    {
+      "ticker": "FTD",
+      "price": 6.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 5.9
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.4
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.625
+    },
+    {
+      "ticker": "WOW",
+      "price": 6.1
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.4801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDT",
+      "price": 5.23
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.98
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.4902
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.575
+    },
+    {
+      "ticker": "WOW",
+      "price": 6.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 6.1
+    },
+    {
+      "ticker": "TTS",
+      "price": 6.625
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.03
+    },
+    {
+      "ticker": "FTD",
+      "price": 6.28
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.5286
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TTS",
+      "price": 6.625
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.03
+    },
+    {
+      "ticker": "FTD",
+      "price": 6.24
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.49
+    },
+    {
+      "ticker": "BPI",
+      "price": 5.65
+    }
+  ]
+}
