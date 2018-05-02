@@ -47,7 +47,7 @@ const shorttermhot = [
 ];
 
 const forPurchase = [
-    // auto                     25
+    // auto                     20
                                 // 5
     "[5day-sortedByAvgTrend-first1]",
     "[3IncToday-sortedByAvgTrend-first1]",
@@ -76,12 +76,17 @@ const forPurchase = [
         "[10IncTodayCount6-sortedByAvgTrend-first1]",
         "[10IncTodayCount4-sortedByAvgTrend-first1]",
 
-        // duplicate            // 5
-        "[5day-sortedByAvgTrend-first1]",
-        "[3IncToday-sortedByAvgTrend-first1]",
-        "[12Count5-sortedByAvgTrend-first1]",
-        "[10IncTodayCount6-sortedByAvgTrend-first1]",
-        "[10IncTodayCount4-sortedByAvgTrend-first1]",
+    // other autos              7
+
+    // looking good in pm's     // 4
+    '[5dayCount4-sortedByPercUp-first1]',
+    '[4IncTodayCount3-sortedByPercUp-first1]',
+    '[5dayCount3-sortedByPercUp-first1]',
+    '[5day-sortedByPercUp-first3]',
+
+                                // 3
+    '[4IncToday-sortedByAvgTrend-uniq-first3]'
+
 
 
     // manual                   24
