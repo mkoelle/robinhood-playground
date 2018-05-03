@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "LPI",
+      "price": 9.26
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.1301
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.5312
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPI",
+      "price": 9.2802
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.119
+    },
+    {
+      "ticker": "SCX",
+      "price": 6.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPI",
+      "price": 9.1654
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.05
+    },
+    {
+      "ticker": "SCX",
+      "price": 7.0639
+    }
+  ]
+}

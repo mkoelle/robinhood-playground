@@ -1,0 +1,156 @@
+{
+  "4": [
+    {
+      "ticker": "NVCN",
+      "price": 0.049
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2102
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.2646
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.405
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.4063
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0488
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.23
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.25
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.345
+    },
+    {
+      "ticker": "VII",
+      "price": 0.4138
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2333
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3594
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4106
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.4945
+    },
+    {
+      "ticker": "PQ",
+      "price": 0.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2315
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.4015
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3899
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4052
+    },
+    {
+      "ticker": "PQ",
+      "price": 0.572
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRMD",
+      "price": 0.235
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4063
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.89
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.03
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NCTY",
+      "price": 0.4063
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.003
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.1156
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.2488
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.3311
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NCTY",
+      "price": 0.4069
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.04
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.0199
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.0963
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.32
+    }
+  ]
+}

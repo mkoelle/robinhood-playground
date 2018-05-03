@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "SEII",
+      "price": 4.73
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.42
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5561
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKYI",
+      "price": 2.36
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.54
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.734
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKYI",
+      "price": 2.36
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5622
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.7349
+    }
+  ]
+}

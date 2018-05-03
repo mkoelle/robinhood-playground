@@ -1,0 +1,56 @@
+{
+  "10": [
+    {
+      "ticker": "SIEB",
+      "price": 9.49
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.705
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SIEB",
+      "price": 9.5054
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.55
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.1164
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOTS",
+      "price": 8.675
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.18
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IOTS",
+      "price": 8.525
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.06
+    }
+  ],
+  "380": [
+    {
+      "ticker": "IOTS",
+      "price": 8.575
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.11
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACH",
+      "price": 13.56
+    },
+    {
+      "ticker": "TEDU",
+      "price": 10.06
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PZE",
+      "price": 10.69
+    },
+    {
+      "ticker": "MYY",
+      "price": 11.31
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.034
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PBD",
+      "price": 12.717
+    },
+    {
+      "ticker": "OOMA",
+      "price": 10.65
+    },
+    {
+      "ticker": "NSSC",
+      "price": 10.9
+    }
+  ]
+}

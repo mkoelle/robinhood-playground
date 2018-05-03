@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "SEII",
+      "price": 4.73
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.42
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.54
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.351
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.0099
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKYI",
+      "price": 2.36
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.42
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.5101
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKYI",
+      "price": 2.36
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.5
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.3813
+    },
+    {
+      "ticker": "UUUU",
+      "price": 1.99
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "5": [
+    {
+      "ticker": "AKAO",
+      "price": 10.83
+    },
+    {
+      "ticker": "NVIV",
+      "price": 10.8055
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.6899
+    },
+    {
+      "ticker": "I",
+      "price": 12.096
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKAO",
+      "price": 10.4934
+    },
+    {
+      "ticker": "NVIV",
+      "price": 11.0392
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.315
+    },
+    {
+      "ticker": "I",
+      "price": 12.2801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKAO",
+      "price": 10.445
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.0939
+    },
+    {
+      "ticker": "I",
+      "price": 11.9246
+    }
+  ]
+}

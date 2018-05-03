@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "MCEP",
+      "price": 2
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.06
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCEP",
+      "price": 1.75
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.07
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCEP",
+      "price": 1.9733
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.98
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.7
+    }
+  ]
+}

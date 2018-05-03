@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PCMI",
+      "price": 12.1275
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.79
+    },
+    {
+      "ticker": "SD",
+      "price": 14.35
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PCMI",
+      "price": 12.1
+    },
+    {
+      "ticker": "OBSV",
+      "price": 10.05
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.06
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OBSV",
+      "price": 10.2
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.17
+    },
+    {
+      "ticker": "EPZM",
+      "price": 13.4
+    }
+  ]
+}

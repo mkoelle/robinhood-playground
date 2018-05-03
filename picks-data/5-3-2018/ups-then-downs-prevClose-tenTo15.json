@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "AAC",
+      "price": 11.8531
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.38
+    },
+    {
+      "ticker": "SCPH",
+      "price": 11.2411
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TZOO",
+      "price": 12.664
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.8
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.925
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TZOO",
+      "price": 12.66
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.8
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.94
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.64
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TZOO",
+      "price": 12.55
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.8
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.01
+    }
+  ]
+}

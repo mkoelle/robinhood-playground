@@ -44,10 +44,11 @@ const forPurchase = [
 
     // 20
     '[5dayCount4-sortedByPercUp-first10]',
-    '[5dayCount3-sortedByPercUp-first10s]',
+    '[5dayCount3-sortedByPercUp-first10]',
 
     // 5
     '[3IncToday-sortedByAvgTrend-first5]',
+    '[16Count5-sortedByAvgTrend-first5]',
 
     // manual
     '[longtermhot]',        // 11

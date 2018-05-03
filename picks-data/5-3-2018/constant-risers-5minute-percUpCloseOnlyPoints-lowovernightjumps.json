@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "EMKR",
+      "price": 4.75
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.535
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NCTY",
+      "price": 0.4013
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.548
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NCTY",
+      "price": 0.4106
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.675
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.16
+    }
+  ],
+  "140": [
+    {
+      "ticker": "WIN",
+      "price": 1.59
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4002
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.675
+    }
+  ],
+  "198": [
+    {
+      "ticker": "WIN",
+      "price": 1.5648
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4052
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.7
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WIN",
+      "price": 1.545
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.75
+    },
+    {
+      "ticker": "NCTY",
+      "price": 0.4062
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EMKR",
+      "price": 4.775
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.0701
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.53
+    }
+  ]
+}

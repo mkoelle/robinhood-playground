@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "HOS",
+      "price": 2.995
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.87
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.345
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HOS",
+      "price": 2.961
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.87
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.345
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HOS",
+      "price": 3.011
+    },
+    {
+      "ticker": "GNUS",
+      "price": 3
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.345
+    }
+  ]
+}

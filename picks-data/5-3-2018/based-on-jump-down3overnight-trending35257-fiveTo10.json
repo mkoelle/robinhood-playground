@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "LPI",
+      "price": 9.26
+    },
+    {
+      "ticker": "HABT",
+      "price": 8.295
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.1301
+    },
+    {
+      "ticker": "HK",
+      "price": 5.08
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.5312
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPI",
+      "price": 9.2802
+    },
+    {
+      "ticker": "HABT",
+      "price": 8.375
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.119
+    },
+    {
+      "ticker": "SCX",
+      "price": 6.9
+    },
+    {
+      "ticker": "HK",
+      "price": 5.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVIV",
+      "price": 9.69
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.1654
+    },
+    {
+      "ticker": "HABT",
+      "price": 8.325
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.05
+    },
+    {
+      "ticker": "SCX",
+      "price": 7.0639
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "JONE",
+      "price": 0.6476
+    },
+    {
+      "ticker": "ARAY",
+      "price": 4.475
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.6556
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OCN",
+      "price": 4.66
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.59
+    },
+    {
+      "ticker": "ARAY",
+      "price": 4.475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLUU",
+      "price": 4.92
+    },
+    {
+      "ticker": "CHFS",
+      "price": 3.52
+    },
+    {
+      "ticker": "OCN",
+      "price": 4.635
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MARA",
+      "price": 1.6399
+    },
+    {
+      "ticker": "GLUU",
+      "price": 4.94
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.97
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GLUU",
+      "price": 4.95
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.66
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.8301
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MARA",
+      "price": 1.7066
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.87
+    },
+    {
+      "ticker": "CHFS",
+      "price": 3.39
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARA",
+      "price": 1.7101
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.8626
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.3042
+    }
+  ]
+}

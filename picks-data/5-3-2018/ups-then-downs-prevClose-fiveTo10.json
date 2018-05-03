@@ -1,0 +1,64 @@
+{
+  "10": [
+    {
+      "ticker": "WTI",
+      "price": 6.3612
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.79
+    }
+  ],
+  "50": [
+    {
+      "ticker": "WTI",
+      "price": 6.2188
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 9.64
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.28
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.0036
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.625
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TORC",
+      "price": 9.87
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.35
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.0152
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TORC",
+      "price": 9.79
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CECO",
+      "price": 14.2
+    },
+    {
+      "ticker": "XNET",
+      "price": 13.33
+    },
+    {
+      "ticker": "EZPW",
+      "price": 14.155
+    }
+  ],
+  "80": [
+    {
+      "ticker": "XNET",
+      "price": 13.36
+    },
+    {
+      "ticker": "I",
+      "price": 12.2715
+    },
+    {
+      "ticker": "EZPW",
+      "price": 14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QID",
+      "price": 12.1255
+    },
+    {
+      "ticker": "I",
+      "price": 12.05
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.92
+    }
+  ],
+  "140": [
+    {
+      "ticker": "FAZ",
+      "price": 11.95
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.54
+    },
+    {
+      "ticker": "PGRE",
+      "price": 14.755
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GPK",
+      "price": 14.1
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.745
+    },
+    {
+      "ticker": "PGRE",
+      "price": 14.745
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FTR",
+      "price": 10.9675
+    },
+    {
+      "ticker": "PGRE",
+      "price": 14.8
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.5023
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 11.77
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.34
+    },
+    {
+      "ticker": "XCRA",
+      "price": 12.805
+    }
+  ]
+}

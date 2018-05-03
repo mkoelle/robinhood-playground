@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "HK",
+      "price": 5.08
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.79
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.5312
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCX",
+      "price": 6.9
+    },
+    {
+      "ticker": "HK",
+      "price": 5.01
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.8687
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVIV",
+      "price": 9.69
+    },
+    {
+      "ticker": "SCX",
+      "price": 7.0639
+    },
+    {
+      "ticker": "HK",
+      "price": 5.01
+    }
+  ]
+}

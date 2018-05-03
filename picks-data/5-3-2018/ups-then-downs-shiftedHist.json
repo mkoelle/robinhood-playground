@@ -1,0 +1,40 @@
+{
+  "10": [
+    {
+      "ticker": "TAT",
+      "price": 1.639
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.07
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.42
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BLNK",
+      "price": 1.57
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 1.42
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BLNK",
+      "price": 1.47
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BLNK",
+      "price": 1.47
+    }
+  ]
+}

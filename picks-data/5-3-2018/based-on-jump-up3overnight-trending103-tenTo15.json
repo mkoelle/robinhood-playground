@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "BOXL",
+      "price": 16.05
+    },
+    {
+      "ticker": "RAIL",
+      "price": 13.97
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOXL",
+      "price": 13.06
+    },
+    {
+      "ticker": "RAIL",
+      "price": 14.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOXL",
+      "price": 11.0085
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    },
+    {
+      "ticker": "RAIL",
+      "price": 14.2
+    }
+  ]
+}

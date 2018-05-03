@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "CZR",
+      "price": 11.95
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.39
+    },
+    {
+      "ticker": "COT",
+      "price": 14.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CZR",
+      "price": 11.9665
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.2
+    },
+    {
+      "ticker": "COT",
+      "price": 14.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CZR",
+      "price": 11.825
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.13
+    },
+    {
+      "ticker": "COT",
+      "price": 14.97
+    }
+  ]
+}

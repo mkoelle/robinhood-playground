@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "TORC",
+      "price": 10.58
+    },
+    {
+      "ticker": "AKAO",
+      "price": 10.892
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.7
+    },
+    {
+      "ticker": "PAH",
+      "price": 10.45
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SPNE",
+      "price": 11.001
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.1104
+    },
+    {
+      "ticker": "PAH",
+      "price": 10.41
+    }
+  ],
+  "90": [
+    {
+      "ticker": "AKAO",
+      "price": 11.25
+    },
+    {
+      "ticker": "COE",
+      "price": 10.94
+    },
+    {
+      "ticker": "PAH",
+      "price": 10.58
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.9699
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 12.02
+    }
+  ],
+  "223": [
+    {
+      "ticker": "AKAO",
+      "price": 12.15
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.825
+    },
+    {
+      "ticker": "PAH",
+      "price": 10.505
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.75
+    },
+    {
+      "ticker": "COE",
+      "price": 10.76
+    }
+  ]
+}

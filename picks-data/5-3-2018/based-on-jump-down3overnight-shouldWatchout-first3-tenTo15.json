@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "NVIV",
+      "price": 10.8055
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.155
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.03
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVIV",
+      "price": 11.0392
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.08
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.5873
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCRN",
+      "price": 11.275
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.65
+    },
+    {
+      "ticker": "I",
+      "price": 11.9246
+    }
+  ]
+}

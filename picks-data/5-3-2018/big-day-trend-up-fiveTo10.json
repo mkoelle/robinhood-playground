@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "SEII",
+      "price": 5.4
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.03
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SEII",
+      "price": 5.63
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.08
+    },
+    {
+      "ticker": "ADRO",
+      "price": 7.75
+    },
+    {
+      "ticker": "EVFM",
+      "price": 7.75
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.469
+    }
+  ],
+  "90": [
+    {
+      "ticker": "GNE",
+      "price": 5.02
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.04
+    },
+    {
+      "ticker": "DRIP",
+      "price": 8.78
+    },
+    {
+      "ticker": "ADRO",
+      "price": 7.575
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.02
+    }
+  ],
+  "223": [
+    {
+      "ticker": "WHLM",
+      "price": 7.33
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.17
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.185
+    },
+    {
+      "ticker": "ABUS",
+      "price": 5.975
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.8
+    }
+  ]
+}

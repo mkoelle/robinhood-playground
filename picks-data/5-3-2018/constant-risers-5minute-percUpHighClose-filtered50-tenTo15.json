@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AKAO",
+      "price": 10.6
+    },
+    {
+      "ticker": "ERF",
+      "price": 11.7399
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.015
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AKAO",
+      "price": 10.89
+    },
+    {
+      "ticker": "I",
+      "price": 12.2715
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKAO",
+      "price": 11.19
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.36
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.55
+    }
+  ],
+  "140": [
+    {
+      "ticker": "YRCW",
+      "price": 10.01
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.95
+    },
+    {
+      "ticker": "SPXU",
+      "price": 11.465
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FTR",
+      "price": 10.57
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.1
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FTR",
+      "price": 10.9675
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.2
+    },
+    {
+      "ticker": "USO",
+      "price": 13.821
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GPK",
+      "price": 14.145
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.92
+    },
+    {
+      "ticker": "USO",
+      "price": 13.82
+    }
+  ]
+}
