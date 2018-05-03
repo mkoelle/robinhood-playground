@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "I",
+      "price": 11.73
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.83
+    }
+  ],
+  "63": [
+    {
+      "ticker": "EEP",
+      "price": 10.0666
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.5
+    }
+  ],
+  "221": [
+    {
+      "ticker": "EEI",
+      "price": 12.55
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.1401
+    }
+  ],
+  "328": [
+    {
+      "ticker": "MSON",
+      "price": 10.3
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.41
+    }
+  ],
+  "388": [
+    {
+      "ticker": "CHEK",
+      "price": 12.27
+    },
+    {
+      "ticker": "NVIV",
+      "price": 13
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "HTBX",
+      "price": 3.3299
+    }
+  ],
+  "50": [
+    {
+      "ticker": "HTBX",
+      "price": 3.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTBX",
+      "price": 2.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HTBX",
+      "price": 2.52
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.42
+    }
+  ],
+  "380": [
+    {
+      "ticker": "HTBX",
+      "price": 2.43
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.6
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.41
+    }
+  ],
+  "600": [
+    {
+      "ticker": "HTBX",
+      "price": 2.48
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.6
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.06
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.41
+    }
+  ]
+}

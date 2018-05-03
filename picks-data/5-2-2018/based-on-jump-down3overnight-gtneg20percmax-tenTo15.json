@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 12.685
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.3335
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 13.5498
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.3503
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LMRK",
+      "price": 14.3503
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.24
+    }
+  ]
+}

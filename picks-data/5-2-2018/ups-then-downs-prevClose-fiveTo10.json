@@ -1,0 +1,65 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "SIEB",
+      "price": 9.7897
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 9.7699
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.6
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.37
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SIEB",
+      "price": 9.4889
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.64
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.3689
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SIEB",
+      "price": 9.6399
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.425
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.09
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SIEB",
+      "price": 9.49
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.4
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.01
+    }
+  ]
+}

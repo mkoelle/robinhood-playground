@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MRNS",
+      "price": 5.07
+    },
+    {
+      "ticker": "FTR",
+      "price": 9.6107
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.4181
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MITK",
+      "price": 8.575
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.8934
+    },
+    {
+      "ticker": "CALA",
+      "price": 6.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTR",
+      "price": 9.95
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.7616
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.1144
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NLNK",
+      "price": 5.27
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.7
+    },
+    {
+      "ticker": "ESND",
+      "price": 8.26
+    }
+  ],
+  "198": [
+    {
+      "ticker": "NLNK",
+      "price": 5.35
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.0832
+    },
+    {
+      "ticker": "ESND",
+      "price": 8.4
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EMES",
+      "price": 8.7324
+    },
+    {
+      "ticker": "ARWR",
+      "price": 7.14
+    },
+    {
+      "ticker": "EGC",
+      "price": 6.49
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ESND",
+      "price": 8.63
+    },
+    {
+      "ticker": "ARWR",
+      "price": 7.135
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.4799
+    }
+  ]
+}

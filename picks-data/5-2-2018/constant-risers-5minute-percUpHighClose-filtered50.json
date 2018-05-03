@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BW",
+      "price": 2.465
+    },
+    {
+      "ticker": "MTP",
+      "price": 1.46
+    },
+    {
+      "ticker": "TRVN",
+      "price": 2.05
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MTP",
+      "price": 1.55
+    },
+    {
+      "ticker": "TRVN",
+      "price": 2.02
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTP",
+      "price": 1.4763
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.98
+    },
+    {
+      "ticker": "OCN",
+      "price": 4.545
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MTP",
+      "price": 1.49
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9862
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.045
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AQMS",
+      "price": 3.64
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.945
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9846
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EGO",
+      "price": 0.995
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.58
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.985
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EGO",
+      "price": 1.01
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.3695
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.61
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "5": [
+    {
+      "ticker": "CHEK",
+      "price": 12.3392
+    },
+    {
+      "ticker": "GNPX",
+      "price": 12.685
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHEK",
+      "price": 12.72
+    },
+    {
+      "ticker": "GNPX",
+      "price": 13.5498
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHEK",
+      "price": 13.094
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.24
+    }
+  ]
+}

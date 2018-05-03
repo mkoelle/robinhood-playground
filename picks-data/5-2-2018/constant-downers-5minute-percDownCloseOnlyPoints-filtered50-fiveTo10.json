@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BPI",
+      "price": 5.39
+    },
+    {
+      "ticker": "ASPU",
+      "price": 8.02
+    },
+    {
+      "ticker": "ENIC",
+      "price": 6.09
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SIEB",
+      "price": 9.4799
+    },
+    {
+      "ticker": "MRAM",
+      "price": 6.8927
+    },
+    {
+      "ticker": "ARCO",
+      "price": 9.15
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SIEB",
+      "price": 9.481
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.95
+    },
+    {
+      "ticker": "MRAM",
+      "price": 6.92
+    }
+  ]
+}

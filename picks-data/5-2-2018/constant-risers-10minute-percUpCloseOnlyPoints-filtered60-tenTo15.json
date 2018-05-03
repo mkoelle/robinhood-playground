@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "GNPX",
+      "price": 14.85
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.69
+    },
+    {
+      "ticker": "CHEK",
+      "price": 13.758
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FTR",
+      "price": 10.1838
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.87
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNOW",
+      "price": 13.82
+    },
+    {
+      "ticker": "QUOT",
+      "price": 12.95
+    },
+    {
+      "ticker": "AAC",
+      "price": 12.6
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NVIV",
+      "price": 13.679
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.0101
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.93
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FTR",
+      "price": 10
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.915
+    },
+    {
+      "ticker": "UIS",
+      "price": 12.25
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NVIV",
+      "price": 13.0501
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.0601
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.76
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NVIV",
+      "price": 13.6001
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.36
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.85
+    }
+  ]
+}

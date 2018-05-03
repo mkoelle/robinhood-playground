@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSPI",
+      "price": 10.57
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.9748
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.03
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OTEL",
+      "price": 14.6
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.45
+    },
+    {
+      "ticker": "CRT",
+      "price": 13.31
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MTLS",
+      "price": 11.92
+    },
+    {
+      "ticker": "CRT",
+      "price": 13.4241
+    },
+    {
+      "ticker": "COE",
+      "price": 10.96
+    }
+  ]
+}

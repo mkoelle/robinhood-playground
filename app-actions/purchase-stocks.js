@@ -5,7 +5,7 @@ const getMinutesFrom630 = require('../utils/get-minutes-from-630');
 const purchaseStocks = async (Robinhood, { stocksToBuy, strategy, multiplier, min }) => {
     const accounts = await Robinhood.accounts();
     // const ratioToSpend = Math.max(0.3, getMinutesFrom630() / 390);
-    const cashAvailable = Number(accounts.results[0].sma);
+    const cashAvailable = Number(accounts.results[0].margin_balances.unallocated_margin_cash);
     // const totalAmtToSpend = cashAvailable * ratioToSpend;
 
     const amountPerBuy = 44 * multiplier;

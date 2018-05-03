@@ -1,0 +1,36 @@
+{
+  "5": [
+    {
+      "ticker": "FTR",
+      "price": 9.0348
+    },
+    {
+      "ticker": "MRAM",
+      "price": 7.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FTR",
+      "price": 9.44
+    },
+    {
+      "ticker": "MRAM",
+      "price": 7.1998
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FTR",
+      "price": 9.551
+    },
+    {
+      "ticker": "IFMK",
+      "price": 7.087
+    },
+    {
+      "ticker": "MRAM",
+      "price": 7.26
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "MTP",
+      "price": 1.1598
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.71
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTP",
+      "price": 1.38
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.72
+    },
+    {
+      "ticker": "CYH",
+      "price": 4.8601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MTP",
+      "price": 1.59
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.4099
+    }
+  ]
+}

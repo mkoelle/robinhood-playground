@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 9.6107
+    },
+    {
+      "ticker": "VHI",
+      "price": 8.0816
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.4181
+    }
+  ],
+  "80": [
+    {
+      "ticker": "MITK",
+      "price": 8.575
+    },
+    {
+      "ticker": "CALA",
+      "price": 6.75
+    },
+    {
+      "ticker": "VHI",
+      "price": 8.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTR",
+      "price": 9.95
+    },
+    {
+      "ticker": "VHI",
+      "price": 8.145
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.4
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NBR",
+      "price": 7.575
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.785
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.03
+    }
+  ],
+  "198": [
+    {
+      "ticker": "EMES",
+      "price": 8.4381
+    },
+    {
+      "ticker": "ESND",
+      "price": 8.4
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.845
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ARWR",
+      "price": 7.14
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ESND",
+      "price": 8.63
+    }
+  ]
+}

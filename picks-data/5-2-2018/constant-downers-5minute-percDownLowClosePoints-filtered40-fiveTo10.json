@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GEMP",
+      "price": 5.42
+    },
+    {
+      "ticker": "PBT",
+      "price": 9.7934
+    },
+    {
+      "ticker": "ARCO",
+      "price": 9.25
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SIEB",
+      "price": 9.4799
+    },
+    {
+      "ticker": "MRAM",
+      "price": 6.8927
+    },
+    {
+      "ticker": "ARCO",
+      "price": 9.15
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SIEB",
+      "price": 9.481
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.95
+    },
+    {
+      "ticker": "TIS",
+      "price": 6.03
+    }
+  ]
+}

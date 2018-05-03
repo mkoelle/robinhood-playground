@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSPI",
+      "price": 10.57
+    },
+    {
+      "ticker": "OSBC",
+      "price": 14.2
+    },
+    {
+      "ticker": "LAKE",
+      "price": 13.65
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EQFN",
+      "price": 10.45
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.75
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.03
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MTLS",
+      "price": 11.92
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.75
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.45
+    }
+  ]
+}

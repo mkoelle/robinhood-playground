@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "QUOT",
+      "price": 13.025
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.85
+    },
+    {
+      "ticker": "CHEK",
+      "price": 13.758
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GNPX",
+      "price": 14.8501
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.05
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.505
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QUOT",
+      "price": 12.95
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.605
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.075
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SNAP",
+      "price": 11.4401
+    },
+    {
+      "ticker": "QUOT",
+      "price": 12.95
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.4191
+    }
+  ],
+  "198": [
+    {
+      "ticker": "QUOT",
+      "price": 12.925
+    },
+    {
+      "ticker": "CHEK",
+      "price": 11.9544
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.4218
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CHEK",
+      "price": 12.0209
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.075
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.96
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHEK",
+      "price": 12.12
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.11
+    },
+    {
+      "ticker": "QUOT",
+      "price": 12.975
+    }
+  ]
+}

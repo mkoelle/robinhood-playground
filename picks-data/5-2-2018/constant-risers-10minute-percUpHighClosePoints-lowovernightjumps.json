@@ -1,0 +1,96 @@
+{
+  "40": [
+    {
+      "ticker": "HTBX",
+      "price": 3.14
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.7
+    }
+  ],
+  "80": [
+    {
+      "ticker": "HTBX",
+      "price": 2.95
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.1899
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.72
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VVPR",
+      "price": 1.2972
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.15
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.873
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VVPR",
+      "price": 1.3436
+    },
+    {
+      "ticker": "HTBX",
+      "price": 2.8101
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.155
+    }
+  ],
+  "198": [
+    {
+      "ticker": "VVPR",
+      "price": 1.35
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.13
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.2922
+    }
+  ],
+  "250": [
+    {
+      "ticker": "VVPR",
+      "price": 1.3901
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.2922
+    },
+    {
+      "ticker": "XELB",
+      "price": 2.8922
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VVPR",
+      "price": 1.45
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.14
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.2922
+    }
+  ]
+}

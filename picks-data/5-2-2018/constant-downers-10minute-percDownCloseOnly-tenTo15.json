@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSPI",
+      "price": 10.57
+    },
+    {
+      "ticker": "NTC",
+      "price": 11.72
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.9748
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OTEL",
+      "price": 14.6
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.45
+    },
+    {
+      "ticker": "HFBC",
+      "price": 14.8101
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CRT",
+      "price": 13.4241
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.75
+    },
+    {
+      "ticker": "HFBC",
+      "price": 14.8101
+    }
+  ]
+}

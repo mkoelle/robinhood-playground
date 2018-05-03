@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "RARX",
+      "price": 5.64
+    },
+    {
+      "ticker": "METC",
+      "price": 6.4202
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSU",
+      "price": 9.475
+    },
+    {
+      "ticker": "RRD",
+      "price": 7.3301
+    },
+    {
+      "ticker": "HCHC",
+      "price": 7.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIEB",
+      "price": 9.5089
+    },
+    {
+      "ticker": "HCHC",
+      "price": 6.969
+    },
+    {
+      "ticker": "CSU",
+      "price": 9.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOTS",
+      "price": 8.6281
+    },
+    {
+      "ticker": "HCHC",
+      "price": 7.15
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEP",
+      "price": 9.3896
+    },
+    {
+      "ticker": "EEQ",
+      "price": 8.8
+    },
+    {
+      "ticker": "HCHC",
+      "price": 7.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBI",
+      "price": 9.03
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.5181
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.3571
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBI",
+      "price": 9.005
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.425
+    },
+    {
+      "ticker": "CSU",
+      "price": 9.5
+    }
+  ]
+}

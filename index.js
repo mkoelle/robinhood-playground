@@ -16,7 +16,7 @@ let Robinhood, allTickers;
 
 const regCronIncAfterSixThirty = require('./utils/reg-cron-after-630');
 // const rh = require('./shared-async/rh');
-const sellAllIfWentUp = require('./app-actions/sell-all-if-went-up');
+const sellAllStocks = require('./app-actions/sell-all-stocks');
 // const up10days = require('./strategies/up-10-days');
 // const getUpStreak = require('./app-actions/get-up-streak');
 
@@ -53,6 +53,13 @@ const sellAllOlderThanTwoDays = require('./app-actions/sell-all-older-than-two-d
 
     await initModules(Robinhood);
     regCronIncAfterSixThirty.display();
+
+
+    const accounts = await Robinhood.accounts();
+    // const ratioToSpend = Math.max(0.3, getMinutesFrom630() / 390);
+    const cashAvailable = Number(accounts.results[0].margin_balances.unallocated_margin_cash);
+    console.log(cashAvailable);
+    // await sellAllStocks(Robinhood);
 
     // startCrons();
 

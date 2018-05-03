@@ -44,7 +44,7 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
 
     const filesOfInterest = sortedFiles.slice(0 - daysBack);
 
-    // console.log(filesOfInterest);
+    console.log(filesOfInterest);
 
 
     //-
