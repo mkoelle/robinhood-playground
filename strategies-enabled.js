@@ -12,87 +12,46 @@ const hothot = [
     'based-on-jump-up3overnight-trending607-shouldWatchout-first2-tenTo15-5'
 ];
 
-const longtermhotpercup = [
+const longtermhot = [
     'sudden-drops-last2trend-tenTo15-328',
-    'dynamo-3000-top50tso-overall-5lowestYP-tenTo15-4',
-    'sudden-drops-last1trend-fiveTo10-14',
+    'dynamo-3000-bottom50tso-onlyWatchout-5lowestsharesToCap-4',
+    'dynamo-3000-bottom50tso-notWatchout-100',
     'dynamo-3000-bottom50tso-notWatchout-5lowestTSO-100',
     'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
-    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
-    'dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15-4',
     'dynamo-3000-top50tso-overall-5lowestYP-tenTo15-4',
-];
-
-const longtermhotavgtrend = [
-    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
-    'constant-downers-10minute-percDownCloseOnlyPoints-filtered40-242',
-    'constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-40',
-    'based-on-jump-up3overnight-trending35257-fiveTo10-30',
-    'constant-downers-5minute-percDownCloseOnlyPoints-filtered50-309',
-    'constant-downers-10minute-percDownCloseOnlyPoints-filtered40-77',
-    'constant-downers-5minute-percDownLowClosePoints-filtered40-309',
-    'constant-risers-5minute-percUpHighClosePoints-300'
-];
-
-
-const shorttermhot = [
-    'based-on-jump-up3overnight-shouldWatchout-first1-tenTo15-30',
-    'based-on-jump-up3overnight-trending607-first1-tenTo15-30',
-    'dynamo-3000-top50tso-overall-5highestTSO-351',
-    'sudden-drops-last1trend-first1-388',
-    'sudden-drops-last2trend-328',
-    'week-swings-tenTo15-583',
-    'dynamo-3000-top50tso-onlyWatchout-5highestTSO-351',
-    'based-on-jump-down3overnight-trending607-gtneg20percmax-first2-30'
+    'based-on-jump-down3overnight-notWatchout-fiveTo10-5',
+    'sudden-drops-last2trend-tenTo15-63',
+    'based-on-jump-down3overnight-gtneg20percmax-fiveTo10-5',
+    'constant-risers-10minute-percUpHighClosePoints-filtered60-300',
+    'based-on-jump-up3overnight-ltneg50percmax-tenTo15-5'
 ];
 
 const forPurchase = [
-    // auto                     20
-    // generated with smart-pms  // 5
-    "[5day-sortedByAvgTrend-first1]",
-    "[3IncToday-sortedByAvgTrend-first1]",
-    "[12Count5-sortedByAvgTrend-first1]",
-    "[10IncTodayCount6-sortedByAvgTrend-first1]",
-    "[10IncTodayCount4-sortedByAvgTrend-first1]",
 
-        // duplicate            // 5
-        "[5day-sortedByAvgTrend-first1]",
-        "[3IncToday-sortedByAvgTrend-first1]",
-        "[12Count5-sortedByAvgTrend-first1]",
-        "[10IncTodayCount6-sortedByAvgTrend-first1]",
-        "[10IncTodayCount4-sortedByAvgTrend-first1]",
+    // 5
+    '[5dayCount4-sortedByPercUp-uniq-first1]',
+    '[5dayCount4-sortedByPercUp-uniq-first1]',
+    '[5dayCount4-sortedByPercUp-uniq-first1]',
+    '[5dayCount4-sortedByPercUp-uniq-first1]',
+    '[5dayCount4-sortedByPercUp-uniq-first1]',
 
-        // duplicate            // 5
-        "[5day-sortedByAvgTrend-first1]",
-        "[3IncToday-sortedByAvgTrend-first1]",
-        "[12Count5-sortedByAvgTrend-first1]",
-        "[10IncTodayCount6-sortedByAvgTrend-first1]",
-        "[10IncTodayCount4-sortedByAvgTrend-first1]",
-
-        // duplicate            // 5
-        "[5day-sortedByAvgTrend-first1]",
-        "[3IncToday-sortedByAvgTrend-first1]",
-        "[12Count5-sortedByAvgTrend-first1]",
-        "[10IncTodayCount6-sortedByAvgTrend-first1]",
-        "[10IncTodayCount4-sortedByAvgTrend-first1]",
-
-    // other autos              7
-
-    // looking good in pm's     // 4
-    '[5dayCount4-sortedByPercUp-first1]',
-    '[4IncTodayCount3-sortedByPercUp-first1]',
-    '[5dayCount3-sortedByPercUp-first1]',
-    '[5day-sortedByPercUp-first3]',
-
-                                // 3
+    // 15
+    '[7IncTodayCount5-sortedByPercUp-uniq-first3]',
+    '[7IncTodayCount5-sortedByPercUp-first3]',
+    '[5dayCount4-sortedByPercUp-uniq-first3]',
+    '[7IncTodayCount5-sortedByAvgTrend-uniq-first3]',
     '[4IncToday-sortedByAvgTrend-uniq-first3]',
 
+    // 20
+    '[5dayCount4-sortedByPercUp-first10]',
+    '[5dayCount3-sortedByPercUp-first10s]',
 
+    // 5
+    '[3IncToday-sortedByAvgTrend-first5]',
 
-    // manual                   24
-    '[shorttermhot]',           // 8
-    '[longtermhotavgtrend]',    // 8
-    '[longtermhotpercup]',       // 8
+    // manual
+    '[longtermhot]',        // 11
+    '[hothot]',             // 7
 
     'sudden-drops-last2trend-tenTo15-328',
     'sudden-drops-last2trend-tenTo15-328'
@@ -123,8 +82,6 @@ module.exports = {
         ],
         mySpecialSauce,
         hothot,
-        longtermhotpercup,
-        longtermhotavgtrend,
-        shorttermhot
+        longtermhot
     }
 };
