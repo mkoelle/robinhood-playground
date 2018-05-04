@@ -18,7 +18,12 @@ const regCronIncAfterSixThirty = (Robinhood, { name, run, fn }) => {
         // console.log('push all', allCrons);
         new CronJob(cronStr, () => {
             console.log('starting cron: ', name);
-            fn(Robinhood, min, index);
+            const callFn = () => fn(Robinhood, min, index);
+            if (min === 0) {
+                setTimeout(callFn, 5000);
+            } else {
+                callFn();
+            }
         }, null, true);
     });
 };

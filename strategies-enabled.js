@@ -28,9 +28,10 @@ const longtermhot = [
 
 const forPurchase = [
 
-    
-    'sudden-drops-last2trend-tenTo15-328',
-    'sudden-drops-last2trend-tenTo15-328'
+    '[12Count5-sortedByAvgTrend-uniq-first1]',
+    '[12Count5-sortedByAvgTrend-uniq-first1]',
+    '[5IncTodayCount3-sortedByPercUp-first1]',
+    '[4IncTodayCount3-sortedByPercUp-first1]'
 
 ];
 
