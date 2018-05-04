@@ -39,9 +39,18 @@ const trendFilter = async (Robinhood, trend) => {
     };
 
     console.log('prepping up3overnight');
-    const up3overnight = await filterSortedTicks(
-        buy => buy.overnightJump > 3,
-        (a, b) => b.overnightJump - a.overnightJump
+    const descendingOJ = (a, b) => b.overnightJump - a.overnightJump;
+    const gtEightOvernight = await filterSortedTicks(
+        buy => buy.overnightJump > 8,
+        descendingOJ
+    );
+    const fourToEightOvernight = await filterSortedTicks(
+        ({ overnightJump }) => overnightJump > 4 && overnightJump < 8,
+        descendingOJ
+    );
+    const oneToFourOvernight = await filterSortedTicks(
+        ({ overnightJump }) => overnightJump > 1 && overnightJump < 4,
+        descendingOJ
     );
     console.log('prepping down3overnight');
     const down3overnight = await filterSortedTicks(
@@ -52,18 +61,18 @@ const trendFilter = async (Robinhood, trend) => {
     const specificPerms = (name) => {
         return [
             [name, buy => buy[name]],
-            [`${name}-ltneg50percmax`, buy => buy[name] && buy.percMax < -50],
-            [`${name}-gtneg20percmax`, buy => buy[name] && buy.percMax > -20],
             [`${name}-shouldWatchout`, buy => buy[name] && buy.shouldWatchout],
-            [`${name}-notWatchout`, buy => buy[name] && !buy.shouldWatchout]
+            [`${name}-notWatchout`, buy => buy[name] && !buy.shouldWatchout],
+            [`${name}-notWatchout-ltneg50percmax`, buy => buy[name] && !buy.shouldWatchout && buy.percMax < -50],
+            [`${name}-notWatchout-gtneg20percmax`, buy => buy[name] && !buy.shouldWatchout && buy.percMax > -20],
         ];
     };
 
     const filterPerms = [
-        ['ltneg50percmax', buy => buy.percMax < -50],
-        ['gtneg20percmax', buy => buy.percMax > -20],
         ['shouldWatchout', buy => buy.shouldWatchout],
         ['notWatchout', buy => !buy.shouldWatchout],
+        ['notWatchout-ltneg50percmax', buy => !buy.shouldWatchout && buy.percMax < -50],
+        ['notWatchout-gtneg20percmax', buy => !buy.shouldWatchout && buy.percMax > -20],
 
         ...specificPerms('trending35257'),
         ...specificPerms('trending607'),
@@ -85,7 +94,9 @@ const trendFilter = async (Robinhood, trend) => {
     };
 
     return {
-        ...runPerms('up3overnight', up3overnight),
+        ...runPerms('gtEightOvernight', gtEightOvernight),
+        ...runPerms('fourToEightOvernight', fourToEightOvernight),
+        ...runPerms('oneToFourOvernight', oneToFourOvernight),
         ...runPerms('down3overnight', down3overnight)
     };
 };

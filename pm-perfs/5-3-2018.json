@@ -1,119 +1,107 @@
 [
   {
-    "pm": "curOverallPredictions-brainPredictions-first5",
-    "avgTrend": "34.62%"
-  },
-  {
     "pm": "curOverallPredictions-myPredictions-first3",
-    "avgTrend": "34.62%"
+    "avgTrend": "48.79%"
   },
   {
-    "pm": "curOverallPredictions-brainPredictions-uniq-first3",
-    "avgTrend": "34.62%"
-  },
-  {
-    "pm": "curOverallPredictions-brainPredictions-uniq-first5",
-    "avgTrend": "34.62%"
+    "pm": "curOverallPredictions-brainPredictions-first5",
+    "avgTrend": "48.79%"
   },
   {
     "pm": "curOverallPredictions-brainPredictions-first3",
-    "avgTrend": "34.62%"
+    "avgTrend": "48.79%"
   },
   {
-    "pm": "curOverallPredictions-myPredictions-first5",
-    "avgTrend": "34.62%"
+    "pm": "curOverallPredictions-brainPredictions-uniq-first3",
+    "avgTrend": "48.79%"
   },
   {
     "pm": "curOverallPredictions-myPredictions-uniq-first3",
-    "avgTrend": "34.62%"
+    "avgTrend": "48.79%"
   },
   {
     "pm": "curOverallPredictions-myPredictions-uniq-first5",
-    "avgTrend": "34.62%"
+    "avgTrend": "48.79%"
+  },
+  {
+    "pm": "curOverallPredictions-myPredictions-first5",
+    "avgTrend": "48.79%"
+  },
+  {
+    "pm": "curOverallPredictions-brainPredictions-uniq-first5",
+    "avgTrend": "48.79%"
   },
   {
     "pm": "curOverallPredictions-myPredictions-first10",
-    "avgTrend": "24.10%"
+    "avgTrend": "35.78%"
   },
   {
     "pm": "curOverallPredictions-brainPredictions-first10",
-    "avgTrend": "24.10%"
-  },
-  {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-first3",
-    "avgTrend": "7.02%"
-  },
-  {
-    "pm": "16IncTodayCount9-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "5.99%"
-  },
-  {
-    "pm": "curOverallPredictions-myPredictions-uniq-first10",
-    "avgTrend": "4.96%"
+    "avgTrend": "35.78%"
   },
   {
     "pm": "curOverallPredictions-brainPredictions-uniq-first10",
-    "avgTrend": "4.96%"
+    "avgTrend": "7.59%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-first5",
-    "avgTrend": "4.15%"
+    "pm": "curOverallPredictions-myPredictions-uniq-first10",
+    "avgTrend": "7.59%"
   },
   {
-    "pm": "wild n crazy",
-    "avgTrend": "3.88%"
+    "pm": "16IncTodayCount12-sortedByAvgTrend-first3",
+    "avgTrend": "6.24%"
   },
   {
-    "pm": "yesterdayPredictions-myPredictions-first3",
-    "avgTrend": "3.65%"
+    "pm": "16IncTodayCount9-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "5.07%"
   },
   {
     "pm": "yesterdayPredictions-brainPredictions-first3",
     "avgTrend": "3.65%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByAvgTrend-first10",
-    "avgTrend": "3.40%"
+    "pm": "yesterdayPredictions-myPredictions-first3",
+    "avgTrend": "3.65%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByAvgTrend-first5",
-    "avgTrend": "3.38%"
+    "pm": "16IncTodayCount12-sortedByAvgTrend-first5",
+    "avgTrend": "3.51%"
+  },
+  {
+    "pm": "wild n crazy",
+    "avgTrend": "3.17%"
+  },
+  {
+    "pm": "16IncTodayCount9-sortedByAvgTrend-first10",
+    "avgTrend": "2.90%"
   },
   {
     "pm": "16IncTodayCount9-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "3.18%"
+    "avgTrend": "2.72%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first1",
-    "avgTrend": "2.92%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-first1",
-    "avgTrend": "2.92%"
-  },
-  {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first1",
-    "avgTrend": "2.92%"
-  },
-  {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-first1",
-    "avgTrend": "2.92%"
+    "pm": "16IncTodayCount9-sortedByAvgTrend-first5",
+    "avgTrend": "2.71%"
   },
   {
     "pm": "16IncTodayCount12-sortedByAvgTrend-first10",
-    "avgTrend": "2.85%"
+    "avgTrend": "2.34%"
   },
   {
     "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "2.63%"
+    "avgTrend": "2.10%"
+  },
+  {
+    "pm": "yesterdayPredictions-brainPredictions-first5",
+    "avgTrend": "1.84%"
   },
   {
     "pm": "yesterdayPredictions-myPredictions-first5",
     "avgTrend": "1.84%"
   },
   {
-    "pm": "yesterdayPredictions-brainPredictions-first5",
-    "avgTrend": "1.84%"
+    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first1",
+    "avgTrend": "1.75%"
   },
   {
     "pm": "16IncTodayCount12-sortedByPercUp-first1",
@@ -128,27 +116,51 @@
     "avgTrend": "1.75%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first1",
-    "avgTrend": "1.75%"
+    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first1",
+    "avgTrend": "1.56%"
   },
   {
-    "pm": "Yesterday-sortedByPercUp-first5",
-    "avgTrend": "0.93%"
+    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first1",
+    "avgTrend": "1.56%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByAvgTrend-first1",
+    "avgTrend": "1.56%"
+  },
+  {
+    "pm": "16IncTodayCount12-sortedByAvgTrend-first1",
+    "avgTrend": "1.56%"
   },
   {
     "pm": "Yesterday-sortedByAvgTrend-first5",
     "avgTrend": "0.93%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "0.86%"
+    "pm": "Yesterday-sortedByPercUp-first5",
+    "avgTrend": "0.93%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first3",
+    "pm": "yesterdayPredictions-myPredictions-uniq-first3",
+    "avgTrend": "0.69%"
+  },
+  {
+    "pm": "Yesterday-sortedByPercUp-uniq-first3",
+    "avgTrend": "0.69%"
+  },
+  {
+    "pm": "Yesterday-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "0.69%"
+  },
+  {
+    "pm": "yesterdayPredictions-brainPredictions-uniq-first3",
+    "avgTrend": "0.69%"
+  },
+  {
+    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first3",
     "avgTrend": "0.68%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByPercUp-first3",
+    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first3",
     "avgTrend": "0.68%"
   },
   {
@@ -156,144 +168,128 @@
     "avgTrend": "0.68%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first3",
+    "pm": "16IncTodayCount12-sortedByPercUp-first3",
     "avgTrend": "0.68%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByPercUp-first5",
-    "avgTrend": "0.52%"
-  },
-  {
     "pm": "16IncTodayCount12-sortedByPercUp-first5",
-    "avgTrend": "0.52%"
+    "avgTrend": "0.45%"
   },
   {
-    "pm": "yesterdayPredictions-brainPredictions-uniq-first3",
-    "avgTrend": "0.50%"
+    "pm": "16IncTodayCount9-sortedByPercUp-first5",
+    "avgTrend": "0.45%"
   },
   {
-    "pm": "Yesterday-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "0.50%"
-  },
-  {
-    "pm": "Yesterday-sortedByPercUp-uniq-first3",
-    "avgTrend": "0.50%"
-  },
-  {
-    "pm": "yesterdayPredictions-myPredictions-uniq-first3",
-    "avgTrend": "0.50%"
+    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "0.14%"
   },
   {
     "pm": "curOverallFilteredPredictions-brainPredictions-first10",
-    "avgTrend": "-0.06%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first10",
-    "avgTrend": "-0.12%"
+    "avgTrend": "-0.05%"
   },
   {
     "pm": "curOverallFilteredPredictions-brainPredictions-first5",
-    "avgTrend": "-0.13%"
+    "avgTrend": "-0.11%"
+  },
+  {
+    "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first10",
+    "avgTrend": "-0.11%"
   },
   {
     "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first5",
-    "avgTrend": "-0.17%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-brainPredictions-first1",
-    "avgTrend": "-0.19%"
+    "avgTrend": "-0.14%"
   },
   {
     "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first1",
-    "avgTrend": "-0.19%"
+    "avgTrend": "-0.15%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-0.38%"
+    "pm": "curOverallFilteredPredictions-brainPredictions-first1",
+    "avgTrend": "-0.15%"
   },
   {
-    "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first3",
-    "avgTrend": "-0.63%"
+    "pm": "dayBeforeYesterdayPredictions-brainPredictions-uniq-first10",
+    "avgTrend": "-0.44%"
+  },
+  {
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first10",
+    "avgTrend": "-0.44%"
   },
   {
     "pm": "curOverallFilteredPredictions-brainPredictions-first3",
-    "avgTrend": "-0.63%"
+    "avgTrend": "-0.62%"
   },
   {
-    "pm": "mySpecialSauce",
-    "avgTrend": "-0.65%"
-  },
-  {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first5",
-    "avgTrend": "-0.68%"
+    "pm": "curOverallFilteredPredictions-brainPredictions-uniq-first3",
+    "avgTrend": "-0.62%"
   },
   {
     "pm": "dayBeforeYesterdayPredictions-brainPredictions-uniq-first5",
-    "avgTrend": "-0.68%"
+    "avgTrend": "-0.64%"
   },
   {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-first10",
-    "avgTrend": "-0.97%"
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first5",
+    "avgTrend": "-0.64%"
   },
   {
-    "pm": "dayBeforeYesterdayPredictions-brainPredictions-first10",
-    "avgTrend": "-0.97%"
-  },
-  {
-    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first5",
-    "avgTrend": "-1.10%"
+    "pm": "16IncTodayCount12-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-0.70%"
   },
   {
     "pm": "16IncTodayCount12-sortedByPercUp-uniq-first5",
-    "avgTrend": "-1.10%"
+    "avgTrend": "-0.83%"
   },
   {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first3",
-    "avgTrend": "-1.53%"
+    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first5",
+    "avgTrend": "-0.83%"
+  },
+  {
+    "pm": "dayBeforeYesterdayPredictions-brainPredictions-first10",
+    "avgTrend": "-0.96%"
+  },
+  {
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-first10",
+    "avgTrend": "-0.96%"
+  },
+  {
+    "pm": "longtermhot",
+    "avgTrend": "-1.14%"
+  },
+  {
+    "pm": "mySpecialSauce",
+    "avgTrend": "-1.34%"
   },
   {
     "pm": "dayBeforeYesterdayPredictions-brainPredictions-uniq-first3",
     "avgTrend": "-1.53%"
   },
   {
-    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first10",
-    "avgTrend": "-1.63%"
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first3",
+    "avgTrend": "-1.53%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first10",
-    "avgTrend": "-1.63%"
-  },
-  {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first10",
-    "avgTrend": "-1.70%"
-  },
-  {
-    "pm": "dayBeforeYesterdayPredictions-brainPredictions-uniq-first10",
-    "avgTrend": "-1.70%"
-  },
-  {
-    "pm": "longtermhot",
-    "avgTrend": "-1.73%"
-  },
-  {
-    "pm": "16IncTodayCount12-sortedByPercUp-first10",
-    "avgTrend": "-1.77%"
-  },
-  {
-    "pm": "16IncTodayCount9-sortedByPercUp-first10",
-    "avgTrend": "-1.77%"
-  },
-  {
-    "pm": "dayBeforeYesterdayPredictions-brainPredictions-first5",
-    "avgTrend": "-1.93%"
+    "pm": "7IncTodayCount5-sortedByPercUp-first10",
+    "avgTrend": "-1.76%"
   },
   {
     "pm": "dayBeforeYesterdayPredictions-myPredictions-first5",
     "avgTrend": "-1.93%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-2.01%"
+    "pm": "dayBeforeYesterdayPredictions-brainPredictions-first5",
+    "avgTrend": "-1.93%"
+  },
+  {
+    "pm": "16IncTodayCount9-sortedByPercUp-uniq-first10",
+    "avgTrend": "-2.06%"
+  },
+  {
+    "pm": "16IncTodayCount12-sortedByPercUp-uniq-first10",
+    "avgTrend": "-2.06%"
+  },
+  {
+    "pm": "7IncTodayCount5-sortedByPercUp-uniq-first3",
+    "avgTrend": "-2.15%"
   },
   {
     "pm": "dayBeforeYesterdayPredictions-brainPredictions-first3",
@@ -304,15 +300,19 @@
     "avgTrend": "-2.23%"
   },
   {
-    "pm": "16IncTodayCount9-sortedByAvgTrend-first3",
+    "pm": "16IncTodayCount9-sortedByAvgTrend-uniq-first10",
     "avgTrend": "-2.32%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first10",
-    "avgTrend": "-2.40%"
+    "pm": "16IncTodayCount12-sortedByPercUp-first10",
+    "avgTrend": "-2.42%"
   },
   {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-first1",
+    "pm": "16IncTodayCount9-sortedByPercUp-first10",
+    "avgTrend": "-2.42%"
+  },
+  {
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first1",
     "avgTrend": "-2.54%"
   },
   {
@@ -320,7 +320,7 @@
     "avgTrend": "-2.54%"
   },
   {
-    "pm": "dayBeforeYesterdayPredictions-myPredictions-uniq-first1",
+    "pm": "dayBeforeYesterdayPredictions-myPredictions-first1",
     "avgTrend": "-2.54%"
   },
   {
@@ -328,991 +328,991 @@
     "avgTrend": "-2.54%"
   },
   {
-    "pm": "7IncTodayCount5-sortedByPercUp-first10",
-    "avgTrend": "-2.65%"
+    "pm": "7IncTodayCount5-sortedByPercUp-first5",
+    "avgTrend": "-2.75%"
   },
   {
     "pm": "7IncTodayCount5-sortedByPercUp-uniq-first10",
-    "avgTrend": "-2.92%"
+    "avgTrend": "-2.75%"
   },
   {
-    "pm": "7IncTodayCount5-sortedByPercUp-uniq-first3",
-    "avgTrend": "-3.28%"
+    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first10",
+    "avgTrend": "-2.95%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByPercUp-first10",
-    "avgTrend": "-3.29%"
-  },
-  {
-    "pm": "yesterdayPredictions-myPredictions-first10",
-    "avgTrend": "-3.99%"
-  },
-  {
-    "pm": "yesterdayPredictions-brainPredictions-first10",
-    "avgTrend": "-3.99%"
+    "pm": "16IncTodayCount9-sortedByAvgTrend-first3",
+    "avgTrend": "-3.16%"
   },
   {
     "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-4.22%"
-  },
-  {
-    "pm": "12Count5-sortedByPercUp-uniq-first10",
-    "avgTrend": "-4.49%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first5",
-    "avgTrend": "-4.53%"
-  },
-  {
-    "pm": "7IncTodayCount5-sortedByPercUp-first5",
-    "avgTrend": "-4.54%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-4.93%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-first3",
-    "avgTrend": "-4.93%"
-  },
-  {
-    "pm": "Yesterday-sortedByAvgTrend-first10",
-    "avgTrend": "-5.08%"
-  },
-  {
-    "pm": "Yesterday-sortedByPercUp-first10",
-    "avgTrend": "-5.08%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-first5",
-    "avgTrend": "-5.36%"
-  },
-  {
-    "pm": "16Count5-sortedByPercUp-uniq-first10",
-    "avgTrend": "-5.75%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByPercUp-first5",
-    "avgTrend": "-5.97%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-6.73%"
+    "avgTrend": "-4.06%"
   },
   {
     "pm": "7IncTodayCount5-sortedByPercUp-first3",
-    "avgTrend": "-7.06%"
+    "avgTrend": "-4.07%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first3",
-    "avgTrend": "-7.18%"
+    "pm": "10IncTodayCount6-sortedByPercUp-first10",
+    "avgTrend": "-4.27%"
   },
   {
-    "pm": "Yesterday-sortedByPercUp-uniq-first10",
-    "avgTrend": "-7.33%"
+    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-4.36%"
   },
   {
-    "pm": "yesterdayPredictions-myPredictions-uniq-first10",
-    "avgTrend": "-7.33%"
+    "pm": "10IncTodayCount6-sortedByAvgTrend-first3",
+    "avgTrend": "-4.36%"
   },
   {
-    "pm": "yesterdayPredictions-brainPredictions-uniq-first10",
-    "avgTrend": "-7.33%"
-  },
-  {
-    "pm": "16Count5-sortedByPercUp-uniq-first5",
-    "avgTrend": "-7.51%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByPercUp-uniq-first10",
-    "avgTrend": "-7.76%"
-  },
-  {
-    "pm": "Yesterday-sortedByPercUp-uniq-first5",
-    "avgTrend": "-7.86%"
-  },
-  {
-    "pm": "yesterdayPredictions-myPredictions-uniq-first5",
-    "avgTrend": "-7.86%"
-  },
-  {
-    "pm": "yesterdayPredictions-brainPredictions-uniq-first5",
-    "avgTrend": "-7.86%"
-  },
-  {
-    "pm": "Yesterday-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-7.86%"
-  },
-  {
-    "pm": "7IncTodayCount5-sortedByPercUp-first1",
-    "avgTrend": "-8.29%"
+    "pm": "12Count5-sortedByPercUp-uniq-first10",
+    "avgTrend": "-4.44%"
   },
   {
     "pm": "7IncTodayCount5-sortedByPercUp-uniq-first1",
-    "avgTrend": "-8.29%"
+    "avgTrend": "-4.93%"
   },
   {
-    "pm": "7IncTodayCount5-sortedByPercUp-uniq-first5",
-    "avgTrend": "-8.32%"
+    "pm": "7IncTodayCount5-sortedByPercUp-first1",
+    "avgTrend": "-4.93%"
   },
   {
-    "pm": "5dayCount4-sortedByPercUp-uniq-first10",
-    "avgTrend": "-8.64%"
+    "pm": "10IncTodayCount6-sortedByAvgTrend-first5",
+    "avgTrend": "-5.05%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first10",
-    "avgTrend": "-8.64%"
+    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first5",
+    "avgTrend": "-5.58%"
   },
   {
-    "pm": "12Count5-sortedByPercUp-uniq-first5",
-    "avgTrend": "-8.88%"
+    "pm": "yesterdayPredictions-myPredictions-first10",
+    "avgTrend": "-5.66%"
+  },
+  {
+    "pm": "yesterdayPredictions-brainPredictions-first10",
+    "avgTrend": "-5.66%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-6.35%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByPercUp-uniq-first10",
+    "avgTrend": "-6.90%"
+  },
+  {
+    "pm": "Yesterday-sortedByAvgTrend-first10",
+    "avgTrend": "-6.99%"
+  },
+  {
+    "pm": "Yesterday-sortedByPercUp-first10",
+    "avgTrend": "-6.99%"
+  },
+  {
+    "pm": "16Count5-sortedByPercUp-uniq-first10",
+    "avgTrend": "-7.00%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByPercUp-first5",
+    "avgTrend": "-7.90%"
+  },
+  {
+    "pm": "yesterdayPredictions-myPredictions-uniq-first10",
+    "avgTrend": "-8.16%"
+  },
+  {
+    "pm": "yesterdayPredictions-brainPredictions-uniq-first10",
+    "avgTrend": "-8.16%"
+  },
+  {
+    "pm": "Yesterday-sortedByPercUp-uniq-first10",
+    "avgTrend": "-8.16%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first3",
+    "avgTrend": "-8.93%"
   },
   {
     "pm": "Yesterday-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-8.94%"
+    "avgTrend": "-9.13%"
+  },
+  {
+    "pm": "16Count5-sortedByPercUp-uniq-first5",
+    "avgTrend": "-9.73%"
+  },
+  {
+    "pm": "12Count5-sortedByPercUp-uniq-first5",
+    "avgTrend": "-9.78%"
+  },
+  {
+    "pm": "7IncTodayCount5-sortedByPercUp-uniq-first5",
+    "avgTrend": "-9.87%"
   },
   {
     "pm": "10IncTodayCount6-sortedByAvgTrend-first10",
-    "avgTrend": "-9.24%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-9.26%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-9.26%"
-  },
-  {
-    "pm": "10IncTodayCount6-sortedByPercUp-first3",
-    "avgTrend": "-10.40%"
+    "avgTrend": "-9.89%"
   },
   {
     "pm": "7IncTodayCount5-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-10.72%"
+    "avgTrend": "-10.17%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-10.84%"
+    "pm": "Yesterday-sortedByPercUp-uniq-first5",
+    "avgTrend": "-11.21%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first10",
-    "avgTrend": "-10.98%"
+    "pm": "Yesterday-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-11.21%"
   },
   {
-    "pm": "16Count5-sortedByPercUp-uniq-first3",
-    "avgTrend": "-12.60%"
+    "pm": "yesterdayPredictions-brainPredictions-uniq-first5",
+    "avgTrend": "-11.21%"
   },
   {
-    "pm": "12Count5-sortedByAvgTrend-first10",
-    "avgTrend": "-12.93%"
+    "pm": "yesterdayPredictions-myPredictions-uniq-first5",
+    "avgTrend": "-11.21%"
   },
   {
-    "pm": "16Count3-sortedByPercUp-uniq-first10",
-    "avgTrend": "-13.03%"
+    "pm": "5dayCount4-sortedByPercUp-uniq-first10",
+    "avgTrend": "-12.07%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first10",
+    "avgTrend": "-12.07%"
   },
   {
     "pm": "7IncTodayCount5-sortedByAvgTrend-first10",
-    "avgTrend": "-13.88%"
+    "avgTrend": "-12.83%"
   },
   {
-    "pm": "hothot",
-    "avgTrend": "-14.22%"
+    "pm": "5dayCount4-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-12.90%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-first5",
-    "avgTrend": "-14.48%"
+    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-12.90%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-14.48%"
+    "pm": "12Count5-sortedByAvgTrend-first10",
+    "avgTrend": "-13.47%"
   },
   {
-    "pm": "16Count5-sortedByPercUp-first10",
-    "avgTrend": "-14.49%"
+    "pm": "10IncTodayCount6-sortedByPercUp-first3",
+    "avgTrend": "-13.61%"
   },
   {
-    "pm": "10IncTodayCount4-sortedByAvgTrend-first3",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "16Count3-sortedByAvgTrend-first3",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByAvgTrend-first5",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "16Count3-sortedByAvgTrend-first5",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "7IncTodayCount5-sortedByAvgTrend-first3",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "16Count3-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "16Count5-sortedByAvgTrend-first3",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "16Count3-sortedByAvgTrend-first10",
-    "avgTrend": "-14.80%"
-  },
-  {
-    "pm": "12Count5-sortedByPercUp-first10",
-    "avgTrend": "-15.10%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first10",
-    "avgTrend": "-15.12%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-first10",
-    "avgTrend": "-15.15%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-first10",
-    "avgTrend": "-15.15%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByAvgTrend-first10",
-    "avgTrend": "-15.30%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-first10",
-    "avgTrend": "-15.34%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByPercUp-first10",
-    "avgTrend": "-15.34%"
+    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-14.52%"
   },
   {
     "pm": "16Count5-sortedByAvgTrend-first10",
-    "avgTrend": "-15.38%"
+    "avgTrend": "-15.82%"
   },
   {
-    "pm": "5day-sortedByAvgTrend-first10",
-    "avgTrend": "-15.57%"
+    "pm": "10IncTodayCount4-sortedByAvgTrend-first3",
+    "avgTrend": "-15.97%"
   },
   {
-    "pm": "5day-sortedByPercUp-first10",
-    "avgTrend": "-15.57%"
+    "pm": "16Count3-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-15.97%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByPercUp-first1",
-    "avgTrend": "-15.59%"
+    "pm": "16Count3-sortedByAvgTrend-first3",
+    "avgTrend": "-15.97%"
   },
   {
-    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first1",
-    "avgTrend": "-15.59%"
+    "pm": "16Count5-sortedByAvgTrend-first3",
+    "avgTrend": "-15.97%"
+  },
+  {
+    "pm": "16Count3-sortedByAvgTrend-first5",
+    "avgTrend": "-15.97%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByAvgTrend-first5",
+    "avgTrend": "-15.97%"
+  },
+  {
+    "pm": "7IncTodayCount5-sortedByAvgTrend-first3",
+    "avgTrend": "-15.97%"
+  },
+  {
+    "pm": "16Count3-sortedByAvgTrend-first10",
+    "avgTrend": "-15.97%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByAvgTrend-first10",
+    "avgTrend": "-16.01%"
+  },
+  {
+    "pm": "hothot",
+    "avgTrend": "-16.25%"
+  },
+  {
+    "pm": "16Count5-sortedByPercUp-uniq-first3",
+    "avgTrend": "-16.31%"
+  },
+  {
+    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first10",
+    "avgTrend": "-16.35%"
+  },
+  {
+    "pm": "16Count3-sortedByPercUp-uniq-first10",
+    "avgTrend": "-17.43%"
   },
   {
     "pm": "7IncTodayCount5-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-15.62%"
-  },
-  {
-    "pm": "12Count5-sortedByPercUp-uniq-first3",
-    "avgTrend": "-15.73%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-16.07%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-uniq-first5",
-    "avgTrend": "-16.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first5",
-    "avgTrend": "-16.33%"
-  },
-  {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-16.52%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first10",
-    "avgTrend": "-16.61%"
-  },
-  {
-    "pm": "12Count5-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-16.68%"
-  },
-  {
-    "pm": "7IncTodayCount5-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-16.91%"
-  },
-  {
-    "pm": "12Count5-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-16.91%"
+    "avgTrend": "-17.47%"
   },
   {
     "pm": "16Count5-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-16.91%"
+    "avgTrend": "-17.50%"
   },
   {
-    "pm": "10IncTodayCount4-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-16.91%"
+    "pm": "7IncTodayCount5-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-17.50%"
   },
   {
     "pm": "12Count5-sortedByAvgTrend-first3",
-    "avgTrend": "-16.91%"
+    "avgTrend": "-17.50%"
+  },
+  {
+    "pm": "12Count5-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-17.50%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-17.50%"
   },
   {
     "pm": "7IncTodayCount5-sortedByAvgTrend-first5",
-    "avgTrend": "-17.02%"
-  },
-  {
-    "pm": "16Count5-sortedByAvgTrend-first5",
-    "avgTrend": "-17.02%"
+    "avgTrend": "-17.61%"
   },
   {
     "pm": "12Count5-sortedByAvgTrend-first5",
-    "avgTrend": "-17.02%"
+    "avgTrend": "-17.61%"
+  },
+  {
+    "pm": "16Count5-sortedByAvgTrend-first5",
+    "avgTrend": "-17.61%"
   },
   {
     "pm": "10IncTodayCount4-sortedByPercUp-uniq-first5",
-    "avgTrend": "-17.26%"
+    "avgTrend": "-17.64%"
+  },
+  {
+    "pm": "12Count5-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-18.22%"
+  },
+  {
+    "pm": "16Count5-sortedByPercUp-first10",
+    "avgTrend": "-18.35%"
+  },
+  {
+    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first10",
+    "avgTrend": "-18.56%"
+  },
+  {
+    "pm": "12Count5-sortedByPercUp-first10",
+    "avgTrend": "-18.84%"
+  },
+  {
+    "pm": "12Count5-sortedByPercUp-uniq-first3",
+    "avgTrend": "-18.99%"
+  },
+  {
+    "pm": "5day-sortedByAvgTrend-first10",
+    "avgTrend": "-19.22%"
+  },
+  {
+    "pm": "5day-sortedByPercUp-first10",
+    "avgTrend": "-19.22%"
   },
   {
     "pm": "16Count5-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-18.40%"
+    "avgTrend": "-20.51%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first3",
-    "avgTrend": "-18.56%"
+    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-20.52%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByPercUp-first5",
-    "avgTrend": "-18.56%"
+    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first10",
+    "avgTrend": "-21.28%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-first10",
-    "avgTrend": "-18.65%"
+    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-21.41%"
   },
   {
-    "pm": "5IncTodayCount3-sortedByPercUp-uniq-first10",
-    "avgTrend": "-19.00%"
+    "pm": "4IncTodayCount3-sortedByAvgTrend-first5",
+    "avgTrend": "-21.41%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-first10",
+    "avgTrend": "-21.72%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-first10",
+    "avgTrend": "-21.72%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByPercUp-first1",
+    "avgTrend": "-22.18%"
+  },
+  {
+    "pm": "10IncTodayCount6-sortedByPercUp-uniq-first1",
+    "avgTrend": "-22.18%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-first10",
+    "avgTrend": "-22.59%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-first10",
+    "avgTrend": "-22.59%"
   },
   {
     "pm": "5dayCount3-sortedByPercUp-uniq-first10",
-    "avgTrend": "-19.00%"
+    "avgTrend": "-22.73%"
   },
   {
-    "pm": "4IncToday-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-19.78%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-19.78%"
+    "pm": "5IncTodayCount3-sortedByPercUp-uniq-first10",
+    "avgTrend": "-22.73%"
   },
   {
     "pm": "16Count3-sortedByPercUp-uniq-first5",
-    "avgTrend": "-20.24%"
+    "avgTrend": "-23.11%"
   },
   {
     "pm": "12Count5-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-20.27%"
+    "avgTrend": "-23.16%"
+  },
+  {
+    "pm": "4IncTodayCount3-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-23.28%"
+  },
+  {
+    "pm": "4IncToday-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-23.94%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-23.94%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-uniq-first5",
+    "avgTrend": "-24.23%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first5",
+    "avgTrend": "-24.23%"
   },
   {
     "pm": "4IncTodayCount2-sortedByPercUp-uniq-first10",
-    "avgTrend": "-20.71%"
+    "avgTrend": "-25.03%"
   },
   {
     "pm": "4IncToday-sortedByPercUp-uniq-first10",
-    "avgTrend": "-20.71%"
+    "avgTrend": "-25.03%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-20.90%"
+    "pm": "4IncTodayCount3-sortedByPercUp-first5",
+    "avgTrend": "-25.15%"
   },
   {
-    "pm": "5dayCount4-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-20.90%"
-  },
-  {
-    "pm": "5day-sortedByAvgTrend-first5",
-    "avgTrend": "-21.37%"
-  },
-  {
-    "pm": "5day-sortedByPercUp-first5",
-    "avgTrend": "-21.37%"
-  },
-  {
-    "pm": "5dayCount2-sortedByAvgTrend-first5",
-    "avgTrend": "-21.37%"
-  },
-  {
-    "pm": "5dayCount2-sortedByPercUp-first5",
-    "avgTrend": "-21.37%"
-  },
-  {
-    "pm": "forPurchase",
-    "avgTrend": "-21.67%"
+    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first3",
+    "avgTrend": "-25.15%"
   },
   {
     "pm": "5IncTodayCount3-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-22.26%"
+    "avgTrend": "-25.96%"
   },
   {
     "pm": "5dayCount3-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-22.26%"
+    "avgTrend": "-25.96%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByPercUp-first10",
-    "avgTrend": "-22.32%"
+    "pm": "4IncTodayCount3-sortedByAvgTrend-first10",
+    "avgTrend": "-26.27%"
   },
   {
-    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first5",
-    "avgTrend": "-22.95%"
+    "pm": "5day-sortedByAvgTrend-first5",
+    "avgTrend": "-26.41%"
   },
   {
-    "pm": "5dayCount2-sortedByPercUp-uniq-first10",
-    "avgTrend": "-23.06%"
+    "pm": "5dayCount2-sortedByAvgTrend-first5",
+    "avgTrend": "-26.41%"
   },
   {
-    "pm": "5dayCount2-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-23.29%"
+    "pm": "5day-sortedByPercUp-first5",
+    "avgTrend": "-26.41%"
   },
   {
-    "pm": "12Count5-sortedByPercUp-first5",
-    "avgTrend": "-23.99%"
+    "pm": "5dayCount2-sortedByPercUp-first5",
+    "avgTrend": "-26.41%"
   },
   {
-    "pm": "16Count5-sortedByPercUp-first5",
-    "avgTrend": "-23.99%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first5",
-    "avgTrend": "-24.49%"
-  },
-  {
-    "pm": "5day-sortedByPercUp-uniq-first5",
-    "avgTrend": "-24.68%"
-  },
-  {
-    "pm": "5day-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-24.68%"
-  },
-  {
-    "pm": "3IncToday-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-25.57%"
-  },
-  {
-    "pm": "3IncToday-sortedByPercUp-uniq-first10",
-    "avgTrend": "-25.57%"
+    "pm": "forPurchase",
+    "avgTrend": "-26.58%"
   },
   {
     "pm": "10IncTodayCount4-sortedByPercUp-uniq-first3",
-    "avgTrend": "-25.80%"
+    "avgTrend": "-26.87%"
   },
   {
-    "pm": "5day-sortedByPercUp-uniq-first10",
-    "avgTrend": "-25.86%"
+    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first5",
+    "avgTrend": "-26.89%"
   },
   {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-26.50%"
+    "pm": "5dayCount2-sortedByPercUp-uniq-first10",
+    "avgTrend": "-27.64%"
   },
   {
-    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first5",
-    "avgTrend": "-26.50%"
-  },
-  {
-    "pm": "5day-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-26.59%"
+    "pm": "5dayCount2-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-28.15%"
   },
   {
     "pm": "10IncTodayCount4-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-26.86%"
+    "avgTrend": "-29.41%"
   },
   {
-    "pm": "3IncTodayCount2-sortedByPercUp-first10",
-    "avgTrend": "-26.86%"
+    "pm": "5day-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-29.84%"
   },
   {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-first10",
-    "avgTrend": "-26.86%"
+    "pm": "5day-sortedByPercUp-uniq-first5",
+    "avgTrend": "-29.84%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-first5",
-    "avgTrend": "-27.33%"
+    "pm": "12Count5-sortedByPercUp-first5",
+    "avgTrend": "-30.14%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByPercUp-first5",
-    "avgTrend": "-27.33%"
+    "pm": "16Count5-sortedByPercUp-first5",
+    "avgTrend": "-30.14%"
   },
   {
-    "pm": "5dayCount4-sortedByPercUp-first5",
-    "avgTrend": "-27.33%"
+    "pm": "3IncToday-sortedByPercUp-uniq-first10",
+    "avgTrend": "-30.24%"
   },
   {
-    "pm": "5dayCount4-sortedByAvgTrend-first5",
-    "avgTrend": "-27.33%"
+    "pm": "3IncToday-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-30.24%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-first3",
-    "avgTrend": "-27.33%"
+    "pm": "5day-sortedByPercUp-uniq-first10",
+    "avgTrend": "-30.77%"
   },
   {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-27.33%"
+    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-30.95%"
   },
   {
-    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByPercUp-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByPercUp-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-first5",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5IncTodayCount4-sortedByAvgTrend-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByAvgTrend-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByPercUp-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByAvgTrend-uniq-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "3IncTodayCount2-sortedByPercUp-first5",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "4IncTodayCount3-sortedByAvgTrend-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-uniq-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-uniq-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-first1",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "5dayCount4-sortedByPercUp-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "4IncTodayCount3-sortedByPercUp-first3",
-    "avgTrend": "-27.33%"
-  },
-  {
-    "pm": "12Count5-sortedByPercUp-first3",
-    "avgTrend": "-27.74%"
-  },
-  {
-    "pm": "16Count5-sortedByPercUp-first3",
-    "avgTrend": "-27.74%"
+    "pm": "5dayCount4-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-30.95%"
   },
   {
     "pm": "10IncTodayCount4-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-27.99%"
+    "avgTrend": "-31.39%"
   },
   {
-    "pm": "5dayCount2-sortedByPercUp-first10",
-    "avgTrend": "-28.46%"
+    "pm": "5day-sortedByAvgTrend-uniq-first10",
+    "avgTrend": "-31.58%"
   },
   {
-    "pm": "5dayCount2-sortedByAvgTrend-first10",
-    "avgTrend": "-28.46%"
+    "pm": "4IncTodayCount3-sortedByPercUp-first10",
+    "avgTrend": "-31.73%"
+  },
+  {
+    "pm": "4IncTodayCount3-sortedByPercUp-uniq-first5",
+    "avgTrend": "-32.83%"
+  },
+  {
+    "pm": "16Count5-sortedByPercUp-first3",
+    "avgTrend": "-33.95%"
+  },
+  {
+    "pm": "12Count5-sortedByPercUp-first3",
+    "avgTrend": "-33.95%"
   },
   {
     "pm": "16Count3-sortedByAvgTrend-uniq-first10",
-    "avgTrend": "-30.92%"
+    "avgTrend": "-34.14%"
   },
   {
-    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first3",
-    "avgTrend": "-31.74%"
+    "pm": "5dayCount2-sortedByAvgTrend-first10",
+    "avgTrend": "-34.94%"
+  },
+  {
+    "pm": "5dayCount2-sortedByPercUp-first10",
+    "avgTrend": "-34.94%"
   },
   {
     "pm": "16Count3-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-32.48%"
+    "avgTrend": "-37.58%"
   },
   {
-    "pm": "16Count5-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-33.53%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByPercUp-first10",
-    "avgTrend": "-34.17%"
-  },
-  {
-    "pm": "5dayCount2-sortedByPercUp-uniq-first5",
-    "avgTrend": "-34.34%"
-  },
-  {
-    "pm": "5dayCount2-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-34.34%"
-  },
-  {
-    "pm": "16Count3-sortedByPercUp-uniq-first3",
+    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first3",
     "avgTrend": "-37.67%"
   },
   {
-    "pm": "5dayCount3-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-38.17%"
+    "pm": "16Count5-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-38.34%"
+  },
+  {
+    "pm": "16Count3-sortedByPercUp-uniq-first3",
+    "avgTrend": "-39.28%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-39.83%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first5",
+    "avgTrend": "-39.83%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByAvgTrend-first10",
+    "avgTrend": "-40.11%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByPercUp-first10",
+    "avgTrend": "-40.11%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByPercUp-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByPercUp-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "4IncTodayCount3-sortedByPercUp-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByAvgTrend-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "4IncTodayCount3-sortedByAvgTrend-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5IncTodayCount4-sortedByAvgTrend-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByPercUp-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByPercUp-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-uniq-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByPercUp-first5",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-uniq-first1",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "5dayCount4-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "3IncTodayCount2-sortedByAvgTrend-first3",
+    "avgTrend": "-40.50%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByPercUp-first10",
+    "avgTrend": "-40.64%"
+  },
+  {
+    "pm": "5dayCount2-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-41.63%"
+  },
+  {
+    "pm": "5dayCount2-sortedByPercUp-uniq-first5",
+    "avgTrend": "-41.63%"
   },
   {
     "pm": "5IncTodayCount3-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-38.17%"
+    "avgTrend": "-45.12%"
   },
   {
-    "pm": "12Count5-sortedByPercUp-uniq-first1",
-    "avgTrend": "-38.74%"
-  },
-  {
-    "pm": "12Count5-sortedByPercUp-first1",
-    "avgTrend": "-38.74%"
-  },
-  {
-    "pm": "16Count5-sortedByPercUp-uniq-first1",
-    "avgTrend": "-38.74%"
-  },
-  {
-    "pm": "16Count5-sortedByPercUp-first1",
-    "avgTrend": "-38.74%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-first10",
-    "avgTrend": "-39.89%"
+    "pm": "5dayCount3-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-45.12%"
   },
   {
     "pm": "5IncTodayCount3-sortedByPercUp-uniq-first5",
-    "avgTrend": "-40.07%"
+    "avgTrend": "-46.84%"
   },
   {
     "pm": "5dayCount3-sortedByPercUp-uniq-first5",
-    "avgTrend": "-40.07%"
+    "avgTrend": "-46.84%"
   },
   {
     "pm": "10IncTodayCount4-sortedByPercUp-first5",
-    "avgTrend": "-42.88%"
+    "avgTrend": "-49.36%"
   },
   {
-    "pm": "5day-sortedByPercUp-uniq-first3",
-    "avgTrend": "-44.45%"
+    "pm": "16Count5-sortedByPercUp-uniq-first1",
+    "avgTrend": "-49.85%"
   },
   {
-    "pm": "5dayCount2-sortedByPercUp-first3",
-    "avgTrend": "-44.45%"
+    "pm": "12Count5-sortedByPercUp-uniq-first1",
+    "avgTrend": "-49.85%"
   },
   {
-    "pm": "5day-sortedByAvgTrend-first3",
-    "avgTrend": "-44.45%"
+    "pm": "16Count5-sortedByPercUp-first1",
+    "avgTrend": "-49.85%"
   },
   {
-    "pm": "5day-sortedByPercUp-first3",
-    "avgTrend": "-44.45%"
+    "pm": "12Count5-sortedByPercUp-first1",
+    "avgTrend": "-49.85%"
   },
   {
-    "pm": "5day-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-44.45%"
-  },
-  {
-    "pm": "5dayCount2-sortedByPercUp-uniq-first3",
-    "avgTrend": "-44.45%"
-  },
-  {
-    "pm": "5dayCount2-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-44.45%"
-  },
-  {
-    "pm": "5dayCount2-sortedByAvgTrend-first3",
-    "avgTrend": "-44.45%"
+    "pm": "curOverallFilteredPredictions-myPredictions-first10",
+    "avgTrend": "-50.78%"
   },
   {
     "pm": "16Count3-sortedByPercUp-first10",
-    "avgTrend": "-44.45%"
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5dayCount2-sortedByPercUp-uniq-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5dayCount2-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5day-sortedByAvgTrend-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5day-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5dayCount2-sortedByAvgTrend-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5day-sortedByPercUp-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5day-sortedByPercUp-uniq-first3",
+    "avgTrend": "-54.52%"
+  },
+  {
+    "pm": "5dayCount2-sortedByPercUp-first3",
+    "avgTrend": "-54.52%"
   },
   {
     "pm": "curOverallFilteredPredictions-myPredictions-first5",
-    "avgTrend": "-45.59%"
-  },
-  {
-    "pm": "3IncToday-sortedByPercUp-uniq-first5",
-    "avgTrend": "-47.30%"
+    "avgTrend": "-55.45%"
   },
   {
     "pm": "4IncTodayCount2-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-47.30%"
-  },
-  {
-    "pm": "4IncToday-sortedByPercUp-uniq-first5",
-    "avgTrend": "-47.30%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByPercUp-uniq-first5",
-    "avgTrend": "-47.30%"
+    "avgTrend": "-56.85%"
   },
   {
     "pm": "16Count3-sortedByPercUp-first5",
-    "avgTrend": "-47.30%"
+    "avgTrend": "-56.85%"
   },
   {
-    "pm": "3IncToday-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-47.30%"
+    "pm": "4IncToday-sortedByPercUp-uniq-first5",
+    "avgTrend": "-56.85%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByPercUp-uniq-first5",
+    "avgTrend": "-56.85%"
+  },
+  {
+    "pm": "3IncToday-sortedByPercUp-uniq-first5",
+    "avgTrend": "-56.85%"
   },
   {
     "pm": "4IncToday-sortedByAvgTrend-uniq-first5",
-    "avgTrend": "-47.30%"
+    "avgTrend": "-56.85%"
   },
   {
-    "pm": "3IncToday-sortedByPercUp-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "3IncToday-sortedByAvgTrend-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncToday-sortedByAvgTrend-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByPercUp-uniq-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncToday-sortedByAvgTrend-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "3IncToday-sortedByAvgTrend-uniq-first1",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByPercUp-uniq-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-first1",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByPercUp-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "3IncToday-sortedByPercUp-uniq-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first1",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByPercUp-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-50.16%"
+    "pm": "3IncToday-sortedByAvgTrend-uniq-first5",
+    "avgTrend": "-56.85%"
   },
   {
     "pm": "4IncTodayCount2-sortedByPercUp-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByPercUp-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByAvgTrend-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByAvgTrend-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5dayCount3-sortedByAvgTrend-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByPercUp-uniq-first1",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "4IncTodayCount2-sortedByAvgTrend-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncTodayCount2-sortedByAvgTrend-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncToday-sortedByPercUp-uniq-first3",
-    "avgTrend": "-50.16%"
+    "pm": "4IncTodayCount2-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByAvgTrend-first5",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "4IncToday-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
+    "pm": "5dayCount3-sortedByPercUp-uniq-first3",
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "4IncToday-sortedByPercUp-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5IncTodayCount3-sortedByPercUp-uniq-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "4IncToday-sortedByPercUp-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5IncTodayCount3-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5IncTodayCount3-sortedByPercUp-first5",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5IncTodayCount3-sortedByPercUp-first10",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "5IncTodayCount3-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-50.16%"
+    "pm": "4IncTodayCount2-sortedByAvgTrend-first5",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByAvgTrend-first1",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByPercUp-uniq-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "curOverallFilteredPredictions-myPredictions-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "curOverallFilteredPredictions-myPredictions-first1",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5dayCount3-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByPercUp-first5",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "5IncTodayCount3-sortedByAvgTrend-first3",
-    "avgTrend": "-50.16%"
+    "pm": "4IncToday-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "5IncTodayCount3-sortedByAvgTrend-first5",
-    "avgTrend": "-50.16%"
+    "pm": "curOverallFilteredPredictions-myPredictions-uniq-first1",
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "5IncTodayCount3-sortedByAvgTrend-first10",
-    "avgTrend": "-50.16%"
+    "pm": "5dayCount3-sortedByPercUp-first5",
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "4IncToday-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-50.16%"
+    "pm": "4IncToday-sortedByPercUp-first5",
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "3IncToday-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "3IncToday-sortedByAvgTrend-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
-  },
-  {
-    "pm": "10IncTodayCount4-sortedByPercUp-first1",
-    "avgTrend": "-50.16%"
+    "pm": "5dayCount3-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "16Count3-sortedByPercUp-first3",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5dayCount3-sortedByAvgTrend-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5dayCount3-sortedByAvgTrend-first5",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByAvgTrend-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByPercUp-uniq-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByPercUp-first1",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
   },
   {
-    "pm": "4IncToday-sortedByAvgTrend-first3",
-    "avgTrend": "-50.16%"
+    "pm": "5IncTodayCount3-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByPercUp-first5",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "3IncToday-sortedByAvgTrend-uniq-first3",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByAvgTrend-uniq-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByAvgTrend-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByAvgTrend-first5",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "10IncTodayCount4-sortedByPercUp-first1",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByAvgTrend-uniq-first1",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByAvgTrend-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByPercUp-uniq-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "10IncTodayCount4-sortedByPercUp-uniq-first1",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByAvgTrend-first5",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByPercUp-uniq-first3",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByPercUp-first3",
+    "avgTrend": "-59.19%"
   },
   {
     "pm": "4IncTodayCount2-sortedByAvgTrend-first3",
-    "avgTrend": "-50.16%"
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5dayCount3-sortedByAvgTrend-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByAvgTrend-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5IncTodayCount3-sortedByPercUp-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByAvgTrend-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "5dayCount3-sortedByPercUp-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByAvgTrend-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncTodayCount2-sortedByPercUp-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "4IncToday-sortedByPercUp-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByAvgTrend-first10",
+    "avgTrend": "-59.19%"
+  },
+  {
+    "pm": "3IncToday-sortedByPercUp-first10",
+    "avgTrend": "-59.19%"
   }
 ]

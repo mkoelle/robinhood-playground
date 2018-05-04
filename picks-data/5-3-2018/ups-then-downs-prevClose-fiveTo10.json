@@ -60,5 +60,15 @@
       "ticker": "WTI",
       "price": 6.4
     }
+  ],
+  "600": [
+    {
+      "ticker": "TORC",
+      "price": 9.75
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.38
+    }
   ]
 }

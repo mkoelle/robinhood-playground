@@ -28,32 +28,7 @@ const longtermhot = [
 
 const forPurchase = [
 
-    // 5
-    '[5dayCount4-sortedByPercUp-uniq-first1]',
-    '[5dayCount4-sortedByPercUp-uniq-first1]',
-    '[5dayCount4-sortedByPercUp-uniq-first1]',
-    '[5dayCount4-sortedByPercUp-uniq-first1]',
-    '[5dayCount4-sortedByPercUp-uniq-first1]',
-
-    // 15
-    '[7IncTodayCount5-sortedByPercUp-uniq-first3]',
-    '[7IncTodayCount5-sortedByPercUp-first3]',
-    '[5dayCount4-sortedByPercUp-uniq-first3]',
-    '[7IncTodayCount5-sortedByAvgTrend-uniq-first3]',
-    '[4IncToday-sortedByAvgTrend-uniq-first3]',
-
-    // 20
-    '[5dayCount4-sortedByPercUp-first10]',
-    '[5dayCount3-sortedByPercUp-first10]',
-
-    // 5
-    '[3IncToday-sortedByAvgTrend-first5]',
-    '[16Count5-sortedByAvgTrend-first5]',
-
-    // manual
-    '[longtermhot]',        // 11
-    '[hothot]',             // 7
-
+    
     'sudden-drops-last2trend-tenTo15-328',
     'sudden-drops-last2trend-tenTo15-328'
 
