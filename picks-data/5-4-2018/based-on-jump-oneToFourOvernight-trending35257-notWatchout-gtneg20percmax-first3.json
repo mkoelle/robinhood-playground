@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.9
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    },
+    {
+      "ticker": "URG",
+      "price": 0.74
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    },
+    {
+      "ticker": "URG",
+      "price": 0.74
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    },
+    {
+      "ticker": "UWN",
+      "price": 2.4
+    },
+    {
+      "ticker": "URG",
+      "price": 0.735
+    }
+  ]
+}

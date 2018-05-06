@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.518
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.3165
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.3167
+    },
+    {
+      "ticker": "TURN",
+      "price": 1.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZOM",
+      "price": 1.9799
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.31
+    }
+  ]
+}

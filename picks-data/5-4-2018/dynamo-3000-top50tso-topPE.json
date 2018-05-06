@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "CNIT",
+      "price": 1.7948
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.6
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FORD",
+      "price": 1.4855
+    },
+    {
+      "ticker": "GIGM",
+      "price": 2.74
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKG",
+      "price": 1.21
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.54
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.1396
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZNGA",
+      "price": 3.82
+    },
+    {
+      "ticker": "MN",
+      "price": 3.2
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MN",
+      "price": 3.3
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.55
+    },
+    {
+      "ticker": "BSPM",
+      "price": 3.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MN",
+      "price": 3.255
+    },
+    {
+      "ticker": "HDSN",
+      "price": 3.995
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MN",
+      "price": 3.275
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.99
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.051
+    }
+  ]
+}

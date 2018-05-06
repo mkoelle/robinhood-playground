@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 2.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "URG",
+      "price": 0.74
+    },
+    {
+      "ticker": "IMMP",
+      "price": 1.9
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "URG",
+      "price": 0.74
+    },
+    {
+      "ticker": "IMMP",
+      "price": 1.9
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.825
+    }
+  ],
+  "30": [
+    {
+      "ticker": "URG",
+      "price": 0.735
+    },
+    {
+      "ticker": "IMMP",
+      "price": 1.9
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.825
+    }
+  ]
+}

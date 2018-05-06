@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2.2
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.2463
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLIN",
+      "price": 2.95
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.339
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLIN",
+      "price": 2.44
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLIN",
+      "price": 2.26
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.421
+    }
+  ]
+}

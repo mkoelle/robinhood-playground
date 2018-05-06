@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "INTT",
+      "price": 7.795
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INTT",
+      "price": 7.795
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.21
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INTT",
+      "price": 7.6
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.325
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INTT",
+      "price": 7.455
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.33
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.74
+    }
+  ]
+}

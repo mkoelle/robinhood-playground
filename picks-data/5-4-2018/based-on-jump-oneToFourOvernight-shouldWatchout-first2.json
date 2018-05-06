@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2595
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.955
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2512
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.955
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2567
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.935
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2564
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.943
+    }
+  ]
+}

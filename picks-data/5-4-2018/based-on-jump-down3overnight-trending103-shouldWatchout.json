@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "VVPR",
+      "price": 3.12
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.86
+    },
+    {
+      "ticker": "XELB",
+      "price": 3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VVPR",
+      "price": 3.205
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.86
+    },
+    {
+      "ticker": "XELB",
+      "price": 3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VVPR",
+      "price": 2.7699
+    },
+    {
+      "ticker": "NAUH",
+      "price": 0.9128
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    },
+    {
+      "ticker": "MCF",
+      "price": 3.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVPR",
+      "price": 2.6708
+    },
+    {
+      "ticker": "NAUH",
+      "price": 0.99
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    },
+    {
+      "ticker": "MCF",
+      "price": 3.75
+    }
+  ]
+}

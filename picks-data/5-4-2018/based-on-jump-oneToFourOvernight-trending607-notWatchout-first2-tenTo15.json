@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRCI",
+      "price": 11.16
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRCI",
+      "price": 11.2
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.8182
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRCI",
+      "price": 11.1
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRCI",
+      "price": 11.06
+    },
+    {
+      "ticker": "FAZ",
+      "price": 11.68
+    }
+  ]
+}

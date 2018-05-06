@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 4.2
+    },
+    {
+      "ticker": "NM",
+      "price": 0.786
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHKR",
+      "price": 1.4001
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKR",
+      "price": 1.425
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKR",
+      "price": 1.4837
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.225
+    }
+  ]
+}

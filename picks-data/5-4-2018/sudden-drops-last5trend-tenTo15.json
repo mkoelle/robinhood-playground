@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "ELOX",
+      "price": 13.15
+    },
+    {
+      "ticker": "MDRX",
+      "price": 11.27
+    }
+  ],
+  "63": [
+    {
+      "ticker": "TWI",
+      "price": 12.005
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.84
+    }
+  ],
+  "221": [
+    {
+      "ticker": "GEOS",
+      "price": 11.1
+    },
+    {
+      "ticker": "PI",
+      "price": 12.92
+    }
+  ],
+  "328": [
+    {
+      "ticker": "DNOW",
+      "price": 14.18
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.6637
+    }
+  ],
+  "388": [
+    {
+      "ticker": "FTNW",
+      "price": 14.65
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.585
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 4.2
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.55
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.671
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHKR",
+      "price": 1.4001
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.27
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.7945
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKR",
+      "price": 1.425
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.28
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKR",
+      "price": 1.4837
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.225
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.36
+    }
+  ]
+}

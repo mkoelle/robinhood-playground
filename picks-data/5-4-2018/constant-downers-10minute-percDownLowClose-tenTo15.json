@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACIU",
+      "price": 10.5
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.15
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.58
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TAX",
+      "price": 10.275
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.175
+    },
+    {
+      "ticker": "SMN",
+      "price": 13.64
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ESCA",
+      "price": 13.3
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    },
+    {
+      "ticker": "SMN",
+      "price": 13.64
+    }
+  ]
+}

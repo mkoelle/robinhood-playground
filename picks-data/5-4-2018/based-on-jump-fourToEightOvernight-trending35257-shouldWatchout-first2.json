@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RUBI",
+      "price": 2.42
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RUBI",
+      "price": 2.2
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RUBI",
+      "price": 2.25
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3069
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RUBI",
+      "price": 2.2181
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3
+    }
+  ]
+}

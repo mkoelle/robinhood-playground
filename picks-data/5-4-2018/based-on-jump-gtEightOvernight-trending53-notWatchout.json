@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CCCL",
+      "price": 1.809
+    },
+    {
+      "ticker": "OVAS",
+      "price": 0.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCCL",
+      "price": 2.0319
+    },
+    {
+      "ticker": "OVAS",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCCL",
+      "price": 1.8201
+    },
+    {
+      "ticker": "OVAS",
+      "price": 0.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.85
+    },
+    {
+      "ticker": "OVAS",
+      "price": 0.9584
+    }
+  ]
+}

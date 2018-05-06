@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHNR",
+      "price": 2.2
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHNR",
+      "price": 2.18
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHNR",
+      "price": 2.1889
+    },
+    {
+      "ticker": "BSQR",
+      "price": 4.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHNR",
+      "price": 2.1796
+    },
+    {
+      "ticker": "BSQR",
+      "price": 4.5001
+    }
+  ]
+}

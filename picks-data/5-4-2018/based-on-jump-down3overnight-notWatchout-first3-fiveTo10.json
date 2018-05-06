@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GOGO",
+      "price": 8.6531
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.825
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOGO",
+      "price": 8.3001
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOGO",
+      "price": 8.32
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.8
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOGO",
+      "price": 8.4912
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.825
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.85
+    }
+  ]
+}

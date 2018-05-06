@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIAV",
+      "price": 9.78
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIAV",
+      "price": 10.05
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIAV",
+      "price": 10.0801
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIAV",
+      "price": 10.02
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11
+    }
+  ]
+}

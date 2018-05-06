@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SRCI",
+      "price": 11.16
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.9
+    },
+    {
+      "ticker": "ISBC",
+      "price": 13.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRCI",
+      "price": 11.2
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.9
+    },
+    {
+      "ticker": "ISBC",
+      "price": 13.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRCI",
+      "price": 11.1
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.7265
+    },
+    {
+      "ticker": "ISBC",
+      "price": 13.37
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRCI",
+      "price": 11.06
+    },
+    {
+      "ticker": "LMRK",
+      "price": 14.55
+    },
+    {
+      "ticker": "ISBC",
+      "price": 13.405
+    }
+  ]
+}

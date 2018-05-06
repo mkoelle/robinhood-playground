@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PFMT",
+      "price": 2.21
+    },
+    {
+      "ticker": "VVPR",
+      "price": 3.12
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFMT",
+      "price": 2.2
+    },
+    {
+      "ticker": "VVPR",
+      "price": 3.205
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.021
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFMT",
+      "price": 2.19
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.7699
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.005
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFMT",
+      "price": 2.16
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.6708
+    },
+    {
+      "ticker": "FCRE",
+      "price": 1.031
+    }
+  ]
+}

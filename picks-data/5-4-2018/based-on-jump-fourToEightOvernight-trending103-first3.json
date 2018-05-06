@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2.2
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.2463
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.5753
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLIN",
+      "price": 2.95
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.339
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.5566
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLIN",
+      "price": 2.44
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.51
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLIN",
+      "price": 2.26
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.421
+    },
+    {
+      "ticker": "ECT",
+      "price": 1.8
+    }
+  ]
+}

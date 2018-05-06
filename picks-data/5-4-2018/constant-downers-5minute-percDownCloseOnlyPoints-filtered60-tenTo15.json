@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GEOS",
+      "price": 11.12
+    },
+    {
+      "ticker": "GNPX",
+      "price": 13.95
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.3
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ELOX",
+      "price": 12.7
+    },
+    {
+      "ticker": "RAIL",
+      "price": 14.78
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.39
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RAIL",
+      "price": 14.77
+    },
+    {
+      "ticker": "ELOX",
+      "price": 12.95
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.37
+    }
+  ]
+}

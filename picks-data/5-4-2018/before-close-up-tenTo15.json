@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "TWI",
+      "price": 12.01
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.07
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.95
+    },
+    {
+      "ticker": "LIND",
+      "price": 11.785
+    },
+    {
+      "ticker": "TAST",
+      "price": 11
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TWI",
+      "price": 12.185
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.07
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.999
+    },
+    {
+      "ticker": "LIND",
+      "price": 11.78
+    },
+    {
+      "ticker": "TAST",
+      "price": 10.925
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "FVE",
+      "price": 1.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FVE",
+      "price": 1.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EFOI",
+      "price": 2.45
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.705
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.9135
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.1635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EFOI",
+      "price": 2.45
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.65
+    },
+    {
+      "ticker": "ECT",
+      "price": 1.8
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.8901
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.1635
+    }
+  ]
+}

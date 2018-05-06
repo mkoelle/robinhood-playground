@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "REGI",
+      "price": 12.85
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REGI",
+      "price": 12.95
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.954
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REGI",
+      "price": 12.8
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.9926
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REGI",
+      "price": 12.925
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.9074
+    },
+    {
+      "ticker": "MPV",
+      "price": 14.5
+    }
+  ]
+}

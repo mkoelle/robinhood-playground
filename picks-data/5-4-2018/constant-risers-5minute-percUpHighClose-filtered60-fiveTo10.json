@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BRFS",
+      "price": 6.945
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.395
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.88
+    }
+  ],
+  "80": [
+    {
+      "ticker": "P",
+      "price": 6.955
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.495
+    },
+    {
+      "ticker": "NGVC",
+      "price": 8.9588
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLUU",
+      "price": 5.305
+    },
+    {
+      "ticker": "P",
+      "price": 7.11
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.515
+    }
+  ],
+  "140": [
+    {
+      "ticker": "P",
+      "price": 7.1
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.94
+    },
+    {
+      "ticker": "MDR",
+      "price": 6.685
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MDR",
+      "price": 6.73
+    },
+    {
+      "ticker": "CLF",
+      "price": 7.66
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.855
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CLF",
+      "price": 7.665
+    },
+    {
+      "ticker": "ESV",
+      "price": 5.875
+    },
+    {
+      "ticker": "GLUU",
+      "price": 5.26
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLF",
+      "price": 7.685
+    },
+    {
+      "ticker": "GLUU",
+      "price": 5.2999
+    },
+    {
+      "ticker": "EXPR",
+      "price": 7.68
+    }
+  ]
+}

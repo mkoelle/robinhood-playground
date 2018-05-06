@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "ENIC",
+      "price": 6.14
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENIC",
+      "price": 6.09
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.6
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ENIC",
+      "price": 6.035
+    },
+    {
+      "ticker": "RSO",
+      "price": 9.914
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.6
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENIC",
+      "price": 5.99
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.65
+    },
+    {
+      "ticker": "RSO",
+      "price": 9.88
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.6
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.8
+    }
+  ]
+}

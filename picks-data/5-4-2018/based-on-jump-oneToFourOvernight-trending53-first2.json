@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNET",
+      "price": 2.93
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNET",
+      "price": 3.08
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.3742
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNET",
+      "price": 3.17
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNET",
+      "price": 3.02
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.3999
+    }
+  ]
+}

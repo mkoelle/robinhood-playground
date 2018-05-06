@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AKS",
+      "price": 4.45
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.085
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.5993
+    }
+  ],
+  "80": [
+    {
+      "ticker": "WIN",
+      "price": 1.62
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.84
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSU",
+      "price": 2.8787
+    },
+    {
+      "ticker": "EGO",
+      "price": 1
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.31
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NSU",
+      "price": 2.9
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.38
+    },
+    {
+      "ticker": "EGO",
+      "price": 1
+    }
+  ],
+  "198": [
+    {
+      "ticker": "NSU",
+      "price": 2.9101
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.41
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.66
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GNW",
+      "price": 3.008
+    },
+    {
+      "ticker": "FIT",
+      "price": 4.99
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.57
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FIT",
+      "price": 4.975
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.61
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.035
+    }
+  ]
+}

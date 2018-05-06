@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.518
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.3165
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.3167
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.426
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.31
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.426
+    }
+  ]
+}

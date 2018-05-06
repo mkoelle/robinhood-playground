@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "AQ",
+      "price": 11.66
+    },
+    {
+      "ticker": "FENC",
+      "price": 12.52
+    }
+  ],
+  "63": [
+    {
+      "ticker": "BAS",
+      "price": 13.84
+    },
+    {
+      "ticker": "FTR",
+      "price": 11.3036
+    }
+  ],
+  "221": [
+    {
+      "ticker": "GNPX",
+      "price": 13.9501
+    },
+    {
+      "ticker": "TREC",
+      "price": 12.35
+    }
+  ],
+  "328": [
+    {
+      "ticker": "DNOW",
+      "price": 14.18
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.6897
+    }
+  ],
+  "388": [
+    {
+      "ticker": "SMMT",
+      "price": 13.585
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.25
+    }
+  ]
+}

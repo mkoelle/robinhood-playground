@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EEV",
+      "price": 8.46
+    },
+    {
+      "ticker": "BZQ",
+      "price": 8.55
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EEV",
+      "price": 8.45
+    },
+    {
+      "ticker": "BZQ",
+      "price": 8.59
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 8.11
+    },
+    {
+      "ticker": "EEV",
+      "price": 8.4138
+    },
+    {
+      "ticker": "BZQ",
+      "price": 8.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 8.105
+    },
+    {
+      "ticker": "EEV",
+      "price": 8.405
+    },
+    {
+      "ticker": "BZQ",
+      "price": 8.5
+    }
+  ]
+}

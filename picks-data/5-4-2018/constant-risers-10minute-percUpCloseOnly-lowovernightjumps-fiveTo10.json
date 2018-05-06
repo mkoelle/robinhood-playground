@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "AIRG",
+      "price": 8.03
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.8
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AIRG",
+      "price": 8.01
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AIRG",
+      "price": 8.01
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.775
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.8405
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AIRG",
+      "price": 8.11
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.85
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.8405
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AIRG",
+      "price": 8.2
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.11
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.85
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AIRG",
+      "price": 8.17
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.3584
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.95
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AIRG",
+      "price": 8.17
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.05
+    },
+    {
+      "ticker": "LINK",
+      "price": 5.25
+    }
+  ]
+}

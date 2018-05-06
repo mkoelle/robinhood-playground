@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VVPR",
+      "price": 3.12
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.86
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VVPR",
+      "price": 3.205
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VVPR",
+      "price": 2.7699
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVPR",
+      "price": 2.6708
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.1172
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    }
+  ]
+}

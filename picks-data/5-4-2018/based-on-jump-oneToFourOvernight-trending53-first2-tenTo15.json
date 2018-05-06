@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRCI",
+      "price": 11.16
+    },
+    {
+      "ticker": "KN",
+      "price": 13.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRCI",
+      "price": 11.2
+    },
+    {
+      "ticker": "KN",
+      "price": 13.18
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRCI",
+      "price": 11.1
+    },
+    {
+      "ticker": "KN",
+      "price": 13.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRCI",
+      "price": 11.06
+    },
+    {
+      "ticker": "KN",
+      "price": 13.25
+    }
+  ]
+}

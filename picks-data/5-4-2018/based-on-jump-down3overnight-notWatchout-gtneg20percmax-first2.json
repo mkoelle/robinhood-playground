@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 4.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTE",
+      "price": 4.27
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5999
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTE",
+      "price": 4.28
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTE",
+      "price": 4.225
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.36
+    }
+  ]
+}

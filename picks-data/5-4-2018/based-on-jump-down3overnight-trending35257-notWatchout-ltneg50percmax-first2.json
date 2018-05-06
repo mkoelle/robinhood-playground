@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NM",
+      "price": 0.786
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.062
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NM",
+      "price": 0.7933
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NM",
+      "price": 0.8043
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.819
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NM",
+      "price": 0.81
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.855
+    }
+  ]
+}

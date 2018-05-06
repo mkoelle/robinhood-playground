@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "NFEC",
+      "price": 1.62
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.68
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.695
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NFEC",
+      "price": 1.8801
+    },
+    {
+      "ticker": "ACET",
+      "price": 2.625
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.033
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NFEC",
+      "price": 1.5992
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6646
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.99
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ICON",
+      "price": 0.69
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.02
+    },
+    {
+      "ticker": "SMRT",
+      "price": 2.5386
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ICON",
+      "price": 0.7203
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.66
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.02
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ICON",
+      "price": 0.6999
+    },
+    {
+      "ticker": "WIN",
+      "price": 1.665
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.55
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ICON",
+      "price": 0.6684
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.5906
+    },
+    {
+      "ticker": "NSU",
+      "price": 2.9245
+    }
+  ]
+}
