@@ -183,6 +183,7 @@ const stratManager = {
     async createAndSaveNewPredictionModels(todayPMpath) {
         console.log('creating new prediction models');
         const newPMs = await this.createPredictionModels();
+        console.log('saving to', todayPMpath);
         await jsonMgr.save(todayPMpath, newPMs);
         return newPMs;
     },
@@ -216,6 +217,7 @@ const stratManager = {
 
 
         const uniq16Count3 = await stratPerfPredictions(this.Robinhood, false, 16, 3);
+        console.log('uniq16Count3', uniq16Count3);
         const uniq16Count5 = await stratPerfPredictions(this.Robinhood, false, 16, 5);
         const uniq16IncTodayCount9 = await stratPerfPredictions(this.Robinhood, true, 16, 9);
         const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
@@ -261,9 +263,11 @@ const stratManager = {
         });
 
         const curOverallPredictions = await predictCurrent();
+        console.log('done curOverallPredictions')
         const curOverallFilteredPredictions = await predictCurrent(null, strategies => {
             return strategies.length > 3 && strategies.every(trend => trend > -1);
         });
+        console.log('done curOverallFilteredPredictions');
         const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
         const yesterdayPredictions = await predictCurrent(1);
         let strategies = {
@@ -310,6 +314,8 @@ const stratManager = {
             ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
 
         };
+
+        console.log('done donezy');
 
         return {
             ...strategies,

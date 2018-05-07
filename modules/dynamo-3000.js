@@ -62,7 +62,7 @@ const trendFilter = async (Robinhood, trend) => {
             const firstFiveBySort = (sortFn) => getTicks(
                 filtered
                     .sort(sortFn)
-                    .slice(0, 5)
+                    .slice(0, 2)
             );
             return {
                 [`${stratname}-5lowest${acronym}`]: firstFiveBySort(
@@ -100,7 +100,7 @@ const trendFilter = async (Robinhood, trend) => {
             [`${keyPrefix ? keyPrefix + '-' : ''}${key}`]: getTicks(
                 trend
                     .sort((a, b) => b[key] - a[key])
-                    .slice(0, 3)
+                    .slice(0, 2)
             )
         }), {});
     };

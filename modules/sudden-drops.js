@@ -36,13 +36,33 @@ const trendFilter = async (Robinhood, trend) => {
             };
         });
 
+    const mapTicks = trend => trend.map(buy => buy.ticker);
     const firstPerms = (lastVal, ofInterest) => ({
-        [`last${lastVal}trend-first1`]: ofInterest.slice(0, 1),
-        [`last${lastVal}trend-first2`]: ofInterest.slice(0, 2),
-        [`last${lastVal}trend`]: ofInterest.slice(0, 2) // temporary
+        [`last${lastVal}trend-first1`]: mapTicks(ofInterest.slice(0, 1)),
+        [`last${lastVal}trend-first2`]: mapTicks(ofInterest.slice(0, 2)),
+
+        [`last${lastVal}trend-filter10`]: mapTicks(
+            ofInterest.filter(trend => trend[`last${lastVal}trend`] < -10)
+        ),
+        [`last${lastVal}trend-filter20`]: mapTicks(
+            ofInterest.filter(trend => trend[`last${lastVal}trend`] < -20)
+        ),
+        [`last${lastVal}trend-filter30`]: mapTicks(
+            ofInterest.filter(trend => trend[`last${lastVal}trend`] < -30)
+        )
     });
 
-    console.log(JSON.stringify(withQuickTrends, null, 2));
+    console.log(
+        JSON.stringify(
+            withQuickTrends
+                .map((trend) => {
+                    delete trend.historicals;
+                    return trend;
+                }),
+            null,
+            2
+        )
+    );
     return perms
         .filter(val => withQuickTrends.some(buy => !!buy[`last${val}trend`]))
         .reduce((acc, val) => ({
@@ -51,7 +71,6 @@ const trendFilter = async (Robinhood, trend) => {
                 val,
                 withQuickTrends
                     .sort((a, b) => a[`last${val}trend`] - b[`last${val}trend`])
-                    .map(buy => buy.ticker)
             )
         }), {});
 

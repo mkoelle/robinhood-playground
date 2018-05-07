@@ -95,7 +95,7 @@ const predictForDays = async (days, filterFn) => {
                 .filter(trend => trend < 80)
                 .map((trend, i) => Array(i).fill(trend))
                 .reduce((a, b) => a.concat(b), [])
-            console.log(i+1, '/', toPredict.length)
+            // console.log(i+1, '/', toPredict.length)
             return {
                 name: stratName,
                 myPrediction: avgArray(weighted),
@@ -129,7 +129,13 @@ module.exports = {
     },
     stratPerfPredictions: async (Robinhood, includeToday, numDays, minCount) => {
         const stratPerfData = await stratPerfOverall(this.Robinhood, includeToday, numDays, minCount);
-        console.log('keys', Object.keys(stratPerfData));
-        return uniqifyObj(stratPerfData);
+        // console.log('keys', Object.keys(stratPerfData));
+        return uniqifyObj({
+            ...stratPerfData,
+            topPerformers85: stratPerfData.sortedByAvgTrend
+                .filter(strat => strat.percUp > 0.85 && strat.avgTrend > 1.6),
+            topPerformers95: stratPerfData.sortedByAvgTrend
+                .filter(strat => strat.percUp > 0.95 && strat.avgTrend > 1.3)
+        });
     }
 }
