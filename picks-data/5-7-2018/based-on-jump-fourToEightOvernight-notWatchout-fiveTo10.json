@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.8374
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.83
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.427
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.15
+    }
+  ]
+}

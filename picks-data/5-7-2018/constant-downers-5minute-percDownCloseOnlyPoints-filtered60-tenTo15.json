@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GNPX",
+      "price": 14.03
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.84
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.17
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GNPX",
+      "price": 13.87
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.7852
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.08
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TWI",
+      "price": 11.83
+    },
+    {
+      "ticker": "KRNT",
+      "price": 13.75
+    },
+    {
+      "ticker": "GNPX",
+      "price": 14.1344
+    }
+  ]
+}

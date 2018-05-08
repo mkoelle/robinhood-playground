@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PIRS",
+      "price": 5.93
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 7.6597
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.405
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AU",
+      "price": 8.71
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HALL",
+      "price": 9.7
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNI",
+      "price": 9.711
+    },
+    {
+      "ticker": "FG",
+      "price": 9.055
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPG",
+      "price": 7.87
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFNX",
+      "price": 5.89
+    },
+    {
+      "ticker": "CX",
+      "price": 5.785
+    }
+  ]
+}

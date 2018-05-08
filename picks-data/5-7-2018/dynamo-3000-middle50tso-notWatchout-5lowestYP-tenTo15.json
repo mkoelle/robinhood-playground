@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 12.05
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 11.32
+    },
+    {
+      "ticker": "PAK",
+      "price": 12.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REW",
+      "price": 13.37
+    },
+    {
+      "ticker": "PAK",
+      "price": 12.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCA",
+      "price": 10.36
+    },
+    {
+      "ticker": "BRX",
+      "price": 14.695
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BGCP",
+      "price": 12.255
+    },
+    {
+      "ticker": "CAFD",
+      "price": 12.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEOS",
+      "price": 11.31
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.36
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPXU",
+      "price": 10.685
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.33
+    }
+  ]
+}

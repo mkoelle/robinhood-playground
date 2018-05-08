@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APRN",
+      "price": 2.57
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.24
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APRN",
+      "price": 2.475
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "APRN",
+      "price": 2.47
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.065
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APRN",
+      "price": 2.549
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.05
+    }
+  ]
+}

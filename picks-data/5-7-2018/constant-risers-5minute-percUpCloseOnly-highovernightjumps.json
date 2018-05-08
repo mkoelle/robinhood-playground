@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BLNK",
+      "price": 2.43
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.1801
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.6682
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BLNK",
+      "price": 3.96
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.7841
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 3.695
+    },
+    {
+      "ticker": "NOG",
+      "price": 1.95
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.7899
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BLNK",
+      "price": 3.71
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.775
+    },
+    {
+      "ticker": "SUMR",
+      "price": 0.9249
+    }
+  ],
+  "198": [
+    {
+      "ticker": "BLNK",
+      "price": 4.17
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.774
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.68
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BLNK",
+      "price": 4.0852
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1.04
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.739
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BLNK",
+      "price": 4.03
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.85
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1
+    }
+  ]
+}

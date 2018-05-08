@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SCON",
+      "price": 0.96
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCON",
+      "price": 0.96
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEJU",
+      "price": 1.25
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEJU",
+      "price": 1.244
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.94
+    }
+  ]
+}

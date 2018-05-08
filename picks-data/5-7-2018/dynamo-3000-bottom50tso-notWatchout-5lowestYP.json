@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6051
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6016
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.731
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSAT",
+      "price": 0.595
+    },
+    {
+      "ticker": "SHLD",
+      "price": 3.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHLD",
+      "price": 3.1231
+    },
+    {
+      "ticker": "BMRA",
+      "price": 3.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHLD",
+      "price": 3.046
+    },
+    {
+      "ticker": "BMRA",
+      "price": 3.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHLD",
+      "price": 3.02
+    },
+    {
+      "ticker": "BMRA",
+      "price": 3.435
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHLD",
+      "price": 3.015
+    },
+    {
+      "ticker": "BMRA",
+      "price": 3.41
+    }
+  ]
+}

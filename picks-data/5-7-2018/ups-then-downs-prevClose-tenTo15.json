@@ -1,0 +1,49 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "FLY",
+      "price": 13.1298
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTR",
+      "price": 10.84
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.14
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FTR",
+      "price": 10.94
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.396
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FTR",
+      "price": 10.6301
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.4
+    }
+  ],
+  "600": [
+    {
+      "ticker": "FTR",
+      "price": 10.56
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.37
+    }
+  ]
+}

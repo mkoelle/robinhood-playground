@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.95
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RYI",
+      "price": 11.9
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.58
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RYI",
+      "price": 11.775
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.67
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RYI",
+      "price": 11.675
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.75
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.4
+    }
+  ]
+}

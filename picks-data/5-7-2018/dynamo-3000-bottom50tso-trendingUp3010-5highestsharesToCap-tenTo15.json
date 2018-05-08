@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 10.16
+    },
+    {
+      "ticker": "ETM",
+      "price": 10.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOCO",
+      "price": 10.375
+    },
+    {
+      "ticker": "NSSC",
+      "price": 10.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOCO",
+      "price": 10.35
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "SE",
+      "price": 10.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "SE",
+      "price": 10.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "NR",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "NR",
+      "price": 10.4
+    }
+  ]
+}

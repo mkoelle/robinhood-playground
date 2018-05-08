@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "OAS",
+      "price": 11.81
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.67
+    },
+    {
+      "ticker": "SSP",
+      "price": 11.8
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BSTI",
+      "price": 12.865
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.995
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 12.9564
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.55
+    },
+    {
+      "ticker": "SSP",
+      "price": 12.22
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CVE",
+      "price": 10.7436
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.56
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.59
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FNB",
+      "price": 13.03
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.13
+    },
+    {
+      "ticker": "MPW",
+      "price": 13.2942
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FNB",
+      "price": 13.04
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.21
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FNB",
+      "price": 13.14
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.4401
+    }
+  ]
+}

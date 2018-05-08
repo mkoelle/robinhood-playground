@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLFS",
+      "price": 7.57
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLFS",
+      "price": 7.7548
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIN",
+      "price": 9.895
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.6079
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KIN",
+      "price": 9.8
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.581
+    }
+  ]
+}

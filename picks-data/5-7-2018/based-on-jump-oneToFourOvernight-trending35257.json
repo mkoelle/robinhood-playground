@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "EKSO",
+      "price": 1.77
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.88
+    },
+    {
+      "ticker": "EPE",
+      "price": 2.063
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.538
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EKSO",
+      "price": 1.82
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.53
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.875
+    },
+    {
+      "ticker": "EPE",
+      "price": 2.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EKSO",
+      "price": 1.75
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.855
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EKSO",
+      "price": 1.82
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.06
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.62
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.47
+    }
+  ]
+}

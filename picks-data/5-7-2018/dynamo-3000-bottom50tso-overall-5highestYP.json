@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TEUM",
+      "price": 2.7001
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 2.74
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 2.705
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 2.665
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 2.66
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 2.66
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.58
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 2.665
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.56
+    }
+  ]
+}

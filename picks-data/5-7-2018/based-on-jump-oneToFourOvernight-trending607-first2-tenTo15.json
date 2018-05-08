@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSSC",
+      "price": 11.2324
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSSC",
+      "price": 11.1
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSSC",
+      "price": 10.8858
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.39
+    }
+  ]
+}

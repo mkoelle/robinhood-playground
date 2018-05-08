@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.95
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.59
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.5
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RYI",
+      "price": 11.9
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.58
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.5
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.4
+    },
+    {
+      "ticker": "SCPH",
+      "price": 12.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RYI",
+      "price": 11.775
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.67
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.5
+    },
+    {
+      "ticker": "RST",
+      "price": 14.38
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RYI",
+      "price": 11.675
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.75
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.4
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.3
+    },
+    {
+      "ticker": "RST",
+      "price": 14.34
+    }
+  ]
+}

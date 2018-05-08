@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LGCY",
+      "price": 6.2169
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 6.42
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LGCY",
+      "price": 6.38
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LGCY",
+      "price": 6.3701
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGCY",
+      "price": 6.38
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCM",
+      "price": 8.45
+    },
+    {
+      "ticker": "CYRX",
+      "price": 9.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCM",
+      "price": 8.48
+    },
+    {
+      "ticker": "CYRX",
+      "price": 9.26
+    }
+  ]
+}

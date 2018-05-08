@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 4.78
+    },
+    {
+      "ticker": "PES",
+      "price": 4.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 3.53
+    },
+    {
+      "ticker": "NE",
+      "price": 4.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNR",
+      "price": 3.62
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    }
+  ]
+}

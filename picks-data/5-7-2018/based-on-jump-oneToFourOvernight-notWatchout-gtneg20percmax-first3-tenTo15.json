@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.22
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.6764
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSSC",
+      "price": 11.2324
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.705
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSSC",
+      "price": 11.1
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.52
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.775
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSSC",
+      "price": 10.8858
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.52
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.675
+    }
+  ]
+}

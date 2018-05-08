@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PI",
+      "price": 13.11
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFH",
+      "price": 10.9
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSH",
+      "price": 12
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFH",
+      "price": 10.9
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AFH",
+      "price": 10.725
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFH",
+      "price": 10.85
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.61
+    }
+  ]
+}

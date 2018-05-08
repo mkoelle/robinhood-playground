@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLNK",
+      "price": 2.0864
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FSNN",
+      "price": 4.8499
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FSNN",
+      "price": 4.75
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.895
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FSNN",
+      "price": 4.75
+    },
+    {
+      "ticker": "BLNK",
+      "price": 1.8542
+    }
+  ]
+}

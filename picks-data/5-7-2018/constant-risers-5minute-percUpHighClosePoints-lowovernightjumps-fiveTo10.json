@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BOXL",
+      "price": 6.35
+    },
+    {
+      "ticker": "GNRT",
+      "price": 5.6
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.53
+    }
+  ],
+  "80": [
+    {
+      "ticker": "GNRT",
+      "price": 5.61
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.1499
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNRT",
+      "price": 5.6938
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.1308
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.65
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GNRT",
+      "price": 5.69
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.01
+    },
+    {
+      "ticker": "ARCT",
+      "price": 5.68
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GNRT",
+      "price": 5.7
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.8038
+    },
+    {
+      "ticker": "CELP",
+      "price": 6.4182
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GNRT",
+      "price": 5.71
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.179
+    },
+    {
+      "ticker": "CELP",
+      "price": 6.4182
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GNRT",
+      "price": 5.71
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.2002
+    },
+    {
+      "ticker": "CELP",
+      "price": 6.38
+    }
+  ]
+}

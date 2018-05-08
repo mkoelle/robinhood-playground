@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 10.16
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABCD",
+      "price": 10.326
+    },
+    {
+      "ticker": "TLYS",
+      "price": 11.115
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 10.1268
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.645
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.625
+    }
+  ]
+}

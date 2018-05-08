@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 10.7411
+    },
+    {
+      "ticker": "NXEO",
+      "price": 10.205
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SIEB",
+      "price": 10.63
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIEB",
+      "price": 10.5548
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 10.48
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 10.02
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.4892
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 10.05
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.422
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.17
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.55
+    }
+  ]
+}

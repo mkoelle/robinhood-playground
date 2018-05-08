@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "TACT",
+      "price": 11.75
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.5
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.15
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.72
+    }
+  ],
+  "35": [
+    {
+      "ticker": "TACT",
+      "price": 11.8
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.98
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.5
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.42
+    },
+    {
+      "ticker": "FATE",
+      "price": 10.68
+    }
+  ],
+  "90": [
+    {
+      "ticker": "SSP",
+      "price": 12.3
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.7821
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.6
+    },
+    {
+      "ticker": "FATE",
+      "price": 10.82
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.535
+    }
+  ],
+  "223": [
+    {
+      "ticker": "SSP",
+      "price": 12.22
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.7929
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.735
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.465
+    },
+    {
+      "ticker": "SCWX",
+      "price": 11.35
+    }
+  ]
+}

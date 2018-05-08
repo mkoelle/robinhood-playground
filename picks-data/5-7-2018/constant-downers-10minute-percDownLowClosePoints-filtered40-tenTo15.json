@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GEOS",
+      "price": 10.84
+    },
+    {
+      "ticker": "TRMT",
+      "price": 11.81
+    },
+    {
+      "ticker": "BWB",
+      "price": 13.27
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    },
+    {
+      "ticker": "FENC",
+      "price": 11.995
+    },
+    {
+      "ticker": "BWB",
+      "price": 13.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FENC",
+      "price": 11.91
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.55
+    }
+  ]
+}

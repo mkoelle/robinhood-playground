@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PETX",
+      "price": 5.1841
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OPHC",
+      "price": 5.068
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NE",
+      "price": 5.015
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.0461
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NE",
+      "price": 5.05
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NE",
+      "price": 5.03
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EMMS",
+      "price": 5.0899
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.0199
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EMMS",
+      "price": 5.1499
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.0199
+    }
+  ]
+}

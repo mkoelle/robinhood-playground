@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMRT",
+      "price": 2.65
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.07
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EBIO",
+      "price": 3.2401
+    },
+    {
+      "ticker": "PES",
+      "price": 4.815
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGA",
+      "price": 1.9698
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.2199
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGA",
+      "price": 2.01
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.234
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGY",
+      "price": 1.23
+    },
+    {
+      "ticker": "CVM",
+      "price": 2.6741
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BVX",
+      "price": 3.83
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.1824
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BVX",
+      "price": 3.92
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.2
+    }
+  ]
+}

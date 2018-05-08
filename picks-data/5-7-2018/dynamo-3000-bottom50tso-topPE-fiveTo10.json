@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "AMR",
+      "price": 7.56
+    },
+    {
+      "ticker": "NCMI",
+      "price": 5.93
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.329
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WHLM",
+      "price": 7.05
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.24
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.405
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 5.785
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.22
+    },
+    {
+      "ticker": "RRD",
+      "price": 6.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRON",
+      "price": 5.79
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.185
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRON",
+      "price": 5.7559
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.24
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRON",
+      "price": 5.62
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.85
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRON",
+      "price": 5.67
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.88
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.78
+    }
+  ]
+}

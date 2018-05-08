@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APRN",
+      "price": 2.57
+    },
+    {
+      "ticker": "OSN",
+      "price": 3.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APRN",
+      "price": 2.475
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "APRN",
+      "price": 2.47
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4171
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APRN",
+      "price": 2.549
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4213
+    }
+  ]
+}

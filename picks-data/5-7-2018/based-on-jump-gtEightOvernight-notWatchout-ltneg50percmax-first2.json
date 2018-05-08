@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLNK",
+      "price": 2.0864
+    },
+    {
+      "ticker": "SUMR",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLNK",
+      "price": 1.97
+    },
+    {
+      "ticker": "SUMR",
+      "price": 0.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLNK",
+      "price": 1.895
+    },
+    {
+      "ticker": "SUMR",
+      "price": 0.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLNK",
+      "price": 1.8542
+    },
+    {
+      "ticker": "SUMR",
+      "price": 0.8
+    }
+  ]
+}

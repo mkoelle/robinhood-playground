@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAII",
+      "price": 10.1
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.675
+    },
+    {
+      "ticker": "FPH",
+      "price": 13.23
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MBTF",
+      "price": 10.35
+    },
+    {
+      "ticker": "BBF",
+      "price": 12.85
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    },
+    {
+      "ticker": "BLJ",
+      "price": 13.67
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.76
+    }
+  ]
+}

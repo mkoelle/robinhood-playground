@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BOJA",
+      "price": 14.75
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BOJA",
+      "price": 14.85
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.435
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAR",
+      "price": 14.62
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PAR",
+      "price": 14.46
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAR",
+      "price": 14.6
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIVI",
+      "price": 14.45
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAR",
+      "price": 14.43
+    },
+    {
+      "ticker": "FOSL",
+      "price": 14.555
+    }
+  ]
+}

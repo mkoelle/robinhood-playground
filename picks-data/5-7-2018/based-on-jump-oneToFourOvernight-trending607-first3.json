@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.88
+    },
+    {
+      "ticker": "EPE",
+      "price": 2.063
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 3.53
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.875
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENSV",
+      "price": 1.06
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.62
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    }
+  ]
+}

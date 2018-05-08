@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAII",
+      "price": 10.1
+    },
+    {
+      "ticker": "FPH",
+      "price": 13.23
+    },
+    {
+      "ticker": "LBC",
+      "price": 12.6
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MBTF",
+      "price": 10.35
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.76
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    }
+  ]
+}

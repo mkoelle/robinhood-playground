@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAII",
+      "price": 10.1
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.61
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.84
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PCM",
+      "price": 11.6636
+    },
+    {
+      "ticker": "MBTF",
+      "price": 10.35
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PCM",
+      "price": 11.6658
+    },
+    {
+      "ticker": "DPK",
+      "price": 11.6079
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.49
+    }
+  ]
+}

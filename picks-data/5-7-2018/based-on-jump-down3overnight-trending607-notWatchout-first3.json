@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "ELSE",
+      "price": 3.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELSE",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.681
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELSE",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELSE",
+      "price": 3.99
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.7
+    }
+  ]
+}

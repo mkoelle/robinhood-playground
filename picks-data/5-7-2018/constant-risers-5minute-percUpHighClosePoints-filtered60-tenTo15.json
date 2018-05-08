@@ -1,0 +1,92 @@
+{
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 11.69
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.695
+    },
+    {
+      "ticker": "I",
+      "price": 12.875
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SSP",
+      "price": 12.26
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.865
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSP",
+      "price": 12.22
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.9564
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.5476
+    }
+  ],
+  "140": [
+    {
+      "ticker": "BSTI",
+      "price": 12.971
+    },
+    {
+      "ticker": "SSP",
+      "price": 12.23
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.59
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CVE",
+      "price": 10.795
+    },
+    {
+      "ticker": "PBR",
+      "price": 14.13
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.59
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKAO",
+      "price": 12.21
+    },
+    {
+      "ticker": "FNB",
+      "price": 13.04
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 12.4401
+    },
+    {
+      "ticker": "FNB",
+      "price": 13.14
+    }
+  ]
+}

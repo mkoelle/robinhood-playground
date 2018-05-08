@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EKSO",
+      "price": 1.77
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EKSO",
+      "price": 1.82
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EKSO",
+      "price": 1.75
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EKSO",
+      "price": 1.82
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.06
+    }
+  ]
+}

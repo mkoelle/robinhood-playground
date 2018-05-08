@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "CRON",
+      "price": 5.92
+    },
+    {
+      "ticker": "NGVC",
+      "price": 8.73
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMR",
+      "price": 7.8
+    },
+    {
+      "ticker": "NCMI",
+      "price": 6.43
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMR",
+      "price": 7.75
+    },
+    {
+      "ticker": "NCMI",
+      "price": 6.36
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMR",
+      "price": 7.79
+    },
+    {
+      "ticker": "NCMI",
+      "price": 6.44
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCMI",
+      "price": 6.5
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.635
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NCMI",
+      "price": 6.46
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.6608
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.635
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NCMI",
+      "price": 6.48
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.43
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.64
+    }
+  ]
+}

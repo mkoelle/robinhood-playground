@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LBC",
+      "price": 12.39
+    },
+    {
+      "ticker": "PI",
+      "price": 13.11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FLY",
+      "price": 13.04
+    },
+    {
+      "ticker": "NSSC",
+      "price": 10.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DFRG",
+      "price": 14.775
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DFRG",
+      "price": 14.85
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KRNT",
+      "price": 13.95
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KRNT",
+      "price": 13.55
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRNT",
+      "price": 13.675
+    },
+    {
+      "ticker": "FTR",
+      "price": 10.61
+    }
+  ]
+}

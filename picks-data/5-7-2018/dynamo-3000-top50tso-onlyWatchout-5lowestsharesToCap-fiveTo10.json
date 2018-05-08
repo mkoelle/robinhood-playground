@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CZZ",
+      "price": 9.49
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CZZ",
+      "price": 9.675
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.865
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.825
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 9.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPI",
+      "price": 9.69
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 9.525
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.655
+    },
+    {
+      "ticker": "SND",
+      "price": 7.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ESND",
+      "price": 9.94
+    },
+    {
+      "ticker": "EIGR",
+      "price": 8.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESND",
+      "price": 9.88
+    },
+    {
+      "ticker": "EIGR",
+      "price": 9.1
+    }
+  ]
+}

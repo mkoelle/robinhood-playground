@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 11.59
+    },
+    {
+      "ticker": "FET",
+      "price": 14.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 11.58
+    },
+    {
+      "ticker": "FET",
+      "price": 14.2656
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OAS",
+      "price": 11.67
+    },
+    {
+      "ticker": "FET",
+      "price": 14.3248
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OAS",
+      "price": 11.75
+    },
+    {
+      "ticker": "FET",
+      "price": 14.35
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "OIIM",
+      "price": 1.538
+    },
+    {
+      "ticker": "NH",
+      "price": 3.51
+    },
+    {
+      "ticker": "NE",
+      "price": 4.78
+    },
+    {
+      "ticker": "KGJI",
+      "price": 1.37
+    },
+    {
+      "ticker": "PES",
+      "price": 4.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 3.53
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.538
+    },
+    {
+      "ticker": "NH",
+      "price": 3.5099
+    },
+    {
+      "ticker": "NE",
+      "price": 4.83
+    },
+    {
+      "ticker": "KGJI",
+      "price": 1.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.538
+    },
+    {
+      "ticker": "NH",
+      "price": 3.543
+    },
+    {
+      "ticker": "NE",
+      "price": 4.8566
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNR",
+      "price": 3.62
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.5012
+    },
+    {
+      "ticker": "NH",
+      "price": 3.5601
+    },
+    {
+      "ticker": "NE",
+      "price": 4.865
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SD",
+      "price": 14.8
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XNET",
+      "price": 13.78
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "STRL",
+      "price": 11.66
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNK",
+      "price": 12.345
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ERF",
+      "price": 12.295
+    },
+    {
+      "ticker": "CPE",
+      "price": 14.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ETM",
+      "price": 10.7
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR",
+      "price": 13.93
+    },
+    {
+      "ticker": "XCRA",
+      "price": 12.86
+    }
+  ]
+}

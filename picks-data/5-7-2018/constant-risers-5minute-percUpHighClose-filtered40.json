@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "PES",
+      "price": 4.815
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.89
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.1801
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VVPR",
+      "price": 3.01
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.96
+    },
+    {
+      "ticker": "PES",
+      "price": 4.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 3.695
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.625
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.175
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VVPR",
+      "price": 3.11
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.71
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.195
+    }
+  ],
+  "198": [
+    {
+      "ticker": "BLNK",
+      "price": 4.17
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.14
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.69
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BLNK",
+      "price": 4.0852
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.615
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.16
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BLNK",
+      "price": 4.03
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.16
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.895
+    }
+  ]
+}

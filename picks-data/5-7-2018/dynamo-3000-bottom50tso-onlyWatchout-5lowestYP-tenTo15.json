@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PI",
+      "price": 13.11
+    },
+    {
+      "ticker": "DBD",
+      "price": 11.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBD",
+      "price": 11.875
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 11.925
+    },
+    {
+      "ticker": "NSH",
+      "price": 12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 11.175
+    },
+    {
+      "ticker": "DBD",
+      "price": 11.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 11.175
+    },
+    {
+      "ticker": "DBD",
+      "price": 11.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 11.05
+    },
+    {
+      "ticker": "DBD",
+      "price": 11.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 11.1
+    },
+    {
+      "ticker": "DBD",
+      "price": 11.85
+    }
+  ]
+}

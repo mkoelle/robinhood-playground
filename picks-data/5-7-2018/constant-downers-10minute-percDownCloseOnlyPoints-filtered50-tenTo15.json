@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GEOS",
+      "price": 10.84
+    },
+    {
+      "ticker": "TRMT",
+      "price": 11.81
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.3396
+    }
+  ],
+  "242": [
+    {
+      "ticker": "KRNT",
+      "price": 14.05
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.52
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PAR",
+      "price": 14.55
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    },
+    {
+      "ticker": "BWB",
+      "price": 13.29
+    }
+  ]
+}

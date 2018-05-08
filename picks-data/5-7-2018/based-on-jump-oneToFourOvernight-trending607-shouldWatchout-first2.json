@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.875
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHCI",
+      "price": 2.53
+    },
+    {
+      "ticker": "MEET",
+      "price": 2.855
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENSV",
+      "price": 1.06
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.47
+    }
+  ]
+}

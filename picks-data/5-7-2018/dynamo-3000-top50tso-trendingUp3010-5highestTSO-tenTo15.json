@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 10.7411
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 12.3324
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SIEB",
+      "price": 10.63
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 12.976
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 13.249
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 12.06
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BSTI",
+      "price": 12.93
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCPH",
+      "price": 13.5183
+    },
+    {
+      "ticker": "BBGI",
+      "price": 11.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BBGI",
+      "price": 11.2
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.9
+    }
+  ]
+}

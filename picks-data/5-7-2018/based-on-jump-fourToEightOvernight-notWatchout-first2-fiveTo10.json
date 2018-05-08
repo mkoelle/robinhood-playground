@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.8374
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DAVE",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.427
+    }
+  ]
+}

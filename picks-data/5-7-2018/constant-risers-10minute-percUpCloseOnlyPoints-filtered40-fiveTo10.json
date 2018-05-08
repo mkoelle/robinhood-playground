@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BOXL",
+      "price": 6.35
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.389
+    },
+    {
+      "ticker": "GNRT",
+      "price": 5.6
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EGC",
+      "price": 7.405
+    },
+    {
+      "ticker": "GNRT",
+      "price": 5.61
+    },
+    {
+      "ticker": "ARWR",
+      "price": 7.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNRT",
+      "price": 5.6938
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.36
+    },
+    {
+      "ticker": "ARWR",
+      "price": 7.68
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GNRT",
+      "price": 5.69
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.9
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.36
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GNRT",
+      "price": 5.7
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.1764
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.31
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GNRT",
+      "price": 5.71
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.175
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.29
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GNRT",
+      "price": 5.71
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.025
+    },
+    {
+      "ticker": "ARWR",
+      "price": 7.745
+    }
+  ]
+}

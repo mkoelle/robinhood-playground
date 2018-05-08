@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRET",
+      "price": 14.67
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.9302
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NID",
+      "price": 12.5497
+    },
+    {
+      "ticker": "NZF",
+      "price": 14.3451
+    }
+  ],
+  "100": [
+    {
+      "ticker": "F",
+      "price": 11.37
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.4784
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIA",
+      "price": 10.8
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.6529
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FAN",
+      "price": 14.041
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFL",
+      "price": 12.08
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IVH",
+      "price": 14.2747
+    },
+    {
+      "ticker": "YEXT",
+      "price": 13.71
+    }
+  ]
+}

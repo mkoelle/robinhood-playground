@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSSC",
+      "price": 11.2324
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.705
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSSC",
+      "price": 11.1
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSSC",
+      "price": 10.8858
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.52
+    }
+  ]
+}

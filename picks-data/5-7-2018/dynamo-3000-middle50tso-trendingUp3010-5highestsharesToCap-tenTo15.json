@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GCI",
+      "price": 10.15
+    },
+    {
+      "ticker": "FATE",
+      "price": 10.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 10.29
+    },
+    {
+      "ticker": "PHH",
+      "price": 10.755
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WMC",
+      "price": 10.1101
+    },
+    {
+      "ticker": "PHH",
+      "price": 10.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PZC",
+      "price": 10.02
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.626
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVC",
+      "price": 10.002
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SSRM",
+      "price": 10.275
+    },
+    {
+      "ticker": "SLVP",
+      "price": 10.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BIF",
+      "price": 10.84
+    },
+    {
+      "ticker": "ZF",
+      "price": 11.01
+    }
+  ]
+}

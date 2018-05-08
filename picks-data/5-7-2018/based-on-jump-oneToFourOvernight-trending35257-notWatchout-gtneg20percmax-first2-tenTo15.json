@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 10
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RYI",
+      "price": 11.9
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RYI",
+      "price": 11.775
+    },
+    {
+      "ticker": "RST",
+      "price": 14.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RYI",
+      "price": 11.675
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.3
+    }
+  ]
+}

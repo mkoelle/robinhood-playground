@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EYES",
+      "price": 1.73
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.96
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.538
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 3.53
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8188
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8188
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNR",
+      "price": 3.62
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8002
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "I",
+      "price": 12.3435
+    },
+    {
+      "ticker": "INFN",
+      "price": 11.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELOX",
+      "price": 13.055
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAR",
+      "price": 14.62
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.6204
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PAR",
+      "price": 14.46
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAR",
+      "price": 14.6
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.625
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLUB",
+      "price": 10.825
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLUB",
+      "price": 10.825
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.43
+    }
+  ]
+}

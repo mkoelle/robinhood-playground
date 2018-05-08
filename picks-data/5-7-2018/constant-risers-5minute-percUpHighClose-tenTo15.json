@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TELL",
+      "price": 10.11
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.31
+    },
+    {
+      "ticker": "DDD",
+      "price": 10.065
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ECA",
+      "price": 13.715
+    },
+    {
+      "ticker": "AMD",
+      "price": 11.54
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.3643
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SRCI",
+      "price": 11.95
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.86
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.67
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OAS",
+      "price": 11.8
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.625
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.17
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ECA",
+      "price": 13.525
+    },
+    {
+      "ticker": "OAS",
+      "price": 11.775
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.2225
+    }
+  ],
+  "250": [
+    {
+      "ticker": "OAS",
+      "price": 11.65
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.98
+    },
+    {
+      "ticker": "AKRX",
+      "price": 12.08
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OAS",
+      "price": 11.72
+    },
+    {
+      "ticker": "AKRX",
+      "price": 12.16
+    },
+    {
+      "ticker": "INFN",
+      "price": 12.335
+    }
+  ]
+}
