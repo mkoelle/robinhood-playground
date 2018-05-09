@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USAT",
+      "price": 10.35
+    },
+    {
+      "ticker": "MSON",
+      "price": 10.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGAN",
+      "price": 10.2
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 10.075
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.505
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 10.6344
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 10.525
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 10.525
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.1344
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 10.5
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.15
+    }
+  ]
+}

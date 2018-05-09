@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MACK",
+      "price": 8.7321
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVIV",
+      "price": 8
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 7.99
+    },
+    {
+      "ticker": "MACK",
+      "price": 8.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRAN",
+      "price": 5.035
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 8.02
+    },
+    {
+      "ticker": "MACK",
+      "price": 8.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 8.3
+    },
+    {
+      "ticker": "YRIV",
+      "price": 6.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 5.0501
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.12
+    }
+  ]
+}

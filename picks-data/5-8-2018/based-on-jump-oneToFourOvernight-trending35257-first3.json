@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    },
+    {
+      "ticker": "CRNT",
+      "price": 2.9232
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.9292
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    },
+    {
+      "ticker": "APT",
+      "price": 3.45
+    }
+  ]
+}

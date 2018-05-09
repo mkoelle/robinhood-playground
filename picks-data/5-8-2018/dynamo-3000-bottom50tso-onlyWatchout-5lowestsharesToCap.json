@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XELA",
+      "price": 4.56
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATOS",
+      "price": 4.09
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATOS",
+      "price": 4.02
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPWH",
+      "price": 4.39
+    },
+    {
+      "ticker": "ATOS",
+      "price": 3.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATOS",
+      "price": 3.91
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPWH",
+      "price": 4.33
+    },
+    {
+      "ticker": "ATOS",
+      "price": 3.9299
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYH",
+      "price": 4.515
+    },
+    {
+      "ticker": "ATOS",
+      "price": 3.92
+    }
+  ]
+}

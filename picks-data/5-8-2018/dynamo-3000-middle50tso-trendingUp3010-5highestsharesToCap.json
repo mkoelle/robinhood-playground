@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OVAS",
+      "price": 0.93
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.9771
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEN",
+      "price": 1.6398
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LODE",
+      "price": 0.3451
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LODE",
+      "price": 0.3452
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANTH",
+      "price": 0.337
+    },
+    {
+      "ticker": "EGO",
+      "price": 0.9751
+    }
+  ],
+  "351": [
+    {
+      "ticker": "THM",
+      "price": 0.6351
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANTH",
+      "price": 0.3377
+    },
+    {
+      "ticker": "NAO",
+      "price": 1.1332
+    }
+  ]
+}

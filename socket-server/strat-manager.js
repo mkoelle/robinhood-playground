@@ -222,6 +222,8 @@ const stratManager = {
         const uniq16IncTodayCount9 = await stratPerfPredictions(this.Robinhood, true, 16, 9);
         const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
 
+        const uniq20IncTodayCount16 = await stratPerfPredictions(this.Robinhood, true, 20, 16);
+
 
         const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
         const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
@@ -272,6 +274,7 @@ const stratManager = {
         const yesterdayPredictions = await predictCurrent(1);
         let strategies = {
 
+            ...createPermsForObj([10, 5, 3, 1], '20IncTodayCount16', uniq20IncTodayCount16),
             ...createPermsForObj([10, 5, 3, 1], '16Count3', uniq16Count3),
             ...createPermsForObj([10, 5, 3, 1], '16Count5', uniq16Count5),
             ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount9', uniq16IncTodayCount9),

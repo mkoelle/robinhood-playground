@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PHK",
+      "price": 8.2299
+    },
+    {
+      "ticker": "JPS",
+      "price": 9.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EOD",
+      "price": 5.8001
+    },
+    {
+      "ticker": "CNTY",
+      "price": 7.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 5.27
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.5801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TTS",
+      "price": 6.625
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLCM",
+      "price": 6.91
+    },
+    {
+      "ticker": "GPIC",
+      "price": 8.8742
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EBR",
+      "price": 5.15
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6.2889
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    },
+    {
+      "ticker": "DAIO",
+      "price": 7.21
+    }
+  ]
+}

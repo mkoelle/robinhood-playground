@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DF",
+      "price": 8.92
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DF",
+      "price": 9.325
+    },
+    {
+      "ticker": "ENDP",
+      "price": 5.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DF",
+      "price": 9.055
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DF",
+      "price": 9.2904
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.19
+    }
+  ]
+}

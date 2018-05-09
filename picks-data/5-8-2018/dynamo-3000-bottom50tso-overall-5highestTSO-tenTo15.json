@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JAG",
+      "price": 13.96
+    },
+    {
+      "ticker": "GE",
+      "price": 14.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FET",
+      "price": 13.85
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.6199
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MMLP",
+      "price": 14.35
+    },
+    {
+      "ticker": "SELB",
+      "price": 10.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HRG",
+      "price": 11.35
+    },
+    {
+      "ticker": "SELB",
+      "price": 10.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MORL",
+      "price": 14.9285
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLSD",
+      "price": 11.62
+    },
+    {
+      "ticker": "MRRL",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLSD",
+      "price": 11.625
+    },
+    {
+      "ticker": "MRRL",
+      "price": 14.95
+    }
+  ]
+}

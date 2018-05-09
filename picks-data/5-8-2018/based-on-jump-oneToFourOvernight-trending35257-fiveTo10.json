@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "IAG",
+      "price": 6.08
+    },
+    {
+      "ticker": "IBN",
+      "price": 9.17
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.15
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.199
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IAG",
+      "price": 6.14
+    },
+    {
+      "ticker": "IBN",
+      "price": 9.13
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.95
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.47
+    },
+    {
+      "ticker": "LONE",
+      "price": 5.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IAG",
+      "price": 5.96
+    },
+    {
+      "ticker": "IBN",
+      "price": 9.06
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.46
+    },
+    {
+      "ticker": "LONE",
+      "price": 5.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IAG",
+      "price": 6.015
+    },
+    {
+      "ticker": "IBN",
+      "price": 9.085
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.53
+    },
+    {
+      "ticker": "MDWD",
+      "price": 5.625
+    }
+  ]
+}

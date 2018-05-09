@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DDD",
+      "price": 10.14
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WAIR",
+      "price": 10.325
+    },
+    {
+      "ticker": "DDD",
+      "price": 10.3301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WAIR",
+      "price": 10.275
+    },
+    {
+      "ticker": "DDD",
+      "price": 10.5816
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WAIR",
+      "price": 10.275
+    },
+    {
+      "ticker": "PRPL",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WAIR",
+      "price": 10.275
+    },
+    {
+      "ticker": "PRPL",
+      "price": 10.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TELL",
+      "price": 10.05
+    },
+    {
+      "ticker": "WAIR",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TELL",
+      "price": 10.24
+    },
+    {
+      "ticker": "WAIR",
+      "price": 10.25
+    }
+  ]
+}

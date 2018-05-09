@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CPIX",
+      "price": 6.7447
+    },
+    {
+      "ticker": "HNRG",
+      "price": 7.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRTA",
+      "price": 7.66
+    },
+    {
+      "ticker": "HEAR",
+      "price": 8.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRTA",
+      "price": 7.78
+    },
+    {
+      "ticker": "BKD",
+      "price": 7.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRTA",
+      "price": 7.815
+    },
+    {
+      "ticker": "BKD",
+      "price": 7.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SBOT",
+      "price": 5.95
+    },
+    {
+      "ticker": "FRTA",
+      "price": 7.8575
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 6.29
+    },
+    {
+      "ticker": "SBOT",
+      "price": 6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SBOT",
+      "price": 6.1501
+    },
+    {
+      "ticker": "YRIV",
+      "price": 5.0501
+    }
+  ]
+}

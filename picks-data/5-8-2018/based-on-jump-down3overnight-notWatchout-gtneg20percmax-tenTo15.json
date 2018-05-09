@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ETM",
+      "price": 9.8
+    },
+    {
+      "ticker": "FOLD",
+      "price": 13.6
+    },
+    {
+      "ticker": "DFRG",
+      "price": 14.825
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FOLD",
+      "price": 13.4
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.589
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FOLD",
+      "price": 13.13
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FOLD",
+      "price": 13.15
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.54
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 12.93
+    },
+    {
+      "ticker": "SSP",
+      "price": 12.36
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDD",
+      "price": 14.0601
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 11.225
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "COE",
+      "price": 10.83
+    },
+    {
+      "ticker": "INOV",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COE",
+      "price": 10.99
+    },
+    {
+      "ticker": "TRMT",
+      "price": 13.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "COE",
+      "price": 10.93
+    },
+    {
+      "ticker": "SMLP",
+      "price": 14.5563
+    }
+  ],
+  "381": [
+    {
+      "ticker": "COE",
+      "price": 10.93
+    },
+    {
+      "ticker": "SMLP",
+      "price": 14.65
+    }
+  ]
+}

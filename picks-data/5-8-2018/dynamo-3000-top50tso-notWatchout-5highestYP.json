@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 1.3401
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.1999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 1.4103
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.2848
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "TST",
+      "price": 1.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGY",
+      "price": 1.5
+    },
+    {
+      "ticker": "TST",
+      "price": 1.7841
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TST",
+      "price": 1.8055
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.4899
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 3.8252
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.6068
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIE",
+      "price": 3.84
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5825
+    }
+  ]
+}

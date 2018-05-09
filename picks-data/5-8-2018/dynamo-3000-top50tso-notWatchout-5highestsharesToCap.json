@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTN",
+      "price": 1.1999
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 1.4103
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.5799
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "SSY",
+      "price": 1.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGY",
+      "price": 1.5
+    },
+    {
+      "ticker": "SSY",
+      "price": 1.4799
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGY",
+      "price": 1.4899
+    },
+    {
+      "ticker": "SSY",
+      "price": 1.4799
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGY",
+      "price": 1.6068
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.829
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGB",
+      "price": 1.16
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5825
+    }
+  ]
+}

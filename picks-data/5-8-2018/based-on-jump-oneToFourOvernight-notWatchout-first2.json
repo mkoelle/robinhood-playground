@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FRO",
+      "price": 4.53
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRO",
+      "price": 4.57
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRO",
+      "price": 4.525
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.793
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRO",
+      "price": 4.575
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.7
+    }
+  ]
+}

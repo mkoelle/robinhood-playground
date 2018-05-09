@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 1.86
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.4
+    },
+    {
+      "ticker": "THST",
+      "price": 1.815
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 1.951
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.375
+    },
+    {
+      "ticker": "THST",
+      "price": 1.815
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 1.87
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.375
+    },
+    {
+      "ticker": "THST",
+      "price": 1.8365
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 1.8108
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.395
+    },
+    {
+      "ticker": "THST",
+      "price": 1.9198
+    }
+  ]
+}

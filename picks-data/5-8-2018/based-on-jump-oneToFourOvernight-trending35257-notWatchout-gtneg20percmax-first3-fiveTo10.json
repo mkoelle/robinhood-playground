@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "USAT",
+      "price": 10.15
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.199
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLFS",
+      "price": 7.95
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.47
+    },
+    {
+      "ticker": "LONE",
+      "price": 5.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.46
+    },
+    {
+      "ticker": "LONE",
+      "price": 5.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.53
+    },
+    {
+      "ticker": "LONE",
+      "price": 5.37
+    }
+  ]
+}

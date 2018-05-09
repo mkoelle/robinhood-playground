@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SSP",
+      "price": 12.36
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.2
+    },
+    {
+      "ticker": "WSR",
+      "price": 11.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EXTR",
+      "price": 11.55
+    },
+    {
+      "ticker": "TZOO",
+      "price": 13.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 11.25
+    },
+    {
+      "ticker": "TZOO",
+      "price": 13.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QD",
+      "price": 10.665
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QD",
+      "price": 10.69
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USDP",
+      "price": 10.95
+    },
+    {
+      "ticker": "TZOO",
+      "price": 13.559
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.92
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.3212
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.8488
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.3245
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.6805
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.6402
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.6733
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPKE",
+      "price": 11.59
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 12.4948
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.3685
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MLP",
+      "price": 10.7
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.475
+    },
+    {
+      "ticker": "LOV",
+      "price": 13
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LOOP",
+      "price": 12.78
+    },
+    {
+      "ticker": "MLP",
+      "price": 10.7
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.475
+    }
+  ]
+}

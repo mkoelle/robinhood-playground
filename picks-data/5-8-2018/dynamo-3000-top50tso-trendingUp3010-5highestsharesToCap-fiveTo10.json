@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JILL",
+      "price": 5.16
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.165
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JILL",
+      "price": 5.255
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JILL",
+      "price": 5.145
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JILL",
+      "price": 5.19
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JILL",
+      "price": 5.23
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 6.29
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.19
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 5.0501
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSTO",
+      "price": 13.5
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSTO",
+      "price": 13.64
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.2601
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSTO",
+      "price": 13.74
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSTO",
+      "price": 13.73
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.2
+    }
+  ]
+}

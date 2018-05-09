@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 1.86
+    },
+    {
+      "ticker": "THST",
+      "price": 1.815
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 1.951
+    },
+    {
+      "ticker": "THST",
+      "price": 1.815
+    },
+    {
+      "ticker": "SN",
+      "price": 3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 1.87
+    },
+    {
+      "ticker": "THST",
+      "price": 1.8365
+    },
+    {
+      "ticker": "SN",
+      "price": 2.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 1.8108
+    },
+    {
+      "ticker": "THST",
+      "price": 1.9198
+    },
+    {
+      "ticker": "SN",
+      "price": 2.8888
+    }
+  ]
+}

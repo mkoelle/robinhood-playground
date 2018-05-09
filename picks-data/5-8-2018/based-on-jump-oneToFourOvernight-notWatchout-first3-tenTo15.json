@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MSON",
+      "price": 10.6
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.9
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.75
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.6548
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MSON",
+      "price": 10.605
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.7
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.5512
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.775
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.45
+    }
+  ]
+}

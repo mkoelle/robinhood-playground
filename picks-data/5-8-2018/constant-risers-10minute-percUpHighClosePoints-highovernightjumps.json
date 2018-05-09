@@ -1,0 +1,96 @@
+{
+  "40": [
+    {
+      "ticker": "UUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.4103
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.316
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.861
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.356
+    }
+  ],
+  "140": [
+    {
+      "ticker": "PRPH",
+      "price": 4.12
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.499
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.2747
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PRPH",
+      "price": 4
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.495
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.25
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PRPH",
+      "price": 4.27
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.64
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.239
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PRPH",
+      "price": 4.38
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5501
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.2748
+    }
+  ]
+}

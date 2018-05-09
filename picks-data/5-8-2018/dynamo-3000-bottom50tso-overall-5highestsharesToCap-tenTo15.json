@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 11.1375
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.63
+    },
+    {
+      "ticker": "JMF",
+      "price": 10.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.24
+    },
+    {
+      "ticker": "FATE",
+      "price": 10.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 10.13
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.155
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PEI",
+      "price": 10.13
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PEI",
+      "price": 10.13
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.215
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRYS",
+      "price": 10.01
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.095
+    }
+  ]
+}

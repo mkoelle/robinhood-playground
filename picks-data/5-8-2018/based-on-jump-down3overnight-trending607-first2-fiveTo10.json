@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 9.7
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.255
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ETM",
+      "price": 9.5
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ETM",
+      "price": 8.825
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ETM",
+      "price": 8.875
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    }
+  ]
+}

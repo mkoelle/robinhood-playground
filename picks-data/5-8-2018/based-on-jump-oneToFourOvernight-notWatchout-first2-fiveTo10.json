@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IAG",
+      "price": 6.08
+    },
+    {
+      "ticker": "DSKE",
+      "price": 9.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HHS",
+      "price": 9.4194
+    },
+    {
+      "ticker": "IAG",
+      "price": 6.14
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HHS",
+      "price": 9.4194
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPIC",
+      "price": 9.0303
+    },
+    {
+      "ticker": "HHS",
+      "price": 9.4194
+    }
+  ]
+}

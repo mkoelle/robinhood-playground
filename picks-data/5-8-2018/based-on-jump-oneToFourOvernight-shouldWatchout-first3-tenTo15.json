@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VSTO",
+      "price": 13.5
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.07
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSTO",
+      "price": 13.64
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.2601
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSTO",
+      "price": 13.74
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.11
+    },
+    {
+      "ticker": "SYBX",
+      "price": 13.315
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSTO",
+      "price": 13.73
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.2
+    },
+    {
+      "ticker": "SYBX",
+      "price": 13.31
+    }
+  ]
+}

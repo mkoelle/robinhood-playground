@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACMR",
+      "price": 11.25
+    },
+    {
+      "ticker": "LAKE",
+      "price": 13.7098
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VG",
+      "price": 11.07
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RNET",
+      "price": 14.55
+    },
+    {
+      "ticker": "VG",
+      "price": 11.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RNET",
+      "price": 14.55
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNET",
+      "price": 14.55
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RNET",
+      "price": 14.66
+    },
+    {
+      "ticker": "ECYT",
+      "price": 10.985
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RNET",
+      "price": 14.575
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.575
+    }
+  ]
+}

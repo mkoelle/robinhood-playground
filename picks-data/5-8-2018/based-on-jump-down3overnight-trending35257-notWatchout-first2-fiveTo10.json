@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BCRX",
+      "price": 5.155
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ETM",
+      "price": 9.5
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ETM",
+      "price": 8.825
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ETM",
+      "price": 8.875
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.1037
+    }
+  ]
+}

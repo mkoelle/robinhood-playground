@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FOSL",
+      "price": 14.83
+    },
+    {
+      "ticker": "DNOW",
+      "price": 14.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 14.2496
+    },
+    {
+      "ticker": "VSTO",
+      "price": 13.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FOSL",
+      "price": 14.85
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FOSL",
+      "price": 14.76
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FOSL",
+      "price": 14.87
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.235
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FOSL",
+      "price": 16.34
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.495
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTA",
+      "price": 14.22
+    },
+    {
+      "ticker": "ALDR",
+      "price": 14.1
+    }
+  ]
+}

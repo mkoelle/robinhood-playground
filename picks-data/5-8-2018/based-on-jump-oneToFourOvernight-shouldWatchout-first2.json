@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BURG",
+      "price": 3.48
+    },
+    {
+      "ticker": "INSG",
+      "price": 2.18
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BURG",
+      "price": 3.5
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1679
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BURG",
+      "price": 3.4622
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1617
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BURG",
+      "price": 3.458
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1622
+    }
+  ]
+}

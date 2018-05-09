@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AGEN",
+      "price": 3.4
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.5092
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PER",
+      "price": 2.5248
+    },
+    {
+      "ticker": "NTWK",
+      "price": 4.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHKR",
+      "price": 1.5995
+    },
+    {
+      "ticker": "TST",
+      "price": 1.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TST",
+      "price": 1.7841
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CXDC",
+      "price": 3.85
+    },
+    {
+      "ticker": "ELON",
+      "price": 4.3633
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XXII",
+      "price": 2.465
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.8252
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ACTG",
+      "price": 3.775
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.84
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.61
+    },
+    {
+      "ticker": "ARCW",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.75
+    },
+    {
+      "ticker": "ARCW",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.9095
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.655
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.8827
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.66
+    }
+  ]
+}

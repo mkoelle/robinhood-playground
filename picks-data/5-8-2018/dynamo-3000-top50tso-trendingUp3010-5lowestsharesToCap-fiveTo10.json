@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ATTU",
+      "price": 9.6304
+    },
+    {
+      "ticker": "RUN",
+      "price": 9.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATTU",
+      "price": 9.67
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVU",
+      "price": 9.75
+    },
+    {
+      "ticker": "BCOV",
+      "price": 9.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 9.88
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATTU",
+      "price": 9.77
+    },
+    {
+      "ticker": "CYRX",
+      "price": 9.67
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CYRX",
+      "price": 9.61
+    },
+    {
+      "ticker": "NGVC",
+      "price": 9.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYRX",
+      "price": 9.67
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.5
+    }
+  ]
+}

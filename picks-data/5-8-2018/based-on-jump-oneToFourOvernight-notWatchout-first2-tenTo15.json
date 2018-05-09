@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MSON",
+      "price": 10.6
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MSON",
+      "price": 10.605
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.775
+    }
+  ]
+}

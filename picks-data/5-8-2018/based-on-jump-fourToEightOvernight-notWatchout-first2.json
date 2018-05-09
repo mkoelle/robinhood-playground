@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FSNN",
+      "price": 4.86
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FSNN",
+      "price": 4.87
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FSNN",
+      "price": 4.77
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.5178
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FSNN",
+      "price": 4.77
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.5178
+    }
+  ]
+}

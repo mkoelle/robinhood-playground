@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "BSPM",
+      "price": 2.7308
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BSPM",
+      "price": 2.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BSPM",
+      "price": 2.78
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.1301
+    },
+    {
+      "ticker": "NG",
+      "price": 4.81
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BSPM",
+      "price": 2.77
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.1301
+    },
+    {
+      "ticker": "NG",
+      "price": 4.865
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BSPM",
+      "price": 2.74
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.13
+    },
+    {
+      "ticker": "NG",
+      "price": 4.885
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BSPM",
+      "price": 2.79
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.13
+    },
+    {
+      "ticker": "NG",
+      "price": 4.89
+    }
+  ]
+}

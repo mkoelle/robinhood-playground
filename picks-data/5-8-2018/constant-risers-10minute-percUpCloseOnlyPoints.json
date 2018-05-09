@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AMDA",
+      "price": 2.1485
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3125
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AMDA",
+      "price": 2.7262
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3202
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMDA",
+      "price": 2.72
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.42
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AMDA",
+      "price": 2.4
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.335
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.12
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AMDA",
+      "price": 2.28
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3396
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMDA",
+      "price": 2.24
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.64
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.27
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMDA",
+      "price": 2.293
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.38
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3601
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MSON",
+      "price": 10.6
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.065
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MSON",
+      "price": 10.605
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MSON",
+      "price": 10.7
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.12
+    }
+  ]
+}

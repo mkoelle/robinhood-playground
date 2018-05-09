@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "GCI",
+      "price": 10.97
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.75
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 11.96
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.85
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LAKE",
+      "price": 14.95
+    },
+    {
+      "ticker": "PBD",
+      "price": 13.1396
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAKE",
+      "price": 14.8798
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.85
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIEB",
+      "price": 10.826
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.92
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 11.08
+    },
+    {
+      "ticker": "TAST",
+      "price": 12.025
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 11.19
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.85
+    },
+    {
+      "ticker": "FLY",
+      "price": 13.8
+    }
+  ]
+}

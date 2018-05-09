@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FWP",
+      "price": 2.45
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.258
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FWP",
+      "price": 2.2701
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.2596
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FWP",
+      "price": 2.2701
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.2532
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FWP",
+      "price": 2.3618
+    },
+    {
+      "ticker": "CYTX",
+      "price": 0.2559
+    }
+  ]
+}

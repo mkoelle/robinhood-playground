@@ -37,6 +37,10 @@ const trendFilter = async (Robinhood, trend) => {
             name: 'top50tso',
             trend: withTrendSinceOpen.slice(-50)
         },
+        {
+            name: 'overall',
+            trend: withTrendSinceOpen.slice(0)
+        }
     ];
 
     const getTicks = arr => arr.map(buy => buy.ticker);
@@ -65,10 +69,10 @@ const trendFilter = async (Robinhood, trend) => {
                     .slice(0, 2)
             );
             return {
-                [`${stratname}-5lowest${acronym}`]: firstFiveBySort(
+                [`${stratname}-lowest${acronym}`]: firstFiveBySort(
                     (a, b) => a[key] - b[key]
                 ),
-                [`${stratname}-5highest${acronym}`]: firstFiveBySort(
+                [`${stratname}-highest${acronym}`]: firstFiveBySort(
                     (a, b) => b[key] - a[key]
                 )
             };

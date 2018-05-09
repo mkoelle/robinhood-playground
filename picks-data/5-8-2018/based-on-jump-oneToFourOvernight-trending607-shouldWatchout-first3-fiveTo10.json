@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "EGC",
+      "price": 7.12
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGC",
+      "price": 6.92
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "METC",
+      "price": 7.315
+    },
+    {
+      "ticker": "EGC",
+      "price": 6.8408
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.3872
+    }
+  ],
+  "30": [
+    {
+      "ticker": "METC",
+      "price": 6.95
+    },
+    {
+      "ticker": "MDWD",
+      "price": 5.625
+    },
+    {
+      "ticker": "NEXT",
+      "price": 7.21
+    }
+  ]
+}

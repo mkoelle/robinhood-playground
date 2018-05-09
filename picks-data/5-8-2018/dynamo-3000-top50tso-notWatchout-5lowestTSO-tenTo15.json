@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SSP",
+      "price": 12.36
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.2
+    },
+    {
+      "ticker": "WSR",
+      "price": 11.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLFD",
+      "price": 12.05
+    },
+    {
+      "ticker": "TZOO",
+      "price": 13.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 11.25
+    },
+    {
+      "ticker": "FLWS",
+      "price": 12.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLFD",
+      "price": 12.15
+    },
+    {
+      "ticker": "MWA",
+      "price": 11.205
+    }
+  ],
+  "351": [
+    {
+      "ticker": "USDP",
+      "price": 10.95
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.595
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RLH",
+      "price": 10.05
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.95
+    }
+  ]
+}

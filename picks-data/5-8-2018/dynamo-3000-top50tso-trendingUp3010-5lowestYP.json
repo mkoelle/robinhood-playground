@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6
+    },
+    {
+      "ticker": "CREG",
+      "price": 1.9387
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AQMS",
+      "price": 3.875
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.4179
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APRN",
+      "price": 2.7
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APRN",
+      "price": 2.8
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.1301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APRN",
+      "price": 2.805
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.1301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APRN",
+      "price": 2.79
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TYME",
+      "price": 2.43
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.825
+    }
+  ]
+}

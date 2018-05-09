@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UUU",
+      "price": 2.4909
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.4103
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 1.52
+    },
+    {
+      "ticker": "UUU",
+      "price": 2.3254
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DAC",
+      "price": 1.275
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NFEC",
+      "price": 2.3199
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGY",
+      "price": 1.6068
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGY",
+      "price": 1.5825
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.2663
+    }
+  ]
+}

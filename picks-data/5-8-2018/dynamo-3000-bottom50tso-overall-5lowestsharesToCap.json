@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FSNN",
+      "price": 4.8554
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.4563
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FSNN",
+      "price": 4.76
+    },
+    {
+      "ticker": "PES",
+      "price": 4.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNE",
+      "price": 4.97
+    },
+    {
+      "ticker": "PES",
+      "price": 4.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPWH",
+      "price": 4.39
+    },
+    {
+      "ticker": "ATOS",
+      "price": 3.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATOS",
+      "price": 3.91
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNE",
+      "price": 4.93
+    },
+    {
+      "ticker": "SPWH",
+      "price": 4.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FSNN",
+      "price": 4.63
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.91
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RRD",
+      "price": 6.7512
+    },
+    {
+      "ticker": "SBS",
+      "price": 9.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRD",
+      "price": 6.8299
+    },
+    {
+      "ticker": "SBS",
+      "price": 9.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRD",
+      "price": 6.94
+    },
+    {
+      "ticker": "SBS",
+      "price": 9.025
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRD",
+      "price": 6.94
+    },
+    {
+      "ticker": "SBS",
+      "price": 9.07
+    }
+  ]
+}

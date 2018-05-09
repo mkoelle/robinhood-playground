@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGO",
+      "price": 0.9989
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.3401
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 1.4103
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHIP",
+      "price": 0.8978
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.231
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DAC",
+      "price": 1.275
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DAC",
+      "price": 1.275
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.4899
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DAC",
+      "price": 1.29
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.6068
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DAC",
+      "price": 1.2663
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.5825
+    }
+  ]
+}

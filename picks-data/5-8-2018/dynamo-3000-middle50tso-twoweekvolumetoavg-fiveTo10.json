@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PHK",
+      "price": 8.2299
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.5252
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EOD",
+      "price": 5.8001
+    },
+    {
+      "ticker": "EHI",
+      "price": 9.4363
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 5.27
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.9699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TTS",
+      "price": 6.625
+    },
+    {
+      "ticker": "XONE",
+      "price": 7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLCM",
+      "price": 6.91
+    },
+    {
+      "ticker": "CLNS",
+      "price": 6.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EBR",
+      "price": 5.15
+    },
+    {
+      "ticker": "CART",
+      "price": 8.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    },
+    {
+      "ticker": "AGC",
+      "price": 5.73
+    }
+  ]
+}

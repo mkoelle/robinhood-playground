@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CERS",
+      "price": 5.52
+    },
+    {
+      "ticker": "TTOO",
+      "price": 6.0537
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TTOO",
+      "price": 5.99
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.069
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 5.36
+    },
+    {
+      "ticker": "TTOO",
+      "price": 5.9149
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TTOO",
+      "price": 6.02
+    },
+    {
+      "ticker": "MTEM",
+      "price": 9.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERS",
+      "price": 5.415
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MTEM",
+      "price": 9.24
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SRNE",
+      "price": 6.975
+    },
+    {
+      "ticker": "QHC",
+      "price": 7.11
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "40": [
+    {
+      "ticker": "HBAN",
+      "price": 14.94
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.28
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.62
+    }
+  ],
+  "80": [
+    {
+      "ticker": "HBAN",
+      "price": 14.945
+    },
+    {
+      "ticker": "CSU",
+      "price": 10.99
+    },
+    {
+      "ticker": "BILI",
+      "price": 10.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBAN",
+      "price": 14.975
+    },
+    {
+      "ticker": "CSU",
+      "price": 11
+    },
+    {
+      "ticker": "BILI",
+      "price": 10.34
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DERM",
+      "price": 10.31
+    },
+    {
+      "ticker": "DDD",
+      "price": 10.76
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.04
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DDD",
+      "price": 10.905
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.105
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DDD",
+      "price": 11.021
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ECA",
+      "price": 13.155
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TIVO",
+      "price": 13.75
+    },
+    {
+      "ticker": "MWA",
+      "price": 11.22
+    },
+    {
+      "ticker": "VSTO",
+      "price": 13.74
+    }
+  ],
+  "80": [
+    {
+      "ticker": "YEXT",
+      "price": 13.93
+    },
+    {
+      "ticker": "MWA",
+      "price": 11.31
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBAN",
+      "price": 14.975
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.54
+    },
+    {
+      "ticker": "QD",
+      "price": 10.73
+    }
+  ],
+  "140": [
+    {
+      "ticker": "USAT",
+      "price": 10.95
+    },
+    {
+      "ticker": "YEXT",
+      "price": 13.99
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.03
+    }
+  ],
+  "198": [
+    {
+      "ticker": "YEXT",
+      "price": 13.9525
+    },
+    {
+      "ticker": "DDD",
+      "price": 10.905
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.54
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DDD",
+      "price": 11.021
+    },
+    {
+      "ticker": "YEXT",
+      "price": 13.99
+    },
+    {
+      "ticker": "TWNK",
+      "price": 13.86
+    }
+  ],
+  "300": [
+    {
+      "ticker": "YEXT",
+      "price": 14.22
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.275
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.75
+    }
+  ]
+}

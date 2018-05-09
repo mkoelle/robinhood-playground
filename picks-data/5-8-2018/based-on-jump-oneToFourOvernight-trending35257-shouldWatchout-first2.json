@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXSM",
+      "price": 3.45
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.9095
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXSM",
+      "price": 3.35
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.8827
+    }
+  ]
+}

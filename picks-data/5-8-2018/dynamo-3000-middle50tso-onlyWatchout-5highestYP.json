@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BDR",
+      "price": 1.06
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CYRN",
+      "price": 2.8316
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.8076
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 2.84
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.485
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 2.845
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENSV",
+      "price": 1.02
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OHAI",
+      "price": 1.47
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OHAI",
+      "price": 1.47
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.39
+    }
+  ]
+}

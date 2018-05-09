@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUO",
+      "price": 4.23
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AUO",
+      "price": 4.29
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AUO",
+      "price": 4.28
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.56
+    }
+  ]
+}

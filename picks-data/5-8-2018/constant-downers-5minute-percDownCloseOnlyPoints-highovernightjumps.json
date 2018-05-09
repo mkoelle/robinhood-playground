@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BLNK",
+      "price": 4.75
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.8379
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.2275
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLNK",
+      "price": 4.82
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.8
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.64
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLNK",
+      "price": 4.6
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.595
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.81
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRCP",
+      "price": 8.9777
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.28
+    },
+    {
+      "ticker": "RDHL",
+      "price": 5.485
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PRCP",
+      "price": 9.25
+    },
+    {
+      "ticker": "RDHL",
+      "price": 5.465
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.16
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PRCP",
+      "price": 9.31
+    },
+    {
+      "ticker": "RDHL",
+      "price": 5.485
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.19
+    }
+  ]
+}

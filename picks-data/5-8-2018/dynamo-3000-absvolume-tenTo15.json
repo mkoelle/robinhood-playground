@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACMR",
+      "price": 11.25
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCUT",
+      "price": 10.35
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.24
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 10.13
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SD",
+      "price": 13.92
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCI",
+      "price": 13.8
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCI",
+      "price": 13.8
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.5
+    }
+  ]
+}

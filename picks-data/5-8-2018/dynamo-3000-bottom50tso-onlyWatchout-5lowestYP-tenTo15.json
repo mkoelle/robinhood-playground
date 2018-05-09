@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 11.1375
+    },
+    {
+      "ticker": "MNK",
+      "price": 13.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.63
+    },
+    {
+      "ticker": "MNK",
+      "price": 12.9903
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.24
+    },
+    {
+      "ticker": "MNK",
+      "price": 12.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 10.13
+    },
+    {
+      "ticker": "MNK",
+      "price": 12.115
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNK",
+      "price": 12.32
+    },
+    {
+      "ticker": "OMI",
+      "price": 14.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNK",
+      "price": 12.34
+    },
+    {
+      "ticker": "SELB",
+      "price": 10.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNK",
+      "price": 12.2475
+    },
+    {
+      "ticker": "CARA",
+      "price": 12.44
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RDVT",
+      "price": 5.465
+    },
+    {
+      "ticker": "FMSA",
+      "price": 5.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FMSA",
+      "price": 5.805
+    },
+    {
+      "ticker": "TVIX",
+      "price": 6.7634
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KODK",
+      "price": 5.2106
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VXRT",
+      "price": 5.18
+    },
+    {
+      "ticker": "ATEN",
+      "price": 6.275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMP",
+      "price": 5.04
+    },
+    {
+      "ticker": "MXWL",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JMP",
+      "price": 5.04
+    },
+    {
+      "ticker": "EBR",
+      "price": 5.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BNED",
+      "price": 6.505
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.75
+    }
+  ]
+}

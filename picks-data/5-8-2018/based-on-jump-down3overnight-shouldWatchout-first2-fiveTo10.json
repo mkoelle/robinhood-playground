@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVIV",
+      "price": 7.5899
+    },
+    {
+      "ticker": "FRTA",
+      "price": 6.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVIV",
+      "price": 7.6523
+    },
+    {
+      "ticker": "FRTA",
+      "price": 6.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    },
+    {
+      "ticker": "NVIV",
+      "price": 7.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    },
+    {
+      "ticker": "NVIV",
+      "price": 7.885
+    }
+  ]
+}

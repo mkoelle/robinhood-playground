@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USAT",
+      "price": 10.15
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.199
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLFS",
+      "price": 7.95
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLFS",
+      "price": 7.72
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.53
+    }
+  ]
+}

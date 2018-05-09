@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 9.7
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.255
+    },
+    {
+      "ticker": "SMM",
+      "price": 9.79
+    },
+    {
+      "ticker": "KOS",
+      "price": 7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ETM",
+      "price": 9.5
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.64
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.255
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.3901
+    },
+    {
+      "ticker": "SMM",
+      "price": 9.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ETM",
+      "price": 8.825
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.45
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.75
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.312
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ETM",
+      "price": 8.875
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.3801
+    },
+    {
+      "ticker": "ATTU",
+      "price": 9.6
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.8
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.312
+    }
+  ]
+}
