@@ -14,7 +14,7 @@ const getTrendAndSave = require('./app-actions/get-trend-and-save');
         const trend = await getTrendAndSave(Robinhood);
 
         console.log('got trend');
-        console.log(trend);
+        // console.log(trend);
         callArgs.push(trend.filter(t => t.last_trade_price < 5));
     }
 

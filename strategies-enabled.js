@@ -31,8 +31,8 @@ const forPurchase = [
     '[12Count5-sortedByAvgTrend-uniq-first1]',
     '[12Count5-sortedByAvgTrend-uniq-first1]',
     '[5IncTodayCount3-sortedByPercUp-first1]',
-    '[4IncTodayCount3-sortedByPercUp-first1]'
-
+    '[4IncTodayCount3-sortedByPercUp-first1]',
+    '[16Count3-topPerformers95-first5]'
 ];
 
 const cheapestPicksEmailObj = [
