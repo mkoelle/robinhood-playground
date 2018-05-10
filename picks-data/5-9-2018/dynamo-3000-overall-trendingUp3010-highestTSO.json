@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMDA",
+      "price": 3.9
+    },
+    {
+      "ticker": "AHPI",
+      "price": 3.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AHPI",
+      "price": 3.0191
+    },
+    {
+      "ticker": "TRXC",
+      "price": 2.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPK",
+      "price": 3.97
+    },
+    {
+      "ticker": "AHPI",
+      "price": 3.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPK",
+      "price": 4.1984
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.507
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPK",
+      "price": 4.17
+    },
+    {
+      "ticker": "EPE",
+      "price": 2.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RGSE",
+      "price": 1.5
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.195
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RGSE",
+      "price": 1.35
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.16
+    }
+  ]
+}

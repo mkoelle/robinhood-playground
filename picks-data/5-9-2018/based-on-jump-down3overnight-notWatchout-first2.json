@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSLR",
+      "price": 3.65
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 1.47
+    },
+    {
+      "ticker": "VSLR",
+      "price": 3.6825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCC",
+      "price": 3.86
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCC",
+      "price": 3.8687
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.55
+    }
+  ]
+}

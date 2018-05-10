@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INS",
+      "price": 6.1305
+    },
+    {
+      "ticker": "EPM",
+      "price": 8.974
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHSP",
+      "price": 7.6
+    },
+    {
+      "ticker": "INS",
+      "price": 6.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INS",
+      "price": 6.2
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 6.1908
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LFGR",
+      "price": 9.5
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFGR",
+      "price": 9.175
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.8391
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFGR",
+      "price": 9.3
+    },
+    {
+      "ticker": "FSNN",
+      "price": 5.2
+    }
+  ]
+}

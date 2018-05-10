@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DCIX",
+      "price": 2.46
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DCIX",
+      "price": 3.15
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.726
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DCIX",
+      "price": 2.65
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DCIX",
+      "price": 2.819
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.29
+    }
+  ]
+}

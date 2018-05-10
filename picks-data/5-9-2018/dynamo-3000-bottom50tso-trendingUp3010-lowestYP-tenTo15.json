@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.22
+    },
+    {
+      "ticker": "PDFS",
+      "price": 11.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PDFS",
+      "price": 10.09
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KN",
+      "price": 13.5
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PDFS",
+      "price": 10.04
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PDFS",
+      "price": 10.17
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 10.17
+    },
+    {
+      "ticker": "PDFS",
+      "price": 10.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.1
+    },
+    {
+      "ticker": "PDFS",
+      "price": 10.185
+    }
+  ]
+}

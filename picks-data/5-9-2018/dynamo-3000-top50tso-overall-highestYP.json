@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 3.29
+    },
+    {
+      "ticker": "APVO",
+      "price": 4.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 3.18
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.135
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.665
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 3.785
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.9059
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 3.83
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.8966
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 3.8
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.9001
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 3.799
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.8785
+    }
+  ]
+}

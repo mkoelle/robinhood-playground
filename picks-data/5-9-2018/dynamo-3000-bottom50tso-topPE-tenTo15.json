@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "DGII",
+      "price": 12.4
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.24
+    },
+    {
+      "ticker": "EMO",
+      "price": 10.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LAKE",
+      "price": 14.9
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.67
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DGII",
+      "price": 12.2
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.325
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 11.59
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.8
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 11.57
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.4
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.694
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIND",
+      "price": 11.5
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.3
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIND",
+      "price": 11.5
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.65
+    },
+    {
+      "ticker": "PHII",
+      "price": 13
+    }
+  ]
+}

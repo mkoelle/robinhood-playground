@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRTA",
+      "price": 12.8356
+    },
+    {
+      "ticker": "ALDR",
+      "price": 13.075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTA",
+      "price": 13.2038
+    },
+    {
+      "ticker": "ALDR",
+      "price": 12.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTA",
+      "price": 12.88
+    },
+    {
+      "ticker": "ALDR",
+      "price": 13.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRTA",
+      "price": 12.57
+    },
+    {
+      "ticker": "ALDR",
+      "price": 13.725
+    }
+  ]
+}

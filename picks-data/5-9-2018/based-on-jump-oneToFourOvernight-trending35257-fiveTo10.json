@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ESV",
+      "price": 6.29
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.45
+    },
+    {
+      "ticker": "NE",
+      "price": 5.02
+    },
+    {
+      "ticker": "HEAR",
+      "price": 8.06
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ESV",
+      "price": 6.285
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.54
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.7
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.68
+    },
+    {
+      "ticker": "NE",
+      "price": 5.045
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ESV",
+      "price": 6.39
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.675
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.83
+    },
+    {
+      "ticker": "NE",
+      "price": 5.1292
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ESV",
+      "price": 6.5
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.64
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.85
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.8
+    },
+    {
+      "ticker": "NE",
+      "price": 5.19
+    }
+  ]
+}

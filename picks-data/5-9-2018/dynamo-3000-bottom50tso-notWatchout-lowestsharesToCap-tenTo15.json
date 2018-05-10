@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSTE",
+      "price": 14.5
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSTE",
+      "price": 14.25
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSTE",
+      "price": 14
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSTE",
+      "price": 13.351
+    },
+    {
+      "ticker": "COTY",
+      "price": 14.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSTE",
+      "price": 12.751
+    },
+    {
+      "ticker": "COTY",
+      "price": 14.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MTEX",
+      "price": 14.95
+    },
+    {
+      "ticker": "CSTE",
+      "price": 12.649
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MTEX",
+      "price": 14.9
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.25
+    }
+  ]
+}

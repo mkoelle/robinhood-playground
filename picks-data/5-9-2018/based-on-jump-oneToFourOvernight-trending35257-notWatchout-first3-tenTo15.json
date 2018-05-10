@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CTRE",
+      "price": 14.655
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.1
+    },
+    {
+      "ticker": "CPE",
+      "price": 14.5075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRE",
+      "price": 14.69
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.51
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRE",
+      "price": 14.675
+    },
+    {
+      "ticker": "NTRA",
+      "price": 13
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRE",
+      "price": 14.62
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.98
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ]
+}

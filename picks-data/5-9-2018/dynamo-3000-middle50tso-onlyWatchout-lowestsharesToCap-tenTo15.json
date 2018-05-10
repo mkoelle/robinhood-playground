@@ -1,0 +1,55 @@
+{
+  "4": [
+    {
+      "ticker": "FINL",
+      "price": 13.565
+    },
+    {
+      "ticker": "ITUB",
+      "price": 13.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FLEX",
+      "price": 14.32
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.6
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "ITUB",
+      "price": 13.225
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSM",
+      "price": 11.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FLEX",
+      "price": 14.295
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.3
+    }
+  ]
+}

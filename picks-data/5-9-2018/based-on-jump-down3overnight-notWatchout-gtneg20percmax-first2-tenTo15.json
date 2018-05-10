@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HZNP",
+      "price": 13.3
+    },
+    {
+      "ticker": "RDNT",
+      "price": 11.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HZNP",
+      "price": 13.32
+    },
+    {
+      "ticker": "RDNT",
+      "price": 11.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HZNP",
+      "price": 13.18
+    },
+    {
+      "ticker": "RDNT",
+      "price": 12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HZNP",
+      "price": 13.485
+    },
+    {
+      "ticker": "RDNT",
+      "price": 12.0224
+    }
+  ]
+}

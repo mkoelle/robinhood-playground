@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLBS",
+      "price": 3.7
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTHR",
+      "price": 1.11
+    },
+    {
+      "ticker": "SSY",
+      "price": 1.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSY",
+      "price": 1.41
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSY",
+      "price": 1.5
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSY",
+      "price": 1.404
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2151
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SSY",
+      "price": 1.3752
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2294
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSY",
+      "price": 1.3534
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.22
+    }
+  ]
+}

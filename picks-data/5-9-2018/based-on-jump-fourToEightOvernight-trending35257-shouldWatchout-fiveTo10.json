@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IRIX",
+      "price": 6.71
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.7199
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IRIX",
+      "price": 6.71
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IRIX",
+      "price": 6.5348
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IRIX",
+      "price": 6.4
+    },
+    {
+      "ticker": "EGC",
+      "price": 8.08
+    }
+  ]
+}

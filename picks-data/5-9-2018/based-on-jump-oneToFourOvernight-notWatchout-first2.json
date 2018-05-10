@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 4.67
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.5399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WRN",
+      "price": 0.829
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICD",
+      "price": 4.805
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WRN",
+      "price": 0.83
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    }
+  ]
+}

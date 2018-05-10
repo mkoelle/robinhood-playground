@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HEAR",
+      "price": 8.06
+    },
+    {
+      "ticker": "CERS",
+      "price": 5.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEAR",
+      "price": 8.09
+    },
+    {
+      "ticker": "CERS",
+      "price": 5.807
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XTNT",
+      "price": 7.05
+    },
+    {
+      "ticker": "HEAR",
+      "price": 7.904
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XTNT",
+      "price": 6.9531
+    },
+    {
+      "ticker": "HEAR",
+      "price": 7.6
+    }
+  ]
+}

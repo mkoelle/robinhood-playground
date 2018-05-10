@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TWMC",
+      "price": 1.25
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.42
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.1403
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.986
+    },
+    {
+      "ticker": "XBIO",
+      "price": 2.0131
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "XBIO",
+      "price": 2.0101
+    },
+    {
+      "ticker": "DYNT",
+      "price": 2.986
+    }
+  ]
+}

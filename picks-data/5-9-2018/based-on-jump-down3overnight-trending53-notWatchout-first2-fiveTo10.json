@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INOV",
+      "price": 9.5
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INOV",
+      "price": 9.5
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INOV",
+      "price": 9.525
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INOV",
+      "price": 9.5252
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    }
+  ]
+}

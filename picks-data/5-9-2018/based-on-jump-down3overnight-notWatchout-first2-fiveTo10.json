@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CSPI",
+      "price": 9.45
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CSPI",
+      "price": 8.9444
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CSPI",
+      "price": 9.4
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CSPI",
+      "price": 9.5427
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.5252
+    }
+  ]
+}

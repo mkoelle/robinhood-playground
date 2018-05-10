@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "PBPB",
+      "price": 12.175
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.655
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.1
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.45
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBPB",
+      "price": 12.3
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.69
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.51
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.275
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBPB",
+      "price": 12.38
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.675
+    },
+    {
+      "ticker": "NTRA",
+      "price": 13
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBPB",
+      "price": 12.35
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.62
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.98
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.1
+    }
+  ]
+}

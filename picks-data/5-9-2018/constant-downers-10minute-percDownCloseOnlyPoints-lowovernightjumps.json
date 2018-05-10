@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 1.01
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.7613
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 0.9002
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2151
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3102
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.831
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3129
+    }
+  ]
+}

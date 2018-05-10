@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2842
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.6162
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2833
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAUH",
+      "price": 1.0301
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.282
+    },
+    {
+      "ticker": "EGY",
+      "price": 1.6281
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DCIX",
+      "price": 2.46
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.5511
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DCIX",
+      "price": 3.15
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DCIX",
+      "price": 2.65
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DCIX",
+      "price": 2.819
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.53
+    }
+  ]
+}

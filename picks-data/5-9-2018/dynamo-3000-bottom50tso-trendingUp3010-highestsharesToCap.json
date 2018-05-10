@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IPAS",
+      "price": 0.3153
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IPAS",
+      "price": 0.3083
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.9623
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FCRE",
+      "price": 0.9434
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.205
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FCRE",
+      "price": 0.9602
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.5124
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKG",
+      "price": 1.25
+    },
+    {
+      "ticker": "AEMD",
+      "price": 1.318
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TWMC",
+      "price": 1.25
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TWMC",
+      "price": 1.25
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.19
+    }
+  ]
+}

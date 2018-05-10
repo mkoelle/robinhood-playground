@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSTG",
+      "price": 9.715
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SELB",
+      "price": 9.59
+    },
+    {
+      "ticker": "ESND",
+      "price": 9.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESND",
+      "price": 9.33
+    },
+    {
+      "ticker": "NGVC",
+      "price": 9.305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TEDU",
+      "price": 9.99
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.9559
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ESND",
+      "price": 9.52
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TEDU",
+      "price": 9.89
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.945
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TEDU",
+      "price": 9.82
+    },
+    {
+      "ticker": "FTR",
+      "price": 9.045
+    }
+  ]
+}

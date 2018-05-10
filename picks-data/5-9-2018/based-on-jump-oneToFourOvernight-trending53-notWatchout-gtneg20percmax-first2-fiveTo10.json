@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 7.45
+    },
+    {
+      "ticker": "NE",
+      "price": 5.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 7.54
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 7.64
+    },
+    {
+      "ticker": "KIN",
+      "price": 9.85
+    }
+  ]
+}

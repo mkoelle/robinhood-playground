@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "COTY",
+      "price": 14.72
+    },
+    {
+      "ticker": "CSTE",
+      "price": 12.975
+    }
+  ],
+  "280": [
+    {
+      "ticker": "CSTE",
+      "price": 12.9
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.26
+    }
+  ],
+  "328": [
+    {
+      "ticker": "MTEX",
+      "price": 14.95
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 10.85
+    }
+  ],
+  "388": [
+    {
+      "ticker": "GNPX",
+      "price": 14.4
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.305
+    }
+  ]
+}

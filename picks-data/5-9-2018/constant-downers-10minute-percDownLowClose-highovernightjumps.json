@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TWMC",
+      "price": 1.25
+    },
+    {
+      "ticker": "XBIO",
+      "price": 1.8868
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.0852
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    },
+    {
+      "ticker": "XBIO",
+      "price": 2.0131
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.3581
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ]
+}

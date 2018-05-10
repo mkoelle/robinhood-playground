@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 4.67
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.5399
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.97
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.84
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTE",
+      "price": 4.71
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.55
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.89
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.8302
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.685
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTE",
+      "price": 4.73
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.59
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.835
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.87
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTE",
+      "price": 4.725
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.6208
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.9
+    },
+    {
+      "ticker": "PGH",
+      "price": 0.8731
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.655
+    }
+  ]
+}

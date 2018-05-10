@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GOGO",
+      "price": 5.2001
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPI",
+      "price": 5.87
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.3922
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFIL",
+      "price": 5.755
+    },
+    {
+      "ticker": "RRD",
+      "price": 6.745
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SLS",
+      "price": 5.5101
+    },
+    {
+      "ticker": "ATEN",
+      "price": 6.2476
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AG",
+      "price": 6.89
+    },
+    {
+      "ticker": "EAST",
+      "price": 6.9508
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARCT",
+      "price": 5.56
+    },
+    {
+      "ticker": "RARX",
+      "price": 5.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATEN",
+      "price": 6.25
+    },
+    {
+      "ticker": "EAST",
+      "price": 6.9508
+    }
+  ]
+}

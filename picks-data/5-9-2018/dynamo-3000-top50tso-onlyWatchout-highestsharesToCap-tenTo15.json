@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LTRPA",
+      "price": 11.8
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LTRPA",
+      "price": 12.15
+    },
+    {
+      "ticker": "NSTG",
+      "price": 10.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LTRPA",
+      "price": 12.15
+    },
+    {
+      "ticker": "DF",
+      "price": 10.065
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LTRPA",
+      "price": 12.15
+    },
+    {
+      "ticker": "DF",
+      "price": 10.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGR",
+      "price": 10.15
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 12.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LTRPA",
+      "price": 11.8
+    },
+    {
+      "ticker": "DF",
+      "price": 10.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LTRPA",
+      "price": 12.05
+    },
+    {
+      "ticker": "GIFI",
+      "price": 10.15
+    }
+  ]
+}

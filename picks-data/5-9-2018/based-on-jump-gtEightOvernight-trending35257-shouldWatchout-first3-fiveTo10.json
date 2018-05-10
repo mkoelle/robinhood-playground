@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCRB",
+      "price": 8.55
+    },
+    {
+      "ticker": "ARWR",
+      "price": 8.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MCRB",
+      "price": 8.39
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCRB",
+      "price": 8.5
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCRB",
+      "price": 8.51
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.1
+    }
+  ]
+}

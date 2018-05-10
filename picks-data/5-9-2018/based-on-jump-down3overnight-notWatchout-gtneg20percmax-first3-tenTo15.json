@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HZNP",
+      "price": 13.3
+    },
+    {
+      "ticker": "RDNT",
+      "price": 11.75
+    },
+    {
+      "ticker": "CBAY",
+      "price": 11.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HZNP",
+      "price": 13.32
+    },
+    {
+      "ticker": "RDNT",
+      "price": 11.65
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HZNP",
+      "price": 13.18
+    },
+    {
+      "ticker": "RDNT",
+      "price": 12
+    },
+    {
+      "ticker": "FBM",
+      "price": 14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HZNP",
+      "price": 13.485
+    },
+    {
+      "ticker": "RDNT",
+      "price": 12.0224
+    },
+    {
+      "ticker": "FBM",
+      "price": 13.53
+    }
+  ]
+}

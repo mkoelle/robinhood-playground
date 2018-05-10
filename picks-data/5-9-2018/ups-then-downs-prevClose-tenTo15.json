@@ -1,0 +1,53 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "LAKE",
+      "price": 14.831
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAKE",
+      "price": 14.8
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.71
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LAKE",
+      "price": 14.7156
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.525
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SCPH",
+      "price": 14.35
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.65
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SCPH",
+      "price": 14.32
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.6
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.24
+    }
+  ]
+}

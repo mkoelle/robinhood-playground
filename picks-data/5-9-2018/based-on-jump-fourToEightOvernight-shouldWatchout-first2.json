@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.748
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TOPS",
+      "price": 1.82
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TOPS",
+      "price": 1.6719
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAUH",
+      "price": 1.0301
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.7199
+    }
+  ]
+}

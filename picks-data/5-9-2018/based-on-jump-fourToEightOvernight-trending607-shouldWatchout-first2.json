@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2842
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAUH",
+      "price": 1.16
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2833
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAUH",
+      "price": 1.0301
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.282
+    }
+  ]
+}

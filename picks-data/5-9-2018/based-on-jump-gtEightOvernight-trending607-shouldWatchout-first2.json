@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MVIS",
+      "price": 1.5511
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MVIS",
+      "price": 1.63
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.726
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MVIS",
+      "price": 1.575
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MVIS",
+      "price": 1.53
+    },
+    {
+      "ticker": "AMDA",
+      "price": 3.29
+    }
+  ]
+}

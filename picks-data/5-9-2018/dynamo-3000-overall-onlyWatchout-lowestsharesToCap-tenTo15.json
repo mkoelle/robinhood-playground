@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMI",
+      "price": 14.87
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QTNA",
+      "price": 14.69
+    },
+    {
+      "ticker": "EZPW",
+      "price": 13.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMI",
+      "price": 14.88
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMI",
+      "price": 14.97
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.765
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.77
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CHK",
+      "price": 3.285
+    },
+    {
+      "ticker": "NCTY",
+      "price": 2.9352
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.72
+    }
+  ],
+  "80": [
+    {
+      "ticker": "OCSL",
+      "price": 4.78
+    },
+    {
+      "ticker": "NCTY",
+      "price": 2.2562
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.665
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IDRA",
+      "price": 1.75
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.6616
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.7188
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OPK",
+      "price": 3.985
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.26
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.185
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AGEN",
+      "price": 3.3528
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.18
+    },
+    {
+      "ticker": "OHGI",
+      "price": 1.0895
+    }
+  ],
+  "250": [
+    {
+      "ticker": "OPK",
+      "price": 4.185
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.175
+    },
+    {
+      "ticker": "LC",
+      "price": 3.515
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OPK",
+      "price": 4.195
+    },
+    {
+      "ticker": "LC",
+      "price": 3.59
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.47
+    }
+  ]
+}

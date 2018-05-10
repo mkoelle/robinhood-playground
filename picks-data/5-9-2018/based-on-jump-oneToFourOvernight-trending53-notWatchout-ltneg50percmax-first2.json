@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRKR",
+      "price": 0.77
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRKR",
+      "price": 0.75
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.43
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRKR",
+      "price": 0.76
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.432
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRKR",
+      "price": 0.76
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.4319
+    }
+  ]
+}

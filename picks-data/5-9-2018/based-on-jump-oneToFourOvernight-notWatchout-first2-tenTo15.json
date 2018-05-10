@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBPB",
+      "price": 12.175
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.655
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBPB",
+      "price": 12.3
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBPB",
+      "price": 12.38
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBPB",
+      "price": 12.35
+    },
+    {
+      "ticker": "CTRE",
+      "price": 14.62
+    }
+  ]
+}

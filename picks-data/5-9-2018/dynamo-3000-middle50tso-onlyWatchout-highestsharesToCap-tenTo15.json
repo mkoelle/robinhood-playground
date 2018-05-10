@@ -1,0 +1,55 @@
+{
+  "4": [
+    {
+      "ticker": "TELL",
+      "price": 10.221
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCXI",
+      "price": 11.21
+    },
+    {
+      "ticker": "FLEX",
+      "price": 14.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.6
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "CCXI",
+      "price": 11.21
+    },
+    {
+      "ticker": "ITUB",
+      "price": 13.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSM",
+      "price": 11.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSM",
+      "price": 11.3
+    },
+    {
+      "ticker": "FLEX",
+      "price": 14.295
+    }
+  ]
+}

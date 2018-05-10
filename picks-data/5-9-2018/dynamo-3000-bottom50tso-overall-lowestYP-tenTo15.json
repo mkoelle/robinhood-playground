@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSTE",
+      "price": 14.5
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSTE",
+      "price": 14.25
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTA",
+      "price": 12.27
+    },
+    {
+      "ticker": "CSTE",
+      "price": 14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 13.5153
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.351
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 13.445
+    },
+    {
+      "ticker": "CSTE",
+      "price": 12.751
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 13.365
+    },
+    {
+      "ticker": "CSTE",
+      "price": 12.649
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 13.25
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.25
+    }
+  ]
+}

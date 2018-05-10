@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "PTN",
+      "price": 1.24
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PTN",
+      "price": 1.2
+    },
+    {
+      "ticker": "PES",
+      "price": 4.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PTN",
+      "price": 1.195
+    },
+    {
+      "ticker": "PES",
+      "price": 4.85
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTN",
+      "price": 1.18
+    },
+    {
+      "ticker": "PES",
+      "price": 4.825
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.5689
+    }
+  ]
+}

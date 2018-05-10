@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EDF",
+      "price": 14.47
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PQG",
+      "price": 14.52
+    },
+    {
+      "ticker": "SD",
+      "price": 14.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APB",
+      "price": 14.41
+    },
+    {
+      "ticker": "SD",
+      "price": 14.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RRC",
+      "price": 14.985
+    },
+    {
+      "ticker": "SD",
+      "price": 14.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SD",
+      "price": 14.64
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANGI",
+      "price": 14.35
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.6701
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANGI",
+      "price": 14.3494
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.91
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMTX",
+      "price": 2.34
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.2052
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXAS",
+      "price": 2.815
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXAS",
+      "price": 2.755
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.49
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTHR",
+      "price": 1.2462
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTHR",
+      "price": 1.2151
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTHR",
+      "price": 1.2294
+    },
+    {
+      "ticker": "HSON",
+      "price": 1.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GRPN",
+      "price": 4.905
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.22
+    }
+  ]
+}

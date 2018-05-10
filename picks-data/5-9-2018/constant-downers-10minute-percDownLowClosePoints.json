@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 1.01
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.389
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.568
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 0.9002
+    },
+    {
+      "ticker": "AMDA",
+      "price": 2.361
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.4008
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.831
+    },
+    {
+      "ticker": "AMDA",
+      "price": 2.58
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.4082
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBPB",
+      "price": 12.175
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBPB",
+      "price": 12.3
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBPB",
+      "price": 12.38
+    },
+    {
+      "ticker": "NTRA",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBPB",
+      "price": 12.35
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.98
+    }
+  ]
+}

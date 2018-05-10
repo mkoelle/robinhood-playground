@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DCIX",
+      "price": 3
+    },
+    {
+      "ticker": "LPCN",
+      "price": 1.1919
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DCIX",
+      "price": 2.79
+    },
+    {
+      "ticker": "SES",
+      "price": 3.17
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 2.98
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.0201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RGSE",
+      "price": 1.0401
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.508
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 2.77
+    },
+    {
+      "ticker": "SES",
+      "price": 3.2527
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SES",
+      "price": 3.2527
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.4944
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMUC",
+      "price": 0.291
+    },
+    {
+      "ticker": "SES",
+      "price": 3.2527
+    }
+  ]
+}

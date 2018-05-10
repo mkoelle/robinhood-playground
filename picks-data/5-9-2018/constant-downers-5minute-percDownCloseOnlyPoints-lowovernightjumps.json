@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 1.01
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3015
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 0.9002
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2151
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.625
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.831
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.2
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.7
+    }
+  ]
+}

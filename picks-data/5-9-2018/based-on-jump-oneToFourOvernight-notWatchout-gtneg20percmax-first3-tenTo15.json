@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PBPB",
+      "price": 12.175
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.1
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBPB",
+      "price": 12.3
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.51
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBPB",
+      "price": 12.38
+    },
+    {
+      "ticker": "NTRA",
+      "price": 13
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBPB",
+      "price": 12.35
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.98
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ]
+}

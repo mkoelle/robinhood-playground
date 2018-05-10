@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.22
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KTOS",
+      "price": 10.565
+    },
+    {
+      "ticker": "BHR",
+      "price": 10.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OAS",
+      "price": 11.56
+    },
+    {
+      "ticker": "KTOS",
+      "price": 10.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OAS",
+      "price": 11.575
+    },
+    {
+      "ticker": "BHR",
+      "price": 10.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OAS",
+      "price": 11.58
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OAS",
+      "price": 11.51
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.188
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OAS",
+      "price": 11.435
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.2002
+    }
+  ]
+}

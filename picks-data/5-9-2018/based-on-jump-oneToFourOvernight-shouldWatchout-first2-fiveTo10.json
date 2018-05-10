@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOGO",
+      "price": 5.25
+    },
+    {
+      "ticker": "HEAR",
+      "price": 8.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOGO",
+      "price": 5.19
+    },
+    {
+      "ticker": "HEAR",
+      "price": 8.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XTNT",
+      "price": 7.05
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.4605
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XTNT",
+      "price": 6.9531
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.33
+    }
+  ]
+}

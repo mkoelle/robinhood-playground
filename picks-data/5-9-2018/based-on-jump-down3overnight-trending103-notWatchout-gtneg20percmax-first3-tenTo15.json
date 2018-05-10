@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "HZNP",
+      "price": 13.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HZNP",
+      "price": 13.32
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HZNP",
+      "price": 13.18
+    },
+    {
+      "ticker": "FBM",
+      "price": 14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HZNP",
+      "price": 13.485
+    },
+    {
+      "ticker": "FBM",
+      "price": 13.53
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 11.93
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.48
+    },
+    {
+      "ticker": "CPE",
+      "price": 14.5075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 11.87
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.28
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.4152
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OAS",
+      "price": 11.7499
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.295
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.3794
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OAS",
+      "price": 11.65
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.2199
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.34
+    }
+  ]
+}

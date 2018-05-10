@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BLNK",
+      "price": 5.42
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLNK",
+      "price": 5.18
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.32
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLNK",
+      "price": 5.1
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLNK",
+      "price": 5.02
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.42
+    }
+  ]
+}

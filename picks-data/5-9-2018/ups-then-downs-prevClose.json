@@ -1,0 +1,130 @@
+{
+  "10": [
+    {
+      "ticker": "IPAS",
+      "price": 0.3191
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.75
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.6646
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.6
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.32
+    }
+  ],
+  "50": [
+    {
+      "ticker": "IPAS",
+      "price": 0.3053
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.5499
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.63
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.295
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UUU",
+      "price": 1.475
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3126
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.37
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.6201
+    },
+    {
+      "ticker": "APRN",
+      "price": 2.65
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UUU",
+      "price": 1.506
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3129
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.61
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.4159
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.24
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UUU",
+      "price": 1.5042
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.3149
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.37
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.63
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.195
+    }
+  ],
+  "600": [
+    {
+      "ticker": "UUU",
+      "price": 1.55
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.315
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.6
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.19
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.44
+    }
+  ]
+}

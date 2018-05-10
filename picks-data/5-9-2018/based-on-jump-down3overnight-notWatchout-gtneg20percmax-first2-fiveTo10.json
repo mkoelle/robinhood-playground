@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.0003
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "EPM",
+      "price": 8.994
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DLHC",
+      "price": 5.52
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DLHC",
+      "price": 5.52
+    },
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    }
+  ]
+}

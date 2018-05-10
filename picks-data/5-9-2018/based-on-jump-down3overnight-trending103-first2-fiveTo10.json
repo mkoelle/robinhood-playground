@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EXTR",
+      "price": 8.825
+    },
+    {
+      "ticker": "NPTN",
+      "price": 5.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EXTR",
+      "price": 9.04
+    },
+    {
+      "ticker": "NPTN",
+      "price": 5.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EXTR",
+      "price": 9.0099
+    },
+    {
+      "ticker": "NPTN",
+      "price": 5.678
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EXTR",
+      "price": 9.0601
+    },
+    {
+      "ticker": "NPTN",
+      "price": 5.79
+    }
+  ]
+}

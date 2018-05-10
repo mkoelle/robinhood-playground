@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 9.1643
+    },
+    {
+      "ticker": "LGCY",
+      "price": 7.13
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ARWR",
+      "price": 9.29
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LGCY",
+      "price": 6.93
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.0899
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ARWR",
+      "price": 8.92
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.9463
+    }
+  ],
+  "198": [
+    {
+      "ticker": "LGCY",
+      "price": 6.9865
+    },
+    {
+      "ticker": "ARWR",
+      "price": 8.95
+    }
+  ],
+  "250": [
+    {
+      "ticker": "LGCY",
+      "price": 6.985
+    },
+    {
+      "ticker": "ARWR",
+      "price": 8.83
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LGCY",
+      "price": 7.32
+    },
+    {
+      "ticker": "ARWR",
+      "price": 8.98
+    }
+  ]
+}

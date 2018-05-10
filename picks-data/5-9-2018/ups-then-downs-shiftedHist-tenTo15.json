@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "ECYT",
+      "price": 11.17
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ACMR",
+      "price": 11.64
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACMR",
+      "price": 11.93
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.6536
+    },
+    {
+      "ticker": "ATTU",
+      "price": 10.01
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ACMR",
+      "price": 11.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.825
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ACMR",
+      "price": 11.67
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.08
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ACMR",
+      "price": 11.75
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12
+    }
+  ]
+}

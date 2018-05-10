@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INS",
+      "price": 5.8
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.5458
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INS",
+      "price": 6.1305
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INS",
+      "price": 6.2546
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INS",
+      "price": 6.16
+    },
+    {
+      "ticker": "ARCO",
+      "price": 8.4
+    }
+  ]
+}

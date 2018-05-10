@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZAGG",
+      "price": 14.65
+    },
+    {
+      "ticker": "SIEB",
+      "price": 11.471
+    }
+  ],
+  "40": [
+    {
+      "ticker": "I",
+      "price": 13.1157
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 12.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "I",
+      "price": 13.205
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 12.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNK",
+      "price": 14.055
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.5212
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIEB",
+      "price": 12.4732
+    },
+    {
+      "ticker": "MNK",
+      "price": 13.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSTG",
+      "price": 11.18
+    },
+    {
+      "ticker": "MNK",
+      "price": 13.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSTG",
+      "price": 11.2
+    },
+    {
+      "ticker": "MNK",
+      "price": 13.74
+    }
+  ]
+}

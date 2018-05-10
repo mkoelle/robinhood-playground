@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 3.2
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.14
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.655
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DHT",
+      "price": 3.8049
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.545
+    },
+    {
+      "ticker": "OCSL",
+      "price": 4.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DHT",
+      "price": 3.805
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.569
+    },
+    {
+      "ticker": "ASNA",
+      "price": 2.21
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DHT",
+      "price": 3.85
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.515
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.93
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DHT",
+      "price": 3.9
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.18
+    },
+    {
+      "ticker": "LC",
+      "price": 3.47
+    }
+  ],
+  "250": [
+    {
+      "ticker": "OPK",
+      "price": 4.185
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6776
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.175
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LC",
+      "price": 3.59
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6801
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.47
+    }
+  ]
+}

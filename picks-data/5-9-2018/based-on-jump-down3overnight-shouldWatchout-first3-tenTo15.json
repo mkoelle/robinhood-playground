@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PRTA",
+      "price": 12.8356
+    },
+    {
+      "ticker": "SELB",
+      "price": 10.0511
+    },
+    {
+      "ticker": "EZPW",
+      "price": 14.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTA",
+      "price": 13.2038
+    },
+    {
+      "ticker": "SELB",
+      "price": 10.04
+    },
+    {
+      "ticker": "EZPW",
+      "price": 13.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTA",
+      "price": 12.88
+    },
+    {
+      "ticker": "EZPW",
+      "price": 13.8
+    },
+    {
+      "ticker": "ALDR",
+      "price": 13.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRTA",
+      "price": 12.57
+    },
+    {
+      "ticker": "EZPW",
+      "price": 13.8
+    },
+    {
+      "ticker": "ALDR",
+      "price": 13.725
+    }
+  ]
+}

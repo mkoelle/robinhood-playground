@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NEON",
+      "price": 0.44
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NEON",
+      "price": 0.43
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NEON",
+      "price": 0.432
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NEON",
+      "price": 0.4319
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.103
+    }
+  ]
+}

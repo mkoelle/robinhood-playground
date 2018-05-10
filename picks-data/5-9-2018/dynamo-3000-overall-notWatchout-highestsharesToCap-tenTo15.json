@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMGN",
+      "price": 10.1
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.0801
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GPOR",
+      "price": 10.295
+    },
+    {
+      "ticker": "PXJ",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LCUT",
+      "price": 10.65
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRR",
+      "price": 10.0689
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.595
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCUT",
+      "price": 10.65
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.135
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCUT",
+      "price": 10.65
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.3324
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCUT",
+      "price": 10.65
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.345
+    }
+  ]
+}

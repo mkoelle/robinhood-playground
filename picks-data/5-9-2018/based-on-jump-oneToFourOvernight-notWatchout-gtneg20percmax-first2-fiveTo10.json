@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INS",
+      "price": 5.8
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INS",
+      "price": 6.1305
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INS",
+      "price": 6.2546
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INS",
+      "price": 6.16
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.64
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "HEAR",
+      "price": 7.4623
+    },
+    {
+      "ticker": "NGVC",
+      "price": 9.224
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HEAR",
+      "price": 7.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HEAR",
+      "price": 7.1602
+    },
+    {
+      "ticker": "EVRI",
+      "price": 7.67
+    }
+  ],
+  "380": [
+    {
+      "ticker": "HEAR",
+      "price": 6.9792
+    },
+    {
+      "ticker": "EVRI",
+      "price": 7.55
+    }
+  ],
+  "600": [
+    {
+      "ticker": "HEAR",
+      "price": 6.94
+    },
+    {
+      "ticker": "EVRI",
+      "price": 7.55
+    }
+  ]
+}

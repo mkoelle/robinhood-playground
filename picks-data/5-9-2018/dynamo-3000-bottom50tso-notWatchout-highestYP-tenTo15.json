@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 10.25
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDXS",
+      "price": 11.55
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.135
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRC",
+      "price": 11.3501
+    },
+    {
+      "ticker": "REPH",
+      "price": 10.9753
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FENC",
+      "price": 11.7997
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FENC",
+      "price": 11.66
+    },
+    {
+      "ticker": "REPH",
+      "price": 11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRNA",
+      "price": 14.65
+    },
+    {
+      "ticker": "FENC",
+      "price": 11.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FENC",
+      "price": 11.6
+    },
+    {
+      "ticker": "CBAY",
+      "price": 11.6
+    }
+  ]
+}

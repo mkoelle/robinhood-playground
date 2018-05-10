@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NTRA",
+      "price": 12.1
+    },
+    {
+      "ticker": "REPH",
+      "price": 11.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NTRA",
+      "price": 12.51
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTRA",
+      "price": 13
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTRA",
+      "price": 12.98
+    },
+    {
+      "ticker": "GDP",
+      "price": 13
+    }
+  ]
+}

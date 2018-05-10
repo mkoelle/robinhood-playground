@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 7.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GFN",
+      "price": 9.45
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 7.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GFN",
+      "price": 9.5
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.41
+    }
+  ]
+}

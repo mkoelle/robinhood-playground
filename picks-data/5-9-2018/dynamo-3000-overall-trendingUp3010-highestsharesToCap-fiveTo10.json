@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GRPN",
+      "price": 5.29
+    },
+    {
+      "ticker": "NE",
+      "price": 5.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GRPN",
+      "price": 5.36
+    },
+    {
+      "ticker": "NE",
+      "price": 5.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GRPN",
+      "price": 5.19
+    },
+    {
+      "ticker": "NE",
+      "price": 5.285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GRPN",
+      "price": 5.08
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.0938
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICD",
+      "price": 5.005
+    },
+    {
+      "ticker": "GRPN",
+      "price": 5.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GRPN",
+      "price": 5.015
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.124
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KERX",
+      "price": 5.17
+    },
+    {
+      "ticker": "NE",
+      "price": 5.175
+    }
+  ]
+}

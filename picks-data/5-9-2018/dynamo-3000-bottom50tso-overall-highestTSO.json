@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AEMD",
+      "price": 1.4
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.475
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OPGN",
+      "price": 1.862
+    },
+    {
+      "ticker": "CLBS",
+      "price": 4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPGN",
+      "price": 1.8399
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.49
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKG",
+      "price": 1.29
+    },
+    {
+      "ticker": "NETS",
+      "price": 4.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRYS",
+      "price": 3.71
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSAR",
+      "price": 1.4
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYPR",
+      "price": 1.41
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.65
+    }
+  ]
+}

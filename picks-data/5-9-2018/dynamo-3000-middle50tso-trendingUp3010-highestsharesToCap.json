@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABIO",
+      "price": 0.5278
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PED",
+      "price": 0.3436
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NM",
+      "price": 0.804
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYTR",
+      "price": 1.9462
+    },
+    {
+      "ticker": "KLDX",
+      "price": 2.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MBOT",
+      "price": 0.8799
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.9106
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OVAS",
+      "price": 0.9071
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.5276
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCG",
+      "price": 1.5276
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.93
+    }
+  ]
+}

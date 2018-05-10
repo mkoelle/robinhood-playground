@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMTX",
+      "price": 2.34
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.7492
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXAS",
+      "price": 2.815
+    },
+    {
+      "ticker": "SANW",
+      "price": 3.5501
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXAS",
+      "price": 2.755
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.805
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRPH",
+      "price": 3.7461
+    },
+    {
+      "ticker": "SSY",
+      "price": 1.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SANW",
+      "price": 3.55
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TEUM",
+      "price": 2.55
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.71
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TEUM",
+      "price": 2.51
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.905
+    }
+  ]
+}

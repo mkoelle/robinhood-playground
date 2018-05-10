@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBOT",
+      "price": 0.88
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.406
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBOT",
+      "price": 0.8789
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.465
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBOT",
+      "price": 0.8751
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.465
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBOT",
+      "price": 0.87
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.54
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPCN",
+      "price": 1.073
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.8101
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPCN",
+      "price": 1.1782
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPCN",
+      "price": 1.07
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPCN",
+      "price": 1.094
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.8
+    }
+  ]
+}
