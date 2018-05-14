@@ -27,12 +27,22 @@ const longtermhot = [
 ];
 
 const forPurchase = [
-
-    '[12Count5-sortedByAvgTrend-uniq-first1]',
-    '[12Count5-sortedByAvgTrend-uniq-first1]',
-    '[5IncTodayCount3-sortedByPercUp-first1]',
-    '[4IncTodayCount3-sortedByPercUp-first1]',
-    '[16Count3-topPerformers95-first5]'
+    'constant-downers-5minute-percDownCloseOnly-filtered40-fiveTo10-77',
+    'sudden-drops-last5trend-fiveTo10-328',
+    'dynamo-3000-bottom50tso-notWatchout-lowestTSO-381',
+    'dynamo-3000-bottom50tso-overall-lowestsharesToCap-4',
+    'sudden-drops-last5trend-fiveTo10-328',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-150',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-150',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-210',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown3to10-tenTo15-6',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend3to5-6',
+    'sudden-drops-last1trend-first1-fiveTo10-63',
+    'ups-then-downs-prevClose-fiveTo10-200',
+    'sudden-drops-last50trend-first1-328',
+    'based-on-jump-fourToEightOvernight-trending607-notWatchout-first1-fiveTo10-0',
+    'dynamo-3000-bottom50tso-absvolume-381',
+    'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-tenTo15-16'
 ];
 
 const cheapestPicksEmailObj = [
