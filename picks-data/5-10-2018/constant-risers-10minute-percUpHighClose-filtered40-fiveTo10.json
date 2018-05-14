@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 9.42
+    },
+    {
+      "ticker": "MRAM",
+      "price": 8.91
+    },
+    {
+      "ticker": "AG",
+      "price": 6.92
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AG",
+      "price": 7.06
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.12
+    },
+    {
+      "ticker": "NVTA",
+      "price": 6.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BKCC",
+      "price": 6.12
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.36
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.055
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CRON",
+      "price": 5.6
+    },
+    {
+      "ticker": "NCMI",
+      "price": 6.99
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.935
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GOGO",
+      "price": 5.78
+    },
+    {
+      "ticker": "NBR",
+      "price": 7.885
+    },
+    {
+      "ticker": "AG",
+      "price": 7.2401
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GOGO",
+      "price": 5.85
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.035
+    },
+    {
+      "ticker": "SIRI",
+      "price": 6.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PSEC",
+      "price": 6.535
+    },
+    {
+      "ticker": "NVTA",
+      "price": 6.53
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.13
+    }
+  ]
+}

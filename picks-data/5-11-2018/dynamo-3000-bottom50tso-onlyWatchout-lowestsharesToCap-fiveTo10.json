@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 9.545
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.275
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 9.55
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBD",
+      "price": 9.13
+    },
+    {
+      "ticker": "GOL",
+      "price": 8.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GOL",
+      "price": 8.68
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QBAK",
+      "price": 9.75
+    },
+    {
+      "ticker": "GOL",
+      "price": 8.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QBAK",
+      "price": 9.9298
+    },
+    {
+      "ticker": "GOL",
+      "price": 8.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QBAK",
+      "price": 9.98
+    },
+    {
+      "ticker": "GOL",
+      "price": 8.77
+    }
+  ]
+}

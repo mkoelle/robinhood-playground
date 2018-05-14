@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVTA",
+      "price": 6.12
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVTA",
+      "price": 6.4
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVTA",
+      "price": 6.44
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVTA",
+      "price": 6.6259
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.975
+    }
+  ]
+}

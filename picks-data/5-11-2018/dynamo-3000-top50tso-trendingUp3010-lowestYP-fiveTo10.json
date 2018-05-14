@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RARX",
+      "price": 6.29
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RARX",
+      "price": 6.47
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPRO",
+      "price": 5.71
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.081
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 5.9332
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JILL",
+      "price": 5.51
+    },
+    {
+      "ticker": "VOXX",
+      "price": 5.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRAN",
+      "price": 5.5175
+    },
+    {
+      "ticker": "VOXX",
+      "price": 5.375
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRAN",
+      "price": 5.555
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.401
+    }
+  ]
+}

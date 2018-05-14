@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "SKIS",
+      "price": 4.9544
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.638
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.1
+    },
+    {
+      "ticker": "PER",
+      "price": 2.4
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SKIS",
+      "price": 4.9544
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.1
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.638
+    },
+    {
+      "ticker": "PER",
+      "price": 2.4
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SKIS",
+      "price": 4.893
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.1
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.6365
+    },
+    {
+      "ticker": "PER",
+      "price": 2.35
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SKIS",
+      "price": 4.893
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.638
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.1
+    },
+    {
+      "ticker": "IEC",
+      "price": 4.9
+    },
+    {
+      "ticker": "PER",
+      "price": 2.35
+    }
+  ]
+}

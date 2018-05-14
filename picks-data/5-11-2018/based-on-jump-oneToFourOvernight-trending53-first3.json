@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VBIV",
+      "price": 3.25
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VBIV",
+      "price": 3.25
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVUS",
+      "price": 4.8195
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.2301
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVUS",
+      "price": 4.6497
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.22
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    }
+  ]
+}

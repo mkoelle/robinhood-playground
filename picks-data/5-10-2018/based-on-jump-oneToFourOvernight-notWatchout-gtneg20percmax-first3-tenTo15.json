@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HCLP",
+      "price": 13.7517
+    },
+    {
+      "ticker": "ADAP",
+      "price": 14.1
+    },
+    {
+      "ticker": "UGLD",
+      "price": 11.1741
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ERA",
+      "price": 12.409
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.8
+    },
+    {
+      "ticker": "ADAP",
+      "price": 14.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ERA",
+      "price": 12.409
+    },
+    {
+      "ticker": "MRT",
+      "price": 10.85
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOR",
+      "price": 12.7901
+    },
+    {
+      "ticker": "ERA",
+      "price": 12.2415
+    },
+    {
+      "ticker": "MRT",
+      "price": 10.9
+    }
+  ]
+}

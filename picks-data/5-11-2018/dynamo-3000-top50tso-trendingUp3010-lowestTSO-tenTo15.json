@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 10.29
+    },
+    {
+      "ticker": "ANGI",
+      "price": 14.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 11.6
+    },
+    {
+      "ticker": "WHF",
+      "price": 13.8638
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FLY",
+      "price": 14.55
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MSON",
+      "price": 12.3
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.9901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MSON",
+      "price": 12.3
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BRT",
+      "price": 12.84
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.165
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRNA",
+      "price": 14.485
+    },
+    {
+      "ticker": "USAT",
+      "price": 12.3
+    }
+  ]
+}

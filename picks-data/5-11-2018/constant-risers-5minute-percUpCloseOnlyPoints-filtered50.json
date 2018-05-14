@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "INVE",
+      "price": 3.85
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.63
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.585
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ANFI",
+      "price": 3.1001
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.44
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0412
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANFI",
+      "price": 3.12
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.42
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.7708
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ANFI",
+      "price": 2.95
+    },
+    {
+      "ticker": "SMRT",
+      "price": 2.9
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.38
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ANFI",
+      "price": 3.04
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.66
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.81
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SGYP",
+      "price": 1.7134
+    },
+    {
+      "ticker": "SHLD",
+      "price": 3.5025
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.795
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SGYP",
+      "price": 1.805
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.4283
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.6899
+    }
+  ]
+}

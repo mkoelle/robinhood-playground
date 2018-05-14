@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.735
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.63
+    },
+    {
+      "ticker": "TZA",
+      "price": 10.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6671
+    },
+    {
+      "ticker": "GE",
+      "price": 14.565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMT",
+      "price": 14.42
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMT",
+      "price": 14.39
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BCOM",
+      "price": 11.06
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCOM",
+      "price": 11.1
+    },
+    {
+      "ticker": "CMT",
+      "price": 13.98
+    }
+  ]
+}

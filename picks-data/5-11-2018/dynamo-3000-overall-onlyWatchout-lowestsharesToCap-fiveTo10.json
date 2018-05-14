@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.74
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.67
+    },
+    {
+      "ticker": "ABCD",
+      "price": 9.986
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.67
+    },
+    {
+      "ticker": "ABCD",
+      "price": 9.9983
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.75
+    },
+    {
+      "ticker": "ESND",
+      "price": 9.995
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.75
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.65
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.9298
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.65
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.98
+    }
+  ]
+}

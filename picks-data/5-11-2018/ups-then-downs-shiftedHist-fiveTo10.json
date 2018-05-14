@@ -1,0 +1,50 @@
+{
+  "10": [
+    {
+      "ticker": "EGC",
+      "price": 7.1649
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.15
+    }
+  ],
+  "50": [
+    {
+      "ticker": "EGC",
+      "price": 6.98
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGC",
+      "price": 6.93
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.405
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FAT",
+      "price": 6.22
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FAT",
+      "price": 6.401
+    }
+  ],
+  "600": [
+    {
+      "ticker": "FAT",
+      "price": 6.39
+    }
+  ]
+}

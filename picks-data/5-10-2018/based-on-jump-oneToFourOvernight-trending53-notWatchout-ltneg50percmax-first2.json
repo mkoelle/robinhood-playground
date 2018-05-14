@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PEIX",
+      "price": 3.4932
+    },
+    {
+      "ticker": "NURO",
+      "price": 1.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2488
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2488
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2436
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.5425
+    }
+  ]
+}

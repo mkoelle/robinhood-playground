@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CVON",
+      "price": 9.05
+    },
+    {
+      "ticker": "GNMK",
+      "price": 7.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CVON",
+      "price": 9.0083
+    },
+    {
+      "ticker": "GNMK",
+      "price": 7.205
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CVON",
+      "price": 8.9859
+    },
+    {
+      "ticker": "GNMK",
+      "price": 7.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CVON",
+      "price": 8.85
+    },
+    {
+      "ticker": "GNMK",
+      "price": 7.28
+    }
+  ]
+}

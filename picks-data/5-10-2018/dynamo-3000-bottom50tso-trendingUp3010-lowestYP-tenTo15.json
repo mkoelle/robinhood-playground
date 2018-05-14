@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DF",
+      "price": 10.1701
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 10.75
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.889
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSH",
+      "price": 11.995
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSH",
+      "price": 12.09
+    },
+    {
+      "ticker": "GEOS",
+      "price": 10.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 12.2569
+    },
+    {
+      "ticker": "NSH",
+      "price": 11.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.36
+    },
+    {
+      "ticker": "NSH",
+      "price": 11.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 11.52
+    },
+    {
+      "ticker": "NSH",
+      "price": 12.075
+    }
+  ]
+}

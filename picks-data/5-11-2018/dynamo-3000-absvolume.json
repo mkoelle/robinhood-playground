@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OBLN",
+      "price": 2.75
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.5393
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OBLN",
+      "price": 2.895
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.5764
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OBLN",
+      "price": 3
+    },
+    {
+      "ticker": "ANFI",
+      "price": 3.1063
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIVE",
+      "price": 1.6132
+    },
+    {
+      "ticker": "ANFI",
+      "price": 3.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIVE",
+      "price": 1.8699
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OBLN",
+      "price": 2.84
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.9301
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBLN",
+      "price": 2.8401
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.9193
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "HEAR",
+      "price": 11.22
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.655
+    }
+  ],
+  "50": [
+    {
+      "ticker": "HEAR",
+      "price": 13.2956
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.5625
+    },
+    {
+      "ticker": "OBSV",
+      "price": 13.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HEAR",
+      "price": 11.601
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.48
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.66
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HEAR",
+      "price": 11.3
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.66
+    }
+  ],
+  "380": [
+    {
+      "ticker": "HEAR",
+      "price": 11.63
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.35
+    }
+  ],
+  "600": [
+    {
+      "ticker": "HEAR",
+      "price": 11.42
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.39
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.6
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.315
+    }
+  ]
+}

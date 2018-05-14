@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PER",
+      "price": 2.4
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.21
+    },
+    {
+      "ticker": "EVK",
+      "price": 4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PER",
+      "price": 2.4
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.21
+    },
+    {
+      "ticker": "EVK",
+      "price": 4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PER",
+      "price": 2.35
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.5063
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 4.9
+    },
+    {
+      "ticker": "PER",
+      "price": 2.35
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.22
+    }
+  ]
+}

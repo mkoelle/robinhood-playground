@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "S",
+      "price": 5.205
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASX",
+      "price": 5.205
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PPR",
+      "price": 5.135
+    },
+    {
+      "ticker": "TSI",
+      "price": 5.467
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GRPN",
+      "price": 5.095
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZIXI",
+      "price": 5.01
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.1772
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZIXI",
+      "price": 5.01
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.1694
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNE",
+      "price": 5.1854
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.46
+    }
+  ]
+}

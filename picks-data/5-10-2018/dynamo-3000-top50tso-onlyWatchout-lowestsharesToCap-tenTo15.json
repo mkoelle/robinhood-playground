@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALDR",
+      "price": 14.75
+    },
+    {
+      "ticker": "DNOW",
+      "price": 14.555
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MNK",
+      "price": 14.495
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNOW",
+      "price": 14.65
+    },
+    {
+      "ticker": "MNK",
+      "price": 14.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNK",
+      "price": 14.685
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNK",
+      "price": 14.64
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNK",
+      "price": 14.495
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNK",
+      "price": 14.505
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.825
+    }
+  ]
+}

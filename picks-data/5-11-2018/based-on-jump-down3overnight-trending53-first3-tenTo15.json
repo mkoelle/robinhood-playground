@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PSDO",
+      "price": 12.93
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.72
+    },
+    {
+      "ticker": "TIVO",
+      "price": 12.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PSDO",
+      "price": 13
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.64
+    },
+    {
+      "ticker": "TIVO",
+      "price": 12.775
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PSDO",
+      "price": 13.16
+    },
+    {
+      "ticker": "TIVO",
+      "price": 12.8001
+    },
+    {
+      "ticker": "GME",
+      "price": 12.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PSDO",
+      "price": 13.5
+    },
+    {
+      "ticker": "TIVO",
+      "price": 12.9501
+    },
+    {
+      "ticker": "GME",
+      "price": 12.541
+    }
+  ]
+}

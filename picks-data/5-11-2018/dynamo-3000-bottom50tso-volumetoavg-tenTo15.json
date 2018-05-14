@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PSDO",
+      "price": 12.91
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYBX",
+      "price": 11.71
+    },
+    {
+      "ticker": "TWNK",
+      "price": 13.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 11.75
+    },
+    {
+      "ticker": "ITUB",
+      "price": 13.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLUB",
+      "price": 10.45
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 10.425
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XON",
+      "price": 14.84
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNPX",
+      "price": 10.76
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.015
+    }
+  ]
+}

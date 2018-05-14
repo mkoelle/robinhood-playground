@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.14
+    },
+    {
+      "ticker": "UEPS",
+      "price": 9.94
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.14
+    },
+    {
+      "ticker": "UEPS",
+      "price": 9.94
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KMPH",
+      "price": 5.25
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.31
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.509
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.41
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.55
+    }
+  ]
+}

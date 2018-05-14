@@ -1,0 +1,75 @@
+{
+  "40": [
+    {
+      "ticker": "CRK",
+      "price": 8.51
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.2002
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.53
+    }
+  ],
+  "80": [
+    {
+      "ticker": "LGCY",
+      "price": 8.2895
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.545
+    },
+    {
+      "ticker": "CRK",
+      "price": 8.97
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRK",
+      "price": 9.085
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.595
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.175
+    }
+  ],
+  "140": [
+    {
+      "ticker": "WOW",
+      "price": 8.8399
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.215
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.6175
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PVG",
+      "price": 7.275
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.68
+    }
+  ],
+  "250": [
+    {
+      "ticker": "PVG",
+      "price": 7.24
+    }
+  ],
+  "300": []
+}

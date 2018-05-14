@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NGVC",
+      "price": 9.92
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RELL",
+      "price": 9.41
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CAMT",
+      "price": 8.19
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 9.0075
+    },
+    {
+      "ticker": "CYRX",
+      "price": 9.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 9.005
+    },
+    {
+      "ticker": "SVBI",
+      "price": 7.762
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AHT",
+      "price": 7.2
+    },
+    {
+      "ticker": "SVBI",
+      "price": 7.7669
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNDM",
+      "price": 8.955
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.35
+    }
+  ]
+}

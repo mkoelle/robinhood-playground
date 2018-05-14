@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INTX",
+      "price": 2.5393
+    },
+    {
+      "ticker": "INUV",
+      "price": 0.738
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PEIX",
+      "price": 3.382
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.5764
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHLD",
+      "price": 3.305
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2337
+    },
+    {
+      "ticker": "SHLD",
+      "price": 3.3735
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AETI",
+      "price": 0.6893
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.233
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.232
+    },
+    {
+      "ticker": "AST",
+      "price": 1.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.232
+    },
+    {
+      "ticker": "SHLD",
+      "price": 3.455
+    }
+  ]
+}

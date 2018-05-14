@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "INS",
+      "price": 7.1993
+    },
+    {
+      "ticker": "AG",
+      "price": 6.92
+    },
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CECE",
+      "price": 5.23
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.01
+    },
+    {
+      "ticker": "AG",
+      "price": 7.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.145
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.055
+    },
+    {
+      "ticker": "AG",
+      "price": 7.14
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AG",
+      "price": 7.2201
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.049
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.5784
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AG",
+      "price": 7.2401
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.23
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.085
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ENPH",
+      "price": 5.3354
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.47
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.3601
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ESND",
+      "price": 9.95
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.4501
+    },
+    {
+      "ticker": "AG",
+      "price": 7.28
+    }
+  ]
+}

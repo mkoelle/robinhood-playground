@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PSP",
+      "price": 12.319
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOV",
+      "price": 13.8976
+    },
+    {
+      "ticker": "LFC",
+      "price": 14.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIA",
+      "price": 10.79
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.1978
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PSP",
+      "price": 12.316
+    },
+    {
+      "ticker": "RGT",
+      "price": 10.9872
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACRE",
+      "price": 13.435
+    },
+    {
+      "ticker": "KMF",
+      "price": 13.0001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZMLP",
+      "price": 14.9709
+    },
+    {
+      "ticker": "BKN",
+      "price": 13.756
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HCLP",
+      "price": 13.7
+    },
+    {
+      "ticker": "CVE",
+      "price": 11.05
+    }
+  ]
+}

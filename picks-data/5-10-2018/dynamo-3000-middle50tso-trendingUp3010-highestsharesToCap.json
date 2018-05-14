@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAO",
+      "price": 1.16
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PED",
+      "price": 0.3492
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7063
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTNR",
+      "price": 1.249
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.498
+    }
+  ],
+  "200": [
+    {
+      "ticker": "URG",
+      "price": 0.7434
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.2808
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PED",
+      "price": 0.3498
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.678
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JONE",
+      "price": 0.6901
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.792
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IGC",
+      "price": 0.6236
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.0601
+    }
+  ]
+}

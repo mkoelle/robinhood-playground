@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1249
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INS",
+      "price": 7.3201
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.0801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INS",
+      "price": 7.7773
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1411
+    }
+  ]
+}

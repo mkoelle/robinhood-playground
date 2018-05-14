@@ -1,0 +1,75 @@
+{
+  "40": [
+    {
+      "ticker": "NCTY",
+      "price": 1.93
+    },
+    {
+      "ticker": "HL",
+      "price": 4.11
+    },
+    {
+      "ticker": "SN",
+      "price": 3.445
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ENPH",
+      "price": 4.99
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.9083
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.5941
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPK",
+      "price": 4.325
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.75
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.28
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OPK",
+      "price": 4.335
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.845
+    },
+    {
+      "ticker": "WPRT",
+      "price": 3.05
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SN",
+      "price": 3.595
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.36
+    }
+  ],
+  "250": [],
+  "300": [
+    {
+      "ticker": "SN",
+      "price": 3.6801
+    }
+  ]
+}

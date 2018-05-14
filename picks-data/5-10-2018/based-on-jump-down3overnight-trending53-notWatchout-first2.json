@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BKEP",
+      "price": 4.05
+    },
+    {
+      "ticker": "CLRB",
+      "price": 1.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKEP",
+      "price": 3.85
+    },
+    {
+      "ticker": "CLRB",
+      "price": 1.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKEP",
+      "price": 3.9298
+    },
+    {
+      "ticker": "SES",
+      "price": 3.03
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKEP",
+      "price": 3.895
+    },
+    {
+      "ticker": "SES",
+      "price": 3.03
+    }
+  ]
+}

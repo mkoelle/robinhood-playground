@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIVE",
+      "price": 2.25
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.5393
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIVE",
+      "price": 2.245
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.5393
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIVE",
+      "price": 2.2
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIVE",
+      "price": 2.23
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.53
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "PDLI",
+      "price": 2.93
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDLI",
+      "price": 2.92
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.111
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SES",
+      "price": 3.03
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.91
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SES",
+      "price": 3.03
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.9
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.11
+    }
+  ]
+}

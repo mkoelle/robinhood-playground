@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INN",
+      "price": 14.85
+    },
+    {
+      "ticker": "SRET",
+      "price": 14.8389
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVG",
+      "price": 14.99
+    },
+    {
+      "ticker": "JCE",
+      "price": 14.9648
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JCE",
+      "price": 14.96
+    },
+    {
+      "ticker": "SRET",
+      "price": 14.862
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NZF",
+      "price": 14.455
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NZF",
+      "price": 14.45
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BPK",
+      "price": 14.96
+    },
+    {
+      "ticker": "ZMLP",
+      "price": 14.9709
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BPK",
+      "price": 14.96
+    },
+    {
+      "ticker": "NZF",
+      "price": 14.45
+    }
+  ]
+}

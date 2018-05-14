@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMTE",
+      "price": 11.4335
+    },
+    {
+      "ticker": "BAS",
+      "price": 14.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 11.75
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LNTH",
+      "price": 14.5
+    },
+    {
+      "ticker": "SYBX",
+      "price": 12.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKAO",
+      "price": 12.195
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.985
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DDD",
+      "price": 12.005
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.9275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 11.705
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.015
+    }
+  ]
+}

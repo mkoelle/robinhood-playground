@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MOSY",
+      "price": 1.9368
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.5425
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOSY",
+      "price": 1.945
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.5562
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOL",
+      "price": 1.84
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOL",
+      "price": 2.39
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.9677
+    }
+  ]
+}

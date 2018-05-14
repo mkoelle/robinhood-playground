@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    },
+    {
+      "ticker": "VNET",
+      "price": 5.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLNK",
+      "price": 5.6868
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.035
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 5.71
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.065
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CELH",
+      "price": 5
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLNK",
+      "price": 5.7
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNAV",
+      "price": 5.2
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.05
+    }
+  ]
+}

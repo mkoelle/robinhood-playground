@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CERS",
+      "price": 6.44
+    },
+    {
+      "ticker": "KEYW",
+      "price": 7.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 9.38
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFIL",
+      "price": 6.1
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.6917
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APVO",
+      "price": 5.11
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERS",
+      "price": 6.6299
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFIL",
+      "price": 6.19
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFIL",
+      "price": 6.2
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    }
+  ]
+}

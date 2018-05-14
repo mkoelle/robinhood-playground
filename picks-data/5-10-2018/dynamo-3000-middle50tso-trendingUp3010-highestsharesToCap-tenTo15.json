@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 10.335
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MIE",
+      "price": 10.1735
+    },
+    {
+      "ticker": "ACFC",
+      "price": 10.73
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIA",
+      "price": 10.79
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RGT",
+      "price": 10.9872
+    },
+    {
+      "ticker": "MCBC",
+      "price": 11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTR",
+      "price": 11.15
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DDF",
+      "price": 10.9
+    },
+    {
+      "ticker": "MCBC",
+      "price": 10.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SMM",
+      "price": 10.18
+    },
+    {
+      "ticker": "DDF",
+      "price": 10.9
+    }
+  ]
+}

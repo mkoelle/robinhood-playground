@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "MRAM",
+      "price": 8.9
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MRAM",
+      "price": 9.055
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MRAM",
+      "price": 9.4784
+    },
+    {
+      "ticker": "YRIV",
+      "price": 5.19
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRAM",
+      "price": 9.24
+    },
+    {
+      "ticker": "YRIV",
+      "price": 5.19
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.09
+    }
+  ]
+}

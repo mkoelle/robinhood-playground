@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PDLI",
+      "price": 2.93
+    },
+    {
+      "ticker": "SDT",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDLI",
+      "price": 2.92
+    },
+    {
+      "ticker": "SDT",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PDLI",
+      "price": 2.91
+    },
+    {
+      "ticker": "SDT",
+      "price": 0.9981
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDLI",
+      "price": 2.9
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.01
+    }
+  ]
+}

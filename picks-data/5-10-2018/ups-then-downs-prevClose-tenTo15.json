@@ -1,0 +1,41 @@
+{
+  "10": [
+    {
+      "ticker": "USAT",
+      "price": 11.15
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.3
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GPOR",
+      "price": 10.13
+    }
+  ],
+  "200": [],
+  "300": [
+    {
+      "ticker": "AKAO",
+      "price": 12.58
+    },
+    {
+      "ticker": "NSH",
+      "price": 11.945
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AKAO",
+      "price": 12.4711
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AKAO",
+      "price": 12.46
+    }
+  ]
+}

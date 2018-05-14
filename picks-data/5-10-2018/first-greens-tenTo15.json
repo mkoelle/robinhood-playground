@@ -1,0 +1,112 @@
+{
+  "12": [
+    {
+      "ticker": "INAP",
+      "price": 11.1
+    },
+    {
+      "ticker": "PZE",
+      "price": 10.545
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.17
+    },
+    {
+      "ticker": "SGMO",
+      "price": 14.95
+    },
+    {
+      "ticker": "DBBR",
+      "price": 13.27
+    }
+  ],
+  "190": [
+    {
+      "ticker": "INAP",
+      "price": 11.68
+    },
+    {
+      "ticker": "PZE",
+      "price": 10.85
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.4752
+    },
+    {
+      "ticker": "DBBR",
+      "price": 13.27
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.38
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INAP",
+      "price": 11.65
+    },
+    {
+      "ticker": "PZE",
+      "price": 10.82
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.36
+    },
+    {
+      "ticker": "SGMO",
+      "price": 14.85
+    },
+    {
+      "ticker": "DBBR",
+      "price": 13.48
+    }
+  ],
+  "600": [
+    {
+      "ticker": "INAP",
+      "price": 11.35
+    },
+    {
+      "ticker": "PZE",
+      "price": 11.06
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.32
+    },
+    {
+      "ticker": "SGMO",
+      "price": 14.6
+    },
+    {
+      "ticker": "DBBR",
+      "price": 13.5
+    }
+  ],
+  "-15": [
+    {
+      "ticker": "INAP",
+      "price": 10.99
+    },
+    {
+      "ticker": "PZE",
+      "price": 10.16
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.09
+    },
+    {
+      "ticker": "DBBR",
+      "price": 13.27
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.47
+    }
+  ]
+}

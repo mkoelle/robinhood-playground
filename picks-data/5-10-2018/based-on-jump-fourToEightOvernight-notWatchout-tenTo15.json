@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CUE",
+      "price": 13.19
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SLD",
+      "price": 14.9
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.035
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SLD",
+      "price": 14.95
+    },
+    {
+      "ticker": "CUE",
+      "price": 12.9675
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CUE",
+      "price": 12.95
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.875
+    }
+  ]
+}

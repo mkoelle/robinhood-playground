@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BZQ",
+      "price": 8.2238
+    },
+    {
+      "ticker": "SVRA",
+      "price": 9.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BZQ",
+      "price": 8.23
+    },
+    {
+      "ticker": "SVRA",
+      "price": 9.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BZQ",
+      "price": 8.2002
+    },
+    {
+      "ticker": "SVRA",
+      "price": 9.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BZQ",
+      "price": 8.17
+    },
+    {
+      "ticker": "SVRA",
+      "price": 9.78
+    }
+  ]
+}

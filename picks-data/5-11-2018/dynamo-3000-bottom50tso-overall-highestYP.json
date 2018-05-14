@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MOSY",
+      "price": 1.9368
+    },
+    {
+      "ticker": "TGA",
+      "price": 1.9401
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MOSY",
+      "price": 1.9688
+    },
+    {
+      "ticker": "TGA",
+      "price": 1.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IDSA",
+      "price": 2.23
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 3.6
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.2402
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDSA",
+      "price": 2.23
+    },
+    {
+      "ticker": "CERC",
+      "price": 3.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CERC",
+      "price": 3.5702
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.8752
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOSY",
+      "price": 1.9165
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.86
+    }
+  ]
+}

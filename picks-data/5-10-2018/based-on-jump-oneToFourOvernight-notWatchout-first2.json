@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BXE",
+      "price": 1.3258
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BXE",
+      "price": 1.32
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.2989
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SYPR",
+      "price": 1.475
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    }
+  ]
+}

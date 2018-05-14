@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MDCA",
+      "price": 4.4
+    },
+    {
+      "ticker": "AMDA",
+      "price": 1.1946
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OGEN",
+      "price": 1.33
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.9
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OGEN",
+      "price": 1.32
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.74
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.9401
+    }
+  ]
+}

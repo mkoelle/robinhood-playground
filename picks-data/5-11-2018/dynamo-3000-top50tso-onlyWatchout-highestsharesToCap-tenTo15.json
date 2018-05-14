@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYRS",
+      "price": 11.74
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYRS",
+      "price": 11.9
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYRS",
+      "price": 12.16
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INFN",
+      "price": 10.195
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INFN",
+      "price": 10.2651
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.2575
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INFN",
+      "price": 10.085
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INFN",
+      "price": 10.175
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.49
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGC",
+      "price": 8.47
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DEPO",
+      "price": 7.055
+    },
+    {
+      "ticker": "NVTA",
+      "price": 6.665
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CECE",
+      "price": 5.2
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APVO",
+      "price": 5.11
+    },
+    {
+      "ticker": "CECE",
+      "price": 5.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CECE",
+      "price": 5.32
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CECE",
+      "price": 5.51
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CECE",
+      "price": 5.7299
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    }
+  ]
+}

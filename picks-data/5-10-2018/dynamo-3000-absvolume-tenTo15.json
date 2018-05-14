@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTRX",
+      "price": 15.2134
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCXI",
+      "price": 10.32
+    },
+    {
+      "ticker": "HEAR",
+      "price": 13.6587
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 11.4538
+    },
+    {
+      "ticker": "HEAR",
+      "price": 12.465
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNDX",
+      "price": 10.725
+    },
+    {
+      "ticker": "USAT",
+      "price": 12.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 12.2569
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.36
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 11.52
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.87
+    }
+  ]
+}

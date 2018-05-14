@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHSP",
+      "price": 7.15
+    },
+    {
+      "ticker": "NE",
+      "price": 5.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMRS",
+      "price": 5.525
+    },
+    {
+      "ticker": "POLA",
+      "price": 6.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRS",
+      "price": 5.475
+    },
+    {
+      "ticker": "MVO",
+      "price": 8.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CWBR",
+      "price": 5.8793
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.385
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTSO",
+      "price": 7.8
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.9304
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 8.06
+    },
+    {
+      "ticker": "CTSO",
+      "price": 7.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 8.03
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.9823
+    }
+  ]
+}

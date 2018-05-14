@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UPL",
+      "price": 2.38
+    },
+    {
+      "ticker": "MDCA",
+      "price": 3.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UPL",
+      "price": 2.305
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.239
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UPL",
+      "price": 2.29
+    },
+    {
+      "ticker": "SBOT",
+      "price": 4.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UPL",
+      "price": 2.235
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UPL",
+      "price": 2.1501
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2217
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UPL",
+      "price": 2.08
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2202
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UPL",
+      "price": 2.005
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2191
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SYBX",
+      "price": 11.48
+    },
+    {
+      "ticker": "PSDO",
+      "price": 13.13
+    },
+    {
+      "ticker": "GNPX",
+      "price": 12.3152
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PSDO",
+      "price": 13.1
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.98
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.01
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SYBX",
+      "price": 11.87
+    },
+    {
+      "ticker": "GNPX",
+      "price": 11.8
+    },
+    {
+      "ticker": "PSDO",
+      "price": 13.21
+    }
+  ]
+}

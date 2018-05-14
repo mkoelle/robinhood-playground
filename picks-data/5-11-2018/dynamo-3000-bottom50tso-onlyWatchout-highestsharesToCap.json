@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NLST",
+      "price": 0.1551
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.138
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLG",
+      "price": 0.1375
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2621
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.14
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2677
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.14
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2742
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYN",
+      "price": 0.2656
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.386
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLG",
+      "price": 0.1379
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2651
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PLG",
+      "price": 0.1384
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2698
+    }
+  ]
+}

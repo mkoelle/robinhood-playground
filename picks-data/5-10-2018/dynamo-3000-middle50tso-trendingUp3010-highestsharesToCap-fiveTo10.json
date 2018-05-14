@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BCRX",
+      "price": 5.36
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PETX",
+      "price": 5.35
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DSE",
+      "price": 5.7
+    },
+    {
+      "ticker": "NCZ",
+      "price": 6.009
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GRPN",
+      "price": 5.095
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNE",
+      "price": 5.1772
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNE",
+      "price": 5.1694
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.1805
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNE",
+      "price": 5.1854
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.35
+    }
+  ]
+}

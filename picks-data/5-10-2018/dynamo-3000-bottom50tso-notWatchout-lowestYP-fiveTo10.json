@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 9.24
+    },
+    {
+      "ticker": "XONE",
+      "price": 7.07
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FAT",
+      "price": 6.11
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPIC",
+      "price": 6.902
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IPIC",
+      "price": 7.0765
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZKIN",
+      "price": 6.501
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FAT",
+      "price": 6.37
+    },
+    {
+      "ticker": "MBIO",
+      "price": 8.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FAT",
+      "price": 6.37
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.3
+    }
+  ]
+}

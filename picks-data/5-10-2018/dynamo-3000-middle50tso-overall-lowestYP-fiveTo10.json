@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WOW",
+      "price": 6.64
+    },
+    {
+      "ticker": "SSG",
+      "price": 7.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 9.06
+    },
+    {
+      "ticker": "TEDU",
+      "price": 9.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPI",
+      "price": 5.8
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARCT",
+      "price": 5.7302
+    },
+    {
+      "ticker": "ABDC",
+      "price": 6.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FINZ",
+      "price": 7.37
+    },
+    {
+      "ticker": "NL",
+      "price": 7.3675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABDC",
+      "price": 6.49
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FINZ",
+      "price": 7.37
+    },
+    {
+      "ticker": "CLRO",
+      "price": 5.85
+    }
+  ]
+}

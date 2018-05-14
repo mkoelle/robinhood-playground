@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "UEPS",
+      "price": 9.94
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.5
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "UEPS",
+      "price": 9.94
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.5
+    },
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KMPH",
+      "price": 5.25
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.509
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.92
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KMPH",
+      "price": 5.2
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.55
+    }
+  ]
+}

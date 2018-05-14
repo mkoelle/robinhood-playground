@@ -1,0 +1,118 @@
+{
+  "10": [
+    {
+      "ticker": "DCIX",
+      "price": 1.7459
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.21
+    },
+    {
+      "ticker": "NAT",
+      "price": 2
+    }
+  ],
+  "50": [
+    {
+      "ticker": "DCIX",
+      "price": 1.7411
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.38
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.015
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DCIX",
+      "price": 1.66
+    },
+    {
+      "ticker": "RVEN",
+      "price": 3.15
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.625
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2732
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.02
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6894
+    },
+    {
+      "ticker": "RVEN",
+      "price": 3.15
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.625
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.211
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.025
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DCIX",
+      "price": 1.67
+    },
+    {
+      "ticker": "RVEN",
+      "price": 3.1016
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.7
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.32
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.025
+    }
+  ],
+  "600": [
+    {
+      "ticker": "DCIX",
+      "price": 1.67
+    },
+    {
+      "ticker": "RVEN",
+      "price": 3.1016
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.7
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.27
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.04
+    }
+  ]
+}

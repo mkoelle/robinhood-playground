@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTR",
+      "price": 9.18
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.0601
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 9.92
+    },
+    {
+      "ticker": "RKDA",
+      "price": 9.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRUE",
+      "price": 9.865
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRUE",
+      "price": 9.815
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 9.325
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.5625
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INOV",
+      "price": 9.375
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHLO",
+      "price": 8.95
+    },
+    {
+      "ticker": "GOL",
+      "price": 9.27
+    }
+  ]
+}

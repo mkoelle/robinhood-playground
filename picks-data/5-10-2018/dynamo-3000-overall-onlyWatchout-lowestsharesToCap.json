@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KERX",
+      "price": 4.8099
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HK",
+      "price": 4.955
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HK",
+      "price": 4.87
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMKR",
+      "price": 4.95
+    },
+    {
+      "ticker": "HK",
+      "price": 4.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HK",
+      "price": 4.845
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTEC",
+      "price": 4.9295
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTEC",
+      "price": 4.9
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.95
+    }
+  ]
+}

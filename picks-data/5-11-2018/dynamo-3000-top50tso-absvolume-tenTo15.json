@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 10.29
+    },
+    {
+      "ticker": "PCOM",
+      "price": 11.51
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 13.675
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FLY",
+      "price": 14.55
+    },
+    {
+      "ticker": "HEAR",
+      "price": 13.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MSON",
+      "price": 12.3
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.2301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MSON",
+      "price": 12.3
+    },
+    {
+      "ticker": "I",
+      "price": 14.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BRT",
+      "price": 12.84
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.365
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCRN",
+      "price": 12.07
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.195
+    }
+  ]
+}

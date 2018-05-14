@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const regCronIncAfterSixThirty = require('../../utils/reg-cron-after-630');
 const filterByTradeable = require('../../utils/filter-by-tradeable');
 
-const registerPicks = require('../../app-actions/record-picks');
+const recordPicks = require('../../app-actions/record-picks');
 const purchaseStocks = require('../../app-actions/purchase-stocks');
 
 
@@ -37,7 +37,7 @@ const scrapes = {
                         const tradeablePicks = filterByTradeable(queryPicks).slice(0, 15);
                         const strategyName = `${scrapeName}-${queryName}`;
                         // console.log(queryName, queryPicks);
-                        await registerPicks(Robinhood, strategyName, min, tradeablePicks);
+                        await recordPicks(Robinhood, strategyName, min, tradeablePicks);
                     }
                     await browser.close();
                 }

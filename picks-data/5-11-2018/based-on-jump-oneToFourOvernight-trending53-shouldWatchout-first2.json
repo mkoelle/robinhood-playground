@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SID",
+      "price": 2.59
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.59
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVUS",
+      "price": 4.8195
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVUS",
+      "price": 4.6497
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    }
+  ]
+}

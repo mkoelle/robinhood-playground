@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.13
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1249
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INS",
+      "price": 7.3201
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.105
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INS",
+      "price": 7.7773
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1411
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.1048
+    }
+  ]
+}

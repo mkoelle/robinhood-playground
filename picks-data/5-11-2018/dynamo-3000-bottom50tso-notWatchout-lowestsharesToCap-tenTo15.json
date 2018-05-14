@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PSDO",
+      "price": 12.91
+    },
+    {
+      "ticker": "LRN",
+      "price": 15.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PSDO",
+      "price": 13.865
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PSDO",
+      "price": 13.09
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PSDO",
+      "price": 13.07
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PSDO",
+      "price": 13.1
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PSDO",
+      "price": 13.28
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.6325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PSDO",
+      "price": 13.26
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.5808
+    }
+  ]
+}

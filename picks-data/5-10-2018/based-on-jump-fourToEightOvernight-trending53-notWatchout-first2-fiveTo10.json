@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KNDI",
+      "price": 5.6
+    },
+    {
+      "ticker": "GRPN",
+      "price": 5.1382
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KNDI",
+      "price": 5.65
+    },
+    {
+      "ticker": "GRPN",
+      "price": 5.0701
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KNDI",
+      "price": 5.5326
+    },
+    {
+      "ticker": "GRPN",
+      "price": 5.125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KNDI",
+      "price": 5.55
+    },
+    {
+      "ticker": "HHS",
+      "price": 9.84
+    }
+  ]
+}

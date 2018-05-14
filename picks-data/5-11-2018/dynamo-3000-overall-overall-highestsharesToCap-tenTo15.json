@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYRS",
+      "price": 11.74
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UEPS",
+      "price": 10.44
+    },
+    {
+      "ticker": "NATR",
+      "price": 10.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UEPS",
+      "price": 10.32
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UEPS",
+      "price": 10.2301
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.195
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UEPS",
+      "price": 10.24
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.2651
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UEPS",
+      "price": 10.365
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.085
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UEPS",
+      "price": 10.195
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.175
+    }
+  ]
+}

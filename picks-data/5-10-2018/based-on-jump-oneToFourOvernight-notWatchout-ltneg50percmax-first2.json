@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BXE",
+      "price": 1.3258
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6224
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BXE",
+      "price": 1.32
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6285
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6437
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6344
+    }
+  ]
+}

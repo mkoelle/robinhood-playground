@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CISN",
+      "price": 13.69
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.95
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CISN",
+      "price": 13.69
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.95
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.15
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CISN",
+      "price": 13.59
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.7866
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "TERP",
+      "price": 11.16
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CISN",
+      "price": 13.6
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.0221
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.809
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.85
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    }
+  ]
+}

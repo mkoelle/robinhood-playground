@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNET",
+      "price": 3.2
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RSLS",
+      "price": 0.4404
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.0728
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 4.7082
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALT",
+      "price": 0.5753
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.0394
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FCSC",
+      "price": 0.6095
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.4876
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ALT",
+      "price": 0.5615
+    },
+    {
+      "ticker": "OSG",
+      "price": 3.305
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OSG",
+      "price": 3.3
+    },
+    {
+      "ticker": "RUBI",
+      "price": 2.0239
+    }
+  ]
+}

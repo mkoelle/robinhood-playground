@@ -1,0 +1,76 @@
+{
+  "40": [
+    {
+      "ticker": "UEPS",
+      "price": 10.46
+    },
+    {
+      "ticker": "NATR",
+      "price": 10.02
+    }
+  ],
+  "80": [
+    {
+      "ticker": "UEPS",
+      "price": 10.34
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.725
+    },
+    {
+      "ticker": "NATR",
+      "price": 10.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDXS",
+      "price": 12.7
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.3205
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    }
+  ],
+  "140": [
+    {
+      "ticker": "UEPS",
+      "price": 10.3202
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.7
+    }
+  ],
+  "198": [
+    {
+      "ticker": "UEPS",
+      "price": 10.21
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.675
+    }
+  ],
+  "250": [
+    {
+      "ticker": "UEPS",
+      "price": 10.19
+    },
+    {
+      "ticker": "IMTE",
+      "price": 12.3744
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UEPS",
+      "price": 10.21
+    }
+  ]
+}

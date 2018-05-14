@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BXE",
+      "price": 1.3258
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.01
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BXE",
+      "price": 1.32
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.05
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.2989
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.1016
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SYPR",
+      "price": 1.475
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.275
+    }
+  ]
+}

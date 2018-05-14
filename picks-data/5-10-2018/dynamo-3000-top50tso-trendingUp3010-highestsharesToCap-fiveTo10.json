@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SFUN",
+      "price": 5.19
+    },
+    {
+      "ticker": "FSNN",
+      "price": 5.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    },
+    {
+      "ticker": "FSNN",
+      "price": 5.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.1799
+    },
+    {
+      "ticker": "VSI",
+      "price": 5.019
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APVO",
+      "price": 5.11
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.285
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.3382
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.285
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.2412
+    }
+  ]
+}

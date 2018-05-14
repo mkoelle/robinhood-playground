@@ -9,7 +9,9 @@ const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
 
 console.log(purchase, email, 'strategies enabled ');
-module.exports = async (Robinhood, strategy, min, withPrices) => {
+
+
+const saveToFile = async (Robinhood, strategy, min, withPrices) => {
 
     if (!strategy.includes('cheapest-picks')) withPrices = withPrices.slice(0, 5);  // take only 5 picks
 
@@ -78,6 +80,40 @@ module.exports = async (Robinhood, strategy, min, withPrices) => {
         );
     }
 
+};
 
+
+module.exports = async (Robinhood, strategy, min, toPurchase) => {
+
+    const record = async (stocks, strategyName, tickerLookups) => {
+        const withPrices = stocks.map(ticker => {
+            return {
+                ticker,
+                price: tickerLookups[ticker]
+            };
+        });
+        await saveToFile(Robinhood, strategyName, min, withPrices);
+    };
+
+    if (!Array.isArray(toPurchase)) {
+        // its an object
+        const allTickers = [...new Set(
+            Object.keys(toPurchase)
+                .map(strategyName => toPurchase[strategyName])
+                .reduce((acc, val) => acc.concat(val), []) // flatten
+        )];
+        console.log('alltickers', allTickers);
+        const tickerLookups = await lookupTickers(Robinhood, allTickers);
+        console.log('tickerLookups', tickerLookups);
+        for (let strategyName of Object.keys(toPurchase)) {
+            const subsetToPurchase = toPurchase[strategyName];
+            await record(subsetToPurchase, `${strategy}-${strategyName}${priceFilterSuffix}`, tickerLookups);
+        }
+    } else {
+        console.log('no variety to purchase', toPurchase);
+        const tickerLookups = await lookupTickers(Robinhood, toPurchase);
+        console.log('ticker lookups', tickerLookups);
+        await record(toPurchase, `${strategy}${priceFilterSuffix}`, tickerLookups);
+    }
 
 };

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TNP",
+      "price": 3.8999
+    },
+    {
+      "ticker": "PME",
+      "price": 3.7093
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HL",
+      "price": 4.105
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.581
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SGBX",
+      "price": 4.55
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSLR",
+      "price": 4.475
+    },
+    {
+      "ticker": "FENG",
+      "price": 4.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSLR",
+      "price": 4.475
+    },
+    {
+      "ticker": "FENG",
+      "price": 4.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITI",
+      "price": 4.98
+    },
+    {
+      "ticker": "VKTX",
+      "price": 4.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKTX",
+      "price": 4.68
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.4501
+    }
+  ]
+}

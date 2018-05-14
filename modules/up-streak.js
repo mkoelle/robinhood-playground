@@ -2,8 +2,6 @@
 const regCronIncAfterSixThirty = require('../utils/reg-cron-after-630');
 
 // app-actions
-const recordPicks = require('../app-actions/record-picks');
-
 const executeStrategy = require('../app-actions/execute-strategy');
 
 const getTrendAndSave = require('../app-actions/get-trend-and-save');

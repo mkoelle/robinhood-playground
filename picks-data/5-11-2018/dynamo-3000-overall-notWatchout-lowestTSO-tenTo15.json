@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PSDO",
+      "price": 12.91
+    },
+    {
+      "ticker": "IOR",
+      "price": 12.8301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 10.68
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.68
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DZSI",
+      "price": 10.1914
+    },
+    {
+      "ticker": "PSDO",
+      "price": 13.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PSDO",
+      "price": 13.07
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PSDO",
+      "price": 13.1
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMG",
+      "price": 13.02
+    },
+    {
+      "ticker": "PSDO",
+      "price": 13.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMG",
+      "price": 13.02
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.2444
+    }
+  ]
+}

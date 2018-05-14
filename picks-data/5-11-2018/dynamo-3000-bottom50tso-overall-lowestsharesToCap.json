@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ITI",
+      "price": 4.9238
+    },
+    {
+      "ticker": "OBLN",
+      "price": 2.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTD",
+      "price": 4.7425
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTD",
+      "price": 4.7
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTD",
+      "price": 4.705
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDCA",
+      "price": 4.325
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDCA",
+      "price": 4.35
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTD",
+      "price": 4.78
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.3292
+    }
+  ]
+}

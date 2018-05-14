@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SAN",
+      "price": 6.51
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JYNT",
+      "price": 7.4
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWSN",
+      "price": 7.66
+    },
+    {
+      "ticker": "SAN",
+      "price": 6.5015
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 9.62
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFSW",
+      "price": 9.34
+    },
+    {
+      "ticker": "BBX",
+      "price": 9.195
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AHT",
+      "price": 7.2
+    },
+    {
+      "ticker": "SOHO",
+      "price": 6.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IAG",
+      "price": 6.205
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.5109
+    }
+  ]
+}

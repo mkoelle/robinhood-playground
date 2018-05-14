@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FCSC",
+      "price": 0.63
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.89
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCSC",
+      "price": 0.65
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.9
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.149
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCSC",
+      "price": 0.6469
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.8913
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.1701
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCSC",
+      "price": 0.6469
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.94
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.18
+    }
+  ]
+}

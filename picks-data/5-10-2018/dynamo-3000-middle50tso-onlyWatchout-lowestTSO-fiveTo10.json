@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ERIC",
+      "price": 7.98
+    },
+    {
+      "ticker": "TEDU",
+      "price": 9.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 9.06
+    },
+    {
+      "ticker": "IRIX",
+      "price": 7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BKD",
+      "price": 7.8
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OCLR",
+      "price": 8.53
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 7.7999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AGI",
+      "price": 5.275
+    },
+    {
+      "ticker": "BLCM",
+      "price": 7.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXTR",
+      "price": 8.7225
+    },
+    {
+      "ticker": "CLRO",
+      "price": 5.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNDM",
+      "price": 8.955
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9
+    }
+  ]
+}

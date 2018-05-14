@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KMPH",
+      "price": 5.1
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HYGS",
+      "price": 7.85
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 7.23
+    },
+    {
+      "ticker": "CELP",
+      "price": 6.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRBP",
+      "price": 5.075
+    },
+    {
+      "ticker": "VRAY",
+      "price": 7.415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRAY",
+      "price": 7.2771
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRAY",
+      "price": 7.34
+    },
+    {
+      "ticker": "MRIN",
+      "price": 6.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRAY",
+      "price": 7.29
+    },
+    {
+      "ticker": "MRIN",
+      "price": 6.6
+    }
+  ]
+}

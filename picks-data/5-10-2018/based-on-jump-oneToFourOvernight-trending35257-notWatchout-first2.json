@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFIE",
+      "price": 4.3858
+    },
+    {
+      "ticker": "MEIP",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFIE",
+      "price": 4.3298
+    },
+    {
+      "ticker": "AWX",
+      "price": 3.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIE",
+      "price": 4.262
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.4132
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIE",
+      "price": 4.27
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.191
+    }
+  ]
+}

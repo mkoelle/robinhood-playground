@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SND",
+      "price": 7.037
+    },
+    {
+      "ticker": "KEYW",
+      "price": 7.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SND",
+      "price": 6.5997
+    },
+    {
+      "ticker": "KEYW",
+      "price": 7.99
+    },
+    {
+      "ticker": "QHC",
+      "price": 5.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SND",
+      "price": 6.55
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.518
+    },
+    {
+      "ticker": "KEYW",
+      "price": 7.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SND",
+      "price": 6.29
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.5285
+    },
+    {
+      "ticker": "KEYW",
+      "price": 8.05
+    }
+  ]
+}

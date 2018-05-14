@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BKEP",
+      "price": 4.05
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.93
+    },
+    {
+      "ticker": "SDT",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKEP",
+      "price": 3.85
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.92
+    },
+    {
+      "ticker": "SDT",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKEP",
+      "price": 3.9298
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.91
+    },
+    {
+      "ticker": "SDT",
+      "price": 0.9981
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKEP",
+      "price": 3.895
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.9
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.01
+    }
+  ]
+}

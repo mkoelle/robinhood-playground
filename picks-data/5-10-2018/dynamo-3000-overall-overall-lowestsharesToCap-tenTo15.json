@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTRX",
+      "price": 15.2134
+    },
+    {
+      "ticker": "BT",
+      "price": 14.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BT",
+      "price": 14.777
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BT",
+      "price": 14.89
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BT",
+      "price": 14.755
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 12.2569
+    },
+    {
+      "ticker": "BT",
+      "price": 14.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.36
+    },
+    {
+      "ticker": "BT",
+      "price": 14.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMPH",
+      "price": 14.565
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.52
+    }
+  ]
+}

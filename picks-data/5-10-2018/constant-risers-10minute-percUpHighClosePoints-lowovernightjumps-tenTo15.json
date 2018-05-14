@@ -1,0 +1,72 @@
+{
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 11.45
+    }
+  ],
+  "80": [
+    {
+      "ticker": "USAT",
+      "price": 11.625
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 11.725
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.51
+    }
+  ],
+  "140": [
+    {
+      "ticker": "USAT",
+      "price": 11.825
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.5
+    }
+  ],
+  "198": [
+    {
+      "ticker": "USAT",
+      "price": 12.175
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.51
+    }
+  ],
+  "250": [
+    {
+      "ticker": "USAT",
+      "price": 11.98
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.505
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.375
+    }
+  ],
+  "300": [
+    {
+      "ticker": "USAT",
+      "price": 11.925
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.425
+    }
+  ]
+}

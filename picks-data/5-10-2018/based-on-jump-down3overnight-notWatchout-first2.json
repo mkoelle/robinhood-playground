@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MDCA",
+      "price": 4.625
+    },
+    {
+      "ticker": "BKEP",
+      "price": 4.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MDCA",
+      "price": 4.15
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MDCA",
+      "price": 5.05
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.9298
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MDCA",
+      "price": 4.8
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.895
+    }
+  ]
+}

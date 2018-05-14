@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MERC",
+      "price": 14.625
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.29
+    },
+    {
+      "ticker": "MNK",
+      "price": 14.51
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IMGN",
+      "price": 10.47
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.2
+    },
+    {
+      "ticker": "NUAN",
+      "price": 13.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NUAN",
+      "price": 13.51
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.25
+    },
+    {
+      "ticker": "MNK",
+      "price": 14.49
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AKRX",
+      "price": 13.48
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.71
+    },
+    {
+      "ticker": "LADR",
+      "price": 14.82
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MDRX",
+      "price": 12.715
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.85
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.6362
+    }
+  ],
+  "250": [
+    {
+      "ticker": "RUN",
+      "price": 11.59
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.64
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.685
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DDD",
+      "price": 12.825
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.6749
+    },
+    {
+      "ticker": "GME",
+      "price": 13.18
+    }
+  ]
+}

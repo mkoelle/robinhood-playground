@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CYTX",
+      "price": 0.31
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CYTX",
+      "price": 0.3185
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.8174
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CYTX",
+      "price": 0.3
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2966
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.84
+    }
+  ]
+}

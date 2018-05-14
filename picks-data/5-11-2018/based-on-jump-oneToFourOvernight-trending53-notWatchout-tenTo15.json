@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.95
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6
+    },
+    {
+      "ticker": "CDOR",
+      "price": 9.995
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.95
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6
+    },
+    {
+      "ticker": "SSRM",
+      "price": 11.17
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASA",
+      "price": 10.7866
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.56
+    },
+    {
+      "ticker": "SSRM",
+      "price": 11.0781
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 14.0221
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.809
+    },
+    {
+      "ticker": "MERC",
+      "price": 14.85
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.65
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.605
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLNE",
+      "price": 2.185
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLNE",
+      "price": 2.19
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLNE",
+      "price": 2.06
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLNE",
+      "price": 2.12
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1103
+    }
+  ]
+}

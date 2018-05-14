@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKG",
+      "price": 1.26
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKG",
+      "price": 1.26
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKG",
+      "price": 1.2206
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.5901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKG",
+      "price": 1.235
+    },
+    {
+      "ticker": "MYND",
+      "price": 2.7071
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MYO",
+      "price": 2.9625
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.2874
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPHI",
+      "price": 0.27
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.7952
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAKD",
+      "price": 1.31
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SGYP",
+      "price": 1.6944
+    },
+    {
+      "ticker": "REED",
+      "price": 2.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRME",
+      "price": 2.303
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1589
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LINU",
+      "price": 0.6202
+    },
+    {
+      "ticker": "TLGT",
+      "price": 2.885
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BBOX",
+      "price": 1.945
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.935
+    }
+  ]
+}

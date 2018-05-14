@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IOR",
+      "price": 12.8301
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 12.8502
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 12.8602
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.775
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOR",
+      "price": 12.7701
+    },
+    {
+      "ticker": "CDXS",
+      "price": 12.5
+    }
+  ]
+}

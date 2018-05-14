@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.18
+    },
+    {
+      "ticker": "HX",
+      "price": 11.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.07
+    },
+    {
+      "ticker": "HX",
+      "price": 11.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.145
+    },
+    {
+      "ticker": "HX",
+      "price": 11.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.25
+    },
+    {
+      "ticker": "HX",
+      "price": 11.76
+    }
+  ]
+}

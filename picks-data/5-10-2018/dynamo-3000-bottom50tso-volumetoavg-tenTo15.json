@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTRX",
+      "price": 15.2134
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.9488
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCXI",
+      "price": 10.32
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 11.4538
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNDX",
+      "price": 10.725
+    },
+    {
+      "ticker": "COTY",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 12.2569
+    },
+    {
+      "ticker": "CCXI",
+      "price": 10.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.36
+    },
+    {
+      "ticker": "CSU",
+      "price": 10.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 11.52
+    },
+    {
+      "ticker": "EPZM",
+      "price": 14.825
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CYTX",
+      "price": 0.31
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.85
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CYTX",
+      "price": 0.3185
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.8174
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CYTX",
+      "price": 0.3
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.82
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CYTX",
+      "price": 0.2966
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.84
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.6772
+    }
+  ]
+}

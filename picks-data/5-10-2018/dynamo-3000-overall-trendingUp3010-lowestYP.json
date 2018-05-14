@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXON",
+      "price": 1.2414
+    },
+    {
+      "ticker": "PXS",
+      "price": 1.2429
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXON",
+      "price": 1.215
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2709
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 1.86
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DCIX",
+      "price": 1.8
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 1.75
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.17
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DCIX",
+      "price": 1.67
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.165
+    }
+  ]
+}

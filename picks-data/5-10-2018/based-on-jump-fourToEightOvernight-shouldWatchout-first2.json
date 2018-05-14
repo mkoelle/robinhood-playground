@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.4976
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.48
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.032
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.4793
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.1799
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.4975
+    },
+    {
+      "ticker": "ATOS",
+      "price": 4.1778
+    }
+  ]
+}

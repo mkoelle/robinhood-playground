@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EGC",
+      "price": 7.835
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.5
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGC",
+      "price": 8.42
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.507
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGC",
+      "price": 7.521
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.6
+    },
+    {
+      "ticker": "SBBP",
+      "price": 8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGC",
+      "price": 7.525
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.55
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.975
+    }
+  ]
+}

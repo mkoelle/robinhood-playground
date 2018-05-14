@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMMR",
+      "price": 12.825
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMR",
+      "price": 12.83
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMR",
+      "price": 12.81
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMR",
+      "price": 12.775
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.75
+    }
+  ]
+}

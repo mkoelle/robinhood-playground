@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    },
+    {
+      "ticker": "ENPH",
+      "price": 4.9744
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 5.035
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.065
+    },
+    {
+      "ticker": "KZIA",
+      "price": 5.3035
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CELH",
+      "price": 5.02
+    },
+    {
+      "ticker": "KZIA",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CELH",
+      "price": 5
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TNAV",
+      "price": 5.2
+    },
+    {
+      "ticker": "KZIA",
+      "price": 5.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNAV",
+      "price": 5.2
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.05
+    }
+  ]
+}

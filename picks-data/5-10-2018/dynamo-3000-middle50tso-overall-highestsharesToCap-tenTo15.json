@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GREK",
+      "price": 10.2
+    },
+    {
+      "ticker": "PDFS",
+      "price": 10.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MIE",
+      "price": 10.1735
+    },
+    {
+      "ticker": "NAII",
+      "price": 10
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HCAP",
+      "price": 10.109
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.4875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCA",
+      "price": 10.46
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVM",
+      "price": 10.3386
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVM",
+      "price": 10.3386
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.46
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SMM",
+      "price": 10.18
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.46
+    }
+  ]
+}

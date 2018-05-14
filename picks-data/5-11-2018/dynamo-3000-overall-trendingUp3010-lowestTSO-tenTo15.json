@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 11.1
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 10.68
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLUB",
+      "price": 10.5
+    },
+    {
+      "ticker": "CDNA",
+      "price": 10.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLUB",
+      "price": 10.45
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 10.425
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMG",
+      "price": 13.02
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMG",
+      "price": 13.02
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.425
+    }
+  ]
+}

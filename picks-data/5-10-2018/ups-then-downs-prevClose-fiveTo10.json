@@ -1,0 +1,69 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "FAT",
+      "price": 6.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGC",
+      "price": 6.395
+    },
+    {
+      "ticker": "LFGR",
+      "price": 8.85
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.437
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EGC",
+      "price": 6.94
+    },
+    {
+      "ticker": "LFGR",
+      "price": 8.825
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.345
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EGC",
+      "price": 6.88
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.37
+    },
+    {
+      "ticker": "BLFS",
+      "price": 7.9701
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.835
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EGC",
+      "price": 6.88
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.12
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.8
+    }
+  ]
+}

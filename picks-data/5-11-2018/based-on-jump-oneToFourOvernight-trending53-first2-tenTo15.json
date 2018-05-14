@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "VSTO",
+      "price": 13.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASA",
+      "price": 10.98
+    },
+    {
+      "ticker": "VSTO",
+      "price": 13.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASA",
+      "price": 10.7866
+    },
+    {
+      "ticker": "VSTO",
+      "price": 13.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 14.0221
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.809
+    }
+  ]
+}

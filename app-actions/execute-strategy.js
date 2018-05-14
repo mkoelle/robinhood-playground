@@ -7,15 +7,6 @@ const { lookupTickers } = require('./record-strat-perfs');
 const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy, pricePermFilter) => {
 
     console.log('executing strategy', strategy, min);
-    const record = async (stocks, strategyName, tickerLookups) => {
-        const withPrices = stocks.map(ticker => {
-            return {
-                ticker,
-                price: tickerLookups[ticker]
-            };
-        });
-        await recordPicks(Robinhood, strategyName, min, withPrices);
-    };
 
     const trend = await getTrendAndSave(Robinhood, min + '*');
 
@@ -46,26 +37,10 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
 
         const priceFilterSuffix = (priceKey === 'under5') ? '' : `-${priceKey}`;
 
-        if (!Array.isArray(toPurchase)) {
-            // its an object
-            const allTickers = [...new Set(
-                Object.keys(toPurchase).map(strategyName => {
-                    return toPurchase[strategyName];
-                }).reduce((acc, val) => acc.concat(val), []) // flatten
-            )];
-            console.log('alltickers', allTickers);
-            const tickerLookups = await lookupTickers(Robinhood, allTickers);
-            console.log('tickerLookups', tickerLookups);
-            for (let strategyName of Object.keys(toPurchase)) {
-                const subsetToPurchase = toPurchase[strategyName];
-                await record(subsetToPurchase, `${strategy}-${strategyName}${priceFilterSuffix}`, tickerLookups);
-            }
-        } else {
-            console.log('no variety to purchase', toPurchase);
-            const tickerLookups = await lookupTickers(Robinhood, toPurchase);
-            console.log('ticker lookups', tickerLookups);
-            await record(toPurchase, `${strategy}${priceFilterSuffix}`, tickerLookups);
-        }
+
+        await recordPicks(Robinhood, strategy, min, toPurchase);
+
+
 
     }
 

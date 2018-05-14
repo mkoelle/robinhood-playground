@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2527
+    },
+    {
+      "ticker": "BKEP",
+      "price": 4.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2599
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.9298
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMDA",
+      "price": 1.26
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.895
+    }
+  ]
+}

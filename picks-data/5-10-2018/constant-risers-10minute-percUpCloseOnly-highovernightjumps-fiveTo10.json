@@ -1,0 +1,96 @@
+{
+  "40": [
+    {
+      "ticker": "MRAM",
+      "price": 8.91
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.015
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DEPO",
+      "price": 7.2
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.12
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.9354
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRAM",
+      "price": 9.36
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.205
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.2
+    }
+  ],
+  "140": [
+    {
+      "ticker": "JNP",
+      "price": 9.028
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.24
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.035
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DEPO",
+      "price": 7.3
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.975
+    },
+    {
+      "ticker": "MRAM",
+      "price": 8.918
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DEPO",
+      "price": 7.25
+    },
+    {
+      "ticker": "KNDI",
+      "price": 6.0925
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "KNDI",
+      "price": 6.1252
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.165
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.25
+    }
+  ]
+}

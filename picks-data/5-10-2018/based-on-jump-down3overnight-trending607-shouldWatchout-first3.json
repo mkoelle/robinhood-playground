@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2527
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.4174
+    },
+    {
+      "ticker": "INO",
+      "price": 4.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.3942
+    },
+    {
+      "ticker": "INO",
+      "price": 4.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMDA",
+      "price": 1.2599
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.365
+    },
+    {
+      "ticker": "INO",
+      "price": 4.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMDA",
+      "price": 1.26
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.35
+    },
+    {
+      "ticker": "INO",
+      "price": 4.44
+    }
+  ]
+}

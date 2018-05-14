@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NUAN",
+      "price": 12.75
+    },
+    {
+      "ticker": "USAT",
+      "price": 10.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NUAN",
+      "price": 12.36
+    },
+    {
+      "ticker": "BT",
+      "price": 14.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NUAN",
+      "price": 12.36
+    },
+    {
+      "ticker": "BT",
+      "price": 14.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NUAN",
+      "price": 12.44
+    },
+    {
+      "ticker": "BT",
+      "price": 14.8
+    }
+  ]
+}

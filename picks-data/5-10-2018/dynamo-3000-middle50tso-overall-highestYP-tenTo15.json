@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QEP",
+      "price": 12.75
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACFC",
+      "price": 10.73
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FINL",
+      "price": 13.57
+    },
+    {
+      "ticker": "ETY",
+      "price": 12.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMMR",
+      "price": 11.475
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NORW",
+      "price": 14.65
+    },
+    {
+      "ticker": "DRH",
+      "price": 11.855
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FINL",
+      "price": 13.57
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PSO",
+      "price": 12.43
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.95
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCUT",
+      "price": 10.9
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.5344
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GE",
+      "price": 14.57
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.83
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.8
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.72
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.655
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.231
+    }
+  ]
+}

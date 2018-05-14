@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ATIS",
+      "price": 0.53
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.8599
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.1271
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OHGI",
+      "price": 0.7794
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.5226
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OHGI",
+      "price": 0.7316
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.8693
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4999
+    }
+  ]
+}

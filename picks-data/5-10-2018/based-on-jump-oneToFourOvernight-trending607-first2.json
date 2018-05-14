@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.3858
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSLR",
+      "price": 4.15
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSLR",
+      "price": 4.2989
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSLR",
+      "price": 4.275
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.6772
+    }
+  ]
+}

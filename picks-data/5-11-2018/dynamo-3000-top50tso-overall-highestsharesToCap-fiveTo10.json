@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RARX",
+      "price": 6.29
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RARX",
+      "price": 6.47
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVID",
+      "price": 5.3301
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.081
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 5.2
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 5.108
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 5.02
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.1122
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 5.1
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.0823
+    }
+  ]
+}

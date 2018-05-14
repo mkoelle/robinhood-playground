@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LUNA",
+      "price": 3.3001
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EYPT",
+      "price": 2.4
+    },
+    {
+      "ticker": "NDRO",
+      "price": 4.0672
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 1.4994
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EBIO",
+      "price": 2.68
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EBIO",
+      "price": 2.67
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.2632
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 4.05
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIE",
+      "price": 4.03
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.66
+    }
+  ]
+}

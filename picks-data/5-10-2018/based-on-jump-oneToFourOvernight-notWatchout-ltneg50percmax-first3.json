@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BXE",
+      "price": 1.3258
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6224
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BXE",
+      "price": 1.32
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6285
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.6407
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6437
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.6814
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BXE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6344
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.6
+    }
+  ]
+}

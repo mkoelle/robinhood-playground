@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 1.6199
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3654
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TOPS",
+      "price": 1.661
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3671
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOPS",
+      "price": 1.67
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOPS",
+      "price": 1.6639
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOPS",
+      "price": 1.665
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TOPS",
+      "price": 1.64
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TOPS",
+      "price": 1.6301
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.67
+    }
+  ]
+}

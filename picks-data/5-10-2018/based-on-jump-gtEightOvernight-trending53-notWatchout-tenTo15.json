@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RUN",
+      "price": 10.24
+    },
+    {
+      "ticker": "ACSF",
+      "price": 12.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RUN",
+      "price": 10.485
+    },
+    {
+      "ticker": "ACSF",
+      "price": 12.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RUN",
+      "price": 10.3901
+    },
+    {
+      "ticker": "ACSF",
+      "price": 12.395
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RUN",
+      "price": 10.54
+    },
+    {
+      "ticker": "ACSF",
+      "price": 12.35
+    }
+  ]
+}

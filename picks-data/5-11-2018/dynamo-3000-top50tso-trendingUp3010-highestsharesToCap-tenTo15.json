@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESND",
+      "price": 10.04
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 10.03
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFSW",
+      "price": 10.29
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFSW",
+      "price": 10.245
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFSW",
+      "price": 10.24
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.264
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFSW",
+      "price": 10.35
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFSW",
+      "price": 10.34
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.3
+    }
+  ]
+}

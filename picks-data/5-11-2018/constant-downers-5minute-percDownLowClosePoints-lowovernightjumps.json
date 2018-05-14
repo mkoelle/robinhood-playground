@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OBLN",
+      "price": 3
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.2999
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.14
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VIVE",
+      "price": 1.815
+    },
+    {
+      "ticker": "OBLN",
+      "price": 2.9421
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1401
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VIVE",
+      "price": 1.91
+    },
+    {
+      "ticker": "OBLN",
+      "price": 2.88
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.25
+    }
+  ]
+}

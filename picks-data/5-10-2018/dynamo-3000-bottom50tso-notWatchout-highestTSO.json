@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BXE",
+      "price": 1.3258
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLEX",
+      "price": 4.505
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.239
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNGX",
+      "price": 1.6701
+    },
+    {
+      "ticker": "LLEX",
+      "price": 4.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHX",
+      "price": 1.65
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVEO",
+      "price": 2.195
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.1074
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UQM",
+      "price": 1.1074
+    },
+    {
+      "ticker": "NVLN",
+      "price": 4.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALIM",
+      "price": 0.9136
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.03
+    }
+  ]
+}

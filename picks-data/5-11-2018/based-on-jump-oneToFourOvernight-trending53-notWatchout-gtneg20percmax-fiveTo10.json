@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.13
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.05
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.08
+    },
+    {
+      "ticker": "TLF",
+      "price": 8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INS",
+      "price": 7.4902
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1249
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.13
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.05
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INS",
+      "price": 7.3201
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.105
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.05
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.335
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INS",
+      "price": 7.7773
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1411
+    },
+    {
+      "ticker": "RBS",
+      "price": 8.1048
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.0499
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.274
+    }
+  ]
+}

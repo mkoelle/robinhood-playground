@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CECE",
+      "price": 4.71
+    },
+    {
+      "ticker": "ELTK",
+      "price": 4.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTN",
+      "price": 4.95
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NCTY",
+      "price": 1.9
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.7502
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NCTY",
+      "price": 1.8299
+    },
+    {
+      "ticker": "OTIC",
+      "price": 4.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APVO",
+      "price": 4.9424
+    },
+    {
+      "ticker": "FPAY",
+      "price": 4.2836
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SORL",
+      "price": 4.93
+    },
+    {
+      "ticker": "FPAY",
+      "price": 4.2836
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SORL",
+      "price": 4.93
+    },
+    {
+      "ticker": "NVUS",
+      "price": 4.86
+    }
+  ]
+}
