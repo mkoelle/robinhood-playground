@@ -39,11 +39,11 @@ const additionalCronConfig = [
     //     }
     // },
     // sell all if went up
-    // {
-    //     name: 'sellAllIfWentUp',
-    //     run: [90, 305],
-    //     fn: sellAllIfWentUp
-    // },
+    {
+        name: 'sellAllIfWentUp',
+        run: [90, 305],
+        fn: sellAllIfWentUp
+    },
     // sell all if went up
     // {
     //     name: 'sellAllStocks',
@@ -77,11 +77,11 @@ const additionalCronConfig = [
         fn: recordStratPerfs
     },
     //sellAllOlderThanTwoDays
-    // {
-    //     name: 'sell all if older than one day',
-    //     run: [45],
-    //     fn: sellAllOlderThanTwoDays
-    // },
+    {
+        name: 'sell all if older than one day',
+        run: [45],
+        fn: sellAllOlderThanTwoDays
+    },
     {
         name: 'getAllTickers',
         run: [1027],

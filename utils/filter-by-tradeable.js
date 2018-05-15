@@ -1,4 +1,5 @@
 const allStocks = require('../stock-data/allStocks');
+
 const filterByTradeable = stocks => {
     const areTradeable = [];
     for (let ticker of stocks) {

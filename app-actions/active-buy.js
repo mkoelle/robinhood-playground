@@ -9,8 +9,8 @@ const mapLimit = require('promise-map-limit');
 
 
 const MAX_BUY_RATIO = 1.025; // before gives up
-const TIME_BETWEEN_CHECK = 15; // seconds
-const BUY_RATIO_INCREMENT = 0.0005;
+const TIME_BETWEEN_CHECK = 20; // seconds
+const BUY_RATIO_INCREMENT = 0.002;
 
 
 const addToDailyTransactions = async data => {

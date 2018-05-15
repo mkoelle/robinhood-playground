@@ -40,6 +40,7 @@ const sellAllOlderThanTwoDays = require('./app-actions/sell-all-older-than-two-d
     // console.log(detailed);
     try {
         allTickers = require('./stock-data/allStocks');
+        // throw new Error();
     } catch (e) {
         allTickers = await getAllTickers(Robinhood);
     }
