@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 11.185
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QD",
+      "price": 11.3
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSTE",
+      "price": 13.3777
+    },
+    {
+      "ticker": "QD",
+      "price": 11.6499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSTE",
+      "price": 13.5
+    },
+    {
+      "ticker": "QD",
+      "price": 11.585
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QD",
+      "price": 11.58
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QD",
+      "price": 11.5
+    },
+    {
+      "ticker": "CSTE",
+      "price": 13.65
+    }
+  ]
+}

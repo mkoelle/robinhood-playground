@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BIOL",
+      "price": 1.58
+    },
+    {
+      "ticker": "VSI",
+      "price": 5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOL",
+      "price": 1.56
+    },
+    {
+      "ticker": "NETS",
+      "price": 4.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOL",
+      "price": 1.54
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOL",
+      "price": 1.48
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BIOL",
+      "price": 1.47
+    },
+    {
+      "ticker": "NETS",
+      "price": 4.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BIOL",
+      "price": 1.47
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.975
+    }
+  ]
+}

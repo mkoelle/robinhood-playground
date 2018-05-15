@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "WEAT",
+      "price": 6.52
+    },
+    {
+      "ticker": "UNL",
+      "price": 9.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RJA",
+      "price": 6.2449
+    },
+    {
+      "ticker": "UNL",
+      "price": 9.2001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDOR",
+      "price": 9.9767
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.1951
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECF",
+      "price": 9.4739
+    },
+    {
+      "ticker": "CDOR",
+      "price": 9.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELMD",
+      "price": 5.32
+    },
+    {
+      "ticker": "SIF",
+      "price": 5.7333
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRT",
+      "price": 5.66
+    },
+    {
+      "ticker": "SSG",
+      "price": 7.5749
+    }
+  ]
+}

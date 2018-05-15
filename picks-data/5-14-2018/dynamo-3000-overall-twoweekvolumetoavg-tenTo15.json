@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AOSL",
+      "price": 13.13
+    },
+    {
+      "ticker": "TNDM",
+      "price": 10.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AOSL",
+      "price": 13.2101
+    },
+    {
+      "ticker": "TNDM",
+      "price": 10.57
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOOP",
+      "price": 12.47
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOOP",
+      "price": 12.65
+    },
+    {
+      "ticker": "TNDM",
+      "price": 10.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 10.5
+    },
+    {
+      "ticker": "BOXL",
+      "price": 11.6142
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 10.52
+    },
+    {
+      "ticker": "BOXL",
+      "price": 11.78
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.17
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.6
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.94
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.5099
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 10.595
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.71
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.4187
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.5
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.77
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.405
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HHS",
+      "price": 10.4638
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "FDUS",
+      "price": 13.7301
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.76
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.38
+    },
+    {
+      "ticker": "FDUS",
+      "price": 13.78
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.59
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEM",
+      "price": 14.755
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.875
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.355
+    },
+    {
+      "ticker": "FDUS",
+      "price": 13.79
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "UFAB",
+      "price": 9.37
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.3002
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UFAB",
+      "price": 9.4
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IEC",
+      "price": 5.4099
+    },
+    {
+      "ticker": "UFAB",
+      "price": 9.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UFAB",
+      "price": 9.45
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.4355
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IEC",
+      "price": 5.35
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.6433
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 8.66
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.475
+    }
+  ]
+}

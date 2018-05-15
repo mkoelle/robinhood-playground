@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 14.225
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.95
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ADTN",
+      "price": 14.8
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.53
+    },
+    {
+      "ticker": "UIS",
+      "price": 11.81
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SYBX",
+      "price": 11.06
+    },
+    {
+      "ticker": "SCWX",
+      "price": 10.68
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.5
+    }
+  ]
+}

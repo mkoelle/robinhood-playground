@@ -2,7 +2,6 @@
 const getTrendAndSave = require('./get-trend-and-save');
 // const purchaseStocks = require('./purchase-stocks');
 const recordPicks = require('./record-picks');
-const { lookupTickers } = require('./record-strat-perfs');
 
 const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strategy, pricePermFilter) => {
 
@@ -36,11 +35,7 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
         // gives ability to return an object from a trendFilter with multiple "variations"
 
         const priceFilterSuffix = (priceKey === 'under5') ? '' : `-${priceKey}`;
-
-
-        await recordPicks(Robinhood, strategy, min, toPurchase);
-
-
+        await recordPicks(Robinhood, strategy, min, toPurchase, priceFilterSuffix);
 
     }
 

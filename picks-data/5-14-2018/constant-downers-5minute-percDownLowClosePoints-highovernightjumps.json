@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ATIS",
+      "price": 0.5223
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.6962
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.7364
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MYO",
+      "price": 3.6702
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.5051
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.72
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MYO",
+      "price": 3.75
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.5024
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.72
+    }
+  ]
+}

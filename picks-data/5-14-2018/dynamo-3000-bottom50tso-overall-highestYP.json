@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "EGI",
+      "price": 0.3671
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKG",
+      "price": 1.21
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ISR",
+      "price": 0.495
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.225
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGI",
+      "price": 0.361
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2283
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVM",
+      "price": 3.0945
+    },
+    {
+      "ticker": "RWC",
+      "price": 3.65
+    }
+  ]
+}

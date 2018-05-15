@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ECOM",
+      "price": 14.495
+    },
+    {
+      "ticker": "CIVI",
+      "price": 14.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECOM",
+      "price": 14.4
+    },
+    {
+      "ticker": "LIVE",
+      "price": 14.4499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECOM",
+      "price": 14.55
+    },
+    {
+      "ticker": "LIVE",
+      "price": 14.2298
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECOM",
+      "price": 14.649
+    },
+    {
+      "ticker": "LIVE",
+      "price": 14.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECOM",
+      "price": 14.75
+    },
+    {
+      "ticker": "LIVE",
+      "price": 14.4274
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECOM",
+      "price": 14.7
+    },
+    {
+      "ticker": "LIVE",
+      "price": 14.4
+    }
+  ]
+}

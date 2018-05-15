@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "QNST",
+      "price": 13.76
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOV",
+      "price": 12.9999
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 12.9999
+    },
+    {
+      "ticker": "DRV",
+      "price": 11.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 12.9999
+    },
+    {
+      "ticker": "DRV",
+      "price": 11.7267
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRV",
+      "price": 11.6648
+    },
+    {
+      "ticker": "TNDM",
+      "price": 11.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRV",
+      "price": 11.68
+    },
+    {
+      "ticker": "TNDM",
+      "price": 11.12
+    }
+  ]
+}

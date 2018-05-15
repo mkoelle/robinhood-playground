@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "NLY",
+      "price": 10.42
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.5148
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVU",
+      "price": 10.25
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVC",
+      "price": 10.07
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXE",
+      "price": 10.2198
+    },
+    {
+      "ticker": "QID",
+      "price": 10.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRCI",
+      "price": 12.035
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.2083
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GREK",
+      "price": 10.085
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.2083
+    }
+  ]
+}

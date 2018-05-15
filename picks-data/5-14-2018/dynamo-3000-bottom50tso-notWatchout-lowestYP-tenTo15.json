@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ADTN",
+      "price": 14.9
+    },
+    {
+      "ticker": "SE",
+      "price": 10.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CNSL",
+      "price": 11.48
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNSL",
+      "price": 11.4
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNSL",
+      "price": 11.3499
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNSL",
+      "price": 11.25
+    },
+    {
+      "ticker": "PAK",
+      "price": 11.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNSL",
+      "price": 11.245
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.775
+    }
+  ]
+}

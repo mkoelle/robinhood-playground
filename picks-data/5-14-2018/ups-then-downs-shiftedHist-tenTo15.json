@@ -1,0 +1,64 @@
+{
+  "50": [
+    {
+      "ticker": "SIEB",
+      "price": 11.24
+    },
+    {
+      "ticker": "RUN",
+      "price": 11.04
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RUN",
+      "price": 10.975
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.19
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SIEB",
+      "price": 11.25
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.9144
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.2
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SIEB",
+      "price": 11.23
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.905
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.245
+    }
+  ],
+  "600": [
+    {
+      "ticker": "RUN",
+      "price": 10.89
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.22
+    }
+  ]
+}

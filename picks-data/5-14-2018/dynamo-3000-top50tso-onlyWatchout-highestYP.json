@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "NSPR",
+      "price": 1.26
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.363
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 2.2694
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCF",
+      "price": 4.22
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5611
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MCF",
+      "price": 4.2158
+    },
+    {
+      "ticker": "REED",
+      "price": 2.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OCX",
+      "price": 2.35
+    },
+    {
+      "ticker": "TRXC",
+      "price": 2.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRXC",
+      "price": 2.43
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.39
+    }
+  ]
+}

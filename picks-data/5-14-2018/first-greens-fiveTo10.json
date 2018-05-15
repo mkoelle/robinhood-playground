@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "IPIC",
+      "price": 7.4132
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.84
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.83
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.3
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.94
+    }
+  ],
+  "250": [
+    {
+      "ticker": "IPIC",
+      "price": 7.25
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.84
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.77
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.2801
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.93
+    }
+  ],
+  "600": [
+    {
+      "ticker": "IPIC",
+      "price": 7.54
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.9599
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.74
+    },
+    {
+      "ticker": "EVFM",
+      "price": 6.08
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.93
+    }
+  ]
+}

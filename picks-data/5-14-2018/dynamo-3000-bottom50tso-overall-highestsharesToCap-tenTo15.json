@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SNMP",
+      "price": 12.65
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDP",
+      "price": 14.1
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNMP",
+      "price": 12.425
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GDP",
+      "price": 14.31
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GDP",
+      "price": 14.325
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.8998
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNMP",
+      "price": 11.8047
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.5
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.395
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOL",
+      "price": 1.56
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GALT",
+      "price": 4.2299
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TTNP",
+      "price": 0.8617
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TTNP",
+      "price": 0.8475
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.9048
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRED",
+      "price": 1.8999
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.84
+    }
+  ]
+}

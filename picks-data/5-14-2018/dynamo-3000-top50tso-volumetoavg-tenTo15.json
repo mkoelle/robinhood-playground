@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.17
+    },
+    {
+      "ticker": "CLSD",
+      "price": 12.001
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 10.595
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.8056
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNOV",
+      "price": 10.35
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.315
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RLH",
+      "price": 10.2
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.9
+    }
+  ]
+}

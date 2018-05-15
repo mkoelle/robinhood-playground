@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.17
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 10.595
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNOV",
+      "price": 10.35
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.4638
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.46
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RLH",
+      "price": 10.2
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.755
+    }
+  ]
+}

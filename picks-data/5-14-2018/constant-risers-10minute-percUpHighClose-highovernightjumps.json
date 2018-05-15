@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3961
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.56
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.531
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3965
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.575
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KTOV",
+      "price": 2.62
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.54
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.38
+    }
+  ],
+  "140": [
+    {
+      "ticker": "HMNY",
+      "price": 0.703
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.57
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5251
+    }
+  ],
+  "198": [
+    {
+      "ticker": "KTOV",
+      "price": 2.59
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.2099
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5359
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HMNY",
+      "price": 0.723
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.27
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.595
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HMNY",
+      "price": 0.7223
+    },
+    {
+      "ticker": "GALT",
+      "price": 4.0998
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.595
+    }
+  ]
+}

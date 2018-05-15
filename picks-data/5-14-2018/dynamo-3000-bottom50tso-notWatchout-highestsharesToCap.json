@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PKD",
+      "price": 0.6201
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.369
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2302
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2296
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.2689
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.225
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6367
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RWC",
+      "price": 3.7
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2283
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2273
+    },
+    {
+      "ticker": "RWC",
+      "price": 3.65
+    }
+  ]
+}

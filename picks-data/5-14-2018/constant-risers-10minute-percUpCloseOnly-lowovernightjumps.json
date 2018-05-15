@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BIOL",
+      "price": 1.58
+    },
+    {
+      "ticker": "ONS",
+      "price": 1
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.5894
+    }
+  ],
+  "80": [
+    {
+      "ticker": "BIOL",
+      "price": 1.59
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9954
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.5819
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOL",
+      "price": 1.5812
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.9899
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9954
+    }
+  ],
+  "140": [
+    {
+      "ticker": "KOOL",
+      "price": 1.1
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.57
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9101
+    }
+  ],
+  "198": [
+    {
+      "ticker": "KOOL",
+      "price": 1.0905
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.54
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9872
+    }
+  ],
+  "250": [
+    {
+      "ticker": "KOOL",
+      "price": 1.1
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.48
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9872
+    }
+  ],
+  "300": [
+    {
+      "ticker": "KOOL",
+      "price": 1.07
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.4802
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.4344
+    }
+  ]
+}

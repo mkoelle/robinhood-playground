@@ -3,6 +3,8 @@ const jsonMgr = require('../utils/json-mgr');
 const lookup = require('../utils/lookup');
 const mapLimit = require('promise-map-limit');
 const { purchase, email } = require('../strategies-enabled');
+const { lookupTickers } = require('./record-strat-perfs');
+
 const stratManager = require('../socket-server/strat-manager');
 
 const purchaseStocks = require('./purchase-stocks');
@@ -83,7 +85,7 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
 };
 
 
-module.exports = async (Robinhood, strategy, min, toPurchase) => {
+module.exports = async (Robinhood, strategy, min, toPurchase, priceFilterSuffix) => {
 
     const record = async (stocks, strategyName, tickerLookups) => {
         const withPrices = stocks.map(ticker => {

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "IEC",
+      "price": 5.3002
+    },
+    {
+      "ticker": "UFAB",
+      "price": 9.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IEC",
+      "price": 5.35
+    },
+    {
+      "ticker": "UFAB",
+      "price": 9.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IEC",
+      "price": 5.4099
+    },
+    {
+      "ticker": "UFAB",
+      "price": 9.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UFAB",
+      "price": 9.45
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.4355
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IEC",
+      "price": 5.35
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.0542
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPH",
+      "price": 5.1938
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.23
+    }
+  ]
+}

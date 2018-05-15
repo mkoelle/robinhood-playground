@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "TVIX",
+      "price": 5.1114
+    },
+    {
+      "ticker": "INS",
+      "price": 7.3866
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RJA",
+      "price": 6.2449
+    },
+    {
+      "ticker": "INS",
+      "price": 7.4632
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRIP",
+      "price": 6.9199
+    },
+    {
+      "ticker": "ELMD",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 9.175
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.679
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTN",
+      "price": 6
+    },
+    {
+      "ticker": "INS",
+      "price": 7.3898
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTN",
+      "price": 5.1001
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.75
+    }
+  ]
+}

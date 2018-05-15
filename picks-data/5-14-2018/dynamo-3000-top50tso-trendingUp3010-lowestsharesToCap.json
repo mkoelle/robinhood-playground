@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SEII",
+      "price": 4.651
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WHLR",
+      "price": 4.56
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SEII",
+      "price": 4.58
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.622
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SEII",
+      "price": 4.52
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FFHL",
+      "price": 3.48
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WHLR",
+      "price": 4.59
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.48
+    }
+  ]
+}

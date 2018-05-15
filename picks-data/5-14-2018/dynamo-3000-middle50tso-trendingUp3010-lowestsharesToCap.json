@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ICL",
+      "price": 4.55
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMU",
+      "price": 4.594
+    },
+    {
+      "ticker": "FENG",
+      "price": 4.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OCSL",
+      "price": 4.885
+    },
+    {
+      "ticker": "OPHC",
+      "price": 4.558
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OCSL",
+      "price": 4.88
+    },
+    {
+      "ticker": "STDY",
+      "price": 4.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "STDY",
+      "price": 4.695
+    },
+    {
+      "ticker": "CMU",
+      "price": 4.5852
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ICD",
+      "price": 4.84
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.54
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "VIIX",
+      "price": 14.81
+    },
+    {
+      "ticker": "AOSL",
+      "price": 13.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HEAR",
+      "price": 14.655
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIIX",
+      "price": 14.68
+    },
+    {
+      "ticker": "AOSL",
+      "price": 14.0099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AOSL",
+      "price": 14.68
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.578
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLM",
+      "price": 14.61
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.6598
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLM",
+      "price": 14.6
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.68
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SFE",
+      "price": 13.255
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.337
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WSR",
+      "price": 11.965
+    },
+    {
+      "ticker": "RPT",
+      "price": 11.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RPAI",
+      "price": 11.405
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BHR",
+      "price": 10.695
+    },
+    {
+      "ticker": "FPH",
+      "price": 13.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PAK",
+      "price": 11.88
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSRM",
+      "price": 10.575
+    },
+    {
+      "ticker": "VG",
+      "price": 11.175
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PIRS",
+      "price": 5.865
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TIS",
+      "price": 5.315
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.685
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDOR",
+      "price": 9.9767
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.115
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDOR",
+      "price": 9.99
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.1132
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIF",
+      "price": 5.7333
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRT",
+      "price": 5.66
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.1588
+    }
+  ]
+}

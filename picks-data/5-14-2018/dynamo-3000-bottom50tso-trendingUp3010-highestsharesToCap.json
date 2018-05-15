@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SUNW",
+      "price": 1.206
+    },
+    {
+      "ticker": "PXS",
+      "price": 1.2218
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKG",
+      "price": 1.21
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKG",
+      "price": 1.21
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.495
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKG",
+      "price": 1.185
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.3431
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ISR",
+      "price": 0.5004
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ISR",
+      "price": 0.5021
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.05
+    }
+  ]
+}

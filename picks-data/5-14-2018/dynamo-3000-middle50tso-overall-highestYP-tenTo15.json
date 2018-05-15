@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "FXP",
+      "price": 14.21
+    },
+    {
+      "ticker": "IAU",
+      "price": 12.665
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVU",
+      "price": 10.25
+    },
+    {
+      "ticker": "IAU",
+      "price": 12.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OUNZ",
+      "price": 12.98
+    },
+    {
+      "ticker": "DOG",
+      "price": 14.6038
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QID",
+      "price": 10.72
+    },
+    {
+      "ticker": "EVY",
+      "price": 11.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRCI",
+      "price": 12.035
+    },
+    {
+      "ticker": "EVY",
+      "price": 11.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GXG",
+      "price": 10.87
+    },
+    {
+      "ticker": "GREK",
+      "price": 10.085
+    }
+  ]
+}

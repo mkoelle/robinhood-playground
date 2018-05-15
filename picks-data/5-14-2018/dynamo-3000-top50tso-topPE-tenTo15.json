@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.17
+    },
+    {
+      "ticker": "CIVI",
+      "price": 14.55
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QNST",
+      "price": 13.77
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.28
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 13.65
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.4
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVGS",
+      "price": 11.05
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.3594
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCOM",
+      "price": 12.3
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.9875
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 11.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EROS",
+      "price": 12
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.755
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.9
+    }
+  ]
+}

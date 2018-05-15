@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "HIMX",
+      "price": 7.03
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HIMX",
+      "price": 7.01
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOCA",
+      "price": 9.77
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOCA",
+      "price": 9.63
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XONE",
+      "price": 6.735
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.7072
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XONE",
+      "price": 6.715
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.015
+    }
+  ]
+}

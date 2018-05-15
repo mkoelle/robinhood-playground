@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AKBA",
+      "price": 10.15
+    },
+    {
+      "ticker": "GME",
+      "price": 12.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 10.2
+    },
+    {
+      "ticker": "GME",
+      "price": 12.945
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 10.32
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKBA",
+      "price": 10.32
+    },
+    {
+      "ticker": "GME",
+      "price": 13.2936
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 11.46
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKBA",
+      "price": 10.4
+    },
+    {
+      "ticker": "GME",
+      "price": 13.22
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "MAT",
+      "price": 14.625
+    },
+    {
+      "ticker": "INN",
+      "price": 14.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HEAR",
+      "price": 14.655
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAKE",
+      "price": 14.55
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAKE",
+      "price": 14.5
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLM",
+      "price": 14.61
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLM",
+      "price": 14.6
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.45
+    }
+  ]
+}

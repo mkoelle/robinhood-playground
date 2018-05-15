@@ -1,0 +1,54 @@
+{
+  "40": [
+    {
+      "ticker": "AKRX",
+      "price": 14.1
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 10.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.125
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AOBC",
+      "price": 11.26
+    },
+    {
+      "ticker": "AFSI",
+      "price": 13.3159
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGL",
+      "price": 10.975
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.335
+    }
+  ]
+}

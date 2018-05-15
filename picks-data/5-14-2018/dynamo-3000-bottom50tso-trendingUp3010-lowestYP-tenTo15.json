@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "MAT",
+      "price": 14.625
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CNSL",
+      "price": 11.48
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNSL",
+      "price": 11.4
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNSL",
+      "price": 11.3499
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNSL",
+      "price": 11.25
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNSL",
+      "price": 11.245
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.33
+    }
+  ]
+}

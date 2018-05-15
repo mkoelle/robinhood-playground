@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MBI",
+      "price": 8.705
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.88
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.04
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MBI",
+      "price": 8.815
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.035
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.98
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MBI",
+      "price": 8.885
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.955
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.095
+    }
+  ]
+}

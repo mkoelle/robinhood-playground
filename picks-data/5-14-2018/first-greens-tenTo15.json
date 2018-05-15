@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "LKSD",
+      "price": 11.75
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.725
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.24
+    },
+    {
+      "ticker": "IOR",
+      "price": 12.725
+    },
+    {
+      "ticker": "EDF",
+      "price": 14.525
+    }
+  ],
+  "250": [
+    {
+      "ticker": "LKSD",
+      "price": 11.7805
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.675
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.411
+    },
+    {
+      "ticker": "IOR",
+      "price": 12.725
+    },
+    {
+      "ticker": "EDF",
+      "price": 14.4672
+    }
+  ],
+  "600": [
+    {
+      "ticker": "LKSD",
+      "price": 11.73
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.6
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.45
+    },
+    {
+      "ticker": "IOR",
+      "price": 12.6753
+    },
+    {
+      "ticker": "EDF",
+      "price": 14.65
+    }
+  ]
+}

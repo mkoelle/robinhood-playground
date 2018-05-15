@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.17
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.1502
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 12.0902
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.05
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.03
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.05
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.625
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.725
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIND",
+      "price": 12.05
+    },
+    {
+      "ticker": "DGII",
+      "price": 12
+    },
+    {
+      "ticker": "EROS",
+      "price": 11.725
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIND",
+      "price": 12.05
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.925
+    },
+    {
+      "ticker": "EROS",
+      "price": 12
+    }
+  ]
+}

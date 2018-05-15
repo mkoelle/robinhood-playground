@@ -1,0 +1,54 @@
+{
+  "40": [
+    {
+      "ticker": "AKRX",
+      "price": 14.1
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 10.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TCAP",
+      "price": 11.35
+    },
+    {
+      "ticker": "SNAP",
+      "price": 10.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 14.755
+    },
+    {
+      "ticker": "AFSI",
+      "price": 13.3159
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 13.375
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.335
+    }
+  ]
+}

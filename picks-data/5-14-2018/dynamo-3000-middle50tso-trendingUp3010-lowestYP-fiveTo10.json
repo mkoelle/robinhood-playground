@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DDR",
+      "price": 7.4991
+    },
+    {
+      "ticker": "DSM",
+      "price": 7.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFCB",
+      "price": 6.285
+    },
+    {
+      "ticker": "LEO",
+      "price": 7.625
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 8.4615
+    },
+    {
+      "ticker": "DSM",
+      "price": 7.5234
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENZ",
+      "price": 6.39
+    },
+    {
+      "ticker": "CSSE",
+      "price": 8.4615
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKD",
+      "price": 7.605
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKD",
+      "price": 7.585
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.135
+    }
+  ]
+}

@@ -21,7 +21,15 @@ const addToDailyTransactions = async data => {
 };
 
 
-module.exports = async (Robinhood, { ticker, strategy, maxPrice, min }) => {
+module.exports = async (
+    Robinhood,
+    {
+        ticker,
+        strategy,   // strategy name
+        maxPrice,   // total amount to spend
+        min
+    }
+) => {
 
     return new Promise((resolve, reject) => {
 

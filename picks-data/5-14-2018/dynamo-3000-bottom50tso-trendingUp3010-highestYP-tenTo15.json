@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "GDP",
+      "price": 14.3995
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDP",
+      "price": 14.1
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GDP",
+      "price": 14.31
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GDP",
+      "price": 14.325
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GDP",
+      "price": 14.5
+    },
+    {
+      "ticker": "ECYT",
+      "price": 11.79
+    }
+  ]
+}

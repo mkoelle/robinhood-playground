@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "EROS",
+      "price": 11.35
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.9
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADTN",
+      "price": 14.85
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.13
+    },
+    {
+      "ticker": "TAST",
+      "price": 12.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAKE",
+      "price": 14.55
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.58
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAKE",
+      "price": 14.5
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.85
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LAKE",
+      "price": 14.45
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LAKE",
+      "price": 14.45
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.775
+    },
+    {
+      "ticker": "PRMW",
+      "price": 13.97
+    }
+  ]
+}

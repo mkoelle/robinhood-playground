@@ -1,0 +1,52 @@
+{
+  "280": [
+    {
+      "ticker": "OMNT",
+      "price": 1.55
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4915
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.51
+    },
+    {
+      "ticker": "INVE",
+      "price": 3.5687
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.99
+    }
+  ],
+  "328": [
+    {
+      "ticker": "PRPO",
+      "price": 0.485
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.6
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.55
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.984
+    }
+  ],
+  "388": [
+    {
+      "ticker": "OMNT",
+      "price": 1.26
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.6
+    }
+  ]
+}

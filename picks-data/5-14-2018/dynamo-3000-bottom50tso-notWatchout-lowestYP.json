@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AVXL",
+      "price": 2.11
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.6201
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PKD",
+      "price": 0.6149
+    },
+    {
+      "ticker": "SPCB",
+      "price": 2.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPCB",
+      "price": 2.01
+    },
+    {
+      "ticker": "SES",
+      "price": 3.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPCB",
+      "price": 1.99
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.062
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPCB",
+      "price": 2.0672
+    },
+    {
+      "ticker": "SES",
+      "price": 3.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPCB",
+      "price": 2.05
+    },
+    {
+      "ticker": "SES",
+      "price": 3.06
+    }
+  ]
+}

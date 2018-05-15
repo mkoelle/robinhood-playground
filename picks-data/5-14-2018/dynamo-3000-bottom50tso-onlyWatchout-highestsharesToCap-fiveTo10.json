@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "VXRT",
+      "price": 5.1
+    },
+    {
+      "ticker": "NVUS",
+      "price": 5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VOXX",
+      "price": 5.2
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EBR",
+      "price": 5.1
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EBR",
+      "price": 5.09
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EBR",
+      "price": 5.08
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.0051
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EBR",
+      "price": 5.06
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.035
+    }
+  ]
+}

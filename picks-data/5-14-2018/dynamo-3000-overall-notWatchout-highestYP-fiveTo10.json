@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "INTT",
+      "price": 7.05
+    },
+    {
+      "ticker": "UNL",
+      "price": 9.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UNL",
+      "price": 9.2001
+    },
+    {
+      "ticker": "HDGE",
+      "price": 8.132
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRT",
+      "price": 5.7499
+    },
+    {
+      "ticker": "HDGE",
+      "price": 8.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECF",
+      "price": 9.4739
+    },
+    {
+      "ticker": "PFNX",
+      "price": 6.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TPHS",
+      "price": 6.97
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IEC",
+      "price": 5.2199
+    },
+    {
+      "ticker": "UFAB",
+      "price": 9.3901
+    }
+  ]
+}

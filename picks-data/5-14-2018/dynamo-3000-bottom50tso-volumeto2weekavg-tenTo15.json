@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AOSL",
+      "price": 13.13
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AOSL",
+      "price": 13.2101
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOOP",
+      "price": 12.47
+    },
+    {
+      "ticker": "AOSL",
+      "price": 14.0099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOOP",
+      "price": 12.65
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 10.5
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 10.52
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.4
+    }
+  ]
+}

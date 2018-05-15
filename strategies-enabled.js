@@ -42,7 +42,14 @@ const forPurchase = [
     'sudden-drops-last50trend-first1-328',
     'based-on-jump-fourToEightOvernight-trending607-notWatchout-first1-fiveTo10-0',
     'dynamo-3000-bottom50tso-absvolume-381',
-    'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-tenTo15-16'
+    'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-tenTo15-16',
+    'dynamo-3000-overall-absvolume-381',
+    'sudden-drops-last1trend-first1-fiveTo10-14',
+
+    '[12Count5-topPerformers85-first1]',
+    '[16Count5-topPerformers85-first1]',
+    '[10IncTodayCount6-topPerformers85-uniq-first1]',
+    '[16IncTodayCount9-sortedByPercUp-first1]'
 ];
 
 const cheapestPicksEmailObj = [

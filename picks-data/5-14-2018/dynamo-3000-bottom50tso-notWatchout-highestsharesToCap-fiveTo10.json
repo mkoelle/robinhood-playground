@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "INS",
+      "price": 7.3866
+    },
+    {
+      "ticker": "PFNX",
+      "price": 6.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFNX",
+      "price": 6.1802
+    },
+    {
+      "ticker": "INS",
+      "price": 7.4632
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFNX",
+      "price": 6.1401
+    },
+    {
+      "ticker": "INS",
+      "price": 7.445
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVT",
+      "price": 9.34
+    },
+    {
+      "ticker": "INS",
+      "price": 7.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INTT",
+      "price": 6.85
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVT",
+      "price": 9.64
+    },
+    {
+      "ticker": "INS",
+      "price": 7.3898
+    }
+  ]
+}

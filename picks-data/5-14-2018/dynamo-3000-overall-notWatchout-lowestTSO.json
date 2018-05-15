@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BSQR",
+      "price": 3.5
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.6062
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NDRA",
+      "price": 2.5303
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPCB",
+      "price": 2.01
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.5303
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPCB",
+      "price": 1.99
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPCB",
+      "price": 2.0672
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.5483
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPCB",
+      "price": 2.05
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.7518
+    }
+  ]
+}

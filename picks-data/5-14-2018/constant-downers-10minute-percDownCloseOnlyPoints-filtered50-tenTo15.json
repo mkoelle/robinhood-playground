@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LOOP",
+      "price": 12.9
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.162
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AAC",
+      "price": 11.53
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.18
+    },
+    {
+      "ticker": "TAST",
+      "price": 12
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AAC",
+      "price": 11.5
+    },
+    {
+      "ticker": "SCWX",
+      "price": 10.68
+    },
+    {
+      "ticker": "TAST",
+      "price": 12
+    }
+  ]
+}

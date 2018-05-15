@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AOSL",
+      "price": 13.155
+    },
+    {
+      "ticker": "I",
+      "price": 13.5984
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.225
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AOSL",
+      "price": 14.29
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.64
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.1
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ADAP",
+      "price": 12.6
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.06
+    },
+    {
+      "ticker": "I",
+      "price": 13.745
+    }
+  ]
+}

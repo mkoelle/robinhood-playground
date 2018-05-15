@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PSP",
+      "price": 12.36
+    },
+    {
+      "ticker": "MAG",
+      "price": 11.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDP",
+      "price": 14.1
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.4557
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USO",
+      "price": 14.355
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SRCI",
+      "price": 12.07
+    },
+    {
+      "ticker": "USO",
+      "price": 14.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GDP",
+      "price": 14.325
+    },
+    {
+      "ticker": "USO",
+      "price": 14.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.375
+    },
+    {
+      "ticker": "PXJ",
+      "price": 10.1652
+    }
+  ]
+}

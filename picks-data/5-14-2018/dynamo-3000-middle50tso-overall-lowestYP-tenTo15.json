@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AKRX",
+      "price": 14.1
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GE",
+      "price": 14.701
+    },
+    {
+      "ticker": "FF",
+      "price": 11.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNAP",
+      "price": 10.99
+    },
+    {
+      "ticker": "DF",
+      "price": 10.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.9652
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BGCP",
+      "price": 12.135
+    },
+    {
+      "ticker": "AI",
+      "price": 10.935
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MTG",
+      "price": 10.475
+    },
+    {
+      "ticker": "NUAN",
+      "price": 12.93
+    }
+  ]
+}

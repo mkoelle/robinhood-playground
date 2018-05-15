@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3961
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.86
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7414
+    }
+  ],
+  "80": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3965
+    },
+    {
+      "ticker": "AST",
+      "price": 1.685
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.6599
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AST",
+      "price": 1.825
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.25
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7739
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AST",
+      "price": 1.75
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.765
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.2401
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FRED",
+      "price": 1.8288
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.28
+    },
+    {
+      "ticker": "TRXC",
+      "price": 2.4
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FRED",
+      "price": 1.84
+    },
+    {
+      "ticker": "TRXC",
+      "price": 2.3699
+    },
+    {
+      "ticker": "TYME",
+      "price": 2.82
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FRED",
+      "price": 1.9158
+    },
+    {
+      "ticker": "MEIP",
+      "price": 2.54
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2989
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BRT",
+      "price": 12.76
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.11
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MSON",
+      "price": 11.6
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.61
+    },
+    {
+      "ticker": "OMN",
+      "price": 11
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MRT",
+      "price": 10.35
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.61
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13
+    }
+  ]
+}

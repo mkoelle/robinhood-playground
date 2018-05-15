@@ -1,0 +1,108 @@
+{
+  "50": [
+    {
+      "ticker": "DHXM",
+      "price": 2.975
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.369
+    },
+    {
+      "ticker": "QUMU",
+      "price": 2.1151
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.3666
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHXM",
+      "price": 2.85
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.0914
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3599
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.71
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.245
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DHXM",
+      "price": 2.875
+    },
+    {
+      "ticker": "MCEP",
+      "price": 1.99
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.35
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.2003
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.8324
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DHXM",
+      "price": 2.7
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.0462
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.8
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3597
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.335
+    }
+  ],
+  "600": [
+    {
+      "ticker": "DHXM",
+      "price": 2.65
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.07
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.8
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3899
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.35
+    }
+  ]
+}

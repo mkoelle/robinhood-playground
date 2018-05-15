@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 14.725
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.8158
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 14.825
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 14.8
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DM",
+      "price": 14.9001
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.9652
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DM",
+      "price": 14.975
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCOM",
+      "price": 10.799
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.245
+    }
+  ]
+}

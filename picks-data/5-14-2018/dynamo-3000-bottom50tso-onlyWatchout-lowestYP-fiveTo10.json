@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 5.074
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.6763
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 5.9184
+    },
+    {
+      "ticker": "PTGX",
+      "price": 6.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNLO",
+      "price": 9.63
+    },
+    {
+      "ticker": "IFMK",
+      "price": 6.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNLO",
+      "price": 9.51
+    },
+    {
+      "ticker": "IFMK",
+      "price": 6.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNLO",
+      "price": 9.5
+    },
+    {
+      "ticker": "IFMK",
+      "price": 6.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNLO",
+      "price": 9.52
+    },
+    {
+      "ticker": "IFMK",
+      "price": 6.31
+    }
+  ]
+}

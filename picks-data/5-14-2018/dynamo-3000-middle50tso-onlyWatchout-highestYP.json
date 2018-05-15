@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "UAMY",
+      "price": 0.28
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.3528
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1576
+    },
+    {
+      "ticker": "GV",
+      "price": 4.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESNC",
+      "price": 0.351
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INUV",
+      "price": 0.71
+    },
+    {
+      "ticker": "GV",
+      "price": 4.369
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSPR",
+      "price": 1.1799
+    },
+    {
+      "ticker": "GV",
+      "price": 4.375
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 1.4114
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.4501
+    }
+  ]
+}

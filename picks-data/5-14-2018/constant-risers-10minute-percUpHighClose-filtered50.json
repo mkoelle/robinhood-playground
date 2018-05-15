@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "JONE",
+      "price": 0.7581
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.2062
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.105
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ONVO",
+      "price": 1.6599
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7691
+    },
+    {
+      "ticker": "AST",
+      "price": 1.685
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRVN",
+      "price": 2.025
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7739
+    },
+    {
+      "ticker": "AST",
+      "price": 1.825
+    }
+  ],
+  "140": [
+    {
+      "ticker": "OPK",
+      "price": 4.77
+    },
+    {
+      "ticker": "AST",
+      "price": 1.75
+    },
+    {
+      "ticker": "TRXC",
+      "price": 2.3371
+    }
+  ],
+  "198": [
+    {
+      "ticker": "TRXC",
+      "price": 2.4
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.29
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.3799
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TRXC",
+      "price": 2.3699
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.32
+    },
+    {
+      "ticker": "CHK",
+      "price": 3.54
+    }
+  ],
+  "300": [
+    {
+      "ticker": "IPI",
+      "price": 4.31
+    },
+    {
+      "ticker": "GNC",
+      "price": 3.38
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.7223
+    }
+  ]
+}

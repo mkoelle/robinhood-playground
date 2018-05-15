@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "OR",
+      "price": 10.65
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.542
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 10.475
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.8601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVC",
+      "price": 10.07
+    },
+    {
+      "ticker": "DF",
+      "price": 10.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAH",
+      "price": 10.96
+    },
+    {
+      "ticker": "DDF",
+      "price": 10.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRCI",
+      "price": 12.035
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JFR",
+      "price": 10.84
+    },
+    {
+      "ticker": "GLO",
+      "price": 11.025
+    }
+  ]
+}

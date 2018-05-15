@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SNMP",
+      "price": 12.65
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDP",
+      "price": 14.1
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.085
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SRCI",
+      "price": 12.08
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GDP",
+      "price": 14.31
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRCI",
+      "price": 12.035
+    },
+    {
+      "ticker": "MAG",
+      "price": 11.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SRCI",
+      "price": 11.96
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.18
+    }
+  ]
+}

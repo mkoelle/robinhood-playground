@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 5.572
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 5.5604
+    },
+    {
+      "ticker": "XTNT",
+      "price": 6.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XTNT",
+      "price": 6.61
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.8152
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELMD",
+      "price": 5.35
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.679
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTN",
+      "price": 6
+    },
+    {
+      "ticker": "XTNT",
+      "price": 6.5344
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELMD",
+      "price": 5.32
+    },
+    {
+      "ticker": "NTN",
+      "price": 5.75
+    }
+  ]
+}

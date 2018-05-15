@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MTP",
+      "price": 0.78
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.82
+    },
+    {
+      "ticker": "LLIT",
+      "price": 1.78
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HGSH",
+      "price": 1.3525
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.8061
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.21
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IDN",
+      "price": 1.88
+    },
+    {
+      "ticker": "PGLC",
+      "price": 1.92
+    },
+    {
+      "ticker": "JOB",
+      "price": 2.49
+    }
+  ]
+}

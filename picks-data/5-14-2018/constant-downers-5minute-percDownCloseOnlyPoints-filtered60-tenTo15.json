@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 14.225
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.17
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.76
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SYBX",
+      "price": 11.1
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.4
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SYBX",
+      "price": 11.06
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.44
+    },
+    {
+      "ticker": "STRL",
+      "price": 12.67
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "CRON",
+      "price": 6.56
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.875
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.775
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.95
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRON",
+      "price": 6.6601
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.51
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.1603
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRON",
+      "price": 6.5199
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.45
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRON",
+      "price": 6.6124
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.455
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRON",
+      "price": 6.514
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.405
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.545
+    }
+  ]
+}

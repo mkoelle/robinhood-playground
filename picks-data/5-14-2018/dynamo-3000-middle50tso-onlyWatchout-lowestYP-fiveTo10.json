@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 9.64
+    },
+    {
+      "ticker": "RENN",
+      "price": 8.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "P",
+      "price": 7.2
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 5.2528
+    },
+    {
+      "ticker": "RRD",
+      "price": 6.5933
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SLS",
+      "price": 5.65
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6.2954
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IDT",
+      "price": 5.295
+    },
+    {
+      "ticker": "RRD",
+      "price": 6.585
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TENX",
+      "price": 6.12
+    },
+    {
+      "ticker": "BKD",
+      "price": 7.585
+    }
+  ]
+}

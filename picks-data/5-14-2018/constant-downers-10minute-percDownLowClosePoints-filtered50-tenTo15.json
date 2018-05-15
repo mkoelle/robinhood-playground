@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LOOP",
+      "price": 12.9
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.5
+    },
+    {
+      "ticker": "TAST",
+      "price": 12.025
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.53
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.93
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GDP",
+      "price": 13.461
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.5
+    },
+    {
+      "ticker": "IRDM",
+      "price": 11.675
+    }
+  ]
+}

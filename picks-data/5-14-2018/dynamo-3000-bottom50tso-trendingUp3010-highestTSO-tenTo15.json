@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AAC",
+      "price": 11.84
+    },
+    {
+      "ticker": "INN",
+      "price": 14.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMMT",
+      "price": 13.81
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRPL",
+      "price": 10.14
+    },
+    {
+      "ticker": "CPE",
+      "price": 13.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BHR",
+      "price": 10.695
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRPL",
+      "price": 10.1
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSRM",
+      "price": 10.575
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.5
+    }
+  ]
+}

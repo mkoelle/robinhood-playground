@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BLNK",
+      "price": 5.6763
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.9954
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 5.9184
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.7999
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNLO",
+      "price": 9.63
+    },
+    {
+      "ticker": "WOW",
+      "price": 8.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNLO",
+      "price": 9.51
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNLO",
+      "price": 9.5
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNLO",
+      "price": 9.52
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.71
+    }
+  ]
+}
