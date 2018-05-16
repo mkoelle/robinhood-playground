@@ -27,27 +27,23 @@ const longtermhot = [
 ];
 
 const forPurchase = [
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10-95',
-    'ups-then-downs-prevClose-fiveTo10-200',
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-150',
-    'sudden-drops-last1trend-first1-fiveTo10-280',
-    'dynamo-3000-overall-absvolume-tenTo15-40',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-fiveTo10-150',
-    'constant-downers-10minute-percDownLowClose-highovernightjumps-77',
-    'low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-tenTo15-315',
-    'sudden-drops-last3trend-first1-280',
-    'sudden-drops-last5trend-first2-221',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-150',
-    'sudden-drops-last2trend-first1-fiveTo10-6',
-    // 'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first1-fiveTo10-0',
-    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend5to10-95',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown1to3-210',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10-fiveTo10-95',
+    'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first1-fiveTo10-0',
     'constant-risers-5minute-percUpHighClosePoints-filtered60-100',
-    'dynamo-3000-top50tso-trendingUp3010-5lowestYP-tenTo15-351',
-    '[10IncTodayCount6-topPerformers85-uniq-first3]',
-    '[10IncTodayCount6-topPerformers85-first3]',
-    '[16IncTodayCount9-topPerformers85-uniq-first3]',
-    '[16Count5-topPerformers85-first1]',
-    '[16Count5-topPerformers85-first1]'
+    'based-on-jump-down3overnight-trending607-notWatchout-first1-tenTo15-16',
+    'dynamo-3000-bottom50tso-twoweekvolumetoavg-fiveTo10-4',
+    'sudden-drops-last5trend-first2-fiveTo10-328',
+    'dynamo-3000-middle50tso-overall-lowestYP-fiveTo10-4',
+    'constant-downers-10minute-percDownLowClosePoints-filtered40-77',
+    'sudden-drops-last3trend-first2-fiveTo10-328',
+
+    '[16Count5-topPerformers85-uniq-first1]',
+    '[16Count5-topPerformers85-uniq-first1]',
+    '[16Count5-topPerformers85-uniq-first1]',
+    '[10IncTodayCount6-topPerformers85-first3]'
 ];
 
 const cheapestPicksEmailObj = [

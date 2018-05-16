@@ -85,7 +85,7 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
 };
 
 
-module.exports = async (Robinhood, strategy, min, toPurchase, priceFilterSuffix) => {
+module.exports = async (Robinhood, strategy, min, toPurchase, priceFilterSuffix = '') => {
 
     const record = async (stocks, strategyName, tickerLookups) => {
         const withPrices = stocks.map(ticker => {
