@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HEAR",
+      "price": 14.74
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HEAR",
+      "price": 14.7938
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3212
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDP",
+      "price": 14.25
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.71
+    },
+    {
+      "ticker": "FET",
+      "price": 14.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VALE",
+      "price": 14.9125
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.63
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.585
+    },
+    {
+      "ticker": "FET",
+      "price": 14.825
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INSE",
+      "price": 6.5
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.0233
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.02
+    }
+  ]
+}

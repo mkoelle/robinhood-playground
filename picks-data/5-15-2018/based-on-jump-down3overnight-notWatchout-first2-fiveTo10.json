@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XSPL",
+      "price": 6.26
+    },
+    {
+      "ticker": "NATR",
+      "price": 8.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 6.3
+    },
+    {
+      "ticker": "NATR",
+      "price": 8.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XSPL",
+      "price": 6.5999
+    },
+    {
+      "ticker": "NATR",
+      "price": 8.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XSPL",
+      "price": 6.4001
+    },
+    {
+      "ticker": "NATR",
+      "price": 8.8
+    }
+  ]
+}

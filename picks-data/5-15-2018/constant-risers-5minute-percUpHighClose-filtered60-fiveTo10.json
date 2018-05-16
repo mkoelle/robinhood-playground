@@ -1,0 +1,74 @@
+{
+  "40": [
+    {
+      "ticker": "CLWT",
+      "price": 5.95
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.99
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.225
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EGC",
+      "price": 7.92
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.75
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBD",
+      "price": 8.74
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.53
+    },
+    {
+      "ticker": "PSEC",
+      "price": 6.69
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DEPO",
+      "price": 7.45
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.645
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.98
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DEPO",
+      "price": 7.46
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.48
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.8214
+    }
+  ],
+  "250": [],
+  "300": []
+}

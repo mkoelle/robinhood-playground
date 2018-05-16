@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.5438
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.1
+    }
+  ]
+}

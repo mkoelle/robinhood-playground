@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "EIGR",
+      "price": 10.6
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    },
+    {
+      "ticker": "QD",
+      "price": 11.5814
+    },
+    {
+      "ticker": "HX",
+      "price": 11.755
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIGR",
+      "price": 10.795
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    },
+    {
+      "ticker": "QD",
+      "price": 11.4425
+    },
+    {
+      "ticker": "HX",
+      "price": 11.755
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EIGR",
+      "price": 10.855
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    },
+    {
+      "ticker": "QD",
+      "price": 11.46
+    },
+    {
+      "ticker": "HX",
+      "price": 11.755
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EIGR",
+      "price": 11.1
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    },
+    {
+      "ticker": "QD",
+      "price": 11.4042
+    },
+    {
+      "ticker": "HX",
+      "price": 11.8475
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.725
+    }
+  ]
+}

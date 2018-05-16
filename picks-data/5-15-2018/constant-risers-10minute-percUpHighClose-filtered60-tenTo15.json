@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TACO",
+      "price": 11.6
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.385
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.08
+    }
+  ],
+  "80": [
+    {
+      "ticker": "PRMW",
+      "price": 14.1348
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.3
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.3678
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.85
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.59
+    },
+    {
+      "ticker": "SXC",
+      "price": 12.7
+    }
+  ],
+  "140": [
+    {
+      "ticker": "GME",
+      "price": 13.495
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.995
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.99
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.92
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.55
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.9953
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.9638
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FOLD",
+      "price": 14.57
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.865
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.595
+    }
+  ]
+}

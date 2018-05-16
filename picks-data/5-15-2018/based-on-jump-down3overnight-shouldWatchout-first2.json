@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OMNT",
+      "price": 0.9408
+    },
+    {
+      "ticker": "ISNS",
+      "price": 3.375
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OMNT",
+      "price": 1.15
+    },
+    {
+      "ticker": "ISNS",
+      "price": 3.3705
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OMNT",
+      "price": 0.9841
+    },
+    {
+      "ticker": "ISNS",
+      "price": 3.4398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OMNT",
+      "price": 0.91
+    },
+    {
+      "ticker": "ISNS",
+      "price": 3.5001
+    }
+  ]
+}

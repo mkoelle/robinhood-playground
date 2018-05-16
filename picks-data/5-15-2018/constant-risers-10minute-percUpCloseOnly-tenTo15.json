@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "TACO",
+      "price": 11.6
+    },
+    {
+      "ticker": "PRMW",
+      "price": 13.81
+    },
+    {
+      "ticker": "SXC",
+      "price": 12.58
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DDD",
+      "price": 13.3678
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.1348
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.915
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CISN",
+      "price": 13.56
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.28
+    },
+    {
+      "ticker": "RUN",
+      "price": 11.105
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CISN",
+      "price": 13.7
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.99
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.845
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ITUB",
+      "price": 12.96
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.92
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SOXS",
+      "price": 10.9638
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.79
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.7025
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SOXS",
+      "price": 10.865
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.78
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.595
+    }
+  ]
+}

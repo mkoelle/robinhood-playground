@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLM",
+      "price": 14.5653
+    },
+    {
+      "ticker": "CRF",
+      "price": 14.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UMRX",
+      "price": 10.6391
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UMRX",
+      "price": 10.4
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.7548
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMRX",
+      "price": 10.5301
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.7472
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMRX",
+      "price": 10.68
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.9401
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOV",
+      "price": 12.65
+    },
+    {
+      "ticker": "UMRX",
+      "price": 10.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOV",
+      "price": 12.65
+    },
+    {
+      "ticker": "UMRX",
+      "price": 10.74
+    }
+  ]
+}

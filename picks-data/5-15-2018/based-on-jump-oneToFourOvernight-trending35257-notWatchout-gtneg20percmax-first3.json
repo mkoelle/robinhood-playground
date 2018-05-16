@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.1804
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.69
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.82
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.22
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.69
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.251
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.69
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.278
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.7
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.765
+    }
+  ]
+}

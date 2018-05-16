@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 3.75
+    },
+    {
+      "ticker": "PME",
+      "price": 3.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UTSI",
+      "price": 4.9201
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 3.765
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.845
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DDE",
+      "price": 1.8287
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.735
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMC",
+      "price": 2.74
+    },
+    {
+      "ticker": "LTS",
+      "price": 3.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 4.35
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIE",
+      "price": 4.3475
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.63
+    }
+  ]
+}

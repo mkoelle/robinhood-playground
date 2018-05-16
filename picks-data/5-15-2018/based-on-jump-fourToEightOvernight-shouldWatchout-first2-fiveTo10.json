@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TVIX",
+      "price": 5.4358
+    },
+    {
+      "ticker": "INO",
+      "price": 5.0001
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 5.47
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIX",
+      "price": 5.4874
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIX",
+      "price": 5.555
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6
+    }
+  ]
+}

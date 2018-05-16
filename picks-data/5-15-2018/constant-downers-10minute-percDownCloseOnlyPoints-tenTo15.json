@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LIVE",
+      "price": 13.1692
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.39
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.5355
+    }
+  ],
+  "242": [
+    {
+      "ticker": "XNET",
+      "price": 12.1501
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.2142
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.55
+    }
+  ],
+  "309": [
+    {
+      "ticker": "XNET",
+      "price": 12.11
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.14
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.1498
+    }
+  ]
+}

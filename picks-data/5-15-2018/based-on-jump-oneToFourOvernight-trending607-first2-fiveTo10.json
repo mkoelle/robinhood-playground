@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JYNT",
+      "price": 7.74
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JYNT",
+      "price": 7.74
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JYNT",
+      "price": 7.8875
+    },
+    {
+      "ticker": "MFCB",
+      "price": 6.4865
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JYNT",
+      "price": 7.62
+    },
+    {
+      "ticker": "MFCB",
+      "price": 6.45
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.15
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.06
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.5438
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "CTEK",
+      "price": 4.1
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.4
+    }
+  ]
+}

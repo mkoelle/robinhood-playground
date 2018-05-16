@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ADAP",
+      "price": 12.56
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.9162
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.977
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADAP",
+      "price": 12.64
+    },
+    {
+      "ticker": "DRNA",
+      "price": 15.63
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADAP",
+      "price": 12.49
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.7467
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADAP",
+      "price": 12.46
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.7467
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.8
+    }
+  ]
+}

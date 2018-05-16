@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCM",
+      "price": 12.9
+    },
+    {
+      "ticker": "RMBS",
+      "price": 13.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NQP",
+      "price": 12.4686
+    },
+    {
+      "ticker": "SRET",
+      "price": 14.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHIE",
+      "price": 12.94
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DMB",
+      "price": 12.39
+    },
+    {
+      "ticker": "MUJ",
+      "price": 13.199
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BNY",
+      "price": 12.8693
+    },
+    {
+      "ticker": "ERC",
+      "price": 12.805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNI",
+      "price": 12.3201
+    },
+    {
+      "ticker": "PML",
+      "price": 12.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JDD",
+      "price": 12.1874
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.49
+    }
+  ]
+}

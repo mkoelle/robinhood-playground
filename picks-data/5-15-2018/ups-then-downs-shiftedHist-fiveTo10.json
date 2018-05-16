@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "BTAI",
+      "price": 9.842
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BTAI",
+      "price": 9.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 9.67
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.5436
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.86
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BTAI",
+      "price": 9.8
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.63
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.74
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BTAI",
+      "price": 9.7699
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.59
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.83
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BTAI",
+      "price": 9.8
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.6
+    },
+    {
+      "ticker": "MNLO",
+      "price": 9.87
+    }
+  ]
+}

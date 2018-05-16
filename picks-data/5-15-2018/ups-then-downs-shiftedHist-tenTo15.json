@@ -1,0 +1,49 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "DF",
+      "price": 10.1201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.085
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.48
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DF",
+      "price": 10.065
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DF",
+      "price": 10.08
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.46
+    }
+  ],
+  "600": [
+    {
+      "ticker": "USAT",
+      "price": 11.75
+    },
+    {
+      "ticker": "DF",
+      "price": 10.08
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.4
+    }
+  ]
+}

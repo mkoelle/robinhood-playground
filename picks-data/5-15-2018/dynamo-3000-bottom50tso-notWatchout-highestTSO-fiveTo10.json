@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ADRO",
+      "price": 8.208
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.395
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASLN",
+      "price": 6.2
+    },
+    {
+      "ticker": "PEI",
+      "price": 9.435
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTL",
+      "price": 5.8
+    },
+    {
+      "ticker": "ASLN",
+      "price": 6.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 7.6
+    },
+    {
+      "ticker": "ADT",
+      "price": 7.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATAX",
+      "price": 6.3642
+    },
+    {
+      "ticker": "GECC",
+      "price": 9.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATAX",
+      "price": 6.35
+    },
+    {
+      "ticker": "GPIC",
+      "price": 8.7681
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDLY",
+      "price": 5.15
+    },
+    {
+      "ticker": "AHT",
+      "price": 6.85
+    }
+  ]
+}

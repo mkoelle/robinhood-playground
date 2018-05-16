@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GLDD",
+      "price": 4.875
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SEII",
+      "price": 4.525
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ISNS",
+      "price": 3.7139
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ISNS",
+      "price": 3.8585
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ISNS",
+      "price": 3.9
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ISNS",
+      "price": 3.7489
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ISNS",
+      "price": 3.8
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.63
+    }
+  ]
+}

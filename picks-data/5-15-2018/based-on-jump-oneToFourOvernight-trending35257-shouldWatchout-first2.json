@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "AIPT",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 0.981
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 0.9801
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 0.9557
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.23
+    }
+  ]
+}

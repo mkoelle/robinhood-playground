@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.725
+    }
+  ]
+}

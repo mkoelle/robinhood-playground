@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NID",
+      "price": 12.4416
+    },
+    {
+      "ticker": "HNW",
+      "price": 14.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.38
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AOBC",
+      "price": 11.31
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 12.425
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 13.51
+    },
+    {
+      "ticker": "PZE",
+      "price": 11.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPOK",
+      "price": 14.7
+    },
+    {
+      "ticker": "SIEB",
+      "price": 11.2399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPOR",
+      "price": 10.805
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.1582
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QUOT",
+      "price": 13.475
+    },
+    {
+      "ticker": "TPRE",
+      "price": 13.3
+    }
+  ]
+}

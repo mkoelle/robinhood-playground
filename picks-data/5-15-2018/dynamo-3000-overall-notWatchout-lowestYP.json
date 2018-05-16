@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WWR",
+      "price": 0.4501
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.585
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WWR",
+      "price": 0.431
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.73
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRKR",
+      "price": 0.709
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRKR",
+      "price": 0.7195
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.455
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WWR",
+      "price": 0.4375
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7199
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WWR",
+      "price": 0.4398
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.711
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WWR",
+      "price": 0.435
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7263
+    }
+  ]
+}

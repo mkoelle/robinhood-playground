@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KOSS",
+      "price": 2.32
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.735
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOSS",
+      "price": 2.32
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.65
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.629
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KOSS",
+      "price": 2.32
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOSS",
+      "price": 2.43
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.45
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.2
+    }
+  ]
+}

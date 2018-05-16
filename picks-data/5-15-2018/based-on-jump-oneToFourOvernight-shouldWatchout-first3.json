@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "NVFY",
+      "price": 1.88
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.7775
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8354
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.85
+    },
+    {
+      "ticker": "CARV",
+      "price": 3.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.65
+    },
+    {
+      "ticker": "CARV",
+      "price": 3.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.625
+    },
+    {
+      "ticker": "CARV",
+      "price": 3.06
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AVGR",
+      "price": 1.19
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.1728
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVGR",
+      "price": 1.22
+    },
+    {
+      "ticker": "OMNT",
+      "price": 0.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVGR",
+      "price": 1.22
+    },
+    {
+      "ticker": "OMNT",
+      "price": 0.9383
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMNT",
+      "price": 0.94
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3189
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMNT",
+      "price": 1.18
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3147
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVGR",
+      "price": 1.245
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVGR",
+      "price": 1.265
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.12
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CCCL",
+      "price": 1.79
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.1804
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.22
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.79
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.6157
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.251
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.278
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8489
+    },
+    {
+      "ticker": "ONVO",
+      "price": 1.625
+    }
+  ]
+}

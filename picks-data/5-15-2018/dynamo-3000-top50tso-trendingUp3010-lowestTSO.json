@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CCIH",
+      "price": 1.336
+    },
+    {
+      "ticker": "CALI",
+      "price": 2.7852
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.29
+    },
+    {
+      "ticker": "MYND",
+      "price": 3.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PYDS",
+      "price": 1.99
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.6348
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IPI",
+      "price": 4.555
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASNA",
+      "price": 2.75
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AHPI",
+      "price": 2.9
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LTRX",
+      "price": 2.505
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2879
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NTWK",
+      "price": 5.2
+    },
+    {
+      "ticker": "PES",
+      "price": 5.051
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTWK",
+      "price": 5.05
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVFM",
+      "price": 5.61
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVFM",
+      "price": 5.7
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 5.66
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVFM",
+      "price": 5.65
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 5.65
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.6
+    }
+  ]
+}

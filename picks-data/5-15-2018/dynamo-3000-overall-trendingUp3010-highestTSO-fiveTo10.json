@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEMP",
+      "price": 5.5999
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.6168
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 5.707
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.9899
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 5.695
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 5.72
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.0599
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEMP",
+      "price": 5.72
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.7268
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APVO",
+      "price": 5.77
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.645
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APVO",
+      "price": 5.84
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.74
+    }
+  ]
+}

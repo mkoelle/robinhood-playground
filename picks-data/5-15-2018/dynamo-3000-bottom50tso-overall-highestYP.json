@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CASM",
+      "price": 1.3174
+    },
+    {
+      "ticker": "TST",
+      "price": 1.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRXC",
+      "price": 2.3486
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.0886
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTBC",
+      "price": 3.5053
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2752
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVM",
+      "price": 2.935
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 1.59
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.4802
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CVM",
+      "price": 2.78
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.433
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DDE",
+      "price": 1.7001
+    },
+    {
+      "ticker": "CVM",
+      "price": 2.79
+    }
+  ]
+}

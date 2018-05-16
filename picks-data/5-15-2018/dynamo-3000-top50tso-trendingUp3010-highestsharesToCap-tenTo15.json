@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFSW",
+      "price": 10.28
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.285
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RLH",
+      "price": 10.2
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GIFI",
+      "price": 10.15
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GIFI",
+      "price": 10.3
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GIFI",
+      "price": 10.25
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.6513
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 10.81
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGLE",
+      "price": 10.67
+    },
+    {
+      "ticker": "ESND",
+      "price": 10.955
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CDTI",
+      "price": 0.69
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.1444
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CDTI",
+      "price": 0.6801
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CDTI",
+      "price": 0.67
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.109
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CDTI",
+      "price": 0.6786
+    },
+    {
+      "ticker": "TNTR",
+      "price": 1.08
+    }
+  ]
+}

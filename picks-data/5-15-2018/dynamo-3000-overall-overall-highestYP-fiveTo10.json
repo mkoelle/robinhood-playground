@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.55
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.515
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TVIX",
+      "price": 5.54
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 9.4986
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.5932
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USLV",
+      "price": 9.54
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TVIX",
+      "price": 5.62
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.585
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.73
+    },
+    {
+      "ticker": "VIIZ",
+      "price": 6.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USLV",
+      "price": 9.575
+    },
+    {
+      "ticker": "VIIZ",
+      "price": 6.63
+    }
+  ]
+}

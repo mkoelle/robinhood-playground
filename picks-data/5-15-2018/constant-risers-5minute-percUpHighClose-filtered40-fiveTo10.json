@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CLWT",
+      "price": 5.95
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.4
+    },
+    {
+      "ticker": "VRAY",
+      "price": 6.86
+    }
+  ],
+  "80": [
+    {
+      "ticker": "LGCY",
+      "price": 8.7
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.92
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.355
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DEPO",
+      "price": 7.38
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.305
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.53
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DEPO",
+      "price": 7.45
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.645
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.835
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DEPO",
+      "price": 7.46
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.6452
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.505
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DEPO",
+      "price": 7.43
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.6699
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.53
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TVIX",
+      "price": 5.6501
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.63
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.515
+    }
+  ]
+}

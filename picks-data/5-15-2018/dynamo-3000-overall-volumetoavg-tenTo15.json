@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LIVE",
+      "price": 13.13
+    },
+    {
+      "ticker": "RMBS",
+      "price": 13.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVE",
+      "price": 13.3598
+    },
+    {
+      "ticker": "SRET",
+      "price": 14.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVE",
+      "price": 13.185
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVE",
+      "price": 13.09
+    },
+    {
+      "ticker": "MUJ",
+      "price": 13.199
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 13.1862
+    },
+    {
+      "ticker": "ERC",
+      "price": 12.805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XNET",
+      "price": 12.06
+    },
+    {
+      "ticker": "PML",
+      "price": 12.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRNA",
+      "price": 13.25
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.49
+    }
+  ]
+}

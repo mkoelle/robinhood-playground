@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "VIPS",
+      "price": 12.355
+    },
+    {
+      "ticker": "PRMW",
+      "price": 13.81
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.68
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DDD",
+      "price": 13.3678
+    },
+    {
+      "ticker": "DF",
+      "price": 10.23
+    },
+    {
+      "ticker": "RUN",
+      "price": 11.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 12.59
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.28
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.935
+    }
+  ],
+  "140": [
+    {
+      "ticker": "FOLD",
+      "price": 14.47
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.8495
+    },
+    {
+      "ticker": "CISN",
+      "price": 13.7
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "I",
+      "price": 13.7766
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.66
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.55
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.2286
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.7025
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FOLD",
+      "price": 14.57
+    },
+    {
+      "ticker": "TNDM",
+      "price": 11.631
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.595
+    }
+  ]
+}

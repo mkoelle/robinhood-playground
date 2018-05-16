@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CXRX",
+      "price": 0.3117
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.1728
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.29
+    },
+    {
+      "ticker": "CREG",
+      "price": 2.1095
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BVSN",
+      "price": 2.14
+    },
+    {
+      "ticker": "OMNT",
+      "price": 0.9383
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DEST",
+      "price": 2.82
+    },
+    {
+      "ticker": "OMNT",
+      "price": 0.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 3.73
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNC",
+      "price": 3.545
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.3974
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AUTO",
+      "price": 3.27
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.12
+    }
+  ]
+}

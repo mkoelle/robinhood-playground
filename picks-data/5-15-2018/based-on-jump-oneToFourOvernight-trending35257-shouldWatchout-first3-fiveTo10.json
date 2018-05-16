@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "INSE",
+      "price": 6.5
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.0233
+    },
+    {
+      "ticker": "METC",
+      "price": 7.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    },
+    {
+      "ticker": "METC",
+      "price": 7.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    },
+    {
+      "ticker": "METC",
+      "price": 7.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.02
+    },
+    {
+      "ticker": "METC",
+      "price": 7.505
+    }
+  ]
+}

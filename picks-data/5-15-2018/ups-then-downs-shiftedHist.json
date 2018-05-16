@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "DHXM",
+      "price": 2.85
+    },
+    {
+      "ticker": "MCEP",
+      "price": 2.075
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.36
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MCEP",
+      "price": 2.0758
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCEP",
+      "price": 2.11
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.93
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MCEP",
+      "price": 2.1648
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.9
+    },
+    {
+      "ticker": "AGEN",
+      "price": 3.35
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MCEP",
+      "price": 2.169
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.8622
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MCEP",
+      "price": 2.15
+    }
+  ]
+}

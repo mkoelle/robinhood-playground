@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JNUG",
+      "price": 13.92
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.505
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JNUG",
+      "price": 13.96
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JNUG",
+      "price": 13.95
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.0531
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JNUG",
+      "price": 14.125
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.285
+    }
+  ]
+}

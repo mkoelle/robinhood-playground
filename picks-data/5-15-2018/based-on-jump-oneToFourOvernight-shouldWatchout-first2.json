@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "NVFY",
+      "price": 1.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8354
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVFY",
+      "price": 1.8
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.625
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.22
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.251
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.278
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.8489
+    }
+  ]
+}

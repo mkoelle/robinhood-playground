@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDTX",
+      "price": 4.5
+    },
+    {
+      "ticker": "YRIV",
+      "price": 4.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSLR",
+      "price": 4.1
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ICAD",
+      "price": 3.46
+    },
+    {
+      "ticker": "SN",
+      "price": 3.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICAD",
+      "price": 3.4
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.1748
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICAD",
+      "price": 3.419
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GALT",
+      "price": 4.25
+    },
+    {
+      "ticker": "ICAD",
+      "price": 3.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ICAD",
+      "price": 3.4025
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.1
+    }
+  ]
+}

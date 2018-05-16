@@ -1,0 +1,79 @@
+{
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 11.08
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.68
+    },
+    {
+      "ticker": "PRMW",
+      "price": 13.81
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RKDA",
+      "price": 10.94
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.3678
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.1348
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDD",
+      "price": 13.28
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.935
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.59
+    }
+  ],
+  "140": [
+    {
+      "ticker": "TNDM",
+      "price": 11.3
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.58
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.47
+    }
+  ],
+  "198": [
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.66
+    },
+    {
+      "ticker": "I",
+      "price": 13.7766
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.55
+    }
+  ],
+  "300": []
+}

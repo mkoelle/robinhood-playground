@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.48
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.55
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.6
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.6
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    }
+  ]
+}

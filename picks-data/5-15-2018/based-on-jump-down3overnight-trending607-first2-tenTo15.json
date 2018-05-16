@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BOXL",
+      "price": 10.7906
+    },
+    {
+      "ticker": "HEAR",
+      "price": 14.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BOXL",
+      "price": 9.8001
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEAR",
+      "price": 14.55
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEAR",
+      "price": 14.876
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.125
+    }
+  ]
+}

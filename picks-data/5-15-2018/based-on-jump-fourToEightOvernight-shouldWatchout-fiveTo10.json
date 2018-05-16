@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "TVIX",
+      "price": 5.4358
+    },
+    {
+      "ticker": "INO",
+      "price": 5.0001
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6.35
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 5.47
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6.35
+    },
+    {
+      "ticker": "INO",
+      "price": 5.105
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIX",
+      "price": 5.4874
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6.35
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.425
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIX",
+      "price": 5.555
+    },
+    {
+      "ticker": "CLRO",
+      "price": 6
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.4347
+    }
+  ]
+}

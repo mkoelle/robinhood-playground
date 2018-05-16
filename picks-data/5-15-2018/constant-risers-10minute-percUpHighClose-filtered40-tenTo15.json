@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "AMD",
+      "price": 12.3226
+    },
+    {
+      "ticker": "CLSD",
+      "price": 12.14
+    },
+    {
+      "ticker": "HEAR",
+      "price": 14.73
+    }
+  ],
+  "80": [
+    {
+      "ticker": "PRMW",
+      "price": 14.1348
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.505
+    },
+    {
+      "ticker": "SXC",
+      "price": 12.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 11.28
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.59
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.29
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SPN",
+      "price": 11.49
+    },
+    {
+      "ticker": "GME",
+      "price": 13.495
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.47
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GME",
+      "price": 13.5
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.9849
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.55
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.4799
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.9953
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UVXY",
+      "price": 12.57
+    },
+    {
+      "ticker": "GME",
+      "price": 13.5
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.1601
+    }
+  ]
+}

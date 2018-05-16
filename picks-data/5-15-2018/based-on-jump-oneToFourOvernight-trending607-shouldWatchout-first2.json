@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.1999
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VII",
+      "price": 0.425
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VII",
+      "price": 0.4043
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VII",
+      "price": 0.4
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.23
+    }
+  ]
+}

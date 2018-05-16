@@ -1,0 +1,134 @@
+{
+  "10": [
+    {
+      "ticker": "ENG",
+      "price": 0.81
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.641
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.47
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.26
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.6
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RSLS",
+      "price": 0.43
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7101
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.9611
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.649
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.5601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RSLS",
+      "price": 0.436
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.6951
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.565
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.8
+    },
+    {
+      "ticker": "ENG",
+      "price": 0.9501
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RSLS",
+      "price": 0.4494
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7052
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.5683
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.8
+    },
+    {
+      "ticker": "ENG",
+      "price": 0.9501
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RSLS",
+      "price": 0.43
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7094
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.7
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.568
+    },
+    {
+      "ticker": "ENG",
+      "price": 0.9401
+    }
+  ],
+  "600": [
+    {
+      "ticker": "RSLS",
+      "price": 0.43
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.7076
+    },
+    {
+      "ticker": "CRIS",
+      "price": 0.5647
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.71
+    },
+    {
+      "ticker": "ENG",
+      "price": 0.9401
+    }
+  ]
+}

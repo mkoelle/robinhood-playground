@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "NTWK",
+      "price": 5.2
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.69
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTWK",
+      "price": 5.05
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.68
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.1499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTWK",
+      "price": 5.15
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.7841
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 7.8501
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2276
+    },
+    {
+      "ticker": "JNP",
+      "price": 9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTWK",
+      "price": 5.05
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.9201
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2276
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTWK",
+      "price": 5.15
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.825
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2276
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTWK",
+      "price": 5.1
+    },
+    {
+      "ticker": "FPI",
+      "price": 7.805
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2276
+    }
+  ]
+}

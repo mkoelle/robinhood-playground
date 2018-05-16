@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TORC",
+      "price": 10.9
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADAP",
+      "price": 12.36
+    },
+    {
+      "ticker": "OTEL",
+      "price": 13.655
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMTA",
+      "price": 12.9143
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRNA",
+      "price": 13.94
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 13.38
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.1332
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRNA",
+      "price": 13.51
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRNA",
+      "price": 13.25
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.36
+    }
+  ]
+}

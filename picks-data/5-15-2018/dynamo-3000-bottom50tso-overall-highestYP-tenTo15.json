@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ECYT",
+      "price": 11.63
+    },
+    {
+      "ticker": "CDNA",
+      "price": 10.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 10.18
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 10.46
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRNA",
+      "price": 13.94
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 13.38
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRNA",
+      "price": 13.51
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRNA",
+      "price": 13.25
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.415
+    }
+  ]
+}

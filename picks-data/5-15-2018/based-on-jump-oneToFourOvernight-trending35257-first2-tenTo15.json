@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIGR",
+      "price": 10.6
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIGR",
+      "price": 10.795
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EIGR",
+      "price": 10.855
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EIGR",
+      "price": 11.1
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.8
+    }
+  ]
+}

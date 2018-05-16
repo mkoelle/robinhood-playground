@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.21
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.4438
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADMA",
+      "price": 5.4272
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.25
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.3301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APVO",
+      "price": 5.535
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.465
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 9.7
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.7268
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APVO",
+      "price": 5.77
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APVO",
+      "price": 5.84
+    },
+    {
+      "ticker": "PES",
+      "price": 5.4
+    }
+  ]
+}

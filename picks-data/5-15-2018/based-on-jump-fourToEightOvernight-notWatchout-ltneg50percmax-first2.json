@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.775
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHMA",
+      "price": 1.5328
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8
+    }
+  ]
+}

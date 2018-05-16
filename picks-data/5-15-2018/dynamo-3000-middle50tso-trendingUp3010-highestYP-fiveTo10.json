@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XENE",
+      "price": 6.5822
+    },
+    {
+      "ticker": "CTSO",
+      "price": 8.425
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 7.72
+    },
+    {
+      "ticker": "CYRX",
+      "price": 9.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNCE",
+      "price": 9
+    },
+    {
+      "ticker": "TK",
+      "price": 8.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OLO",
+      "price": 6.3927
+    },
+    {
+      "ticker": "JMBA",
+      "price": 9.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FMSA",
+      "price": 6.3014
+    },
+    {
+      "ticker": "SHSP",
+      "price": 8.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCL",
+      "price": 9.3007
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.3927
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYRX",
+      "price": 9.609
+    },
+    {
+      "ticker": "SHSP",
+      "price": 8.24
+    }
+  ]
+}

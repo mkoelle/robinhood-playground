@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MACK",
+      "price": 8.62
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.175
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MACK",
+      "price": 8.63
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.185
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NLNK",
+      "price": 5.15
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MACK",
+      "price": 8.645
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLNT",
+      "price": 7.4
+    },
+    {
+      "ticker": "JILL",
+      "price": 5.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NLNK",
+      "price": 5.175
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLNK",
+      "price": 5.41
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.185
+    }
+  ]
+}

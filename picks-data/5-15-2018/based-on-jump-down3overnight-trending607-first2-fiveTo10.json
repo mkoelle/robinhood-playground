@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALDX",
+      "price": 8.15
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALDX",
+      "price": 8.3851
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOXL",
+      "price": 9.9
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOXL",
+      "price": 9.5
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.452
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 4.3842
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.1999
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.85
+    },
+    {
+      "ticker": "VII",
+      "price": 0.4383
+    },
+    {
+      "ticker": "SYNC",
+      "price": 2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VII",
+      "price": 0.425
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.29
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.1397
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.82
+    },
+    {
+      "ticker": "SYNC",
+      "price": 1.9852
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VII",
+      "price": 0.4043
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.22
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.0697
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.8125
+    },
+    {
+      "ticker": "SYNC",
+      "price": 1.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VII",
+      "price": 0.4
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.23
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.0625
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.8435
+    },
+    {
+      "ticker": "SYNC",
+      "price": 1.955
+    }
+  ]
+}

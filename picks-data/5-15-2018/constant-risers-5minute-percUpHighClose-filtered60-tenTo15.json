@@ -1,0 +1,79 @@
+{
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 12.385
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.95
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.68
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RKDA",
+      "price": 10.94
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.3858
+    },
+    {
+      "ticker": "DF",
+      "price": 10.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 12.59
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.28
+    },
+    {
+      "ticker": "GME",
+      "price": 13.575
+    }
+  ],
+  "140": [
+    {
+      "ticker": "UVXY",
+      "price": 12.58
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.6464
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.47
+    }
+  ],
+  "198": [
+    {
+      "ticker": "DNOW",
+      "price": 14.62
+    },
+    {
+      "ticker": "FOLD",
+      "price": 14.53
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.66
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FOLD",
+      "price": 14.55
+    }
+  ],
+  "300": []
+}

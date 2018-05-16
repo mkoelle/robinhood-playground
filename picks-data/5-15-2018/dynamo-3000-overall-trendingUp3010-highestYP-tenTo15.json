@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ECYT",
+      "price": 11.63
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.425
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 11.73
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.513
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 11.65
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.5499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 11.91
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECYT",
+      "price": 11.99
+    },
+    {
+      "ticker": "CDNA",
+      "price": 10.805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECYT",
+      "price": 12.1582
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.528
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECYT",
+      "price": 12.09
+    },
+    {
+      "ticker": "CDNA",
+      "price": 10.97
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.175
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AKBA",
+      "price": 10.17
+    },
+    {
+      "ticker": "SE",
+      "price": 10.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 10.21
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.155
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BHR",
+      "price": 10.35
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BHR",
+      "price": 10.305
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.6001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNI",
+      "price": 10.05
+    },
+    {
+      "ticker": "BHR",
+      "price": 10.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPL",
+      "price": 10.05
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.14
+    }
+  ]
+}

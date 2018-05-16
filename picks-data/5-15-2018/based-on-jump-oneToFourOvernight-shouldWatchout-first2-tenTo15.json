@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIGR",
+      "price": 10.6
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIGR",
+      "price": 10.795
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EIGR",
+      "price": 10.855
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.6192
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EIGR",
+      "price": 11.1
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.8555
+    }
+  ]
+}

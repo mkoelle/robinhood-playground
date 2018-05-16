@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MHLD",
+      "price": 7.4
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GEMP",
+      "price": 5.5999
+    },
+    {
+      "ticker": "MHLD",
+      "price": 7.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOXL",
+      "price": 9.9
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOXL",
+      "price": 9.5
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.707
+    }
+  ]
+}

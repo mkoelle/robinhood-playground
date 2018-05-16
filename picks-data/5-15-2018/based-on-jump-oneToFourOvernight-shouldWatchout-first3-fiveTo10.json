@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.48
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.5
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 7.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.55
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.6
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 7.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.6
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 7.69
+    }
+  ]
+}

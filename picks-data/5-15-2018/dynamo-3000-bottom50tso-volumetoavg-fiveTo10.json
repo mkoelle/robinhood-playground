@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DAVE",
+      "price": 7.701
+    },
+    {
+      "ticker": "CVGI",
+      "price": 8.26
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DAVE",
+      "price": 7.3528
+    },
+    {
+      "ticker": "SBS",
+      "price": 7.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BOXL",
+      "price": 9.22
+    },
+    {
+      "ticker": "LEVB",
+      "price": 5.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BOXL",
+      "price": 9.2304
+    },
+    {
+      "ticker": "MTEM",
+      "price": 8.525
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRPH",
+      "price": 5.0401
+    },
+    {
+      "ticker": "ABUS",
+      "price": 6.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SORL",
+      "price": 5.58
+    },
+    {
+      "ticker": "SNFCA",
+      "price": 5.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SORL",
+      "price": 5.5984
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.41
+    }
+  ]
+}

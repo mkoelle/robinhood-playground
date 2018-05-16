@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRMW",
+      "price": 13.46
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.505
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRMW",
+      "price": 13.6
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRMW",
+      "price": 13.55
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.0531
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRMW",
+      "price": 13.77
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.285
+    }
+  ]
+}

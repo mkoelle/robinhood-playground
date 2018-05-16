@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XSPL",
+      "price": 6.26
+    },
+    {
+      "ticker": "LFGR",
+      "price": 9.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 6.3
+    },
+    {
+      "ticker": "LFGR",
+      "price": 9.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XSPL",
+      "price": 6.5999
+    },
+    {
+      "ticker": "LFGR",
+      "price": 9.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XSPL",
+      "price": 6.4001
+    },
+    {
+      "ticker": "LFGR",
+      "price": 9.5
+    }
+  ]
+}

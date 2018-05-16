@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NVUS",
+      "price": 5.6882
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MARK",
+      "price": 5.21
+    },
+    {
+      "ticker": "NTWK",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVFM",
+      "price": 5.61
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.589
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVON",
+      "price": 9.1
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVON",
+      "price": 9.1
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CVON",
+      "price": 9.1
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVON",
+      "price": 9.21
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.65
+    }
+  ]
+}

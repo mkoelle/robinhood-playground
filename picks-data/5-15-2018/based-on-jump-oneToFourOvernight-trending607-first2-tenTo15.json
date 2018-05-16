@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIGR",
+      "price": 10.6
+    },
+    {
+      "ticker": "AMID",
+      "price": 11.175
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIGR",
+      "price": 10.795
+    },
+    {
+      "ticker": "AMID",
+      "price": 11.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EIGR",
+      "price": 10.855
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.895
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EIGR",
+      "price": 11.1
+    },
+    {
+      "ticker": "AMID",
+      "price": 11.0998
+    }
+  ]
+}

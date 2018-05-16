@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PRMW",
+      "price": 13.46
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.505
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRMW",
+      "price": 13.6
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.3
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRMW",
+      "price": 13.55
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.0531
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRMW",
+      "price": 13.77
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.285
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.45
+    }
+  ]
+}

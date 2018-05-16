@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ISR",
+      "price": 0.5539
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ISR",
+      "price": 0.5401
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ISR",
+      "price": 0.545
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.9016
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ISR",
+      "price": 0.55
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.8916
+    }
+  ]
+}

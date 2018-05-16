@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "SDPI",
+      "price": 2.2878
+    },
+    {
+      "ticker": "SID",
+      "price": 2.52
+    },
+    {
+      "ticker": "LUNA",
+      "price": 2.8982
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGEN",
+      "price": 3.411
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.29
+    },
+    {
+      "ticker": "SID",
+      "price": 2.555
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGEN",
+      "price": 3.589
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.26
+    },
+    {
+      "ticker": "SID",
+      "price": 2.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DLPN",
+      "price": 3.34
+    },
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DLPN",
+      "price": 3.34
+    },
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2086
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DLPN",
+      "price": 3.34
+    },
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DLPN",
+      "price": 3.34
+    },
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.86
+    }
+  ]
+}
