@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.82
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.295
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGVC",
+      "price": 10.445
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 14.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.9
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR.A",
+      "price": 14.9
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.5
+    }
+  ]
+}

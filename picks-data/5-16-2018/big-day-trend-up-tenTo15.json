@@ -1,0 +1,53 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "TIVO",
+      "price": 14.2
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CBAY",
+      "price": 12.445
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.375
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.03
+    },
+    {
+      "ticker": "LAUR",
+      "price": 14.79
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.65
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CRR",
+      "price": 11.71
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.65
+    },
+    {
+      "ticker": "CRVS",
+      "price": 9.97
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.6869
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.2
+    }
+  ]
+}

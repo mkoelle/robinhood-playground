@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VVUS",
+      "price": 0.5778
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.45
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.0851
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VVUS",
+      "price": 0.61
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.436
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.935
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VVUS",
+      "price": 0.6295
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.455
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.932
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVUS",
+      "price": 0.6105
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.455
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.9199
+    }
+  ]
+}

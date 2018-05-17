@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "NVGS",
+      "price": 10.95
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.19
+    },
+    {
+      "ticker": "FMO",
+      "price": 11.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVGS",
+      "price": 10.825
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.27
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EROS",
+      "price": 11.725
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.65
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.655
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMRK",
+      "price": 13.245
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.2025
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRK",
+      "price": 13.1
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.2
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRK",
+      "price": 13.05
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.79
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMRK",
+      "price": 13.115
+    },
+    {
+      "ticker": "SIEB",
+      "price": 10.77
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.7
+    }
+  ]
+}

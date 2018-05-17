@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CRBP",
+      "price": 6.4
+    },
+    {
+      "ticker": "JT",
+      "price": 6.18
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.05
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "IMH",
+      "price": 8.7
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.0801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "IMH",
+      "price": 8.73
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.1
+    }
+  ]
+}

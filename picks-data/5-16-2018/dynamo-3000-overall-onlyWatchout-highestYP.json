@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMRT",
+      "price": 3.9
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.7145
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMRT",
+      "price": 3.74
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.1893
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GVP",
+      "price": 3.26
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GVP",
+      "price": 3.3628
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.5099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.3628
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.4
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.3498
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GVP",
+      "price": 3.45
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.745
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HAIR",
+      "price": 3.7356
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRED",
+      "price": 1.79
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTD",
+      "price": 4.94
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.7368
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INSG",
+      "price": 1.8247
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2432
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.4993
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KTOV",
+      "price": 2.75
+    },
+    {
+      "ticker": "IHT",
+      "price": 3.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UONEK",
+      "price": 1.85
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.3807
+    }
+  ]
+}

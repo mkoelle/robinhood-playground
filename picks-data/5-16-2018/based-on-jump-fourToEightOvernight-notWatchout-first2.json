@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WSCI",
+      "price": 4.8
+    },
+    {
+      "ticker": "AVXL",
+      "price": 2.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FSI",
+      "price": 1.549
+    },
+    {
+      "ticker": "WSCI",
+      "price": 4.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FSI",
+      "price": 1.55
+    },
+    {
+      "ticker": "WSCI",
+      "price": 4.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FSI",
+      "price": 1.55
+    },
+    {
+      "ticker": "WSCI",
+      "price": 4.8
+    }
+  ]
+}

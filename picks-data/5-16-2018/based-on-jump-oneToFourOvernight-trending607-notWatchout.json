@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.04
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.77
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.77
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.65
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKR",
+      "price": 1.7562
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.04
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7705
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.77
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.77
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.76
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.7
+    },
+    {
+      "ticker": "BCLI",
+      "price": 3.98
+    }
+  ]
+}

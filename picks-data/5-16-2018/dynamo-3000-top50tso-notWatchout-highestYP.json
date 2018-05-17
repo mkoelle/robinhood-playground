@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TMQ",
+      "price": 1.37
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 3.44
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.36
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 3.52
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.685
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 3.53
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATEC",
+      "price": 3.6893
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.3958
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATEC",
+      "price": 3.67
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.405
+    }
+  ]
+}

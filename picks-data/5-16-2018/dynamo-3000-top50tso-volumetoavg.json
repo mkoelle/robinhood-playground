@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HAIR",
+      "price": 3.7356
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3196
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRED",
+      "price": 1.79
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.9194
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTD",
+      "price": 4.94
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INSG",
+      "price": 1.8247
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1948
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2432
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.795
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KTOV",
+      "price": 2.75
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UONEK",
+      "price": 1.85
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.21
+    }
+  ]
+}

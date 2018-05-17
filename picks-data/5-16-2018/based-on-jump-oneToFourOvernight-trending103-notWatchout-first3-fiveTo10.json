@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "JT",
+      "price": 6.18
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.36
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.05
+    },
+    {
+      "ticker": "JT",
+      "price": 6.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.0801
+    },
+    {
+      "ticker": "JT",
+      "price": 6.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.1
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.3
+    }
+  ]
+}

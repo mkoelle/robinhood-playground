@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TYHT",
+      "price": 1.691
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TYHT",
+      "price": 1.77
+    },
+    {
+      "ticker": "YOGA",
+      "price": 2.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REED",
+      "price": 2.8
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REED",
+      "price": 2.825
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.6795
+    }
+  ]
+}

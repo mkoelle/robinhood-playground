@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.1535
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.7501
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NLST",
+      "price": 0.1585
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.7598
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NLST",
+      "price": 0.157
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.7641
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NLST",
+      "price": 0.16
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.779
+    }
+  ]
+}

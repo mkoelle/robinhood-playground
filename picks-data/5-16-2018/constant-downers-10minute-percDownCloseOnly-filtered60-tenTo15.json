@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TREC",
+      "price": 13.05
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.05
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.57
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.125
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.1
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.57
+    }
+  ]
+}

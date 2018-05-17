@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.04
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHKR",
+      "price": 1.7562
+    },
+    {
+      "ticker": "AST",
+      "price": 1.841
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHKR",
+      "price": 1.779
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8262
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.76
+    }
+  ]
+}

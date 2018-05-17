@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "CIVI",
+      "price": 14.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCXI",
+      "price": 11.84
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.544
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCXI",
+      "price": 11.95
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.5595
+    }
+  ]
+}

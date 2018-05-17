@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MICT",
+      "price": 1.35
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.3423
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SAEX",
+      "price": 1.495
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SAEX",
+      "price": 1.54
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.4558
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KOOL",
+      "price": 0.545
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5417
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KOOL",
+      "price": 0.53
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5292
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.9
+    }
+  ]
+}

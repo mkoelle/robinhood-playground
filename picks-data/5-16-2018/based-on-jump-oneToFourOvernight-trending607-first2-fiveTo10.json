@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 5.36
+    },
+    {
+      "ticker": "DS",
+      "price": 5.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FENG",
+      "price": 5.05
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FENG",
+      "price": 5.0801
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICD",
+      "price": 5.1
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.42
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.1348
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UCFC",
+      "price": 10.25
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFSW",
+      "price": 10.2372
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMLP",
+      "price": 10.2496
+    },
+    {
+      "ticker": "IAE",
+      "price": 10.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IAE",
+      "price": 10.2714
+    },
+    {
+      "ticker": "SOIL",
+      "price": 10.6925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OCIP",
+      "price": 10.25
+    },
+    {
+      "ticker": "MAV",
+      "price": 10.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESND",
+      "price": 11.005
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.995
+    }
+  ]
+}

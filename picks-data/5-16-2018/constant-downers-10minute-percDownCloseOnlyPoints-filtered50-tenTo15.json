@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LIVE",
+      "price": 12.8
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.81
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.82
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LIVE",
+      "price": 12.7348
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.9
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LIVE",
+      "price": 12.56
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.8836
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.15
+    }
+  ]
+}

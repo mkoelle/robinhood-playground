@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XONE",
+      "price": 6.57
+    },
+    {
+      "ticker": "CVV",
+      "price": 7.6228
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVFM",
+      "price": 5.3087
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVFM",
+      "price": 5.5
+    },
+    {
+      "ticker": "VUZI",
+      "price": 5.641
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRIP",
+      "price": 6.749
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 6.771
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.7201
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 5.55
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.9
+    }
+  ]
+}

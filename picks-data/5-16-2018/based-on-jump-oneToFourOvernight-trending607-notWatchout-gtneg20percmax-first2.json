@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 1.77
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.7361
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICD",
+      "price": 5.04
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7705
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DDE",
+      "price": 1.76
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    }
+  ]
+}

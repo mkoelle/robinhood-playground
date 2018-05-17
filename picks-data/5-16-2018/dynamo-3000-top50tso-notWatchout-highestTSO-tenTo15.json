@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CWCO",
+      "price": 13.35
+    },
+    {
+      "ticker": "LBC",
+      "price": 12.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UMRX",
+      "price": 11.03
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBAY",
+      "price": 12.38
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRR",
+      "price": 11.8252
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIVO",
+      "price": 14.725
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BILI",
+      "price": 13.16
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.775
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BILI",
+      "price": 13.92
+    },
+    {
+      "ticker": "UMRX",
+      "price": 11.66
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RNGR",
+      "price": 8.99
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RNGR",
+      "price": 8.545
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.2665
+    }
+  ]
+}

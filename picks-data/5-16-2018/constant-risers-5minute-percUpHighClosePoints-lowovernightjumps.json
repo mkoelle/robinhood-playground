@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.1585
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.1266
+    },
+    {
+      "ticker": "DCAR",
+      "price": 1.75
+    }
+  ],
+  "80": [
+    {
+      "ticker": "NLST",
+      "price": 0.16
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1984
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.5653
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MEIP",
+      "price": 3.2183
+    },
+    {
+      "ticker": "DCAR",
+      "price": 1.8002
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1965
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MEIP",
+      "price": 3.22
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1985
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1576
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MEIP",
+      "price": 3.2949
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.7
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.7359
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MFIN",
+      "price": 4.799
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.2101
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.158
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MEIP",
+      "price": 3.28
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.7
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.795
+    }
+  ]
+}

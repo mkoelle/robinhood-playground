@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "IHT",
+      "price": 2.86
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.13
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.13
+    }
+  ],
+  "80": [
+    {
+      "ticker": "IHT",
+      "price": 2.88
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.2399
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4577
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IHT",
+      "price": 2.706
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.32
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.2854
+    }
+  ],
+  "140": [
+    {
+      "ticker": "IHT",
+      "price": 2.7438
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6676
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.2201
+    }
+  ],
+  "198": [
+    {
+      "ticker": "IHT",
+      "price": 2.551
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6853
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4949
+    }
+  ],
+  "250": [
+    {
+      "ticker": "VVUS",
+      "price": 0.67
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4628
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.22
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EBIO",
+      "price": 3.2866
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6525
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4552
+    }
+  ]
+}

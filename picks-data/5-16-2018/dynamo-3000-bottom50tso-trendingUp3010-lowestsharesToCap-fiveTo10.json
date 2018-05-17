@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPI",
+      "price": 9.665
+    },
+    {
+      "ticker": "TK",
+      "price": 8.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPI",
+      "price": 9.545
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.867
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDVT",
+      "price": 7.95
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 8.1246
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.565
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 7.9252
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 7.9134
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 7.95
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.325
+    }
+  ]
+}

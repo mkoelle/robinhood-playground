@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ADMA",
+      "price": 5.455
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADMA",
+      "price": 5.49
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADMA",
+      "price": 5.5
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADMA",
+      "price": 5.365
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.2665
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RNGR",
+      "price": 8.99
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.455
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.49
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ROSE",
+      "price": 8.225
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ROSE",
+      "price": 8.225
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.545
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.365
+    }
+  ]
+}

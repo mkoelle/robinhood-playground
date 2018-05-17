@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRPL",
+      "price": 8.75
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.665
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPL",
+      "price": 8.2436
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.545
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDVT",
+      "price": 7.95
+    },
+    {
+      "ticker": "PRPL",
+      "price": 7.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DZSI",
+      "price": 9.9
+    },
+    {
+      "ticker": "TZA",
+      "price": 9.8806
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DZSI",
+      "price": 9.979
+    },
+    {
+      "ticker": "TZA",
+      "price": 9.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DZSI",
+      "price": 9.92
+    },
+    {
+      "ticker": "TZA",
+      "price": 9.865
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DZSI",
+      "price": 9.91
+    },
+    {
+      "ticker": "RDVT",
+      "price": 7.95
+    }
+  ]
+}

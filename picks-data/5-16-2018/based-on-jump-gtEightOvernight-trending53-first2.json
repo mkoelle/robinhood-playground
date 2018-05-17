@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALT",
+      "price": 0.607
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.378
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALT",
+      "price": 0.67
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.378
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALT",
+      "price": 0.6708
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3639
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALT",
+      "price": 0.6538
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.355
+    }
+  ]
+}

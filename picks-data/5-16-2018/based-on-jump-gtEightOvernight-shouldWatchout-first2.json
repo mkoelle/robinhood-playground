@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MICT",
+      "price": 1.315
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MICT",
+      "price": 1.3467
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MICT",
+      "price": 1.3136
+    },
+    {
+      "ticker": "ENT",
+      "price": 1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MICT",
+      "price": 1.33
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.03
+    }
+  ]
+}

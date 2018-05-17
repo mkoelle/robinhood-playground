@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRTY",
+      "price": 14.725
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTY",
+      "price": 14.825
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTY",
+      "price": 14.825
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRTY",
+      "price": 14.775
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.3
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 5.36
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.99
+    },
+    {
+      "ticker": "LEVB",
+      "price": 5.0475
+    },
+    {
+      "ticker": "DS",
+      "price": 5.55
+    },
+    {
+      "ticker": "ENIC",
+      "price": 5.82
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.52
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.96
+    },
+    {
+      "ticker": "LEVB",
+      "price": 5.0492
+    },
+    {
+      "ticker": "DS",
+      "price": 5.605
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.66
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.96
+    },
+    {
+      "ticker": "LEVB",
+      "price": 5.0492
+    },
+    {
+      "ticker": "DS",
+      "price": 5.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.69
+    },
+    {
+      "ticker": "NRT",
+      "price": 8.96
+    },
+    {
+      "ticker": "DS",
+      "price": 5.8
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 1.56
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.4
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAIT",
+      "price": 1.55
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.39
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.246
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAIT",
+      "price": 1.5
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.5277
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2589
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAIT",
+      "price": 1.5316
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.52
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2601
+    }
+  ]
+}

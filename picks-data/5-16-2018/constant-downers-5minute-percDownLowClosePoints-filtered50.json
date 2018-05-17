@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LIFE",
+      "price": 1.25
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.315
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.3395
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LIFE",
+      "price": 0.9971
+    },
+    {
+      "ticker": "AST",
+      "price": 1.6322
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5415
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LIFE",
+      "price": 0.95
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.4487
+    },
+    {
+      "ticker": "AST",
+      "price": 1.5588
+    }
+  ]
+}

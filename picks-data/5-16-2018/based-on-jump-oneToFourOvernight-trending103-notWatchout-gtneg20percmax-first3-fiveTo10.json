@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 5.36
+    },
+    {
+      "ticker": "DS",
+      "price": 5.55
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.52
+    },
+    {
+      "ticker": "DS",
+      "price": 5.605
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.66
+    },
+    {
+      "ticker": "DS",
+      "price": 5.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.1
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.1
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.69
+    }
+  ]
+}

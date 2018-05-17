@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "RDVT",
+      "price": 9.1007
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.0994
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RDVT",
+      "price": 8.53
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.1064
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 8.1246
+    },
+    {
+      "ticker": "RDHL",
+      "price": 6.83
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.0608
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RDVT",
+      "price": 7.9042
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.1401
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RDVT",
+      "price": 7.87
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.159
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.325
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.12
+    }
+  ],
+  "600": [
+    {
+      "ticker": "RDVT",
+      "price": 7.8
+    },
+    {
+      "ticker": "PRPH",
+      "price": 5.1
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.3
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.11
+    }
+  ]
+}

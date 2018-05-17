@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SNAP",
+      "price": 10.63
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 11.359
+    },
+    {
+      "ticker": "CSTE",
+      "price": 14.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.99
+    },
+    {
+      "ticker": "QD",
+      "price": 12.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 11.1398
+    },
+    {
+      "ticker": "MNLO",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 11.1798
+    },
+    {
+      "ticker": "QD",
+      "price": 12.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 11.33
+    },
+    {
+      "ticker": "QD",
+      "price": 12.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 11.05
+    },
+    {
+      "ticker": "QD",
+      "price": 12.0999
+    }
+  ]
+}

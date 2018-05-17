@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TREC",
+      "price": 13.05
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.35
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CIX",
+      "price": 13.3335
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.448
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CIX",
+      "price": 13.3335
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.525
+    }
+  ]
+}

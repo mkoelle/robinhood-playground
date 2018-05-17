@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKTS",
+      "price": 6.28
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVFM",
+      "price": 5.3087
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 5.14
+    },
+    {
+      "ticker": "INS",
+      "price": 6.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADMA",
+      "price": 5.16
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 6.8896
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 6.7335
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INS",
+      "price": 6.7001
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.1
+    }
+  ]
+}

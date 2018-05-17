@@ -1,0 +1,74 @@
+{
+  "10": [
+    {
+      "ticker": "PDFS",
+      "price": 10.93
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.4
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.12
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PDFS",
+      "price": 10.9
+    },
+    {
+      "ticker": "GDP",
+      "price": 14.105
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.1875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PDFS",
+      "price": 10.955
+    },
+    {
+      "ticker": "GDP",
+      "price": 14
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.2358
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PDFS",
+      "price": 11.12
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.225
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PDFS",
+      "price": 11.07
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.2252
+    }
+  ],
+  "600": [
+    {
+      "ticker": "PDFS",
+      "price": 11.12
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.21
+    }
+  ]
+}

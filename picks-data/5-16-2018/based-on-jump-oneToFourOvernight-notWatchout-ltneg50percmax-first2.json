@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAVB",
+      "price": 0.23
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6703
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAVB",
+      "price": 0.23
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.7035
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.841
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.8262
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2295
+    }
+  ]
+}

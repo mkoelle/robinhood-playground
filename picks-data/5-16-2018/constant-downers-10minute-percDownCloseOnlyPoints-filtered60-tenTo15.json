@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 14.095
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.8
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.81
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LIVE",
+      "price": 12.7348
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.9
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LIVE",
+      "price": 12.56
+    },
+    {
+      "ticker": "ATTU",
+      "price": 10.44
+    },
+    {
+      "ticker": "NGL",
+      "price": 11
+    }
+  ]
+}

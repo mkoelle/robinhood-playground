@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.246
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4345
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.233
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2585
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.233
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.258
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2352
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2531
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2432
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2522
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.251
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2418
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.252
+    }
+  ]
+}

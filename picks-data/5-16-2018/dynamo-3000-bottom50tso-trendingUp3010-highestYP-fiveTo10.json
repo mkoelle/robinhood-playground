@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.48
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.815
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 8.7594
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFNX",
+      "price": 7.67
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NDLS",
+      "price": 9.6327
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 8.669
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 8.67
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APVO",
+      "price": 5.68
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.61
+    }
+  ]
+}

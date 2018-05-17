@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRMT",
+      "price": 13.6572
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.9745
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.8201
+    },
+    {
+      "ticker": "GAIN",
+      "price": 10.69
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.755
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.6999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRMT",
+      "price": 12.5
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.605
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 10.27
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.5
+    }
+  ]
+}

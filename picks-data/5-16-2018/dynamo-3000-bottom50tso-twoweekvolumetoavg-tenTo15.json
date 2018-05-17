@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRMT",
+      "price": 13.6572
+    },
+    {
+      "ticker": "RRC",
+      "price": 14.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.8201
+    },
+    {
+      "ticker": "INF",
+      "price": 12.3115
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.655
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRMT",
+      "price": 12.52
+    },
+    {
+      "ticker": "BHR",
+      "price": 10.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "CPE",
+      "price": 13.555
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRMT",
+      "price": 12.5
+    },
+    {
+      "ticker": "PRTY",
+      "price": 14.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 10.27
+    },
+    {
+      "ticker": "PLYA",
+      "price": 10.765
+    }
+  ]
+}

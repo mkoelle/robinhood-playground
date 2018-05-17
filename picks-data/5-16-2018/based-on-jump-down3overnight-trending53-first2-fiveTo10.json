@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RDVT",
+      "price": 9.01
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.245
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RDVT",
+      "price": 9.29
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.5836
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 8.82
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.6247
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 8.75
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.595
+    }
+  ]
+}

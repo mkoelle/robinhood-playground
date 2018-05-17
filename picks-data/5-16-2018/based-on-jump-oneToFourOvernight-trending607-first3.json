@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KONA",
+      "price": 2.99
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.7999
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KONA",
+      "price": 2.95
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.8999
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.2372
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REED",
+      "price": 2.8
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.836
+    },
+    {
+      "ticker": "EBIO",
+      "price": 2.8799
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REED",
+      "price": 2.825
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.95
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.05
+    }
+  ]
+}

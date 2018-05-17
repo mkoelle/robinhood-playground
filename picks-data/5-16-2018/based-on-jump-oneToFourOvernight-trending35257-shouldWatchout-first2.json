@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 2.8
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 2.8
+    },
+    {
+      "ticker": "KONA",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REED",
+      "price": 2.8
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REED",
+      "price": 2.825
+    },
+    {
+      "ticker": "CADC",
+      "price": 2.575
+    }
+  ]
+}

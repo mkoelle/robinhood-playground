@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6703
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3488
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6648
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3488
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.841
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.67
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3488
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.8262
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6698
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3401
+    }
+  ]
+}

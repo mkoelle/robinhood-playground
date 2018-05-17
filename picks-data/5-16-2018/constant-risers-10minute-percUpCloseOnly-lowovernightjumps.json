@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 0.1865
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.64
+    },
+    {
+      "ticker": "ESES",
+      "price": 0.91
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VSTM",
+      "price": 4.66
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1984
+    },
+    {
+      "ticker": "ESES",
+      "price": 0.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSTM",
+      "price": 4.6947
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1965
+    },
+    {
+      "ticker": "DCAR",
+      "price": 1.8002
+    }
+  ],
+  "140": [
+    {
+      "ticker": "VSTM",
+      "price": 4.66
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1985
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.765
+    }
+  ],
+  "198": [
+    {
+      "ticker": "MEIP",
+      "price": 3.2949
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.075
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.7359
+    }
+  ],
+  "250": [
+    {
+      "ticker": "MEIP",
+      "price": 3.2101
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.799
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.65
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MEIP",
+      "price": 3.28
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.795
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.67
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AMRC",
+      "price": 11.05
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.35
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.4
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.57
+    },
+    {
+      "ticker": "NSSC",
+      "price": 11.8
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PBIB",
+      "price": 13.52
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.2
+    }
+  ]
+}

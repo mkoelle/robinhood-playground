@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MFIN",
+      "price": 4.52
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MIND",
+      "price": 4
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MFIN",
+      "price": 4.6997
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QRHC",
+      "price": 2.2265
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MFIN",
+      "price": 4.6605
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MIND",
+      "price": 3.9881
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.6
+    }
+  ]
+}

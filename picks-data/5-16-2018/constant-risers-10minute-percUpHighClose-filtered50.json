@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "MYO",
+      "price": 3.61
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.72
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.13
+    }
+  ],
+  "80": [
+    {
+      "ticker": "ECR",
+      "price": 1.589
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.815
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECR",
+      "price": 1.58
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.32
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.315
+    }
+  ],
+  "140": [
+    {
+      "ticker": "MEET",
+      "price": 3.3
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.974
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.66
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HMNY",
+      "price": 0.684
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4949
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.7607
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HMNY",
+      "price": 0.6881
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.28
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HMNY",
+      "price": 0.7003
+    },
+    {
+      "ticker": "IDRA",
+      "price": 2.03
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6525
+    }
+  ]
+}

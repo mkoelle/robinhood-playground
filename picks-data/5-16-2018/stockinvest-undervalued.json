@@ -1,0 +1,42 @@
+{
+  "7": [
+    {
+      "ticker": "OSG",
+      "price": 3.44
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.25
+    }
+  ],
+  "60": [
+    {
+      "ticker": "OSG",
+      "price": 3.385
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.2
+    }
+  ],
+  "123": [
+    {
+      "ticker": "OSG",
+      "price": 3.425
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.2
+    }
+  ],
+  "263": [
+    {
+      "ticker": "OSG",
+      "price": 3.48
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.2
+    }
+  ]
+}

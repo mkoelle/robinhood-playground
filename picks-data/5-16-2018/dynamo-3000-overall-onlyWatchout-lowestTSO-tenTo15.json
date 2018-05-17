@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TGTX",
+      "price": 13.5205
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.306
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.8201
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 10.755
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10.6
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6718
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 10.6999
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.7348
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 10.605
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6956
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.725
+    },
+    {
+      "ticker": "NGL",
+      "price": 10.8
+    }
+  ]
+}

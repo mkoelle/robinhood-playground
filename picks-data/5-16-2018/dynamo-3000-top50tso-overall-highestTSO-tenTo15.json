@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CWCO",
+      "price": 13.35
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.6775
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BOXL",
+      "price": 10.32
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBAY",
+      "price": 12.38
+    },
+    {
+      "ticker": "CSTE",
+      "price": 14.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PCMI",
+      "price": 12.75
+    },
+    {
+      "ticker": "CRR",
+      "price": 11.8252
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0972
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTIE",
+      "price": 10.2551
+    },
+    {
+      "ticker": "GNPX",
+      "price": 11.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTIE",
+      "price": 10.732
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.92
+    }
+  ]
+}

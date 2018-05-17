@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PDFS",
+      "price": 10.79
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGTX",
+      "price": 13.7
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVA",
+      "price": 14.52
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UIS",
+      "price": 11.725
+    },
+    {
+      "ticker": "ALDR",
+      "price": 14.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKRX",
+      "price": 14.06
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 10.77
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.17
+    }
+  ]
+}

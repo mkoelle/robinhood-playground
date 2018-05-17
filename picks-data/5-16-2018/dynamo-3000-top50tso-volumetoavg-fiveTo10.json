@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVT",
+      "price": 9.033
+    },
+    {
+      "ticker": "ENDP",
+      "price": 6.3676
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IEC",
+      "price": 5.34
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSBR",
+      "price": 9.989
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.6291
+    }
+  ],
+  "200": [
+    {
+      "ticker": "P",
+      "price": 7.44
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LEVB",
+      "price": 5.2036
+    },
+    {
+      "ticker": "VOC",
+      "price": 6.0405
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AIRG",
+      "price": 8.2
+    },
+    {
+      "ticker": "CTSO",
+      "price": 9.425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TTOO",
+      "price": 7.34
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.07
+    }
+  ]
+}

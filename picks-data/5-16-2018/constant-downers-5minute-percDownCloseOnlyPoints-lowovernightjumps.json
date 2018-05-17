@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LKM",
+      "price": 0.7054
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.581
+    },
+    {
+      "ticker": "CETX",
+      "price": 2.125
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LKM",
+      "price": 0.8143
+    },
+    {
+      "ticker": "CETX",
+      "price": 1.9702
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5415
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LKM",
+      "price": 0.732
+    },
+    {
+      "ticker": "CETX",
+      "price": 2.035
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5423
+    }
+  ]
+}

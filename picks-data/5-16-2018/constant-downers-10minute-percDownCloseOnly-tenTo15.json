@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSU",
+      "price": 10.62
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.05
+    },
+    {
+      "ticker": "INF",
+      "price": 12.28
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.57
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.3
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TRMT",
+      "price": 12.54
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.1
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.2
+    }
+  ]
+}

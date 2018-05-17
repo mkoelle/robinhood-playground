@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.31
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.3025
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.4
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.23
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCXI",
+      "price": 11.84
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.14
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.2088
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCXI",
+      "price": 11.95
+    },
+    {
+      "ticker": "OOMA",
+      "price": 11.025
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.2729
+    }
+  ]
+}

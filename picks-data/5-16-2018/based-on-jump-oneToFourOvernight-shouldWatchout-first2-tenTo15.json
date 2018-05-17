@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCXI",
+      "price": 11.9
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCXI",
+      "price": 11.84
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCXI",
+      "price": 11.95
+    },
+    {
+      "ticker": "OOMA",
+      "price": 11.025
+    }
+  ]
+}

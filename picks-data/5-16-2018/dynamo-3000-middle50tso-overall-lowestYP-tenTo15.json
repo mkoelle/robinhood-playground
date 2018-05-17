@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DBD",
+      "price": 12.3
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMOS",
+      "price": 14.01
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FXP",
+      "price": 14.41
+    },
+    {
+      "ticker": "MYF",
+      "price": 13.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 14.55
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MPO",
+      "price": 13.09
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNSL",
+      "price": 11.18
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CARA",
+      "price": 12.44
+    },
+    {
+      "ticker": "ACH",
+      "price": 13.92
+    }
+  ]
+}

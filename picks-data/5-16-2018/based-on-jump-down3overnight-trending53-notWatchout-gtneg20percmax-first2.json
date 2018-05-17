@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 1.56
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAIT",
+      "price": 1.55
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAIT",
+      "price": 1.5
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.5277
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAIT",
+      "price": 1.5316
+    },
+    {
+      "ticker": "MFIN",
+      "price": 4.52
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HCAP",
+      "price": 10.149
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UCFC",
+      "price": 10.25
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFSW",
+      "price": 10.2372
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMLP",
+      "price": 10.2496
+    },
+    {
+      "ticker": "IAE",
+      "price": 10.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IPOA",
+      "price": 10.02
+    },
+    {
+      "ticker": "IAE",
+      "price": 10.2714
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPOA",
+      "price": 10.03
+    },
+    {
+      "ticker": "OCIP",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKI",
+      "price": 10.52
+    },
+    {
+      "ticker": "ESND",
+      "price": 11.005
+    }
+  ]
+}

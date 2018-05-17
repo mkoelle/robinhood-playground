@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RNGR",
+      "price": 8.99
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.455
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ROSE",
+      "price": 8.225
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ROSE",
+      "price": 8.225
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.545
+    }
+  ]
+}

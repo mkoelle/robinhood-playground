@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "RDVT",
+      "price": 9.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RDVT",
+      "price": 9.29
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.3068
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 8.82
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.2571
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 8.75
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.17
+    }
+  ]
+}

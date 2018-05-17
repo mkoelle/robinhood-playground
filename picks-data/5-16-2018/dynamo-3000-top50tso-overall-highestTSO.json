@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IHT",
+      "price": 2.6
+    },
+    {
+      "ticker": "DCAR",
+      "price": 1.8098
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IHT",
+      "price": 2.95
+    },
+    {
+      "ticker": "ENG",
+      "price": 0.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IHT",
+      "price": 2.7368
+    },
+    {
+      "ticker": "EBIO",
+      "price": 3.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IHT",
+      "price": 2.53
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4981
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IHT",
+      "price": 2.4993
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4751
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IHT",
+      "price": 3.1
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.478
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IHT",
+      "price": 2.3807
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4841
+    }
+  ]
+}
