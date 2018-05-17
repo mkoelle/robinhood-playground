@@ -127,8 +127,6 @@ const stratManager = {
         // console.log('STRATS HERE', this.strategies);
         const strategyReport = Object.entries(this.strategies).map(entry => {
             const [ stratName, trends ] = entry;
-            console.log('stratname', stratName);
-            console.log(trends, 'trends');
             // const foundStrategies = trends
             //     .filter(stratMin => {
             //         return stratMin.withPrices;
@@ -137,14 +135,10 @@ const stratManager = {
             let foundStrategies = trends
                 .map(stratMin => {
                     const foundStrategy = this.picks.find(pick => pick.stratMin === stratMin);
-                    console.log('foundStrategy', foundStrategy);
                     if (!foundStrategy) return null;
-                    console.log('found strategy', foundStrategy);
                     const { withPrices } = foundStrategy;
                     if (typeof withPrices[0] === 'string') return;
-                    console.log('withprices', withPrices);
                     const withTrend = withPrices.map(stratObj => {
-                        console.log('stratobj', stratObj);
                         const { lastTradePrice, afterHourPrice } = this.relatedPrices[stratObj.ticker];
                         const nowPrice = afterHourPrice || lastTradePrice;
                         return {
@@ -161,7 +155,7 @@ const stratManager = {
                     return avgTrend;
                 });
             const overallAvg = avgArray(foundStrategies.filter(val => !!val));
-            console.log(stratName, 'overall', overallAvg);
+            // console.log(stratName, 'overall', overallAvg);
             return {
                 pm: stratName,
                 avgTrend: overallAvg
@@ -173,12 +167,12 @@ const stratManager = {
                 pm,
                 avgTrend: avgTrend.toFixed(2) + '%'
             }));
-        console.log('stratrepo', strategyReport);
         const emailFormatted = strategyReport.map(strat => {
             return `${strat.avgTrend} ${strat.pm}`;
         }).join('\n');
         await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, emailFormatted);
         await jsonMgr.save(`./pm-perfs/${this.curDate}.json`, strategyReport);
+        console.log('send and updated strategy report')
     },
     async createAndSaveNewPredictionModels(todayPMpath) {
         console.log('creating new prediction models');
@@ -194,7 +188,7 @@ const stratManager = {
         try {
             var foundDayPMs = await jsonMgr.get(todayPMpath);
         } catch (e) { }
-        console.log('found pms', foundDayPMs);
+        // console.log('found pms', foundDayPMs);
         this.strategies = foundDayPMs ? foundDayPMs : await this.createAndSaveNewPredictionModels(todayPMpath);
     },
     async refreshPastData() {

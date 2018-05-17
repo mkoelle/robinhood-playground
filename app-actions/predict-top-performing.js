@@ -3,18 +3,7 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const avgArray = require('../utils/avg-array');
 const stratPerfOverall = require('../analysis/strategy-perf-overall');
-const stringSimilarity = require('string-similarity');
-
-
-const uniqifyArray = arrayOfStrategies => {
-    return arrayOfStrategies
-        .reduce((acc, val) => {
-            const shouldInclude = acc.every(strat => {
-                return stringSimilarity.compareTwoStrings(strat, val) < 0.85;
-            });
-            return shouldInclude ? acc.concat(val) : acc;
-        }, []);
-};
+const { uniqifyArray } = require('../utils/uniqify-stuff');
 
 const uniqifyObj = obj => {
     const removeCheapest = arr => arr

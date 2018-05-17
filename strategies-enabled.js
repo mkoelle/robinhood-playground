@@ -34,7 +34,6 @@ const forPurchase = [
     'dynamo-3000-bottom50tso-twoweekvolumetoavg-fiveTo10-4',
     'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-tenTo15-25',
     'dynamo-3000-middle50tso-onlyWatchout-lowestYP-fiveTo10-4',
-    'dynamo-3000-bottom50tso-twoweekvolumetoavg-fiveTo10-4',
     'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-315',
     'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend3to5-210',
     'sudden-drops-last1trend-first1-32',
@@ -47,8 +46,17 @@ const forPurchase = [
     'based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-16',
     'dynamo-3000-overall-notWatchout-highestYP-4',
     'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10-0',
-    ''
+    'based-on-jump-down3overnight-notWatchout-gtneg20percmax-first2-30',
+    'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first3-fiveTo10-0',
+    'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
+    'based-on-jump-fourToEightOvernight-trending35257-notWatchout-first3-fiveTo10-16',
+    'constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-140',
+    'based-on-jump-down3overnight-trending35257-notWatchout-gtneg20percmax-first1-fiveTo10-0',
+    'sudden-drops-last2trend-first1-tenTo15-14',
+    'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first1-fiveTo10-0',
 
+    '[16Count5-topPerformers85-first1]',
+    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first1]',
 ];
 
 const cheapestPicksEmailObj = [

@@ -34,13 +34,15 @@ const trendFilter = async (Robinhood, trend) => {
                 average_volume,
                 average_volume_2_weeks
             } = fundamentals;
+            const sharesToCap = shares_outstanding / market_cap;    // "float"
             return {
                 ...buy,
-                sharesToCap: shares_outstanding / market_cap,
+                sharesToCap,
                 volumetoavg: volume / average_volume,
                 volumeto2weekavg: volume / average_volume_2_weeks,
                 twoweekvolumetoavg: average_volume_2_weeks / average_volume,
-                absvolume: Number(volume)
+                absvolume: Number(volume),
+                floatToVolume: sharesToCap / volume,
             };
         })
         .filter(buy => !!buy.sharesToCap);
@@ -65,10 +67,9 @@ const trendFilter = async (Robinhood, trend) => {
     withTrendSinceOpen = addPoints('volToAvgPoints', 'volumetoavg');
     withTrendSinceOpen = addPoints('volTo2WeekPoints', 'volumeto2weekavg');
     withTrendSinceOpen = addPoints('twoWeekVolToAvgPoints', 'twoweekvolumetoavg');
+    withTrendSinceOpen = addPoints('floatToVolume', 'floatToVolume');
 
     console.log(withTrendSinceOpen);
-
-
 
     return Object.keys(withTrendSinceOpen[0])
         .filter(key => key.includes('floatTimes'))
