@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "INPX",
+      "price": 0.345
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.6087
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4299
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3519
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INPX",
+      "price": 0.34
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.345
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4299
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 1.7
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4251
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DCIX",
+      "price": 1.65
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4204
+    }
+  ]
+}

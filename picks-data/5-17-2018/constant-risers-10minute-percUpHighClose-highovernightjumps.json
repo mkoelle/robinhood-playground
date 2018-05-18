@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SDRL",
+      "price": 0.74
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.7761
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.26
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6682
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.7679
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6541
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.8106
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.275
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6348
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.7701
+    },
+    {
+      "ticker": "LKM",
+      "price": 0.8806
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6221
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.7562
+    },
+    {
+      "ticker": "LKM",
+      "price": 0.89
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SDRL",
+      "price": 0.5721
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.7652
+    },
+    {
+      "ticker": "LKM",
+      "price": 0.8805
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SDRL",
+      "price": 0.61
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.8
+    },
+    {
+      "ticker": "LKM",
+      "price": 0.8835
+    }
+  ]
+}

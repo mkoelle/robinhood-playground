@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IHT",
+      "price": 2.175
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IHT",
+      "price": 2.1434
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IHT",
+      "price": 2.3189
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNRX",
+      "price": 2.4
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.53
+    }
+  ]
+}

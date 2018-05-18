@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHEK",
+      "price": 5.0999
+    },
+    {
+      "ticker": "NEXT",
+      "price": 7.2451
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHEK",
+      "price": 5.22
+    },
+    {
+      "ticker": "NEXT",
+      "price": 7.2451
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHEK",
+      "price": 5.08
+    },
+    {
+      "ticker": "NEXT",
+      "price": 7.2451
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHEK",
+      "price": 5.065
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.8437
+    }
+  ]
+}

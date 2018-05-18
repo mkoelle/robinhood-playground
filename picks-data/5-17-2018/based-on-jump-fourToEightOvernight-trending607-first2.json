@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 1.2666
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.3326
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 1.26
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DSS",
+      "price": 1.38
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSS",
+      "price": 1.36
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.245
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EBR",
+      "price": 5.3
+    },
+    {
+      "ticker": "PRPL",
+      "price": 6.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EBR",
+      "price": 5.33
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DXR",
+      "price": 7.536
+    },
+    {
+      "ticker": "EBR",
+      "price": 5.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DXR",
+      "price": 6.9848
+    },
+    {
+      "ticker": "EBR",
+      "price": 5.28
+    }
+  ]
+}

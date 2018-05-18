@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "HSGX",
+      "price": 2.14
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3801
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHCI",
+      "price": 2.56
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TPIV",
+      "price": 3.6705
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.275
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPSH",
+      "price": 1.74
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BDSI",
+      "price": 2.3853
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.5701
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPSH",
+      "price": 1.67
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.85
+    }
+  ]
+}

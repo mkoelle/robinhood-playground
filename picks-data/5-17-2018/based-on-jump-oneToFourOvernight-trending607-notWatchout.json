@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.95
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.79
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.9615
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.026
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.9
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7947
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.9371
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.06
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.899
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.95
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.105
+    },
+    {
+      "ticker": "JAKK",
+      "price": 2.85
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7242
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "CDXS",
+      "price": 13.508
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BILI",
+      "price": 13.53
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.35
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BILI",
+      "price": 13.44
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.6534
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.25
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CRR",
+      "price": 10.51
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.57
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.25
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CRR",
+      "price": 10.57
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.55
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.25
+    }
+  ]
+}

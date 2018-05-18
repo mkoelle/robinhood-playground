@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASX",
+      "price": 5.115
+    },
+    {
+      "ticker": "VNET",
+      "price": 6.7622
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASX",
+      "price": 5.12
+    },
+    {
+      "ticker": "VNET",
+      "price": 6.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASX",
+      "price": 5.1452
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASX",
+      "price": 5.175
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.1818
+    }
+  ]
+}

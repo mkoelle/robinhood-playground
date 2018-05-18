@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IHT",
+      "price": 2.175
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.38
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IHT",
+      "price": 2.1434
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.33
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.6316
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IHT",
+      "price": 2.3189
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.35
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.849
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNRX",
+      "price": 2.4
+    },
+    {
+      "ticker": "IHT",
+      "price": 2.53
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.35
+    }
+  ]
+}

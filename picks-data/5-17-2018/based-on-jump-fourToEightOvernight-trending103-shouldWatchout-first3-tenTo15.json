@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ESND",
+      "price": 12.17
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.2134
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ESND",
+      "price": 12.47
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ESND",
+      "price": 12.83
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ESND",
+      "price": 12.53
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.1
+    }
+  ]
+}

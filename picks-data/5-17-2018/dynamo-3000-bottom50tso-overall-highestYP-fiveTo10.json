@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 6.7952
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.4482
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFNX",
+      "price": 7.2732
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.17
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LGCY",
+      "price": 9.9195
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.2885
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 7.35
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.4533
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.5
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.22
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.53
+    }
+  ]
+}

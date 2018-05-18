@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "BILI",
+      "price": 13.37
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.47
+    }
+  ],
+  "280": [
+    {
+      "ticker": "PAR",
+      "price": 14.01
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.6948
+    }
+  ],
+  "328": [
+    {
+      "ticker": "BCTF",
+      "price": 14.5
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.58
+    }
+  ],
+  "388": [
+    {
+      "ticker": "OBSV",
+      "price": 13.375
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.54
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.67
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.669
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CKPT",
+      "price": 3.9116
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6697
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CKPT",
+      "price": 3.7
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.66
+    }
+  ]
+}

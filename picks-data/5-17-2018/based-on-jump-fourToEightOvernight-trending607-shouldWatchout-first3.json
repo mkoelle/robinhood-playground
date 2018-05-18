@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 1.2666
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.3326
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.0772
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 1.26
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.3
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DSS",
+      "price": 1.38
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.25
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSS",
+      "price": 1.36
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.245
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.29
+    }
+  ]
+}

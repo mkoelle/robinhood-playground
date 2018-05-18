@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "SDRL",
+      "price": 0.74
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.825
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.835
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6682
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.2561
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6541
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.145
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.29
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6348
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.165
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.115
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6221
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.155
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.15
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CHK",
+      "price": 4.1273
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.5721
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.0866
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CHK",
+      "price": 4.23
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.61
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.105
+    }
+  ]
+}

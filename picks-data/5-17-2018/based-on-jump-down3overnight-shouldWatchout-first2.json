@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JCP",
+      "price": 2.75
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JCP",
+      "price": 2.7185
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JCP",
+      "price": 2.785
+    },
+    {
+      "ticker": "CODA",
+      "price": 3.6643
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCP",
+      "price": 2.8125
+    },
+    {
+      "ticker": "CODA",
+      "price": 3.6643
+    }
+  ]
+}

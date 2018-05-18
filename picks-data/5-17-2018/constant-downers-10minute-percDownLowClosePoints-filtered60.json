@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SYN",
+      "price": 0.24
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.65
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.69
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ALT",
+      "price": 0.5101
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.4022
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.285
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RSLS",
+      "price": 0.3944
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.5101
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.309
+    }
+  ]
+}

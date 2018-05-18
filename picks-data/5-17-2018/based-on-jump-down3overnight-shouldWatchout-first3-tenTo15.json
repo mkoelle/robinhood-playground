@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "JNCE",
+      "price": 11.7321
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JNCE",
+      "price": 11.6499
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JNCE",
+      "price": 12.45
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.8188
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JNCE",
+      "price": 12.25
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.95
+    }
+  ]
+}

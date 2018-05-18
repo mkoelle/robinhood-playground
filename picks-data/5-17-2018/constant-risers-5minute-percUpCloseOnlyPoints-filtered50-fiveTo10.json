@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 8.6
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.11
+    },
+    {
+      "ticker": "DS",
+      "price": 6.417
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DS",
+      "price": 6.545
+    },
+    {
+      "ticker": "APVO",
+      "price": 6.03
+    },
+    {
+      "ticker": "HK",
+      "price": 5.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APVO",
+      "price": 6.139
+    },
+    {
+      "ticker": "DS",
+      "price": 6.53
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.12
+    }
+  ],
+  "140": [
+    {
+      "ticker": "NERV",
+      "price": 7.471
+    },
+    {
+      "ticker": "DS",
+      "price": 6.5384
+    },
+    {
+      "ticker": "HK",
+      "price": 5.37
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HK",
+      "price": 5.435
+    },
+    {
+      "ticker": "DS",
+      "price": 6.562
+    },
+    {
+      "ticker": "APVO",
+      "price": 6.27
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HK",
+      "price": 5.515
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.305
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.98
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HK",
+      "price": 5.54
+    },
+    {
+      "ticker": "EXTR",
+      "price": 9.12
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.98
+    }
+  ]
+}

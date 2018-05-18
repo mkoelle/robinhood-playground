@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "JCP",
+      "price": 2.75
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.495
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.6097
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JCP",
+      "price": 2.7185
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.518
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.6601
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JCP",
+      "price": 2.785
+    },
+    {
+      "ticker": "LEVB",
+      "price": 4.8107
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.526
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCP",
+      "price": 2.8125
+    },
+    {
+      "ticker": "LEVB",
+      "price": 4.8
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.53
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.71
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "40": [
+    {
+      "ticker": "CRK",
+      "price": 10.19
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.46
+    },
+    {
+      "ticker": "LGCY",
+      "price": 10.44
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RIG",
+      "price": 14.1
+    },
+    {
+      "ticker": "SNAP",
+      "price": 10.795
+    },
+    {
+      "ticker": "CPE",
+      "price": 14.155
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIG",
+      "price": 14.1151
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.725
+    },
+    {
+      "ticker": "SNAP",
+      "price": 10.82
+    }
+  ],
+  "140": [
+    {
+      "ticker": "RIG",
+      "price": 14.0599
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.74
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.055
+    }
+  ],
+  "198": [
+    {
+      "ticker": "OAS",
+      "price": 12.795
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.81
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EIGR",
+      "price": 15.025
+    }
+  ],
+  "300": []
+}

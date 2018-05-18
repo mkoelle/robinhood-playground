@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "WOW",
+      "price": 8.22
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 9.01
+    },
+    {
+      "ticker": "EMES",
+      "price": 8.9399
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPWR",
+      "price": 9.37
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPWR",
+      "price": 9.3123
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.4101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZYNE",
+      "price": 9.8877
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZYNE",
+      "price": 9.83
+    },
+    {
+      "ticker": "RIOT",
+      "price": 9.4501
+    }
+  ]
+}

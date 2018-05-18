@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.79
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.9615
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7947
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.9371
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.95
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRPL",
+      "price": 6.6
+    },
+    {
+      "ticker": "PFNX",
+      "price": 7.285
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TOUR",
+      "price": 7.08
+    },
+    {
+      "ticker": "PTGX",
+      "price": 5.98
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.34
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TOUR",
+      "price": 6.98
+    },
+    {
+      "ticker": "PTGX",
+      "price": 6.05
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.42
+    }
+  ]
+}

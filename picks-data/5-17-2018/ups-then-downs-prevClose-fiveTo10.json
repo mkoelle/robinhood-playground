@@ -1,0 +1,61 @@
+{
+  "10": [
+    {
+      "ticker": "RIOT",
+      "price": 8.2058
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "LGCY",
+      "price": 8.401
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.18
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LGCY",
+      "price": 7.76
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LGCY",
+      "price": 7.68
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.1
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.85
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.22
+    }
+  ],
+  "600": [
+    {
+      "ticker": "LGCY",
+      "price": 7.69
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.11
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.78
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.65
+    }
+  ]
+}

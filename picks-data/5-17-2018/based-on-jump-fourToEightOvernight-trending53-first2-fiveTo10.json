@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHEK",
+      "price": 5.0999
+    },
+    {
+      "ticker": "PESI",
+      "price": 5.025
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOS",
+      "price": 7.65
+    },
+    {
+      "ticker": "CHEK",
+      "price": 5.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KOS",
+      "price": 7.655
+    },
+    {
+      "ticker": "CHEK",
+      "price": 5.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOS",
+      "price": 7.655
+    },
+    {
+      "ticker": "CHEK",
+      "price": 5.065
+    }
+  ]
+}

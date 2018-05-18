@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "EMES",
+      "price": 8.77
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.81
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.92
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.3001
+    },
+    {
+      "ticker": "SND",
+      "price": 7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMES",
+      "price": 8.725
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.81
+    },
+    {
+      "ticker": "HK",
+      "price": 5.09
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.59
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMES",
+      "price": 8.65
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.81
+    },
+    {
+      "ticker": "HK",
+      "price": 5.2
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.59
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMES",
+      "price": 8.76
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.6957
+    },
+    {
+      "ticker": "HK",
+      "price": 5.265
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.695
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.955
+    }
+  ]
+}

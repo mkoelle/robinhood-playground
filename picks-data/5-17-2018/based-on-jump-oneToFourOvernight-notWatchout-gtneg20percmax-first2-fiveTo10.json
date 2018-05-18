@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LGCY",
+      "price": 10.01
+    },
+    {
+      "ticker": "LONE",
+      "price": 6.8501
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LONE",
+      "price": 6.85
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LONE",
+      "price": 6.86
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KFFB",
+      "price": 8.93
+    },
+    {
+      "ticker": "LONE",
+      "price": 6.97
+    }
+  ]
+}

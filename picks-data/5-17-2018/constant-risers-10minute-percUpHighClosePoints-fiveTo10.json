@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CARV",
+      "price": 6.245
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.7493
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.4409
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CARV",
+      "price": 6.8362
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.221
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.5275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CARV",
+      "price": 6.841
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.604
+    },
+    {
+      "ticker": "IPIC",
+      "price": 10.0393
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CARV",
+      "price": 6.2721
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.9456
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.65
+    }
+  ],
+  "198": [
+    {
+      "ticker": "CARV",
+      "price": 6.66
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.1001
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.4803
+    }
+  ],
+  "250": [
+    {
+      "ticker": "CARV",
+      "price": 10.309
+    },
+    {
+      "ticker": "OPHC",
+      "price": 6.6753
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.5
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OPHC",
+      "price": 6.55
+    },
+    {
+      "ticker": "DS",
+      "price": 6.6036
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.45
+    }
+  ]
+}

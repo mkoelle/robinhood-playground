@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "DGII",
+      "price": 11.75
+    },
+    {
+      "ticker": "NVGS",
+      "price": 10.95
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.3325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHU",
+      "price": 14.32
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.51
+    },
+    {
+      "ticker": "AES",
+      "price": 12.215
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.1
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.4405
+    },
+    {
+      "ticker": "AES",
+      "price": 12.115
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBD",
+      "price": 12.67
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.4601
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBD",
+      "price": 12.67
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.15
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSM",
+      "price": 10.68
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.32
+    },
+    {
+      "ticker": "AES",
+      "price": 12.04
+    }
+  ]
+}

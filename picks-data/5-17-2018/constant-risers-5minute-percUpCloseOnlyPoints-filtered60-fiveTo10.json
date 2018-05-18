@@ -1,0 +1,80 @@
+{
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 8.6
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.11
+    },
+    {
+      "ticker": "DS",
+      "price": 6.417
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DS",
+      "price": 6.545
+    },
+    {
+      "ticker": "APVO",
+      "price": 6.03
+    },
+    {
+      "ticker": "HK",
+      "price": 5.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APVO",
+      "price": 6.139
+    },
+    {
+      "ticker": "DS",
+      "price": 6.53
+    },
+    {
+      "ticker": "SPWR",
+      "price": 9.4028
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DS",
+      "price": 6.5384
+    },
+    {
+      "ticker": "HK",
+      "price": 5.37
+    },
+    {
+      "ticker": "EXTR",
+      "price": 9.03
+    }
+  ],
+  "198": [
+    {
+      "ticker": "HK",
+      "price": 5.435
+    },
+    {
+      "ticker": "EXTR",
+      "price": 9.025
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HK",
+      "price": 5.515
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HK",
+      "price": 5.54
+    }
+  ]
+}

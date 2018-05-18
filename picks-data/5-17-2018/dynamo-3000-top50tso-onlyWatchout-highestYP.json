@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "SMRT",
+      "price": 3.6592
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMRT",
+      "price": 3.69
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.7246
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENSV",
+      "price": 1.31
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.6566
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENSV",
+      "price": 1.2798
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENSV",
+      "price": 1.269
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENSV",
+      "price": 1.285
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.64
+    }
+  ]
+}

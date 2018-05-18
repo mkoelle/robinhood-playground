@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.779
+    },
+    {
+      "ticker": "MTG",
+      "price": 10.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MNLO",
+      "price": 10.0501
+    },
+    {
+      "ticker": "NSH",
+      "price": 12.7147
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNLO",
+      "price": 10.05
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10.95
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 11
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEOS",
+      "price": 12.44
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.825
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BDSI",
+      "price": 2.2
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BDSI",
+      "price": 2.2715
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BDSI",
+      "price": 2.225
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BDSI",
+      "price": 2.375
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.58
+    }
+  ]
+}

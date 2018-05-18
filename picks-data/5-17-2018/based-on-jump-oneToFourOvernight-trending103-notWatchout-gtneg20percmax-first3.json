@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.79
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.26
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.9615
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 1.7947
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.795
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7242
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.2677
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DDE",
+      "price": 1.7242
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.52
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.83
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.79
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.9615
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7947
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.9371
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAIT",
+      "price": 1.61
+    },
+    {
+      "ticker": "EMX",
+      "price": 0.95
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7242
+    }
+  ]
+}

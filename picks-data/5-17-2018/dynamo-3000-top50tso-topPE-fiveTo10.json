@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "NTWK",
+      "price": 5.2752
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.56
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTWK",
+      "price": 5.35
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.55
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.3616
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTWK",
+      "price": 5.4
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.5518
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.505
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTWK",
+      "price": 5.4
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.5703
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTWK",
+      "price": 5.5
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.5
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTWK",
+      "price": 5.6
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.605
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.6
+    }
+  ]
+}

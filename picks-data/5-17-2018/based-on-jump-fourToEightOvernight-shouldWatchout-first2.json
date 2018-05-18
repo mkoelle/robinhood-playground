@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NDRA",
+      "price": 2.3
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NDRA",
+      "price": 2.12
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.5195
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NDRA",
+      "price": 2.13
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.5104
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NDRA",
+      "price": 2.1
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.5106
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SMRT",
+      "price": 3.6097
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.1205
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMRT",
+      "price": 3.6601
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.1311
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODA",
+      "price": 3.6643
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.55
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODA",
+      "price": 3.6643
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.71
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.1701
+    }
+  ]
+}

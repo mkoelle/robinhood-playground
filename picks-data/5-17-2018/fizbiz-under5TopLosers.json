@@ -1,0 +1,68 @@
+{
+  "2": [
+    {
+      "ticker": "LKM",
+      "price": 0.7566
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.97
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.09
+    },
+    {
+      "ticker": "CETX",
+      "price": 2.1199
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5566
+    }
+  ],
+  "12": [
+    {
+      "ticker": "LKM",
+      "price": 0.8856
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.949
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.08
+    },
+    {
+      "ticker": "CETX",
+      "price": 2.15
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5566
+    }
+  ],
+  "180": [
+    {
+      "ticker": "NIHD",
+      "price": 2.14
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.7389
+    },
+    {
+      "ticker": "ONCS",
+      "price": 1.6
+    },
+    {
+      "ticker": "JE",
+      "price": 3.69
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.665
+    }
+  ]
+}

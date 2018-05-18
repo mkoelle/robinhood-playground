@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CSTE",
+      "price": 15.2
+    },
+    {
+      "ticker": "TELL",
+      "price": 11.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TELL",
+      "price": 11.81
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.7898
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TELL",
+      "price": 11.81
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.879
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TELL",
+      "price": 11.92
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.84
+    }
+  ]
+}

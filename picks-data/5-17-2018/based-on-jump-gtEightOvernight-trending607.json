@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SDRL",
+      "price": 0.54
+    },
+    {
+      "ticker": "CARV",
+      "price": 4.86
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDRL",
+      "price": 0.5792
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.74
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDRL",
+      "price": 0.5732
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDRL",
+      "price": 0.6459
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.64
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "TELL",
+      "price": 11.77
+    },
+    {
+      "ticker": "GNPX",
+      "price": 11.8697
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TELL",
+      "price": 11.81
+    },
+    {
+      "ticker": "GNPX",
+      "price": 12.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TELL",
+      "price": 11.81
+    },
+    {
+      "ticker": "GNPX",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPI",
+      "price": 10.0148
+    },
+    {
+      "ticker": "TELL",
+      "price": 11.92
+    },
+    {
+      "ticker": "GNPX",
+      "price": 12.261
+    }
+  ]
+}

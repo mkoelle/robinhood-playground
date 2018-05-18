@@ -65,7 +65,7 @@ const mostPicked = {
                                 const min = strategy.split('-').pop();
                                 if (
                                     !acc.some(strat => strat.endsWith(`-${min}`) && strat.startsWith(strategy.substring(0, 5))) &&
-                                    !strategy.includes('cheapest-picks')
+                                    !['cheapest-picks', 'most-picked'].some(strat => strategy.includes(strat))
                                 ) {
                                     acc.push(strategy);
                                 }

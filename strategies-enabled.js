@@ -27,36 +27,15 @@ const longtermhot = [
 ];
 
 const forPurchase = [
-    'based-on-jump-down3overnight-trending607-notWatchout-first1-tenTo15-16',
-    'sudden-drops-last18trend-first2-fiveTo10-388',
-    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-fiveTo10-0',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-25',
-    'dynamo-3000-bottom50tso-twoweekvolumetoavg-fiveTo10-4',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-tenTo15-25',
-    'dynamo-3000-middle50tso-onlyWatchout-lowestYP-fiveTo10-4',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-315',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend3to5-210',
+    'sudden-drops-last18trend-filter10-280',
     'sudden-drops-last1trend-first1-32',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown1to3-tenTo15-6',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25',
-    'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first2-fiveTo10-30',
-    'dynamo-3000-overall-notWatchout-highestYP-fiveTo10-4',
-    'based-on-jump-fourToEightOvernight-trending35257-notWatchout-first2-fiveTo10-0',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend5to10-95',
-    'based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-16',
-    'dynamo-3000-overall-notWatchout-highestYP-4',
-    'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10-0',
-    'based-on-jump-down3overnight-notWatchout-gtneg20percmax-first2-30',
-    'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first3-fiveTo10-0',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-25',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-tenTo15-150',
     'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
-    'based-on-jump-fourToEightOvernight-trending35257-notWatchout-first3-fiveTo10-16',
-    'constant-risers-5minute-percUpCloseOnlyPoints-filtered40-fiveTo10-140',
-    'based-on-jump-down3overnight-trending35257-notWatchout-gtneg20percmax-first1-fiveTo10-0',
-    'sudden-drops-last2trend-first1-tenTo15-14',
-    'based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first1-fiveTo10-0',
-
-    '[16Count5-topPerformers85-first1]',
-    '[dayBeforeYesterdayPredictions-myPredictions-uniq-first1]',
+    'sudden-drops-last10trend-first1-fiveTo10-221',
+    'constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-100',
+    'dynamo-3000-bottom50tso-trendingUp3010-fiveTo10-4',
+    'based-on-jump-oneToFourOvernight-trending53-notWatchout-gtneg20percmax-first1-30',
 ];
 
 const cheapestPicksEmailObj = [

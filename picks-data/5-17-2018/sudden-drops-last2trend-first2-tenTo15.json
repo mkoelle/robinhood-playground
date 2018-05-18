@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "SNDX",
+      "price": 10.2
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.16
+    }
+  ],
+  "32": [
+    {
+      "ticker": "ESND",
+      "price": 12.5279
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.9595
+    }
+  ],
+  "63": [
+    {
+      "ticker": "CWCO",
+      "price": 13.04
+    },
+    {
+      "ticker": "JNCE",
+      "price": 12.04
+    }
+  ],
+  "221": [
+    {
+      "ticker": "CRT",
+      "price": 14.2551
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.37
+    }
+  ],
+  "280": [
+    {
+      "ticker": "CRR",
+      "price": 10.6948
+    },
+    {
+      "ticker": "PCOM",
+      "price": 12.18
+    }
+  ],
+  "328": [
+    {
+      "ticker": "TRMT",
+      "price": 12.2
+    },
+    {
+      "ticker": "UMRX",
+      "price": 11.44
+    }
+  ],
+  "388": [
+    {
+      "ticker": "OBSV",
+      "price": 13.375
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.69
+    }
+  ]
+}

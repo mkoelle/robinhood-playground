@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHNR",
+      "price": 2.2
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHNR",
+      "price": 2.1908
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHNR",
+      "price": 2.1799
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHNR",
+      "price": 2.08
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.64
+    }
+  ]
+}

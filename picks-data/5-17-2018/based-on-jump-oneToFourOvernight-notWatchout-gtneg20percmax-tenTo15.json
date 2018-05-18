@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CVE",
+      "price": 11.145
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.46
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.34
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.75
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.8645
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LGCY",
+      "price": 10.1664
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.79
+    },
+    {
+      "ticker": "CVE",
+      "price": 11.1638
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.3325
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LGCY",
+      "price": 10.2319
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.74
+    },
+    {
+      "ticker": "CVE",
+      "price": 11.25
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.3
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LGCY",
+      "price": 10.356
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.75
+    },
+    {
+      "ticker": "CVE",
+      "price": 11.315
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.3
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.885
+    }
+  ]
+}
