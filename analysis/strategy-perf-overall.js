@@ -130,6 +130,9 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         avgTrend,
         // trends: trends.map(t => Math.round(t)),
         percUp: trends.filter(t => t > 0).length / trends.length,
+        hundredResult: trends.reduce((acc, val) => {
+            return acc * (100 + val) / 100;
+        }, 100),
         count
     }));
 
@@ -146,16 +149,30 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         // .filter(t => t.trends.filter(trend => trend < 0).length < 8)
         .sort((a, b) => {
             return (b.percUp == a.percUp) ? b.avgTrend - a.avgTrend : b.percUp - a.percUp;
-        });
-
-
+        })
+        .slice(0);
 
     console.log('sorted by perc up')
     console.table(sortedByPercUp);
 
+    const sortedByHundredResult = withData
+        // .filter(t => t.trend.length > 30)
+        .filter(t => t.percUp === 1)
+        .filter(t => t.name.includes('low-float'))
+        .sort((a, b) => {
+            return (b.hundredResult == a.hundredResult) ? b.avgTrend - a.avgTrend : b.hundredResult - a.hundredResult;
+        })
+        .slice(0);
+
+    console.log('sorted by hundred result')
+    console.table(sortedByHundredResult);
+
+
+
     return {
         sortedByAvgTrend,
-        sortedByPercUp
+        sortedByPercUp,
+        sortedByHundredResult
     };
 
 };

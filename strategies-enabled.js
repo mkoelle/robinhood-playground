@@ -28,7 +28,10 @@ const longtermhot = [
 
 const forPurchase = [
     'sudden-drops-last18trend-filter10-280',
-    'sudden-drops-last1trend-first1-32',
+    // 'sudden-drops-last1trend-first1-32',
+    'dynamo-3000-absvolume-fiveTo10-200',
+    'sudden-drops-last18trend-first1-tenTo15-221',
+    'dynamo-3000-overall-onlyWatchout-highestTSO-fiveTo10-100',
     'low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-25',
     'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-tenTo15-150',
     'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
@@ -36,6 +39,8 @@ const forPurchase = [
     'constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-100',
     'dynamo-3000-bottom50tso-trendingUp3010-fiveTo10-4',
     'based-on-jump-oneToFourOvernight-trending53-notWatchout-gtneg20percmax-first1-30',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-25',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-6'
 ];
 
 const cheapestPicksEmailObj = [
