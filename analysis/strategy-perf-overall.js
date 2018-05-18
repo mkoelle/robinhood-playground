@@ -157,8 +157,8 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
 
     const sortedByHundredResult = withData
         // .filter(t => t.trend.length > 30)
-        .filter(t => t.percUp === 1)
-        .filter(t => t.name.includes('low-float'))
+        // .filter(t => t.percUp === 1)
+        // .filter(t => t.name.includes('low-float'))
         .sort((a, b) => {
             return (b.hundredResult == a.hundredResult) ? b.avgTrend - a.avgTrend : b.hundredResult - a.hundredResult;
         })

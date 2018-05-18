@@ -34,7 +34,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`19 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`15 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -65,7 +65,11 @@ const stratManager = {
     async newDay() {
         console.log('NEW DAY')
         await this.getRelatedPrices();
-        await this.sendStrategyReport();
+        try {
+            await this.sendStrategyReport();
+        } catch (e) {
+            console.log('error sending report', e);
+        }
         await this.refreshPastData();
         this.picks = [];
         await this.initPicksAndPMs();
@@ -77,7 +81,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(19);
+        compareDate.setMinutes(15);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
