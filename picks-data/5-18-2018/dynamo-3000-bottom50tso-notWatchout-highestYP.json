@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LTRX",
+      "price": 2.58
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.5952
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PME",
+      "price": 3.55
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.435
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PME",
+      "price": 3.55
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CJJD",
+      "price": 1.5678
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LRAD",
+      "price": 2.21
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LRAD",
+      "price": 2.2016
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SRRA",
+      "price": 2.65
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.34
+    }
+  ]
+}

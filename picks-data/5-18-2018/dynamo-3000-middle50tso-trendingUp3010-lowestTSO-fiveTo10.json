@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GER",
+      "price": 6.7
+    },
+    {
+      "ticker": "SJT",
+      "price": 7.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FGB",
+      "price": 6.25
+    },
+    {
+      "ticker": "ABR",
+      "price": 9.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TCRD",
+      "price": 7.81
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AINV",
+      "price": 5.615
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KND",
+      "price": 8.975
+    },
+    {
+      "ticker": "GRX",
+      "price": 9.7896
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NNY",
+      "price": 9.26
+    },
+    {
+      "ticker": "IGD",
+      "price": 7.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNE",
+      "price": 5.29
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.69
+    }
+  ]
+}

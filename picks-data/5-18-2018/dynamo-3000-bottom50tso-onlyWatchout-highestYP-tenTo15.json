@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ECYT",
+      "price": 14.1082
+    },
+    {
+      "ticker": "I",
+      "price": 14.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 10.97
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLUB",
+      "price": 10.65
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 12.6598
+    },
+    {
+      "ticker": "IMMR",
+      "price": 13.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 12.62
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 12.495
+    },
+    {
+      "ticker": "IMMR",
+      "price": 13.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 12.45
+    },
+    {
+      "ticker": "IMMR",
+      "price": 13.5
+    }
+  ]
+}

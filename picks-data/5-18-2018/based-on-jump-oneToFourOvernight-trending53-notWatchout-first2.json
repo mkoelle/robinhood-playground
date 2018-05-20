@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TRCH",
+      "price": 1.26
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2572
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2487
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.6193
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2487
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.5159
+    }
+  ]
+}

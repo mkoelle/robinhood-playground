@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "WPRT",
+      "price": 2.8366
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.15
+    },
+    {
+      "ticker": "GEN",
+      "price": 1.889
+    }
+  ],
+  "80": [
+    {
+      "ticker": "SDR",
+      "price": 1.3349
+    },
+    {
+      "ticker": "APPS",
+      "price": 1.785
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.305
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDR",
+      "price": 1.3298
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.9102
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.3401
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SDR",
+      "price": 1.3466
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.97
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.365
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SDR",
+      "price": 1.3442
+    },
+    {
+      "ticker": "CBL",
+      "price": 4.435
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.41
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SENS",
+      "price": 3.18
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.88
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.31
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CBL",
+      "price": 4.42
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.34
+    },
+    {
+      "ticker": "RIGL",
+      "price": 4.09
+    }
+  ]
+}

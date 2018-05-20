@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OVID",
+      "price": 9.2
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.1757
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PW",
+      "price": 6.2
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.19
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.4001
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XTNT",
+      "price": 6.0999
+    },
+    {
+      "ticker": "PW",
+      "price": 6.2
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XTNT",
+      "price": 6.0999
+    },
+    {
+      "ticker": "PW",
+      "price": 6.2
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.09
+    }
+  ]
+}

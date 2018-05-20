@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FCSC",
+      "price": 0.8128
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5553
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCSC",
+      "price": 0.8386
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3196
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5601
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCSC",
+      "price": 0.831
+    },
+    {
+      "ticker": "PED",
+      "price": 0.32
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.565
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCSC",
+      "price": 0.812
+    },
+    {
+      "ticker": "PED",
+      "price": 0.32
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5701
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FCSC",
+      "price": 0.8128
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.5
+    },
+    {
+      "ticker": "OMNT",
+      "price": 1.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCSC",
+      "price": 0.8386
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3196
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.525
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCSC",
+      "price": 0.831
+    },
+    {
+      "ticker": "PED",
+      "price": 0.32
+    },
+    {
+      "ticker": "QUMU",
+      "price": 2.2272
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCSC",
+      "price": 0.812
+    },
+    {
+      "ticker": "PED",
+      "price": 0.32
+    },
+    {
+      "ticker": "QUMU",
+      "price": 2.2272
+    }
+  ]
+}

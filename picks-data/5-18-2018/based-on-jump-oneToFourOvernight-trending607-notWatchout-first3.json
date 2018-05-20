@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4.445
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.765
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.47
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.755
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHK",
+      "price": 4.401
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.785
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 4.35
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.775
+    }
+  ]
+}

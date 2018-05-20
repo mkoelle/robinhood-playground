@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DWT",
+      "price": 7.23
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 6.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CVV",
+      "price": 7.4724
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPRO",
+      "price": 5.78
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.7675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSPI",
+      "price": 9.02
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 5.0611
+    },
+    {
+      "ticker": "XONE",
+      "price": 6.3999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVFM",
+      "price": 5.14
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GPRO",
+      "price": 5.415
+    },
+    {
+      "ticker": "CVV",
+      "price": 6.93
+    }
+  ]
+}

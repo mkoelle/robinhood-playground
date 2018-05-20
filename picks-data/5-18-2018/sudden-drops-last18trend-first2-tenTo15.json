@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "RNET",
+      "price": 11.6
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.9695
+    }
+  ],
+  "280": [
+    {
+      "ticker": "EIGR",
+      "price": 13.37
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.9695
+    }
+  ],
+  "328": [
+    {
+      "ticker": "EIGR",
+      "price": 13.8361
+    },
+    {
+      "ticker": "FENC",
+      "price": 11.15
+    }
+  ],
+  "388": [
+    {
+      "ticker": "NXEOU",
+      "price": 10.5
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.2
+    }
+  ]
+}

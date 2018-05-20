@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FINL",
+      "price": 13.45
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBO",
+      "price": 12.51
+    },
+    {
+      "ticker": "USO",
+      "price": 14.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBO",
+      "price": 12.52
+    },
+    {
+      "ticker": "ETY",
+      "price": 12.5037
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AGLE",
+      "price": 10.66
+    },
+    {
+      "ticker": "CECO",
+      "price": 14.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CECO",
+      "price": 14.44
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 10.59
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.43
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ]
+}

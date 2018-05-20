@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "I",
+      "price": 14.42
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTNW",
+      "price": 15.5
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "PAR",
+      "price": 13.695
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGR",
+      "price": 14.05
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIGR",
+      "price": 13.5
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.94
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIGR",
+      "price": 13.7
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.8
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMRT",
+      "price": 3.46
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMRT",
+      "price": 3.2402
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.739
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMRT",
+      "price": 3.34
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMRT",
+      "price": 3.34
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.368
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENSV",
+      "price": 1.215
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.465
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SMRT",
+      "price": 3.31
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENSV",
+      "price": 1.195
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.29
+    }
+  ]
+}

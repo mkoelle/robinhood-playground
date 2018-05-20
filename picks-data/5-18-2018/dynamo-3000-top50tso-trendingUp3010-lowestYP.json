@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PACB",
+      "price": 2.785
+    },
+    {
+      "ticker": "CLWT",
+      "price": 3.9798
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PMTS",
+      "price": 2.999
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5701
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DARE",
+      "price": 1.221
+    },
+    {
+      "ticker": "PMTS",
+      "price": 3.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EYEG",
+      "price": 0.585
+    },
+    {
+      "ticker": "DTRM",
+      "price": 2.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EYEG",
+      "price": 0.5901
+    },
+    {
+      "ticker": "DTRM",
+      "price": 1.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EYEG",
+      "price": 0.63
+    },
+    {
+      "ticker": "DTRM",
+      "price": 1.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EYEG",
+      "price": 0.6399
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.7
+    }
+  ]
+}

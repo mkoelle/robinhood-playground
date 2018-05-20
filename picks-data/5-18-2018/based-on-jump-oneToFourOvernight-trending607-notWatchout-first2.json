@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4.445
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.47
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHK",
+      "price": 4.401
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 4.35
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    }
+  ]
+}

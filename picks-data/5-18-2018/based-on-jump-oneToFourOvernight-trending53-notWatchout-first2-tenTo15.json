@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KRYS",
+      "price": 10.84
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KRYS",
+      "price": 10.84
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.9042
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KRYS",
+      "price": 11
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.96
+    }
+  ]
+}

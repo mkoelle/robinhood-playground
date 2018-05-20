@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ANTH",
+      "price": 0.2895
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5449
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ANTH",
+      "price": 0.2872
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.564
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ANTH",
+      "price": 0.2904
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5719
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ANTH",
+      "price": 0.2904
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.566
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OHGI",
+      "price": 0.7035
+    },
+    {
+      "ticker": "VSTM",
+      "price": 4.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTP",
+      "price": 0.7284
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.197
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RNN",
+      "price": 2.2383
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNTR",
+      "price": 1.16
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSS",
+      "price": 1.45
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PED",
+      "price": 0.3297
+    },
+    {
+      "ticker": "EPE",
+      "price": 3.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRXC",
+      "price": 3.0262
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3297
+    }
+  ]
+}

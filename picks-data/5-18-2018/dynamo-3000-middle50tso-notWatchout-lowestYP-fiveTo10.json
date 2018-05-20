@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 6.12
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.4001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MGI",
+      "price": 6.92
+    },
+    {
+      "ticker": "TZA",
+      "price": 9.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CX",
+      "price": 5.745
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSG",
+      "price": 7.8556
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.3902
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DLNG",
+      "price": 7.9862
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.3902
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MGI",
+      "price": 6.96
+    },
+    {
+      "ticker": "SSG",
+      "price": 7.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSG",
+      "price": 7.9
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8
+    }
+  ]
+}

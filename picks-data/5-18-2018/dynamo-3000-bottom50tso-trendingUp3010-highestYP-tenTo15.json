@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ECYT",
+      "price": 14.1082
+    },
+    {
+      "ticker": "I",
+      "price": 14.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 10.97
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 10.6
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 10.4649
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.6598
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 10.375
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 10.25
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 10.3
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.65
+    }
+  ]
+}

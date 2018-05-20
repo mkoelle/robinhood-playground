@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SNES",
+      "price": 0.31
+    },
+    {
+      "ticker": "ECT",
+      "price": 1.958
+    },
+    {
+      "ticker": "BDR",
+      "price": 0.9301
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PRPH",
+      "price": 4.37
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.31
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.228
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PRPH",
+      "price": 4.36
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.45
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.228
+    }
+  ]
+}

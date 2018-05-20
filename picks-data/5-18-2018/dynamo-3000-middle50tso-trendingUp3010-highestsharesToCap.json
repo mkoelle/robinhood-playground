@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ISR",
+      "price": 0.55
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9747
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APRI",
+      "price": 0.285
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SCYX",
+      "price": 1.4499
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHIP",
+      "price": 0.9152
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JONE",
+      "price": 0.7087
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GMO",
+      "price": 0.4003
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.9025
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IPAS",
+      "price": 0.37
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4001
+    }
+  ]
+}

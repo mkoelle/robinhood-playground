@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNES",
+      "price": 0.3082
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.0989
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNES",
+      "price": 0.3082
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNES",
+      "price": 0.312
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2472
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNES",
+      "price": 0.312
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.0894
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2471
+    }
+  ]
+}

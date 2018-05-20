@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CWCO",
+      "price": 12.96
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.8
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.8001
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLFD",
+      "price": 11.75
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.555
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.935
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PHII",
+      "price": 13.4001
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.7974
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.125
+    }
+  ]
+}

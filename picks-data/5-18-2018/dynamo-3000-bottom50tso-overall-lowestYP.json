@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CEI",
+      "price": 0.42
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3782
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4303
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3694
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AYTU",
+      "price": 0.374
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.3106
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3799
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3697
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4351
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AYTU",
+      "price": 0.37
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4303
+    }
+  ]
+}

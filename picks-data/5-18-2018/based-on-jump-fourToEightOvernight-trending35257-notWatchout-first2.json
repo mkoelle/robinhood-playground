@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.57
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.28
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.5466
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.2811
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.54
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.2999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.4899
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.3
+    }
+  ]
+}

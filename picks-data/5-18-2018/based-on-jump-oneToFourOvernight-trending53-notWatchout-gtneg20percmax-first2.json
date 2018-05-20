@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7949
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    },
+    {
+      "ticker": "APT",
+      "price": 3.758
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    }
+  ]
+}

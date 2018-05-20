@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRT",
+      "price": 14.1
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.88
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVGS",
+      "price": 11.55
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNDM",
+      "price": 12.0941
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EROS",
+      "price": 13.5
+    },
+    {
+      "ticker": "TAYD",
+      "price": 11.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TNDM",
+      "price": 12.52
+    },
+    {
+      "ticker": "TAYD",
+      "price": 11.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SE",
+      "price": 13.27
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.7399
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SE",
+      "price": 13.0708
+    },
+    {
+      "ticker": "TNDM",
+      "price": 12.845
+    }
+  ]
+}

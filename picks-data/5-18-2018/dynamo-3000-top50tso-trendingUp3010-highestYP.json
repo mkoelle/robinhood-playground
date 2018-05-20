@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TAT",
+      "price": 1.9798
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 3.456
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.029
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 2.04
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGY",
+      "price": 2.13
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.0488
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAT",
+      "price": 2.0983
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.0549
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAT",
+      "price": 2.095
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.0899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAT",
+      "price": 2.095
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.09
+    }
+  ]
+}

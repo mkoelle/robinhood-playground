@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PAK",
+      "price": 11.49
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.8001
+    },
+    {
+      "ticker": "FOF",
+      "price": 12.66
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLFD",
+      "price": 11.75
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.9695
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.8001
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ARL",
+      "price": 13.9695
+    },
+    {
+      "ticker": "HVBC",
+      "price": 14.5391
+    },
+    {
+      "ticker": "FRBA",
+      "price": 13.885
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.45
+    },
+    {
+      "ticker": "SVA",
+      "price": 7.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRON",
+      "price": 6.11
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRT",
+      "price": 5.0768
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NERV",
+      "price": 8.15
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.2758
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NERV",
+      "price": 8.075
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.2599
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 6.051
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.9355
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TIS",
+      "price": 6.16
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.86
+    }
+  ]
+}

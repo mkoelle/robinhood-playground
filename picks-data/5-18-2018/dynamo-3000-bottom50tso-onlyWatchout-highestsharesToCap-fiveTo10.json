@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTD",
+      "price": 5.3271
+    },
+    {
+      "ticker": "HK",
+      "price": 5.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLNK",
+      "price": 7.46
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 7.375
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 7.48
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SORL",
+      "price": 5.08
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLNK",
+      "price": 6.9301
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.365
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLNK",
+      "price": 6.78
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.34
+    }
+  ]
+}

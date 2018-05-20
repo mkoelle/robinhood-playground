@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENSV",
+      "price": 1.2884
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENSV",
+      "price": 1.26
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENSV",
+      "price": 1.2376
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDPI",
+      "price": 2.2
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.2763
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.2763
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2101
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GVP",
+      "price": 3.271
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.195
+    }
+  ]
+}

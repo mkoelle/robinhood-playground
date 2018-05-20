@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.1277
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLG",
+      "price": 0.1294
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UAMY",
+      "price": 0.2901
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4478
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.1303
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.2839
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.13
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1541
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLG",
+      "price": 0.13
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2057
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PLG",
+      "price": 0.1297
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2042
+    }
+  ]
+}

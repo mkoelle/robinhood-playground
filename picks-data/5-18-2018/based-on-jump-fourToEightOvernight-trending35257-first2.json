@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TGA",
+      "price": 2.0989
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.57
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.5466
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGA",
+      "price": 2.0894
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.4899
+    }
+  ]
+}

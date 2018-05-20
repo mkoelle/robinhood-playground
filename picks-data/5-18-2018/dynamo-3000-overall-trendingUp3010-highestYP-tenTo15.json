@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 10.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.1082
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 14
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 14.0699
+    },
+    {
+      "ticker": "VCEL",
+      "price": 14.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 14.24
+    },
+    {
+      "ticker": "VCEL",
+      "price": 14.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECYT",
+      "price": 14.33
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.2242
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECYT",
+      "price": 14.4
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECYT",
+      "price": 14.43
+    },
+    {
+      "ticker": "TNDM",
+      "price": 12.845
+    }
+  ]
+}

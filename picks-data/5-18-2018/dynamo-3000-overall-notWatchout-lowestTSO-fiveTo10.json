@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MESO",
+      "price": 5.5252
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PIH",
+      "price": 7.3
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.2559
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GPRO",
+      "price": 5.675
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GPRO",
+      "price": 5.649
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPRO",
+      "price": 5.485
+    },
+    {
+      "ticker": "CVV",
+      "price": 6.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GPRO",
+      "price": 5.415
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.443
+    }
+  ]
+}

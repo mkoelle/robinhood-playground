@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7949
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.0799
+    },
+    {
+      "ticker": "THM",
+      "price": 0.66
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    },
+    {
+      "ticker": "APT",
+      "price": 3.758
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.065
+    },
+    {
+      "ticker": "THM",
+      "price": 0.66
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.43
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.065
+    },
+    {
+      "ticker": "THM",
+      "price": 0.66
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.4332
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.055
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6601
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.435
+    }
+  ]
+}

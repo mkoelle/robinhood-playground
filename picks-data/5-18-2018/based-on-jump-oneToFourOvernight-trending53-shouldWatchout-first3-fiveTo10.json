@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BPI",
+      "price": 6.02
+    },
+    {
+      "ticker": "VHI",
+      "price": 7.38
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BPI",
+      "price": 6.02
+    },
+    {
+      "ticker": "VHI",
+      "price": 7.38
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPI",
+      "price": 6.01
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.28
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPI",
+      "price": 6.01
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.38
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.24
+    }
+  ]
+}

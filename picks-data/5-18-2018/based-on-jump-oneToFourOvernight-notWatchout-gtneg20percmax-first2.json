@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 2.2
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMP",
+      "price": 2.165
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMP",
+      "price": 2.165
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMP",
+      "price": 2.165
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    }
+  ]
+}

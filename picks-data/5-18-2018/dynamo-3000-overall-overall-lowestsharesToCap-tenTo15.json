@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLM",
+      "price": 14.904
+    },
+    {
+      "ticker": "MXF",
+      "price": 14.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLM",
+      "price": 14.885
+    },
+    {
+      "ticker": "MXF",
+      "price": 14.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.8001
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGR",
+      "price": 14.05
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.8001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIGR",
+      "price": 13.5
+    },
+    {
+      "ticker": "SSBI",
+      "price": 14.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIGR",
+      "price": 13.7
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.8
+    }
+  ]
+}

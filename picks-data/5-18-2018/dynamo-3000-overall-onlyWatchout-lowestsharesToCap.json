@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MARK",
+      "price": 4.99
+    },
+    {
+      "ticker": "PTI",
+      "price": 4.9784
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTI",
+      "price": 4.97
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTI",
+      "price": 4.99
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.8649
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SFS",
+      "price": 4.7336
+    },
+    {
+      "ticker": "INO",
+      "price": 4.9973
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SFS",
+      "price": 4.75
+    },
+    {
+      "ticker": "INO",
+      "price": 4.9301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SFS",
+      "price": 4.75
+    },
+    {
+      "ticker": "INO",
+      "price": 4.9199
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SFS",
+      "price": 4.725
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.025
+    }
+  ]
+}

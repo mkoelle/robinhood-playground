@@ -1,0 +1,53 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "NVGS",
+      "price": 11.55
+    }
+  ],
+  "90": [
+    {
+      "ticker": "TAYD",
+      "price": 10.9145
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.58
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.0996
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.32
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.502
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CRVS",
+      "price": 10.91
+    },
+    {
+      "ticker": "TAYD",
+      "price": 11.11
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.8
+    },
+    {
+      "ticker": "SE",
+      "price": 12.53
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.45
+    }
+  ]
+}

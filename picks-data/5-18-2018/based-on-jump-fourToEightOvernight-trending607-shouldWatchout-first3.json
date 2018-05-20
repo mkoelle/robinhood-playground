@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TGA",
+      "price": 2.0989
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6696
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.66
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGA",
+      "price": 2.1
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.6768
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGA",
+      "price": 2.0894
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.7068
+    }
+  ]
+}

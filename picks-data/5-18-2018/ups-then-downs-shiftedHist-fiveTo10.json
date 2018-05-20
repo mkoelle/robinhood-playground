@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "LGCY",
+      "price": 8.3626
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.2299
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.75
+    }
+  ],
+  "50": [
+    {
+      "ticker": "LGCY",
+      "price": 8.36
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.18
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.9085
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.715
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LGCY",
+      "price": 8.41
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.101
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.01
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LGCY",
+      "price": 8.3
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.039
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LGCY",
+      "price": 8.04
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8
+    }
+  ],
+  "600": [
+    {
+      "ticker": "LGCY",
+      "price": 8.01
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.14
+    }
+  ]
+}

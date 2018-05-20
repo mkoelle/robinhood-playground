@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4.445
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.3048
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.765
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7949
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.0799
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.47
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.2998
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.755
+    },
+    {
+      "ticker": "APT",
+      "price": 3.758
+    },
+    {
+      "ticker": "PDS",
+      "price": 4.065
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHK",
+      "price": 4.401
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.315
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.785
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.9259
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 4.35
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.24
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.775
+    },
+    {
+      "ticker": "APT",
+      "price": 3.7443
+    },
+    {
+      "ticker": "DHX",
+      "price": 1.9259
+    }
+  ]
+}

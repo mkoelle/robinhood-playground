@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTI",
+      "price": 4.79
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVX",
+      "price": 4.06
+    },
+    {
+      "ticker": "OCN",
+      "price": 4.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERC",
+      "price": 3.8599
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LUNA",
+      "price": 3.395
+    },
+    {
+      "ticker": "OCN",
+      "price": 4.655
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTE",
+      "price": 4.655
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.395
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NEPT",
+      "price": 2.91
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5501
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TST",
+      "price": 1.7999
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5501
+    }
+  ]
+}

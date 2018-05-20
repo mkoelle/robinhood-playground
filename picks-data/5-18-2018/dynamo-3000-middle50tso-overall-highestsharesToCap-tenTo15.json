@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPXU",
+      "price": 10.1432
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SA",
+      "price": 10.475
+    },
+    {
+      "ticker": "TLI",
+      "price": 10.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RPXC",
+      "price": 10.449
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.539
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVC",
+      "price": 10.06
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.445
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PXJ",
+      "price": 10.615
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.785
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVM",
+      "price": 10.2293
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MVC",
+      "price": 10.06
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.02
+    }
+  ]
+}

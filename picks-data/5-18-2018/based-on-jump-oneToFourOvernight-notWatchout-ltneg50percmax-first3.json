@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NAVB",
+      "price": 0.245
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.27
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.9146
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAVB",
+      "price": 0.245
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2672
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2388
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.26
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9001
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2388
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2602
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9072
+    }
+  ]
+}

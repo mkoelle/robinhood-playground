@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APEN",
+      "price": 6.28
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APEN",
+      "price": 6.27
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "APEN",
+      "price": 6.52
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.112
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APEN",
+      "price": 6.52
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.071
+    }
+  ]
+}

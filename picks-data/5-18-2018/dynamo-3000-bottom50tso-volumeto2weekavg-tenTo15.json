@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KRYS",
+      "price": 10.84
+    },
+    {
+      "ticker": "CARV",
+      "price": 9.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 12.83
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.5015
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGR",
+      "price": 14.5
+    },
+    {
+      "ticker": "GME",
+      "price": 12.265
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGR",
+      "price": 14.05
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIGR",
+      "price": 13.5
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIGR",
+      "price": 13.7
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.8
+    }
+  ]
+}

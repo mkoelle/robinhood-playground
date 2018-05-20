@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRMW",
+      "price": 14.73
+    },
+    {
+      "ticker": "WHF",
+      "price": 13.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBO",
+      "price": 12.51
+    },
+    {
+      "ticker": "USO",
+      "price": 14.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBO",
+      "price": 12.52
+    },
+    {
+      "ticker": "ETY",
+      "price": 12.5037
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CECO",
+      "price": 14.48
+    },
+    {
+      "ticker": "USO",
+      "price": 14.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CECO",
+      "price": 14.44
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 12.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.43
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ]
+}

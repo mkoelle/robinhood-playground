@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMN",
+      "price": 10.15
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 10.15
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCII",
+      "price": 10.12
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.365
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCOV",
+      "price": 10.275
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 10.105
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.3152
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCOV",
+      "price": 10.15
+    },
+    {
+      "ticker": "UEPS",
+      "price": 10.33
+    }
+  ]
+}

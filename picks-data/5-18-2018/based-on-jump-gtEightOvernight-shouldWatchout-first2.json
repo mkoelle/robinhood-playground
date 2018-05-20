@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TYHT",
+      "price": 2.2388
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.795
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TYHT",
+      "price": 2.1601
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TYHT",
+      "price": 2.07
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.7049
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TYHT",
+      "price": 2.0824
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.66
+    }
+  ]
+}

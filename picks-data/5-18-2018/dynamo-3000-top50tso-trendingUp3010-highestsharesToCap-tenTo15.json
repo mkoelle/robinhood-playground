@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HHS",
+      "price": 10.84
+    },
+    {
+      "ticker": "ATTU",
+      "price": 10.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 10.32
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFSW",
+      "price": 10.29
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DAKT",
+      "price": 10.05
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 10.2242
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.315
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 10.075
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 9.99
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.25
+    }
+  ]
+}
