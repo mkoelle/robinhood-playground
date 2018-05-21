@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ELGX",
+      "price": 5.1
+    },
+    {
+      "ticker": "PESI",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELGX",
+      "price": 5.12
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELGX",
+      "price": 5.2
+    },
+    {
+      "ticker": "ICD",
+      "price": 5.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELGX",
+      "price": 5.25
+    },
+    {
+      "ticker": "BTN",
+      "price": 5.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 4.97
+    },
+    {
+      "ticker": "YRIV",
+      "price": 5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 5.109
+    },
+    {
+      "ticker": "ELGX",
+      "price": 5.2
+    }
+  ]
+}

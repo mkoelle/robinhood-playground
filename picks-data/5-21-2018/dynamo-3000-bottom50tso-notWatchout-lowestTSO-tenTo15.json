@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "HCLP",
+      "price": 13.9
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HCLP",
+      "price": 13.975
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCTF",
+      "price": 14.587
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCTF",
+      "price": 14.5481
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMG",
+      "price": 13.06
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.5481
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 10.86
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.2747
+    }
+  ]
+}

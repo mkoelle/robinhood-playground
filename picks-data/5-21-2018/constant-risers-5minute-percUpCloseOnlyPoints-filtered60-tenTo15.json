@@ -1,0 +1,84 @@
+{
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.331
+    },
+    {
+      "ticker": "TELL",
+      "price": 12.3
+    },
+    {
+      "ticker": "GME",
+      "price": 12.845
+    }
+  ],
+  "80": [
+    {
+      "ticker": "FATE",
+      "price": 11.4014
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.82
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.295
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMCM",
+      "price": 12.39
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.305
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CMCM",
+      "price": 12.32
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.29
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.88
+    }
+  ],
+  "198": [
+    {
+      "ticker": "KIM",
+      "price": 14.55
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.21
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ERF",
+      "price": 13.32
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.595
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ERF",
+      "price": 13.375
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.76
+    }
+  ]
+}

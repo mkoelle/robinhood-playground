@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "FUV",
+      "price": 3.36
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.101
+    }
+  ],
+  "32": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.8
+    }
+  ],
+  "63": [
+    {
+      "ticker": "EGY",
+      "price": 2.41
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.684
+    }
+  ],
+  "221": [
+    {
+      "ticker": "UAVS",
+      "price": 3.26
+    },
+    {
+      "ticker": "CLWT",
+      "price": 3.81
+    }
+  ],
+  "280": [
+    {
+      "ticker": "HMNY",
+      "price": 0.6222
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.55
+    }
+  ],
+  "328": [
+    {
+      "ticker": "SNES",
+      "price": 1.03
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3001
+    }
+  ],
+  "388": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4786
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.501
+    }
+  ]
+}

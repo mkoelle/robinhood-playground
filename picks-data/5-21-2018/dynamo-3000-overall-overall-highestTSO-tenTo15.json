@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.4128
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.591
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.2
+    }
+  ]
+}

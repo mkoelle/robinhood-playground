@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 7.58
+    },
+    {
+      "ticker": "LGCY",
+      "price": 8.4899
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5985
+    }
+  ],
+  "80": [
+    {
+      "ticker": "WTI",
+      "price": 8.59
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.41
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HIMX",
+      "price": 7.6542
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.53
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.37
+    }
+  ],
+  "140": [
+    {
+      "ticker": "WTI",
+      "price": 8.68
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.42
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.465
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PGNX",
+      "price": 7.575
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.36
+    },
+    {
+      "ticker": "ADT",
+      "price": 7.71
+    }
+  ],
+  "250": [
+    {
+      "ticker": "HPR",
+      "price": 7.385
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.2
+    },
+    {
+      "ticker": "AG",
+      "price": 7.26
+    }
+  ],
+  "300": [
+    {
+      "ticker": "HPR",
+      "price": 7.4
+    },
+    {
+      "ticker": "AG",
+      "price": 7.31
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.18
+    }
+  ]
+}

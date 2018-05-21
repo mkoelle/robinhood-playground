@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "VSTO",
+      "price": 13.97
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.365
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAK",
+      "price": 11.55
+    },
+    {
+      "ticker": "QID",
+      "price": 10.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PAK",
+      "price": 11.565
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.61
+    },
+    {
+      "ticker": "NXC",
+      "price": 13.7993
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVXY",
+      "price": 13.535
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.4166
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAK",
+      "price": 11.575
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.42
+    }
+  ]
+}

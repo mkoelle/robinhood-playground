@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "BSQR",
+      "price": 3.25
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.15
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.55
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.77
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.1977
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EVFM",
+      "price": 4.8
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.243
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.15
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.5718
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.7601
+    }
+  ],
+  "600": [
+    {
+      "ticker": "EVFM",
+      "price": 4.71
+    },
+    {
+      "ticker": "BSQR",
+      "price": 3.35
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.15
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.57
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.77
+    }
+  ]
+}

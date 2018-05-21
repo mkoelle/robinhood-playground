@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "CHEK",
+      "price": 4.3544
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHEK",
+      "price": 4.55
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHEK",
+      "price": 4.52
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHEK",
+      "price": 4.495
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.855
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHEK",
+      "price": 4.45
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.71
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHEK",
+      "price": 4.42
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.705
+    }
+  ]
+}

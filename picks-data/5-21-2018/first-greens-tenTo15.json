@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "SPKE",
+      "price": 10
+    },
+    {
+      "ticker": "WSR",
+      "price": 12
+    },
+    {
+      "ticker": "OR",
+      "price": 10.235
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.22
+    },
+    {
+      "ticker": "CRR",
+      "price": 11.18
+    }
+  ],
+  "250": [
+    {
+      "ticker": "BCTF",
+      "price": 14.587
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.0332
+    },
+    {
+      "ticker": "WSR",
+      "price": 11.99
+    },
+    {
+      "ticker": "OR",
+      "price": 10.27
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.02
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BCTF",
+      "price": 14.7566
+    },
+    {
+      "ticker": "WSR",
+      "price": 11.99
+    },
+    {
+      "ticker": "OR",
+      "price": 10.24
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.19
+    },
+    {
+      "ticker": "CRR",
+      "price": 11.19
+    }
+  ]
+}

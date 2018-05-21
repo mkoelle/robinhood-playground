@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "HGT",
+      "price": 0.7796
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8571
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HGT",
+      "price": 0.7607
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8494
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HGT",
+      "price": 0.8001
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.9631
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HGT",
+      "price": 0.79
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.9504
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HGT",
+      "price": 0.7735
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.9499
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HGT",
+      "price": 0.7601
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.155
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 12.8301
+    },
+    {
+      "ticker": "UBX",
+      "price": 14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 14.751
+    },
+    {
+      "ticker": "BCOM",
+      "price": 10.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6451
+    },
+    {
+      "ticker": "GME",
+      "price": 12.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6401
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.465
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.666
+    },
+    {
+      "ticker": "GME",
+      "price": 12.755
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6
+    },
+    {
+      "ticker": "GME",
+      "price": 12.7601
+    }
+  ]
+}

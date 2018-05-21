@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PRPH",
+      "price": 4.1
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMRT",
+      "price": 2.952
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMRT",
+      "price": 3.09
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.585
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SMRT",
+      "price": 3.0762
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SMRT",
+      "price": 3.0441
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.5151
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SMRT",
+      "price": 3.045
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.5589
+    }
+  ]
+}

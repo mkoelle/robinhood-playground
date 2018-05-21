@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "GSM",
+      "price": 11.27
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.87
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.7801
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 12.72
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.34
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.73
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.8
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCMI",
+      "price": 12.85
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.38
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.8899
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCMI",
+      "price": 12.925
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.43
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSM",
+      "price": 11.365
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.99
+    },
+    {
+      "ticker": "WSR",
+      "price": 12
+    }
+  ]
+}

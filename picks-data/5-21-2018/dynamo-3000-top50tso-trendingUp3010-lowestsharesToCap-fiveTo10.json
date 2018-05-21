@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "LFGR",
+      "price": 10
+    },
+    {
+      "ticker": "FTR",
+      "price": 9.3962
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRCP",
+      "price": 9.4
+    },
+    {
+      "ticker": "BZQ",
+      "price": 9.2407
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRCP",
+      "price": 9.609
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 9.47
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 9.58
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IKNX",
+      "price": 9.25
+    },
+    {
+      "ticker": "FTR",
+      "price": 9.575
+    }
+  ]
+}

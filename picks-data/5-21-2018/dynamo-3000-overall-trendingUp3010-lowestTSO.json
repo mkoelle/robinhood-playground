@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "FUV",
+      "price": 3.2
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.8348
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MBVX",
+      "price": 1.1425
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.36
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBVX",
+      "price": 1.41
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MBVX",
+      "price": 1.3441
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MBVX",
+      "price": 1.333
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DDE",
+      "price": 1.8239
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.23
+    }
+  ]
+}

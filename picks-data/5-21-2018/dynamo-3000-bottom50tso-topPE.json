@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "HGSH",
+      "price": 1.61
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.99
+    },
+    {
+      "ticker": "UONEK",
+      "price": 1.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HGSH",
+      "price": 1.57
+    },
+    {
+      "ticker": "ALJJ",
+      "price": 1.899
+    },
+    {
+      "ticker": "VVPR",
+      "price": 3.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HDSN",
+      "price": 2.35
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.56
+    },
+    {
+      "ticker": "ALJJ",
+      "price": 1.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NWY",
+      "price": 3.775
+    },
+    {
+      "ticker": "PME",
+      "price": 3.42
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.5722
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HDSN",
+      "price": 2.31
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.5
+    },
+    {
+      "ticker": "ALJJ",
+      "price": 1.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HDSN",
+      "price": 2.3
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.47
+    },
+    {
+      "ticker": "ALJJ",
+      "price": 1.84
+    }
+  ]
+}

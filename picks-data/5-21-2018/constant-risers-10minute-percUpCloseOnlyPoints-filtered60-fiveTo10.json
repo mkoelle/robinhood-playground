@@ -1,0 +1,88 @@
+{
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 7.58
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5985
+    },
+    {
+      "ticker": "PES",
+      "price": 6.125
+    }
+  ],
+  "80": [
+    {
+      "ticker": "VNET",
+      "price": 7.38
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.48
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMFN",
+      "price": 9.3
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.1741
+    },
+    {
+      "ticker": "ONDK",
+      "price": 5.97
+    }
+  ],
+  "140": [
+    {
+      "ticker": "HPR",
+      "price": 7.42
+    },
+    {
+      "ticker": "PES",
+      "price": 6.05
+    },
+    {
+      "ticker": "ELGX",
+      "price": 5.195
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ADT",
+      "price": 7.71
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.36
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ADT",
+      "price": 7.7
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ADT",
+      "price": 7.795
+    },
+    {
+      "ticker": "ELGX",
+      "price": 5.295
+    },
+    {
+      "ticker": "AG",
+      "price": 7.31
+    }
+  ]
+}

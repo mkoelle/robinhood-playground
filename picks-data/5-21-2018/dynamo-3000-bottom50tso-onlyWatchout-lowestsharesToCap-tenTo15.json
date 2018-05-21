@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "INVA",
+      "price": 14.4
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLSE",
+      "price": 14.89
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGOV",
+      "price": 15.025
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 14.72
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QTNA",
+      "price": 14.99
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECYT",
+      "price": 14.25
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.125
+    }
+  ]
+}

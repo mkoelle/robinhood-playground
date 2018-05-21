@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ENBL",
+      "price": 14.6
+    },
+    {
+      "ticker": "KRG",
+      "price": 14.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLSE",
+      "price": 14.89
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGOV",
+      "price": 15.025
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCTF",
+      "price": 14.5481
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELOX",
+      "price": 14.8221
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELOX",
+      "price": 14.63
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.7566
+    }
+  ]
+}

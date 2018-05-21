@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PZC",
+      "price": 10.02
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.099
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PEI",
+      "price": 10.04
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVO",
+      "price": 10.2482
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVO",
+      "price": 10.28
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZBIO",
+      "price": 10.2
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.336
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZBIO",
+      "price": 10.0901
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.3792
+    }
+  ]
+}

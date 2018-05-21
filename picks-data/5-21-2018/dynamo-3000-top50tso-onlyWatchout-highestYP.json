@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 2.38
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 2.37
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.5962
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGY",
+      "price": 2.479
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.6592
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGY",
+      "price": 2.545
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.6994
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENSV",
+      "price": 1.29
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOG",
+      "price": 2.62
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.39
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AINV",
+      "price": 5.59
+    },
+    {
+      "ticker": "STON",
+      "price": 6.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPHC",
+      "price": 5.5
+    },
+    {
+      "ticker": "DZZ",
+      "price": 5.5752
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNAV",
+      "price": 5.367
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.5063
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSE",
+      "price": 5.9084
+    },
+    {
+      "ticker": "RJA",
+      "price": 6.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SFUN",
+      "price": 5.51
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.9193
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RJA",
+      "price": 6.35
+    },
+    {
+      "ticker": "GAB",
+      "price": 6.335
+    }
+  ]
+}

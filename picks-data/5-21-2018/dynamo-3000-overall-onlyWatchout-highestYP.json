@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 2.38
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GVP",
+      "price": 3.1484
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GVP",
+      "price": 3.19
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.479
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.188
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.545
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.2015
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GVP",
+      "price": 3.2015
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.27
+    }
+  ]
+}

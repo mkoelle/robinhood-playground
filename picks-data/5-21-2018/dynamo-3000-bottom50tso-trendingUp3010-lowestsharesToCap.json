@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "NVLN",
+      "price": 4.28
+    },
+    {
+      "ticker": "PRPH",
+      "price": 4.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.0499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCLI",
+      "price": 4.1236
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.0199
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADMP",
+      "price": 4.475
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDTX",
+      "price": 4.325
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.305
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDTX",
+      "price": 4.35
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.4
+    }
+  ]
+}

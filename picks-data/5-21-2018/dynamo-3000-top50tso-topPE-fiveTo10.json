@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "CRON",
+      "price": 6.5745
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.7
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.6223
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FENG",
+      "price": 5.59
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.23
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 8.47
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.65
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.905
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPI",
+      "price": 8.47
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.64
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FENG",
+      "price": 5.64
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.97
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IKNX",
+      "price": 9.25
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.58
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.61
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PW",
+      "price": 6.705
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PW",
+      "price": 6.7
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PW",
+      "price": 6.68
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVUS",
+      "price": 6.7399
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 6.3874
+    },
+    {
+      "ticker": "KODK",
+      "price": 5.7465
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KODK",
+      "price": 5.8748
+    },
+    {
+      "ticker": "VNET",
+      "price": 7.34
+    }
+  ]
+}

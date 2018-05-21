@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 9.99
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DF",
+      "price": 9.93
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 9.8301
+    },
+    {
+      "ticker": "HALL",
+      "price": 9.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCOV",
+      "price": 9.975
+    },
+    {
+      "ticker": "DF",
+      "price": 9.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTIE",
+      "price": 9.87
+    },
+    {
+      "ticker": "DF",
+      "price": 9.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTIE",
+      "price": 9.86
+    },
+    {
+      "ticker": "DF",
+      "price": 9.78
+    }
+  ]
+}

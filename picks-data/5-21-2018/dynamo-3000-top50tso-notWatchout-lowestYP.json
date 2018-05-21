@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "NNVC",
+      "price": 0.5703
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.8884
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NNVC",
+      "price": 0.5662
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3549
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.249
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.4499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOFO",
+      "price": 2.33
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOFO",
+      "price": 2.33
+    },
+    {
+      "ticker": "SLNO",
+      "price": 1.94
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "LFGR",
+      "price": 10
+    },
+    {
+      "ticker": "SOGO",
+      "price": 9.929
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOGO",
+      "price": 9.88
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DZSI",
+      "price": 9.84
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.905
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DZSI",
+      "price": 9.8499
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7299
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7299
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.95
+    }
+  ]
+}

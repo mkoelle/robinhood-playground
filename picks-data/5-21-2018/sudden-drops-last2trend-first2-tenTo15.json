@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "GNPX",
+      "price": 10.23
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.0724
+    }
+  ],
+  "32": [
+    {
+      "ticker": "CRK",
+      "price": 10.83
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.47
+    }
+  ],
+  "63": [
+    {
+      "ticker": "GNPX",
+      "price": 10.1629
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.255
+    }
+  ],
+  "221": [
+    {
+      "ticker": "NGVC",
+      "price": 10.64
+    },
+    {
+      "ticker": "SNNA",
+      "price": 14.41
+    }
+  ],
+  "280": [
+    {
+      "ticker": "LMB",
+      "price": 11.61
+    },
+    {
+      "ticker": "RUN",
+      "price": 10.81
+    }
+  ],
+  "328": [
+    {
+      "ticker": "AGLE",
+      "price": 10.25
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.61
+    }
+  ],
+  "388": [
+    {
+      "ticker": "INAP",
+      "price": 10.85
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.6358
+    }
+  ]
+}

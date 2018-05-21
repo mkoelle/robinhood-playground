@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "VSI",
+      "price": 4.9
+    },
+    {
+      "ticker": "INO",
+      "price": 4.953
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.9989
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    },
+    {
+      "ticker": "VSI",
+      "price": 4.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 5
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKTX",
+      "price": 4.9301
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.9
+    }
+  ]
+}

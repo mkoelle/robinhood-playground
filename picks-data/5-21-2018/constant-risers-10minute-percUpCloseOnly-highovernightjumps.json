@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 2.3698
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.71
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.4
+    }
+  ],
+  "80": [
+    {
+      "ticker": "EGY",
+      "price": 2.42
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.4448
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.8659
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADOM",
+      "price": 1.893
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.416
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.37
+    }
+  ],
+  "140": [
+    {
+      "ticker": "UAVS",
+      "price": 3.1
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.4148
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.35
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SNES",
+      "price": 1.0149
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.4601
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.4014
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SNES",
+      "price": 1.08
+    },
+    {
+      "ticker": "UAVS",
+      "price": 3.3
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.51
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EGY",
+      "price": 2.65
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.13
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.8905
+    }
+  ]
+}

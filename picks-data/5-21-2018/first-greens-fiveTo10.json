@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "AMRS",
+      "price": 5.225
+    },
+    {
+      "ticker": "EVFM",
+      "price": 5.04
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.4
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.965
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.2284
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AMRS",
+      "price": 5.28
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.35
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.895
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.221
+    },
+    {
+      "ticker": "SNDX",
+      "price": 9.05
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AMRS",
+      "price": 5.45
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.2
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.84
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.25
+    },
+    {
+      "ticker": "SNDX",
+      "price": 8.93
+    }
+  ]
+}

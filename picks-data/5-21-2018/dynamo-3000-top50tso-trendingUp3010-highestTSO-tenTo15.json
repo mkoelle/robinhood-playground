@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "TELL",
+      "price": 12.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.9702
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.336
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "OOMA",
+      "price": 12.5757
+    }
+  ]
+}

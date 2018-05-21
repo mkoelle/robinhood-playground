@@ -1,0 +1,30 @@
+{
+  "16": [
+    {
+      "ticker": "CIX",
+      "price": 13.2582
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.39
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.5494
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.33
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.462
+    }
+  ]
+}

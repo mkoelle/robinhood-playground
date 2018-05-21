@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 3.69
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 3.7
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.445
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.51
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.505
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 4.485
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.62
+    }
+  ]
+}

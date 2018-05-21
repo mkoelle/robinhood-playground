@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.331
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.9559
+    },
+    {
+      "ticker": "TELL",
+      "price": 12.3
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RKDA",
+      "price": 10.3
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.4014
+    },
+    {
+      "ticker": "TELL",
+      "price": 12.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMCM",
+      "price": 12.39
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.9
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.39
+    }
+  ],
+  "140": [
+    {
+      "ticker": "YRCW",
+      "price": 11.1058
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.32
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.37
+    }
+  ],
+  "198": [
+    {
+      "ticker": "YRCW",
+      "price": 11.075
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.32
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.55
+    }
+  ],
+  "250": [
+    {
+      "ticker": "YRCW",
+      "price": 11.09
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.32
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.595
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ERF",
+      "price": 13.375
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.03
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.615
+    }
+  ]
+}

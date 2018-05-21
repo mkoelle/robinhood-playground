@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DDD",
+      "price": 12.88
+    },
+    {
+      "ticker": "FDUS",
+      "price": 14.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDD",
+      "price": 12.845
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GPOR",
+      "price": 10.975
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GPOR",
+      "price": 11.015
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSH",
+      "price": 12.975
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.055
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSH",
+      "price": 12.975
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "FUV",
+      "price": 3.2
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MBVX",
+      "price": 1.1425
+    },
+    {
+      "ticker": "SNES",
+      "price": 0.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBVX",
+      "price": 1.41
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.0579
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MBVX",
+      "price": 1.3441
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MBVX",
+      "price": 1.333
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.0999
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SESN",
+      "price": 2.3842
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.172
+    }
+  ]
+}

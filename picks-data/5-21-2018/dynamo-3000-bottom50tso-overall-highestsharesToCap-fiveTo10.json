@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "FSNN",
+      "price": 5.12
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELMD",
+      "price": 5.001
+    },
+    {
+      "ticker": "FSNN",
+      "price": 5.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FSNN",
+      "price": 5.03
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FSNN",
+      "price": 5.05
+    },
+    {
+      "ticker": "VKTX",
+      "price": 5.0893
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CALA",
+      "price": 5.2
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CALA",
+      "price": 5.15
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.15
+    }
+  ]
+}

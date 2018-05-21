@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "TAT",
+      "price": 2.0201
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.97
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDE",
+      "price": 2.12
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DDE",
+      "price": 2.0537
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.1236
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DDE",
+      "price": 1.9789
+    },
+    {
+      "ticker": "PME",
+      "price": 3.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAT",
+      "price": 1.9659
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAT",
+      "price": 1.97
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.3842
+    }
+  ]
+}

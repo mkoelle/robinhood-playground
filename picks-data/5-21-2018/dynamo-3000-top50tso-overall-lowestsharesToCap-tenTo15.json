@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 15
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.9305
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTA",
+      "price": 14.84
+    },
+    {
+      "ticker": "DM",
+      "price": 14.751
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.79
+    },
+    {
+      "ticker": "ESSA",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 14.76
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTA",
+      "price": 14.63
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTA",
+      "price": 14.705
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ]
+}

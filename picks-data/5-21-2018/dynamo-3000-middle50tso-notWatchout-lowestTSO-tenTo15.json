@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "GLO",
+      "price": 10.987
+    },
+    {
+      "ticker": "WNEB",
+      "price": 10.925
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IQI",
+      "price": 11.835
+    },
+    {
+      "ticker": "QID",
+      "price": 10.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NKX",
+      "price": 13.41
+    },
+    {
+      "ticker": "MNP",
+      "price": 14.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFZ",
+      "price": 12.91
+    },
+    {
+      "ticker": "BNY",
+      "price": 12.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EFR",
+      "price": 14.7202
+    },
+    {
+      "ticker": "BAF",
+      "price": 13.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLFD",
+      "price": 11.55
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.5466
+    }
+  ]
+}

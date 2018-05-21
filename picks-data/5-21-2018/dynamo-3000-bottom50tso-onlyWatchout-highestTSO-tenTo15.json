@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 11.45
+    },
+    {
+      "ticker": "HX",
+      "price": 12.0494
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 12.02
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 14.85
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYRS",
+      "price": 12.15
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QTNA",
+      "price": 14.99
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SWCH",
+      "price": 12.495
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.52
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "FUV",
+      "price": 3.2
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MBVX",
+      "price": 1.1425
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBVX",
+      "price": 1.41
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MBVX",
+      "price": 1.3441
+    },
+    {
+      "ticker": "PME",
+      "price": 3.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MBVX",
+      "price": 1.333
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SESN",
+      "price": 2.3842
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.68
+    }
+  ]
+}

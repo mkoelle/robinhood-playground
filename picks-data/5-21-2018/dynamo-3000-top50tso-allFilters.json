@@ -1,0 +1,134 @@
+{
+  "40": [
+    {
+      "ticker": "CRNT",
+      "price": 3.26
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.695
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.405
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.69
+    },
+    {
+      "ticker": "ECT",
+      "price": 2.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AEHR",
+      "price": 2.46
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.27
+    },
+    {
+      "ticker": "NAO",
+      "price": 1.22
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.45
+    },
+    {
+      "ticker": "ARQL",
+      "price": 3.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHK",
+      "price": 4.385
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.75
+    },
+    {
+      "ticker": "NAO",
+      "price": 1.2199
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.249
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MPVD",
+      "price": 2.8667
+    },
+    {
+      "ticker": "SREV",
+      "price": 4.255
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.5925
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.465
+    },
+    {
+      "ticker": "LLEX",
+      "price": 4.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FELP",
+      "price": 3.77
+    },
+    {
+      "ticker": "SREV",
+      "price": 4.25
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.605
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.45
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.4238
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SREV",
+      "price": 4.26
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.62
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.4238
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.485
+    },
+    {
+      "ticker": "LLEX",
+      "price": 4.98
+    }
+  ]
+}

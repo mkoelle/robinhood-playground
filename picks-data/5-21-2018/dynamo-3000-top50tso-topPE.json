@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "ELSE",
+      "price": 3.889
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.76
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELSE",
+      "price": 3.889
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.27
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.7607
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QTRH",
+      "price": 1.39
+    },
+    {
+      "ticker": "CLWT",
+      "price": 3.9694
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.9302
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MPVD",
+      "price": 2.8667
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.39
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.931
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLWT",
+      "price": 3.969
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.43
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLWT",
+      "price": 3.962
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.93
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.485
+    }
+  ]
+}

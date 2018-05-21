@@ -1,0 +1,44 @@
+{
+  "50": [
+    {
+      "ticker": "SNMP",
+      "price": 12.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEOS",
+      "price": 12.25
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.4
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GEOS",
+      "price": 11.995
+    },
+    {
+      "ticker": "SNMP",
+      "price": 12.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GEOS",
+      "price": 12.25
+    }
+  ],
+  "600": [
+    {
+      "ticker": "GEOS",
+      "price": 12.2
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.49
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 10.02
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 9.7899
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.51
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 9.76
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTI",
+      "price": 8.71
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.755
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 9.79
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.6559
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 9.7625
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.685
+    }
+  ]
+}

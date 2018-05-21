@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "MYF",
+      "price": 13.73
+    },
+    {
+      "ticker": "IIM",
+      "price": 14.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APTS",
+      "price": 14.13
+    },
+    {
+      "ticker": "AWF",
+      "price": 11.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MIY",
+      "price": 13.02
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.095
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIAV",
+      "price": 10.08
+    },
+    {
+      "ticker": "BCS",
+      "price": 11.3901
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ERC",
+      "price": 12.7684
+    },
+    {
+      "ticker": "FCT",
+      "price": 12.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTRI",
+      "price": 13.23
+    },
+    {
+      "ticker": "SMM",
+      "price": 10.27
+    }
+  ]
+}

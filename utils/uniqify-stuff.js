@@ -19,8 +19,8 @@ const uniqifyArrayOfStrategies = (array, strength = 0.99) => {
                 const valParts = val.name.split('-');
                 const foundValRatio = valParts.filter(part => strat.name.includes(part)).length / valParts.length;
                 // const
-                console.log(foundValRatio);
-                console.log('between', strat.name, ' and ', val.name, )
+                // console.log(foundValRatio);
+                // console.log('between', strat.name, ' and ', val.name, )
                 return [trendSimilarity, nameSimilarity].every(similarity => similarity < strength) && foundValRatio < 0.8;
             });
             return shouldInclude ? acc.concat(val) : acc;

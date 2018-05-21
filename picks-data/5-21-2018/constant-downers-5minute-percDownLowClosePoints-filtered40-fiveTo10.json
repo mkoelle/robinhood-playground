@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EVFM",
+      "price": 5.02
+    },
+    {
+      "ticker": "POLA",
+      "price": 6.32
+    },
+    {
+      "ticker": "PFNX",
+      "price": 6.9345
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MRAM",
+      "price": 8.15
+    },
+    {
+      "ticker": "AOD",
+      "price": 9.1751
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.06
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MRAM",
+      "price": 8.18
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.0557
+    },
+    {
+      "ticker": "NVIV",
+      "price": 7.15
+    }
+  ]
+}

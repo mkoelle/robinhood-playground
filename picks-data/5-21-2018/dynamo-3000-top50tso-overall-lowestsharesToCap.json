@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "IVAC",
+      "price": 4.9
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHEK",
+      "price": 4.55
+    },
+    {
+      "ticker": "MRNS",
+      "price": 4.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHEK",
+      "price": 4.52
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MCF",
+      "price": 4.755
+    },
+    {
+      "ticker": "LLEX",
+      "price": 4.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.505
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.665
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCCO",
+      "price": 4.85
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.7
+    }
+  ]
+}

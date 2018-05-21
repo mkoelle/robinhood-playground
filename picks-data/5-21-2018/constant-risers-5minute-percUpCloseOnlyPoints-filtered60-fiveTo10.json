@@ -1,0 +1,66 @@
+{
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 7.58
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5985
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.595
+    }
+  ],
+  "80": [
+    {
+      "ticker": "HIMX",
+      "price": 7.77
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.16
+    },
+    {
+      "ticker": "MBI",
+      "price": 8.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HIMX",
+      "price": 7.6542
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.84
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.15
+    }
+  ],
+  "140": [
+    {
+      "ticker": "HIMX",
+      "price": 7.61
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.86
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.815
+    }
+  ],
+  "198": [
+    {
+      "ticker": "PGNX",
+      "price": 7.575
+    }
+  ],
+  "250": [],
+  "300": []
+}

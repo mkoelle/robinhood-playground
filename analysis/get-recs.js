@@ -2,10 +2,10 @@ const stratPerfOverall = require('./strategy-perf-overall');
 const { uniqifyArrayOfStrategies } = require('../utils/uniqify-stuff');
 
 module.exports = async (Robinhood) => {
-    const overall = await stratPerfOverall(Robinhood, true, 3, 2);
+    const overall = await stratPerfOverall(Robinhood, true, 10, 5);
     console.log(overall);
 
-    const hundredUpPicks = overall.sortedByAvgTrend
+    const hundredUpPicks = overall.sortedByPercUp
         .filter(pick => pick.percUp === 1);
 
     const hundredUpAvgGt4 = hundredUpPicks

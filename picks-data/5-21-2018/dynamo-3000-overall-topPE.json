@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "TGEN",
+      "price": 3.85
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.24
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.3598
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDPI",
+      "price": 2.2199
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.31
+    },
+    {
+      "ticker": "SID",
+      "price": 2.525
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.81
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2299
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.82
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.2201
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGEN",
+      "price": 3.84
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.22
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDPI",
+      "price": 2.24
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.26
+    },
+    {
+      "ticker": "SID",
+      "price": 2.455
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SBT",
+      "price": 13.86
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTLS",
+      "price": 12.68
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIO",
+      "price": 11.63
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QEP",
+      "price": 13.565
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ERA",
+      "price": 12.74
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REW",
+      "price": 12.9799
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    }
+  ]
+}

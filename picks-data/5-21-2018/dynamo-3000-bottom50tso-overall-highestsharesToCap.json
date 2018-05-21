@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "RHE",
+      "price": 0.2205
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.2519
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RHE",
+      "price": 0.2105
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.2488
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMNP",
+      "price": 0.241
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2806
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RHE",
+      "price": 0.2154
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.2279
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMNP",
+      "price": 0.222
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMNP",
+      "price": 0.2251
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3105
+    }
+  ]
+}

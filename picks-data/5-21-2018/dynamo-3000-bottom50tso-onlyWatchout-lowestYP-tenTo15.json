@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 10.2507
+    },
+    {
+      "ticker": "JNCE",
+      "price": 10.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QD",
+      "price": 9.9201
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNCE",
+      "price": 10.39
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.405
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNCE",
+      "price": 10.4584
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 10.21
+    },
+    {
+      "ticker": "JNCE",
+      "price": 10.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.2
+    },
+    {
+      "ticker": "JNCE",
+      "price": 10.62
+    }
+  ]
+}

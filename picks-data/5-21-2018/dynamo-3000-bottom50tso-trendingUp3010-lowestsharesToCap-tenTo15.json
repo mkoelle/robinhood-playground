@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 14.45
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MAT",
+      "price": 14.9
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGOV",
+      "price": 15.025
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.9147
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECYT",
+      "price": 14.19
+    },
+    {
+      "ticker": "HCLP",
+      "price": 14.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELOX",
+      "price": 14.8221
+    },
+    {
+      "ticker": "QTNA",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELOX",
+      "price": 14.63
+    },
+    {
+      "ticker": "MAT",
+      "price": 14.845
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PRPH",
+      "price": 4.1
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QHC",
+      "price": 4.85
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QHC",
+      "price": 4.8
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QHC",
+      "price": 4.78
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QHC",
+      "price": 4.66
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QHC",
+      "price": 4.545
+    },
+    {
+      "ticker": "CDTX",
+      "price": 4.35
+    }
+  ]
+}

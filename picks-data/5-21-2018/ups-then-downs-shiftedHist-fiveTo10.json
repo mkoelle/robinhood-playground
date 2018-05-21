@@ -1,0 +1,76 @@
+{
+  "50": [
+    {
+      "ticker": "CECE",
+      "price": 6.4
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.54
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CECE",
+      "price": 6.37
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.54
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.19
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CECE",
+      "price": 6.35
+    },
+    {
+      "ticker": "SND",
+      "price": 6.82
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.54
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.3874
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SND",
+      "price": 6.825
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.54
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.201
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SND",
+      "price": 6.84
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.49
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.4
+    }
+  ]
+}

@@ -51,7 +51,7 @@ module.exports = async (
                 //     return reject('maxPrice below bidPrice');
                 // }
 
-                const res = await limitBuyLastTrade(
+                let res = await limitBuyLastTrade(
                     Robinhood,
                     {
                         ticker,
@@ -63,6 +63,24 @@ module.exports = async (
 
                 if (!res || res.detail) {
                     return reject(res.detail || 'unable to purchase' + ticker);
+                }
+
+                if (res && res.non_field_errors && res.non_field_errors.length && res.non_field_errors[0].includes('increments of $0.05')) {
+                    const nearestFiveCents = num => {
+                        return Math.ceil(num * 20) / 20;
+                    };
+                    const newBid = nearestFiveCents(bidPrice);
+                    console.log('5 center!!!');
+                    console.log('new bid', newBid);
+                    res = await limitBuyLastTrade(
+                        Robinhood,
+                        {
+                            ticker,
+                            newBid,
+                            quantity,
+                            strategy
+                        }
+                    );
                 }
 
                 const timeout = ((0.8 * TIME_BETWEEN_CHECK) + (Math.random() * TIME_BETWEEN_CHECK * 0.8)) * 1000;

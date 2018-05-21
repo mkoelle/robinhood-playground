@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "TST",
+      "price": 1.8
+    },
+    {
+      "ticker": "HBIO",
+      "price": 4.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PDS",
+      "price": 4.075
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NEPT",
+      "price": 2.9184
+    },
+    {
+      "ticker": "AXAS",
+      "price": 3.165
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSI",
+      "price": 3.14
+    },
+    {
+      "ticker": "PIM",
+      "price": 4.7533
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PDS",
+      "price": 4.07
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PDS",
+      "price": 4.06
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.6
+    }
+  ]
+}

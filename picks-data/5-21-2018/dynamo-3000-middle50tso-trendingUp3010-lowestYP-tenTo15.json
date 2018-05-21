@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "TACO",
+      "price": 11.48
+    },
+    {
+      "ticker": "STRL",
+      "price": 13.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSP",
+      "price": 13.13
+    },
+    {
+      "ticker": "MFD",
+      "price": 12.0903
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFI",
+      "price": 13.7
+    },
+    {
+      "ticker": "MFD",
+      "price": 12.092
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KSM",
+      "price": 10.759
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.1633
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMI",
+      "price": 11.1633
+    },
+    {
+      "ticker": "NPV",
+      "price": 12.2202
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFI",
+      "price": 13.73
+    },
+    {
+      "ticker": "KSM",
+      "price": 10.77
+    }
+  ]
+}

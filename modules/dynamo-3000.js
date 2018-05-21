@@ -149,7 +149,7 @@ const trendFilter = async (Robinhood, trend) => {
             ...allVariations(`${name}-trendingUp3010`, withTrendingUp.filter(buy => buy.trendingUp3010)),
             // ...allVariations(`${name}-trendingUp30`, withTrendingUp.filter(buy => buy.trendingUp30)),
             ...allVariations(`${name}-notWatchout`, withTrendingUp.filter(buy => !buy.shouldWatchout)),
-            ...allVariations(`${name}-onlyWatchout`, withTrendingUp.filter(buy => buy.shouldWatchout)),
+            ...allVariations(`${name}-shouldWatchout`, withTrendingUp.filter(buy => buy.shouldWatchout)),
             [`${name}-allFilters`]: getTicks(allFilters),
             ...volumePerms(withTrendingUp, name),
             [`${name}-topPE`]: getTicks(topPe)

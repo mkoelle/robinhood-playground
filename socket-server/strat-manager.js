@@ -32,13 +32,21 @@ const stratManager = {
         this.io = io;
 
         // init picks?
-        await this.refreshPastData();
+        console.log('init refresh')
+        try {
+            await this.refreshPastData();
+        } catch (e) {
+            console.log('error refreshing past', e);
+        }
+        console.log('init picks')
         await this.initPicksAndPMs();
+        console.log('get prices')
         await this.getRelatedPrices();
+        console.log('send report init')
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`05 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`34 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -85,7 +93,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(5);
+        compareDate.setMinutes(34);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
@@ -207,7 +215,7 @@ const stratManager = {
     async createPredictionModels() {
         console.log('TESTING')
 
-        const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
+        // const stratPerfData = await stratPerfOverall(this.Robinhood, false, 5);
         const mapNames = strats => strats.map(({ name }) => name);
         const getFirstN = (strats, n) => strats.slice(0, n);
         const createPerms = (set, name, picks) => {
@@ -218,41 +226,41 @@ const stratManager = {
         };
 
 
-        const uniq16Count3 = await stratPerfPredictions(this.Robinhood, false, 16, 3);
-        console.log('uniq16Count3', uniq16Count3);
-        const uniq16Count5 = await stratPerfPredictions(this.Robinhood, false, 16, 5);
-        const uniq16IncTodayCount9 = await stratPerfPredictions(this.Robinhood, true, 16, 9);
-        const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
-
-        const uniq20IncTodayCount16 = await stratPerfPredictions(this.Robinhood, true, 20, 16);
-
-
-        const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
-        const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
-        const uniq5dayCount3 = await stratPerfPredictions(this.Robinhood, false, 5, 3);
-        const uniq5dayCount4 = await stratPerfPredictions(this.Robinhood, false, 5, 4);
-
-        const uniqIncToday5dayCount3 = await stratPerfPredictions(this.Robinhood, true, 5, 3);
-        const uniqIncToday5dayCount4 = await stratPerfPredictions(this.Robinhood, true, 5, 4);
-        const uniqIncToday5dayCount5 = await stratPerfPredictions(this.Robinhood, true, 5, 5);
-        const uniqIncToday7dayCount5 = await stratPerfPredictions(this.Robinhood, true, 7, 5);
+        // const uniq16Count3 = await stratPerfPredictions(this.Robinhood, false, 16, 3);
+        // console.log('uniq16Count3', uniq16Count3);
+        // const uniq16Count5 = await stratPerfPredictions(this.Robinhood, false, 16, 5);
+        // const uniq16IncTodayCount9 = await stratPerfPredictions(this.Robinhood, true, 16, 9);
+        // const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
+        //
+        // const uniq20IncTodayCount16 = await stratPerfPredictions(this.Robinhood, true, 20, 16);
 
 
-        const uniq4IncToday = await stratPerfPredictions(this.Robinhood, true, 4, 2);
-        const uniq4IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 4, 2);
-        const uniq4IncTodayCount3 = await stratPerfPredictions(this.Robinhood, true, 4, 3);
-
-        const uniq3IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 3, 2);
-        const uniq3IncToday = await stratPerfPredictions(this.Robinhood, true, 3);
-        const uniq2IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 2, 2);
-        const uniq2IncToday = await stratPerfPredictions(this.Robinhood, true, 2);
-
-
-        const uniq10IncTodayCount6 = await stratPerfPredictions(this.Robinhood, true, 10, 6);
-        const uniq10IncTodayCount4 = await stratPerfPredictions(this.Robinhood, true, 10, 4);
-
-        const uniq12Count5 = await stratPerfPredictions(this.Robinhood, true, 12, 5);
-        const uniqYesterday = await stratPerfPredictions(this.Robinhood, false, 1);
+        // const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
+        // const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
+        // const uniq5dayCount3 = await stratPerfPredictions(this.Robinhood, false, 5, 3);
+        // const uniq5dayCount4 = await stratPerfPredictions(this.Robinhood, false, 5, 4);
+        //
+        // const uniqIncToday5dayCount3 = await stratPerfPredictions(this.Robinhood, true, 5, 3);
+        // const uniqIncToday5dayCount4 = await stratPerfPredictions(this.Robinhood, true, 5, 4);
+        // const uniqIncToday5dayCount5 = await stratPerfPredictions(this.Robinhood, true, 5, 5);
+        // const uniqIncToday7dayCount5 = await stratPerfPredictions(this.Robinhood, true, 7, 5);
+        //
+        //
+        // const uniq4IncToday = await stratPerfPredictions(this.Robinhood, true, 4, 2);
+        // const uniq4IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 4, 2);
+        // const uniq4IncTodayCount3 = await stratPerfPredictions(this.Robinhood, true, 4, 3);
+        //
+        // const uniq3IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 3, 2);
+        // const uniq3IncToday = await stratPerfPredictions(this.Robinhood, true, 3);
+        // const uniq2IncTodayCount2 = await stratPerfPredictions(this.Robinhood, true, 2, 2);
+        // const uniq2IncToday = await stratPerfPredictions(this.Robinhood, true, 2);
+        //
+        //
+        // const uniq10IncTodayCount6 = await stratPerfPredictions(this.Robinhood, true, 10, 6);
+        // const uniq10IncTodayCount4 = await stratPerfPredictions(this.Robinhood, true, 10, 4);
+        //
+        // const uniq12Count5 = await stratPerfPredictions(this.Robinhood, true, 12, 5);
+        // const uniqYesterday = await stratPerfPredictions(this.Robinhood, false, 1);
 
         const createPermsForObj = (set, name, stratPerf) => {
             return Object.keys(stratPerf).reduce((acc, val) => ({
@@ -266,50 +274,50 @@ const stratManager = {
             return strat.count >= 5 && strat.count <= 6;
         });
 
-        const curOverallPredictions = await predictCurrent();
-        console.log('done curOverallPredictions')
-        const curOverallFilteredPredictions = await predictCurrent(null, strategies => {
-            return strategies.length > 3 && strategies.every(trend => trend > -1);
-        });
-        console.log('done curOverallFilteredPredictions');
-        const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
-        const yesterdayPredictions = await predictCurrent(1);
+        // const curOverallPredictions = await predictCurrent();
+        // console.log('done curOverallPredictions')
+        // const curOverallFilteredPredictions = await predictCurrent(null, strategies => {
+        //     return strategies.length > 3 && strategies.every(trend => trend > -1);
+        // });
+        // console.log('done curOverallFilteredPredictions');
+        // const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
+        // const yesterdayPredictions = await predictCurrent(1);
 
 
-        const myRecs = await getRecs();
+        const myRecs = await getRecs(this.Robinhood);
 
         let strategies = {
 
-            ...createPermsForObj([10, 5, 3, 1], '20IncTodayCount16', uniq20IncTodayCount16),
-            ...createPermsForObj([10, 5, 3, 1], '16Count3', uniq16Count3),
-            ...createPermsForObj([10, 5, 3, 1], '16Count5', uniq16Count5),
-            ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount9', uniq16IncTodayCount9),
-            ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount12', uniq16IncTodayCount12),
+            // ...createPermsForObj([10, 5, 3, 1], '20IncTodayCount16', uniq20IncTodayCount16),
+            // ...createPermsForObj([10, 5, 3, 1], '16Count3', uniq16Count3),
+            // ...createPermsForObj([10, 5, 3, 1], '16Count5', uniq16Count5),
+            // ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount9', uniq16IncTodayCount9),
+            // ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount12', uniq16IncTodayCount12),
 
-            ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
-            ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
-            ...createPermsForObj([10, 5, 3, 1], '5dayCount3', uniq5dayCount3),
-            ...createPermsForObj([10, 5, 3, 1], '5dayCount4', uniq5dayCount4),
-            ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
-
-            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount3', uniqIncToday5dayCount3),
-            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount4', uniqIncToday5dayCount4),
-            ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount5', uniqIncToday5dayCount5),
-            ...createPermsForObj([10, 5, 3, 1], '7IncTodayCount5', uniqIncToday7dayCount5),
-
-            ...createPermsForObj([10, 5, 3, 1], '4IncToday', uniq4IncToday),
-            ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount2', uniq4IncTodayCount2),
-            ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount3', uniq4IncTodayCount3),
-
-            ...createPermsForObj([10, 5, 3, 1], '3IncToday', uniq3IncToday),
-            ...createPermsForObj([10, 5, 3, 1], '3IncTodayCount2', uniq3IncTodayCount2),
-
-
-            ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount6', uniq10IncTodayCount6),
-            ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount4', uniq10IncTodayCount4),
-
-            ...createPermsForObj([10, 5, 3, 1], '12Count5', uniq12Count5),
-            ...createPermsForObj([10, 5, 3, 1], 'Yesterday', uniqYesterday),
+            // ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
+            // ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
+            // ...createPermsForObj([10, 5, 3, 1], '5dayCount3', uniq5dayCount3),
+            // ...createPermsForObj([10, 5, 3, 1], '5dayCount4', uniq5dayCount4),
+            // ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
+            //
+            // ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount3', uniqIncToday5dayCount3),
+            // ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount4', uniqIncToday5dayCount4),
+            // ...createPermsForObj([10, 5, 3, 1], '5IncTodayCount5', uniqIncToday5dayCount5),
+            // ...createPermsForObj([10, 5, 3, 1], '7IncTodayCount5', uniqIncToday7dayCount5),
+            //
+            // ...createPermsForObj([10, 5, 3, 1], '4IncToday', uniq4IncToday),
+            // ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount2', uniq4IncTodayCount2),
+            // ...createPermsForObj([10, 5, 3, 1], '4IncTodayCount3', uniq4IncTodayCount3),
+            //
+            // ...createPermsForObj([10, 5, 3, 1], '3IncToday', uniq3IncToday),
+            // ...createPermsForObj([10, 5, 3, 1], '3IncTodayCount2', uniq3IncTodayCount2),
+            //
+            //
+            // ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount6', uniq10IncTodayCount6),
+            // ...createPermsForObj([10, 5, 3, 1], '10IncTodayCount4', uniq10IncTodayCount4),
+            //
+            // ...createPermsForObj([10, 5, 3, 1], '12Count5', uniq12Count5),
+            // ...createPermsForObj([10, 5, 3, 1], 'Yesterday', uniqYesterday),
 
             ...strategiesEnabled.extras,
 
@@ -317,10 +325,10 @@ const stratManager = {
             // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
 
 
-            ...createPermsForObj([10, 5, 3, 1], 'curOverallPredictions', curOverallPredictions),
-            ...createPermsForObj([10, 5, 3, 1], 'curOverallFilteredPredictions', curOverallFilteredPredictions),
-            ...createPermsForObj([10, 5, 3, 1], 'dayBeforeYesterdayPredictions', dayBeforeYesterdayPredictions),
-            ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
+            // ...createPermsForObj([10, 5, 3, 1], 'curOverallPredictions', curOverallPredictions),
+            // ...createPermsForObj([10, 5, 3, 1], 'curOverallFilteredPredictions', curOverallFilteredPredictions),
+            // ...createPermsForObj([10, 5, 3, 1], 'dayBeforeYesterdayPredictions', dayBeforeYesterdayPredictions),
+            // ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
 
 
             // myRecs
@@ -359,6 +367,7 @@ const stratManager = {
     },
     async getRelatedPrices() {
         // console.log(this.picks);
+        console.log('get related');
         let tickersToLookup = flatten(this.picks.map(pick => {
             return pick.withPrices.map(tickerObj => tickerObj.ticker);
         }));
