@@ -26,6 +26,20 @@ const longtermhot = [
     'based-on-jump-up3overnight-ltneg50percmax-tenTo15-5'
 ];
 
+const honorableMentions105 = [
+    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16',
+    'based-on-jump-down3overnight-trending607-notWatchout-first1-tenTo15-16',
+    'based-on-jump-fourToEightOvernight-trending103-first3-tenTo15-16',
+];
+
+const honorableMentions3 = [
+    "sudden-drops-last10trend-filter20-63",
+    "sudden-drops-last3trend-filter10-63",
+    "sudden-drops-last1trend-first1-fiveTo10-280",
+    "low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25",
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5"
+];
+
 const forPurchase = [
     'sudden-drops-last18trend-filter10-280',
     'sudden-drops-last18trend-filter10-280',
@@ -33,11 +47,6 @@ const forPurchase = [
     'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25',
 
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
-
-    // honorable mentions:
-        // 'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16',
-        // 'based-on-jump-down3overnight-trending607-notWatchout-first1-tenTo15-16',
-        // 'based-on-jump-fourToEightOvernight-trending103-first3-tenTo15-16',
 
     // short sell / buy put option / sell call option: based-on-jump-gtEightOvernight-trending53-first1-5
 ];
@@ -66,6 +75,8 @@ module.exports = {
         ],
         mySpecialSauce,
         hothot,
-        longtermhot
+        longtermhot,
+        honorableMentions105,
+        honorableMentions3
     }
 };
