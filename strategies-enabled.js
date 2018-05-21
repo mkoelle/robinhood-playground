@@ -27,26 +27,10 @@ const longtermhot = [
 ];
 
 const forPurchase = [
-    'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
-    'dynamo-3000-overall-notWatchout-highestYP-4',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-6',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-25',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-25',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-25',
-    'low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-25',
-    'based-on-jump-oneToFourOvernight-trending53-notWatchout-gtneg20percmax-first1-30',
-    // 'sudden-drops-last1trend-first1-32',
-    'dynamo-3000-overall-trendingUp3010-highestTSO-fiveTo10-40',
-    'dynamo-3000-overall-onlyWatchout-highestTSO-fiveTo10-100',
-    'constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15-100',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-tenTo15-150',
-    'dynamo-3000-absvolume-fiveTo10-200',
-    'dynamo-3000-top50tso-onlyWatchout-highestTSO-fiveTo10-200',
-    'dynamo-3000-overall-overall-highestTSO-fiveTo10-200',
-    'dynamo-3000-top50tso-twoweekvolumetoavg-fiveTo10-200',
-    'sudden-drops-last18trend-first1-tenTo15-221',
-    'sudden-drops-last10trend-first1-fiveTo10-221',
     'sudden-drops-last18trend-filter10-280',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
+    // 'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16'
 ];
 
 const cheapestPicksEmailObj = [

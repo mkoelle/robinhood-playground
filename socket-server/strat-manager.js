@@ -3,8 +3,12 @@ const jsonMgr = require('../utils/json-mgr');
 const { CronJob } = require('cron');
 const fs = require('mz/fs');
 const strategiesEnabled = require('../strategies-enabled');
+
+// predictions and past data
 const stratPerfOverall = require('../analysis/strategy-perf-overall');
 const { predictCurrent, stratPerfPredictions } = require('../app-actions/predict-top-performing');
+const getRecs = require('../analysis/get-recs');
+
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
 const sendEmail = require('../utils/send-email');
@@ -34,7 +38,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`15 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`05 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -81,7 +85,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(15);
+        compareDate.setMinutes(5);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
@@ -270,6 +274,10 @@ const stratManager = {
         console.log('done curOverallFilteredPredictions');
         const dayBeforeYesterdayPredictions = await predictCurrent(1, null, 1);
         const yesterdayPredictions = await predictCurrent(1);
+
+
+        const myRecs = await getRecs();
+
         let strategies = {
 
             ...createPermsForObj([10, 5, 3, 1], '20IncTodayCount16', uniq20IncTodayCount16),
@@ -314,6 +322,11 @@ const stratManager = {
             ...createPermsForObj([10, 5, 3, 1], 'dayBeforeYesterdayPredictions', dayBeforeYesterdayPredictions),
             ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
 
+
+            ...Object.keys(myRecs).reduce((acc, val) => ({
+                ...acc,
+                [`myRecs-${val}`]: myRecs[val]
+            }), {})
         };
 
         console.log('done donezy');

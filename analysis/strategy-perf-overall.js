@@ -72,7 +72,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     }
 
     // should includetoday?
-    if (includeToday === 'true') {
+    if (includeToday.toString() === 'true') {
         console.log('adding today');
         const todayPerf = await strategyPerfToday(Robinhood);
         todayPerf.forEach(perf => {
@@ -128,7 +128,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,
         avgTrend,
-        // trends: trends.map(t => Math.round(t)),
+        trends: trends.map(t => Math.round(t)),
         percUp: trends.filter(t => t > 0).length / trends.length,
         hundredResult: trends.reduce((acc, val) => {
             return acc * (100 + val) / 100;
