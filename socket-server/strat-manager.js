@@ -323,6 +323,7 @@ const stratManager = {
             ...createPermsForObj([10, 5, 3, 1], 'yesterdayPredictions', yesterdayPredictions),
 
 
+            // myRecs
             ...Object.keys(myRecs).reduce((acc, val) => ({
                 ...acc,
                 [`myRecs-${val}`]: myRecs[val]
