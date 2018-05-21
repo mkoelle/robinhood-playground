@@ -54,7 +54,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         Object.keys(dayStrats).forEach(period => {
 
             const sellMin = Number(period.substring(period.lastIndexOf('-') + 1));
-            if (period !== 'second-day-9') return; // only consider 9 minute sell times
+            if (period !== 'next-day-9') return; // only consider 9 minute sell times
             dayStrats[period].forEach(stratPerf => {
                 if (stratPerf.avgTrend > 100) return;       // rudimentary filter out reverse splits's
                 const split = stratPerf.strategyName.split('-');
