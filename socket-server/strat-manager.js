@@ -46,7 +46,7 @@ const stratManager = {
         await this.sendStrategyReport();
         console.log('initd strat manager');
 
-        new CronJob(`34 6 * * 1-5`, () => this.newDay(), null, true);
+        new CronJob(`25 6 * * 1-5`, () => this.newDay(), null, true);
 
         setInterval(() => this.getRelatedPrices(), 40000);
     },
@@ -93,7 +93,7 @@ const stratManager = {
         const now = new Date();
         const compareDate = new Date();
         compareDate.setHours(6);
-        compareDate.setMinutes(34);
+        compareDate.setMinutes(25);
         if (compareDate - now > 0) {
             now.setDate(now.getDate() - 1);
         }
@@ -225,7 +225,7 @@ const stratManager = {
             }), {});
         };
 
-
+        //
         // const uniq16Count3 = await stratPerfPredictions(this.Robinhood, false, 16, 3);
         // console.log('uniq16Count3', uniq16Count3);
         // const uniq16Count5 = await stratPerfPredictions(this.Robinhood, false, 16, 5);
@@ -233,8 +233,8 @@ const stratManager = {
         // const uniq16IncTodayCount12 = await stratPerfPredictions(this.Robinhood, true, 16, 12);
         //
         // const uniq20IncTodayCount16 = await stratPerfPredictions(this.Robinhood, true, 20, 16);
-
-
+        //
+        //
         // const uniq5day = await stratPerfPredictions(this.Robinhood, false, 5);
         // const uniq5dayCount2 = await stratPerfPredictions(this.Robinhood, false, 5, 2);
         // const uniq5dayCount3 = await stratPerfPredictions(this.Robinhood, false, 5, 3);
@@ -293,7 +293,7 @@ const stratManager = {
             // ...createPermsForObj([10, 5, 3, 1], '16Count5', uniq16Count5),
             // ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount9', uniq16IncTodayCount9),
             // ...createPermsForObj([10, 5, 3, 1], '16IncTodayCount12', uniq16IncTodayCount12),
-
+            //
             // ...createPermsForObj([10, 5, 3, 1], '5day', uniq5day),
             // ...createPermsForObj([10, 5, 3, 1], '5dayCount2', uniq5dayCount2),
             // ...createPermsForObj([10, 5, 3, 1], '5dayCount3', uniq5dayCount3),
@@ -318,13 +318,13 @@ const stratManager = {
             //
             // ...createPermsForObj([10, 5, 3, 1], '12Count5', uniq12Count5),
             // ...createPermsForObj([10, 5, 3, 1], 'Yesterday', uniqYesterday),
-
+            //
             ...strategiesEnabled.extras,
-
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curOverallPredictions.myPredictions),
-            // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
-
-
+            //
+            // // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'myPredictionModel', curOverallPredictions.myPredictions),
+            // // ...createPerms([50, 30, 20, 10, 5, 3, 1], 'brainPredictionModel-', curOverallPredictions.brainPredictions),
+            //
+            //
             // ...createPermsForObj([10, 5, 3, 1], 'curOverallPredictions', curOverallPredictions),
             // ...createPermsForObj([10, 5, 3, 1], 'curOverallFilteredPredictions', curOverallFilteredPredictions),
             // ...createPermsForObj([10, 5, 3, 1], 'dayBeforeYesterdayPredictions', dayBeforeYesterdayPredictions),

@@ -40,11 +40,18 @@ const honorableMentions3 = [ // 3 2
     "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5"
 ];
 
+const myPicks = [
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
+    'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-6',
+    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16',
+    'dynamo-3000-bottom50tso-notWatchout-lowestsharesToCap-40'  // hesitant
+];
+
 const forPurchase = [
     "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6",
-    "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-25",
     "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16"
-
     // short sell / buy put option / sell call option: based-on-jump-gtEightOvernight-trending53-first1-5
 ];
 
@@ -74,6 +81,7 @@ module.exports = {
         hothot,
         longtermhot,
         honorableMentions105,
-        honorableMentions3
+        honorableMentions3,
+        myPicks,
     }
 };

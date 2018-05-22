@@ -95,9 +95,18 @@ const trendFilter = async (Robinhood, trend) => {
                 [key]: sortTrend(),
                 [`${key}-trend3to5`]: sortTrend([3, 5]),
                 [`${key}-trend5to10`]: sortTrend([5, 10]),
+
+                [`${key}-trendgt10`]: sortTrend([10, undefined]),
+                [`${key}-trendup1to3`]: sortTrend([1, 3]),
+                [`${key}-trendup0to1`]: sortTrend([0, 1]),
+
                 [`${key}-trenddown1to3`]: sortTrend([-3, -1]),
                 [`${key}-trenddown3to10`]: sortTrend([-10, -3]),
-                [`${key}-trenddowngt10`]: sortTrend([undefined, -10])
+                [`${key}-trenddowngt10`]: sortTrend([undefined, -10]),
+
+                [`${key}-trenddown3to5`]: sortTrend([-5, -3]),
+                [`${key}-trenddown5to7`]: sortTrend([-7, -5]),
+                [`${key}-trenddown7to10`]: sortTrend([-10, -7]),
             };
 
         }, {});
