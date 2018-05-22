@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RMBS",
+      "price": 13.51
+    },
+    {
+      "ticker": "NR",
+      "price": 10.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACH",
+      "price": 13.71
+    },
+    {
+      "ticker": "GFN",
+      "price": 11.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SXC",
+      "price": 13.395
+    },
+    {
+      "ticker": "PBPB",
+      "price": 13.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GDP",
+      "price": 13.22
+    },
+    {
+      "ticker": "PXJ",
+      "price": 10.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVI",
+      "price": 14.5
+    },
+    {
+      "ticker": "KT",
+      "price": 13.23
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JAX",
+      "price": 12.25
+    },
+    {
+      "ticker": "BCRH",
+      "price": 11.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BILI",
+      "price": 13.205
+    },
+    {
+      "ticker": "BWP",
+      "price": 11.04
+    }
+  ]
+}

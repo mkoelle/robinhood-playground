@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBAY",
+      "price": 12.5324
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GFN",
+      "price": 11.2
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.3475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOV",
+      "price": 12.05
+    },
+    {
+      "ticker": "GFN",
+      "price": 11.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 12.05
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 12.05
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOV",
+      "price": 12.05
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOV",
+      "price": 12.2
+    },
+    {
+      "ticker": "USAT",
+      "price": 11.825
+    }
+  ]
+}

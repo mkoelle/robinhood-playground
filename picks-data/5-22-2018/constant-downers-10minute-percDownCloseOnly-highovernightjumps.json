@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ONS",
+      "price": 1
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.45
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DTEA",
+      "price": 3.55
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.96
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.5
+    },
+    {
+      "ticker": "SSNT",
+      "price": 4.0411
+    }
+  ]
+}

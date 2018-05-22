@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RTIX",
+      "price": 4.55
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.7152
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDTX",
+      "price": 4.8
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.3602
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDTX",
+      "price": 4.95
+    },
+    {
+      "ticker": "SN",
+      "price": 4.3348
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDTX",
+      "price": 4.85
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.0498
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTX",
+      "price": 4.9
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.8726
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 4.91
+    },
+    {
+      "ticker": "FELP",
+      "price": 4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIE",
+      "price": 4.8965
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.99
+    }
+  ]
+}

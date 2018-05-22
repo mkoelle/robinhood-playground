@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "XSPL",
+      "price": 6.56
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 6.6532
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.05
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCIP",
+      "price": 9.8088
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.215
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCIP",
+      "price": 9.8088
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.18
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.064
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CRK",
+      "price": 11.3039
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRK",
+      "price": 11.3575
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRK",
+      "price": 11.05
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRK",
+      "price": 10.92
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.1578
+    }
+  ]
+}

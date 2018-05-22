@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ADOM",
+      "price": 1.515
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4651
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.9318
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADOM",
+      "price": 1.42
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.4942
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.5581
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADOM",
+      "price": 1.3599
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.5
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.6189
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADOM",
+      "price": 1.4392
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.48
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.4125
+    }
+  ]
+}

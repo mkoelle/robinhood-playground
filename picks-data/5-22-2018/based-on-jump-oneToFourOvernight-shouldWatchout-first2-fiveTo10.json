@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OVID",
+      "price": 8.56
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.075
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "PRPL",
+      "price": 6.78
+    }
+  ]
+}

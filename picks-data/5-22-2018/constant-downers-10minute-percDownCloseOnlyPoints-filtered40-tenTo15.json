@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CMT",
+      "price": 14.39
+    },
+    {
+      "ticker": "TAST",
+      "price": 11.6
+    },
+    {
+      "ticker": "WSC",
+      "price": 12.275
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DFRG",
+      "price": 13.65
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.41
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.74
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SNMP",
+      "price": 12.1
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.49
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.21
+    }
+  ]
+}

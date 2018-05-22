@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESND",
+      "price": 14.01
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYBX",
+      "price": 10.03
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LTRPA",
+      "price": 13.075
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OXFD",
+      "price": 13.96
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AQ",
+      "price": 11.8
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 13.125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KIRK",
+      "price": 10.44
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KIRK",
+      "price": 10.44
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.92
+    }
+  ]
+}

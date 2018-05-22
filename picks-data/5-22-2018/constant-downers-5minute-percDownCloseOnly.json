@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TST",
+      "price": 1.8001
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.67
+    },
+    {
+      "ticker": "TYME",
+      "price": 2.78
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GIGM",
+      "price": 2.9401
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.48
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LND",
+      "price": 3.68
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.318
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.1614
+    }
+  ]
+}

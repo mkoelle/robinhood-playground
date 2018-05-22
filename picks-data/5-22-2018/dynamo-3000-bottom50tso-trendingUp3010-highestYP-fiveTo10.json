@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 6.45
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 8.7384
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.2599
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.63
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 8.62
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTI",
+      "price": 8.53
+    },
+    {
+      "ticker": "PTIE",
+      "price": 9.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTI",
+      "price": 8.3099
+    },
+    {
+      "ticker": "PES",
+      "price": 5.6501
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 8.365
+    },
+    {
+      "ticker": "PES",
+      "price": 5.6
+    }
+  ]
+}

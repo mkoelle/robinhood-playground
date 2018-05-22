@@ -1,0 +1,75 @@
+{
+  "40": [
+    {
+      "ticker": "CDTI",
+      "price": 1.1417
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.7399
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.29
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CDTI",
+      "price": 1.155
+    },
+    {
+      "ticker": "AREX",
+      "price": 3.15
+    },
+    {
+      "ticker": "TOO",
+      "price": 2.785
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDTI",
+      "price": 1.0724
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.2514
+    },
+    {
+      "ticker": "AREX",
+      "price": 3.175
+    }
+  ],
+  "140": [
+    {
+      "ticker": "CDTI",
+      "price": 1.3116
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.37
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.9148
+    }
+  ],
+  "198": [
+    {
+      "ticker": "GERN",
+      "price": 4.03
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.875
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 4.1
+    }
+  ],
+  "300": []
+}

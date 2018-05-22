@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LBY",
+      "price": 5.86
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LBY",
+      "price": 5.8
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LBY",
+      "price": 6.14
+    },
+    {
+      "ticker": "CARV",
+      "price": 7.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LBY",
+      "price": 6.38
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.85
+    }
+  ]
+}

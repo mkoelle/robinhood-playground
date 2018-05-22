@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABCD",
+      "price": 9.75
+    },
+    {
+      "ticker": "FTR",
+      "price": 9.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 9.7325
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QD",
+      "price": 9.57
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.732
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASYS",
+      "price": 9.28
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASYS",
+      "price": 9.395
+    },
+    {
+      "ticker": "OMEX",
+      "price": 8.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASYS",
+      "price": 9.2799
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.9425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.24
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.245
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "10": [
+    {
+      "ticker": "TIS",
+      "price": 5.6024
+    },
+    {
+      "ticker": "TCS",
+      "price": 7.9199
+    },
+    {
+      "ticker": "NL",
+      "price": 9.4
+    }
+  ],
+  "50": [
+    {
+      "ticker": "TIS",
+      "price": 5.78
+    },
+    {
+      "ticker": "TCS",
+      "price": 8.0356
+    },
+    {
+      "ticker": "NL",
+      "price": 9.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 5.79
+    },
+    {
+      "ticker": "TCS",
+      "price": 8.2116
+    },
+    {
+      "ticker": "NL",
+      "price": 9.5
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TIS",
+      "price": 5.73
+    },
+    {
+      "ticker": "TCS",
+      "price": 8.26
+    },
+    {
+      "ticker": "NL",
+      "price": 9.5
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TIS",
+      "price": 5.6868
+    },
+    {
+      "ticker": "TCS",
+      "price": 8.2
+    },
+    {
+      "ticker": "NL",
+      "price": 9.45
+    }
+  ]
+}

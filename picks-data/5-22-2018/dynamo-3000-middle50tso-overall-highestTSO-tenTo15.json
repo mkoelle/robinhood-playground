@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NMZ",
+      "price": 12.45
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.3898
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESSA",
+      "price": 15
+    },
+    {
+      "ticker": "CHU",
+      "price": 14.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PGP",
+      "price": 13.9032
+    },
+    {
+      "ticker": "BNJ",
+      "price": 13.7892
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MUE",
+      "price": 12.07
+    },
+    {
+      "ticker": "EVJ",
+      "price": 11.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLW",
+      "price": 14.9524
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GHY",
+      "price": 13.74
+    },
+    {
+      "ticker": "NJV",
+      "price": 13.048
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MFT",
+      "price": 12.93
+    },
+    {
+      "ticker": "KSM",
+      "price": 10.74
+    }
+  ]
+}

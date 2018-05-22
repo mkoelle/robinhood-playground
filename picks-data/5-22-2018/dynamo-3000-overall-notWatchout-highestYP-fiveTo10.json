@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTI",
+      "price": 8.8258
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 8.7384
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.445
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.63
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 5.41
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.475
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 5.49
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.2393
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.53
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.13
+    }
+  ]
+}

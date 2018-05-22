@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GEVO",
+      "price": 0.315
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GEVO",
+      "price": 0.32
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.4651
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GEVO",
+      "price": 0.3113
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GEVO",
+      "price": 0.3217
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.72
+    }
+  ]
+}

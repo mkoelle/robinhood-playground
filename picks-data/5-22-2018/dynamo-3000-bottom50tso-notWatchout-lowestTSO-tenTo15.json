@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMT",
+      "price": 14.85
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.655
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 10.23
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.25
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 10.1516
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CCJ",
+      "price": 10.68
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCJ",
+      "price": 10.61
+    },
+    {
+      "ticker": "SD",
+      "price": 14.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SD",
+      "price": 14.115
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.58
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.59
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.7399
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3482
+    }
+  ],
+  "80": [
+    {
+      "ticker": "RHE",
+      "price": 0.3919
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5777
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.397
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.005
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3597
+    }
+  ],
+  "140": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.3961
+    },
+    {
+      "ticker": "LKM",
+      "price": 0.9998
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.54
+    }
+  ],
+  "198": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.3957
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.01
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.54
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.3982
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8333
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.2451
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VVUS",
+      "price": 0.8501
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.241
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.01
+    }
+  ]
+}

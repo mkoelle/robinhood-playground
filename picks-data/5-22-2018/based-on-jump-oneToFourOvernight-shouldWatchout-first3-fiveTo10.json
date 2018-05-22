@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OVID",
+      "price": 8.56
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.09
+    },
+    {
+      "ticker": "HK",
+      "price": 5.6266
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.12
+    },
+    {
+      "ticker": "HK",
+      "price": 5.6787
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.075
+    },
+    {
+      "ticker": "HK",
+      "price": 5.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OVID",
+      "price": 8.49
+    },
+    {
+      "ticker": "PRPL",
+      "price": 6.78
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.0199
+    }
+  ]
+}

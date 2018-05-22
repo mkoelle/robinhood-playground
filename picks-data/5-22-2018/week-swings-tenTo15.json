@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.2
+    }
+  ],
+  "169": [
+    {
+      "ticker": "CIX",
+      "price": 14.45
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.85
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.1885
+    }
+  ],
+  "273": [
+    {
+      "ticker": "CIX",
+      "price": 13.9695
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.6186
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.0648
+    }
+  ]
+}

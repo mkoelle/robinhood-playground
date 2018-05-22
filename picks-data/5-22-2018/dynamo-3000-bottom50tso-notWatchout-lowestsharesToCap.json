@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARDX",
+      "price": 4.85
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARDX",
+      "price": 4.445
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARDX",
+      "price": 4.55
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.4699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARDX",
+      "price": 4.675
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.6502
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARDX",
+      "price": 4.661
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARDX",
+      "price": 4.575
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARDX",
+      "price": 4.5748
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.5863
+    }
+  ]
+}

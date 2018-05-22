@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 8.8868
+    },
+    {
+      "ticker": "HK",
+      "price": 5.6266
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 8.87
+    },
+    {
+      "ticker": "HK",
+      "price": 5.6787
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GFA",
+      "price": 7.12
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GFA",
+      "price": 7.14
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.6099
+    }
+  ]
+}

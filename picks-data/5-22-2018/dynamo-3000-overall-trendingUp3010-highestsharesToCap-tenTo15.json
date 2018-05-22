@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ICLN",
+      "price": 10.05
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ICLN",
+      "price": 10.03
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ICLN",
+      "price": 10.0599
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICLN",
+      "price": 10.03
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICLN",
+      "price": 10.02
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.0176
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ICLN",
+      "price": 10.025
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.0083
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ICLN",
+      "price": 10
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.01
+    }
+  ]
+}

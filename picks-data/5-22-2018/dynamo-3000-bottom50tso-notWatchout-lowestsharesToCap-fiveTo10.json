@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOGO",
+      "price": 9.7799
+    },
+    {
+      "ticker": "SRF",
+      "price": 9.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ALPN",
+      "price": 9.7825
+    },
+    {
+      "ticker": "SOGO",
+      "price": 9.545
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTIE",
+      "price": 9.75
+    },
+    {
+      "ticker": "SOGO",
+      "price": 9.705
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 9.93
+    },
+    {
+      "ticker": "PTIE",
+      "price": 9.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 9.7001
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.8618
+    }
+  ]
+}

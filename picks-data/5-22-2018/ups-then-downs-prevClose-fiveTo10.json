@@ -1,0 +1,34 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "MFIN",
+      "price": 5.25
+    },
+    {
+      "ticker": "KODK",
+      "price": 5.679
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MFIN",
+      "price": 5.2
+    }
+  ],
+  "300": [],
+  "380": [
+    {
+      "ticker": "ALPN",
+      "price": 9.5918
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.8701
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.14
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "40": [
+    {
+      "ticker": "AKAO",
+      "price": 12.0468
+    },
+    {
+      "ticker": "TNDM",
+      "price": 12.5601
+    },
+    {
+      "ticker": "ANGI",
+      "price": 14.99
+    }
+  ],
+  "80": [
+    {
+      "ticker": "REPH",
+      "price": 12.8346
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.04
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.4942
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REPH",
+      "price": 12.78
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.01
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.9
+    }
+  ],
+  "140": [
+    {
+      "ticker": "REPH",
+      "price": 12.52
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.0799
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.985
+    }
+  ],
+  "198": [
+    {
+      "ticker": "KIM",
+      "price": 14.975
+    },
+    {
+      "ticker": "FNB",
+      "price": 13.835
+    }
+  ],
+  "250": [
+    {
+      "ticker": "FNB",
+      "price": 13.8625
+    }
+  ],
+  "300": []
+}

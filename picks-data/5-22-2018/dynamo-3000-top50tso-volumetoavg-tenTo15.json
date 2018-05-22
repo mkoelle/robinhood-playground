@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RMBS",
+      "price": 13.51
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACH",
+      "price": 13.71
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SXC",
+      "price": 13.395
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.1998
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OXFD",
+      "price": 13.96
+    },
+    {
+      "ticker": "JNCE",
+      "price": 10.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVI",
+      "price": 14.5
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KIRK",
+      "price": 10.44
+    },
+    {
+      "ticker": "JNCE",
+      "price": 10.8993
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BILI",
+      "price": 13.205
+    },
+    {
+      "ticker": "CZZ",
+      "price": 10.05
+    }
+  ]
+}

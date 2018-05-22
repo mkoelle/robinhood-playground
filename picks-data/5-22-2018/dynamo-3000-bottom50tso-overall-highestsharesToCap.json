@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 0.1827
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.235
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 0.171
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 0.179
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UAVS",
+      "price": 2.55
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2438
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UAVS",
+      "price": 2.5728
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2392
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UAVS",
+      "price": 2.64
+    },
+    {
+      "ticker": "CTRV",
+      "price": 0.2441
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UAVS",
+      "price": 2.505
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2969
+    }
+  ]
+}

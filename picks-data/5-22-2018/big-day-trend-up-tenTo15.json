@@ -1,0 +1,45 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "UBX",
+      "price": 13.9644
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.99
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CWCO",
+      "price": 12.95
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.99
+    }
+  ],
+  "223": [
+    {
+      "ticker": "AP",
+      "price": 10.05
+    },
+    {
+      "ticker": "CMCM",
+      "price": 12.88
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.67
+    },
+    {
+      "ticker": "CWCO",
+      "price": 12.95
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    }
+  ]
+}

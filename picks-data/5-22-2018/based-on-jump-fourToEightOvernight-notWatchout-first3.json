@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GEVO",
+      "price": 0.315
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.85
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GEVO",
+      "price": 0.32
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.45
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AZRX",
+      "price": 2.665
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3113
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AZRX",
+      "price": 2.665
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.3217
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.4
+    }
+  ]
+}

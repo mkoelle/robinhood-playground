@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XSPL",
+      "price": 6.56
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 6.6532
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCIP",
+      "price": 9.8088
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.215
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCIP",
+      "price": 9.8088
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.18
+    }
+  ]
+}

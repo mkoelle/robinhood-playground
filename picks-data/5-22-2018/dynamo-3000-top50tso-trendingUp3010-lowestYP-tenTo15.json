@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SSP",
+      "price": 13.33
+    },
+    {
+      "ticker": "BRX",
+      "price": 14.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSH",
+      "price": 13.225
+    },
+    {
+      "ticker": "GOV",
+      "price": 13.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSH",
+      "price": 13.225
+    },
+    {
+      "ticker": "PDFS",
+      "price": 11.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSH",
+      "price": 13.2
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSH",
+      "price": 13.21
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.145
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PDFS",
+      "price": 12.12
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PDFS",
+      "price": 12.1
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.355
+    }
+  ]
+}

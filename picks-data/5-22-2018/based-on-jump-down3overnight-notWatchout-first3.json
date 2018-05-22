@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EVFM",
+      "price": 4.01
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.95
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7122
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVFM",
+      "price": 4.0959
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.85
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 4.09
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.675
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.3754
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 4.2959
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.575
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.4
+    }
+  ]
+}

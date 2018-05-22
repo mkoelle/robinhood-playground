@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 8.8868
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 8.87
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.255
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 8.685
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.255
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 8.6099
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.25
+    }
+  ]
+}

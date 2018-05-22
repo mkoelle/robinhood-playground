@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FOMX",
+      "price": 5.19
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLNW",
+      "price": 5.04
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.2599
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CATS",
+      "price": 5.07
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLNW",
+      "price": 5.045
+    },
+    {
+      "ticker": "KZIA",
+      "price": 5.0361
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LLNW",
+      "price": 5.0207
+    },
+    {
+      "ticker": "KZIA",
+      "price": 5.0361
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KZIA",
+      "price": 5.0361
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.345
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMRS",
+      "price": 5.3025
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.3
+    }
+  ]
+}

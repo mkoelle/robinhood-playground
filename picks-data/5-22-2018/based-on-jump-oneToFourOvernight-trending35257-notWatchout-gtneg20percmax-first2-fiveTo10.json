@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 8.8868
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 8.87
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 8.685
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 8.6099
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.07
+    }
+  ]
+}

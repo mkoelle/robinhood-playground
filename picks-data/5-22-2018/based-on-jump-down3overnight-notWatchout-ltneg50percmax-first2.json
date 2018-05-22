@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EVFM",
+      "price": 4.01
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7122
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVFM",
+      "price": 4.0959
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7122
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 4.09
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7109
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 4.2959
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.7999
+    }
+  ]
+}

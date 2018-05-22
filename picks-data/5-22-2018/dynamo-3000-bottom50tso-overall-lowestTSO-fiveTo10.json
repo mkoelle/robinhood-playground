@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NATR",
+      "price": 9.7
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.305
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 6.96
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.1912
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LGCY",
+      "price": 6.72
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 8.5826
+    },
+    {
+      "ticker": "LGCY",
+      "price": 6.8968
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGCY",
+      "price": 6.89
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.7001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LGCY",
+      "price": 6.608
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.7341
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LGCY",
+      "price": 6.54
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.75
+    }
+  ]
+}

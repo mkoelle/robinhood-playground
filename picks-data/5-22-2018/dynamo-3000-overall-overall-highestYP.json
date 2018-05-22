@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 4.7152
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.3367
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 4.67
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.3717
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GVP",
+      "price": 3.25
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GVP",
+      "price": 3.1
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.2
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.1
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.4099
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENSV",
+      "price": 1.419
+    },
+    {
+      "ticker": "GVP",
+      "price": 3.1
+    }
+  ]
+}

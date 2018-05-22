@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SGOC",
+      "price": 1.185
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.8499
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.4382
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SNES",
+      "price": 1.2615
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.14
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.499
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EGY",
+      "price": 2.1816
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.33
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4949
+    }
+  ]
+}

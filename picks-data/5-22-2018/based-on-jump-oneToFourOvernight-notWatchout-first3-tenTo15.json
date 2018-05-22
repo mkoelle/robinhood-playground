@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MVO",
+      "price": 10.5
+    },
+    {
+      "ticker": "UGP",
+      "price": 14.5801
+    },
+    {
+      "ticker": "VIV",
+      "price": 12.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.83
+    },
+    {
+      "ticker": "UGP",
+      "price": 14.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.83
+    },
+    {
+      "ticker": "UGP",
+      "price": 14.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.1578
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.83
+    }
+  ]
+}

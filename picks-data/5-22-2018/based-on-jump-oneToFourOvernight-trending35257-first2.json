@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.1999
+    },
+    {
+      "ticker": "CALI",
+      "price": 2.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.24
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.4144
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IPDN",
+      "price": 3.0401
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IPDN",
+      "price": 3.0401
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.206
+    }
+  ]
+}

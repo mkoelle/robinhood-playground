@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ANY",
+      "price": 0.5867
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDTI",
+      "price": 1.173
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6131
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDTI",
+      "price": 1.06
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6924
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDTI",
+      "price": 1.2
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.7651
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTI",
+      "price": 1.4
+    },
+    {
+      "ticker": "FWP",
+      "price": 2.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDTI",
+      "price": 1.3918
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.7601
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FWP",
+      "price": 4.0765
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.9812
+    }
+  ]
+}

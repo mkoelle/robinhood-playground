@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NATR",
+      "price": 9.7
+    },
+    {
+      "ticker": "SVRA",
+      "price": 9.0142
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NATR",
+      "price": 9.25
+    },
+    {
+      "ticker": "KMPH",
+      "price": 6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TXMD",
+      "price": 5.86
+    },
+    {
+      "ticker": "NATR",
+      "price": 9.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 9.93
+    },
+    {
+      "ticker": "MBIO",
+      "price": 6.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 9.7001
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "PES",
+      "price": 5.6501
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "PES",
+      "price": 5.6
+    }
+  ]
+}

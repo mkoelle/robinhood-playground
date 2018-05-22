@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.05
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ALPN",
+      "price": 9.7825
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIEB",
+      "price": 9.24
+    },
+    {
+      "ticker": "PTIE",
+      "price": 9.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 9.93
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.5826
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 9.7001
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "RKDA",
+      "price": 9.8922
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 9.7
+    },
+    {
+      "ticker": "RKDA",
+      "price": 9.835
+    }
+  ]
+}

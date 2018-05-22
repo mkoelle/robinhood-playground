@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.1999
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.699
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.24
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.05
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.685
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDT",
+      "price": 1.22
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.03
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.5353
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDT",
+      "price": 1.206
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.03
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.54
+    }
+  ]
+}

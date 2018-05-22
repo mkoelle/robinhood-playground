@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PER",
+      "price": 2.4445
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5867
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BKYI",
+      "price": 2.43
+    },
+    {
+      "ticker": "CDTI",
+      "price": 1.173
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UPL",
+      "price": 2.36
+    },
+    {
+      "ticker": "CDTI",
+      "price": 1.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHKE",
+      "price": 0.8531
+    },
+    {
+      "ticker": "CDTI",
+      "price": 1.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TNXP",
+      "price": 3.313
+    },
+    {
+      "ticker": "CDTI",
+      "price": 1.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HGT",
+      "price": 0.83
+    },
+    {
+      "ticker": "CDTI",
+      "price": 1.3918
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RSYS",
+      "price": 0.78
+    },
+    {
+      "ticker": "FWP",
+      "price": 4.0765
+    }
+  ]
+}

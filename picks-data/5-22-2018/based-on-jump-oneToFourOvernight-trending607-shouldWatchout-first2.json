@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TGA",
+      "price": 2.42
+    },
+    {
+      "ticker": "RUBI",
+      "price": 2.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TGA",
+      "price": 2.4144
+    },
+    {
+      "ticker": "RUBI",
+      "price": 2.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGA",
+      "price": 2.3917
+    },
+    {
+      "ticker": "RUBI",
+      "price": 2.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGA",
+      "price": 2.42
+    },
+    {
+      "ticker": "RUBI",
+      "price": 2.485
+    }
+  ]
+}

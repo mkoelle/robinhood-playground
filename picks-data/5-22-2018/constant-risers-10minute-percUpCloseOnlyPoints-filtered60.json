@@ -1,0 +1,100 @@
+{
+  "40": [
+    {
+      "ticker": "CDTI",
+      "price": 1.1417
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6194
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.7399
+    }
+  ],
+  "80": [
+    {
+      "ticker": "CDTI",
+      "price": 1.155
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6167
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANY",
+      "price": 0.6777
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.2514
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.7118
+    }
+  ],
+  "140": [
+    {
+      "ticker": "SMRT",
+      "price": 3.37
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.1993
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.9148
+    }
+  ],
+  "198": [
+    {
+      "ticker": "SMRT",
+      "price": 3.3
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.03
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.875
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GERN",
+      "price": 4.1
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.0807
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.6949
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GERN",
+      "price": 4.1063
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.0899
+    },
+    {
+      "ticker": "HTBX",
+      "price": 1.89
+    }
+  ]
+}

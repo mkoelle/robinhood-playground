@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAII",
+      "price": 10.55
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.05
+    },
+    {
+      "ticker": "FRBA",
+      "price": 13.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OBSV",
+      "price": 12.348
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.4548
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NOM",
+      "price": 13.4548
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.348
+    },
+    {
+      "ticker": "PHII",
+      "price": 13.2001
+    }
+  ]
+}

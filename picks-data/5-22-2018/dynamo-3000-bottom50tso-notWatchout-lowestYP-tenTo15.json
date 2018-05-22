@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 14.5
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 10.23
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.25
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LCUT",
+      "price": 10.15
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCUT",
+      "price": 10.05
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.195
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCUT",
+      "price": 10.15
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCUT",
+      "price": 10.15
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.335
+    }
+  ]
+}

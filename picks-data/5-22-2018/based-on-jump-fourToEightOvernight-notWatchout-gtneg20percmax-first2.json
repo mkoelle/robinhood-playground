@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.81
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHK",
+      "price": 4.6899
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.5618
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 4.7061
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.5618
+    }
+  ]
+}

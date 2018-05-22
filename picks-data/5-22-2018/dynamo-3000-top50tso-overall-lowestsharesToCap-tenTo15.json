@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INN",
+      "price": 14.84
+    },
+    {
+      "ticker": "PRMW",
+      "price": 14.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FLY",
+      "price": 14.85
+    },
+    {
+      "ticker": "ENBL",
+      "price": 15.031
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 14.8295
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.985
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    },
+    {
+      "ticker": "KIM",
+      "price": 15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIIX",
+      "price": 14.57
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIIX",
+      "price": 14.57
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HK",
+      "price": 5.6266
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HK",
+      "price": 5.6787
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HK",
+      "price": 5.61
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HK",
+      "price": 5.66
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.4328
+    }
+  ]
+}

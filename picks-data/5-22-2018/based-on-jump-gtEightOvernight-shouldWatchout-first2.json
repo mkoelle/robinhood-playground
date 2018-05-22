@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5464
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3051
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6392
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5699
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3385
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.56
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.3359
+    }
+  ]
+}

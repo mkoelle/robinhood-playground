@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "PLAB",
+      "price": 9.8
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.8889
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLAB",
+      "price": 9.6
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.7406
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLAB",
+      "price": 9.85
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.4802
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLAB",
+      "price": 9.55
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.58
+    }
+  ]
+}

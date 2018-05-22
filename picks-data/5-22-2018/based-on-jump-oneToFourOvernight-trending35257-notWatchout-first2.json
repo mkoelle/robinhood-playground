@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.1999
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.9356
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.24
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDT",
+      "price": 1.22
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.03
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDT",
+      "price": 1.206
+    },
+    {
+      "ticker": "TAT",
+      "price": 2.03
+    }
+  ]
+}

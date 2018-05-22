@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGY",
+      "price": 2.41
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8398
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGY",
+      "price": 2.41
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.828
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGY",
+      "price": 2.4124
+    },
+    {
+      "ticker": "BDR",
+      "price": 0.996
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGY",
+      "price": 2.3883
+    },
+    {
+      "ticker": "BDR",
+      "price": 0.9458
+    }
+  ]
+}

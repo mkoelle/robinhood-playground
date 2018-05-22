@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMO",
+      "price": 9.12
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.6272
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENZ",
+      "price": 6.5
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTR",
+      "price": 9.65
+    },
+    {
+      "ticker": "EEV",
+      "price": 8.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKD",
+      "price": 7.7307
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.6101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WOW",
+      "price": 8.99
+    },
+    {
+      "ticker": "GCAP",
+      "price": 8.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GCAP",
+      "price": 8.185
+    },
+    {
+      "ticker": "BVXV",
+      "price": 6.799
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GCAP",
+      "price": 8.145
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.225
+    }
+  ]
+}

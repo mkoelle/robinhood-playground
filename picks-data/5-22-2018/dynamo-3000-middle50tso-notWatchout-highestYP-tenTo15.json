@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RUN",
+      "price": 10.96
+    },
+    {
+      "ticker": "HCLP",
+      "price": 14.3357
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBO",
+      "price": 12.6725
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHI",
+      "price": 11.51
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.168
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMSWA",
+      "price": 13.23
+    },
+    {
+      "ticker": "CHIE",
+      "price": 13.3197
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBAY",
+      "price": 12.415
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.0176
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBAY",
+      "price": 12.435
+    },
+    {
+      "ticker": "SVVC",
+      "price": 11.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CECO",
+      "price": 14.39
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.21
+    }
+  ]
+}

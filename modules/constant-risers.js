@@ -58,7 +58,7 @@ const trendFilter = async (Robinhood, trend) => {
         const orderBy = (what, trend) => {
             return trend
                 .sort((a, b) => b[what] - a[what])
-                .slice(0, 3)
+                .slice(0, 1)
                 .map(buy => buy.ticker);
         };
 

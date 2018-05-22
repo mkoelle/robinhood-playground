@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MVO",
+      "price": 10.5
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.0248
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MVO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.1935
+    }
+  ]
+}

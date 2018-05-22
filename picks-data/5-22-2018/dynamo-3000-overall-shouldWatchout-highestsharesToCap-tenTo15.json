@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DF",
+      "price": 10.12
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DF",
+      "price": 10.105
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.145
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPI",
+      "price": 10.24
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 10.205
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.315
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.3
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.04
+    }
+  ]
+}

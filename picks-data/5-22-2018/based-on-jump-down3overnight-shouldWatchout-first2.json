@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IZEA",
+      "price": 1.75
+    },
+    {
+      "ticker": "NDRA",
+      "price": 1.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IZEA",
+      "price": 1.61
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1515
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IZEA",
+      "price": 1.67
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1515
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IZEA",
+      "price": 1.6738
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.16
+    }
+  ]
+}
