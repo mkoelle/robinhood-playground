@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 9.98
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPTX",
+      "price": 8.58
+    },
+    {
+      "ticker": "MDXG",
+      "price": 9.535
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPTX",
+      "price": 8.6699
+    },
+    {
+      "ticker": "MDXG",
+      "price": 8.725
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPTX",
+      "price": 8.65
+    },
+    {
+      "ticker": "MDXG",
+      "price": 9.04
+    }
+  ]
+}

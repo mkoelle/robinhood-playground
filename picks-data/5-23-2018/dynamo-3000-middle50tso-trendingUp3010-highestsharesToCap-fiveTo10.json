@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 5.91
+    },
+    {
+      "ticker": "RJA",
+      "price": 6.3899
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSE",
+      "price": 5.8789
+    },
+    {
+      "ticker": "RJA",
+      "price": 6.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GAB",
+      "price": 6.325
+    },
+    {
+      "ticker": "USA",
+      "price": 6.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLUU",
+      "price": 5.53
+    },
+    {
+      "ticker": "NCZ",
+      "price": 6.015
+    }
+  ]
+}

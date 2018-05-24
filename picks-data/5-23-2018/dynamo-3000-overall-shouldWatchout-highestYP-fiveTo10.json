@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 8.0585
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 8.07
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 8.25
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.33
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.745
+    }
+  ]
+}

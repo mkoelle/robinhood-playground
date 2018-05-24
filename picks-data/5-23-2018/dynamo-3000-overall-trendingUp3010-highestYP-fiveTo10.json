@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 5.7
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.76
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 5.64
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.6582
+    },
+    {
+      "ticker": "ARWR",
+      "price": 9.745
+    }
+  ]
+}

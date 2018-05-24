@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    },
+    {
+      "ticker": "IAU",
+      "price": 12.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAN",
+      "price": 12.4395
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.3163
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IVH",
+      "price": 14.25
+    },
+    {
+      "ticker": "FSD",
+      "price": 14.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LBC",
+      "price": 12.68
+    },
+    {
+      "ticker": "EIM",
+      "price": 11.72
+    }
+  ]
+}

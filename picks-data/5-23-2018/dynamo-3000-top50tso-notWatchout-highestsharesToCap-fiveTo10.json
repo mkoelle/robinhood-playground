@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LLEX",
+      "price": 5.2
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LLEX",
+      "price": 5.2925
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 5.34
+    },
+    {
+      "ticker": "CATS",
+      "price": 5.6594
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLEX",
+      "price": 5.4484
+    },
+    {
+      "ticker": "CATS",
+      "price": 5.5499
+    }
+  ]
+}

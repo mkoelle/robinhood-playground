@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 4.19
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 4.2
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.361
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.285
+    },
+    {
+      "ticker": "SSI",
+      "price": 3.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 4.331
+    },
+    {
+      "ticker": "SSI",
+      "price": 3.2099
+    }
+  ]
+}

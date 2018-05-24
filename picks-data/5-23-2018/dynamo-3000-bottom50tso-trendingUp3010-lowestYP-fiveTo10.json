@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RIOT",
+      "price": 7.56
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.5401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLNK",
+      "price": 6.9676
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 8.4001
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.751
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 8.3642
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.781
+    }
+  ]
+}

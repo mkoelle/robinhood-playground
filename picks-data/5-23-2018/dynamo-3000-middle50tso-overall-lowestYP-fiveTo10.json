@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 5.91
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.0099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MGEN",
+      "price": 7.25
+    },
+    {
+      "ticker": "IMH",
+      "price": 8.985
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.39
+    },
+    {
+      "ticker": "HABT",
+      "price": 8.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RIOT",
+      "price": 7.8699
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.44
+    }
+  ]
+}

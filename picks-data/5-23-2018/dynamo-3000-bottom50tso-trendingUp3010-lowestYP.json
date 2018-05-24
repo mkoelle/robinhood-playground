@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ANY",
+      "price": 0.46
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.2099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANY",
+      "price": 0.4499
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.211
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANY",
+      "price": 0.456
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.2318
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANY",
+      "price": 0.464
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.23
+    }
+  ]
+}

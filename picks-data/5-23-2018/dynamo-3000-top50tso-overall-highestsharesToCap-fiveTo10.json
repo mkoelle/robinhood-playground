@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CDTX",
+      "price": 5.175
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.2925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDTX",
+      "price": 5.2
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDTX",
+      "price": 5.225
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.075
+    }
+  ]
+}

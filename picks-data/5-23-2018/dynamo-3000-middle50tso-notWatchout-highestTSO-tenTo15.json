@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "IAU",
+      "price": 12.38
+    },
+    {
+      "ticker": "VMO",
+      "price": 11.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UGLD",
+      "price": 10.3163
+    },
+    {
+      "ticker": "PHD",
+      "price": 11.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FSD",
+      "price": 14.9
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIM",
+      "price": 11.72
+    },
+    {
+      "ticker": "GHY",
+      "price": 13.74
+    }
+  ]
+}

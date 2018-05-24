@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RVLT",
+      "price": 4.325
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHK",
+      "price": 4.665
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.361
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RVLT",
+      "price": 4.42
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.285
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RVLT",
+      "price": 4.5
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.331
+    }
+  ]
+}

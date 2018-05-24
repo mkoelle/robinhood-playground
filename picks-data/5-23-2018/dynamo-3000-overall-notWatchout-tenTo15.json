@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "GE",
+      "price": 14.355
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.34
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.2
+    },
+    {
+      "ticker": "ZOES",
+      "price": 14.5
+    },
+    {
+      "ticker": "HMG",
+      "price": 14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GE",
+      "price": 14.25
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.28
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.3
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.53
+    },
+    {
+      "ticker": "ZOES",
+      "price": 14.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.8
+    },
+    {
+      "ticker": "GE",
+      "price": 14.145
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.34
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.35
+    },
+    {
+      "ticker": "SCPH",
+      "price": 13.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.9593
+    },
+    {
+      "ticker": "GE",
+      "price": 14.155
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.455
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.2858
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.8
+    }
+  ]
+}

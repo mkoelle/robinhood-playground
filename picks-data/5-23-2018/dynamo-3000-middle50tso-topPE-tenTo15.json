@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.81
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.24
+    },
+    {
+      "ticker": "SLCT",
+      "price": 12.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNHI",
+      "price": 12.56
+    },
+    {
+      "ticker": "GME",
+      "price": 12.565
+    },
+    {
+      "ticker": "INXX",
+      "price": 12.9242
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JMF",
+      "price": 11.0832
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.0651
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SLCT",
+      "price": 12.94
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.2
+    },
+    {
+      "ticker": "OTTW",
+      "price": 13.8869
+    }
+  ]
+}

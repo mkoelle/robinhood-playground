@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "SMED",
+      "price": 3.75
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.86
+    },
+    {
+      "ticker": "GIGM",
+      "price": 2.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKG",
+      "price": 1.1951
+    },
+    {
+      "ticker": "CNIT",
+      "price": 1.7405
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.905
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SMED",
+      "price": 3.75
+    },
+    {
+      "ticker": "RLGT",
+      "price": 4.08
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.8622
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERC",
+      "price": 3.84
+    },
+    {
+      "ticker": "RLGT",
+      "price": 4.08
+    },
+    {
+      "ticker": "NWY",
+      "price": 3.85
+    }
+  ]
+}

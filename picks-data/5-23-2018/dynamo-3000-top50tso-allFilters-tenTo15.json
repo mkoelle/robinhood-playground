@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "ACRE",
+      "price": 13.755
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.22
+    },
+    {
+      "ticker": "CIO",
+      "price": 11.905
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.53
+    },
+    {
+      "ticker": "MRT",
+      "price": 10.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIO",
+      "price": 11.895
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.22
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.8
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.3
+    },
+    {
+      "ticker": "FLWS",
+      "price": 12.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOCO",
+      "price": 10.825
+    },
+    {
+      "ticker": "GRBK",
+      "price": 11.95
+    },
+    {
+      "ticker": "ACRE",
+      "price": 13.81
+    },
+    {
+      "ticker": "MRT",
+      "price": 10.31
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GRBK",
+      "price": 12
+    },
+    {
+      "ticker": "MRT",
+      "price": 10.33
+    },
+    {
+      "ticker": "CZZ",
+      "price": 10.025
+    },
+    {
+      "ticker": "ATTU",
+      "price": 10.7
+    },
+    {
+      "ticker": "ACRE",
+      "price": 13.82
+    }
+  ]
+}

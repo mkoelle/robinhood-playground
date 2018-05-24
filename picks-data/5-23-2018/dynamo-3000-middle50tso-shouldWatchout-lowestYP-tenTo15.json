@@ -1,0 +1,30 @@
+{
+  "200": [
+    {
+      "ticker": "AIQ",
+      "price": 14.895
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 11.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INFN",
+      "price": 10.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKRX",
+      "price": 13.705
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.84
+    }
+  ]
+}

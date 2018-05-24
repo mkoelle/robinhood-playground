@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CMO",
+      "price": 9.205
+    },
+    {
+      "ticker": "MHF",
+      "price": 7.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GMRE",
+      "price": 8.63
+    },
+    {
+      "ticker": "NCV",
+      "price": 6.8701
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JHY",
+      "price": 9.86
+    },
+    {
+      "ticker": "MHF",
+      "price": 7.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABR",
+      "price": 9.43
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.44
+    }
+  ]
+}

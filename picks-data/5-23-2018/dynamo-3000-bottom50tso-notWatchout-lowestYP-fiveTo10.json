@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 5.015
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.521
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MGI",
+      "price": 6.515
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MGI",
+      "price": 6.49
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLNT",
+      "price": 6.175
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.465
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "PCMI",
+      "price": 12.8498
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.038
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.35
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.85
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRK",
+      "price": 13.505
+    },
+    {
+      "ticker": "PCMI",
+      "price": 12.9
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PCMI",
+      "price": 12.925
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.065
+    },
+    {
+      "ticker": "NR",
+      "price": 10.65
+    }
+  ]
+}

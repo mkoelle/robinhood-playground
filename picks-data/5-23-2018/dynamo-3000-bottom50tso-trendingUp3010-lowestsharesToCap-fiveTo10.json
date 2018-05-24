@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.5401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LXRX",
+      "price": 9.685
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LXRX",
+      "price": 9.65
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LXRX",
+      "price": 9.56
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ]
+}

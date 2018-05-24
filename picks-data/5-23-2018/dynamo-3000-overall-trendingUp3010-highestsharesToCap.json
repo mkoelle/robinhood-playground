@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.214
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2038
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2131
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2001
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2149
+    }
+  ]
+}

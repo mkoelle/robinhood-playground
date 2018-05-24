@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CLCT",
+      "price": 14.86
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 14.725
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLCT",
+      "price": 14.8075
+    },
+    {
+      "ticker": "VSTO",
+      "price": 14.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLCT",
+      "price": 14.73
+    },
+    {
+      "ticker": "VSTO",
+      "price": 14.445
+    }
+  ]
+}

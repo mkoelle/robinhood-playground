@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AIQ",
+      "price": 14.895
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AIQ",
+      "price": 14.895
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AIQ",
+      "price": 14.995
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 11.66
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.875
+    }
+  ]
+}

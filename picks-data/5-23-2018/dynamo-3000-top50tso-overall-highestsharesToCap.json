@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 0.1837
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2907
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IBIO",
+      "price": 0.16
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2038
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IBIO",
+      "price": 0.165
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2987
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0402
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.164
+    }
+  ]
+}

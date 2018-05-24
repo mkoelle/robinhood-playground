@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BCLI",
+      "price": 4.28
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.19
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHK",
+      "price": 4.665
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.361
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.285
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.58
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 4.331
+    },
+    {
+      "ticker": "JCS",
+      "price": 3.93
+    }
+  ]
+}

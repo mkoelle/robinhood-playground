@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 7.401
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.015
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.02
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 7.6164
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.01
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.31
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.02
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.72
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.245
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.07
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.3
+    }
+  ]
+}

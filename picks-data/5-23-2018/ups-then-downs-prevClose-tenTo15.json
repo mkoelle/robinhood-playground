@@ -1,0 +1,24 @@
+{
+  "200": [
+    {
+      "ticker": "CRK",
+      "price": 10.28
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.03
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GSM",
+      "price": 10.84
+    }
+  ],
+  "600": [
+    {
+      "ticker": "GSM",
+      "price": 10.9
+    }
+  ]
+}

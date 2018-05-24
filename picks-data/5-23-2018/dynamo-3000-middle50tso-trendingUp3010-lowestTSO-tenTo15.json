@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    },
+    {
+      "ticker": "LBC",
+      "price": 12.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCS",
+      "price": 14.075
+    },
+    {
+      "ticker": "BNJ",
+      "price": 13.7941
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IVH",
+      "price": 14.25
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.6084
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LBC",
+      "price": 12.68
+    },
+    {
+      "ticker": "CHI",
+      "price": 11.5399
+    }
+  ]
+}

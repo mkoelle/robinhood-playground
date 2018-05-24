@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MDLY",
+      "price": 4.925
+    },
+    {
+      "ticker": "OCSL",
+      "price": 4.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIS",
+      "price": 4.96
+    },
+    {
+      "ticker": "MDLY",
+      "price": 4.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 4.965
+    },
+    {
+      "ticker": "MDLY",
+      "price": 4.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TIS",
+      "price": 4.965
+    },
+    {
+      "ticker": "MDLY",
+      "price": 4.85
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.2324
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCTY",
+      "price": 1.23
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IFON",
+      "price": 3.19
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNES",
+      "price": 1.4701
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.402
+    }
+  ]
+}

@@ -19,6 +19,7 @@ const trendFilter = async (Robinhood, trend) => {
     console.log('running based-on-jump strategy');
 
     let withOvernight = await addOvernightJump(Robinhood, trend);
+    // withOvernight = withOvernight.filter(buy => buy.fundamentals.volume > 1000);
 
     const filterSortedTicks = async (filter, sort) => {
         const passedFirstFilter = withOvernight.filter(filter).sort(sort);
@@ -53,10 +54,36 @@ const trendFilter = async (Robinhood, trend) => {
         descendingOJ
     );
     console.log('prepping down3overnight');
+    const ascendingOJ = (a, b) => a.overnightJump - b.overnightJump;
     const down3overnight = await filterSortedTicks(
         buy => buy.overnightJump < -3,
-        (a, b) => a.overnightJump - b.overnightJump
+        ascendingOJ
     );
+    const down5overnight = await filterSortedTicks(
+        buy => buy.overnightJump < -5,
+        ascendingOJ
+    );
+    const down8overnight = await filterSortedTicks(
+        buy => buy.overnightJump < -8,
+        ascendingOJ
+    );
+    // console.log('prepping highvolume');
+    // const volumegt100kascendingjumps = await filterSortedTicks(
+    //     buy => buy.fundamentals.volume > 100000,
+    //     ascendingOJ
+    // );
+    // const volumegt100kdescendingjumps = await filterSortedTicks(
+    //     buy => buy.fundamentals.volume > 100000,
+    //     descendingOJ
+    // );
+    // const volumegt500kascendingjumps = await filterSortedTicks(
+    //     buy => buy.fundamentals.volume > 500000,
+    //     ascendingOJ
+    // );
+    // const volumegt500kdescendingjumps = await filterSortedTicks(
+    //     buy => buy.fundamentals.volume > 500000,
+    //     descendingOJ
+    // );
 
     const specificPerms = (name) => {
         return [
@@ -65,6 +92,10 @@ const trendFilter = async (Robinhood, trend) => {
             [`${name}-notWatchout`, buy => buy[name] && !buy.shouldWatchout],
             [`${name}-notWatchout-ltneg50percmax`, buy => buy[name] && !buy.shouldWatchout && buy.percMax < -50],
             [`${name}-notWatchout-gtneg20percmax`, buy => buy[name] && !buy.shouldWatchout && buy.percMax > -20],
+            [`${name}-gt100kvolume`, buy => buy[name] && buy.fundamentals.volume > 100000],
+            [`${name}-gt500kvolume`, buy => buy[name] && buy.fundamentals.volume > 500000],
+            [`${name}-gt1milvolume`, buy => buy[name] && buy.fundamentals.volume > 1000000],
+
         ];
     };
 
@@ -73,6 +104,9 @@ const trendFilter = async (Robinhood, trend) => {
         ['notWatchout', buy => !buy.shouldWatchout],
         ['notWatchout-ltneg50percmax', buy => !buy.shouldWatchout && buy.percMax < -50],
         ['notWatchout-gtneg20percmax', buy => !buy.shouldWatchout && buy.percMax > -20],
+        ['gt100kvolume', buy => buy.fundamentals.volume > 100000],
+        ['gt500kvolume', buy => buy.fundamentals.volume > 500000],
+        ['gt1milvolume', buy => buy.fundamentals.volume > 1000000],
 
         ...specificPerms('trending35257'),
         ...specificPerms('trending607'),
@@ -97,7 +131,15 @@ const trendFilter = async (Robinhood, trend) => {
         ...runPerms('gtEightOvernight', gtEightOvernight),
         ...runPerms('fourToEightOvernight', fourToEightOvernight),
         ...runPerms('oneToFourOvernight', oneToFourOvernight),
-        ...runPerms('down3overnight', down3overnight)
+        ...runPerms('down3overnight', down3overnight),
+        ...runPerms('down5overnight', down5overnight),
+        ...runPerms('down8overnight', down8overnight),
+
+        // ...runPerms('volumegt100kascendingjumps', volumegt100kascendingjumps),
+        // ...runPerms('volumegt100kdescendingjumps', volumegt100kdescendingjumps),
+        // ...runPerms('volumegt100kascendingjumps', volumegt100kascendingjumps),
+        // ...runPerms('volumegt500kdescendingjumps', volumegt500kdescendingjumps),
+
     };
 };
 

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 9.57
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DF",
+      "price": 9.58
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DF",
+      "price": 9.54
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DF",
+      "price": 9.5
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.435
+    }
+  ]
+}

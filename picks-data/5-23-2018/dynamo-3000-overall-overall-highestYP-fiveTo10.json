@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 8.0585
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 8.07
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 8.25
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.33
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.6582
+    }
+  ]
+}

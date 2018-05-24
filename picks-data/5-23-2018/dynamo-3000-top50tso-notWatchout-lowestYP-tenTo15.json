@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GOV",
+      "price": 14.038
+    },
+    {
+      "ticker": "COE",
+      "price": 11.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GOV",
+      "price": 14.13
+    },
+    {
+      "ticker": "SD",
+      "price": 14.359
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMT",
+      "price": 14.275
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNUG",
+      "price": 14.22
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.065
+    }
+  ]
+}

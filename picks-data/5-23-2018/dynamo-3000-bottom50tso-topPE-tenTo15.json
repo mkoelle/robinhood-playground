@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "NDP",
+      "price": 12.813
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.749
+    },
+    {
+      "ticker": "FPH",
+      "price": 11.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARA",
+      "price": 14.56
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.71
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JAX",
+      "price": 11.8
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.73
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JAX",
+      "price": 11.8
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.89
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.65
+    }
+  ]
+}

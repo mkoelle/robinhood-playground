@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GE",
+      "price": 14.355
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GE",
+      "price": 14.25
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GE",
+      "price": 14.145
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GE",
+      "price": 14.155
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.13
+    }
+  ]
+}

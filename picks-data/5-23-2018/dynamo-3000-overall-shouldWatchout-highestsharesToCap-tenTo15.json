@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AGLE",
+      "price": 10
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 10.251
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 10.6511
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.1299
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 10.449
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.13
+    }
+  ]
+}

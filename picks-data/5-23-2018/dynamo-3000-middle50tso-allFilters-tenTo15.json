@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.81
+    },
+    {
+      "ticker": "LBC",
+      "price": 12.7
+    },
+    {
+      "ticker": "SRV",
+      "price": 12
+    },
+    {
+      "ticker": "IQI",
+      "price": 11.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCS",
+      "price": 14.075
+    },
+    {
+      "ticker": "BNJ",
+      "price": 13.7941
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.055
+    },
+    {
+      "ticker": "BXMX",
+      "price": 14.15
+    },
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IVH",
+      "price": 14.25
+    },
+    {
+      "ticker": "CAFD",
+      "price": 12.25
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.6084
+    },
+    {
+      "ticker": "IQI",
+      "price": 11.85
+    },
+    {
+      "ticker": "MWA",
+      "price": 11.735
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LBC",
+      "price": 12.68
+    },
+    {
+      "ticker": "CHI",
+      "price": 11.5399
+    },
+    {
+      "ticker": "SOIL",
+      "price": 10.51
+    },
+    {
+      "ticker": "UCFC",
+      "price": 10.5
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.08
+    }
+  ]
+}

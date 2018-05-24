@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 7.401
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.015
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.5401
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.8
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 7.6164
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.7661
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.455
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.4001
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.96
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.781
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 8.3642
+    },
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "NVIV",
+      "price": 7.05
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.8001
+    }
+  ]
+}

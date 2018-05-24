@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DOC",
+      "price": 14.97
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 14.725
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEM",
+      "price": 14.93
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.8075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLCT",
+      "price": 14.73
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.9
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FWP",
+      "price": 2.9
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.368
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FWP",
+      "price": 2.9
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.085
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TNTR",
+      "price": 0.796
+    },
+    {
+      "ticker": "ZX",
+      "price": 1.316
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNTR",
+      "price": 0.8001
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.44
+    }
+  ]
+}

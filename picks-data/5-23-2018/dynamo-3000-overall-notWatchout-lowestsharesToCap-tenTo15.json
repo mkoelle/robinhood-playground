@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GE",
+      "price": 14.355
+    },
+    {
+      "ticker": "ZOES",
+      "price": 14.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GE",
+      "price": 14.25
+    },
+    {
+      "ticker": "ZOES",
+      "price": 14.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.8
+    },
+    {
+      "ticker": "GE",
+      "price": 14.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.9593
+    },
+    {
+      "ticker": "BWL.A",
+      "price": 14.8401
+    }
+  ]
+}

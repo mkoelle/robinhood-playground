@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GE",
+      "price": 14.355
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.895
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GE",
+      "price": 14.25
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.8
+    },
+    {
+      "ticker": "GE",
+      "price": 14.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.9593
+    },
+    {
+      "ticker": "GE",
+      "price": 14.155
+    }
+  ]
+}

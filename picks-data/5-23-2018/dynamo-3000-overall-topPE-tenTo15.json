@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.81
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.2
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12.85
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.05
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIND",
+      "price": 12.81
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.2
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIND",
+      "price": 12.87
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.175
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.325
+    }
+  ]
+}

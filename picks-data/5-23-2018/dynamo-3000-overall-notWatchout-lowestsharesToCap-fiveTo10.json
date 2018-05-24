@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "VIAV",
+      "price": 9.99
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 9.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIAV",
+      "price": 9.91
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 9.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIAV",
+      "price": 9.95
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 9.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDOR",
+      "price": 9.9962
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.92
+    }
+  ]
+}

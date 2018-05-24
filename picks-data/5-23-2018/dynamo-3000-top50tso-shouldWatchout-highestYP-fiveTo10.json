@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 6.87
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 8.07
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 8.25
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.2929
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.33
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.47
+    }
+  ]
+}

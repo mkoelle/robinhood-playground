@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AIQ",
+      "price": 14.895
+    },
+    {
+      "ticker": "PCOM",
+      "price": 13.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 11.765
+    },
+    {
+      "ticker": "AAC",
+      "price": 11.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DBO",
+      "price": 12.6084
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UCFC",
+      "price": 10.5
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    }
+  ]
+}

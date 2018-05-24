@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CHEK",
+      "price": 4.7281
+    },
+    {
+      "ticker": "FWP",
+      "price": 2.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELV",
+      "price": 4.69
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.6628
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TVIX",
+      "price": 4.815
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.5391
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TVIX",
+      "price": 4.805
+    },
+    {
+      "ticker": "CHEK",
+      "price": 4.49
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SE",
+      "price": 14.18
+    },
+    {
+      "ticker": "ADAP",
+      "price": 13.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USAT",
+      "price": 13.325
+    },
+    {
+      "ticker": "ADAP",
+      "price": 13.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 11.45
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 11.4458
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.675
+    }
+  ]
+}

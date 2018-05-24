@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.96
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELOX",
+      "price": 14.99
+    },
+    {
+      "ticker": "EGAN",
+      "price": 10.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELOX",
+      "price": 14.85
+    },
+    {
+      "ticker": "EGAN",
+      "price": 11.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELOX",
+      "price": 14.875
+    },
+    {
+      "ticker": "EGAN",
+      "price": 11.4458
+    }
+  ]
+}

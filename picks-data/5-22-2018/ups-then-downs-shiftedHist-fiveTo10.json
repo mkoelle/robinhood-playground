@@ -68,5 +68,19 @@
       "ticker": "NL",
       "price": 9.45
     }
+  ],
+  "600": [
+    {
+      "ticker": "TIS",
+      "price": 5.66
+    },
+    {
+      "ticker": "TCS",
+      "price": 8.18
+    },
+    {
+      "ticker": "NL",
+      "price": 9.4
+    }
   ]
 }

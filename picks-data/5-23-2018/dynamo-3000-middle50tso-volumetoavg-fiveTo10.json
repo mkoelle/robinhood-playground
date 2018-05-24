@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NCA",
+      "price": 9.4684
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UBN",
+      "price": 9.6137
+    },
+    {
+      "ticker": "FUND",
+      "price": 7.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMH",
+      "price": 8.9999
+    },
+    {
+      "ticker": "UNL",
+      "price": 9.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JEQ",
+      "price": 8.9514
+    },
+    {
+      "ticker": "EXD",
+      "price": 9.84
+    }
+  ]
+}

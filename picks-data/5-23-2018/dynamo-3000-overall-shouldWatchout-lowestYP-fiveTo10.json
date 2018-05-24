@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 6.8
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 6.7661
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 6.96
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.7881
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 7.05
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.8699
+    }
+  ]
+}

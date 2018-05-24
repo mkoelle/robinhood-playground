@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 8.96
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 8.94
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 8.9402
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.09
+    }
+  ]
+}

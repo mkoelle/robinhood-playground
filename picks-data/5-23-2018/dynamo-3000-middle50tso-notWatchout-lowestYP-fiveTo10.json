@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CPTA",
+      "price": 8.3126
+    },
+    {
+      "ticker": "JT",
+      "price": 5.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMH",
+      "price": 8.985
+    },
+    {
+      "ticker": "AU",
+      "price": 8.095
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.39
+    },
+    {
+      "ticker": "AP",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMH",
+      "price": 8.99
+    },
+    {
+      "ticker": "MFCB",
+      "price": 6.2518
+    }
+  ]
+}

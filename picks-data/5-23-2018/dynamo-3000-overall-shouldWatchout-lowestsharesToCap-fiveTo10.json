@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 9.8
+    },
+    {
+      "ticker": "DF",
+      "price": 9.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEP",
+      "price": 9.85
+    },
+    {
+      "ticker": "DF",
+      "price": 9.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 9.91
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGLE",
+      "price": 9.89
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.88
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FTR",
+      "price": 8.5401
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 6.7661
+    },
+    {
+      "ticker": "FTR",
+      "price": 8.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 8.4001
+    },
+    {
+      "ticker": "NVIV",
+      "price": 6.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 8.3642
+    },
+    {
+      "ticker": "NVIV",
+      "price": 7.05
+    }
+  ]
+}

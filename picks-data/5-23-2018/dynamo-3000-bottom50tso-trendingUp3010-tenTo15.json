@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "CRK",
+      "price": 10.29
+    },
+    {
+      "ticker": "GE",
+      "price": 14.355
+    },
+    {
+      "ticker": "GSM",
+      "price": 11.05
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.34
+    },
+    {
+      "ticker": "HMG",
+      "price": 14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSM",
+      "price": 10.79
+    },
+    {
+      "ticker": "GE",
+      "price": 14.25
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.38
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.28
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.8
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.73
+    },
+    {
+      "ticker": "GE",
+      "price": 14.145
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.34
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.9593
+    },
+    {
+      "ticker": "GE",
+      "price": 14.155
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.89
+    },
+    {
+      "ticker": "NSTG",
+      "price": 12.67
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.8
+    }
+  ]
+}

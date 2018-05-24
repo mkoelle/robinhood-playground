@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.33
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.41
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.0486
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.31
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.33
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.0589
+    },
+    {
+      "ticker": "BLFS",
+      "price": 8.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.72
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.245
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.31
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.551
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.3
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.31
+    },
+    {
+      "ticker": "LXRX",
+      "price": 9.56
+    }
+  ]
+}

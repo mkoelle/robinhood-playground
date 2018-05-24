@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 5.0802
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTX",
+      "price": 5.025
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 5.06
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIE",
+      "price": 5.05
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.225
+    }
+  ]
+}

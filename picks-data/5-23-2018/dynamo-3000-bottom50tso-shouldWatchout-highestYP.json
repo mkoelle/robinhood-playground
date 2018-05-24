@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SMRT",
+      "price": 3.04
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.368
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SMRT",
+      "price": 3.1
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.312
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENSV",
+      "price": 1.3661
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENSV",
+      "price": 1.33
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.35
+    }
+  ]
+}

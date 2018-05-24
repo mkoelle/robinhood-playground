@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LKSD",
+      "price": 12.01
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LNTH",
+      "price": 13.65
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HX",
+      "price": 12.25
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.695
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SMMT",
+      "price": 13.43
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.695
+    }
+  ]
+}

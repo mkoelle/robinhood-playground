@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ENSV",
+      "price": 1.411
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.19
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 4.2
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.389
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.285
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.3661
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 4.331
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.33
+    }
+  ]
+}

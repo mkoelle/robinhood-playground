@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "INXX",
+      "price": 12.93
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 12.565
+    },
+    {
+      "ticker": "DB",
+      "price": 12.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTS",
+      "price": 14.52
+    },
+    {
+      "ticker": "SMN",
+      "price": 12.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FAZ",
+      "price": 10.4
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.27
+    }
+  ]
+}

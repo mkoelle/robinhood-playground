@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CHKE",
+      "price": 1.02
+    },
+    {
+      "ticker": "PMTS",
+      "price": 2.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 2.1728
+    },
+    {
+      "ticker": "CHKE",
+      "price": 1.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVGR",
+      "price": 2.1416
+    },
+    {
+      "ticker": "PMTS",
+      "price": 2.82
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5009
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.1814
+    }
+  ]
+}

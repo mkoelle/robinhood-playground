@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CHRS",
+      "price": 14.925
+    },
+    {
+      "ticker": "FET",
+      "price": 14.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FET",
+      "price": 14.775
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.6699
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FET",
+      "price": 14.6
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BAS",
+      "price": 14.98
+    },
+    {
+      "ticker": "FET",
+      "price": 14.55
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 6.8
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 6.7661
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 6.96
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 7.05
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 10.207
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.525
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPH",
+      "price": 12.3
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 13.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTSO",
+      "price": 10.05
+    },
+    {
+      "ticker": "REPH",
+      "price": 12.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REPH",
+      "price": 12.45
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 12.945
+    }
+  ]
+}

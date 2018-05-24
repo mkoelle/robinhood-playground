@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTID",
+      "price": 7.69
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.18
+    }
+  ]
+}

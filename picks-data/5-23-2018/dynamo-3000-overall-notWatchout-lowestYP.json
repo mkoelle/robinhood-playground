@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "WWR",
+      "price": 0.4151
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5648
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WWR",
+      "price": 0.418
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WWR",
+      "price": 0.4199
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5852
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WWR",
+      "price": 0.42
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5871
+    }
+  ]
+}

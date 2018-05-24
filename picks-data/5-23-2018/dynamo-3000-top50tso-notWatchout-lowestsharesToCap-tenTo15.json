@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DOC",
+      "price": 14.97
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMH",
+      "price": 14.8
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEM",
+      "price": 14.93
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UMH",
+      "price": 14.9
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.62
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 6.48
+    },
+    {
+      "ticker": "MDXG",
+      "price": 9.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 6.86
+    },
+    {
+      "ticker": "MDXG",
+      "price": 9.535
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 6.8214
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.2929
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 6.92
+    },
+    {
+      "ticker": "MDXG",
+      "price": 9.04
+    }
+  ]
+}

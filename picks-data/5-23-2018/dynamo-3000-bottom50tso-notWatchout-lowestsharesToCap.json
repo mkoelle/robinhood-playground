@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "EBR",
+      "price": 4.5
+    },
+    {
+      "ticker": "NBY",
+      "price": 2.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIS",
+      "price": 4.96
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.47
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 4.965
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TIS",
+      "price": 4.965
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.44
+    }
+  ]
+}

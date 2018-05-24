@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 9.89
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABCD",
+      "price": 9.87
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.605
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 9.975
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPKE",
+      "price": 9.975
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.595
+    }
+  ]
+}

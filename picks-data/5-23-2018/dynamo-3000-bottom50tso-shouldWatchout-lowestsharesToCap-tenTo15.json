@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "IMTE",
+      "price": 14.749
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 14.6699
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMEH",
+      "price": 14.61
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FET",
+      "price": 14.55
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.62
+    }
+  ]
+}

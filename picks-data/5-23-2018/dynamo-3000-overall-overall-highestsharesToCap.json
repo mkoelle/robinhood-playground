@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0388
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.128
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0393
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1284
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0393
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1287
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0402
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1286
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.945
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.75
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.1499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.95
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.19
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGEN",
+      "price": 4
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.1675
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGEN",
+      "price": 4.11
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.19
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.8
+    }
+  ]
+}

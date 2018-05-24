@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 7.401
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.015
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 7.6164
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.3475
+    }
+  ]
+}

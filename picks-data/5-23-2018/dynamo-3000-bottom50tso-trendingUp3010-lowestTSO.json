@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FWP",
+      "price": 2.9
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.2099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FWP",
+      "price": 2.9
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.4499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FWP",
+      "price": 3.08
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.456
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FWP",
+      "price": 3.0505
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.818
+    }
+  ]
+}

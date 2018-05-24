@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ZBIO",
+      "price": 9.86
+    },
+    {
+      "ticker": "DF",
+      "price": 9.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LXRX",
+      "price": 9.685
+    },
+    {
+      "ticker": "DF",
+      "price": 9.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LXRX",
+      "price": 9.65
+    },
+    {
+      "ticker": "DF",
+      "price": 9.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LXRX",
+      "price": 9.56
+    },
+    {
+      "ticker": "DF",
+      "price": 9.5
+    }
+  ]
+}

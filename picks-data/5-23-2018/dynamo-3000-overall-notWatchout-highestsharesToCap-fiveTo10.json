@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AMR",
+      "price": 7.26
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.0802
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMR",
+      "price": 7.25
+    },
+    {
+      "ticker": "ARAY",
+      "price": 5.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMR",
+      "price": 7.32
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMR",
+      "price": 7.35
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.05
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "OOMA",
+      "price": 12.9
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OOMA",
+      "price": 12.95
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 10.6511
+    },
+    {
+      "ticker": "OOMA",
+      "price": 12.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNCE",
+      "price": 11.6
+    },
+    {
+      "ticker": "TNDM",
+      "price": 13.71
+    }
+  ]
+}

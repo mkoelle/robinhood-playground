@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "APOP",
+      "price": 6.9958
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NOK",
+      "price": 6.0473
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 8.7
+    },
+    {
+      "ticker": "SRT",
+      "price": 6.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VNCE",
+      "price": 8.99
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.44
+    }
+  ]
+}

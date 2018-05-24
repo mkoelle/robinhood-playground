@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "LITB",
+      "price": 2.1
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.5
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.82
+    },
+    {
+      "ticker": "SALM",
+      "price": 3.85
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4735
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLSS",
+      "price": 0.8
+    },
+    {
+      "ticker": "DVD",
+      "price": 1.995
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.52
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2643
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVK",
+      "price": 3.905
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.83
+    },
+    {
+      "ticker": "DVD",
+      "price": 1.9725
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.8099
+    },
+    {
+      "ticker": "TNXP",
+      "price": 3.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVK",
+      "price": 3.85
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.85
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.5
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.18
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.4423
+    }
+  ]
+}

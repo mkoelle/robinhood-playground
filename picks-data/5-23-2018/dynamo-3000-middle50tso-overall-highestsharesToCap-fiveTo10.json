@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TSI",
+      "price": 5.41
+    },
+    {
+      "ticker": "GUT",
+      "price": 5.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TSI",
+      "price": 5.41
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.565
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KZIA",
+      "price": 5.09
+    },
+    {
+      "ticker": "TSI",
+      "price": 5.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KZIA",
+      "price": 5.09
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.2
+    }
+  ]
+}

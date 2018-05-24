@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "JNCE",
+      "price": 11.2201
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 10.251
+    },
+    {
+      "ticker": "JNCE",
+      "price": 11.24
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 10.6511
+    },
+    {
+      "ticker": "JNCE",
+      "price": 11.3123
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVXY",
+      "price": 13.525
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.449
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "HALL",
+      "price": 10.21
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CYRX",
+      "price": 10.17
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.366
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CYRX",
+      "price": 10.2
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYRX",
+      "price": 10.1
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.21
+    }
+  ]
+}

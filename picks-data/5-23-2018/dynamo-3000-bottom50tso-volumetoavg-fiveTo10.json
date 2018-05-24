@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 7.401
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 7.6164
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 7.6
+    },
+    {
+      "ticker": "SND",
+      "price": 6.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 8.3642
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6
+    }
+  ]
+}

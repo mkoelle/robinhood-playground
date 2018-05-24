@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AIQ",
+      "price": 14.895
+    },
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLH",
+      "price": 14.8
+    },
+    {
+      "ticker": "PGX",
+      "price": 14.3339
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPK",
+      "price": 15.01
+    },
+    {
+      "ticker": "EFT",
+      "price": 14.8883
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNOW",
+      "price": 14.57
+    },
+    {
+      "ticker": "ECOM",
+      "price": 14.475
+    }
+  ]
+}

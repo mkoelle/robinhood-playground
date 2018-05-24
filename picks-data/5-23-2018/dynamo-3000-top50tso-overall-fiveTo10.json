@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "VOC",
+      "price": 5.455
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.125
+    },
+    {
+      "ticker": "CRBP",
+      "price": 6.025
+    },
+    {
+      "ticker": "ARCO",
+      "price": 7.77
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRSH",
+      "price": 5.68
+    },
+    {
+      "ticker": "ENZ",
+      "price": 6.6299
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.07
+    },
+    {
+      "ticker": "ABCD",
+      "price": 9.87
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.181
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLNT",
+      "price": 6.5
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.45
+    },
+    {
+      "ticker": "KMPH",
+      "price": 6.4202
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.09
+    },
+    {
+      "ticker": "GPIC",
+      "price": 8.5785
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADRO",
+      "price": 8.175
+    },
+    {
+      "ticker": "LBY",
+      "price": 6.505
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.7056
+    },
+    {
+      "ticker": "TTS",
+      "price": 7.35
+    },
+    {
+      "ticker": "BGFV",
+      "price": 8.025
+    }
+  ]
+}
