@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "BCLI",
+      "price": 4.33
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.1822
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4459
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2962
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.07
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4575
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.0804
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4001
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.16
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.45
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.84
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.0601
+    }
+  ]
+}

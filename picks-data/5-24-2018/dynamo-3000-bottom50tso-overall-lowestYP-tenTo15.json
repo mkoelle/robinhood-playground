@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 10.925
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 9.97
+    },
+    {
+      "ticker": "DM",
+      "price": 14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.12
+    },
+    {
+      "ticker": "JNCE",
+      "price": 11.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 10.0852
+    },
+    {
+      "ticker": "JNCE",
+      "price": 11.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNCE",
+      "price": 11.13
+    },
+    {
+      "ticker": "DM",
+      "price": 13.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JNCE",
+      "price": 11.14
+    },
+    {
+      "ticker": "DM",
+      "price": 13.675
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 10.325
+    },
+    {
+      "ticker": "JNCE",
+      "price": 11.12
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CDTI",
+      "price": 0.7303
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WMLP",
+      "price": 3.0451
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WMLP",
+      "price": 2.95
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 2.97
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.759
+    }
+  ]
+}

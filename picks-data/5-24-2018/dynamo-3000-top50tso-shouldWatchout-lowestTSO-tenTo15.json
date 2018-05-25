@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TNDM",
+      "price": 13.65
+    },
+    {
+      "ticker": "DNOW",
+      "price": 14.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGTX",
+      "price": 13.825
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NEO",
+      "price": 11.4999
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSTO",
+      "price": 14.72
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FET",
+      "price": 14.475
+    },
+    {
+      "ticker": "VSTO",
+      "price": 14.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMMR",
+      "price": 13.58
+    },
+    {
+      "ticker": "WAIR",
+      "price": 11.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMMR",
+      "price": 13.54
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.58
+    }
+  ]
+}

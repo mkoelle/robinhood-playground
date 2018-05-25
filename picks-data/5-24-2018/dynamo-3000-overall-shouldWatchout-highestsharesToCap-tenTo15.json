@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INFN",
+      "price": 10.04
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABCD",
+      "price": 10.11
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 10.09
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 10.06
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.085
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABCD",
+      "price": 10.0301
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABCD",
+      "price": 10.01
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABCD",
+      "price": 10.01
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    }
+  ]
+}

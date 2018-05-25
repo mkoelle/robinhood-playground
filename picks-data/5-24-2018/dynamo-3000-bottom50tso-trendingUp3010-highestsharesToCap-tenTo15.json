@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFSW",
+      "price": 10.26
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KRYS",
+      "price": 10.59
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KRYS",
+      "price": 10.34
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KRYS",
+      "price": 10.5
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KRYS",
+      "price": 10.4999
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.119
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KRYS",
+      "price": 10.4999
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.065
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRYS",
+      "price": 10.34
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.02
+    }
+  ]
+}

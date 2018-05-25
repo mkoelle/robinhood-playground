@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VCEL",
+      "price": 14.1583
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VCEL",
+      "price": 14.1
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VCEL",
+      "price": 13.975
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VCEL",
+      "price": 14.1
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VCEL",
+      "price": 13.8752
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VCEL",
+      "price": 14.05
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VCEL",
+      "price": 13.9237
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    }
+  ]
+}

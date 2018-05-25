@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BEL",
+      "price": 12.075
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.5
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "USDP",
+      "price": 10.84
+    },
+    {
+      "ticker": "TACT",
+      "price": 10.6
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "USDP",
+      "price": 10.9
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.25
+    },
+    {
+      "ticker": "TACT",
+      "price": 10.6
+    }
+  ]
+}

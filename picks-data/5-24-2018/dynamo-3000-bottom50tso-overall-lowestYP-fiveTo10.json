@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RIOT",
+      "price": 7.81
+    },
+    {
+      "ticker": "RDVT",
+      "price": 7.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTID",
+      "price": 7.8556
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.3588
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 7.3344
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 7.95
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.5348
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 6.5598
+    },
+    {
+      "ticker": "MACK",
+      "price": 8.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MACK",
+      "price": 8.42
+    },
+    {
+      "ticker": "DERM",
+      "price": 8.135
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 7.8311
+    },
+    {
+      "ticker": "DERM",
+      "price": 8.16
+    }
+  ]
+}

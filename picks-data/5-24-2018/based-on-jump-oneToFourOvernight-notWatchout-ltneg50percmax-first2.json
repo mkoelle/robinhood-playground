@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IGLD",
+      "price": 3.21
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IGLD",
+      "price": 3.21
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.277
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IGLD",
+      "price": 3.265
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IGLD",
+      "price": 3.23
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2645
+    }
+  ]
+}

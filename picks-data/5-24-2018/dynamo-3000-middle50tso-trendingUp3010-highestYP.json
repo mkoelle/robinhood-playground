@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPHS",
+      "price": 3.55
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.5376
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.1916
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.7139
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDR",
+      "price": 1.7115
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NEPT",
+      "price": 2.87
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRNT",
+      "price": 3.15
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.395
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.215
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CASM",
+      "price": 1.59
+    },
+    {
+      "ticker": "WTT",
+      "price": 2.37
+    }
+  ]
+}

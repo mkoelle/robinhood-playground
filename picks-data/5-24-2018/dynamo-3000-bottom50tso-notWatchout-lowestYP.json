@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIS",
+      "price": 4.89
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TIS",
+      "price": 4.7
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NEON",
+      "price": 0.38
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.2752
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NEON",
+      "price": 0.3742
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.2704
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEVO",
+      "price": 0.26
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.545
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 0.253
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.515
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEVO",
+      "price": 0.254
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.51
+    }
+  ]
+}

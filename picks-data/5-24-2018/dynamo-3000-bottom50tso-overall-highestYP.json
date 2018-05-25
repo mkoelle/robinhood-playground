@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 2.35
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.695
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSI",
+      "price": 2.855
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.6967
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSI",
+      "price": 2.9328
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.152
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRX",
+      "price": 0.5836
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRX",
+      "price": 0.5849
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRX",
+      "price": 0.573
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRX",
+      "price": 0.575
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.16
+    }
+  ]
+}

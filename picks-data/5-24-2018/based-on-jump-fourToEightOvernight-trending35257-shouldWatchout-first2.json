@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VVUS",
+      "price": 0.939
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VVUS",
+      "price": 0.9145
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VVUS",
+      "price": 0.9
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.4417
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVUS",
+      "price": 0.9067
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.4565
+    }
+  ]
+}

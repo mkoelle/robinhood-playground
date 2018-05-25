@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 6.6
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.547
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTID",
+      "price": 7.8556
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.3588
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 7.3344
+    },
+    {
+      "ticker": "XONE",
+      "price": 6.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRIP",
+      "price": 6.5348
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.335
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 6.5598
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.741
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XONE",
+      "price": 6.275
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.7306
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REPH",
+      "price": 5.631
+    },
+    {
+      "ticker": "AP",
+      "price": 9.125
+    }
+  ]
+}

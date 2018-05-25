@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.07
+    },
+    {
+      "ticker": "PBR",
+      "price": 12.9901
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.3
+    },
+    {
+      "ticker": "PBR",
+      "price": 13.28
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.775
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.22
+    },
+    {
+      "ticker": "PBR",
+      "price": 13.185
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.745
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.27
+    },
+    {
+      "ticker": "PBR",
+      "price": 13.195
+    },
+    {
+      "ticker": "EIGR",
+      "price": 12.4
+    }
+  ]
+}

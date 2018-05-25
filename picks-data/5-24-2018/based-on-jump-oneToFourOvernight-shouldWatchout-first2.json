@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5323
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5205
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.5252
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TWMC",
+      "price": 1.35
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.4968
+    }
+  ]
+}

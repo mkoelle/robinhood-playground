@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VTL",
+      "price": 6.25
+    },
+    {
+      "ticker": "XSPL",
+      "price": 8.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VTL",
+      "price": 6.195
+    },
+    {
+      "ticker": "ULBI",
+      "price": 9.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DLHC",
+      "price": 5.609
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.075
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DLHC",
+      "price": 5.609
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.1
+    }
+  ]
+}

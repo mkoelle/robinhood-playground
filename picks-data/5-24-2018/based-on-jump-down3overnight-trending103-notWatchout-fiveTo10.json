@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.75
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.85
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.7
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.9
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.76
+    }
+  ]
+}

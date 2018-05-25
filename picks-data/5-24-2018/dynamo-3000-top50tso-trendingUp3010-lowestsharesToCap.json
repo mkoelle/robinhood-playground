@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GERN",
+      "price": 5.08
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ICD",
+      "price": 4.97
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RELV",
+      "price": 4.75
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.605
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CAAS",
+      "price": 4.67
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GERN",
+      "price": 4.92
+    },
+    {
+      "ticker": "MCF",
+      "price": 4.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.635
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.6664
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIB",
+      "price": 4.5816
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.965
+    }
+  ]
+}

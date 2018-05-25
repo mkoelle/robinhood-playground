@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHCI",
+      "price": 2.54
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.965
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHCI",
+      "price": 4.25
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHCI",
+      "price": 4.7305
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHCI",
+      "price": 4.541
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHCI",
+      "price": 5.02
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIB",
+      "price": 4.6664
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVK",
+      "price": 4.35
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.5816
+    }
+  ]
+}

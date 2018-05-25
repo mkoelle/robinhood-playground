@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "PFIE",
+      "price": 5.1008
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFIE",
+      "price": 5.1
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AGI",
+      "price": 5.4
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.1127
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.025
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AGI",
+      "price": 5.485
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.37
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.08
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.961
+    }
+  ]
+}

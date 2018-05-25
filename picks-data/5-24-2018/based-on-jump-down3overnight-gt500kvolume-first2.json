@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNES",
+      "price": 1.37
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.1241
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNES",
+      "price": 1.345
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.0766
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QUIK",
+      "price": 1.075
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUIK",
+      "price": 1.06
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.2894
+    }
+  ]
+}

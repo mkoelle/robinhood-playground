@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.56
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRYS",
+      "price": 4.1901
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRYS",
+      "price": 4.2634
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRYS",
+      "price": 4.23
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.7898
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRYS",
+      "price": 4.2201
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTXR",
+      "price": 2.84
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3871
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTXR",
+      "price": 2.8632
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.41
+    }
+  ]
+}

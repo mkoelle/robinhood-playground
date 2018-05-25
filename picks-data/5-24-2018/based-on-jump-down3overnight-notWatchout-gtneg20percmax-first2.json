@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RIGL",
+      "price": 3.97
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RIGL",
+      "price": 3.9001
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIGL",
+      "price": 3.89
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIGL",
+      "price": 3.91
+    },
+    {
+      "ticker": "CAAS",
+      "price": 4.48
+    }
+  ]
+}

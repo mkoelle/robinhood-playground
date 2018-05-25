@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    },
+    {
+      "ticker": "ELOX",
+      "price": 15.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CZR",
+      "price": 12.6
+    },
+    {
+      "ticker": "SSFN",
+      "price": 12.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CZR",
+      "price": 12.575
+    },
+    {
+      "ticker": "SSFN",
+      "price": 12.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CZR",
+      "price": 12.5
+    },
+    {
+      "ticker": "FEO",
+      "price": 14.8
+    }
+  ]
+}

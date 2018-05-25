@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRMD",
+      "price": 0.1824
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.1949
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 0.181
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.285
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2035
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2852
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0448
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2099
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0448
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2042
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVCN",
+      "price": 0.045
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1852
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BIOC",
+      "price": 0.187
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2074
+    }
+  ]
+}

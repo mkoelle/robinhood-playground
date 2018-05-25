@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AXTI",
+      "price": 7.45
+    },
+    {
+      "ticker": "CARV",
+      "price": 7.199
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXTI",
+      "price": 7.275
+    },
+    {
+      "ticker": "CARV",
+      "price": 7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXTI",
+      "price": 7.2
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.985
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXTI",
+      "price": 7.2
+    },
+    {
+      "ticker": "CARV",
+      "price": 7.2486
+    }
+  ]
+}

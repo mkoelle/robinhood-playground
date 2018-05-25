@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "REPH",
+      "price": 5.97
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REPH",
+      "price": 6.1436
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.216
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REPH",
+      "price": 6.18
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REPH",
+      "price": 6.25
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.1
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9
+    }
+  ]
+}

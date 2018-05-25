@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "XSPL",
+      "price": 7.33
+    }
+  ],
+  "50": [
+    {
+      "ticker": "XSPL",
+      "price": 7.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XSPL",
+      "price": 7.611
+    },
+    {
+      "ticker": "TOUR",
+      "price": 6.96
+    }
+  ],
+  "300": [
+    {
+      "ticker": "XSPL",
+      "price": 7.6848
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.5
+    }
+  ],
+  "380": [
+    {
+      "ticker": "XSPL",
+      "price": 7.7
+    },
+    {
+      "ticker": "TOUR",
+      "price": 6.9
+    }
+  ]
+}

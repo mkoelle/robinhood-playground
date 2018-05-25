@@ -1,0 +1,46 @@
+{
+  "10": [
+    {
+      "ticker": "BSTI",
+      "price": 11.035
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SA",
+      "price": 10.9
+    }
+  ],
+  "90": [
+    {
+      "ticker": "SA",
+      "price": 10.925
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.7848
+    }
+  ],
+  "223": [
+    {
+      "ticker": "LCUT",
+      "price": 10.75
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.18
+    },
+    {
+      "ticker": "SA",
+      "price": 10.925
+    },
+    {
+      "ticker": "COE",
+      "price": 11.9
+    },
+    {
+      "ticker": "GG",
+      "price": 14.18
+    }
+  ]
+}

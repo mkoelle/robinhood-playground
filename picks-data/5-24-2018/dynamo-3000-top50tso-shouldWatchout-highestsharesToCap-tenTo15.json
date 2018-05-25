@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHLO",
+      "price": 10.17
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.1811
+    }
+  ],
+  "40": [
+    {
+      "ticker": "YRCW",
+      "price": 10.66
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 10.09
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 10.56
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NGVC",
+      "price": 10.63
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGVC",
+      "price": 10.53
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.58
+    }
+  ]
+}

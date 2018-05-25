@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 4.5
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.5182
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMRT",
+      "price": 3.6601
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.3919
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMRT",
+      "price": 3.6841
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.3359
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GVP",
+      "price": 3.15
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.15
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.538
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.15
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.4341
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GVP",
+      "price": 3.15
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.47
+    }
+  ]
+}

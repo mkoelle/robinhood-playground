@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TOUR",
+      "price": 7.1
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TOUR",
+      "price": 7.216
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TOUR",
+      "price": 7.17
+    },
+    {
+      "ticker": "CIA",
+      "price": 7.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TOUR",
+      "price": 7.1
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.65
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BCLI",
+      "price": 4.33
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.1822
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2962
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.0804
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.16
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VGI",
+      "price": 14.07
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PBR",
+      "price": 13.25
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNUG",
+      "price": 14.8052
+    },
+    {
+      "ticker": "SE",
+      "price": 14.985
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QSII",
+      "price": 14.95
+    },
+    {
+      "ticker": "SE",
+      "price": 14.8325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FLY",
+      "price": 14.84
+    },
+    {
+      "ticker": "QSII",
+      "price": 14.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QSII",
+      "price": 14.94
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.8748
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNUG",
+      "price": 14.795
+    },
+    {
+      "ticker": "CECO",
+      "price": 14.78
+    }
+  ]
+}

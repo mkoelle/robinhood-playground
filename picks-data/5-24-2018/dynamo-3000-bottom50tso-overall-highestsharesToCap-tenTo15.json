@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INFN",
+      "price": 10.04
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.26
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KRYS",
+      "price": 10.34
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 10.125
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.1
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.4999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KRYS",
+      "price": 10.4999
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.065
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRYS",
+      "price": 10.34
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.02
+    }
+  ]
+}

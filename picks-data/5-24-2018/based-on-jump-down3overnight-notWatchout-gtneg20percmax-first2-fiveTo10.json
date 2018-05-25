@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REPH",
+      "price": 5.97
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.4536
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REPH",
+      "price": 6.1436
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REPH",
+      "price": 6.18
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REPH",
+      "price": 6.25
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.65
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOV",
+      "price": 14.1048
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOV",
+      "price": 14.03
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOV",
+      "price": 14.04
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOV",
+      "price": 14.0088
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.5
+    }
+  ]
+}

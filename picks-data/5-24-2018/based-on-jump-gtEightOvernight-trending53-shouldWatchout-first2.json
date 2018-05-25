@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBOT",
+      "price": 3.0599
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.3499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBOT",
+      "price": 3.17
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBOT",
+      "price": 3.1
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.2764
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBOT",
+      "price": 3.3338
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.2001
+    }
+  ]
+}

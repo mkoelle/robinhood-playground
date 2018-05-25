@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VTL",
+      "price": 6.25
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.83
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VTL",
+      "price": 6.195
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.83
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VTL",
+      "price": 6.075
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.83
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VTL",
+      "price": 6.1
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.4402
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3903
+    }
+  ]
+}

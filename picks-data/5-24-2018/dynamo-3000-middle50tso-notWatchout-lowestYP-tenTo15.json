@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACH",
+      "price": 13.1016
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.3567
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BT",
+      "price": 13.645
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MIDZ",
+      "price": 11.924
+    },
+    {
+      "ticker": "CCA",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HCAP",
+      "price": 10.1
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VGI",
+      "price": 13.886
+    },
+    {
+      "ticker": "VIV",
+      "price": 12.405
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPOR",
+      "price": 10.45
+    },
+    {
+      "ticker": "NYH",
+      "price": 10.7493
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSP",
+      "price": 12.815
+    },
+    {
+      "ticker": "EARN",
+      "price": 11.42
+    }
+  ]
+}

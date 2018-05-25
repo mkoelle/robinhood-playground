@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "UVXY",
+      "price": 11
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.3
+    }
+  ],
+  "280": [
+    {
+      "ticker": "BTAI",
+      "price": 10.92
+    },
+    {
+      "ticker": "CYRX",
+      "price": 10.24
+    }
+  ],
+  "328": [
+    {
+      "ticker": "TAYD",
+      "price": 10.15
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.75
+    }
+  ],
+  "388": [
+    {
+      "ticker": "ARL",
+      "price": 14.05
+    },
+    {
+      "ticker": "TRMT",
+      "price": 11.4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 4.5
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEN",
+      "price": 2.24
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHCI",
+      "price": 4.7305
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.8703
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHCI",
+      "price": 4.541
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 2.3
+    },
+    {
+      "ticker": "CHCI",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.635
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.305
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENSV",
+      "price": 1.47
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.29
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPWH",
+      "price": 5.16
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPWH",
+      "price": 5.065
+    },
+    {
+      "ticker": "MRNS",
+      "price": 6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPWH",
+      "price": 5.03
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPWH",
+      "price": 5
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.8
+    }
+  ]
+}

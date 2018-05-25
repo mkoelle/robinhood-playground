@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTIE",
+      "price": 10.01
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTSO",
+      "price": 10.275
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.7999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTSO",
+      "price": 10.45
+    },
+    {
+      "ticker": "CYRX",
+      "price": 10.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 10.999
+    },
+    {
+      "ticker": "CYRX",
+      "price": 10.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVO",
+      "price": 10.25
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTSO",
+      "price": 10.85
+    },
+    {
+      "ticker": "CYRX",
+      "price": 10.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTSO",
+      "price": 10.975
+    },
+    {
+      "ticker": "CYRX",
+      "price": 10.8
+    }
+  ]
+}

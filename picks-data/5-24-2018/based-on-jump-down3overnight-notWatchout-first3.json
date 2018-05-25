@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "QUIK",
+      "price": 1.1
+    },
+    {
+      "ticker": "WSTL",
+      "price": 2.76
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QUIK",
+      "price": 1.11
+    },
+    {
+      "ticker": "WSTL",
+      "price": 2.86
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.9001
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QUIK",
+      "price": 1.075
+    },
+    {
+      "ticker": "WSTL",
+      "price": 2.8316
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUIK",
+      "price": 1.06
+    },
+    {
+      "ticker": "WSTL",
+      "price": 2.8051
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.91
+    }
+  ]
+}

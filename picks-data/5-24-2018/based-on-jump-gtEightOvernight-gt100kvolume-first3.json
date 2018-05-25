@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SBOT",
+      "price": 3.0599
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.5411
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.581
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBOT",
+      "price": 3.17
+    },
+    {
+      "ticker": "BW",
+      "price": 2.925
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.445
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBOT",
+      "price": 3.1
+    },
+    {
+      "ticker": "BW",
+      "price": 2.85
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.4501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBOT",
+      "price": 3.3338
+    },
+    {
+      "ticker": "BW",
+      "price": 2.91
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.2001
+    }
+  ]
+}

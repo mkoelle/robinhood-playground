@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDXS",
+      "price": 14.05
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 13.325
+    },
+    {
+      "ticker": "ATTU",
+      "price": 10.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 13.325
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAT",
+      "price": 13.275
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.225
+    }
+  ]
+}

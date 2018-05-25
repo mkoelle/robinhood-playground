@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GROW",
+      "price": 2.2678
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEN",
+      "price": 2.24
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTN",
+      "price": 4.2683
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.7305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LUB",
+      "price": 2.64
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.541
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTXR",
+      "price": 2.77
+    },
+    {
+      "ticker": "CHCI",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRED",
+      "price": 1.64
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.6658
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NETS",
+      "price": 3.02
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.92
+    }
+  ]
+}

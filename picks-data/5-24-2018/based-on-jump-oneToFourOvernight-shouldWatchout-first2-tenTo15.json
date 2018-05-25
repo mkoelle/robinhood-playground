@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MLP",
+      "price": 11.4561
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLP",
+      "price": 11.5825
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MLP",
+      "price": 11.75
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLP",
+      "price": 11.705
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.75
+    }
+  ]
+}

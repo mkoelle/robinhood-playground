@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BCLI",
+      "price": 4.33
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4459
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2962
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4575
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.4001
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCLI",
+      "price": 4.2
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.45
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.84
+    }
+  ]
+}

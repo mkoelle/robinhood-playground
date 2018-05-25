@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CZR",
+      "price": 12.675
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CZR",
+      "price": 12.6
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CZR",
+      "price": 12.575
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CZR",
+      "price": 12.5
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.235
+    }
+  ]
+}

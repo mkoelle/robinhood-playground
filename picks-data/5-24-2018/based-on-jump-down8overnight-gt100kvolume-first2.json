@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "QUIK",
+      "price": 1.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QUIK",
+      "price": 1.11
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QUIK",
+      "price": 1.075
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUIK",
+      "price": 1.06
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.97
+    }
+  ]
+}

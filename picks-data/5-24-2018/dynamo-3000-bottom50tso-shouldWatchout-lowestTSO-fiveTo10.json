@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPWH",
+      "price": 5
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.36
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 5.6369
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CARV",
+      "price": 6.432
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 8.76
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 8.93
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.7595
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 8.135
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.5105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 8.16
+    },
+    {
+      "ticker": "CARV",
+      "price": 6.68
+    }
+  ]
+}

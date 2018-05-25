@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UGLD",
+      "price": 10.55
+    },
+    {
+      "ticker": "SE",
+      "price": 14.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SE",
+      "price": 14.66
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.5842
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SE",
+      "price": 14.67
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.5986
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SE",
+      "price": 14.635
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.715
+    }
+  ]
+}

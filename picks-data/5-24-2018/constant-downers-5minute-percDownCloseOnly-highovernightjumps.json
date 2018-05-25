@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BDR",
+      "price": 1.199
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.71
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.2437
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NBY",
+      "price": 2.53
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.66
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.38
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NBY",
+      "price": 2.53
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.61
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.35
+    }
+  ]
+}

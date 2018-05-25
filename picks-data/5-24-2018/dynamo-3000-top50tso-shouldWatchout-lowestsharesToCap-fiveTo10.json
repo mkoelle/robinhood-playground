@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 8.845
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPI",
+      "price": 9.35
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.4058
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTRP",
+      "price": 9.63
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSSE",
+      "price": 9.28
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.3701
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSSE",
+      "price": 9.365
+    },
+    {
+      "ticker": "PLAB",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSSE",
+      "price": 9.45
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.49
+    }
+  ]
+}

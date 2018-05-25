@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MRNS",
+      "price": 5.96
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MRNS",
+      "price": 5.75
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.5199
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 5.03
+    },
+    {
+      "ticker": "PFIE",
+      "price": 5.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 5.2
+    },
+    {
+      "ticker": "VKTX",
+      "price": 5.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSI",
+      "price": 5.275
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.7216
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSI",
+      "price": 5.2
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.9098
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSI",
+      "price": 5.1
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.4
+    }
+  ]
+}

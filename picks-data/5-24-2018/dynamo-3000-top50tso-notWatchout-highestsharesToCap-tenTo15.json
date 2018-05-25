@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTIE",
+      "price": 10.01
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHS",
+      "price": 10.06
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHS",
+      "price": 10.085
+    },
+    {
+      "ticker": "CTSO",
+      "price": 10.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 10.08
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVO",
+      "price": 10.25
+    },
+    {
+      "ticker": "CHS",
+      "price": 10.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHS",
+      "price": 10.1
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USLV",
+      "price": 10.28
+    },
+    {
+      "ticker": "CTSO",
+      "price": 10.975
+    }
+  ]
+}

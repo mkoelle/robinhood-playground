@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "IGLD",
+      "price": 3.21
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.45
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IGLD",
+      "price": 3.21
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.277
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.4862
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4999
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.753
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IGLD",
+      "price": 3.265
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.27
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.4799
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4938
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.753
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IGLD",
+      "price": 3.23
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2645
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.4799
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.6191
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4874
+    }
+  ]
+}

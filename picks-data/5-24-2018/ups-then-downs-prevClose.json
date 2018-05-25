@@ -1,0 +1,112 @@
+{
+  "10": [
+    {
+      "ticker": "WMLP",
+      "price": 2.9501
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3154
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.9006
+    },
+    {
+      "ticker": "TGEN",
+      "price": 4.04
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.4372
+    }
+  ],
+  "50": [
+    {
+      "ticker": "WMLP",
+      "price": 2.8
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.37
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.8768
+    },
+    {
+      "ticker": "TGEN",
+      "price": 4.05
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.681
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WMLP",
+      "price": 2.6
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3176
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.975
+    },
+    {
+      "ticker": "TGEN",
+      "price": 4.05
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.821
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WMLP",
+      "price": 2.5148
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.27
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.98
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.71
+    },
+    {
+      "ticker": "TGEN",
+      "price": 4.03
+    }
+  ],
+  "380": [
+    {
+      "ticker": "WMLP",
+      "price": 2.32
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.31
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.96
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.685
+    },
+    {
+      "ticker": "TGEN",
+      "price": 4.03
+    }
+  ]
+}

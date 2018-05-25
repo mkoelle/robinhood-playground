@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NSPR",
+      "price": 1.2798
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSPR",
+      "price": 1.2637
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.7337
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSPR",
+      "price": 1.26
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.709
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSPR",
+      "price": 1.23
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.7045
+    }
+  ]
+}

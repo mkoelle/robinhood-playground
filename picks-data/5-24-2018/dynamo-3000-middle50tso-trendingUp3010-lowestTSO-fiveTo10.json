@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CATS",
+      "price": 5.51
+    },
+    {
+      "ticker": "JQC",
+      "price": 8.105
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSL",
+      "price": 6.51
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "STKL",
+      "price": 7.725
+    },
+    {
+      "ticker": "NYMT",
+      "price": 6.195
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EPM",
+      "price": 9.375
+    },
+    {
+      "ticker": "PHK",
+      "price": 8.0958
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KMM",
+      "price": 8.79
+    },
+    {
+      "ticker": "CUZ",
+      "price": 9.055
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AINV",
+      "price": 5.705
+    },
+    {
+      "ticker": "MCN",
+      "price": 7.5048
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EAD",
+      "price": 8.065
+    },
+    {
+      "ticker": "ZIXI",
+      "price": 5.43
+    }
+  ]
+}

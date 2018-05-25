@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPWH",
+      "price": 5
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.025
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPWH",
+      "price": 4.91
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.045
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GERN",
+      "price": 5.03
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.0233
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALRN",
+      "price": 5.02
+    },
+    {
+      "ticker": "VSI",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALRN",
+      "price": 5.02
+    },
+    {
+      "ticker": "VSI",
+      "price": 5.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSI",
+      "price": 5.2
+    },
+    {
+      "ticker": "VXRT",
+      "price": 5.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPWH",
+      "price": 5.085
+    },
+    {
+      "ticker": "VSI",
+      "price": 5.1
+    }
+  ]
+}

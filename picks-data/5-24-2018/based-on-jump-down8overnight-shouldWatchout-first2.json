@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CXRX",
+      "price": 0.27
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WMLP",
+      "price": 3.0451
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WMLP",
+      "price": 2.95
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 2.97
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.29
+    }
+  ]
+}

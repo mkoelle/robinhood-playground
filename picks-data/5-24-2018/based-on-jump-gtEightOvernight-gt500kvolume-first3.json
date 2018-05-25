@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBOT",
+      "price": 3.0599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBOT",
+      "price": 3.17
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5314
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBOT",
+      "price": 3.1
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBOT",
+      "price": 3.3338
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.6491
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5517
+    }
+  ]
+}

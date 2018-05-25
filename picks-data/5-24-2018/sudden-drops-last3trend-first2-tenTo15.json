@@ -1,0 +1,62 @@
+{
+  "32": [
+    {
+      "ticker": "HX",
+      "price": 12.2
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.3934
+    }
+  ],
+  "63": [
+    {
+      "ticker": "NDP",
+      "price": 12.49
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.33
+    }
+  ],
+  "221": [
+    {
+      "ticker": "UVXY",
+      "price": 11
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.65
+    }
+  ],
+  "280": [
+    {
+      "ticker": "GFN",
+      "price": 11.05
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.07
+    }
+  ],
+  "328": [
+    {
+      "ticker": "JAX",
+      "price": 11.65
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.15
+    }
+  ],
+  "388": [
+    {
+      "ticker": "HHS",
+      "price": 10.54
+    },
+    {
+      "ticker": "ACIU",
+      "price": 10.27
+    }
+  ]
+}

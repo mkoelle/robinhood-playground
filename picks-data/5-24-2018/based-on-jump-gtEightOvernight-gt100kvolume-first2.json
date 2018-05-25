@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBOT",
+      "price": 3.0599
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.5411
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBOT",
+      "price": 3.17
+    },
+    {
+      "ticker": "BW",
+      "price": 2.925
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBOT",
+      "price": 3.1
+    },
+    {
+      "ticker": "BW",
+      "price": 2.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBOT",
+      "price": 3.3338
+    },
+    {
+      "ticker": "BW",
+      "price": 2.91
+    }
+  ]
+}

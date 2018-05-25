@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHCI",
+      "price": 2.3822
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5931
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHCI",
+      "price": 3.135
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5931
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHCI",
+      "price": 4.7
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHCI",
+      "price": 4.3169
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.6239
+    }
+  ]
+}

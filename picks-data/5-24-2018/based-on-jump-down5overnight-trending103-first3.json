@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WSTL",
+      "price": 2.76
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WSTL",
+      "price": 2.86
+    },
+    {
+      "ticker": "WMLP",
+      "price": 3.0451
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4301
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WSTL",
+      "price": 2.8316
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.95
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4301
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WSTL",
+      "price": 2.8051
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.97
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4301
+    }
+  ]
+}

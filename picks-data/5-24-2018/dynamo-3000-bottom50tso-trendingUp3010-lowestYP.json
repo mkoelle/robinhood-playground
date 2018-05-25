@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSPR",
+      "price": 1.2501
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.1258
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5333
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5294
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.2101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 2.01
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.1645
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADOM",
+      "price": 1.16
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.6392
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ADOM",
+      "price": 1.14
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.6307
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVGR",
+      "price": 2
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.1
+    }
+  ]
+}

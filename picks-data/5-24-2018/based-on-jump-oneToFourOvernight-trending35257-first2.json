@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SGOC",
+      "price": 1.19
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGOC",
+      "price": 1.19
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGOC",
+      "price": 1.14
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGOC",
+      "price": 1.16
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.05
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.581
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.475
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BW",
+      "price": 2.925
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5314
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BW",
+      "price": 2.85
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BW",
+      "price": 2.91
+    },
+    {
+      "ticker": "DEST",
+      "price": 3.2001
+    }
+  ]
+}

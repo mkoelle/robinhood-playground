@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INAP",
+      "price": 9.73
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.6838
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 9.535
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.9401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 9.74
+    },
+    {
+      "ticker": "HMHC",
+      "price": 6.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLNT",
+      "price": 5.375
+    },
+    {
+      "ticker": "HMHC",
+      "price": 6.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLNT",
+      "price": 5.425
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 9.83
+    },
+    {
+      "ticker": "HMHC",
+      "price": 6.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 9.819
+    },
+    {
+      "ticker": "HMHC",
+      "price": 6.75
+    }
+  ]
+}

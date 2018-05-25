@@ -5,9 +5,9 @@ module.exports = async (Robinhood) => {
 
     const perms = [
         [10, 5],    // days, count
-        // [7, 4],
-        // [5, 3],
-        // [3, 2]
+        [7, 4],
+        [5, 3],
+        [3, 2]
     ];
 
     let resultObj = {};

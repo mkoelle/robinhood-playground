@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SNES",
+      "price": 1.33
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.2473
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.68
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.5871
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.7252
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.675
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.5148
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.7298
+    }
+  ]
+}

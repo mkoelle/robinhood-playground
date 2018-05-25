@@ -1,0 +1,90 @@
+{
+  "7": [
+    {
+      "ticker": "EXK",
+      "price": 2.93
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.5972
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.63
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.3152
+    },
+    {
+      "ticker": "S",
+      "price": 5.165
+    }
+  ],
+  "60": [
+    {
+      "ticker": "EXK",
+      "price": 2.99
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.605
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.65
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.29
+    },
+    {
+      "ticker": "S",
+      "price": 5.16
+    }
+  ],
+  "123": [
+    {
+      "ticker": "EXK",
+      "price": 2.9601
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.63
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.64
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.275
+    },
+    {
+      "ticker": "S",
+      "price": 5.17
+    }
+  ],
+  "263": [
+    {
+      "ticker": "EXK",
+      "price": 2.94
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.62
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.645
+    },
+    {
+      "ticker": "NIHD",
+      "price": 2.34
+    },
+    {
+      "ticker": "S",
+      "price": 5.17
+    }
+  ]
+}

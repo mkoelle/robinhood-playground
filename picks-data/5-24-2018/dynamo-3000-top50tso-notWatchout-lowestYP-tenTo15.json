@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FAZ",
+      "price": 10.41
+    },
+    {
+      "ticker": "BCRH",
+      "price": 11.102
+    }
+  ],
+  "40": [
+    {
+      "ticker": "REW",
+      "price": 12.906
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.36
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.655
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 10.08
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.7043
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCUT",
+      "price": 10.7692
+    },
+    {
+      "ticker": "UBX",
+      "price": 13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCUT",
+      "price": 10.8
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.8748
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GE",
+      "price": 14.55
+    },
+    {
+      "ticker": "LCUT",
+      "price": 10.9
+    }
+  ]
+}

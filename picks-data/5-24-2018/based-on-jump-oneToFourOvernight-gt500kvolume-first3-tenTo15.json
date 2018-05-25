@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "JNUG",
+      "price": 14.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JNUG",
+      "price": 14.605
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VALE",
+      "price": 14.33
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CZR",
+      "price": 12.5
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.235
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.36
+    }
+  ]
+}
