@@ -69,48 +69,85 @@ const trendFilter = async (Robinhood, trend) => {
     withTrendSinceOpen = addPoints('twoWeekVolToAvgPoints', 'twoweekvolumetoavg');
     withTrendSinceOpen = addPoints('floatToVolume', 'floatToVolume');
 
-    console.log(withTrendSinceOpen);
+    console.log('got trend since open')
 
-    return Object.keys(withTrendSinceOpen[0])
-        .filter(key => key.includes('floatTimes'))
-        .reduce((acc, key) => {
+    const baseKeys = Object.keys(withTrendSinceOpen[0])
+        .filter(key => key.includes('floatTimes'));
 
-            const sortTrend = (
-                [
-                    min = Number.NEGATIVE_INFINITY,
-                    max = Number.POSITIVE_INFINITY
-                ] = [undefined, undefined]
-            ) => {
-                return withTrendSinceOpen
-                    .filter(({ trendSinceOpen }) => {
-                        return trendSinceOpen > min && trendSinceOpen < max;
-                    })
-                    .sort((a, b) => b[key] - a[key])
-                    .slice(0, 1)
-                    .map(buy => buy.ticker);
+    let returnObj = {};
+    const riskCache = {};
+    for (let key of baseKeys) {
+
+        console.log('key', key);
+        const sortTrend = (
+            [
+                min = Number.NEGATIVE_INFINITY,
+                max = Number.POSITIVE_INFINITY
+            ] = [undefined, undefined]
+        ) => {
+            return withTrendSinceOpen
+                .filter(({ trendSinceOpen }) => {
+                    return trendSinceOpen >= min && trendSinceOpen < max;
+                })
+                .sort((a, b) => b[key] - a[key]);
+        };
+
+        const processTrend = async (trendKey, limits) => {
+            console.log('processing', trendKey);
+            const sorted = sortTrend(limits);
+            // console.log('sorted');
+            // console.log(sorted[0]);
+            const watchouts = {};
+            for (let obj of sorted) {
+                const { ticker } = obj;
+                const risk = riskCache[ticker] ? riskCache[ticker] : await getRisk(Robinhood, ticker);
+                riskCache[ticker] = risk;
+                if (risk.shouldWatchout && !watchouts.should) {
+                    watchouts.should = ticker;
+                } else if (!risk.shouldWatchout && !watchouts.not) {
+                    watchouts.not = ticker;
+                }
+                if (watchouts.should && watchouts.not) {
+                    break;
+                }
             };
-
+            const base = `${key}${trendKey ? `-${trendKey}` : ''}`;
             return {
-                ...acc,
-                [key]: sortTrend(),
-                [`${key}-trend3to5`]: sortTrend([3, 5]),
-                [`${key}-trend5to10`]: sortTrend([5, 10]),
-
-                [`${key}-trendgt10`]: sortTrend([10, undefined]),
-                [`${key}-trendup1to3`]: sortTrend([1, 3]),
-                [`${key}-trendup0to1`]: sortTrend([0, 1]),
-
-                [`${key}-trenddown1to3`]: sortTrend([-3, -1]),
-                [`${key}-trenddown3to10`]: sortTrend([-10, -3]),
-                [`${key}-trenddowngt10`]: sortTrend([undefined, -10]),
-
-                [`${key}-trenddown3to5`]: sortTrend([-5, -3]),
-                [`${key}-trenddown5to7`]: sortTrend([-7, -5]),
-                [`${key}-trenddown7to10`]: sortTrend([-10, -7]),
+                ...sorted[0] && { [base]: sorted[0].ticker },
+                ...watchouts.not && { [`${base}-notWatchout`]: watchouts.not },
+                ...watchouts.should && { [`${base}-shouldWatchout`]: watchouts.should },
             };
+        };
 
-        }, {});
-
+        const trendPerms = [
+            [undefined, undefined], // unfiltered by trendsinceopen
+            ['3to5', [3, 5]],
+            ['5to10', [5, 10]],
+            ['10to15', [10, 15]],
+            ['15to25', [15, 25]],
+            ['gt20', [20, undefined]],
+            ['gt30', [30, undefined]],
+            ['gt50', [50, undefined]],
+            ['up1to3', [1, 3]],
+            ['up0to1', [0, 1]],
+            ['down1to3', [-3, -1]],
+            ['down3to10', [-10, -3]],
+            ['down3to5', [-5, -3]],
+            ['down5to7', [-7, -5]],
+            ['down7to10', [-10, -7]],
+            ['downgt10', [undefined, -10]],
+            ['downgt20', [undefined, -20]],
+            ['downgt30', [undefined, -30]],
+        ];
+        for (let [trendKey, limits] of trendPerms) {
+            returnObj = {
+                ...returnObj,
+                ...await processTrend(`trend${trendKey}`, limits)
+            };
+        }
+        // console.log(returnObj, 'returnObj')
+    }
+    return returnObj;
 };
 
 const lowFloatHighVolume = {

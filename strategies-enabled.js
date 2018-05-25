@@ -50,14 +50,25 @@ const myPicks = [
 ];
 
 const forPurchase = [
+
     "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6",
+    "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25",
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210',
+
     "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15-16",
-    "dynamo-3000-top50tso-onlyWatchout-highestsharesToCap-fiveTo10-100",
-    "constant-risers-10minute-percUpHighClosePoints-filtered40-250",
-    "dynamo-3000-overall-onlyWatchout-highestTSO-200",
-    "low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25",
-    
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "constant-risers-5minute-percUpCloseOnlyPoints-250",
+    "constant-risers-5minute-percUpCloseOnlyPoints-250",
+
+    "dynamo-3000-bottom50tso-absvolume-4",
+    "dynamo-3000-bottom50tso-absvolume-4",
+
+    "low-float-high-volume-floatTimesvolToAvgPoints-trend3to5-6",
+    "dynamo-3000-overall-overall-highestTSO-260",
+    "sudden-drops-last2trend-filter10-32",
+    "sudden-drops-last2trend-first2-32",
+    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
+    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140"
     // short sell / buy put option / sell call option: based-on-jump-gtEightOvernight-trending53-first1-5
 ];
 
