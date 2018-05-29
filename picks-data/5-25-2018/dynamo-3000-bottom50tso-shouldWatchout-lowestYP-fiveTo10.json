@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RDVT",
+      "price": 7.69
+    },
+    {
+      "ticker": "QD",
+      "price": 8.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVIV",
+      "price": 6.63
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 6.68
+    },
+    {
+      "ticker": "ACHV",
+      "price": 9.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACHV",
+      "price": 9.49
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGC",
+      "price": 7.1
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 7.47
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 7.51
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.1276
+    }
+  ]
+}

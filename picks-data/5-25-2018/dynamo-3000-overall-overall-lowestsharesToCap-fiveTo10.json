@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.23
+    },
+    {
+      "ticker": "ABCD",
+      "price": 9.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8005
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 9.2777
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 8.9862
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZOES",
+      "price": 8.99
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZOES",
+      "price": 8.8301
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.7462
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZOES",
+      "price": 8.8
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.86
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LXU",
+      "price": 5.23
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KERX",
+      "price": 5.21
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.435
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALRN",
+      "price": 5.1059
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GOGO",
+      "price": 5.059
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GOGO",
+      "price": 5.09
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOGO",
+      "price": 5.1051
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.155
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GOGO",
+      "price": 5.155
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.19
+    }
+  ]
+}

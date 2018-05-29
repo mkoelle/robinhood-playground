@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VTGN",
+      "price": 1.6
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VTGN",
+      "price": 1.645
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VTGN",
+      "price": 1.53
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VTGN",
+      "price": 1.54
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.09
+    }
+  ]
+}

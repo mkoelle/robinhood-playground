@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GFN",
+      "price": 11.1
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.265
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELOX",
+      "price": 14.86
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PSO",
+      "price": 12.0252
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBBK",
+      "price": 11.46
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MITL",
+      "price": 11.04
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MITL",
+      "price": 11.04
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MITL",
+      "price": 11.04
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.3
+    }
+  ]
+}

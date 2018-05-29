@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBB",
+      "price": 13.7501
+    },
+    {
+      "ticker": "BGR",
+      "price": 14.7501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBB",
+      "price": 13.55
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.98
+    },
+    {
+      "ticker": "CBB",
+      "price": 13.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTTR",
+      "price": 14.99
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBB",
+      "price": 12.975
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.785
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBB",
+      "price": 12.5
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBB",
+      "price": 12.5001
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.8699
+    }
+  ]
+}

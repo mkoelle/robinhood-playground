@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "TVIX",
+      "price": 4.759
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.6
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.459
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DCIX",
+      "price": 1.72
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.8399
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5938
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.4326
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DCIX",
+      "price": 1.79
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.8487
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.5887
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.14
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.4351
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DCIX",
+      "price": 1.71
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.81
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.588
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.9245
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.171
+    }
+  ]
+}

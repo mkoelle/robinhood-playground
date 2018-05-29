@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMEX",
+      "price": 8.9816
+    },
+    {
+      "ticker": "XENE",
+      "price": 5.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 8.7499
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVUS",
+      "price": 7.98
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 6.41
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 7.71
+    },
+    {
+      "ticker": "ATOM",
+      "price": 5.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 7.45
+    },
+    {
+      "ticker": "TCS",
+      "price": 7.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 7.5
+    },
+    {
+      "ticker": "TCS",
+      "price": 7.845
+    }
+  ]
+}

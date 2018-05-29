@@ -1,0 +1,57 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "HHS",
+      "price": 10.76
+    },
+    {
+      "ticker": "SA",
+      "price": 11.275
+    }
+  ],
+  "90": [
+    {
+      "ticker": "HHS",
+      "price": 10.76
+    },
+    {
+      "ticker": "SA",
+      "price": 11.425
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.7611
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.29
+    },
+    {
+      "ticker": "FPH",
+      "price": 11.56
+    }
+  ],
+  "223": [
+    {
+      "ticker": "INAP",
+      "price": 10.5
+    },
+    {
+      "ticker": "SA",
+      "price": 11.475
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.76
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.81
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.0307
+    }
+  ]
+}

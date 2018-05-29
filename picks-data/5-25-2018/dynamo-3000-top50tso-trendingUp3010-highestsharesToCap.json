@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLX",
+      "price": 0.445
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.7254
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHKE",
+      "price": 0.9
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMMA",
+      "price": 0.4557
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.7301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMMA",
+      "price": 0.4597
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.81
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTI",
+      "price": 0.7499
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMMA",
+      "price": 0.4797
+    },
+    {
+      "ticker": "AETI",
+      "price": 0.8099
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMMA",
+      "price": 0.4888
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.11
+    }
+  ]
+}

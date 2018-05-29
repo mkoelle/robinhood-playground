@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MTP",
+      "price": 0.79
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2616
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MTP",
+      "price": 0.7901
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2628
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTP",
+      "price": 0.7301
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2628
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MTP",
+      "price": 0.7301
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2606
+    }
+  ]
+}

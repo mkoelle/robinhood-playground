@@ -1,0 +1,43 @@
+{
+  "10": [
+    {
+      "ticker": "CATS",
+      "price": 6.1094
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "NVTA",
+      "price": 7.48
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NVTA",
+      "price": 7.35
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.77
+    },
+    {
+      "ticker": "VCYT",
+      "price": 7.45
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NVTA",
+      "price": 7.26
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.37
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.525
+    }
+  ]
+}

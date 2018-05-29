@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 10.0784
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.5959
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 5.72
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.8697
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.65
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 8.48
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.645
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 8.46
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 8.47
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.49
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.22
+    }
+  ]
+}

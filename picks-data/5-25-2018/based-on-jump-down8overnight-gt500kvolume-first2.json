@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAK",
+      "price": 0.4572
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.038
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAK",
+      "price": 0.4699
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0419
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAK",
+      "price": 0.48
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0405
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAK",
+      "price": 0.4756
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.04
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.25
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.05
+    },
+    {
+      "ticker": "LONE",
+      "price": 6.67
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 6.975
+    },
+    {
+      "ticker": "LONE",
+      "price": 6.66
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.135
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8801
+    },
+    {
+      "ticker": "PES",
+      "price": 5.05
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.3351
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZOES",
+      "price": 9.85
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.55
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.0642
+    }
+  ]
+}

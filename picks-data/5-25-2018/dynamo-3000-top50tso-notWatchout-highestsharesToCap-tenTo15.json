@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TAYD",
+      "price": 10.2732
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.2261
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.25
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0287
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0333
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTIE",
+      "price": 10.2
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.51
+    }
+  ]
+}

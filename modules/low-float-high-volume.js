@@ -111,11 +111,11 @@ const trendFilter = async (Robinhood, trend) => {
                     break;
                 }
             };
-            const base = `${key}${trendKey ? `-${trendKey}` : ''}`;
+            const base = `${key}${trendKey ? `-trend${trendKey}` : ''}`;
             return {
-                ...sorted[0] && { [base]: sorted[0].ticker },
-                ...watchouts.not && { [`${base}-notWatchout`]: watchouts.not },
-                ...watchouts.should && { [`${base}-shouldWatchout`]: watchouts.should },
+                ...sorted[0] && { [base]: [sorted[0].ticker] },
+                ...watchouts.not && { [`${base}-notWatchout`]: [watchouts.not] },
+                ...watchouts.should && { [`${base}-shouldWatchout`]: [watchouts.should] },
             };
         };
 
@@ -142,7 +142,7 @@ const trendFilter = async (Robinhood, trend) => {
         for (let [trendKey, limits] of trendPerms) {
             returnObj = {
                 ...returnObj,
-                ...await processTrend(`trend${trendKey}`, limits)
+                ...await processTrend(trendKey, limits)
             };
         }
         // console.log(returnObj, 'returnObj')

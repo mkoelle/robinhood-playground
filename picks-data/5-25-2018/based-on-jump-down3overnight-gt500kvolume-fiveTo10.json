@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "LGCY",
+      "price": 5.185
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLNK",
+      "price": 6.9
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8801
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.45
+    },
+    {
+      "ticker": "NE",
+      "price": 5.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZOES",
+      "price": 9.85
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.0642
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.354
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.785
+    },
+    {
+      "ticker": "NE",
+      "price": 5.42
+    }
+  ]
+}

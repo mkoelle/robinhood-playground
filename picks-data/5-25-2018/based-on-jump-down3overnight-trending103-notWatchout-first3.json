@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 0.8559
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OESX",
+      "price": 0.8559
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.025
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2437
+    }
+  ]
+}

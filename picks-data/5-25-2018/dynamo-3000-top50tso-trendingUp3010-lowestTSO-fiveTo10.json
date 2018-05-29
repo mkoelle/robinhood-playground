@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 7.66
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTWK",
+      "price": 6.1315
+    },
+    {
+      "ticker": "TIPT",
+      "price": 6.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BKD",
+      "price": 7.735
+    },
+    {
+      "ticker": "SVBI",
+      "price": 7.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "METC",
+      "price": 7.74
+    },
+    {
+      "ticker": "SVBI",
+      "price": 7.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELGX",
+      "price": 5.58
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.745
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BPI",
+      "price": 6.77
+    },
+    {
+      "ticker": "HNRG",
+      "price": 7.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HNRG",
+      "price": 7.2448
+    },
+    {
+      "ticker": "METC",
+      "price": 7.85
+    }
+  ]
+}

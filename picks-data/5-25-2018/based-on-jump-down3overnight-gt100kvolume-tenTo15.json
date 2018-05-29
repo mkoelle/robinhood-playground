@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ZOES",
+      "price": 10.105
+    },
+    {
+      "ticker": "CPE",
+      "price": 11.925
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.175
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.57
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8796
+    },
+    {
+      "ticker": "CPE",
+      "price": 12.041
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.15
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.35
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.415
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPE",
+      "price": 11.975
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.0495
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.32
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.22
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPE",
+      "price": 12.03
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.1
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.31
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.235
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.49
+    }
+  ]
+}

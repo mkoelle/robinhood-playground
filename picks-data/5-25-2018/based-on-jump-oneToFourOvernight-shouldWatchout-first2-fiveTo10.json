@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFNX",
+      "price": 6
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.788
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFNX",
+      "price": 5.995
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.755
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFNX",
+      "price": 5.98
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFNX",
+      "price": 5.99
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.75
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 2.63
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 3.7499
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.59
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 3.7201
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.61
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.9401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 3.7
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.55
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.95
+    },
+    {
+      "ticker": "THM",
+      "price": 0.718
+    }
+  ]
+}

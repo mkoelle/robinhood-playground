@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRYS",
+      "price": 4.18
+    },
+    {
+      "ticker": "AVGR",
+      "price": 2.0601
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSPR",
+      "price": 1.425
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.2099
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.39
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.4
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.3603
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.39
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.385
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.635
+    }
+  ]
+}

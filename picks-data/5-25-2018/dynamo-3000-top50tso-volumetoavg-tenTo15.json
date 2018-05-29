@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LOCO",
+      "price": 10.849
+    },
+    {
+      "ticker": "CMCM",
+      "price": 13.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPE",
+      "price": 11.95
+    },
+    {
+      "ticker": "AMD",
+      "price": 13.535
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.35
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.625
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MPO",
+      "price": 12.899
+    },
+    {
+      "ticker": "HMTA",
+      "price": 12.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PDFS",
+      "price": 12.21
+    },
+    {
+      "ticker": "HMTA",
+      "price": 12.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VGI",
+      "price": 14.06
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTY",
+      "price": 14.55
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.05
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AGRO",
+      "price": 8.13
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IAG",
+      "price": 6.255
+    },
+    {
+      "ticker": "ADT",
+      "price": 7.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GDL",
+      "price": 9.42
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.2366
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIM",
+      "price": 9.7175
+    },
+    {
+      "ticker": "SIRI",
+      "price": 6.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JHY",
+      "price": 9.8425
+    },
+    {
+      "ticker": "EHI",
+      "price": 9.2986
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OCIP",
+      "price": 9.8409
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.82
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TZA",
+      "price": 9.724
+    },
+    {
+      "ticker": "CUZ",
+      "price": 9.125
+    }
+  ]
+}

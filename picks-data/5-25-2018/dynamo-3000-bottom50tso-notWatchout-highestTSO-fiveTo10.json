@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NML",
+      "price": 8.7825
+    },
+    {
+      "ticker": "LPG",
+      "price": 6.925
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBA",
+      "price": 7.3397
+    },
+    {
+      "ticker": "ASC",
+      "price": 7.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESV",
+      "price": 6.315
+    },
+    {
+      "ticker": "DLNG",
+      "price": 7.8283
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KNDI",
+      "price": 5.7235
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRR",
+      "price": 9.8303
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZFGN",
+      "price": 6.3303
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.405
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLEX",
+      "price": 5.75
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.06
+    }
+  ]
+}

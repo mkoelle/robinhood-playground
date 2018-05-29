@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NVCN",
+      "price": 0.038
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAK",
+      "price": 0.4699
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0419
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAK",
+      "price": 0.48
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0405
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.835
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAK",
+      "price": 0.4756
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.04
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.835
+    }
+  ]
+}

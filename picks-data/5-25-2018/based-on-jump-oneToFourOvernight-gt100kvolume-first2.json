@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPST",
+      "price": 1.6889
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.759
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRN",
+      "price": 3.145
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.72
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GST",
+      "price": 0.6399
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GST",
+      "price": 0.6295
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.145
+    }
+  ]
+}

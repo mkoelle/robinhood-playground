@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHCI",
+      "price": 4.25
+    },
+    {
+      "ticker": "OPK",
+      "price": 3.795
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LGCY",
+      "price": 4.88
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.9301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHCI",
+      "price": 4.13
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHCI",
+      "price": 4.1937
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.7779
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SEII",
+      "price": 3.68
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.3065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHCI",
+      "price": 3.98
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHCI",
+      "price": 4.07
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.6564
+    }
+  ]
+}

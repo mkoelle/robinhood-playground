@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBGL",
+      "price": 2.48
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3774
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBGL",
+      "price": 2.47
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBGL",
+      "price": 2.5001
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBGL",
+      "price": 2.5052
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2437
+    }
+  ]
+}

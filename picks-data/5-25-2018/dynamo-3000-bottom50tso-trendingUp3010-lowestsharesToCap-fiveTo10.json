@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NL",
+      "price": 9.2778
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.5291
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSW",
+      "price": 8.46
+    },
+    {
+      "ticker": "WOW",
+      "price": 8.575
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NERV",
+      "price": 8.75
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IKNX",
+      "price": 9.45
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IKNX",
+      "price": 9.45
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IKNX",
+      "price": 9.25
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IKNX",
+      "price": 9.25
+    },
+    {
+      "ticker": "VNCE",
+      "price": 9.1286
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 11.09
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.35
+    },
+    {
+      "ticker": "ALNA",
+      "price": 14.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UVXY",
+      "price": 11.24
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.1
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UVXY",
+      "price": 11.275
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.1
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UVXY",
+      "price": 11.15
+    },
+    {
+      "ticker": "AMEH",
+      "price": 14.03
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.42
+    }
+  ]
+}

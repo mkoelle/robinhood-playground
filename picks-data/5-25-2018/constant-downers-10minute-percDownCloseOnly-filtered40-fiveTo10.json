@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TSQ",
+      "price": 6.4
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.15
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CART",
+      "price": 8.05
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.9807
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MFV",
+      "price": 5.559
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.5838
+    },
+    {
+      "ticker": "NATR",
+      "price": 9.15
+    }
+  ]
+}

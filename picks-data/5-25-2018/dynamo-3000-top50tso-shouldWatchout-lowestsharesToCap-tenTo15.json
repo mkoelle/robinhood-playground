@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.92
+    },
+    {
+      "ticker": "FET",
+      "price": 14.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INVA",
+      "price": 14.5
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OXFD",
+      "price": 14.24
+    },
+    {
+      "ticker": "TNDM",
+      "price": 14.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNDM",
+      "price": 14.1645
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INVA",
+      "price": 14.39
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INVA",
+      "price": 14.45
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INVA",
+      "price": 14.43
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.55
+    }
+  ]
+}

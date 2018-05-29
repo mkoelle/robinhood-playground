@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMEX",
+      "price": 8.9816
+    },
+    {
+      "ticker": "LONE",
+      "price": 6.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 9.94
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.9799
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVUS",
+      "price": 7.98
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 7.71
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.04
+    },
+    {
+      "ticker": "YRIV",
+      "price": 7.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.22
+    },
+    {
+      "ticker": "YRIV",
+      "price": 7.5
+    }
+  ]
+}

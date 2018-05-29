@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMNP",
+      "price": 0.25
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.6889
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMNP",
+      "price": 0.2449
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMNP",
+      "price": 0.2401
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMNP",
+      "price": 0.2427
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.6801
+    }
+  ]
+}

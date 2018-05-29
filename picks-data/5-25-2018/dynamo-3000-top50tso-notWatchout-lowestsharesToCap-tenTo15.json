@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CEM",
+      "price": 14.1
+    },
+    {
+      "ticker": "VIVO",
+      "price": 14.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VIVO",
+      "price": 14.8
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTY",
+      "price": 14.5
+    },
+    {
+      "ticker": "SD",
+      "price": 13.9006
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTY",
+      "price": 14.525
+    },
+    {
+      "ticker": "SD",
+      "price": 13.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SD",
+      "price": 14.032
+    },
+    {
+      "ticker": "SCPH",
+      "price": 14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VGI",
+      "price": 14.06
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VGI",
+      "price": 14.11
+    },
+    {
+      "ticker": "PRTY",
+      "price": 14.55
+    }
+  ]
+}

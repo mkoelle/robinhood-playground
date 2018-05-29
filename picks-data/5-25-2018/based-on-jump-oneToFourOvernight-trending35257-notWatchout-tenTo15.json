@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGAN",
+      "price": 12.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGAN",
+      "price": 12.8884
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.665
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.665
+    },
+    {
+      "ticker": "COE",
+      "price": 11.75
+    }
+  ]
+}

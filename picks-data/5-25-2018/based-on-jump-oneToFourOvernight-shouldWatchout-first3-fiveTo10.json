@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PFNX",
+      "price": 6
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.788
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFNX",
+      "price": 5.995
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.755
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFNX",
+      "price": 5.98
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.77
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.0399
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFNX",
+      "price": 5.99
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.75
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.129
+    }
+  ]
+}

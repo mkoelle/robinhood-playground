@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSPR",
+      "price": 1.23
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.1893
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRYS",
+      "price": 4.13
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.3189
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMUC",
+      "price": 0.2661
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9361
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMUC",
+      "price": 0.2664
+    },
+    {
+      "ticker": "CYTR",
+      "price": 1.3016
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.9947
+    },
+    {
+      "ticker": "AMRH",
+      "price": 0.8456
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRH",
+      "price": 0.85
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.2949
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGRX",
+      "price": 0.5875
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.2982
+    }
+  ]
+}

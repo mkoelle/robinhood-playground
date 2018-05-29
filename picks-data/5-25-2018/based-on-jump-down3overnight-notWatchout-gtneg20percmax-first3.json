@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DNR",
+      "price": 3.93
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.6334
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ICD",
+      "price": 4.67
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.82
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICD",
+      "price": 4.7
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.835
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICD",
+      "price": 4.66
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.835
+    },
+    {
+      "ticker": "PES",
+      "price": 4.9
+    }
+  ]
+}

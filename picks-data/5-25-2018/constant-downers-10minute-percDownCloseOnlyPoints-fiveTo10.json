@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ZOES",
+      "price": 9.52
+    },
+    {
+      "ticker": "SND",
+      "price": 5.8601
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.61
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ZOES",
+      "price": 9.1
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.555
+    },
+    {
+      "ticker": "ESTE",
+      "price": 8.495
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ZOES",
+      "price": 8.94
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.525
+    },
+    {
+      "ticker": "CCLP",
+      "price": 5.79
+    }
+  ]
+}

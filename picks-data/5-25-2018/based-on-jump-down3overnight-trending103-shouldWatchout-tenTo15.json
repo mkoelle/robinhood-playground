@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LTRPA",
+      "price": 13.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LTRPA",
+      "price": 13.2
+    },
+    {
+      "ticker": "BAS",
+      "price": 14.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LTRPA",
+      "price": 13.25
+    },
+    {
+      "ticker": "BAS",
+      "price": 14.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LTRPA",
+      "price": 13.275
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.9098
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BAS",
+      "price": 14.44
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NCSM",
+      "price": 14.84
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NCSM",
+      "price": 14.815
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.4499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NCSM",
+      "price": 14.9225
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCSM",
+      "price": 14.93
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.395
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMCT",
+      "price": 14.8
+    },
+    {
+      "ticker": "BAS",
+      "price": 13.405
+    }
+  ]
+}

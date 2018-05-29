@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CPE",
+      "price": 11.925
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8796
+    },
+    {
+      "ticker": "CPE",
+      "price": 12.041
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPE",
+      "price": 11.975
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.0495
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPE",
+      "price": 12.03
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.1
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.49
+    }
+  ]
+}

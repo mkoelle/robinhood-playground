@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NAK",
+      "price": 0.4572
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.2961
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.261
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAK",
+      "price": 0.4699
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.3899
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.287
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAK",
+      "price": 0.48
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.27
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAK",
+      "price": 0.4756
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.86
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ]
+}

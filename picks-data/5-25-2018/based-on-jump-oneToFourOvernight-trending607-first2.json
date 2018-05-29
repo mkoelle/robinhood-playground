@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRAN",
+      "price": 2.2
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRAN",
+      "price": 2.154
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.2849
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRAN",
+      "price": 2.154
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.2552
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCS",
+      "price": 3.895
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.2
+    }
+  ]
+}

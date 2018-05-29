@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.46
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.45
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.445
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.45
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.459
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.4232
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.005
+    }
+  ]
+}

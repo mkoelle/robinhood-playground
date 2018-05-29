@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TVIX",
+      "price": 4.759
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DCIX",
+      "price": 1.72
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.8399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DCIX",
+      "price": 1.79
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.8487
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DCIX",
+      "price": 1.71
+    },
+    {
+      "ticker": "TVIX",
+      "price": 4.81
+    }
+  ]
+}

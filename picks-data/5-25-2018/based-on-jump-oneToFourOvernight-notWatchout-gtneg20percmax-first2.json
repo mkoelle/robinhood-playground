@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.1808
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.19
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.7499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DVD",
+      "price": 2.06
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.1871
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCS",
+      "price": 3.895
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.05
+    }
+  ]
+}

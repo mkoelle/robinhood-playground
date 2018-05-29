@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CHCI",
+      "price": 4.2961
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.038
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0419
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHCI",
+      "price": 4.27
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0405
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHCI",
+      "price": 3.86
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.04
+    }
+  ]
+}

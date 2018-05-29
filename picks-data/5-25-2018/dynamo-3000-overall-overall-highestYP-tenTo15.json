@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 11.73
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.775
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 11.67
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 11.625
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.8301
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 11.53
+    },
+    {
+      "ticker": "TNDM",
+      "price": 14.2899
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 11.54
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELOX",
+      "price": 14.76
+    },
+    {
+      "ticker": "CDNA",
+      "price": 11.585
+    }
+  ]
+}

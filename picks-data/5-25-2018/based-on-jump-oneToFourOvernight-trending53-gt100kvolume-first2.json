@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPST",
+      "price": 1.6889
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.9599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPST",
+      "price": 1.65
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.9651
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPST",
+      "price": 1.66
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.9488
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPST",
+      "price": 1.6801
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.9245
+    }
+  ]
+}

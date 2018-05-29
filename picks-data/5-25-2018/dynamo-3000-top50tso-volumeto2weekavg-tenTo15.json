@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LOCO",
+      "price": 10.849
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPE",
+      "price": 11.95
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.35
+    },
+    {
+      "ticker": "VRA",
+      "price": 11.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MPO",
+      "price": 12.899
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.065
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PDFS",
+      "price": 12.21
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VGI",
+      "price": 14.06
+    },
+    {
+      "ticker": "PBIB",
+      "price": 13.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTY",
+      "price": 14.55
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.43
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.1808
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.63
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.268
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.19
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.7499
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.59
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.268
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDT",
+      "price": 1.1871
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.7201
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.61
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2658
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.9401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCS",
+      "price": 3.895
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.183
+    },
+    {
+      "ticker": "TPIV",
+      "price": 3.7
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.55
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2616
+    }
+  ]
+}

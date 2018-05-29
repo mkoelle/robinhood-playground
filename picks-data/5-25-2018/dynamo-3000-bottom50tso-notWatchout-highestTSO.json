@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5406
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PER",
+      "price": 2.45
+    },
+    {
+      "ticker": "AMRS",
+      "price": 4.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDR",
+      "price": 1.6699
+    },
+    {
+      "ticker": "SID",
+      "price": 2.2433
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SITO",
+      "price": 3.69
+    },
+    {
+      "ticker": "FSNN",
+      "price": 4.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSI",
+      "price": 2.87
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6798
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FFHL",
+      "price": 3.3857
+    },
+    {
+      "ticker": "SID",
+      "price": 2.2033
+    }
+  ],
+  "381": [
+    {
+      "ticker": "THM",
+      "price": 0.67
+    },
+    {
+      "ticker": "SID",
+      "price": 2.22
+    }
+  ]
+}

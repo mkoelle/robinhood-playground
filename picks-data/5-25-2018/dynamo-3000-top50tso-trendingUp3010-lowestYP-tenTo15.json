@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.45
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2732
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PDFS",
+      "price": 12.3
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PDFS",
+      "price": 12.31
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.389
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLP",
+      "price": 12
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SELB",
+      "price": 12.56
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SELB",
+      "price": 12.52
+    },
+    {
+      "ticker": "SYRS",
+      "price": 13.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYRS",
+      "price": 13.16
+    },
+    {
+      "ticker": "CRVS",
+      "price": 11.46
+    }
+  ]
+}

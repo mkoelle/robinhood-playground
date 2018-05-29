@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AGYS",
+      "price": 13.12
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AGYS",
+      "price": 13.42
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.8884
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AGYS",
+      "price": 13.42
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AGYS",
+      "price": 13.49
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    }
+  ]
+}

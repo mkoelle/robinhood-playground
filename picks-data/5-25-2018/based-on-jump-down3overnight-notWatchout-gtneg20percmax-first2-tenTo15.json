@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZOES",
+      "price": 10.105
+    },
+    {
+      "ticker": "CPE",
+      "price": 11.925
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZOES",
+      "price": 9.8796
+    },
+    {
+      "ticker": "CPE",
+      "price": 12.041
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPE",
+      "price": 11.975
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPE",
+      "price": 12.03
+    },
+    {
+      "ticker": "ERA",
+      "price": 12.84
+    }
+  ]
+}

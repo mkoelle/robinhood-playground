@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESND",
+      "price": 13.79
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OXFD",
+      "price": 14.34
+    },
+    {
+      "ticker": "TNDM",
+      "price": 14.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OXFD",
+      "price": 14.24
+    },
+    {
+      "ticker": "TNDM",
+      "price": 14.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNDM",
+      "price": 14.1645
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCPH",
+      "price": 14
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OXFD",
+      "price": 14.24
+    },
+    {
+      "ticker": "TNDM",
+      "price": 14.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OXFD",
+      "price": 14.21
+    },
+    {
+      "ticker": "BLE",
+      "price": 14.3121
+    }
+  ]
+}

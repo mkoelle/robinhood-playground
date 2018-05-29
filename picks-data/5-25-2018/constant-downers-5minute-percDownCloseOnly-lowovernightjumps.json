@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EMX",
+      "price": 1
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.51
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.6814
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ICD",
+      "price": 4.38
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.73
+    },
+    {
+      "ticker": "UPL",
+      "price": 1.705
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ICD",
+      "price": 4.24
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.6999
+    },
+    {
+      "ticker": "UPL",
+      "price": 1.705
+    }
+  ]
+}

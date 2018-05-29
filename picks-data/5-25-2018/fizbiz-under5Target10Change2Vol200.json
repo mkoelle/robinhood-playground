@@ -1,0 +1,52 @@
+{
+  "75": [
+    {
+      "ticker": "DRRX",
+      "price": 2.045
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.315
+    }
+  ],
+  "120": [
+    {
+      "ticker": "DRRX",
+      "price": 2.09
+    },
+    {
+      "ticker": "CDR",
+      "price": 4.3201
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.32
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.865
+    }
+  ],
+  "180": [
+    {
+      "ticker": "DRRX",
+      "price": 2.0701
+    },
+    {
+      "ticker": "DHT",
+      "price": 3.93
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.37
+    },
+    {
+      "ticker": "CDR",
+      "price": 4.335
+    },
+    {
+      "ticker": "GOGO",
+      "price": 4.99
+    }
+  ]
+}

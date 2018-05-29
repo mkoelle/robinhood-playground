@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MPO",
+      "price": 12.6
+    },
+    {
+      "ticker": "SBLK",
+      "price": 12.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HHS",
+      "price": 10.76
+    },
+    {
+      "ticker": "CYRX",
+      "price": 11.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.25
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 10.51
+    },
+    {
+      "ticker": "CYRX",
+      "price": 11.6198
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CYRX",
+      "price": 11.7484
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CYRX",
+      "price": 11.93
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYRX",
+      "price": 11.9
+    },
+    {
+      "ticker": "IOR",
+      "price": 14.25
+    }
+  ]
+}

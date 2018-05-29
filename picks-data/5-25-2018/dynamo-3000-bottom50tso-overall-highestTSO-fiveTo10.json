@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QD",
+      "price": 8.89
+    },
+    {
+      "ticker": "NML",
+      "price": 8.7825
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBA",
+      "price": 7.3397
+    },
+    {
+      "ticker": "CVGI",
+      "price": 8.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESV",
+      "price": 6.315
+    },
+    {
+      "ticker": "DLNG",
+      "price": 7.8283
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELVT",
+      "price": 7.6
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 8.85
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.8303
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VHI",
+      "price": 6.73
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 6.3303
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLEX",
+      "price": 5.75
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.06
+    }
+  ]
+}

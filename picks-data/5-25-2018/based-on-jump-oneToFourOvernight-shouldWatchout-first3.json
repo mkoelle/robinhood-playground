@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MTP",
+      "price": 0.79
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2616
+    },
+    {
+      "ticker": "GST",
+      "price": 0.6622
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MTP",
+      "price": 0.7901
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2628
+    },
+    {
+      "ticker": "GST",
+      "price": 0.6466
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTP",
+      "price": 0.7301
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2628
+    },
+    {
+      "ticker": "GST",
+      "price": 0.6399
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MTP",
+      "price": 0.7301
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.2606
+    },
+    {
+      "ticker": "GST",
+      "price": 0.6295
+    }
+  ]
+}

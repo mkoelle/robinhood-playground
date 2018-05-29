@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.23
+    },
+    {
+      "ticker": "ABCD",
+      "price": 9.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INFN",
+      "price": 9.905
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.69
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZYNE",
+      "price": 9.91
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRUE",
+      "price": 9.71
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 10.0537
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 9.98
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.635
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 10.06
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.63
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USLV",
+      "price": 10.08
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USLV",
+      "price": 10.08
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 10.035
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0287
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USLV",
+      "price": 10.015
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0333
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTIE",
+      "price": 10.2
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.51
+    }
+  ]
+}

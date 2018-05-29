@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "EGAN",
+      "price": 12.65
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGAN",
+      "price": 12.8884
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.71
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.66
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.665
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.665
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.61
+    }
+  ]
+}

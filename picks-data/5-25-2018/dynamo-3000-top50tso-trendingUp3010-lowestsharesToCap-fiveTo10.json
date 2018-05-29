@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 10.0784
+    },
+    {
+      "ticker": "BLFS",
+      "price": 9.531
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 9.94
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 9.86
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.4242
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 9.95
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSSE",
+      "price": 9.93
+    },
+    {
+      "ticker": "ALPN",
+      "price": 9.4719
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ALPN",
+      "price": 9.35
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.8704
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALPN",
+      "price": 9.26
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.85
+    }
+  ]
+}
