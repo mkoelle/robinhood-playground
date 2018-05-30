@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "COWN",
+      "price": 14.975
+    },
+    {
+      "ticker": "OSBC",
+      "price": 14.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "COWN",
+      "price": 14.85
+    },
+    {
+      "ticker": "RRC",
+      "price": 15.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BFR",
+      "price": 14.94
+    },
+    {
+      "ticker": "TYO",
+      "price": 14.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 14.84
+    },
+    {
+      "ticker": "TYO",
+      "price": 14.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BFR",
+      "price": 14.52
+    },
+    {
+      "ticker": "TYO",
+      "price": 14.7406
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BFR",
+      "price": 14.55
+    },
+    {
+      "ticker": "TYO",
+      "price": 14.7406
+    }
+  ]
+}

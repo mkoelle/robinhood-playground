@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SSRM",
+      "price": 10.285
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNI",
+      "price": 10.5
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCOV",
+      "price": 10.15
+    },
+    {
+      "ticker": "MBTF",
+      "price": 10.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNI",
+      "price": 10.33
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNI",
+      "price": 10.35
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNI",
+      "price": 10.36
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.15
+    }
+  ]
+}

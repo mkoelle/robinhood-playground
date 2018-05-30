@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AFSI",
+      "price": 13.47
+    },
+    {
+      "ticker": "ARA",
+      "price": 14.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AFSI",
+      "price": 13.405
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CUE",
+      "price": 13.3284
+    },
+    {
+      "ticker": "AFSI",
+      "price": 13.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 14.84
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OSBC",
+      "price": 14.74
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GE",
+      "price": 14.2
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.455
+    }
+  ]
+}

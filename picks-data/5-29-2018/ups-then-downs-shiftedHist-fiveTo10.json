@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "VSTM",
+      "price": 5.44
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.34
+    }
+  ],
+  "50": [
+    {
+      "ticker": "VSTM",
+      "price": 5.42
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSTM",
+      "price": 5.44
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.39
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VSTM",
+      "price": 5.4
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.275
+    }
+  ],
+  "380": [
+    {
+      "ticker": "VSTM",
+      "price": 5.395
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.34
+    }
+  ],
+  "600": [
+    {
+      "ticker": "VSTM",
+      "price": 5.41
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.35
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.55
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MLSS",
+      "price": 1.0472
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2448
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "THM",
+      "price": 0.71
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2398
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.1802
+    },
+    {
+      "ticker": "THM",
+      "price": 0.7199
+    }
+  ],
+  "260": [
+    {
+      "ticker": "THM",
+      "price": 0.7075
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2421
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ONTX",
+      "price": 0.4169
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.224
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ONTX",
+      "price": 0.4145
+    },
+    {
+      "ticker": "THM",
+      "price": 0.72
+    }
+  ]
+}

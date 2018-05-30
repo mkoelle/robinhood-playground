@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 1.03
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.5037
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TOPS",
+      "price": 1.04
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0345
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOPS",
+      "price": 1.03
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.035
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRPO",
+      "price": 0.51
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.2901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRPO",
+      "price": 0.51
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.2885
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5031
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.375
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPO",
+      "price": 0.505
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.373
+    }
+  ]
+}

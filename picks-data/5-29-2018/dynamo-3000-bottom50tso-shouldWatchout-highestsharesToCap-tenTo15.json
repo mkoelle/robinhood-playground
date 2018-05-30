@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 10.15
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.05
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.0248
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AFH",
+      "price": 10.25
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AFH",
+      "price": 10.2
+    },
+    {
+      "ticker": "NGVC",
+      "price": 10.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGVC",
+      "price": 10.34
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.26
+    }
+  ]
+}

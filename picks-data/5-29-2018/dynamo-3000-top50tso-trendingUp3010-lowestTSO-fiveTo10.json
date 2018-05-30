@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    },
+    {
+      "ticker": "HMHC",
+      "price": 6.875
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPTX",
+      "price": 8.29
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORN",
+      "price": 7.82
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASYS",
+      "price": 9.115
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ORN",
+      "price": 7.77
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPTX",
+      "price": 8.3
+    },
+    {
+      "ticker": "OMEX",
+      "price": 9.14
+    }
+  ]
+}

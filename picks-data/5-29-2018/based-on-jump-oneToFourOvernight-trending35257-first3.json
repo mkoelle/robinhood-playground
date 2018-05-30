@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "EMAN",
+      "price": 1.65
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.34
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.7399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDRL",
+      "price": 0.4328
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.625
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDRL",
+      "price": 0.4267
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.625
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.33
+    }
+  ]
+}

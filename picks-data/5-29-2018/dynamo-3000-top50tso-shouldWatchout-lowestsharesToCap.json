@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TYME",
+      "price": 3.5808
+    },
+    {
+      "ticker": "CVM",
+      "price": 3.1443
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHCI",
+      "price": 4.09
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELTK",
+      "price": 4.47
+    },
+    {
+      "ticker": "CHCI",
+      "price": 4.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWY",
+      "price": 4.4422
+    },
+    {
+      "ticker": "PRPH",
+      "price": 3.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INVE",
+      "price": 4.34
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INVE",
+      "price": 4.395
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INVE",
+      "price": 4.39
+    },
+    {
+      "ticker": "RVEN",
+      "price": 3.95
+    }
+  ]
+}

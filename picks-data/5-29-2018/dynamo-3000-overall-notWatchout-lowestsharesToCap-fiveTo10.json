@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PBR.A",
+      "price": 10
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBR.A",
+      "price": 9.855
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.796
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USLV",
+      "price": 9.7807
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USLV",
+      "price": 9.76
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "USLV",
+      "price": 9.7799
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USLV",
+      "price": 9.79
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.81
+    }
+  ]
+}

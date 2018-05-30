@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ADTN",
+      "price": 14.95
+    },
+    {
+      "ticker": "DRV",
+      "price": 11.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FAN",
+      "price": 13.35
+    },
+    {
+      "ticker": "MNP",
+      "price": 14.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNP",
+      "price": 14.09
+    },
+    {
+      "ticker": "HTGC",
+      "price": 12.3999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEI",
+      "price": 13.2898
+    },
+    {
+      "ticker": "MQT",
+      "price": 12.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VTA",
+      "price": 11.6822
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.5349
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAN",
+      "price": 12.5528
+    },
+    {
+      "ticker": "NMZ",
+      "price": 12.6
+    }
+  ]
+}

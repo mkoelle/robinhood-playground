@@ -1,0 +1,48 @@
+{
+  "0": [
+    {
+      "ticker": "AKER",
+      "price": 0.4452
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0352
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.4326
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.036
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.331
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TOPS",
+      "price": 1.04
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3753
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.15
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.965
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.0349
+    }
+  ]
+}

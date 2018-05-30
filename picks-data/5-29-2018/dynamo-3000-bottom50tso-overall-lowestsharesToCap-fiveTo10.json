@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 9.88
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHS",
+      "price": 9.965
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.2001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INFN",
+      "price": 9.0901
+    },
+    {
+      "ticker": "LFGR",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 9.95
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INFN",
+      "price": 8.96
+    },
+    {
+      "ticker": "SYBX",
+      "price": 8.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INFN",
+      "price": 9.015
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9
+    }
+  ]
+}

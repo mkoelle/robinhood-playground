@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "OPHC",
+      "price": 5.1
+    },
+    {
+      "ticker": "DS",
+      "price": 6.52
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JHD",
+      "price": 9.85
+    },
+    {
+      "ticker": "MHLD",
+      "price": 7.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GPM",
+      "price": 8.589
+    },
+    {
+      "ticker": "MBI",
+      "price": 8.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSUM",
+      "price": 6.25
+    },
+    {
+      "ticker": "MMT",
+      "price": 5.625
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JRS",
+      "price": 9.8151
+    },
+    {
+      "ticker": "PBI",
+      "price": 8.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPG",
+      "price": 7.885
+    },
+    {
+      "ticker": "FNKO",
+      "price": 9.9
+    }
+  ]
+}

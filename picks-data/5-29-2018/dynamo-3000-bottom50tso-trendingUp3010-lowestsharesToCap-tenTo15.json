@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SE",
+      "price": 14.0231
+    },
+    {
+      "ticker": "BLE",
+      "price": 14.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SE",
+      "price": 14.4
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNDM",
+      "price": 13.025
+    },
+    {
+      "ticker": "SCM",
+      "price": 12.945
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVI",
+      "price": 14.035
+    },
+    {
+      "ticker": "TNDM",
+      "price": 13.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVI",
+      "price": 13.935
+    },
+    {
+      "ticker": "TNDM",
+      "price": 12.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVI",
+      "price": 13.945
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.4
+    }
+  ]
+}

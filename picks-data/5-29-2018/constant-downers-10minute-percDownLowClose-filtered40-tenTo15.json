@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SBPH",
+      "price": 13.31
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.405
+    },
+    {
+      "ticker": "DRV",
+      "price": 11.5068
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GDP",
+      "price": 13.29
+    },
+    {
+      "ticker": "LOR",
+      "price": 10.92
+    },
+    {
+      "ticker": "FBZ",
+      "price": 13.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GDP",
+      "price": 13.27
+    },
+    {
+      "ticker": "FBZ",
+      "price": 13.3297
+    },
+    {
+      "ticker": "MHE",
+      "price": 12.951
+    }
+  ]
+}

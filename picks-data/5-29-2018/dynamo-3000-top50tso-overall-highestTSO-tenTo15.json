@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "SRCI",
+      "price": 12.27
+    },
+    {
+      "ticker": "PBR",
+      "price": 11.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVRA",
+      "price": 10.05
+    },
+    {
+      "ticker": "CRVS",
+      "price": 12.378
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVRA",
+      "price": 10.09
+    },
+    {
+      "ticker": "SRCI",
+      "price": 12.385
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVRA",
+      "price": 10.1525
+    },
+    {
+      "ticker": "PBR",
+      "price": 12.055
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 13.69
+    },
+    {
+      "ticker": "SVRA",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVRA",
+      "price": 10.45
+    },
+    {
+      "ticker": "CRVS",
+      "price": 12.69
+    }
+  ]
+}

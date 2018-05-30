@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "EMAN",
+      "price": 1.65
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.13
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2329
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDRL",
+      "price": 0.4328
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.625
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.0814
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDRL",
+      "price": 0.4267
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.625
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.4766
+    }
+  ]
+}

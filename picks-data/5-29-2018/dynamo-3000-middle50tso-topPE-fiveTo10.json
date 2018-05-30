@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "FENG",
+      "price": 5.55
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.615
+    },
+    {
+      "ticker": "LXP",
+      "price": 8.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CECE",
+      "price": 5.95
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.86
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.2269
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RELL",
+      "price": 9.45
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.83
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JRS",
+      "price": 9.83
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.24
+    },
+    {
+      "ticker": "CART",
+      "price": 8.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WCFB",
+      "price": 9.53
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.8151
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IKNX",
+      "price": 9.45
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.24
+    },
+    {
+      "ticker": "CART",
+      "price": 8.075
+    }
+  ]
+}

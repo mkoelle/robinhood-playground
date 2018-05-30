@@ -1,0 +1,68 @@
+{
+  "0": [
+    {
+      "ticker": "ENT",
+      "price": 2.1835
+    },
+    {
+      "ticker": "BGI",
+      "price": 2.06
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.65
+    },
+    {
+      "ticker": "THST",
+      "price": 1.46
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.14
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENT",
+      "price": 2.25
+    },
+    {
+      "ticker": "BGI",
+      "price": 2.047
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.6722
+    },
+    {
+      "ticker": "THST",
+      "price": 1.46
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENT",
+      "price": 2.285
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.8811
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.6744
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.3801
+    },
+    {
+      "ticker": "THST",
+      "price": 1.4658
+    }
+  ]
+}

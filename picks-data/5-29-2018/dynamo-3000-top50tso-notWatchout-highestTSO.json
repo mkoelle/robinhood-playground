@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAKD",
+      "price": 1.71
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMX",
+      "price": 1.2452
+    },
+    {
+      "ticker": "SLNO",
+      "price": 2.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LEJU",
+      "price": 1.36
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2398
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMX",
+      "price": 1.2656
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DHX",
+      "price": 2.32
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRRA",
+      "price": 2.8
+    },
+    {
+      "ticker": "DHX",
+      "price": 2.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LEJU",
+      "price": 1.4973
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.81
+    }
+  ]
+}

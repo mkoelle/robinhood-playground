@@ -67,8 +67,24 @@ const forPurchase = [
     "dynamo-3000-overall-overall-highestTSO-260",
     "sudden-drops-last2trend-filter10-32",
     "sudden-drops-last2trend-first2-32",
+
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
     "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
-    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140"
+    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
+
+    "dynamo-3000-overall-onlyWatchout-highestTSO-260",
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "dynamo-3000-bottom50tso-overall-highestsharesToCap-260",
+
+
+
+
+
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "based-on-jump-fourToEightOvernight-gt500kvolume-fiveTo10-30",
+    "sudden-drops-last10trend-filter20-63",
+    ""
+
     // short sell / buy put option / sell call option: based-on-jump-gtEightOvernight-trending53-first1-5
 ];
 

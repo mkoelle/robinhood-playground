@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ARCT",
+      "price": 6.7201
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARCT",
+      "price": 6.67
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.2001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARCT",
+      "price": 6.53
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARCT",
+      "price": 6.36
+    },
+    {
+      "ticker": "PRTK",
+      "price": 9.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARCT",
+      "price": 6.34
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARCT",
+      "price": 6.3401
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.14
+    }
+  ]
+}

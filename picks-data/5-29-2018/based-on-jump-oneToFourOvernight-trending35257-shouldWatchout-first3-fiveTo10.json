@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "AXTI",
+      "price": 7.611
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.35
+    },
+    {
+      "ticker": "NVUS",
+      "price": 8.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXTI",
+      "price": 7.45
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.09
+    },
+    {
+      "ticker": "NVUS",
+      "price": 8.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXTI",
+      "price": 7.4527
+    },
+    {
+      "ticker": "TTOO",
+      "price": 7.86
+    },
+    {
+      "ticker": "NVUS",
+      "price": 8.0498
+    }
+  ]
+}

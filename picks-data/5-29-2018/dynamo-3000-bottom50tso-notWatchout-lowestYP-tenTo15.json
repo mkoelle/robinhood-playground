@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.5
+    },
+    {
+      "ticker": "GE",
+      "price": 14.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVIX",
+      "price": 11.06
+    },
+    {
+      "ticker": "GE",
+      "price": 14.184
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 13.2972
+    },
+    {
+      "ticker": "GE",
+      "price": 14.105
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DM",
+      "price": 13.175
+    },
+    {
+      "ticker": "GE",
+      "price": 14.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DM",
+      "price": 13.1
+    },
+    {
+      "ticker": "GE",
+      "price": 14.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DM",
+      "price": 12.925
+    },
+    {
+      "ticker": "GE",
+      "price": 14.2
+    }
+  ]
+}

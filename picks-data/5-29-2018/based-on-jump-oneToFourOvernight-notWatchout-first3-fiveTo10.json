@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "SVRA",
+      "price": 9.3527
+    },
+    {
+      "ticker": "DRIP",
+      "price": 7.426
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVRA",
+      "price": 9.42
+    },
+    {
+      "ticker": "DRIP",
+      "price": 7.2099
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVRA",
+      "price": 9.74
+    },
+    {
+      "ticker": "DRIP",
+      "price": 7.13
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    }
+  ]
+}

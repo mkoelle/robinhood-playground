@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "ENT",
+      "price": 2.1835
+    },
+    {
+      "ticker": "BGI",
+      "price": 2.06
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENT",
+      "price": 2.25
+    },
+    {
+      "ticker": "BGI",
+      "price": 2.047
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.6722
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENT",
+      "price": 2.285
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.8811
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.6744
+    }
+  ]
+}

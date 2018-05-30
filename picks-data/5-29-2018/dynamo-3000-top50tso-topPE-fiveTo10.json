@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "GORO",
+      "price": 6.305
+    },
+    {
+      "ticker": "GER",
+      "price": 6.44
+    },
+    {
+      "ticker": "EMES",
+      "price": 7.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 6.355
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.9
+    },
+    {
+      "ticker": "EMES",
+      "price": 7.9652
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 8.645
+    },
+    {
+      "ticker": "EMES",
+      "price": 7.95
+    },
+    {
+      "ticker": "ORN",
+      "price": 7.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFIL",
+      "price": 6.8
+    },
+    {
+      "ticker": "EMES",
+      "price": 7.92
+    },
+    {
+      "ticker": "ORN",
+      "price": 7.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFIL",
+      "price": 6.7753
+    },
+    {
+      "ticker": "KFFB",
+      "price": 8.9
+    },
+    {
+      "ticker": "KTCC",
+      "price": 8.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFIL",
+      "price": 6.9
+    },
+    {
+      "ticker": "KTCC",
+      "price": 8.49
+    },
+    {
+      "ticker": "EMES",
+      "price": 7.96
+    }
+  ]
+}

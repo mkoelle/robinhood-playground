@@ -1,0 +1,56 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.5753
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.45
+    },
+    {
+      "ticker": "SPCB",
+      "price": 2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.76
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.32
+    },
+    {
+      "ticker": "SPCB",
+      "price": 2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.522
+    },
+    {
+      "ticker": "BVSN",
+      "price": 1.96
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.38
+    },
+    {
+      "ticker": "SPCB",
+      "price": 2.01
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.32
+    }
+  ]
+}

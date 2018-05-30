@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ELOX",
+      "price": 14.4301
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.0999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELOX",
+      "price": 14.5
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.26
+    },
+    {
+      "ticker": "TBBK",
+      "price": 11.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELOX",
+      "price": 14.2001
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELOX",
+      "price": 14.4
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELOX",
+      "price": 14.21
+    },
+    {
+      "ticker": "LOV",
+      "price": 10.5627
+    }
+  ]
+}

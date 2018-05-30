@@ -1,0 +1,32 @@
+{
+  "0": [
+    {
+      "ticker": "EGLE",
+      "price": 5.55
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    },
+    {
+      "ticker": "VHI",
+      "price": 6.8015
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 8.92
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 7.73
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FMSA",
+      "price": 5.56
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.69
+    }
+  ]
+}

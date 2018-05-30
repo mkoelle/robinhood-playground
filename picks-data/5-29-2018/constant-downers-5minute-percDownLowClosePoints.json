@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NFEC",
+      "price": 2.25
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.39
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.5295
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NFEC",
+      "price": 2.33
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.403
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.5226
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AKER",
+      "price": 0.3804
+    },
+    {
+      "ticker": "NFEC",
+      "price": 2.304
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.5249
+    }
+  ]
+}

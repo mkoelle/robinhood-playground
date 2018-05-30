@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DS",
+      "price": 6.52
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MHLD",
+      "price": 7.875
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBI",
+      "price": 8.55
+    },
+    {
+      "ticker": "PSLV",
+      "price": 6.0534
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MMT",
+      "price": 5.625
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6.5826
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBI",
+      "price": 8.75
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.1047
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNKO",
+      "price": 9.9
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.675
+    }
+  ]
+}

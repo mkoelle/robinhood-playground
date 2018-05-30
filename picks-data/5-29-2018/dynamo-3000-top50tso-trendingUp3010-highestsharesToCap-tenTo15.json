@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 10.16
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.03
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 10.225
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.7326
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 10.22
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.5058
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    },
+    {
+      "ticker": "ACIU",
+      "price": 10.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 10.01
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.295
+    }
+  ]
+}

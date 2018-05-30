@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 8.92
+    },
+    {
+      "ticker": "ORN",
+      "price": 7.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORN",
+      "price": 7.82
+    },
+    {
+      "ticker": "RDHL",
+      "price": 6.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 7.73
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FMSA",
+      "price": 5.56
+    },
+    {
+      "ticker": "PTGX",
+      "price": 6.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    },
+    {
+      "ticker": "RDHL",
+      "price": 6.96
+    }
+  ]
+}

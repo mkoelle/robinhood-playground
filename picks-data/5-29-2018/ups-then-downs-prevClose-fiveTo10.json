@@ -1,0 +1,48 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "NVUS",
+      "price": 7.45
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NVUS",
+      "price": 7.35
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.6553
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NVUS",
+      "price": 7.39
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.4062
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.45
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CDTX",
+      "price": 5.45
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.49
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.5
+    }
+  ]
+}

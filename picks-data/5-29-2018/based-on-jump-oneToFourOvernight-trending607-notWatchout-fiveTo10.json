@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "TXMD",
+      "price": 6.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNE",
+      "price": 5.44
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.37
+    },
+    {
+      "ticker": "JT",
+      "price": 5.92
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNE",
+      "price": 5.375
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.3435
+    },
+    {
+      "ticker": "INS",
+      "price": 8.1097
+    },
+    {
+      "ticker": "JT",
+      "price": 5.85
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.94
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "0": [
+    {
+      "ticker": "EGLE",
+      "price": 5.55
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.4
+    },
+    {
+      "ticker": "ASLN",
+      "price": 6.5
+    },
+    {
+      "ticker": "CPG",
+      "price": 8.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.37
+    },
+    {
+      "ticker": "ASLN",
+      "price": 6.5
+    },
+    {
+      "ticker": "CPG",
+      "price": 8.125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGLE",
+      "price": 5.52
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.2
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.3435
+    },
+    {
+      "ticker": "ASLN",
+      "price": 6.4304
+    },
+    {
+      "ticker": "CPG",
+      "price": 8.005
+    }
+  ]
+}

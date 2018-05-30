@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 7.426
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.68
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.682
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 7.2099
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.3
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.715
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 7.13
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.3
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.63
+    }
+  ]
+}

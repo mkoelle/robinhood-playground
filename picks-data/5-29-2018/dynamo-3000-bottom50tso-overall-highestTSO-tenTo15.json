@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AFSI",
+      "price": 13.47
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSTG",
+      "price": 12.48
+    },
+    {
+      "ticker": "AFSI",
+      "price": 13.405
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMC",
+      "price": 14.65
+    },
+    {
+      "ticker": "CUE",
+      "price": 13.3284
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 14.84
+    },
+    {
+      "ticker": "NSTG",
+      "price": 12.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OSBC",
+      "price": 14.74
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GE",
+      "price": 14.2
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.455
+    }
+  ]
+}

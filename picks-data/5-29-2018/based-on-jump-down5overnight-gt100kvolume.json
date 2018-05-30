@@ -1,0 +1,64 @@
+{
+  "0": [
+    {
+      "ticker": "TOPS",
+      "price": 0.9801
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4452
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.5474
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TOPS",
+      "price": 1.0348
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4326
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.53
+    },
+    {
+      "ticker": "SID",
+      "price": 2.04
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TOPS",
+      "price": 1.04
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3753
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.4561
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.545
+    },
+    {
+      "ticker": "SID",
+      "price": 2.095
+    }
+  ]
+}

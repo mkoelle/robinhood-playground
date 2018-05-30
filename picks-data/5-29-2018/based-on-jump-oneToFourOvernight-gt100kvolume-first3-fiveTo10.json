@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 7.426
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.4
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.809
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 7.2099
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.37
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.715
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 7.13
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.3435
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.63
+    }
+  ]
+}

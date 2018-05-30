@@ -1,0 +1,68 @@
+{
+  "0": [
+    {
+      "ticker": "AETI",
+      "price": 0.84
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.34
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.43
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.7399
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AETI",
+      "price": 0.84
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.34
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.43
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.72
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 0.848
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.33
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.73
+    },
+    {
+      "ticker": "EVFM",
+      "price": 4.16
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.79
+    }
+  ]
+}

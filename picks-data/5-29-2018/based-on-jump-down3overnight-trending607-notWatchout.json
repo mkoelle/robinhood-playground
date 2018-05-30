@@ -1,0 +1,52 @@
+{
+  "0": [
+    {
+      "ticker": "CTIB",
+      "price": 4.12
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.695
+    },
+    {
+      "ticker": "THM",
+      "price": 0.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIB",
+      "price": 4.3001
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3906
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7013
+    },
+    {
+      "ticker": "THM",
+      "price": 0.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIB",
+      "price": 4.3001
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3941
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.7035
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6999
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "PBR",
+      "price": 11.77
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.03
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 11.92
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.167
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 12.055
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 13.69
+    },
+    {
+      "ticker": "PBR",
+      "price": 11.775
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 13.155
+    },
+    {
+      "ticker": "PBR",
+      "price": 11.895
+    }
+  ]
+}

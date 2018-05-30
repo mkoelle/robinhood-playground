@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BSTI",
+      "price": 11.23
+    },
+    {
+      "ticker": "TNDM",
+      "price": 13.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNDM",
+      "price": 13.025
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNDM",
+      "price": 13.025
+    },
+    {
+      "ticker": "SELB",
+      "price": 11.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TNDM",
+      "price": 13.01
+    },
+    {
+      "ticker": "SELB",
+      "price": 11.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TNDM",
+      "price": 12.79
+    },
+    {
+      "ticker": "SELB",
+      "price": 11.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TNDM",
+      "price": 13.03
+    },
+    {
+      "ticker": "SELB",
+      "price": 11.82
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BILI",
+      "price": 14.83
+    },
+    {
+      "ticker": "AGYS",
+      "price": 14.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GG",
+      "price": 14.165
+    },
+    {
+      "ticker": "AGYS",
+      "price": 14.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BILI",
+      "price": 14.8911
+    },
+    {
+      "ticker": "GG",
+      "price": 14.1701
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BILI",
+      "price": 15.02
+    },
+    {
+      "ticker": "AGYS",
+      "price": 14.325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OXFD",
+      "price": 14.63
+    },
+    {
+      "ticker": "GG",
+      "price": 14.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OXFD",
+      "price": 14.76
+    },
+    {
+      "ticker": "GG",
+      "price": 14.2
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 8.8499
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.255
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.0352
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 8.8499
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.45
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 8.75
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5001
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 8.6
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5001
+    },
+    {
+      "ticker": "HWCC",
+      "price": 7.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JNP",
+      "price": 8.55
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5001
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNP",
+      "price": 8.7
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5001
+    },
+    {
+      "ticker": "AGRO",
+      "price": 7.89
+    }
+  ]
+}

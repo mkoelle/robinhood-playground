@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "ASYS",
+      "price": 9.12
+    },
+    {
+      "ticker": "WIN",
+      "price": 6.8141
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 8.92
+    },
+    {
+      "ticker": "WIN",
+      "price": 7.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORN",
+      "price": 7.82
+    },
+    {
+      "ticker": "WIN",
+      "price": 6.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 7.73
+    },
+    {
+      "ticker": "WIN",
+      "price": 7.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FMSA",
+      "price": 5.56
+    },
+    {
+      "ticker": "TVIX",
+      "price": 6.163
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    },
+    {
+      "ticker": "YRIV",
+      "price": 8.294
+    }
+  ]
+}

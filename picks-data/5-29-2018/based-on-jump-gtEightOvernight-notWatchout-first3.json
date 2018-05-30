@@ -1,0 +1,36 @@
+{
+  "0": [
+    {
+      "ticker": "CPRX",
+      "price": 3.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPRX",
+      "price": 3.5
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.24
+    },
+    {
+      "ticker": "DHX",
+      "price": 2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPRX",
+      "price": 3.345
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.28
+    },
+    {
+      "ticker": "DHX",
+      "price": 2.1925
+    }
+  ]
+}

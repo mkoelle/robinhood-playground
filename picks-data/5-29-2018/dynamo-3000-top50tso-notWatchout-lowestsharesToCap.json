@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ICD",
+      "price": 4.35
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTIB",
+      "price": 4.3001
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 4.005
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 4.55
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.3001
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTIB",
+      "price": 4.39
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 4.6
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIB",
+      "price": 4.5
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.0575
+    }
+  ]
+}

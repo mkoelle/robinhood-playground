@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 9.876
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 8.4178
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.6434
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 8.555
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 8.555
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 8.64
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 8.64
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.8526
+    }
+  ]
+}

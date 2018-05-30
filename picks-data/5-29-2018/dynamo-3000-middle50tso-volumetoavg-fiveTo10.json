@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "OPHC",
+      "price": 5.1
+    },
+    {
+      "ticker": "CO",
+      "price": 9.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JHD",
+      "price": 9.85
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.2046
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GPM",
+      "price": 8.589
+    },
+    {
+      "ticker": "GDL",
+      "price": 9.3368
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSUM",
+      "price": 6.25
+    },
+    {
+      "ticker": "SND",
+      "price": 6.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JRS",
+      "price": 9.8151
+    },
+    {
+      "ticker": "SIF",
+      "price": 5.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPG",
+      "price": 7.885
+    },
+    {
+      "ticker": "MSD",
+      "price": 9.03
+    }
+  ]
+}

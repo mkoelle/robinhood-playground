@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "MTEM",
+      "price": 7.24
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.809
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.611
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.4
+    },
+    {
+      "ticker": "MTEM",
+      "price": 7.24
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.775
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIZ",
+      "price": 9.4
+    },
+    {
+      "ticker": "MTEM",
+      "price": 7.07
+    },
+    {
+      "ticker": "SPWR",
+      "price": 8.92
+    }
+  ]
+}

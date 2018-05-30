@@ -1,0 +1,32 @@
+{
+  "0": [
+    {
+      "ticker": "GGB",
+      "price": 4.08
+    },
+    {
+      "ticker": "CTIB",
+      "price": 4.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.04
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SID",
+      "price": 2.095
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.93
+    }
+  ]
+}

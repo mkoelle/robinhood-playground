@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "AP",
+      "price": 10.1
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVRA",
+      "price": 10.05
+    },
+    {
+      "ticker": "AP",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVRA",
+      "price": 10.09
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.015
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVRA",
+      "price": 10.1525
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.0416
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVRA",
+      "price": 10.3
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVRA",
+      "price": 10.45
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.01
+    }
+  ]
+}

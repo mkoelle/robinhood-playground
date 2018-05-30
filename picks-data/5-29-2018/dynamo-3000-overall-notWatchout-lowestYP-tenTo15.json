@@ -1,0 +1,62 @@
+{
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.5
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.6129
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.55
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.07
+    },
+    {
+      "ticker": "DM",
+      "price": 13.2972
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.07
+    },
+    {
+      "ticker": "DM",
+      "price": 13.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.16
+    },
+    {
+      "ticker": "DM",
+      "price": 13.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.05
+    },
+    {
+      "ticker": "DM",
+      "price": 12.925
+    }
+  ]
+}
