@@ -50,42 +50,44 @@ const myPicks = [
 ];
 
 const forPurchase = [
-
-    "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6",
-    "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25",
-    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210',
-
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "constant-risers-5minute-percUpCloseOnlyPoints-250",
-    "constant-risers-5minute-percUpCloseOnlyPoints-250",
-
-    "dynamo-3000-bottom50tso-absvolume-4",
-    "dynamo-3000-bottom50tso-absvolume-4",
-
-    "low-float-high-volume-floatTimesvolToAvgPoints-trend3to5-6",
-    "dynamo-3000-overall-overall-highestTSO-260",
-    "sudden-drops-last2trend-filter10-32",
-    "sudden-drops-last2trend-first2-32",
-
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
-    "constant-risers-10minute-percUpCloseOnlyPoints-filtered40-140",
-
-    "dynamo-3000-overall-onlyWatchout-highestTSO-260",
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "dynamo-3000-bottom50tso-overall-highestsharesToCap-260",
-
-
-
-
-
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "based-on-jump-down3overnight-trending607-first1-tenTo15-16",
     "based-on-jump-fourToEightOvernight-gt500kvolume-fiveTo10-30",
-    "sudden-drops-last10trend-filter20-63",
-    ""
+    "based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10-30",
 
-    // short sell / buy put option / sell call option: based-on-jump-gtEightOvernight-trending53-first1-5
+    "sudden-drops-last10trend-filter20-63",
+
+    "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-6",
+    "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-6",
+
+    "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25",
+    "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-fiveTo10-95",
+    "low-float-high-volume-floatTimesabsVolPoints-trendgt10-210",
+    "low-float-high-volume-floatTimesabsVolPoints-trendgt10-315",
+
+    "dynamo-3000-middle50tso-onlyWatchout-highestYP-4",
+
+    // double power!
+    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
+    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
+
+    "based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30",
+    "based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30",
+
+    "sudden-drops-last1trend-first1-280",
+    "sudden-drops-last1trend-first1-280",
+
+    // triple power
+    "based-on-jump-fourToEightOvernight-notWatchout-first1-0"
+    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
+    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
+
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+
+    // short sell / buy put option / sell call option:
+    // based-on-jump-gtEightOvernight-trending53-first1-5
+    // based-on-jump-gtEightOvernight-shouldWatchout-5
 ];
 
 const cheapestPicksEmailObj = [
