@@ -62,7 +62,8 @@ const forPurchase = [
     'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-tenTo15-315',
     'based-on-jump-down3overnight-trending607-first1-tenTo15-16',
     'dynamo-3000-top50tso-onlyWatchout-highestYP-tenTo15-4',
-
+    'sudden-drops-last5trend-filter20-32',
+    
     // risky
     'based-on-jump-fourToEightOvernight-notWatchout-first1-0',
 
@@ -75,6 +76,7 @@ const forPurchase = [
     'based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10-30',
     'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25-95',
     'low-float-high-volume-floatTimesabsVolPoints-trend10to15-notWatchout-95',
+    'based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30',
 
     // who knows
     'constant-risers-5minute-percUpHighClosePoints-filtered50-140',
