@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TVIX",
+      "price": 5.5948
+    },
+    {
+      "ticker": "QD",
+      "price": 7.941
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVIV",
+      "price": 6.2001
+    },
+    {
+      "ticker": "ACHV",
+      "price": 9.1921
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 6.31
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 6.33
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 6.42
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.6106
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 6.5
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 6.37
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.9
+    }
+  ]
+}

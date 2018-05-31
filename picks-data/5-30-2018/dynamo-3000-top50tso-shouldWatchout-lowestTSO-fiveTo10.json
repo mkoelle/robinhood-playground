@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABDC",
+      "price": 6.64
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCRB",
+      "price": 8.4
+    },
+    {
+      "ticker": "CECE",
+      "price": 5.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTGX",
+      "price": 7.2099
+    },
+    {
+      "ticker": "BKD",
+      "price": 7.8599
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGEN",
+      "price": 7.33
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.93
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.265
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.208
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPI",
+      "price": 9.275
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.68
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.69
+    }
+  ]
+}

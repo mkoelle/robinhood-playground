@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.47
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.6699
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4845
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.64
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.475
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.8536
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4637
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.5426
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.26
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LAKE",
+      "price": 14.65
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INVA",
+      "price": 14.75
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVA",
+      "price": 14.94
+    },
+    {
+      "ticker": "CLSD",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INVA",
+      "price": 14.95
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INVA",
+      "price": 14.985
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.9004
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMMR",
+      "price": 14.75
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.375
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMMR",
+      "price": 14.755
+    },
+    {
+      "ticker": "PNTR",
+      "price": 14.45
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NG",
+      "price": 4.88
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NRO",
+      "price": 4.8876
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.7799
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NRO",
+      "price": 4.9
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NRO",
+      "price": 4.9031
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GRPN",
+      "price": 4.805
+    },
+    {
+      "ticker": "VVR",
+      "price": 4.401
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMRX",
+      "price": 4.64
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HIO",
+      "price": 4.78
+    },
+    {
+      "ticker": "HIHO",
+      "price": 4.65
+    }
+  ]
+}

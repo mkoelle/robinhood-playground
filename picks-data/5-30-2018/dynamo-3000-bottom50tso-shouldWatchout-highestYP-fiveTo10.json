@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 6.85
+    },
+    {
+      "ticker": "CAMT",
+      "price": 7.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVUS",
+      "price": 6.75
+    },
+    {
+      "ticker": "CVGI",
+      "price": 8.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVUS",
+      "price": 6.65
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.1399
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOTS",
+      "price": 8.95
+    },
+    {
+      "ticker": "METC",
+      "price": 7.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IOTS",
+      "price": 8.9
+    },
+    {
+      "ticker": "METC",
+      "price": 7.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IOTS",
+      "price": 9.125
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.615
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IOTS",
+      "price": 9.05
+    },
+    {
+      "ticker": "VHI",
+      "price": 6.48
+    }
+  ]
+}

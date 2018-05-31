@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NEOS",
+      "price": 7
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NEOS",
+      "price": 7.0209
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NEOS",
+      "price": 7
+    },
+    {
+      "ticker": "OVID",
+      "price": 7.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NEOS",
+      "price": 6.9116
+    },
+    {
+      "ticker": "OVID",
+      "price": 7.92
+    }
+  ]
+}

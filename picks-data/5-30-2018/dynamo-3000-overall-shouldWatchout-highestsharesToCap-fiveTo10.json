@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TVIX",
+      "price": 5.5948
+    },
+    {
+      "ticker": "LGCY",
+      "price": 5.0499
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TVIX",
+      "price": 5.5293
+    },
+    {
+      "ticker": "LGCY",
+      "price": 5.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TVIX",
+      "price": 5.365
+    },
+    {
+      "ticker": "HK",
+      "price": 4.9852
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIX",
+      "price": 5.431
+    },
+    {
+      "ticker": "HK",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TVIX",
+      "price": 5.285
+    },
+    {
+      "ticker": "HK",
+      "price": 5.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTI",
+      "price": 5.0367
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTI",
+      "price": 5.09
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.4239
+    }
+  ]
+}

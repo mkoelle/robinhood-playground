@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1001
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.6759
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.5845
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 7.14
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.68
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.675
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.9899
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.685
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 7.3
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.08
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.43
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.15
+    }
+  ]
+}

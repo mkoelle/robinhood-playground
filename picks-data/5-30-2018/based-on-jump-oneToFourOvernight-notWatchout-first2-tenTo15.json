@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPOR",
+      "price": 10.74
+    },
+    {
+      "ticker": "FEO",
+      "price": 15.0452
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.66
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HHS",
+      "price": 10.73
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.34
+    }
+  ]
+}

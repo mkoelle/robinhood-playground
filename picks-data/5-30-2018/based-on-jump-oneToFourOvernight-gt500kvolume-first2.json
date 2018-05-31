@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.4879
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONTX",
+      "price": 0.4345
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.454
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONTX",
+      "price": 0.42
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONTX",
+      "price": 0.4078
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.885
+    }
+  ]
+}

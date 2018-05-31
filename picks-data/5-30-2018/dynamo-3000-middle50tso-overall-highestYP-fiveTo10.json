@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 6.94
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CERS",
+      "price": 6.585
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 6.585
+    },
+    {
+      "ticker": "SHSP",
+      "price": 8.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CWBR",
+      "price": 5.75
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DWSN",
+      "price": 7.14
+    },
+    {
+      "ticker": "POLA",
+      "price": 6.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 8.0565
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.39
+    }
+  ]
+}

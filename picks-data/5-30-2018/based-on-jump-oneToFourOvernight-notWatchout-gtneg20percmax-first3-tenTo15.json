@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FEO",
+      "price": 15.0452
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.308
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.308
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.2
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.39
+    }
+  ]
+}

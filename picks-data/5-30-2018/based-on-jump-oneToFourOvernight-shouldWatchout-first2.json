@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FUV",
+      "price": 3.03
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7657
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FUV",
+      "price": 3.05
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FUV",
+      "price": 3.05
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FUV",
+      "price": 3.0501
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7675
+    }
+  ]
+}

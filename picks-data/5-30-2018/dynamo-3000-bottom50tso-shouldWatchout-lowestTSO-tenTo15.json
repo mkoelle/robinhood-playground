@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBB",
+      "price": 12.15
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBB",
+      "price": 12.2
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBB",
+      "price": 12.475
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 13.2005
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NES",
+      "price": 13.2005
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOOP",
+      "price": 11
+    },
+    {
+      "ticker": "BRS",
+      "price": 11.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BRS",
+      "price": 11.8
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.7265
+    }
+  ]
+}

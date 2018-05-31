@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TIK",
+      "price": 3.3934
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TIK",
+      "price": 2.97
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.9296
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TIK",
+      "price": 2.899
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 2.786
+    },
+    {
+      "ticker": "AKTX",
+      "price": 1.82
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFIE",
+      "price": 4.78
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.145
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 4.27
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 4.26
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.17
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.22
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 4.86
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 4.79
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.26
+    }
+  ]
+}

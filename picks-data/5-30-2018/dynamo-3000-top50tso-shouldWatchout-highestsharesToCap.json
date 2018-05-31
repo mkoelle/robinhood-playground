@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.1184
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2213
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.245
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.1161
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.117
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.282
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.117
+    },
+    {
+      "ticker": "GEVO",
+      "price": 0.2521
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 0.2456
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CXRX",
+      "price": 0.28
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.3026
+    }
+  ]
+}

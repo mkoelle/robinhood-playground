@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1001
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.5845
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 7.14
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 7.3
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.43
+    }
+  ]
+}

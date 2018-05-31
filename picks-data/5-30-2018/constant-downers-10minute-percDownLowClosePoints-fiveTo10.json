@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "WIN",
+      "price": 5.9875
+    },
+    {
+      "ticker": "CHS",
+      "price": 7.915
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.265
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WIN",
+      "price": 5.705
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.02
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.35
+    }
+  ],
+  "309": [
+    {
+      "ticker": "WIN",
+      "price": 5.75
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.3466
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.0749
+    }
+  ]
+}

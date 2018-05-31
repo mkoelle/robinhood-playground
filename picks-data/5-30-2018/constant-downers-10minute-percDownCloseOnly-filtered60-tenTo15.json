@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "FBZ",
+      "price": 13.27
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.73
+    },
+    {
+      "ticker": "BBGI",
+      "price": 11.75
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BBGI",
+      "price": 11.7
+    },
+    {
+      "ticker": "FBZ",
+      "price": 13.27
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.755
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EEI",
+      "price": 12.9601
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.825
+    },
+    {
+      "ticker": "SSFN",
+      "price": 12.1
+    }
+  ]
+}

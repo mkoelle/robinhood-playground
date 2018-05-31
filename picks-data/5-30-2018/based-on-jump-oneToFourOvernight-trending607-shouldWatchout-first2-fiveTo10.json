@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASYS",
+      "price": 9.43
+    },
+    {
+      "ticker": "PW",
+      "price": 6.2036
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASYS",
+      "price": 9.62
+    },
+    {
+      "ticker": "PW",
+      "price": 6.3702
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OVID",
+      "price": 7.91
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OVID",
+      "price": 7.92
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.94
+    }
+  ]
+}

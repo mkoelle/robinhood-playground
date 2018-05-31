@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPL",
+      "price": 10.3
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTIE",
+      "price": 10.1052
+    },
+    {
+      "ticker": "LCA",
+      "price": 10.1874
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTIE",
+      "price": 10.1372
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMN",
+      "price": 10.525
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PTIE",
+      "price": 10.0053
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NWHM",
+      "price": 10.13
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.1001
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTIE",
+      "price": 10.01
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.14
+    }
+  ]
+}

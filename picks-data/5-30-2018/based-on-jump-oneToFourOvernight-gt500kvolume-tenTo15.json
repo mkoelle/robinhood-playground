@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SVXY",
+      "price": 12.89
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JNUG",
+      "price": 14.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 11.43
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.93
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.1181
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 11.445
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.49
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.89
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.08
+    }
+  ]
+}

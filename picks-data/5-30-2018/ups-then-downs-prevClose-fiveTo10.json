@@ -1,0 +1,68 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 8.72
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.2435
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WTID",
+      "price": 8.74
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.19
+    },
+    {
+      "ticker": "NTWK",
+      "price": 6.2242
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DWT",
+      "price": 8.17
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.75
+    },
+    {
+      "ticker": "NTWK",
+      "price": 6.1
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.03
+    }
+  ],
+  "600": [
+    {
+      "ticker": "WTID",
+      "price": 8.72
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.16
+    },
+    {
+      "ticker": "NTWK",
+      "price": 6.05
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.06
+    }
+  ]
+}

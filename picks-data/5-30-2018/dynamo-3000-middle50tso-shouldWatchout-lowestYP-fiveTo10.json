@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 8.9525
+    },
+    {
+      "ticker": "TEDU",
+      "price": 9.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HZN",
+      "price": 6.09
+    },
+    {
+      "ticker": "TEDU",
+      "price": 9.576
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IDT",
+      "price": 5.1692
+    },
+    {
+      "ticker": "SBBP",
+      "price": 7.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RARX",
+      "price": 6.64
+    },
+    {
+      "ticker": "KODK",
+      "price": 5.223
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MTEM",
+      "price": 6.84
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QD",
+      "price": 8.145
+    },
+    {
+      "ticker": "CLNS",
+      "price": 5.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 8.72
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.925
+    }
+  ]
+}

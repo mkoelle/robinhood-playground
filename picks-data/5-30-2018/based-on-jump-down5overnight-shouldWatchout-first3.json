@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.47
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.6699
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4845
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.475
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.8536
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4637
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.5426
+    }
+  ]
+}

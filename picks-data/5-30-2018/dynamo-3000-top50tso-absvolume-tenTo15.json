@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BRS",
+      "price": 12.54
+    },
+    {
+      "ticker": "CDZI",
+      "price": 12.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INVA",
+      "price": 14.75
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIO",
+      "price": 12.205
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 14.395
+    },
+    {
+      "ticker": "VNCE",
+      "price": 10.341
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HRG",
+      "price": 13.3
+    },
+    {
+      "ticker": "VNCE",
+      "price": 10.641
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DDD",
+      "price": 12.475
+    },
+    {
+      "ticker": "VNCE",
+      "price": 10.7644
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HCLP",
+      "price": 13.725
+    },
+    {
+      "ticker": "VNCE",
+      "price": 10.7958
+    }
+  ]
+}

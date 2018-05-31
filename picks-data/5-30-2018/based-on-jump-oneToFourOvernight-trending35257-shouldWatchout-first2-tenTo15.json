@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIGR",
+      "price": 13.55
+    },
+    {
+      "ticker": "CLSD",
+      "price": 14.3338
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIGR",
+      "price": 13.6501
+    },
+    {
+      "ticker": "CLSD",
+      "price": 14.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EIGR",
+      "price": 13.65
+    },
+    {
+      "ticker": "CLSD",
+      "price": 14.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EIGR",
+      "price": 13.6752
+    },
+    {
+      "ticker": "CLSD",
+      "price": 14.84
+    }
+  ]
+}

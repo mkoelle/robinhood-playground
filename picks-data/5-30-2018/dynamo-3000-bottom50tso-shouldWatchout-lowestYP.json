@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NVCN",
+      "price": 0.0351
+    },
+    {
+      "ticker": "RSLS",
+      "price": 0.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.458
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 0.4563
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.785
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.4581
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOPS",
+      "price": 0.94
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.4599
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TOPS",
+      "price": 0.8712
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TOPS",
+      "price": 0.8848
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7699
+    }
+  ]
+}

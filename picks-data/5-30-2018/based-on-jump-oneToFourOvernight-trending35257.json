@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.3934
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.63
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.74
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VHC",
+      "price": 3.225
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.97
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.73
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.24
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 5
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.899
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.835
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VHC",
+      "price": 3.1842
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.786
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.88
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.2
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.74
+    }
+  ]
+}

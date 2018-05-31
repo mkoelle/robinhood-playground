@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SURF",
+      "price": 13.5167
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BBGI",
+      "price": 11.75
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CYRX",
+      "price": 11.9399
+    },
+    {
+      "ticker": "SVRA",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 11.05
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.9002
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRV",
+      "price": 10.84
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRV",
+      "price": 10.86
+    },
+    {
+      "ticker": "FPH",
+      "price": 11.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPH",
+      "price": 11.19
+    },
+    {
+      "ticker": "CUE",
+      "price": 12.9642
+    }
+  ]
+}

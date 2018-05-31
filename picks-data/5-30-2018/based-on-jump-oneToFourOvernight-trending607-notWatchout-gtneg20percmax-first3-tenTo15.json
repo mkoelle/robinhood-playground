@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.9
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    },
+    {
+      "ticker": "YEXT",
+      "price": 15.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.7801
+    },
+    {
+      "ticker": "GRBK",
+      "price": 12
+    }
+  ]
+}

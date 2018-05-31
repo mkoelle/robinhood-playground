@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFH",
+      "price": 10.3
+    },
+    {
+      "ticker": "GSM",
+      "price": 10.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GIFI",
+      "price": 10.4
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.365
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.225
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.071
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 10.32
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGLE",
+      "price": 10.31
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.325
+    }
+  ]
+}

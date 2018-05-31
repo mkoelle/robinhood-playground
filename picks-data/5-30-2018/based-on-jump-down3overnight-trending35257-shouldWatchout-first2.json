@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 1.6699
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.441
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 1.64
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.4227
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 1.8536
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 1.5426
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.3801
+    }
+  ]
+}

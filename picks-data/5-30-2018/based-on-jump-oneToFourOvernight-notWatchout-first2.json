@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFIE",
+      "price": 4.78
+    },
+    {
+      "ticker": "ZIOP",
+      "price": 4.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.3
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.3017
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.3029
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.77
+    }
+  ]
+}

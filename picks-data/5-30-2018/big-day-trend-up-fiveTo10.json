@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "YIN",
+      "price": 9.42
+    }
+  ],
+  "35": [
+    {
+      "ticker": "ORMP",
+      "price": 7.5516
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.2862
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.05
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.945
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ORMP",
+      "price": 7.9
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.05
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.45
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.1802
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.15
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ORMP",
+      "price": 8.49
+    },
+    {
+      "ticker": "MESO",
+      "price": 6
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.27
+    },
+    {
+      "ticker": "XIN",
+      "price": 5.66
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.48
+    }
+  ]
+}

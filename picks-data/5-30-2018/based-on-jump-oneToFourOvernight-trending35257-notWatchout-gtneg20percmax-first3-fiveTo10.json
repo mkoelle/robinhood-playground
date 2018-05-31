@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CATS",
+      "price": 6.8
+    },
+    {
+      "ticker": "LLEX",
+      "price": 6.2
+    },
+    {
+      "ticker": "DS",
+      "price": 6.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CATS",
+      "price": 6.849
+    },
+    {
+      "ticker": "LLEX",
+      "price": 6.1676
+    },
+    {
+      "ticker": "BCLI",
+      "price": 5.0398
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CATS",
+      "price": 6.76
+    },
+    {
+      "ticker": "LLEX",
+      "price": 6.139
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CATS",
+      "price": 6.6
+    },
+    {
+      "ticker": "LLEX",
+      "price": 6.08
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    }
+  ]
+}

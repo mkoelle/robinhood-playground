@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 1.6699
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 1.64
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 1.8536
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 1.5426
+    },
+    {
+      "ticker": "EVK",
+      "price": 4.075
+    }
+  ]
+}

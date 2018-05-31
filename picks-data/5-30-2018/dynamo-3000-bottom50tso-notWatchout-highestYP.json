@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXAS",
+      "price": 2.61
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAKD",
+      "price": 1.571
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FSNN",
+      "price": 4.58
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.5712
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMX",
+      "price": 1.221
+    },
+    {
+      "ticker": "VKTX",
+      "price": 4.9068
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 4.9059
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.749
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDR",
+      "price": 1.58
+    },
+    {
+      "ticker": "VKTX",
+      "price": 4.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 4.79
+    },
+    {
+      "ticker": "VKTX",
+      "price": 4.97
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "HK",
+      "price": 4.969
+    }
+  ],
+  "120": [
+    {
+      "ticker": "UAN",
+      "price": 2.9958
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.595
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.655
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.5101
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.7399
+    }
+  ],
+  "180": [
+    {
+      "ticker": "UAN",
+      "price": 2.96
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.59
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.65
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.73
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.42
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UAN",
+      "price": 2.96
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.605
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.76
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.635
+    }
+  ]
+}

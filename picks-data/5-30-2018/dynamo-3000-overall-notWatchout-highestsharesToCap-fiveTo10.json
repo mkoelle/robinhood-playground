@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BCLI",
+      "price": 5.01
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.005
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WSCI",
+      "price": 5.35
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLDD",
+      "price": 5.05
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCMT",
+      "price": 5.195
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 5.1799
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.4748
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WSCI",
+      "price": 5.4748
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TPIV",
+      "price": 5.04
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    }
+  ]
+}

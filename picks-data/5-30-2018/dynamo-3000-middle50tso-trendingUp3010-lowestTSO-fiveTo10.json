@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IRT",
+      "price": 9.5499
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.79
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RENN",
+      "price": 8.83
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    },
+    {
+      "ticker": "CMO",
+      "price": 9.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 6.585
+    },
+    {
+      "ticker": "CYS",
+      "price": 7.405
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MFA",
+      "price": 7.795
+    },
+    {
+      "ticker": "RBCN",
+      "price": 7.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARCT",
+      "price": 6.35
+    },
+    {
+      "ticker": "JMM",
+      "price": 7.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JMM",
+      "price": 7.11
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.35
+    }
+  ]
+}

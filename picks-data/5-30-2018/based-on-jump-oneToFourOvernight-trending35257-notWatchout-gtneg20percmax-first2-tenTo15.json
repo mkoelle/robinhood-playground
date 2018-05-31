@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "YEXT",
+      "price": 14.9
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YEXT",
+      "price": 15.01
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "YEXT",
+      "price": 14.96
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.625
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GRBK",
+      "price": 12
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.95
+    }
+  ]
+}

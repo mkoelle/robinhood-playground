@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IRT",
+      "price": 9.5499
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.79
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TEDU",
+      "price": 9.576
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRS",
+      "price": 5.1
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHW",
+      "price": 9.06
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.7041
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 9.725
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.795
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXG",
+      "price": 9.285
+    },
+    {
+      "ticker": "IHD",
+      "price": 8.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JMM",
+      "price": 7.11
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.35
+    }
+  ]
+}

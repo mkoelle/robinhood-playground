@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPOR",
+      "price": 10.74
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPOR",
+      "price": 10.66
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.6501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPOR",
+      "price": 10.75
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPOR",
+      "price": 10.91
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.6752
+    }
+  ]
+}

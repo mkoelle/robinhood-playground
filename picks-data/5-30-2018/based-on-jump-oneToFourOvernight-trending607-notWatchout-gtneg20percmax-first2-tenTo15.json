@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.7801
+    }
+  ]
+}

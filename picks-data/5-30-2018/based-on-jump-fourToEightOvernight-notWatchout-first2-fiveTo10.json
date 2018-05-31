@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1001
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.6759
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 7.14
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.9899
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 7.3
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.08
+    }
+  ]
+}

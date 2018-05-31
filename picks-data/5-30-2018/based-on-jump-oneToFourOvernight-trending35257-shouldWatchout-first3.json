@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.3934
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VHC",
+      "price": 3.225
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.97
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.899
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VHC",
+      "price": 3.1842
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.786
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.2
+    }
+  ]
+}

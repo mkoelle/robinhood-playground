@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RARX",
+      "price": 6.64
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RARX",
+      "price": 6.84
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTGX",
+      "price": 7.2099
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 7.33
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.3179
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGC",
+      "price": 7.34
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.208
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGC",
+      "price": 7.34
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGC",
+      "price": 7.31
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.45
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MNOV",
+      "price": 9.224
+    },
+    {
+      "ticker": "CHS",
+      "price": 8.055
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DAKT",
+      "price": 8.08
+    },
+    {
+      "ticker": "CHS",
+      "price": 7.8502
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 6.4082
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TXMD",
+      "price": 6.02
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.4339
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 6.325
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.319
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TXMD",
+      "price": 6.02
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.381
+    }
+  ]
+}

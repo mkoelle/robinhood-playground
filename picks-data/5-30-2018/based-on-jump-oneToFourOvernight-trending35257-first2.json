@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.3934
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VHC",
+      "price": 3.225
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 5
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VHC",
+      "price": 3.1842
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.786
+    }
+  ]
+}

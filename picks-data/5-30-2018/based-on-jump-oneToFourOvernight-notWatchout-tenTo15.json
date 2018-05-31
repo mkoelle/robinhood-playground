@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GPOR",
+      "price": 10.74
+    },
+    {
+      "ticker": "FEO",
+      "price": 15.0452
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.308
+    },
+    {
+      "ticker": "DB",
+      "price": 11.505
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.66
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.308
+    },
+    {
+      "ticker": "DB",
+      "price": 11.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.75
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.25
+    },
+    {
+      "ticker": "PGAL",
+      "price": 12.34
+    },
+    {
+      "ticker": "DB",
+      "price": 11.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HHS",
+      "price": 10.73
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.34
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.75
+    },
+    {
+      "ticker": "GPOR",
+      "price": 10.91
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.2
+    }
+  ]
+}

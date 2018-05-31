@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1001
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.6759
+    },
+    {
+      "ticker": "GREK",
+      "price": 8.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 7.14
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.68
+    },
+    {
+      "ticker": "GREK",
+      "price": 8.965
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 7.1
+    },
+    {
+      "ticker": "LPG",
+      "price": 7.9899
+    },
+    {
+      "ticker": "GREK",
+      "price": 8.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 7.3
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.08
+    },
+    {
+      "ticker": "GREK",
+      "price": 8.955
+    }
+  ]
+}

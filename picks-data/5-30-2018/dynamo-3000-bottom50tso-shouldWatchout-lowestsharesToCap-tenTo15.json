@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XIVH",
+      "price": 14.46
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.9037
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMTA",
+      "price": 14.82
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 13.875
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OXFD",
+      "price": 14.44
+    },
+    {
+      "ticker": "VCEL",
+      "price": 14.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMTA",
+      "price": 14.98
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 14.76
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLCT",
+      "price": 14.8
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.4853
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLCT",
+      "price": 14.66
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.7265
+    }
+  ]
+}

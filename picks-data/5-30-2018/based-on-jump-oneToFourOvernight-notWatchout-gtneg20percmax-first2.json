@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFIE",
+      "price": 4.78
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFIE",
+      "price": 4.8
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIE",
+      "price": 4.78
+    },
+    {
+      "ticker": "BCLI",
+      "price": 5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIE",
+      "price": 4.77
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.88
+    }
+  ]
+}

@@ -52,9 +52,12 @@ const myPicks = [
 const forPurchase = [
     "based-on-jump-down3overnight-trending607-first1-tenTo15-16",
     "based-on-jump-fourToEightOvernight-gt500kvolume-fiveTo10-30",
+    "based-on-jump-down3overnight-trending607-shouldWatchout-first1-tenTo15-30",
     "based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10-30",
 
     "sudden-drops-last10trend-filter20-63",
+    "sudden-drops-last3trend-filter10-63",
+    "sudden-drops-last50trend-filter10-fiveTo10-388",
 
     "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-6",
     "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-6",
@@ -65,7 +68,8 @@ const forPurchase = [
     "low-float-high-volume-floatTimesabsVolPoints-trendgt10-315",
 
     "dynamo-3000-middle50tso-onlyWatchout-highestYP-4",
-
+    "dynamo-3000-bottom50tso-shouldWatchout-highestTSO-100",
+    
     // double power!
     "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
     "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
@@ -77,7 +81,7 @@ const forPurchase = [
     "sudden-drops-last1trend-first1-280",
 
     // triple power
-    "based-on-jump-fourToEightOvernight-notWatchout-first1-0"
+    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
     "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
     "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
 

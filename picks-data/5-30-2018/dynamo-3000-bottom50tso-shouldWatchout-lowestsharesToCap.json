@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GOGO",
+      "price": 4.67
+    },
+    {
+      "ticker": "ARDX",
+      "price": 3.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOGO",
+      "price": 4.8601
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.4901
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GOGO",
+      "price": 4.835
+    },
+    {
+      "ticker": "IVAC",
+      "price": 4.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IVAC",
+      "price": 4.9
+    },
+    {
+      "ticker": "GERN",
+      "price": 4.2859
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GERN",
+      "price": 4.316
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SORL",
+      "price": 4.48
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SORL",
+      "price": 4.48
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.1
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NEOS",
+      "price": 7
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.43
+    },
+    {
+      "ticker": "KODK",
+      "price": 5.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NEOS",
+      "price": 7.0209
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.45
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NEOS",
+      "price": 7
+    },
+    {
+      "ticker": "OVID",
+      "price": 7.91
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NEOS",
+      "price": 6.9116
+    },
+    {
+      "ticker": "OVID",
+      "price": 7.92
+    },
+    {
+      "ticker": "ALDX",
+      "price": 8.475
+    }
+  ]
+}

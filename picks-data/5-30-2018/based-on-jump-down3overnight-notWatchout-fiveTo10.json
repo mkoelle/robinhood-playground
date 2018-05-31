@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "CHS",
+      "price": 8.16
+    },
+    {
+      "ticker": "DAKT",
+      "price": 9.045
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHS",
+      "price": 8.1
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.92
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHS",
+      "price": 7.6701
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.1
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.4899
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHS",
+      "price": 7.805
+    },
+    {
+      "ticker": "DAKT",
+      "price": 7.9599
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.05
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.2862
+    },
+    {
+      "ticker": "CEL",
+      "price": 6.74
+    }
+  ]
+}

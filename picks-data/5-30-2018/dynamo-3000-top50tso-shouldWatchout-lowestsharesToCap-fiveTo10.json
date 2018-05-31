@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASYS",
+      "price": 9.6
+    },
+    {
+      "ticker": "SNDX",
+      "price": 9.2048
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OMEX",
+      "price": 9.4519
+    },
+    {
+      "ticker": "KEYW",
+      "price": 9.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNCE",
+      "price": 9.49
+    },
+    {
+      "ticker": "OMEX",
+      "price": 9.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 9.0297
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASYS",
+      "price": 10.08
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.265
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPI",
+      "price": 9.275
+    },
+    {
+      "ticker": "YRIV",
+      "price": 8.955
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 9
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.425
+    }
+  ]
+}

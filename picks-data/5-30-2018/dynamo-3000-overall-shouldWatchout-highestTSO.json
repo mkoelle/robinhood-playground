@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSPR",
+      "price": 1.435
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1184
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGLB",
+      "price": 2.0721
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.6401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SGLB",
+      "price": 2.725
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SGLB",
+      "price": 2.75
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.4997
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGLB",
+      "price": 2.77
+    },
+    {
+      "ticker": "CLD",
+      "price": 4.0588
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGLB",
+      "price": 2.34
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGLB",
+      "price": 2.1299
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6557
+    }
+  ]
+}

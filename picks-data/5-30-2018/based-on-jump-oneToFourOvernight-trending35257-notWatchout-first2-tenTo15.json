@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPOR",
+      "price": 10.74
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPOR",
+      "price": 10.66
+    },
+    {
+      "ticker": "YEXT",
+      "price": 15.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPOR",
+      "price": 10.75
+    },
+    {
+      "ticker": "YEXT",
+      "price": 14.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPOR",
+      "price": 10.91
+    },
+    {
+      "ticker": "GRBK",
+      "price": 12
+    }
+  ]
+}

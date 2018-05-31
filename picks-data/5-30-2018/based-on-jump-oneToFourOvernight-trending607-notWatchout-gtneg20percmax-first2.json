@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPRX",
+      "price": 3.63
+    },
+    {
+      "ticker": "TPIV",
+      "price": 4.19
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPRX",
+      "price": 3.73
+    },
+    {
+      "ticker": "TPIV",
+      "price": 4.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCLI",
+      "price": 5
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.835
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPRX",
+      "price": 3.88
+    },
+    {
+      "ticker": "TPIV",
+      "price": 4.555
+    }
+  ]
+}

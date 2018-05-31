@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "UVXY",
+      "price": 12.31
+    },
+    {
+      "ticker": "CYRX",
+      "price": 12.1901
+    },
+    {
+      "ticker": "SVRA",
+      "price": 10.2057
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BRS",
+      "price": 12.03
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.2
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.7594
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BRS",
+      "price": 11.7788
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.064
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.705
+    }
+  ]
+}
