@@ -63,7 +63,9 @@ const forPurchase = [
     'based-on-jump-down3overnight-trending607-first1-tenTo15-16',
     'dynamo-3000-top50tso-onlyWatchout-highestYP-tenTo15-4',
     'sudden-drops-last5trend-filter20-32',
-    
+    'sudden-drops-last3trend-filter10-63',
+    'sudden-drops-last10trend-filter30-63',
+
     // risky
     'based-on-jump-fourToEightOvernight-notWatchout-first1-0',
 
@@ -83,6 +85,9 @@ const forPurchase = [
     'based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-0',
     'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
 
+    // how about?
+    // based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-30
+    
     // short sell / buy put option / sell call option:
     // based-on-jump-gtEightOvernight-trending53-first1-5
     // based-on-jump-gtEightOvernight-shouldWatchout-5
