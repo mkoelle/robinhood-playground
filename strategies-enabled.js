@@ -50,44 +50,25 @@ const myPicks = [
 ];
 
 const forPurchase = [
-    "based-on-jump-down3overnight-trending607-first1-tenTo15-16",
-    "based-on-jump-fourToEightOvernight-gt500kvolume-fiveTo10-30",
-    "based-on-jump-down3overnight-trending607-shouldWatchout-first1-tenTo15-30",
-    "based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10-30",
+    'sudden-drops-last10trend-filter20-63',
+    'sudden-drops-last10trend-filter20-63',
 
-    "sudden-drops-last10trend-filter20-63",
-    "sudden-drops-last3trend-filter10-63",
-    "sudden-drops-last50trend-filter10-fiveTo10-388",
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-tenTo15-315',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25-95',
+    'low-float-high-volume-floatTimesabsVolPoints-trend10to15-notWatchout-95',
 
-    "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-6",
-    "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-6",
+    'based-on-jump-fourToEightOvernight-notWatchout-first1-0',
 
-    "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25",
-    "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-fiveTo10-95",
-    "low-float-high-volume-floatTimesabsVolPoints-trendgt10-210",
-    "low-float-high-volume-floatTimesabsVolPoints-trendgt10-315",
-
-    "dynamo-3000-middle50tso-onlyWatchout-highestYP-4",
-    "dynamo-3000-bottom50tso-shouldWatchout-highestTSO-100",
-    
-    // double power!
-    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
-    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
-
-    "based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30",
-    "based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30",
-
-    "sudden-drops-last1trend-first1-280",
-    "sudden-drops-last1trend-first1-280",
-
-    // triple power
-    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
-    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
-    "based-on-jump-fourToEightOvernight-notWatchout-first1-0",
-
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
-    "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10-5",
+    'dynamo-3000-top50tso-onlyWatchout-highestTSO-200',
+    'based-on-jump-down3overnight-trending607-first1-tenTo15-16',
+    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-5',
+    'based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-0',
+    'based-on-jump-down3overnight-trending607-first3-tenTo15-16',
+    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
+    'based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10-30',
+    'dynamo-3000-top50tso-onlyWatchout-highestYP-tenTo15-4',
+    'constant-risers-5minute-percUpHighClosePoints-filtered50-140'
 
     // short sell / buy put option / sell call option:
     // based-on-jump-gtEightOvernight-trending53-first1-5
