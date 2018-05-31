@@ -87,7 +87,7 @@ const forPurchase = [
 
     // how about?
     // based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-30
-    
+
     // short sell / buy put option / sell call option:
     // based-on-jump-gtEightOvernight-trending53-first1-5
     // based-on-jump-gtEightOvernight-shouldWatchout-5
@@ -107,7 +107,12 @@ module.exports = {
     forPurchase,
     // purchase: hotStrats,
     email: {
-        [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: forPurchase,
+        [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: [
+            ...forPurchase,
+            // for shorting
+            'based-on-jump-gtEightOvernight-trending53-first1-5',
+            'based-on-jump-gtEightOvernight-shouldWatchout-5',
+        ],
         ...cheapestPicksEmailObj
     },
     extras: {
