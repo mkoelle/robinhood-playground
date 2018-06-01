@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.17
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NLST",
+      "price": 0.1683
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NLST",
+      "price": 0.1605
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.9599
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KTOV",
+      "price": 2.31
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1645
+    }
+  ]
+}

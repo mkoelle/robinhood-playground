@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "MARPS",
+      "price": 3.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 3.9
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.9659
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 3.8989
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.926
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 3.8989
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.99
+    }
+  ]
+}

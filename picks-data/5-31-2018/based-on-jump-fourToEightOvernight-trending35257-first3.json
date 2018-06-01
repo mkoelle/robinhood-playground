@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "BDR",
+      "price": 1.339
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BDR",
+      "price": 1.339
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.9659
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BDR",
+      "price": 1.3136
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.926
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BDR",
+      "price": 1.3473
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.99
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 6.67
+    },
+    {
+      "ticker": "JILL",
+      "price": 7.7512
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 6.42
+    },
+    {
+      "ticker": "JILL",
+      "price": 7.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 6.5973
+    },
+    {
+      "ticker": "JILL",
+      "price": 7.45
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 6.99
+    },
+    {
+      "ticker": "JILL",
+      "price": 7.51
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.82
+    }
+  ]
+}

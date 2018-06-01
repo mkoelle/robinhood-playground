@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 2.8
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.6346
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 2.775
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.3351
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENSV",
+      "price": 1.39
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.796
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NOG",
+      "price": 2.77
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENSV",
+      "price": 1.37
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GVP",
+      "price": 3.1255
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.715
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GVP",
+      "price": 3.1255
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.37
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 6.4099
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.5301
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 5.506
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.405
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.515
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 6.36
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.54
+    }
+  ]
+}

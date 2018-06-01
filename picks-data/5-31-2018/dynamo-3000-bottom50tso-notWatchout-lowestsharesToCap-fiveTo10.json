@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCPH",
+      "price": 9.42
+    },
+    {
+      "ticker": "GFN",
+      "price": 10.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SCPH",
+      "price": 8.98
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PCYO",
+      "price": 9.5
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PCYO",
+      "price": 9.4
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCYO",
+      "price": 9.2
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2561
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCYO",
+      "price": 9.2
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2561
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRR",
+      "price": 9.59
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.4
+    }
+  ]
+}

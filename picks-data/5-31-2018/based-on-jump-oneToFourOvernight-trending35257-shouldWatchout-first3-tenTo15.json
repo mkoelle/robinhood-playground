@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "DDD",
+      "price": 12.72
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.45
+    },
+    {
+      "ticker": "ARWR",
+      "price": 11.1598
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDD",
+      "price": 12.84
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.47
+    },
+    {
+      "ticker": "ARWR",
+      "price": 11.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DDD",
+      "price": 12.744
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.58
+    },
+    {
+      "ticker": "ARWR",
+      "price": 11.41
+    }
+  ]
+}

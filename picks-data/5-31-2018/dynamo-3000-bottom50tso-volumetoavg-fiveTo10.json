@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GFN",
+      "price": 10.2
+    },
+    {
+      "ticker": "SND",
+      "price": 6.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 8.8925
+    },
+    {
+      "ticker": "NL",
+      "price": 9.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASLN",
+      "price": 8.24
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.0525
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXPR",
+      "price": 8.63
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EXPR",
+      "price": 8.38
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLSD",
+      "price": 9.51
+    },
+    {
+      "ticker": "CASI",
+      "price": 6.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLSD",
+      "price": 9.8201
+    },
+    {
+      "ticker": "RRD",
+      "price": 6.225
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "0": [
+    {
+      "ticker": "DDD",
+      "price": 12.72
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDD",
+      "price": 12.84
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DDD",
+      "price": 12.744
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.58
+    }
+  ]
+}

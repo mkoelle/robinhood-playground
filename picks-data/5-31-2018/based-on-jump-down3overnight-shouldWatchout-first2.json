@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SGLB",
+      "price": 1.7
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.7773
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QTM",
+      "price": 2.75
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.6852
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QTM",
+      "price": 2.78
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QTM",
+      "price": 2.7801
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.7384
+    }
+  ]
+}

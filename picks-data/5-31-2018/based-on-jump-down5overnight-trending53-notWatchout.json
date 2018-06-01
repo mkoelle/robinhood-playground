@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ELON",
+      "price": 4.11
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELON",
+      "price": 4.11
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.6131
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELON",
+      "price": 4.11
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.6131
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELON",
+      "price": 4.11
+    },
+    {
+      "ticker": "RCG",
+      "price": 1.63
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.364
+    }
+  ]
+}

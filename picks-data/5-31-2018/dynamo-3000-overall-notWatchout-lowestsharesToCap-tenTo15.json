@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.89
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.64
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.87
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.7946
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GTES",
+      "price": 14.92
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.969
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTES",
+      "price": 14.72
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.795
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GTES",
+      "price": 14.645
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GTES",
+      "price": 14.84
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNNA",
+      "price": 14.9
+    },
+    {
+      "ticker": "GTES",
+      "price": 14.875
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TGA",
+      "price": 2.54
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.429
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 2.4
+    },
+    {
+      "ticker": "UONE",
+      "price": 3.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JASN",
+      "price": 2.98
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JASN",
+      "price": 2.97
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MEIP",
+      "price": 3.51
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JASN",
+      "price": 2.98
+    },
+    {
+      "ticker": "KTOV",
+      "price": 3.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KTOV",
+      "price": 2.93
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.26
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AIPT",
+      "price": 1.1517
+    },
+    {
+      "ticker": "CMU",
+      "price": 4.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SID",
+      "price": 2.04
+    },
+    {
+      "ticker": "XBIT",
+      "price": 4.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NYMX",
+      "price": 3.6
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.421
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PULM",
+      "price": 0.4565
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSU",
+      "price": 3.19
+    },
+    {
+      "ticker": "ANW",
+      "price": 3.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCCL",
+      "price": 1.56
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCCL",
+      "price": 1.56
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.785
+    }
+  ]
+}

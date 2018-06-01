@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CYRX",
+      "price": 12.42
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 13.686
+    },
+    {
+      "ticker": "ATTU",
+      "price": 11.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 13.525
+    },
+    {
+      "ticker": "GFN",
+      "price": 10.4502
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAT",
+      "price": 13.419
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.8999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USAT",
+      "price": 13.475
+    },
+    {
+      "ticker": "AMRC",
+      "price": 12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "USAT",
+      "price": 13.375
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USAT",
+      "price": 13.425
+    },
+    {
+      "ticker": "AMRC",
+      "price": 11.95
+    }
+  ]
+}

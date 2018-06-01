@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBL",
+      "price": 5.23
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.2292
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 7.845
+    },
+    {
+      "ticker": "MRNS",
+      "price": 6.1801
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFM",
+      "price": 6.6415
+    },
+    {
+      "ticker": "HYB",
+      "price": 8.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NCV",
+      "price": 6.88
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.3299
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LSCC",
+      "price": 5.73
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.489
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMFN",
+      "price": 9.5361
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPI",
+      "price": 8.495
+    },
+    {
+      "ticker": "OXSQ",
+      "price": 7.14
+    }
+  ]
+}

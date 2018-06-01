@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "NTWK",
+      "price": 6.16
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.46
+    },
+    {
+      "ticker": "PRGX",
+      "price": 9.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRGX",
+      "price": 10
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.2169
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.3499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFIL",
+      "price": 7.25
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.31
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.6865
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFIL",
+      "price": 7.27
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.275
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.5275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTWK",
+      "price": 6.25
+    },
+    {
+      "ticker": "RFIL",
+      "price": 7.2
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTWK",
+      "price": 6.25
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5
+    },
+    {
+      "ticker": "HWCC",
+      "price": 8.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTWK",
+      "price": 6.35
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5
+    },
+    {
+      "ticker": "HWCC",
+      "price": 8.3
+    }
+  ]
+}

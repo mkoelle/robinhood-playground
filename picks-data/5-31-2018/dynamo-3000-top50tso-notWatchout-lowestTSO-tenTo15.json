@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NTRA",
+      "price": 11.81
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.82
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AAC",
+      "price": 10.955
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.145
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EMO",
+      "price": 11.17
+    },
+    {
+      "ticker": "MCBC",
+      "price": 12.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NMI",
+      "price": 11.51
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAKE",
+      "price": 14.4
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIG",
+      "price": 12.635
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.938
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TACT",
+      "price": 10.85
+    },
+    {
+      "ticker": "CHIE",
+      "price": 13.3
+    }
+  ]
+}

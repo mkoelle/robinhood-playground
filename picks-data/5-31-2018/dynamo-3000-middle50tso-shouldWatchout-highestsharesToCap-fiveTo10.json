@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBL",
+      "price": 5.23
+    },
+    {
+      "ticker": "FMSA",
+      "price": 5.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBL",
+      "price": 5.245
+    },
+    {
+      "ticker": "LYTS",
+      "price": 5.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDWD",
+      "price": 6.59
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6.5601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLNK",
+      "price": 5.21
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.47
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMP",
+      "price": 5.101
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSTM",
+      "price": 5.55
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATOM",
+      "price": 6.01
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.785
+    }
+  ]
+}

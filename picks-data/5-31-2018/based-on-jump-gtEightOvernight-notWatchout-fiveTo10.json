@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 6.67
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 6.42
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 6.5973
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 6.99
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.8527
+    }
+  ]
+}

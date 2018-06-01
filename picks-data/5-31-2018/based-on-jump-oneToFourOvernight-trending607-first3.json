@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.9254
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.253
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.8
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.22
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.248
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.84
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.19
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2481
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.858
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.18
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2506
+    }
+  ]
+}

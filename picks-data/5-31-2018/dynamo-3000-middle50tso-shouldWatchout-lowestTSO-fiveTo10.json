@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTGX",
+      "price": 7.2
+    },
+    {
+      "ticker": "INSY",
+      "price": 6.7966
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBL",
+      "price": 5.245
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDWD",
+      "price": 6.59
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIX",
+      "price": 5.47
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 7.985
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGCY",
+      "price": 5.83
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 7.985
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PVG",
+      "price": 7.23
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IOTS",
+      "price": 9.025
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.785
+    }
+  ]
+}

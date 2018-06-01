@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BPMX",
+      "price": 0.253
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BPMX",
+      "price": 0.248
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2481
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.1401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2506
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.2
+    }
+  ]
+}

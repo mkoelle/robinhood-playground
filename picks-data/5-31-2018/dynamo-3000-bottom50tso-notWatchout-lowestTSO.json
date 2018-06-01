@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAKD",
+      "price": 1.4087
+    },
+    {
+      "ticker": "CBK",
+      "price": 0.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NBY",
+      "price": 2.15
+    },
+    {
+      "ticker": "CBK",
+      "price": 0.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NBY",
+      "price": 2.1472
+    },
+    {
+      "ticker": "CBK",
+      "price": 0.796
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5533
+    },
+    {
+      "ticker": "NBY",
+      "price": 2.1792
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5487
+    },
+    {
+      "ticker": "CBK",
+      "price": 0.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FSNN",
+      "price": 3.95
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FSNN",
+      "price": 3.9
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5402
+    }
+  ]
+}

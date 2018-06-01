@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JILL",
+      "price": 7.7512
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JILL",
+      "price": 7.71
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JILL",
+      "price": 7.45
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JILL",
+      "price": 7.51
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.8527
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AGLE",
+      "price": 10.47
+    },
+    {
+      "ticker": "ASYS",
+      "price": 10.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.4995
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.44
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.58
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.54
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.655
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.45
+    }
+  ]
+}

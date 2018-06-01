@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRVS",
+      "price": 12.8856
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLSD",
+      "price": 11.215
+    },
+    {
+      "ticker": "NES",
+      "price": 13.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLSD",
+      "price": 11.035
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.4101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLSD",
+      "price": 10.705
+    },
+    {
+      "ticker": "NES",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLSD",
+      "price": 10.43
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVRA",
+      "price": 10.19
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGL",
+      "price": 10.8001
+    },
+    {
+      "ticker": "SVRA",
+      "price": 10.15
+    }
+  ]
+}

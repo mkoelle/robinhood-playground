@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HEB",
+      "price": 0.3157
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.8925
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.3197
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.8925
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.7965
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.31
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.8925
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.7965
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.3101
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.8925
+    },
+    {
+      "ticker": "INTX",
+      "price": 2.34
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.704
+    }
+  ]
+}

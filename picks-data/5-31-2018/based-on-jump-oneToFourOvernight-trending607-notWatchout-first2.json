@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.9254
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8293
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.8
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.84
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.858
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.18
+    }
+  ]
+}

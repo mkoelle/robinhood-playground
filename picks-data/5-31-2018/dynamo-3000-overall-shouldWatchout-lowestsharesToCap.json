@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRIS",
+      "price": 2.6
+    },
+    {
+      "ticker": "HK",
+      "price": 4.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRIS",
+      "price": 2.5
+    },
+    {
+      "ticker": "PTI",
+      "price": 4.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRIS",
+      "price": 2.7392
+    },
+    {
+      "ticker": "PTI",
+      "price": 4.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRIS",
+      "price": 2.7831
+    },
+    {
+      "ticker": "HK",
+      "price": 4.945
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRIS",
+      "price": 3.139
+    },
+    {
+      "ticker": "HK",
+      "price": 4.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRIS",
+      "price": 2.78
+    },
+    {
+      "ticker": "IDT",
+      "price": 4.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRIS",
+      "price": 2.79
+    },
+    {
+      "ticker": "IDT",
+      "price": 4.99
+    }
+  ]
+}

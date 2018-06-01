@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CLSD",
+      "price": 11.0001
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLSD",
+      "price": 10.7
+    },
+    {
+      "ticker": "CBB",
+      "price": 11.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.48
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ECYT",
+      "price": 13.47
+    },
+    {
+      "ticker": "HRG",
+      "price": 12.595
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.025
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRIS",
+      "price": 2.6
+    },
+    {
+      "ticker": "XELA",
+      "price": 4.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XELA",
+      "price": 4.555
+    },
+    {
+      "ticker": "OTIC",
+      "price": 4.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRIS",
+      "price": 2.7392
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.799
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRIS",
+      "price": 2.7831
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.7999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRIS",
+      "price": 3.139
+    },
+    {
+      "ticker": "ELON",
+      "price": 4.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRIS",
+      "price": 2.78
+    },
+    {
+      "ticker": "ELON",
+      "price": 4.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRIS",
+      "price": 2.79
+    },
+    {
+      "ticker": "ELON",
+      "price": 4.37
+    }
+  ]
+}

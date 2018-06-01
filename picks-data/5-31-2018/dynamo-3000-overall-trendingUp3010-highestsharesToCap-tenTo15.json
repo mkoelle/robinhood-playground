@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FNKO",
+      "price": 10.06
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RMT",
+      "price": 10.2
+    },
+    {
+      "ticker": "FNKO",
+      "price": 10.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RMT",
+      "price": 10.1501
+    },
+    {
+      "ticker": "FNKO",
+      "price": 10.0301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMT",
+      "price": 10.15
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RMT",
+      "price": 10.1215
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RMT",
+      "price": 10.1258
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.109
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RMT",
+      "price": 10.1266
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.0498
+    }
+  ]
+}

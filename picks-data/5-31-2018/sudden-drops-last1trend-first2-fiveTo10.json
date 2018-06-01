@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "EXPR",
+      "price": 9.14
+    },
+    {
+      "ticker": "LGCY",
+      "price": 5.84
+    }
+  ],
+  "32": [
+    {
+      "ticker": "GEMP",
+      "price": 5.96
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.815
+    }
+  ],
+  "63": [
+    {
+      "ticker": "VKTX",
+      "price": 9.29
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.451
+    }
+  ],
+  "221": [
+    {
+      "ticker": "ARCO",
+      "price": 7.5
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.51
+    }
+  ],
+  "280": [
+    {
+      "ticker": "TPIV",
+      "price": 5.8
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.18
+    }
+  ],
+  "328": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4452
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.66
+    }
+  ],
+  "388": [
+    {
+      "ticker": "OPHC",
+      "price": 5.2
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.23
+    }
+  ]
+}

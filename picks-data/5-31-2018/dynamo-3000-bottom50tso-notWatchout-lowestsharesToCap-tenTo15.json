@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTTR",
+      "price": 14.62
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRAC",
+      "price": 14.7946
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GTES",
+      "price": 14.92
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTES",
+      "price": 14.72
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GTES",
+      "price": 14.645
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.61
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GTES",
+      "price": 14.84
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GTES",
+      "price": 14.875
+    },
+    {
+      "ticker": "NWSA",
+      "price": 15.015
+    }
+  ]
+}

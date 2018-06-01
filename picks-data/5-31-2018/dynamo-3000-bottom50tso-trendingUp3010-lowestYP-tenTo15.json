@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKRX",
+      "price": 14.25
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AKRX",
+      "price": 14.03
+    },
+    {
+      "ticker": "CSU",
+      "price": 10.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKRX",
+      "price": 14
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKRX",
+      "price": 13.99
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKRX",
+      "price": 14.045
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKRX",
+      "price": 14.0624
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKRX",
+      "price": 13.98
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.58
+    }
+  ]
+}

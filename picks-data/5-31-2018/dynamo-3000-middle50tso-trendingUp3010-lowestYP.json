@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CFMS",
+      "price": 1.3705
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.395
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPAH",
+      "price": 2.66
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4501
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPEX",
+      "price": 1.0577
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPGN",
+      "price": 2.1914
+    },
+    {
+      "ticker": "NOVN",
+      "price": 3.1732
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGO",
+      "price": 1.14
+    },
+    {
+      "ticker": "NOVN",
+      "price": 3.1732
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ODP",
+      "price": 2.365
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.7595
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOVN",
+      "price": 3.17
+    },
+    {
+      "ticker": "NAUH",
+      "price": 1.1357
+    }
+  ]
+}

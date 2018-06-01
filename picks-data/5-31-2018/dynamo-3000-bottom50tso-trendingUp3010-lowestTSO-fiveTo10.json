@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "YRIV",
+      "price": 8.6249
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.9499
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 8.8925
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.251
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASLN",
+      "price": 8.24
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.885
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXPR",
+      "price": 8.63
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.2561
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EXPR",
+      "price": 8.38
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.456
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLSD",
+      "price": 9.51
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.405
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLSD",
+      "price": 9.8201
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.505
+    }
+  ]
+}

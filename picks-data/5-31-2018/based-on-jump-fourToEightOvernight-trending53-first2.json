@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KTOV",
+      "price": 2.3
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KTOV",
+      "price": 2.3095
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1683
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KTOV",
+      "price": 2.3089
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1605
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KTOV",
+      "price": 2.31
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1645
+    }
+  ]
+}

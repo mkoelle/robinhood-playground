@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.17
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NLST",
+      "price": 0.1683
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.98
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.472
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.8777
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NLST",
+      "price": 0.1605
+    },
+    {
+      "ticker": "SESN",
+      "price": 1.9599
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.4416
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KTOV",
+      "price": 2.31
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1645
+    },
+    {
+      "ticker": "SESN",
+      "price": 2.08
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.4062
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.695
+    }
+  ]
+}

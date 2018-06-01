@@ -1,0 +1,62 @@
+{
+  "10": [
+    {
+      "ticker": "GBR",
+      "price": 1.481
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.14
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GBR",
+      "price": 1.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 1.4799
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.1914
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.86
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GBR",
+      "price": 1.45
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.1505
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ENG",
+      "price": 1.18
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.1507
+    }
+  ],
+  "600": [
+    {
+      "ticker": "OPGN",
+      "price": 2.14
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.91
+    }
+  ]
+}

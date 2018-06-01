@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SGLB",
+      "price": 1.7
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.9397
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2501
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGLB",
+      "price": 1.6852
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.945
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.249
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CBK",
+      "price": 0.83
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.82
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CBK",
+      "price": 0.7939
+    },
+    {
+      "ticker": "QTM",
+      "price": 2.7801
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.7384
+    }
+  ]
+}

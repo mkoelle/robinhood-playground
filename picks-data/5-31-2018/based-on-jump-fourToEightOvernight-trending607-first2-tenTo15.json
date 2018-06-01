@@ -1,0 +1,32 @@
+{
+  "0": [
+    {
+      "ticker": "KIRK",
+      "price": 12.19
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KIRK",
+      "price": 12.86
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.245
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIRK",
+      "price": 13.296
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.3925
+    }
+  ]
+}

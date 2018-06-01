@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VSTM",
+      "price": 5.57
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.105
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGMA",
+      "price": 6.9
+    },
+    {
+      "ticker": "METC",
+      "price": 8.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LLEX",
+      "price": 6.08
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APOP",
+      "price": 7.4875
+    },
+    {
+      "ticker": "KOS",
+      "price": 7.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFIL",
+      "price": 7.2
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.6707
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFIL",
+      "price": 7.21
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.6707
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFIN",
+      "price": 8.6707
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.45
+    }
+  ]
+}

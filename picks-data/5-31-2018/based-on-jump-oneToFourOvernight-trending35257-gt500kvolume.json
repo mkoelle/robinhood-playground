@@ -1,0 +1,37 @@
+{
+  "0": [
+    {
+      "ticker": "ANY",
+      "price": 0.5871
+    }
+  ],
+  "5": [],
+  "16": [
+    {
+      "ticker": "ANY",
+      "price": 0.57
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.3363
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2506
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5935
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.59
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.4
+    }
+  ]
+}

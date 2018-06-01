@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 6.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENPH",
+      "price": 6.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLNK",
+      "price": 7.3653
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.346
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLNK",
+      "price": 7.3
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.09
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBL",
+      "price": 5.23
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EAD",
+      "price": 8.015
+    },
+    {
+      "ticker": "KYE",
+      "price": 9.5896
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFM",
+      "price": 6.6415
+    },
+    {
+      "ticker": "CALL",
+      "price": 8.4965
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DAIO",
+      "price": 6.9195
+    },
+    {
+      "ticker": "NCV",
+      "price": 6.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENY",
+      "price": 8.04
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.7855
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMFN",
+      "price": 9.5361
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPI",
+      "price": 8.495
+    },
+    {
+      "ticker": "ICCC",
+      "price": 7.02
+    }
+  ]
+}

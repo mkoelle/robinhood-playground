@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NEON",
+      "price": 0.3699
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WWR",
+      "price": 0.3914
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.364
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SAUC",
+      "price": 1.24
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SAUC",
+      "price": 1.24
+    },
+    {
+      "ticker": "NVLN",
+      "price": 4.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    },
+    {
+      "ticker": "NVLN",
+      "price": 4.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLIN",
+      "price": 1.46
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    }
+  ]
+}

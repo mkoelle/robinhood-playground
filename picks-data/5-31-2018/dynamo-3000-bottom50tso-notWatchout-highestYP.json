@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 4.67
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.4087
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAKD",
+      "price": 1.44
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.6444
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCLI",
+      "price": 4.6675
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FSNN",
+      "price": 4.22
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPHS",
+      "price": 3.67
+    },
+    {
+      "ticker": "FSNN",
+      "price": 4.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRX",
+      "price": 0.54
+    },
+    {
+      "ticker": "OCC",
+      "price": 2.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRX",
+      "price": 0.5475
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.05
+    }
+  ]
+}

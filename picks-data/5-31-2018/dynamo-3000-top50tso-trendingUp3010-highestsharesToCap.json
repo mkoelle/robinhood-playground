@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 1.498
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.5948
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HGSH",
+      "price": 1.739
+    },
+    {
+      "ticker": "CREG",
+      "price": 1.889
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4122
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2765
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2812
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4174
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2657
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.436
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BPMX",
+      "price": 0.28
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4424
+    }
+  ]
+}

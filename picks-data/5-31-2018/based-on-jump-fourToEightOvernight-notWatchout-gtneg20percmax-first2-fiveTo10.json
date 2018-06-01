@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 5.7801
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.75
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.6728
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.87
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.6
+    }
+  ]
+}

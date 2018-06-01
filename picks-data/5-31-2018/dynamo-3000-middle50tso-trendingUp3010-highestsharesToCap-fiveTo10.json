@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "S",
+      "price": 5.19
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBL",
+      "price": 5.245
+    },
+    {
+      "ticker": "GPRO",
+      "price": 5.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FOMX",
+      "price": 5.35
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.187
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATOM",
+      "price": 6.01
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.73
+    }
+  ]
+}

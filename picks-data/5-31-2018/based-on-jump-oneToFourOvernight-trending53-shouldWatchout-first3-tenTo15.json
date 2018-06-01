@@ -1,0 +1,44 @@
+{
+  "0": [
+    {
+      "ticker": "AMEH",
+      "price": 13.55
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.22
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMEH",
+      "price": 13.9
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.22
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMEH",
+      "price": 13.58
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.45
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.744
+    }
+  ]
+}

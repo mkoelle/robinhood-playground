@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ANY",
+      "price": 0.5805
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.4087
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODX",
+      "price": 2.8538
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.6016
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALN",
+      "price": 0.1611
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.7935
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AEZS",
+      "price": 2.259
+    },
+    {
+      "ticker": "CODX",
+      "price": 2.7201
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CODX",
+      "price": 2.68
+    },
+    {
+      "ticker": "AEZS",
+      "price": 2.3382
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANY",
+      "price": 0.586
+    },
+    {
+      "ticker": "OCC",
+      "price": 2.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANY",
+      "price": 0.5828
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.5601
+    }
+  ]
+}

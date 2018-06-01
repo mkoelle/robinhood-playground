@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HEB",
+      "price": 0.3197
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3699
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.231
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.253
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2223
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.261
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.222
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.255
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2281
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3169
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.222
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2281
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2465
+    }
+  ]
+}

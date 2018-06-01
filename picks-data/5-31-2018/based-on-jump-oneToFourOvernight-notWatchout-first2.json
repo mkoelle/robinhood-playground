@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.9254
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCON",
+      "price": 0.9
+    },
+    {
+      "ticker": "SPHS",
+      "price": 3.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CUI",
+      "price": 2.91
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CUI",
+      "price": 2.91
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9
+    }
+  ]
+}

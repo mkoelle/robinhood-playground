@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OGEN",
+      "price": 1.81
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZSAN",
+      "price": 4.24
+    },
+    {
+      "ticker": "CREG",
+      "price": 1.889
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4122
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.799
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AXON",
+      "price": 1.6905
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.445
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AXON",
+      "price": 1.77
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4174
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AXON",
+      "price": 1.6847
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.436
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AXON",
+      "price": 1.71
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.4424
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GORO",
+      "price": 6.2292
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EPM",
+      "price": 9.725
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCRX",
+      "price": 6.5175
+    },
+    {
+      "ticker": "GNRT",
+      "price": 6.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNRT",
+      "price": 6.62
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OXSQ",
+      "price": 7.12
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSTM",
+      "price": 5.55
+    },
+    {
+      "ticker": "SIRI",
+      "price": 7.135
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IOTS",
+      "price": 9.025
+    },
+    {
+      "ticker": "ATOM",
+      "price": 6.01
+    }
+  ]
+}

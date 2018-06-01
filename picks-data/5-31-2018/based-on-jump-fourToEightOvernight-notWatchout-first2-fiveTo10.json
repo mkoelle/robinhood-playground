@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.199
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 5.7801
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.75
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.219
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.87
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.23
+    }
+  ]
+}

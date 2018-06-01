@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBL",
+      "price": 5.23
+    },
+    {
+      "ticker": "FMSA",
+      "price": 5.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 7.845
+    },
+    {
+      "ticker": "LYTS",
+      "price": 5.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DHCP",
+      "price": 6.5601
+    },
+    {
+      "ticker": "MDXG",
+      "price": 8.335
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DAIO",
+      "price": 6.9195
+    },
+    {
+      "ticker": "IFMK",
+      "price": 6.049
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NOK",
+      "price": 5.7855
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QBAK",
+      "price": 9.2
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VHI",
+      "price": 6.45
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.23
+    }
+  ]
+}

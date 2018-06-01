@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASYS",
+      "price": 10.33
+    },
+    {
+      "ticker": "NTRA",
+      "price": 11.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BCOV",
+      "price": 10.425
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MCBC",
+      "price": 12.45
+    },
+    {
+      "ticker": "SRCI",
+      "price": 13.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NMI",
+      "price": 11.51
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LTRPA",
+      "price": 14.525
+    },
+    {
+      "ticker": "PAH",
+      "price": 12.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APB",
+      "price": 14.4279
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 13.67
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.4
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 6.4099
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.5301
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.17
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.4584
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 6.521
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.506
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.24
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.405
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.3653
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.515
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.346
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 6.36
+    },
+    {
+      "ticker": "BLNK",
+      "price": 7.3
+    },
+    {
+      "ticker": "AMR",
+      "price": 6.94
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.54
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.09
+    }
+  ]
+}

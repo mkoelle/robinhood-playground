@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WETF",
+      "price": 10.86
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBAY",
+      "price": 13.28
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.88
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBAY",
+      "price": 13.11
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMRX",
+      "price": 13.08
+    },
+    {
+      "ticker": "LXRX",
+      "price": 11.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LXRX",
+      "price": 11.8399
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LXRX",
+      "price": 11.8
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LXRX",
+      "price": 11.6875
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.84
+    }
+  ]
+}

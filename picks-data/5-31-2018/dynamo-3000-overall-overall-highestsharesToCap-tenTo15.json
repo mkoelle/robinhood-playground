@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USLV",
+      "price": 10.0128
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.0195
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USLV",
+      "price": 10.024
+    },
+    {
+      "ticker": "AP",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DZSI",
+      "price": 10.02
+    },
+    {
+      "ticker": "AP",
+      "price": 10.1687
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DZSI",
+      "price": 10.04
+    },
+    {
+      "ticker": "AP",
+      "price": 10.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DZSI",
+      "price": 10.09
+    },
+    {
+      "ticker": "AP",
+      "price": 10.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DZSI",
+      "price": 10.09
+    },
+    {
+      "ticker": "AP",
+      "price": 10.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DZSI",
+      "price": 10.2
+    },
+    {
+      "ticker": "AP",
+      "price": 10.875
+    }
+  ]
+}

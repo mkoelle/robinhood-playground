@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DDR",
+      "price": 14.94
+    },
+    {
+      "ticker": "IRDM",
+      "price": 14.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DDR",
+      "price": 14.95
+    },
+    {
+      "ticker": "PGRE",
+      "price": 14.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDR",
+      "price": 15
+    },
+    {
+      "ticker": "IRDM",
+      "price": 14.825
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIVO",
+      "price": 14.8
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.6075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APTS",
+      "price": 14.93
+    },
+    {
+      "ticker": "VIVO",
+      "price": 14.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTS",
+      "price": 14.87
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APTS",
+      "price": 14.83
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.88
+    }
+  ]
+}

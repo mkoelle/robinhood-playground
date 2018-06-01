@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.9254
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.829
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.8
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.84
+    },
+    {
+      "ticker": "BORN",
+      "price": 1.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.858
+    },
+    {
+      "ticker": "BORN",
+      "price": 1.4062
+    }
+  ]
+}

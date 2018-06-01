@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 5.6771
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.9
+    },
+    {
+      "ticker": "PPIH",
+      "price": 9.774
+    },
+    {
+      "ticker": "AMSC",
+      "price": 7
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 5.51
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.9
+    },
+    {
+      "ticker": "PPIH",
+      "price": 9.774
+    },
+    {
+      "ticker": "AMSC",
+      "price": 7
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 5.5
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.5001
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.82
+    },
+    {
+      "ticker": "PPIH",
+      "price": 9.8
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 5.5
+    },
+    {
+      "ticker": "MOTS",
+      "price": 5.681
+    },
+    {
+      "ticker": "SSW",
+      "price": 8.79
+    },
+    {
+      "ticker": "PPIH",
+      "price": 9.8
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.75
+    }
+  ]
+}

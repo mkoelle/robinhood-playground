@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.13
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.13
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.114
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5402
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.11
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.542
+    }
+  ]
+}

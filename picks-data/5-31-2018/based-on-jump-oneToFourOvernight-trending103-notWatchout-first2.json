@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPHS",
+      "price": 3.9254
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 3.8
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.681
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 3.84
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.755
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 3.858
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.5762
+    }
+  ]
+}

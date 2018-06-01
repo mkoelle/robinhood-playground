@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "VTVT",
+      "price": 2.25
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VTVT",
+      "price": 2.2
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.7
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VTVT",
+      "price": 2.2365
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.625
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VTVT",
+      "price": 2.1721
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.63
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4174
+    }
+  ]
+}

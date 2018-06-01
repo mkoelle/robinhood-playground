@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EXPR",
+      "price": 8.625
+    },
+    {
+      "ticker": "ASLN",
+      "price": 7.94
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.075
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EXPR",
+      "price": 8.45
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.9
+    },
+    {
+      "ticker": "FTR",
+      "price": 7.2558
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CLSD",
+      "price": 9.925
+    },
+    {
+      "ticker": "EXPR",
+      "price": 8.315
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.85
+    }
+  ]
+}

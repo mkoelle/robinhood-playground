@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TTOO",
+      "price": 8.04
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 5.7801
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.605
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.75
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.87
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.56
+    }
+  ]
+}
