@@ -50,40 +50,18 @@ const myPicks = [
 ];
 
 const forPurchase = [
-    // class a
-    'sudden-drops-last10trend-filter20-63',
-    'sudden-drops-last10trend-filter20-63',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25',
-    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-5',
-    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-5',
+    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-16',
+    'based-on-jump-down3overnight-trending35257-notWatchout-first1-0',
+    'based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-16',
+    'based-on-jump-down3overnight-trending35257-notWatchout-first1-0',
 
-    // class b
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-tenTo15-315',
-    'based-on-jump-down3overnight-trending607-first1-tenTo15-16',
-    'dynamo-3000-top50tso-onlyWatchout-highestYP-tenTo15-4',
-    'sudden-drops-last5trend-filter20-32',
-    'sudden-drops-last3trend-filter10-63',
-    'sudden-drops-last10trend-filter30-63',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown5to7-notWatchout-fiveTo10-6',
 
-    // risky
-    'based-on-jump-fourToEightOvernight-notWatchout-first1-0',
-
-    // old faithful
-    'dynamo-3000-top50tso-onlyWatchout-highestTSO-200',
-    'dynamo-3000-top50tso-onlyWatchout-highestTSO-200',
-
-    // not enough info
-    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210',
-    'based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10-30',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25-95',
-    'low-float-high-volume-floatTimesabsVolPoints-trend10to15-notWatchout-95',
-    'based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1-30',
-
-    // who knows
+    'constant-risers-5minute-percUpCloseOnlyPoints-filtered60-80',
     'constant-risers-5minute-percUpHighClosePoints-filtered50-140',
-    'based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-0',
-    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
+
+    'dynamo-3000-top50tso-onlyWatchout-highestTSO-200',
+    'dynamo-3000-top50tso-onlyWatchout-highestTSO-200'
 
     // how about?
     // based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10-30
