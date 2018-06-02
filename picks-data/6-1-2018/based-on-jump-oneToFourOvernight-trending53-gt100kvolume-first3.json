@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKER",
+      "price": 0.48
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.72
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.289
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.4539
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.739
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.6447
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.5196
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.88
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.1766
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.5252
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.86
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.189
+    }
+  ]
+}

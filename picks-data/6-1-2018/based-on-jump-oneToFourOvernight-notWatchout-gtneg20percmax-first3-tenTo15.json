@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AROC",
+      "price": 11.65
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.925
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.935
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.25
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.9461
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AROC",
+      "price": 11.7
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.25
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.94
+    }
+  ]
+}

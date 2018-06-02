@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JAGX",
+      "price": 1.8867
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JAGX",
+      "price": 3.2
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JAGX",
+      "price": 2.34
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JAGX",
+      "price": 2.14
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.1032
+    }
+  ]
+}

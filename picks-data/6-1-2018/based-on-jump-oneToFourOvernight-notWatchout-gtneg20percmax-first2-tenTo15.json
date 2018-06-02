@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AROC",
+      "price": 11.65
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AROC",
+      "price": 11.7
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.25
+    }
+  ]
+}

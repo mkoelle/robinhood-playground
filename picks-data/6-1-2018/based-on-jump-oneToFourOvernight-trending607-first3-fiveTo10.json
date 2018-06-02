@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "YRIV",
+      "price": 9.9
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5065
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.5122
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YRIV",
+      "price": 10
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.34
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.5122
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4348
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.4104
+    },
+    {
+      "ticker": "GRX",
+      "price": 9.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.3
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.7875
+    },
+    {
+      "ticker": "GRX",
+      "price": 9.8
+    }
+  ]
+}

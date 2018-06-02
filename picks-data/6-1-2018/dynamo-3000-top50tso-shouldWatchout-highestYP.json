@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEN",
+      "price": 2.15
+    },
+    {
+      "ticker": "OSG",
+      "price": 3.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MEIP",
+      "price": 3.5
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEN",
+      "price": 2.19
+    },
+    {
+      "ticker": "SMRT",
+      "price": 3.085
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEN",
+      "price": 2.205
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 2.24
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 2.2
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.3668
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BDR",
+      "price": 1.3872
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.19
+    }
+  ]
+}

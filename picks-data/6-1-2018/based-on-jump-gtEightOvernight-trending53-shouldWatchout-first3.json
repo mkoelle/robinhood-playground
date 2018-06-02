@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.1935
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NLST",
+      "price": 0.21
+    },
+    {
+      "ticker": "XBIO",
+      "price": 1.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NLST",
+      "price": 0.2303
+    },
+    {
+      "ticker": "XBIO",
+      "price": 1.6395
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NLST",
+      "price": 0.2266
+    },
+    {
+      "ticker": "XBIO",
+      "price": 1.64
+    }
+  ]
+}

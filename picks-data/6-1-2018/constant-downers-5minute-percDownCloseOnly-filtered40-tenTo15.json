@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "WSC",
+      "price": 12.05
+    },
+    {
+      "ticker": "SSFN",
+      "price": 12
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.59
+    },
+    {
+      "ticker": "REW",
+      "price": 12.2179
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSFN",
+      "price": 11.75
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.61
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PFSW",
+      "price": 10.85
+    },
+    {
+      "ticker": "UMRX",
+      "price": 12.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFSW",
+      "price": 10.8548
+    },
+    {
+      "ticker": "UMRX",
+      "price": 12.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFSW",
+      "price": 10.8601
+    },
+    {
+      "ticker": "APB",
+      "price": 14.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELOX",
+      "price": 14.915
+    },
+    {
+      "ticker": "PFSW",
+      "price": 10.9925
+    }
+  ]
+}

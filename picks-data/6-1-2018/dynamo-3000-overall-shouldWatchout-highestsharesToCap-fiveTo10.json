@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLWT",
+      "price": 5.495
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODX",
+      "price": 5.45
+    },
+    {
+      "ticker": "CLWT",
+      "price": 5.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLWT",
+      "price": 5.15
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CODX",
+      "price": 5.3739
+    },
+    {
+      "ticker": "CLWT",
+      "price": 4.863
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CODX",
+      "price": 5.2458
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.0501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRVG",
+      "price": 5.12
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRVG",
+      "price": 5.2734
+    },
+    {
+      "ticker": "PTI",
+      "price": 5.055
+    }
+  ]
+}

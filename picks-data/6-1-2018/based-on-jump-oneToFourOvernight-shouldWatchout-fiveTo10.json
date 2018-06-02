@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    },
+    {
+      "ticker": "YRIV",
+      "price": 9.9
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.12
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.08
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.1
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.075
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSI",
+      "price": 5.175
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.09
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.0697
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.045
+    },
+    {
+      "ticker": "PW",
+      "price": 6.2014
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSI",
+      "price": 5.2
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.15
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.115
+    },
+    {
+      "ticker": "PW",
+      "price": 6.2014
+    }
+  ]
+}

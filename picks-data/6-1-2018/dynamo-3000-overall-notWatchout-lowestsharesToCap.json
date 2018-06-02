@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASPN",
+      "price": 4.97
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.9797
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NRO",
+      "price": 4.95
+    },
+    {
+      "ticker": "CXE",
+      "price": 4.9699
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFIN",
+      "price": 4.95
+    },
+    {
+      "ticker": "NRO",
+      "price": 4.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 4.87
+    },
+    {
+      "ticker": "SKIS",
+      "price": 4.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 4.84
+    },
+    {
+      "ticker": "VTL",
+      "price": 5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TPIV",
+      "price": 4.9261
+    },
+    {
+      "ticker": "SFUN",
+      "price": 4.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TPIV",
+      "price": 4.96
+    },
+    {
+      "ticker": "VTL",
+      "price": 4.95
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 11.95
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 11.775
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.275
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 11.69
+    },
+    {
+      "ticker": "CZR",
+      "price": 12.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "YRIV",
+      "price": 10.46
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.5299
+    }
+  ]
+}

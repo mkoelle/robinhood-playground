@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JAGX",
+      "price": 3.2
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2101
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.227
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODX",
+      "price": 4.98
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHNR",
+      "price": 3.3088
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2537
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHNR",
+      "price": 2.98
+    },
+    {
+      "ticker": "DHX",
+      "price": 3.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHNR",
+      "price": 2.613
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CODX",
+      "price": 4.7801
+    },
+    {
+      "ticker": "DHX",
+      "price": 3.1
+    }
+  ]
+}

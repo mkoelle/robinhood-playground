@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PCOM",
+      "price": 14.4611
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.685
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOI",
+      "price": 14.69
+    },
+    {
+      "ticker": "MVC",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.1298
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 10.1199
+    },
+    {
+      "ticker": "OXLC",
+      "price": 10.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 10.325
+    },
+    {
+      "ticker": "FRA",
+      "price": 14.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBR",
+      "price": 10.055
+    },
+    {
+      "ticker": "NKG",
+      "price": 11.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR",
+      "price": 10.0648
+    },
+    {
+      "ticker": "IAU",
+      "price": 12.405
+    }
+  ]
+}

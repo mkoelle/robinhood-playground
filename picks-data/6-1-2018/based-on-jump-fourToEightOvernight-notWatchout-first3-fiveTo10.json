@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FSP",
+      "price": 7.935
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.35
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FAT",
+      "price": 7.3
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.97
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FAT",
+      "price": 7.3
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.16
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FAT",
+      "price": 7.5
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.22
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.29
+    }
+  ]
+}

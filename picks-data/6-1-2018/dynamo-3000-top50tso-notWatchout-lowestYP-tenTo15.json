@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 13.1
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.125
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 9.95
+    },
+    {
+      "ticker": "GME",
+      "price": 13.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMT",
+      "price": 14.4
+    },
+    {
+      "ticker": "GME",
+      "price": 13.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMT",
+      "price": 14.4
+    },
+    {
+      "ticker": "GME",
+      "price": 13.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMT",
+      "price": 14.495
+    },
+    {
+      "ticker": "GME",
+      "price": 13.495
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMT",
+      "price": 14.335
+    },
+    {
+      "ticker": "GME",
+      "price": 13.6201
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PCOM",
+      "price": 14.4611
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOI",
+      "price": 14.69
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.915
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.37
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.2939
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOI",
+      "price": 14.78
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOI",
+      "price": 14.901
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.3496
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.275
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.45
+    }
+  ]
+}

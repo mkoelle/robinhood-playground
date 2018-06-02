@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TPIV",
+      "price": 5.329
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.0134
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DLNG",
+      "price": 8.155
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.085
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MLNT",
+      "price": 6.975
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CWBR",
+      "price": 7.12
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDSY",
+      "price": 6.18
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CWBR",
+      "price": 7.04
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CWBR",
+      "price": 7.01
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7866
+    }
+  ]
+}

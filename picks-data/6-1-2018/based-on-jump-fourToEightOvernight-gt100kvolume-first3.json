@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 4.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 4.52
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3684
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.5919
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNAT",
+      "price": 4.635
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.355
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.5168
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.77
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.32
+    }
+  ]
+}

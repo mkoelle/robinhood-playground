@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "STCN",
+      "price": 2.051
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AT",
+      "price": 2.075
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.051
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 1.99
+    },
+    {
+      "ticker": "GEC",
+      "price": 3.7999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 1.978
+    },
+    {
+      "ticker": "GEC",
+      "price": 3.7999
+    }
+  ]
+}

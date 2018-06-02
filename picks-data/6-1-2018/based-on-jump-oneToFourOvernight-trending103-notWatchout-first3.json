@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.595
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.5275
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CGEN",
+      "price": 3.75
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.9699
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CGEN",
+      "price": 3.75
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.9899
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.64
+    }
+  ]
+}

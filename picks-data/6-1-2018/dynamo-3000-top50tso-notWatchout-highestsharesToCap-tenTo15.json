@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BCOV",
+      "price": 10.275
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMBA",
+      "price": 10.4253
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.1027
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 9.95
+    },
+    {
+      "ticker": "SMM",
+      "price": 10.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEMI",
+      "price": 10.2
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEMI",
+      "price": 10.2
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCII",
+      "price": 10.01
+    },
+    {
+      "ticker": "PRGX",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCII",
+      "price": 10.08
+    },
+    {
+      "ticker": "FNKO",
+      "price": 10.2105
+    }
+  ]
+}

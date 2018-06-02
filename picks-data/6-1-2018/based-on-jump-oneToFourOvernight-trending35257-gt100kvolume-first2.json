@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MEET",
+      "price": 3.72
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.289
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MEET",
+      "price": 3.739
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.292
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.5196
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.5252
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.4
+    }
+  ]
+}

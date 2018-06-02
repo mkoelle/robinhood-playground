@@ -1,0 +1,46 @@
+{
+  "10": [
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "50": [
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 9.66
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.17
+    }
+  ],
+  "300": [
+    {
+      "ticker": "OPHC",
+      "price": 5.1
+    },
+    {
+      "ticker": "PTGX",
+      "price": 6.99
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OPHC",
+      "price": 5.23
+    }
+  ],
+  "600": [
+    {
+      "ticker": "OPHC",
+      "price": 5.24
+    }
+  ]
+}

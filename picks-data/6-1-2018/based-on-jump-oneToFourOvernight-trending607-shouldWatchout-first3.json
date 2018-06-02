@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 1.15
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1.31
+    },
+    {
+      "ticker": "AXON",
+      "price": 1.7532
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.1983
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1384
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.2398
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.31
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.28
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.31
+    }
+  ]
+}

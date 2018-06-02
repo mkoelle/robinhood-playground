@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 13.1
+    },
+    {
+      "ticker": "KN",
+      "price": 14.69
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.075
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.125
+    },
+    {
+      "ticker": "KN",
+      "price": 14.74
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 13.24
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.24
+    },
+    {
+      "ticker": "SMM",
+      "price": 10.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 13.39
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.275
+    },
+    {
+      "ticker": "VRA",
+      "price": 11.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 13.39
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.3
+    },
+    {
+      "ticker": "VRA",
+      "price": 11.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 13.495
+    },
+    {
+      "ticker": "PRGX",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 13.6201
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.36
+    },
+    {
+      "ticker": "VRA",
+      "price": 12.0299
+    }
+  ]
+}

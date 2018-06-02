@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 11.95
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.0737
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 11.775
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 11.69
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.2
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNAP",
+      "price": 11.5299
+    },
+    {
+      "ticker": "PBR",
+      "price": 12.18
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.24
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.1645
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.815
+    }
+  ]
+}

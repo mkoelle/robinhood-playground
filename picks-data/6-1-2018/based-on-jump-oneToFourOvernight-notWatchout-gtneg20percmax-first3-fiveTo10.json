@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RBS",
+      "price": 7.56
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5065
+    },
+    {
+      "ticker": "KTCC",
+      "price": 8.5645
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RBS",
+      "price": 7.57
+    },
+    {
+      "ticker": "DAVE",
+      "price": 6.9
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RBS",
+      "price": 7.59
+    },
+    {
+      "ticker": "DAVE",
+      "price": 6.9
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.4348
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RBS",
+      "price": 7.6
+    },
+    {
+      "ticker": "DAVE",
+      "price": 6.916
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GREK",
+      "price": 9.37
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GREK",
+      "price": 9.3822
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GREK",
+      "price": 9.45
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GREK",
+      "price": 9.435
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.7
+    }
+  ]
+}

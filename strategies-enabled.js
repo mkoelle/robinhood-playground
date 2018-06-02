@@ -69,6 +69,13 @@ const forPurchase = [
     // short sell / buy put option / sell call option:
     // based-on-jump-gtEightOvernight-trending53-first1-5
     // based-on-jump-gtEightOvernight-shouldWatchout-5
+
+
+    // new list
+    // low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-25
+    // low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to5-shouldWatchout-6
+    // based-on-jump-oneToFourOvernight-trending53-notWatchout-ltneg50percmax-fiveTo10-30
+
 ];
 
 const cheapestPicksEmailObj = [

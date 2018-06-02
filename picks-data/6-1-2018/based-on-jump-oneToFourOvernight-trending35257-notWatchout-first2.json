@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMRN",
+      "price": 3.38
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRN",
+      "price": 3.39
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 1.99
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 1.978
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.4
+    }
+  ]
+}

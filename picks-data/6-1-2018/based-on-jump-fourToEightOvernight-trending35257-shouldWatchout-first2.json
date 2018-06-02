@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 4.53
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 4.52
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3684
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNAT",
+      "price": 4.635
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNAT",
+      "price": 4.77
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.32
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRC",
+      "price": 7.775
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRC",
+      "price": 7.8
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRC",
+      "price": 7.815
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRC",
+      "price": 7.825
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    }
+  ]
+}

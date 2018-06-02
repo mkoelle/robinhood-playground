@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "SRC",
+      "price": 7.775
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.07
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRC",
+      "price": 7.8
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.12
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRC",
+      "price": 7.815
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.0684
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.7301
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRC",
+      "price": 7.825
+    },
+    {
+      "ticker": "TVIX",
+      "price": 5.025
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.7301
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.33
+    }
+  ]
+}

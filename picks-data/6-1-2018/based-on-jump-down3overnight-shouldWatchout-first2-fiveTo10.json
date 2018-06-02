@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TVIX",
+      "price": 5.07
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIX",
+      "price": 5.12
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIX",
+      "price": 5.0684
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.3397
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIX",
+      "price": 5.025
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.33
+    }
+  ]
+}

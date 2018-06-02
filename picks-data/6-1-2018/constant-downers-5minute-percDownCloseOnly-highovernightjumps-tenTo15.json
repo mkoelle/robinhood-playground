@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPNE",
+      "price": 12.29
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.37
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.38
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.285
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.48
+    }
+  ]
+}

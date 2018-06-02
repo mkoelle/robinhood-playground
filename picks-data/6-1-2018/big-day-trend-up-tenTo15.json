@@ -1,0 +1,41 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "GME",
+      "price": 13.29
+    }
+  ],
+  "90": [
+    {
+      "ticker": "MNI",
+      "price": 10.2
+    },
+    {
+      "ticker": "LXRX",
+      "price": 12.12
+    },
+    {
+      "ticker": "GME",
+      "price": 13.255
+    }
+  ],
+  "223": [
+    {
+      "ticker": "LXRX",
+      "price": 12.35
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.21
+    },
+    {
+      "ticker": "GME",
+      "price": 13.46
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.492
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.38
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3684
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.533
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.355
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.9695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.5168
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.32
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.901
+    }
+  ]
+}

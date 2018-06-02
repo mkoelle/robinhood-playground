@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "AMRN",
+      "price": 3.38
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.595
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.051
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRN",
+      "price": 3.39
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.8
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.5275
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.051
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 1.99
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.41
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.75
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.9699
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 1.978
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.4
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.75
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.9899
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.64
+    }
+  ]
+}

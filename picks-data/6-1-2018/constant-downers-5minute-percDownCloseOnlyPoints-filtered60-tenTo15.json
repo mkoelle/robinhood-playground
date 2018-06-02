@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BLFS",
+      "price": 10.32
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.61
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLFS",
+      "price": 10.0785
+    },
+    {
+      "ticker": "DM",
+      "price": 12.725
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.78
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLFS",
+      "price": 10.059
+    },
+    {
+      "ticker": "DM",
+      "price": 12.7
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.55
+    }
+  ]
+}

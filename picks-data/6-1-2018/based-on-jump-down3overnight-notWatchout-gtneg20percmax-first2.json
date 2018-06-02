@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "CORV",
+      "price": 2.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "CORV",
+      "price": 2.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.4325
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMI",
+      "price": 1.36
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.4325
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAVI",
+      "price": 14.12
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.37
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VKTX",
+      "price": 10.21
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.31
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VKTX",
+      "price": 10.56
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.295
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.48
+    }
+  ]
+}

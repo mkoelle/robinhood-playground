@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 1.15
+    },
+    {
+      "ticker": "SUMR",
+      "price": 1.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.1983
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.2398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODA",
+      "price": 4.0123
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.28
+    }
+  ]
+}

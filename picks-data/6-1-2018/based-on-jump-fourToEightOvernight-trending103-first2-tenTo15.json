@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 10.5001
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 10.24
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 10.12
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ]
+}

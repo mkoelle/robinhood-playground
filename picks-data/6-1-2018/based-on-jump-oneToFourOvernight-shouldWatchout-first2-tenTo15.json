@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XIVH",
+      "price": 14.9
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XIVH",
+      "price": 14.9
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XIVH",
+      "price": 14.961
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XIVH",
+      "price": 14.98
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.46
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NDLS",
+      "price": 8.7
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADMA",
+      "price": 5.39
+    },
+    {
+      "ticker": "PES",
+      "price": 5.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 5.39
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 9.66
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 9.99
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMSC",
+      "price": 6.68
+    },
+    {
+      "ticker": "XRM",
+      "price": 7.2862
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PES",
+      "price": 5.35
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.71
+    }
+  ]
+}

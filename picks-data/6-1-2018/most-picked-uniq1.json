@@ -1,0 +1,88 @@
+{
+  "8": [
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5542
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.365
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.6236
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.455
+    }
+  ],
+  "19": [
+    {
+      "ticker": "ROX",
+      "price": 1.28
+    },
+    {
+      "ticker": "FSNN",
+      "price": 4.07
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3377
+    },
+    {
+      "ticker": "SGLB",
+      "price": 1.5638
+    },
+    {
+      "ticker": "GBR",
+      "price": 1.4602
+    }
+  ],
+  "55": [
+    {
+      "ticker": "DHT",
+      "price": 4.18
+    }
+  ],
+  "183": [
+    {
+      "ticker": "DHT",
+      "price": 4.15
+    }
+  ],
+  "236": [
+    {
+      "ticker": "CHNR",
+      "price": 3.19
+    }
+  ],
+  "307": [
+    {
+      "ticker": "CHNR",
+      "price": 2.9557
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.81
+    }
+  ],
+  "387": [
+    {
+      "ticker": "CHNR",
+      "price": 2.4383
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8
+    },
+    {
+      "ticker": "DHT",
+      "price": 4.16
+    }
+  ]
+}

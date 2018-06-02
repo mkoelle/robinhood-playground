@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KIN",
+      "price": 10.2
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MVO",
+      "price": 10.159
+    },
+    {
+      "ticker": "KIN",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGNA",
+      "price": 10.25
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KIN",
+      "price": 10.1
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KRYS",
+      "price": 10.23
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ULBI",
+      "price": 10.15
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MVO",
+      "price": 10.07
+    },
+    {
+      "ticker": "TGNA",
+      "price": 10.185
+    }
+  ]
+}

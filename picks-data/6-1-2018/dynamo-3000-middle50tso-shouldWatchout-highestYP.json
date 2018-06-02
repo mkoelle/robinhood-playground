@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 2.74
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.0585
+    },
+    {
+      "ticker": "TGEN",
+      "price": 3.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APTO",
+      "price": 3.5701
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.0585
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 2.305
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.555
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 2.3
+    },
+    {
+      "ticker": "RLJE",
+      "price": 4.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RLJE",
+      "price": 4.5399
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZDGE",
+      "price": 3.8
+    },
+    {
+      "ticker": "RLJE",
+      "price": 4.52
+    }
+  ]
+}

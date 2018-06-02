@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BLFS",
+      "price": 10.32
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "RKDA",
+      "price": 11.4003
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLFS",
+      "price": 10.0785
+    },
+    {
+      "ticker": "DM",
+      "price": 12.725
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.78
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLFS",
+      "price": 10.059
+    },
+    {
+      "ticker": "CRVS",
+      "price": 13.1
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.55
+    }
+  ]
+}

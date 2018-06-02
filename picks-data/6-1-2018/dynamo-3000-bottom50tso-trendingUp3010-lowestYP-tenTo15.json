@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 11.4682
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.9101
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 11.35
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.1318
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNAP",
+      "price": 11.265
+    },
+    {
+      "ticker": "AP",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKRX",
+      "price": 13.66
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.7451
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLP",
+      "price": 11.45
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.6049
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLP",
+      "price": 11.525
+    },
+    {
+      "ticker": "EVIX",
+      "price": 10.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLP",
+      "price": 11.55
+    },
+    {
+      "ticker": "EVIX",
+      "price": 10.4
+    }
+  ]
+}

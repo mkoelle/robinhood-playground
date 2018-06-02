@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.492
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.3684
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.533
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.5168
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.32
+    }
+  ]
+}

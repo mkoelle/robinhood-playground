@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 0.729
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4618
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.4102
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.3499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AYTU",
+      "price": 0.34
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3398
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3395
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3205
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3365
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3224
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3373
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.325
+    }
+  ]
+}

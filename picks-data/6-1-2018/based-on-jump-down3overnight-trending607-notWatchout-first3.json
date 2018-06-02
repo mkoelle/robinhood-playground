@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ONVO",
+      "price": 1.82
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONVO",
+      "price": 1.8398
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONVO",
+      "price": 1.8962
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.42
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.4325
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONVO",
+      "price": 1.86
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.36
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.4325
+    }
+  ]
+}

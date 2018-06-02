@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 4.53
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 4.52
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNAT",
+      "price": 4.635
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.6001
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNAT",
+      "price": 4.77
+    },
+    {
+      "ticker": "SSKN",
+      "price": 1.64
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 12.9113
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.7908
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELOX",
+      "price": 14.915
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELOX",
+      "price": 14.91
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 10.06
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 10.1832
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECYT",
+      "price": 13.47
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 10.25
+    },
+    {
+      "ticker": "VNCE",
+      "price": 11.2745
+    }
+  ]
+}

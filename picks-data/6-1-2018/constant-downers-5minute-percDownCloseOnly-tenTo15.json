@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SSFN",
+      "price": 12
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.15
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.59
+    },
+    {
+      "ticker": "ACIU",
+      "price": 10.2312
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSFN",
+      "price": 11.75
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.61
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.34
+    }
+  ]
+}

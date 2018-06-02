@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "METC",
+      "price": 8.31
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "METC",
+      "price": 8.23
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "METC",
+      "price": 8.21
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 9.74
+    },
+    {
+      "ticker": "METC",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.29
+    }
+  ]
+}

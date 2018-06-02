@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 11.95
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.795
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 11.775
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.775
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 11.69
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "YRIV",
+      "price": 10.46
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.5299
+    }
+  ]
+}

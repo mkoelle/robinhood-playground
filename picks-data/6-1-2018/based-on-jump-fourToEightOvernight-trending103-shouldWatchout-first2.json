@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AYTU",
+      "price": 0.37
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AYTU",
+      "price": 0.37
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3435
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AYTU",
+      "price": 0.3499
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.77
+    }
+  ]
+}

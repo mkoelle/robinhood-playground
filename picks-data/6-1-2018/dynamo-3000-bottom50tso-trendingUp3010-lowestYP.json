@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ANY",
+      "price": 0.52
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.521
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OGEN",
+      "price": 1.45
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.4352
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANY",
+      "price": 0.52
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.4058
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OGEN",
+      "price": 1.418
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OGEN",
+      "price": 1.4499
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4902
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OGEN",
+      "price": 1.429
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4902
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OGEN",
+      "price": 1.4299
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4899
+    }
+  ]
+}

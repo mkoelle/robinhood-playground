@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.2
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CRVS",
+      "price": 13.355
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.44
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.56
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CRVS",
+      "price": 13.1
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.4
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.415
+    }
+  ]
+}

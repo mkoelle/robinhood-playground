@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 10.5001
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.09
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 10.24
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.085
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 10.12
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.155
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAVI",
+      "price": 14.23
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.54
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKER",
+      "price": 0.48
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.4539
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.739
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.5196
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.5252
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.765
+    }
+  ]
+}

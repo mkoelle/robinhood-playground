@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SVXY",
+      "price": 13.195
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.0737
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVXY",
+      "price": 13.18
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.05
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVXY",
+      "price": 13.2
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.08
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.865
+    }
+  ],
+  "30": [
+    {
+      "ticker": "YRIV",
+      "price": 10.46
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.24
+    },
+    {
+      "ticker": "AGLE",
+      "price": 11.42
+    }
+  ]
+}

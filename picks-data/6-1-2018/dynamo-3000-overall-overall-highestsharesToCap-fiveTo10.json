@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLWT",
+      "price": 5.495
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.0134
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODX",
+      "price": 5.45
+    },
+    {
+      "ticker": "CLWT",
+      "price": 5.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLWT",
+      "price": 5.15
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAZY",
+      "price": 8.75
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.3739
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAZY",
+      "price": 8.75
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.2458
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LAZY",
+      "price": 8.87
+    },
+    {
+      "ticker": "TRVG",
+      "price": 5.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LAZY",
+      "price": 8.9
+    },
+    {
+      "ticker": "TRVG",
+      "price": 5.2734
+    }
+  ]
+}

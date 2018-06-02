@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MSON",
+      "price": 11.875
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.37
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LMB",
+      "price": 11.3237
+    },
+    {
+      "ticker": "AP",
+      "price": 10.1
+    },
+    {
+      "ticker": "LMRK",
+      "price": 13.1857
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GIFI",
+      "price": 10.1
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.25
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.4178
+    }
+  ]
+}

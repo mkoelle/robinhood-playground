@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.492
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.533
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.9695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.5168
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.901
+    }
+  ]
+}

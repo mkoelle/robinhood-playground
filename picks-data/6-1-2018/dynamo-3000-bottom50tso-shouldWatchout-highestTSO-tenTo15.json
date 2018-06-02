@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SWCH",
+      "price": 12.5601
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TWI",
+      "price": 11.58
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAR",
+      "price": 14
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCXI",
+      "price": 12.8
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNAP",
+      "price": 11.455
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECYT",
+      "price": 13.47
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AQ",
+      "price": 11.615
+    },
+    {
+      "ticker": "CDZI",
+      "price": 12.65
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMTA",
+      "price": 13.8711
+    },
+    {
+      "ticker": "TLYS",
+      "price": 13.51
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 12.83
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNAP",
+      "price": 11.265
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 10.1199
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.385
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 10.325
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBR",
+      "price": 10.055
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.4825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR",
+      "price": 10.0648
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.55
+    }
+  ]
+}

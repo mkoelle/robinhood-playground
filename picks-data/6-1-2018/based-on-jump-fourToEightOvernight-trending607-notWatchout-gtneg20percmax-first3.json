@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 3
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.0412
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMP",
+      "price": 2.9
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.0412
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMP",
+      "price": 2.9695
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.1464
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMP",
+      "price": 2.901
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.2689
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SSFN",
+      "price": 12
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.05
+    },
+    {
+      "ticker": "NPV",
+      "price": 12.38
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AP",
+      "price": 10.1
+    },
+    {
+      "ticker": "VNCE",
+      "price": 11.13
+    },
+    {
+      "ticker": "LMRK",
+      "price": 13.1857
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AP",
+      "price": 10.2
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.27
+    },
+    {
+      "ticker": "PCOM",
+      "price": 14.38
+    }
+  ]
+}

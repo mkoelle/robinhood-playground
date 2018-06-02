@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    },
+    {
+      "ticker": "YRIV",
+      "price": 9.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSI",
+      "price": 5.15
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSI",
+      "price": 5.175
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSI",
+      "price": 5.2
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.15
+    }
+  ]
+}

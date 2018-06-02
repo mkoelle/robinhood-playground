@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 11.4682
+    },
+    {
+      "ticker": "PRTA",
+      "price": 13.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 11.35
+    },
+    {
+      "ticker": "INNT",
+      "price": 12.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 11.5
+    },
+    {
+      "ticker": "INNT",
+      "price": 12.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BAS",
+      "price": 12.65
+    },
+    {
+      "ticker": "AKRX",
+      "price": 13.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 12.47
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BAS",
+      "price": 12.4825
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BAS",
+      "price": 12.595
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.55
+    }
+  ]
+}

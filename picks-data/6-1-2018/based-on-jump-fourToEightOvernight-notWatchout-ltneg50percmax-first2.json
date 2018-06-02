@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5522
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5487
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2322
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5474
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.23
+    }
+  ]
+}

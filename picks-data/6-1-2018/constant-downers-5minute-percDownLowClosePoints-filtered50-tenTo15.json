@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BLFS",
+      "price": 10.32
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.68
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NCSM",
+      "price": 14.78
+    },
+    {
+      "ticker": "CRVS",
+      "price": 13.355
+    },
+    {
+      "ticker": "UMH",
+      "price": 14.44
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CRVS",
+      "price": 13.1
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.55
+    },
+    {
+      "ticker": "DM",
+      "price": 12.7
+    }
+  ]
+}

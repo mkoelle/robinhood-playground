@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.45
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.8728
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.41
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.395
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.44
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.87
+    }
+  ]
+}

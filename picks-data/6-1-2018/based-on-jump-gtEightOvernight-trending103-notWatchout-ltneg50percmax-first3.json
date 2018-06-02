@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVLN",
+      "price": 4.6
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVLN",
+      "price": 4.6
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9346
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVLN",
+      "price": 4.5528
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.945
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVLN",
+      "price": 4.51
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9401
+    }
+  ]
+}

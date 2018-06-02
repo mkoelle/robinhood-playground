@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DWT",
+      "price": 8.9665
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.0155
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 6.35
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RARX",
+      "price": 7.04
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSUM",
+      "price": 6.94
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.855
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEMP",
+      "price": 6.549
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.0169
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 6.7
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWT",
+      "price": 9.195
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.65
+    }
+  ]
+}

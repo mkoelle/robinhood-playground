@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AROC",
+      "price": 11.65
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNNA",
+      "price": 15.43
+    },
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AROC",
+      "price": 11.6
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AROC",
+      "price": 11.7
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.69
+    }
+  ]
+}

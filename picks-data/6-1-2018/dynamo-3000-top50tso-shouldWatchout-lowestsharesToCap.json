@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNAT",
+      "price": 4.5557
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNAT",
+      "price": 4.7219
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSB",
+      "price": 3.7988
+    },
+    {
+      "ticker": "MEET",
+      "price": 3.959
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRVG",
+      "price": 4.8752
+    },
+    {
+      "ticker": "MARK",
+      "price": 4.6801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QHC",
+      "price": 4.43
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QHC",
+      "price": 4.38
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.1799
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QHC",
+      "price": 4.39
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.19
+    }
+  ]
+}

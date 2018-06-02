@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 5.5065
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.47
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 5.34
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.4
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4348
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.36
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.3
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.4
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.955
+    }
+  ]
+}

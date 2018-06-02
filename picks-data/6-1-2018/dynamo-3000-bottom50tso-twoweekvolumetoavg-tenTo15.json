@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PCOM",
+      "price": 14.4611
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.5601
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOI",
+      "price": 14.69
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIX",
+      "price": 13.95
+    },
+    {
+      "ticker": "PAR",
+      "price": 14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 10.1199
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 10.325
+    },
+    {
+      "ticker": "BFR",
+      "price": 14.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBR",
+      "price": 10.055
+    },
+    {
+      "ticker": "BFR",
+      "price": 14.36
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR",
+      "price": 10.0648
+    },
+    {
+      "ticker": "BFR",
+      "price": 14.37
+    }
+  ]
+}

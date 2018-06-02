@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTI",
+      "price": 4.825
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CXE",
+      "price": 4.9699
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.9646
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CXE",
+      "price": 4.9699
+    },
+    {
+      "ticker": "PIM",
+      "price": 4.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CXE",
+      "price": 4.96
+    },
+    {
+      "ticker": "CMU",
+      "price": 4.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CXE",
+      "price": 4.95
+    },
+    {
+      "ticker": "PIM",
+      "price": 4.6802
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCCO",
+      "price": 4.6325
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AHC",
+      "price": 4.725
+    },
+    {
+      "ticker": "IVAC",
+      "price": 4.7
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "YRIV",
+      "price": 9.9
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.5122
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YRIV",
+      "price": 10
+    },
+    {
+      "ticker": "BOXL",
+      "price": 7.5122
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOXL",
+      "price": 7.4104
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.5139
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOXL",
+      "price": 6.7875
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.525
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.1935
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 1.9942
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JAGX",
+      "price": 2.34
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.86
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.0958
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2303
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JAGX",
+      "price": 2.14
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.1032
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.04
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2266
+    }
+  ]
+}

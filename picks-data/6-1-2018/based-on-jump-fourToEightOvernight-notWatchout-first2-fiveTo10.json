@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FSP",
+      "price": 7.935
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FAT",
+      "price": 7.3
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FAT",
+      "price": 7.3
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FAT",
+      "price": 7.5
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.22
+    }
+  ]
+}
