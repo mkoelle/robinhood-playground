@@ -47,7 +47,6 @@ const honorableMentions3 = [ // 3 2
 ];
 
 const myPicks = [
-    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-25',
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
     'dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10-4',
     'low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5-6',
@@ -68,6 +67,7 @@ const forPurchase = [
     "based-on-jump-fourToEightOvernight-notWatchout-first2-fiveTo10-0",
     "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-shouldWatchout-6",
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-6'
     "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10-6",
     "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-16",
     "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to5-shouldWatchout-6",
@@ -79,6 +79,8 @@ const forPurchase = [
     "based-on-jump-gtEightOvernight-gt1milvolume-first3-fiveTo10-30",
     "based-on-jump-oneToFourOvernight-trending607-gt500kvolume-first1-30",
     "sudden-drops-last2trend-first2-63",
+    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown1to3-6',
     'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to5-notWatchout-150',
 ];
 
