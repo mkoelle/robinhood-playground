@@ -24,6 +24,7 @@ const longtermhot = [
 ];
 
 const realOldSchool = [
+    'dynamo-3000-top50tso-trendingUp3010-lowestYP-fiveTo10-200',
     'sudden-drops-last3trend-first2-fiveTo10-328',
     'constant-risers-5minute-percUpHighClose-highovernightjumps-fiveTo10-198',
     'sudden-drops-last5trend-first2-fiveTo10-328',
@@ -82,6 +83,8 @@ const forPurchase = [
     "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
     'low-float-high-volume-floatTimesabsVolPoints-trenddown1to3-6',
     'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to5-notWatchout-150',
+    'dynamo-3000-overall-onlyWatchout-highestTSO-fiveTo10-200',
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210'
 ];
 
 const cheapestPicksEmailObj = [
