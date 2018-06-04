@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 7.05
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 9.257
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.7685
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.8296
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.0699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.7915
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 9.4
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.998
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.245
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 9.92
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.93
+    }
+  ]
+}

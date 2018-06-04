@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 11.9
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.79
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.465
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HRG",
+      "price": 12.95
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HCAP",
+      "price": 10.2499
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.3698
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMOS",
+      "price": 14.63
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.238
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SELB",
+      "price": 12.02
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCRH",
+      "price": 10.95
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.06
+    }
+  ]
+}

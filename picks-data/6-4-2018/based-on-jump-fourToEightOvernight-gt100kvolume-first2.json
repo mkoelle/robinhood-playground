@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLDX",
+      "price": 0.63
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.265
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MYSZ",
+      "price": 1.2314
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.6098
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYSZ",
+      "price": 1.185
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.6148
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYSZ",
+      "price": 1.18
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.61
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 13.42
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.78
+    },
+    {
+      "ticker": "CLFD",
+      "price": 10.75
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BBGI",
+      "price": 11.5
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.7527
+    },
+    {
+      "ticker": "MSL",
+      "price": 14.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MSL",
+      "price": 14.2
+    },
+    {
+      "ticker": "CZWI",
+      "price": 13.7448
+    },
+    {
+      "ticker": "TRMT",
+      "price": 11.4401
+    }
+  ]
+}

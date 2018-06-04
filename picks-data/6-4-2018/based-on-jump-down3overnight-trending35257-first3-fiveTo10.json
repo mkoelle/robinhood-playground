@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 9.12
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 9.363
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 9.04
+    },
+    {
+      "ticker": "DWCH",
+      "price": 9.65
+    },
+    {
+      "ticker": "CMFN",
+      "price": 9.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 9.05
+    },
+    {
+      "ticker": "DWCH",
+      "price": 9.85
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.24
+    }
+  ]
+}

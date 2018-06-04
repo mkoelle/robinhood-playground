@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0101
+    },
+    {
+      "ticker": "SALM",
+      "price": 3.95
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0201
+    },
+    {
+      "ticker": "SALM",
+      "price": 3.85
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.465
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMP",
+      "price": 2.8864
+    },
+    {
+      "ticker": "SALM",
+      "price": 3.825
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMP",
+      "price": 2.87
+    },
+    {
+      "ticker": "SALM",
+      "price": 3.8126
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.51
+    }
+  ]
+}

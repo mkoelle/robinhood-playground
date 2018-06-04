@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CATS",
+      "price": 7.0195
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 5.0932
+    },
+    {
+      "ticker": "ADRO",
+      "price": 7.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 6.2735
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.2601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADRO",
+      "price": 7.255
+    },
+    {
+      "ticker": "IMV",
+      "price": 6.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADRO",
+      "price": 6.975
+    },
+    {
+      "ticker": "IMV",
+      "price": 6.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ADRO",
+      "price": 6.775
+    },
+    {
+      "ticker": "IMV",
+      "price": 6.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADRO",
+      "price": 7.075
+    },
+    {
+      "ticker": "ACIU",
+      "price": 7.82
+    }
+  ]
+}

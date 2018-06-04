@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.4716
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.46
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VSAR",
+      "price": 1.5
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.175
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2061
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VSAR",
+      "price": 1.5
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.2021
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.16
+    }
+  ]
+}

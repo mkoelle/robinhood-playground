@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 13.42
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.05
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.3
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BBGI",
+      "price": 11.5
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.15
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.025
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IMTE",
+      "price": 14.91
+    },
+    {
+      "ticker": "OBSV",
+      "price": 12.8718
+    },
+    {
+      "ticker": "SLCT",
+      "price": 12.85
+    }
+  ]
+}

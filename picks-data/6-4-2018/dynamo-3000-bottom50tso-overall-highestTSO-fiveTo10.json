@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NBR",
+      "price": 7.2342
+    },
+    {
+      "ticker": "CORI",
+      "price": 8.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMR",
+      "price": 6.57
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IEC",
+      "price": 5.37
+    },
+    {
+      "ticker": "ESTE",
+      "price": 8.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HLX",
+      "price": 7.35
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.155
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 8.55
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.595
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPG",
+      "price": 7.635
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APOP",
+      "price": 7.2089
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.265
+    }
+  ]
+}

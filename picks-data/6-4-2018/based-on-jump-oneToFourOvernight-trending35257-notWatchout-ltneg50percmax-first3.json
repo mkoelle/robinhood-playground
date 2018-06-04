@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AVXL",
+      "price": 2.939
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.895
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVXL",
+      "price": 2.9699
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.8799
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVXL",
+      "price": 3.03
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.8765
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVXL",
+      "price": 3.38
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.8721
+    }
+  ]
+}

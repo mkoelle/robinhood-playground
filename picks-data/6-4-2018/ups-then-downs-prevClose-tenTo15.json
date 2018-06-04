@@ -1,0 +1,72 @@
+{
+  "10": [
+    {
+      "ticker": "YRIV",
+      "price": 10.1203
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CYRX",
+      "price": 12.36
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.335
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 12.33
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.0408
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.92
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.2601
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CYRX",
+      "price": 12.55
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.93
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.37
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.625
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UBX",
+      "price": 13.91
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.48
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.451
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.685
+    }
+  ]
+}

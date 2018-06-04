@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AETI",
+      "price": 1.34
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AETI",
+      "price": 1.54
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.64
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.79
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.15
+    }
+  ]
+}

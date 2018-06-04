@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 0.22
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.235
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2155
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2189
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4839
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JAGX",
+      "price": 2.0439
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.488
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JAGX",
+      "price": 2.09
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.321
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JAGX",
+      "price": 2
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.234
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2314
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.333
+    }
+  ]
+}

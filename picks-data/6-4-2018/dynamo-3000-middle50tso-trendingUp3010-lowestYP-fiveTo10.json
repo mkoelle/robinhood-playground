@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PBI",
+      "price": 9.13
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 9.78
+    },
+    {
+      "ticker": "ORMP",
+      "price": 7.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 9.83
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSUM",
+      "price": 6.91
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TORC",
+      "price": 9.84
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.291
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DXR",
+      "price": 7.1781
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPTA",
+      "price": 8.29
+    },
+    {
+      "ticker": "AU",
+      "price": 8.685
+    }
+  ]
+}

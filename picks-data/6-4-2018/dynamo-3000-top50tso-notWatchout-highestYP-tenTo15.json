@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 13.35
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGAN",
+      "price": 13.45
+    },
+    {
+      "ticker": "PFSW",
+      "price": 11.645
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 13.35
+    },
+    {
+      "ticker": "PFSW",
+      "price": 11.6344
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 13.5086
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.5261
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 13.3219
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.8006
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 13.308
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.8006
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 13.4
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.8006
+    }
+  ]
+}

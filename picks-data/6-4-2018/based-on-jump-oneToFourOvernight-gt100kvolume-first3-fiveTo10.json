@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "GPRO",
+      "price": 5.5052
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.03
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TTOO",
+      "price": 8.41
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.05
+    },
+    {
+      "ticker": "USLV",
+      "price": 9.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TTOO",
+      "price": 8.3605
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.43
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TTOO",
+      "price": 8.2
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.45
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.79
+    }
+  ]
+}

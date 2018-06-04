@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TLF",
+      "price": 7.5
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.23
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 5.55
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 5.5473
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 5.545
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.4617
+    }
+  ]
+}

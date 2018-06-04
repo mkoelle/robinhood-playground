@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CCXI",
+      "price": 12.6
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.28
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCXI",
+      "price": 12.2046
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.2199
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCXI",
+      "price": 11.865
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMEH",
+      "price": 14.635
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.2689
+    }
+  ]
+}

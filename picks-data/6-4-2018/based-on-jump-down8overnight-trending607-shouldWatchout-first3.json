@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VXRT",
+      "price": 4.1501
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.1667
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VXRT",
+      "price": 4.3805
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.0401
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VXRT",
+      "price": 4.4501
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VXRT",
+      "price": 4.4
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.3726
+    }
+  ]
+}

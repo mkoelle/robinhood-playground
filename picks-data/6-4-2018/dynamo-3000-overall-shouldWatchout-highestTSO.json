@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 0.22
+    },
+    {
+      "ticker": "XGTI",
+      "price": 0.6988
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHCI",
+      "price": 4.0898
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.5779
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABAC",
+      "price": 2.99
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABAC",
+      "price": 3.06
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABAC",
+      "price": 2.88
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.7931
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BDR",
+      "price": 1.89
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BDR",
+      "price": 2.1448
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.11
+    }
+  ]
+}

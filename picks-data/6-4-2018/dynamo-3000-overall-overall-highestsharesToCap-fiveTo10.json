@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSBR",
+      "price": 5.2
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.055
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSBR",
+      "price": 5.3
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.0499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.8296
+    },
+    {
+      "ticker": "CSBR",
+      "price": 5.2596
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.7915
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELV",
+      "price": 5.0101
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.998
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 9.92
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.0105
+    }
+  ]
+}

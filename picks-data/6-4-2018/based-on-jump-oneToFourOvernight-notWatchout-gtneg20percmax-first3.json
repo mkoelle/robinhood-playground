@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0101
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.6
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.9583
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0201
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.5811
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.03
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMP",
+      "price": 2.8864
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.5999
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMP",
+      "price": 2.87
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.595
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.05
+    }
+  ]
+}

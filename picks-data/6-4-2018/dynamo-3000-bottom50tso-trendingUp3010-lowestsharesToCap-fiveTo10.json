@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASYS",
+      "price": 9.17
+    },
+    {
+      "ticker": "EXD",
+      "price": 9.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CEMI",
+      "price": 9.86
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CEMI",
+      "price": 9.7
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEMI",
+      "price": 9.8
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AP",
+      "price": 9.816
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AP",
+      "price": 9.7501
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AP",
+      "price": 9.675
+    },
+    {
+      "ticker": "MVO",
+      "price": 9.8
+    }
+  ]
+}

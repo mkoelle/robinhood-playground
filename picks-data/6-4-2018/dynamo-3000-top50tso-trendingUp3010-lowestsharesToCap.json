@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MIND",
+      "price": 4.44
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.3599
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MEIP",
+      "price": 3.65
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPSS",
+      "price": 4.15
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CADC",
+      "price": 3.3
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.429
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVXL",
+      "price": 3.59
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HTGM",
+      "price": 4.2227
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBCI",
+      "price": 3.78
+    },
+    {
+      "ticker": "STNG",
+      "price": 3.07
+    }
+  ]
+}

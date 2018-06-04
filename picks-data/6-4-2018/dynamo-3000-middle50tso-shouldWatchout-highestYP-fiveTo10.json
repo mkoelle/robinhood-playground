@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASLN",
+      "price": 8.6985
+    },
+    {
+      "ticker": "ELGX",
+      "price": 5.535
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TEDU",
+      "price": 9.6217
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IOTS",
+      "price": 9.275
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KONE",
+      "price": 7.4581
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GALT",
+      "price": 5.03
+    },
+    {
+      "ticker": "ATOM",
+      "price": 6.0736
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 9.98
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVON",
+      "price": 9.19
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 8
+    }
+  ]
+}

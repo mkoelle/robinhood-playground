@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CATS",
+      "price": 7.0195
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.535
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNCE",
+      "price": 7.365
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.0957
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNCE",
+      "price": 7.07
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 9.54
+    },
+    {
+      "ticker": "GLMD",
+      "price": 7.3499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNCE",
+      "price": 7.091
+    },
+    {
+      "ticker": "GLMD",
+      "price": 7.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 9.7
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NES",
+      "price": 9.4
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.6301
+    }
+  ]
+}

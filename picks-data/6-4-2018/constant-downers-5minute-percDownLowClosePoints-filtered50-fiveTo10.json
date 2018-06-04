@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "INSE",
+      "price": 6.1
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.6
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RFIL",
+      "price": 6.432
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.025
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.31
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ACIU",
+      "price": 9.27
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.242
+    },
+    {
+      "ticker": "CORI",
+      "price": 8.34
+    }
+  ]
+}

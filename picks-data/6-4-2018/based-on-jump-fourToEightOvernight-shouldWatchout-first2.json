@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNET",
+      "price": 2.98
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 1.1999
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNET",
+      "price": 2.8914
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.9631
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNET",
+      "price": 2.88
+    },
+    {
+      "ticker": "DDE",
+      "price": 2.008
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNET",
+      "price": 2.87
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.93
+    }
+  ]
+}

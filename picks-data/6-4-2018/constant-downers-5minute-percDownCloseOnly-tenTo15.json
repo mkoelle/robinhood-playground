@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "REI",
+      "price": 12.88
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.42
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.78
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BBGI",
+      "price": 11.5
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.7527
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.025
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MSL",
+      "price": 14.2
+    },
+    {
+      "ticker": "CZWI",
+      "price": 13.7448
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.6
+    }
+  ]
+}

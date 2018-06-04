@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "AMD",
+      "price": 14.61
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.1958
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.9768
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMD",
+      "price": 14.64
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.989
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMD",
+      "price": 14.84
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.915
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.089
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.96
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMD",
+      "price": 14.935
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.96
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.06
+    },
+    {
+      "ticker": "DB",
+      "price": 11.15
+    },
+    {
+      "ticker": "SNAP",
+      "price": 11.805
+    }
+  ]
+}

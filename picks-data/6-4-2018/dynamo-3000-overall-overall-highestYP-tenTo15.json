@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFL",
+      "price": 10.26
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFL",
+      "price": 10
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.885
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 13.32
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 13.32
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.94
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 13.3837
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 13.38
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.57
+    }
+  ]
+}

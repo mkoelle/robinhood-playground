@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "PFSW",
+      "price": 11.6193
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.09
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.61
+    },
+    {
+      "ticker": "HHS",
+      "price": 10.9973
+    },
+    {
+      "ticker": "DDF",
+      "price": 11.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RFL",
+      "price": 10.26
+    },
+    {
+      "ticker": "PFSW",
+      "price": 11.76
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.05
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.64
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.251
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RFL",
+      "price": 10.1875
+    },
+    {
+      "ticker": "PFSW",
+      "price": 11.72
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.9313
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.84
+    },
+    {
+      "ticker": "HHS",
+      "price": 12.0926
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RFL",
+      "price": 10.15
+    },
+    {
+      "ticker": "PFSW",
+      "price": 11.65
+    },
+    {
+      "ticker": "EIGR",
+      "price": 13.475
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.935
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.24
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "YRIV",
+      "price": 9.7702
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEMI",
+      "price": 9.8
+    },
+    {
+      "ticker": "CLMT",
+      "price": 8.35
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.23
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NEXT",
+      "price": 6.54
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.1248
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.9
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.145
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RARX",
+      "price": 6.9726
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.63
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.95
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.115
+    }
+  ]
+}

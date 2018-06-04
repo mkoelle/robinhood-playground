@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MBOT",
+      "price": 0.86
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PKD",
+      "price": 0.41
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.185
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMMP",
+      "price": 2.65
+    },
+    {
+      "ticker": "PME",
+      "price": 3.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PME",
+      "price": 2.8795
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.7146
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PME",
+      "price": 2.9999
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KNDI",
+      "price": 4.45
+    },
+    {
+      "ticker": "PME",
+      "price": 3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KNDI",
+      "price": 4
+    },
+    {
+      "ticker": "PME",
+      "price": 3.015
+    }
+  ]
+}

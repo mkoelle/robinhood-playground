@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 9.37
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CEMI",
+      "price": 9.86
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVE",
+      "price": 9.89
+    },
+    {
+      "ticker": "CEMI",
+      "price": 9.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5899
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5899
+    },
+    {
+      "ticker": "AP",
+      "price": 9.816
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5904
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5904
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.8084
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "SNES",
+      "price": 1.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNES",
+      "price": 1.46
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNES",
+      "price": 1.385
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.745
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VTVT",
+      "price": 1.89
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.4
+    }
+  ]
+}

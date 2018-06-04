@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPL",
+      "price": 10.73
+    },
+    {
+      "ticker": "TELL",
+      "price": 11.375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IAE",
+      "price": 10.3
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.465
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HCAP",
+      "price": 10.2499
+    },
+    {
+      "ticker": "IAE",
+      "price": 10.2899
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HCAP",
+      "price": 10.238
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HCAP",
+      "price": 10.2441
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HCAP",
+      "price": 10.2452
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.95
+    }
+  ]
+}

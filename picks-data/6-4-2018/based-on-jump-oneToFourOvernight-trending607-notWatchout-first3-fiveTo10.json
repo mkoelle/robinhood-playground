@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 6.88
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.23
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.4299
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 6.63
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.55
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 6.77
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.5473
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.3576
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 6.79
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.545
+    },
+    {
+      "ticker": "XRM",
+      "price": 7.5
+    }
+  ]
+}

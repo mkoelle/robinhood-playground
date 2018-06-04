@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JNCE",
+      "price": 8.51
+    },
+    {
+      "ticker": "ASYS",
+      "price": 9.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNCE",
+      "price": 7.365
+    },
+    {
+      "ticker": "AGLE",
+      "price": 9.505
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNCE",
+      "price": 7.07
+    },
+    {
+      "ticker": "AGLE",
+      "price": 9.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 9.54
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.0901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNCE",
+      "price": 7.091
+    },
+    {
+      "ticker": "ASYS",
+      "price": 8.4048
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 9.7
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NES",
+      "price": 9.4
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.45
+    }
+  ]
+}

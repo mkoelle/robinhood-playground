@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RFL",
+      "price": 10.2882
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TTOO",
+      "price": 8.41
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TTOO",
+      "price": 8.3605
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TTOO",
+      "price": 8.2
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.79
+    }
+  ]
+}

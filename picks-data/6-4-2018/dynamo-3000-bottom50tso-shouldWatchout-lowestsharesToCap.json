@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VXRT",
+      "price": 4.345
+    },
+    {
+      "ticker": "PETX",
+      "price": 4.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RTTR",
+      "price": 3.5677
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.52
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRVG",
+      "price": 4.97
+    },
+    {
+      "ticker": "HK",
+      "price": 4.275
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRVG",
+      "price": 4.94
+    },
+    {
+      "ticker": "HK",
+      "price": 4.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRVG",
+      "price": 4.935
+    },
+    {
+      "ticker": "HK",
+      "price": 4.235
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRVG",
+      "price": 4.91
+    },
+    {
+      "ticker": "TSRI",
+      "price": 4.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRVG",
+      "price": 4.99
+    },
+    {
+      "ticker": "TSRI",
+      "price": 4.7
+    }
+  ]
+}

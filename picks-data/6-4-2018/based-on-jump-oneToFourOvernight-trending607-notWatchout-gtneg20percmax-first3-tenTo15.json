@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PFSW",
+      "price": 11.6193
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.61
+    },
+    {
+      "ticker": "DDF",
+      "price": 11.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PFSW",
+      "price": 11.76
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.64
+    },
+    {
+      "ticker": "DDF",
+      "price": 11.3458
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFSW",
+      "price": 11.72
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.84
+    },
+    {
+      "ticker": "DDF",
+      "price": 11.3789
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFSW",
+      "price": 11.65
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.935
+    },
+    {
+      "ticker": "DDF",
+      "price": 11.3832
+    }
+  ]
+}

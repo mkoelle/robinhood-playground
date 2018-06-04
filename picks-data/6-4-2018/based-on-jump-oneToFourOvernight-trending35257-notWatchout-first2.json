@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0101
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMP",
+      "price": 3.0201
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMP",
+      "price": 2.8864
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMP",
+      "price": 2.87
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ]
+}

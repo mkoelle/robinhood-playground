@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BSBR",
+      "price": 9.55
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.88
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.115
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 7.3299
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.57
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 7.36
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.56
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 7.321
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.53
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.79
+    }
+  ]
+}

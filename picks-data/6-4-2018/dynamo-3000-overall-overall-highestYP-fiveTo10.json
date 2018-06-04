@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 7.05
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CWBR",
+      "price": 8.0957
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.257
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.8296
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.93
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.7915
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PACQ",
+      "price": 9.64
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PACQ",
+      "price": 9.64
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.998
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PACQ",
+      "price": 9.67
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.92
+    }
+  ]
+}

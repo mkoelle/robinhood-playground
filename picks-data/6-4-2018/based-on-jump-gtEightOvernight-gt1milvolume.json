@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "AETI",
+      "price": 1.34
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2401
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.5098
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.64
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.6252
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2148
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.79
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.56
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.4989
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2189
+    }
+  ]
+}

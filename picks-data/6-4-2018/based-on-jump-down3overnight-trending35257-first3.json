@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VXRT",
+      "price": 4.1501
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.1667
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.9139
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VXRT",
+      "price": 4.3805
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.0401
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.8034
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VXRT",
+      "price": 4.4501
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.4
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VXRT",
+      "price": 4.4
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.3726
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.0402
+    }
+  ]
+}

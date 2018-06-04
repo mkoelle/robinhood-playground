@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "YRIV",
+      "price": 10.25
+    },
+    {
+      "ticker": "GME",
+      "price": 13.61
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.74
+    },
+    {
+      "ticker": "SD",
+      "price": 14.5375
+    }
+  ],
+  "100": [
+    {
+      "ticker": "YRIV",
+      "price": 10.15
+    },
+    {
+      "ticker": "AP",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 11.4439
+    },
+    {
+      "ticker": "SD",
+      "price": 14.1825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 11.24
+    },
+    {
+      "ticker": "SD",
+      "price": 14.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 11.055
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.4999
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 10.81
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.52
+    }
+  ]
+}

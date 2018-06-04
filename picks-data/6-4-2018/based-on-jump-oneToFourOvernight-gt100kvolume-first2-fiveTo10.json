@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPRO",
+      "price": 5.5052
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.03
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TTOO",
+      "price": 8.41
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TTOO",
+      "price": 8.3605
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TTOO",
+      "price": 8.2
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.45
+    }
+  ]
+}

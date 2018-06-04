@@ -68,7 +68,7 @@ const forPurchase = [
     "based-on-jump-fourToEightOvernight-notWatchout-first2-fiveTo10-0",
     "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-shouldWatchout-6",
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-6'
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-6',
     "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10-6",
     "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-16",
     "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to5-shouldWatchout-6",

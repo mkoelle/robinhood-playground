@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBGL",
+      "price": 2.72
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3.0101
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBGL",
+      "price": 2.705
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3.0201
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBGL",
+      "price": 2.725
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.8864
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBGL",
+      "price": 2.715
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.87
+    }
+  ]
+}

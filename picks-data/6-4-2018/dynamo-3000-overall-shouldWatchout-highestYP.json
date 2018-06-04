@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 2.75
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NWY",
+      "price": 4.3852
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.72
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NWY",
+      "price": 4.385
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.665
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWY",
+      "price": 4.365
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 2.2422
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.345
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 2.27
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.365
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEN",
+      "price": 2.24
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.35
+    }
+  ]
+}

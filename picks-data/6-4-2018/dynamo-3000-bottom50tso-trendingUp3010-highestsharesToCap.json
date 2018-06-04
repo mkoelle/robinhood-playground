@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MBOT",
+      "price": 0.86
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.1533
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.2125
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2514
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NLST",
+      "price": 0.2166
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2363
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLST",
+      "price": 0.2185
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NLST",
+      "price": 0.21
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.476
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NLST",
+      "price": 0.2115
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2489
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NLST",
+      "price": 0.2051
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.1591
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PXS",
+      "price": 1.1722
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3.0101
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PXS",
+      "price": 1.1722
+    },
+    {
+      "ticker": "IMMP",
+      "price": 3.0201
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.5499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXS",
+      "price": 1.1931
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.8864
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PXS",
+      "price": 1.199
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.87
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.5258
+    }
+  ]
+}

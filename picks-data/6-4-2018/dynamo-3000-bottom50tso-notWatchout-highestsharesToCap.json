@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PKD",
+      "price": 0.4288
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PKD",
+      "price": 0.41
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.0439
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PKD",
+      "price": 0.4095
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PKD",
+      "price": 0.408
+    },
+    {
+      "ticker": "VRML",
+      "price": 1.015
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PKD",
+      "price": 0.412
+    },
+    {
+      "ticker": "VRML",
+      "price": 1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2106
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4086
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2104
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4081
+    }
+  ]
+}

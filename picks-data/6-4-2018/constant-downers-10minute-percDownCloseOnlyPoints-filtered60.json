@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.4716
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1207
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.4551
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RNN",
+      "price": 2.0301
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.2789
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.5601
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OGEN",
+      "price": 1.3549
+    },
+    {
+      "ticker": "RNN",
+      "price": 2.04
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.255
+    }
+  ]
+}

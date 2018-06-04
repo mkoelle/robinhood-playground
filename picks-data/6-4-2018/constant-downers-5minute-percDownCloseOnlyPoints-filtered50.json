@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.4716
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.46
+    },
+    {
+      "ticker": "CXRX",
+      "price": 0.201
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CXRX",
+      "price": 0.2061
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.4301
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4122
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CXRX",
+      "price": 0.2021
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.412
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.4301
+    }
+  ]
+}
