@@ -1,0 +1,35 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "CYRX",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 12.63
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CYRX",
+      "price": 12.67
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.4914
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CYRX",
+      "price": 12.45
+    },
+    {
+      "ticker": "GNPX",
+      "price": 10.4
+    }
+  ]
+}

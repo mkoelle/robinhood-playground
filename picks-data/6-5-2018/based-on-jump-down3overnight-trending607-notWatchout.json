@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BKYI",
+      "price": 2.5527
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKYI",
+      "price": 2.5705
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKYI",
+      "price": 2.41
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKYI",
+      "price": 2.4041
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.05
+    }
+  ]
+}

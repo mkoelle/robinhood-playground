@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LOCO",
+      "price": 10.8
+    },
+    {
+      "ticker": "BCOM",
+      "price": 10.74
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LOCO",
+      "price": 10.6832
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.37
+    },
+    {
+      "ticker": "BCOM",
+      "price": 10.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LOCO",
+      "price": 10.725
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.365
+    },
+    {
+      "ticker": "BCOM",
+      "price": 10.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LOCO",
+      "price": 10.8
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.3612
+    },
+    {
+      "ticker": "BCOM",
+      "price": 10.74
+    }
+  ]
+}

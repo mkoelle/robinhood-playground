@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.515
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.41
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.95
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.219
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.509
+    },
+    {
+      "ticker": "AST",
+      "price": 1.675
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.1381
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.85
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.405
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.5174
+    },
+    {
+      "ticker": "AST",
+      "price": 1.637
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.2204
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.17
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATLC",
+      "price": 1.765
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5301
+    },
+    {
+      "ticker": "AST",
+      "price": 1.6248
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.2204
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.0328
+    }
+  ]
+}

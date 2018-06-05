@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FRAN",
+      "price": 5.475
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRAN",
+      "price": 5.82
+    },
+    {
+      "ticker": "QD",
+      "price": 9.72
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRAN",
+      "price": 6.25
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRAN",
+      "price": 6.58
+    },
+    {
+      "ticker": "CODX",
+      "price": 6.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRAN",
+      "price": 6.49
+    },
+    {
+      "ticker": "ARCT",
+      "price": 6.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRAN",
+      "price": 6.5834
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRAN",
+      "price": 6.64
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.87
+    }
+  ]
+}

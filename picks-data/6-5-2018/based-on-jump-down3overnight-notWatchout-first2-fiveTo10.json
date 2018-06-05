@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.66
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RELL",
+      "price": 9.33
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.487
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WSCI",
+      "price": 5
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.45
+    }
+  ]
+}

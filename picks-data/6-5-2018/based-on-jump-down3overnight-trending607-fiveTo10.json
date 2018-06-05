@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "FRAN",
+      "price": 5.455
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.361
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRAN",
+      "price": 5.54
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.487
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRAN",
+      "price": 5.8501
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4499
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRAN",
+      "price": 5.9301
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4499
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.875
+    }
+  ]
+}

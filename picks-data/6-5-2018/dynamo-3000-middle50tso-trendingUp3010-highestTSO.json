@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BDSI",
+      "price": 2.56
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.63
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MIND",
+      "price": 4.33
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SACH",
+      "price": 3.89
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPK",
+      "price": 4.19
+    },
+    {
+      "ticker": "OPHT",
+      "price": 2.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DDE",
+      "price": 1.9999
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5485
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AEY",
+      "price": 1.35
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.785
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLDC",
+      "price": 2.37
+    },
+    {
+      "ticker": "BWEN",
+      "price": 2.53
+    }
+  ]
+}

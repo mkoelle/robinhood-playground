@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASLN",
+      "price": 9.57
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPKE",
+      "price": 9.85
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPKE",
+      "price": 9.75
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.245
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 9.7
+    },
+    {
+      "ticker": "DF",
+      "price": 9.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 9.7
+    },
+    {
+      "ticker": "DF",
+      "price": 9.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 9.629
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.46
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPKE",
+      "price": 9.55
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.405
+    }
+  ]
+}

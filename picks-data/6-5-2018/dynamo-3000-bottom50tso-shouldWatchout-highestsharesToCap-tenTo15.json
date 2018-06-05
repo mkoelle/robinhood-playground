@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NTRP",
+      "price": 10.2
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFL",
+      "price": 10.051
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTRP",
+      "price": 10.17
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 10.07
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.1073
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTRP",
+      "price": 10.17
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 10.01
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 10.01
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.15
+    }
+  ]
+}

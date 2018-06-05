@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.515
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.509
+    },
+    {
+      "ticker": "AST",
+      "price": 1.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.5174
+    },
+    {
+      "ticker": "AST",
+      "price": 1.637
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATLC",
+      "price": 1.765
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5301
+    }
+  ]
+}

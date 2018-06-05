@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CODX",
+      "price": 5.64
+    },
+    {
+      "ticker": "ACIU",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CODX",
+      "price": 6.4948
+    },
+    {
+      "ticker": "NEXT",
+      "price": 7.53
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODX",
+      "price": 5.905
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.745
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODX",
+      "price": 5.8099
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.745
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.01
+    }
+  ]
+}

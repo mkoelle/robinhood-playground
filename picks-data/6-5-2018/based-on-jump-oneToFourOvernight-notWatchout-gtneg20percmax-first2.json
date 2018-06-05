@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    }
+  ]
+}

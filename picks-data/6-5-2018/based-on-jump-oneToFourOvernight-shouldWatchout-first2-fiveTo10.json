@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APVO",
+      "price": 5.35
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APVO",
+      "price": 5.4
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "APVO",
+      "price": 5.4
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.255
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APVO",
+      "price": 5.43
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.3
+    }
+  ]
+}

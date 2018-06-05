@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.675
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.637
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.6248
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.655
+    },
+    {
+      "ticker": "JOB",
+      "price": 2.5766
+    }
+  ]
+}

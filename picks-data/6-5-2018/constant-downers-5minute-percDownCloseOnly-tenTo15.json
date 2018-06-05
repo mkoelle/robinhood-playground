@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GDP",
+      "price": 12.8016
+    },
+    {
+      "ticker": "BBGI",
+      "price": 11.15
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BRT",
+      "price": 12.67
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.576
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.23
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MLP",
+      "price": 11.4
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.22
+    },
+    {
+      "ticker": "GDXS",
+      "price": 14.26
+    }
+  ]
+}

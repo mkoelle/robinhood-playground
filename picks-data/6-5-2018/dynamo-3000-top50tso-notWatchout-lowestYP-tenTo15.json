@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JKS",
+      "price": 13.2048
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 11.335
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FAZ",
+      "price": 10.68
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEOS",
+      "price": 11.72
+    },
+    {
+      "ticker": "SD",
+      "price": 14.81
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMT",
+      "price": 14.9
+    },
+    {
+      "ticker": "GEOS",
+      "price": 11.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCUT",
+      "price": 11.25
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 11.37
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.9
+    }
+  ]
+}

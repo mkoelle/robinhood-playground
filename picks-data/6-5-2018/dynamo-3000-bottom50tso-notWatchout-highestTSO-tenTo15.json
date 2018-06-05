@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNSL",
+      "price": 11.49
+    },
+    {
+      "ticker": "GE",
+      "price": 13.6441
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRH",
+      "price": 12.765
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SCS",
+      "price": 14.625
+    },
+    {
+      "ticker": "GTN",
+      "price": 10.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRH",
+      "price": 12.725
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMI",
+      "price": 11.22
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIX",
+      "price": 14.1999
+    },
+    {
+      "ticker": "DM",
+      "price": 13.025
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSP",
+      "price": 12.265
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.5
+    }
+  ]
+}

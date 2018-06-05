@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CODX",
+      "price": 6.3
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFNX",
+      "price": 5.73
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.465
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ERIC",
+      "price": 7.295
+    },
+    {
+      "ticker": "DAIO",
+      "price": 7.2571
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNCE",
+      "price": 7.4748
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SND",
+      "price": 5.885
+    },
+    {
+      "ticker": "AIRG",
+      "price": 8.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 7.11
+    },
+    {
+      "ticker": "ABDC",
+      "price": 6.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRD.A",
+      "price": 7.96
+    },
+    {
+      "ticker": "ELVT",
+      "price": 7.61
+    }
+  ]
+}

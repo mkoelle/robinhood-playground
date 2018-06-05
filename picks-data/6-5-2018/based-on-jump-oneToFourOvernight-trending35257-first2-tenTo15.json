@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TACO",
+      "price": 12.53
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RFL",
+      "price": 10.128
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RFL",
+      "price": 10.12
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.365
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTID",
+      "price": 10.3612
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.0647
+    }
+  ]
+}

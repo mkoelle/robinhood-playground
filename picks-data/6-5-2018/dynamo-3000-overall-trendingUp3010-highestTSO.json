@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLDC",
+      "price": 3.35
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDC",
+      "price": 3.4357
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLDC",
+      "price": 3.0742
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.855
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UAMY",
+      "price": 0.409
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.4628
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDT",
+      "price": 1.56
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.4199
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDT",
+      "price": 1.56
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.4295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UAMY",
+      "price": 0.4295
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.5664
+    }
+  ]
+}

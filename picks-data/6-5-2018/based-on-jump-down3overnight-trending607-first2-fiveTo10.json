@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FRAN",
+      "price": 5.455
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.361
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRAN",
+      "price": 5.54
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.487
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRAN",
+      "price": 5.8501
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRAN",
+      "price": 5.9301
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4499
+    }
+  ]
+}

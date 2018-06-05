@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SNOA",
+      "price": 3.85
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNOA",
+      "price": 3.87
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.11
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNOA",
+      "price": 3.9
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.1114
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.94
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNOA",
+      "price": 3.92
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.1142
+    },
+    {
+      "ticker": "BVSN",
+      "price": 1.9
+    }
+  ]
+}

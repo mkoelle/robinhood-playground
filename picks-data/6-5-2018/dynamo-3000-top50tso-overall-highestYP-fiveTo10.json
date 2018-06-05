@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTOO",
+      "price": 8.9
+    },
+    {
+      "ticker": "RFIL",
+      "price": 6.055
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.11
+    },
+    {
+      "ticker": "TTOO",
+      "price": 9.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VKTX",
+      "price": 9.903
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.23
+    },
+    {
+      "ticker": "CODX",
+      "price": 6.1135
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1975
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.19
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.765
+    }
+  ]
+}

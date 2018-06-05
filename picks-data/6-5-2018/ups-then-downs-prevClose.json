@@ -1,0 +1,84 @@
+{
+  "10": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.66
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.1
+    }
+  ],
+  "50": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.65
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.75
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVXL",
+      "price": 3.56
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.59
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.05
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AVXL",
+      "price": 3.37
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.5937
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.971
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.07
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.34
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AVXL",
+      "price": 3.47
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.57
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.9301
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.005
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.36
+    }
+  ]
+}

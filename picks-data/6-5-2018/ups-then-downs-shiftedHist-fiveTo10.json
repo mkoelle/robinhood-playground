@@ -1,0 +1,48 @@
+{
+  "10": [
+    {
+      "ticker": "NEXT",
+      "price": 7
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.181
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RARX",
+      "price": 7.06
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.1801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAHO",
+      "price": 5.27
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TAHO",
+      "price": 5.215
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RARX",
+      "price": 7
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.9
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.21
+    }
+  ]
+}

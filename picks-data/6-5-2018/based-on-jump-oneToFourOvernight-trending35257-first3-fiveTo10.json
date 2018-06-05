@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ONCY",
+      "price": 6.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.05
+    },
+    {
+      "ticker": "APEN",
+      "price": 6.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONCY",
+      "price": 6.233
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.99
+    },
+    {
+      "ticker": "APEN",
+      "price": 5.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONCY",
+      "price": 6.3614
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.9675
+    },
+    {
+      "ticker": "APEN",
+      "price": 5.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONCY",
+      "price": 6.3201
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.9395
+    },
+    {
+      "ticker": "APEN",
+      "price": 6.4731
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RKDA",
+      "price": 11.0445
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.53
+    },
+    {
+      "ticker": "LOOP",
+      "price": 13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RFL",
+      "price": 10.128
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.1169
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RFL",
+      "price": 10.12
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.025
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.1169
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CMTA",
+      "price": 14
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.0647
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.69
+    }
+  ]
+}

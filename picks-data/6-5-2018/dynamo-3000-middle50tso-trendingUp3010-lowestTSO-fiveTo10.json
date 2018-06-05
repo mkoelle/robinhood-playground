@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CODX",
+      "price": 6.3
+    },
+    {
+      "ticker": "NCV",
+      "price": 6.995
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LSCC",
+      "price": 5.95
+    },
+    {
+      "ticker": "BDJ",
+      "price": 9.145
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FGB",
+      "price": 6.1227
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.6099
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EURN",
+      "price": 9.35
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMSC",
+      "price": 6.94
+    },
+    {
+      "ticker": "UNL",
+      "price": 9.4185
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCK",
+      "price": 8.27
+    },
+    {
+      "ticker": "EXG",
+      "price": 9.4172
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FUND",
+      "price": 8.0587
+    },
+    {
+      "ticker": "LEO",
+      "price": 7.6999
+    }
+  ]
+}

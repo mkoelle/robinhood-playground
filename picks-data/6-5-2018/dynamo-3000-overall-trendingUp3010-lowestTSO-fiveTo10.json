@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ONCY",
+      "price": 6.233
+    },
+    {
+      "ticker": "DXR",
+      "price": 7.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASLN",
+      "price": 9.29
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.166
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CWBR",
+      "price": 7.53
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.435
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DXR",
+      "price": 6.94
+    },
+    {
+      "ticker": "JMBA",
+      "price": 9.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CWBR",
+      "price": 7.64
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.2553
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CWBR",
+      "price": 7.59
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATOM",
+      "price": 5.6352
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.5851
+    }
+  ]
+}

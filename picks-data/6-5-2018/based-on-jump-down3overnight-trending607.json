@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "BDR",
+      "price": 1.2399
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.31
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.5527
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BDR",
+      "price": 1.28
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.4
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.5705
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BDR",
+      "price": 1.314
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.2801
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.41
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BDR",
+      "price": 1.4201
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.56
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.4041
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.05
+    }
+  ]
+}

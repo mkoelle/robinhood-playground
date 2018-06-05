@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAVI",
+      "price": 14.63
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAVI",
+      "price": 14.79
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAVI",
+      "price": 14.675
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAVI",
+      "price": 14.705
+    },
+    {
+      "ticker": "VIPS",
+      "price": 12.32
+    }
+  ]
+}

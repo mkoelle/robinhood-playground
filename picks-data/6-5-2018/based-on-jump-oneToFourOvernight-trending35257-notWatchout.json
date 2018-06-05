@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.07
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.42
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.43
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.15
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.45
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.78
+    }
+  ]
+}

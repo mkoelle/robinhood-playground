@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KRYS",
+      "price": 10.73
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KRYS",
+      "price": 10.709
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRYS",
+      "price": 10.71
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.675
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KRYS",
+      "price": 10.71
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.705
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "TACO",
+      "price": 12.53
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.73
+    },
+    {
+      "ticker": "LOOP",
+      "price": 13
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RFL",
+      "price": 10.128
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.37
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.1169
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.47
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.709
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RFL",
+      "price": 10.12
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.365
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.1169
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.71
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTID",
+      "price": 10.3612
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.0647
+    },
+    {
+      "ticker": "KRYS",
+      "price": 10.71
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.6674
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.8793
+    }
+  ]
+}

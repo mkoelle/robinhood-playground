@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RIOT",
+      "price": 7.83
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.475
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 7.3368
+    },
+    {
+      "ticker": "TTS",
+      "price": 7.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 7.4371
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LWAY",
+      "price": 5.59
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRVG",
+      "price": 5.24
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.629
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRVG",
+      "price": 5.2849
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.7535
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRVG",
+      "price": 5.29
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.76
+    }
+  ]
+}

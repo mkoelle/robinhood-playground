@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.07
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.15
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.88
+    }
+  ]
+}

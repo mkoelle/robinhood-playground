@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMV",
+      "price": 6.5
+    },
+    {
+      "ticker": "NDLS",
+      "price": 8.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.11
+    },
+    {
+      "ticker": "CSBR",
+      "price": 5.579
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.13
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.23
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1975
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.19
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.765
+    }
+  ]
+}

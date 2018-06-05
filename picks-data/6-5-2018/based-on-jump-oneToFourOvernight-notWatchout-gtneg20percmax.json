@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.7
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.33
+    },
+    {
+      "ticker": "URG",
+      "price": 0.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.61
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.7
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.07
+    },
+    {
+      "ticker": "PER",
+      "price": 2.3695
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.7
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.401
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.531
+    },
+    {
+      "ticker": "OCC",
+      "price": 3
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.7
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2.1934
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4099
+    }
+  ]
+}

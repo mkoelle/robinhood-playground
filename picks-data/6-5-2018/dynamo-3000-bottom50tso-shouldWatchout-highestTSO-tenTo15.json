@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHLO",
+      "price": 10.24
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFH",
+      "price": 11
+    },
+    {
+      "ticker": "EZPW",
+      "price": 13.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHLO",
+      "price": 10.15
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 10.07
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 10.35
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.61
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IOVA",
+      "price": 14.95
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTRP",
+      "price": 10.15
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.95
+    }
+  ]
+}

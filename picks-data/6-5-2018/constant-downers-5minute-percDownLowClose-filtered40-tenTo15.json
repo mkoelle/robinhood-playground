@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SMMT",
+      "price": 13.4665
+    },
+    {
+      "ticker": "OTEL",
+      "price": 13.65
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.6453
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SMMT",
+      "price": 13.2866
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.4
+    },
+    {
+      "ticker": "OTEL",
+      "price": 13.6683
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OTEL",
+      "price": 13.6683
+    },
+    {
+      "ticker": "SMMT",
+      "price": 13.2502
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.4
+    }
+  ]
+}

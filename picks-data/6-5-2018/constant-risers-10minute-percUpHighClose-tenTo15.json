@@ -1,0 +1,44 @@
+{
+  "40": [
+    {
+      "ticker": "TACO",
+      "price": 12.76
+    }
+  ],
+  "80": [
+    {
+      "ticker": "TACO",
+      "price": 12.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RUN",
+      "price": 12.85
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AFSI",
+      "price": 13.705
+    }
+  ],
+  "198": [
+    {
+      "ticker": "EXPR",
+      "price": 10.015
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EXPR",
+      "price": 10.145
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EXPR",
+      "price": 10.175
+    }
+  ]
+}

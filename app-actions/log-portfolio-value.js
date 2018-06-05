@@ -14,7 +14,9 @@ module.exports = async (Robinhood) => {
 
     let portfolioCache = {};
 
-    let {equity_historicals: hist} = await Robinhood.url('https://api.robinhood.com/portfolios/historicals/5SA80442/?span=year&interval=day');
+    let response = await Robinhood.url('https://api.robinhood.com/portfolios/historicals/5SA80442/?span=year&interval=day');
+    let {equity_historicals: hist} = response;
+    // console.log(response);
     hist = hist.map(h => ({
         ...h,
         date: (() => {

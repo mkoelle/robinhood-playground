@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KNDI",
+      "price": 4.15
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.42
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.725
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLDC",
+      "price": 3.57
+    },
+    {
+      "ticker": "KNDI",
+      "price": 4.2
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.419
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 3.1568
+    },
+    {
+      "ticker": "KNDI",
+      "price": 4.079
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.6206
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 3.58
+    },
+    {
+      "ticker": "KNDI",
+      "price": 4.125
+    },
+    {
+      "ticker": "CLDX",
+      "price": 0.6249
+    }
+  ]
+}

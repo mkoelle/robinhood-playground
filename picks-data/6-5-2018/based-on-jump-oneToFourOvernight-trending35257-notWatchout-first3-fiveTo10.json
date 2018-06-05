@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ONCY",
+      "price": 6.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.05
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONCY",
+      "price": 6.233
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.99
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.6948
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONCY",
+      "price": 6.3614
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.9675
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONCY",
+      "price": 6.3201
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.9395
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.6359
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KEYW",
+      "price": 9.28
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9.61
+    },
+    {
+      "ticker": "TTOO",
+      "price": 9.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EXPR",
+      "price": 9.615
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.903
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 9.7
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AU",
+      "price": 8.87
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.745
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGRO",
+      "price": 8.685
+    },
+    {
+      "ticker": "BKD",
+      "price": 8.495
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGRO",
+      "price": 8.675
+    },
+    {
+      "ticker": "BKD",
+      "price": 8.5
+    }
+  ]
+}

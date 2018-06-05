@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ODP",
+      "price": 2.725
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLDC",
+      "price": 3.57
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.7
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.431
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 3.1568
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.695
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 3.58
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.715
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.78
+    }
+  ]
+}

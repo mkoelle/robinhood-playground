@@ -93,7 +93,7 @@ module.exports = {
             'based-on-jump-gtEightOvernight-trending53-first1-5',
             'based-on-jump-gtEightOvernight-shouldWatchout-5',
             'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt50-210',
-            l'ow-float-high-volume-floatTimesfloatToVolume-trendgt30-6',
+            'low-float-high-volume-floatTimesfloatToVolume-trendgt30-6',
             'low-float-high-volume-floatTimesfloatToVolume-trendgt20-6',
         ],
         ...cheapestPicksEmailObj

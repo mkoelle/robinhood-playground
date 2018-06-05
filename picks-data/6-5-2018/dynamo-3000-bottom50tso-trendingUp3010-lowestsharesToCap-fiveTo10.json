@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TORC",
+      "price": 9.71
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRR",
+      "price": 9.57
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IRT",
+      "price": 9.82
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMBA",
+      "price": 9.87
+    },
+    {
+      "ticker": "IRT",
+      "price": 9.815
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IRT",
+      "price": 9.76
+    },
+    {
+      "ticker": "ESXB",
+      "price": 9.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRR",
+      "price": 9.505
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EPM",
+      "price": 9.875
+    },
+    {
+      "ticker": "IRT",
+      "price": 9.78
+    }
+  ]
+}

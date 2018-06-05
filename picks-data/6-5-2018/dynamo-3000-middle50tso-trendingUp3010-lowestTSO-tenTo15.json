@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ETY",
+      "price": 12.34
+    },
+    {
+      "ticker": "SVVC",
+      "price": 12.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IQI",
+      "price": 11.9869
+    },
+    {
+      "ticker": "MAV",
+      "price": 11.0732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 10.205
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.085
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SELB",
+      "price": 12.18
+    },
+    {
+      "ticker": "CSQ",
+      "price": 12.7265
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MHN",
+      "price": 12.5342
+    },
+    {
+      "ticker": "LVL",
+      "price": 10.8945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VMO",
+      "price": 11.8199
+    },
+    {
+      "ticker": "THW",
+      "price": 13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BAF",
+      "price": 13.959
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.0801
+    }
+  ]
+}

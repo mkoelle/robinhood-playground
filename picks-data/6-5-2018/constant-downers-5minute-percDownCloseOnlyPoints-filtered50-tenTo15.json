@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BTAI",
+      "price": 11
+    },
+    {
+      "ticker": "LPL",
+      "price": 10.4315
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.7001
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ROAD",
+      "price": 12.23
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.99
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.31
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SURF",
+      "price": 13.15
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.2995
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.78
+    }
+  ]
+}

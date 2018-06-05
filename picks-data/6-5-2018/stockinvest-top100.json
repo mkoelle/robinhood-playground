@@ -1,0 +1,42 @@
+{
+  "7": [
+    {
+      "ticker": "ATHX",
+      "price": 2.72
+    },
+    {
+      "ticker": "FIT",
+      "price": 6
+    }
+  ],
+  "60": [
+    {
+      "ticker": "ATHX",
+      "price": 2.76
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.1375
+    }
+  ],
+  "123": [
+    {
+      "ticker": "ATHX",
+      "price": 2.7448
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.195
+    }
+  ],
+  "263": [
+    {
+      "ticker": "ATHX",
+      "price": 2.78
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.2652
+    }
+  ]
+}

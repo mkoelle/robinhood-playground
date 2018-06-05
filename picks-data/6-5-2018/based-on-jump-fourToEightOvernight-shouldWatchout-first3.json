@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IBIO",
+      "price": 0.147
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1451
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.85
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IBIO",
+      "price": 0.151
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.7516
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IBIO",
+      "price": 0.168
+    },
+    {
+      "ticker": "NDRA",
+      "price": 3.0699
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.655
+    }
+  ]
+}

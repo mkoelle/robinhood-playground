@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JNCE",
+      "price": 7.1801
+    },
+    {
+      "ticker": "DRIP",
+      "price": 7.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNCE",
+      "price": 7.26
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.3365
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 6.56
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DWT",
+      "price": 9.38
+    },
+    {
+      "ticker": "BLNK",
+      "price": 6.4899
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTID",
+      "price": 9.895
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.2553
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTID",
+      "price": 9.9
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTID",
+      "price": 9.9
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.28
+    }
+  ]
+}

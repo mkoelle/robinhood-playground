@@ -1,0 +1,56 @@
+{
+  "10": [
+    {
+      "ticker": "UBX",
+      "price": 14.591
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.53
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.09
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ACMR",
+      "price": 13.59
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UBX",
+      "price": 14.0452
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.38
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UBX",
+      "price": 14.04
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.385
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UBX",
+      "price": 14.09
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.455
+    }
+  ]
+}

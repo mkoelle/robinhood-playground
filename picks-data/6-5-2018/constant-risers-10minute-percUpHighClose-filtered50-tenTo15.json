@@ -1,0 +1,44 @@
+{
+  "40": [
+    {
+      "ticker": "RPAI",
+      "price": 12.34
+    }
+  ],
+  "80": [
+    {
+      "ticker": "DDD",
+      "price": 13.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DDD",
+      "price": 13.26
+    }
+  ],
+  "140": [
+    {
+      "ticker": "DDD",
+      "price": 13.4001
+    }
+  ],
+  "198": [
+    {
+      "ticker": "EXPR",
+      "price": 10.015
+    }
+  ],
+  "250": [
+    {
+      "ticker": "EXPR",
+      "price": 10.145
+    }
+  ],
+  "300": [
+    {
+      "ticker": "EXPR",
+      "price": 10.175
+    }
+  ]
+}

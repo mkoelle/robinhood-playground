@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CWBR",
+      "price": 7.92
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.88
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CWBR",
+      "price": 7.94
+    },
+    {
+      "ticker": "IMV",
+      "price": 6.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CWBR",
+      "price": 7.53
+    },
+    {
+      "ticker": "IMV",
+      "price": 6.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CWBR",
+      "price": 7.82
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.585
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 5.54
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.61
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.62
+    }
+  ]
+}

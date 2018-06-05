@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VNCE",
+      "price": 12.1169
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFL",
+      "price": 10.051
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 12.75
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 10.07
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 10.61
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 10.01
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 10.01
+    },
+    {
+      "ticker": "ECYT",
+      "price": 12.84
+    }
+  ]
+}

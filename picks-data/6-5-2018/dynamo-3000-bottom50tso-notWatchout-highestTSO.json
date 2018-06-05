@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USEG",
+      "price": 1.23
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.259
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NDRO",
+      "price": 2.95
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNK",
+      "price": 1.075
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.633
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTEK",
+      "price": 3.85
+    },
+    {
+      "ticker": "KFS",
+      "price": 3.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPCB",
+      "price": 1.85
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHKR",
+      "price": 1.55
+    },
+    {
+      "ticker": "JRJC",
+      "price": 2.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOL",
+      "price": 2.3063
+    },
+    {
+      "ticker": "CIG",
+      "price": 1.92
+    }
+  ]
+}

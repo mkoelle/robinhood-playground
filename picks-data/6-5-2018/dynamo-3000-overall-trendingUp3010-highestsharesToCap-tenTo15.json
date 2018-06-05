@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTID",
+      "price": 10.37
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 10.12
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTID",
+      "price": 10.2429
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.205
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXPR",
+      "price": 10.045
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.1385
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EXPR",
+      "price": 10.115
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPR",
+      "price": 10.09
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.2089
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPR",
+      "price": 10.075
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.21
+    }
+  ]
+}

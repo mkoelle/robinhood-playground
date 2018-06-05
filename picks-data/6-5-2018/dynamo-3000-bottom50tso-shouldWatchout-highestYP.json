@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SESN",
+      "price": 2.5199
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.9052
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENSV",
+      "price": 1.201
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NOG",
+      "price": 2.3984
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTGM",
+      "price": 4.02
+    },
+    {
+      "ticker": "AEZS",
+      "price": 2.2115
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVM",
+      "price": 2.7871
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CVM",
+      "price": 2.9225
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.8875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVM",
+      "price": 2.8976
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.84
+    }
+  ]
+}

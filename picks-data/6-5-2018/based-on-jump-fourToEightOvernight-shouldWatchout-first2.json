@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IBIO",
+      "price": 0.147
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1451
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IBIO",
+      "price": 0.151
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.7516
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IBIO",
+      "price": 0.168
+    },
+    {
+      "ticker": "NDRA",
+      "price": 3.0699
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IRT",
+      "price": 10.06
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.0793
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 10.12
+    },
+    {
+      "ticker": "BDD",
+      "price": 9.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAYD",
+      "price": 10.53
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXPR",
+      "price": 10.045
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.591
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EXPR",
+      "price": 10.115
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.2902
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPR",
+      "price": 10.09
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.2089
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPR",
+      "price": 10.075
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.21
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BDR",
+      "price": 1.2399
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BDR",
+      "price": 1.28
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BDR",
+      "price": 1.314
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.2801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BDR",
+      "price": 1.4201
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.56
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TEDU",
+      "price": 8.08
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.455
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TEDU",
+      "price": 7.79
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TEDU",
+      "price": 7.5505
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.8501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TEDU",
+      "price": 7.49
+    },
+    {
+      "ticker": "FRAN",
+      "price": 5.9301
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "ODP",
+      "price": 2.725
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLDC",
+      "price": 3.57
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.7
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.431
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 3.1568
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.695
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.73
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.5563
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 3.58
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.715
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.78
+    },
+    {
+      "ticker": "HTGM",
+      "price": 4.2099
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5141
+    }
+  ]
+}
