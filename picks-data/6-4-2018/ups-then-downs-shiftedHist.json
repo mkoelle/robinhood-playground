@@ -80,5 +80,19 @@
       "ticker": "BIOC",
       "price": 0.2175
     }
+  ],
+  "600": [
+    {
+      "ticker": "KTOV",
+      "price": 2.59
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.86
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.215
+    }
   ]
 }

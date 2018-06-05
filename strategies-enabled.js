@@ -65,26 +65,13 @@ const forPurchase = [
     // based-on-jump-gtEightOvernight-shouldWatchout-5
 
     // new list
-    "based-on-jump-fourToEightOvernight-notWatchout-first2-fiveTo10-0",
-    "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-shouldWatchout-6",
-    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-6',
-    "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10-6",
-    "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-16",
-    "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to5-shouldWatchout-6",
-    "low-float-high-volume-floatTimesabsVolPoints-trenddown3to5-shouldWatchout-6",
-    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
-    "based-on-jump-down3overnight-trending103-notWatchout-first1-0",
-    "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-fiveTo10-150",
-    "low-float-high-volume-floatTimesabsVolPoints-trenddown5to7-notWatchout-fiveTo10-6",
-    "based-on-jump-gtEightOvernight-gt1milvolume-first3-fiveTo10-30",
-    "based-on-jump-oneToFourOvernight-trending607-gt500kvolume-first1-30",
-    "sudden-drops-last2trend-first2-63",
-    "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10-0",
-    'low-float-high-volume-floatTimesabsVolPoints-trenddown1to3-6',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to5-notWatchout-150',
-    'dynamo-3000-overall-onlyWatchout-highestTSO-fiveTo10-200',
-    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-210'
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-shouldWatchout-384',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown7to10-notWatchout-384',
+    'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-tenTo15-210',
+    'based-on-jump-oneToFourOvernight-shouldWatchout-first1-tenTo15-0',
+    'dynamo-3000-top50tso-notWatchout-lowestTSO-4'
 ];
 
 const cheapestPicksEmailObj = [
@@ -102,10 +89,12 @@ module.exports = {
     // purchase: hotStrats,
     email: {
         [['chief', 'sm', 'urph', '@', 'gm', 'ail', '.com'].join('')]: [
-            ...forPurchase,
             // for shorting
             'based-on-jump-gtEightOvernight-trending53-first1-5',
             'based-on-jump-gtEightOvernight-shouldWatchout-5',
+            'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt50-210',
+            l'ow-float-high-volume-floatTimesfloatToVolume-trendgt30-6',
+            'low-float-high-volume-floatTimesfloatToVolume-trendgt20-6',
         ],
         ...cheapestPicksEmailObj
     },
