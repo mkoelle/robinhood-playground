@@ -64,14 +64,21 @@ const forPurchase = [
     // low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt50-210
     // based-on-jump-gtEightOvernight-shouldWatchout-5
 
-    // new list
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-shouldWatchout-384',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown7to10-notWatchout-384',
+    // ok
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-150',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-150',
     'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
+    'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
+
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-shouldWatchout-384',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown7to10-notWatchout-384',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-tenTo15-210',
-    'based-on-jump-oneToFourOvernight-shouldWatchout-first1-tenTo15-0',
-    'dynamo-3000-top50tso-notWatchout-lowestTSO-4'
+    'dynamo-3000-top50tso-notWatchout-lowestTSO-4',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-95',
+    'sudden-drops-last3trend-first1-280',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-210',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
 ];
 
 const cheapestPicksEmailObj = [

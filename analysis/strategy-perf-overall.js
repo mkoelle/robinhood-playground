@@ -129,7 +129,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         name: strategyName + '-' + buyMin,
         avgTrend,
         trends: trends.map(t => Math.round(t)),
-        percUp: trends.filter(t => t > 0).length / trends.length,
+        percUp: trends.map(t => Math.round(t)).filter(t => t > 0).length / trends.length,
         hundredResult: trends.reduce((acc, val) => {
             return acc * (100 + val) / 100;
         }, 100),
