@@ -80,5 +80,27 @@
       "ticker": "CRNT",
       "price": 3.36
     }
+  ],
+  "600": [
+    {
+      "ticker": "AVXL",
+      "price": 3.47
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.48
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.93
+    },
+    {
+      "ticker": "EBR",
+      "price": 4
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.38
+    }
   ]
 }

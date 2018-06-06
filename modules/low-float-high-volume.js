@@ -48,8 +48,9 @@ const trendFilter = async (Robinhood, trend) => {
         .filter(buy => !!buy.sharesToCap);
 
     const addPoints = (ptKey, sort) => {
+        const sortFn = typeof sort === 'string' ? (a, b) => b[sort] - a[sort] : sort;
         return withTrendSinceOpen
-            .sort(typeof sort === 'string' ? (a, b) => b[sort] - a[sort] : sort)
+            .sort(sortFn)
             .map((buy, index, array) => {
                 const relPoints = (array.length - index) / array.length;
                 return {
@@ -71,8 +72,29 @@ const trendFilter = async (Robinhood, trend) => {
 
     console.log('got trend since open')
 
-    const baseKeys = Object.keys(withTrendSinceOpen[0])
-        .filter(key => key.includes('floatTimes'));
+    console.log(JSON.stringify(withTrendSinceOpen, null, 2));
+
+    let baseKeys = Object.keys(withTrendSinceOpen[0])
+        .filter(key => ['floatTimes', 'Points'].some(str => key.includes(str)));
+    console.log('baseKeys', baseKeys);
+    // let baseKeys = [
+    //     'sharesToCap',
+    //     'volumetoavg',
+    //     'volumeto2weekavg',
+    //     'twoweekvolumetoavg',
+    //     'absvolume',
+    //     'floatToVolume',
+    //     'floatPoints',
+    //     'absVolPoints',
+    //     'floatTimesabsVolPoints',
+    //     'volToAvgPoints',
+    //     'floatTimesvolToAvgPoints',
+    //     'volTo2WeekPoints',
+    //     'floatTimesvolTo2WeekPoints',
+    //     'twoWeekVolToAvgPoints',
+    //     'floatTimestwoWeekVolToAvgPoints',
+    //     'floatTimesfloatToVolume'
+    // ];
 
     let returnObj = {};
     const riskCache = {};
