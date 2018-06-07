@@ -73,14 +73,14 @@ const forPurchase = [
     'constant-risers-5minute-percUpCloseOnlyPoints-filtered50-198',
 
     // doubles
-    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30'
+    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown1to3-6',
     'based-on-jump-down3overnight-trending103-notWatchout-first1-0',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
     'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-0',
     'low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-6',
 
-    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30'
+    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown1to3-6',
     'based-on-jump-down3overnight-trending103-notWatchout-first1-0',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
