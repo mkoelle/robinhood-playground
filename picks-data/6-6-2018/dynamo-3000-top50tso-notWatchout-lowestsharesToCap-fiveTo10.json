@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTIE",
+      "price": 10.1489
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IPIC",
+      "price": 9.85
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 9.6242
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PZN",
+      "price": 9.29
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PZN",
+      "price": 9.3
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCM",
+      "price": 9.23
+    },
+    {
+      "ticker": "UNAM",
+      "price": 8.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCM",
+      "price": 9.215
+    },
+    {
+      "ticker": "UNAM",
+      "price": 8.35
+    }
+  ]
+}

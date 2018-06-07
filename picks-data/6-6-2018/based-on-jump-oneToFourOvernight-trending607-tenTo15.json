@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.59
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.31
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.28
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRYS",
+      "price": 11.1594
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.8002
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.08
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6701
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.495
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KRYS",
+      "price": 11.3
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.945
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.53
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.555
+    }
+  ]
+}

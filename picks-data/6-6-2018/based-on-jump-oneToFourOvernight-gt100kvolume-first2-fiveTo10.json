@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CRON",
+      "price": 7.0811
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 8.49
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBI",
+      "price": 9.045
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBI",
+      "price": 9.01
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.355
+    }
+  ]
+}

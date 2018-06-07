@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "HTGM",
+      "price": 3.9899
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.01
+    }
+  ],
+  "50": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.5248
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.995
+    },
+    {
+      "ticker": "EBR",
+      "price": 4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTGM",
+      "price": 3.97
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AVXL",
+      "price": 3.52
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AVXL",
+      "price": 3.6
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.94
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AVXL",
+      "price": 3.69
+    }
+  ]
+}

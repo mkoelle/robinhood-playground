@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CODX",
+      "price": 5.1255
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.3842
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BGI",
+      "price": 1.5
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.4826
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BGI",
+      "price": 1.4822
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.539
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BGI",
+      "price": 1.479
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.5378
+    }
+  ]
+}

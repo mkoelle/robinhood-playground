@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 10.09
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 10.13
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.171
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCII",
+      "price": 10.06
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHLO",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 10.0901
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KIN",
+      "price": 10.1
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.059
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCII",
+      "price": 10.015
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.692
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.65
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.2068
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.28
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRYS",
+      "price": 11.1594
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.08
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PHII",
+      "price": 11.9753
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.3
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.945
+    }
+  ]
+}

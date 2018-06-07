@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RUN",
+      "price": 12.4616
+    },
+    {
+      "ticker": "CYRX",
+      "price": 12.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 10.171
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLFS",
+      "price": 10.2
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.9522
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 12.0065
+    },
+    {
+      "ticker": "DRNA",
+      "price": 14.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 12.0065
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.0901
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRNA",
+      "price": 14.28
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RUN",
+      "price": 12.525
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.95
+    }
+  ]
+}

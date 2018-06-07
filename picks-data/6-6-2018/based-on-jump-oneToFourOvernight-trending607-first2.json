@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SSKN",
+      "price": 2.0888
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5477
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5451
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5498
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1255
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5439
+    }
+  ]
+}

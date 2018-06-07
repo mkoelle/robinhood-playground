@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SSKN",
+      "price": 2.0888
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.505
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.4965
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1255
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.4925
+    }
+  ]
+}

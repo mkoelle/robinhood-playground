@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASLN",
+      "price": 9.1712
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASPU",
+      "price": 7
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 5.86
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.7328
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 5.55
+    },
+    {
+      "ticker": "ENDP",
+      "price": 7.585
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLNK",
+      "price": 5.7343
+    },
+    {
+      "ticker": "ENDP",
+      "price": 7.665
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLNK",
+      "price": 5.6899
+    },
+    {
+      "ticker": "ENDP",
+      "price": 7.755
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLNK",
+      "price": 5.56
+    },
+    {
+      "ticker": "ENDP",
+      "price": 7.735
+    }
+  ]
+}

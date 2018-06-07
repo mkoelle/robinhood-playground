@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "XENE",
+      "price": 5.85
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MLNT",
+      "price": 7.275
+    },
+    {
+      "ticker": "XENE",
+      "price": 5.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLNT",
+      "price": 7.175
+    },
+    {
+      "ticker": "XENE",
+      "price": 6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MLNT",
+      "price": 7.325
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.1
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MLNT",
+      "price": 7.825
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.4
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MLNT",
+      "price": 7.8
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.45
+    }
+  ]
+}

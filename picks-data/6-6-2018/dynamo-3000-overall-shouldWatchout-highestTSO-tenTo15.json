@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFH",
+      "price": 11.5
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FATE",
+      "price": 12.34
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNPX",
+      "price": 11.2
+    },
+    {
+      "ticker": "AFH",
+      "price": 11.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFH",
+      "price": 11.7
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.03
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 11.2012
+    },
+    {
+      "ticker": "AFH",
+      "price": 11.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 11.269
+    },
+    {
+      "ticker": "AFH",
+      "price": 11.75
+    }
+  ]
+}

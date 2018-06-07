@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PRPH",
+      "price": 2.9501
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.1255
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5984
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPH",
+      "price": 2.86
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.4826
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPH",
+      "price": 3.0885
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.539
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.4822
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPH",
+      "price": 2.9911
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.5378
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.479
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MBI",
+      "price": 8.9
+    },
+    {
+      "ticker": "VUZI",
+      "price": 6.3635
+    },
+    {
+      "ticker": "HBM",
+      "price": 6.8624
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBI",
+      "price": 9.11
+    },
+    {
+      "ticker": "VUZI",
+      "price": 6.3
+    },
+    {
+      "ticker": "HBM",
+      "price": 6.875
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBI",
+      "price": 9.045
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.16
+    },
+    {
+      "ticker": "VUZI",
+      "price": 6.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBI",
+      "price": 9.01
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.16
+    },
+    {
+      "ticker": "VUZI",
+      "price": 6.45
+    }
+  ]
+}

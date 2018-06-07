@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDXS",
+      "price": 14.85
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDXS",
+      "price": 14.95
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 13.475
+    },
+    {
+      "ticker": "CYRX",
+      "price": 13.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 13.475
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.9231
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 13.45
+    },
+    {
+      "ticker": "CYRX",
+      "price": 12.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 13.475
+    },
+    {
+      "ticker": "CYRX",
+      "price": 13.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 13.5
+    },
+    {
+      "ticker": "CYRX",
+      "price": 13.1301
+    }
+  ]
+}

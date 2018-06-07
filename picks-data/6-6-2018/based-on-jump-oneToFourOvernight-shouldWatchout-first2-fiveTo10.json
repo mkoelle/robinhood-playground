@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ETM",
+      "price": 6.669
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ETM",
+      "price": 6.625
+    },
+    {
+      "ticker": "NL",
+      "price": 9.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DXR",
+      "price": 7.025
+    },
+    {
+      "ticker": "ETM",
+      "price": 6.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DXR",
+      "price": 7.025
+    },
+    {
+      "ticker": "ETM",
+      "price": 6.625
+    }
+  ]
+}

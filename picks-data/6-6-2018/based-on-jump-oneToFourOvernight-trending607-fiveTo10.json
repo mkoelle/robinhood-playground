@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GCV",
+      "price": 6.5
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.07
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.675
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.0811
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GCV",
+      "price": 6.522
+    },
+    {
+      "ticker": "NL",
+      "price": 9.9
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.04
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.7018
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GCV",
+      "price": 6.44
+    },
+    {
+      "ticker": "NL",
+      "price": 9.979
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.255
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.575
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GCV",
+      "price": 6.43
+    },
+    {
+      "ticker": "NL",
+      "price": 9.95
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.2
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "LBY",
+      "price": 7
+    }
+  ]
+}

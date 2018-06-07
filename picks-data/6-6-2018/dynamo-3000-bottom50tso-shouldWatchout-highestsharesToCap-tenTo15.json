@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 10.09
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.587
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 10.551
+    },
+    {
+      "ticker": "TELL",
+      "price": 10.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHLO",
+      "price": 10.05
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.9498
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRCW",
+      "price": 10.57
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHLO",
+      "price": 10.059
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.74
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 10.692
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.18
+    }
+  ]
+}

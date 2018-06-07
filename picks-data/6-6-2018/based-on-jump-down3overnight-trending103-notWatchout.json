@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "FGP",
+      "price": 3.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "FGP",
+      "price": 3.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "FGP",
+      "price": 3.837
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.5801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "FGP",
+      "price": 3.84
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.5801
+    }
+  ]
+}

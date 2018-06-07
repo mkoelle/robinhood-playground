@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CIX",
+      "price": 13.7
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.85
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    },
+    {
+      "ticker": "PAR",
+      "price": 13.8
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLFS",
+      "price": 10.14
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.25
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.225
+    }
+  ]
+}

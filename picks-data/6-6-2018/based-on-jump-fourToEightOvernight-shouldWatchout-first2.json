@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNES",
+      "price": 2.05
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNES",
+      "price": 2.12
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNES",
+      "price": 2.2041
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4811
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNES",
+      "price": 2.17
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.495
+    }
+  ]
+}

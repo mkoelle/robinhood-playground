@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 13.575
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 13.46
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 13.349
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.8002
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6701
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNAP",
+      "price": 13.2086
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.26
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.24
+    }
+  ]
+}

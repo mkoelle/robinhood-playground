@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CTG",
+      "price": 7.33
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.67
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.7328
+    },
+    {
+      "ticker": "TXMD",
+      "price": 7.283
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.75
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.8502
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 6.1244
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.7542
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.81
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CWBR",
+      "price": 8.8
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.74
+    }
+  ]
+}

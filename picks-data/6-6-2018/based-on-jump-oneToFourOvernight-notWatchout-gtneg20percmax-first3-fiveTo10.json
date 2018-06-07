@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GCV",
+      "price": 6.5
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.525
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GCV",
+      "price": 6.522
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.12
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GCV",
+      "price": 6.44
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.06
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GCV",
+      "price": 6.43
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.355
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABCD",
+      "price": 10.36
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMM",
+      "price": 10.07
+    },
+    {
+      "ticker": "MEN",
+      "price": 10.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IAE",
+      "price": 10.3298
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RPXC",
+      "price": 10.475
+    },
+    {
+      "ticker": "RGT",
+      "price": 11.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RPXC",
+      "price": 10.48
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.773
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRCW",
+      "price": 10.75
+    },
+    {
+      "ticker": "ENX",
+      "price": 11.2431
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIA",
+      "price": 10.82
+    },
+    {
+      "ticker": "RGT",
+      "price": 11.0735
+    }
+  ]
+}

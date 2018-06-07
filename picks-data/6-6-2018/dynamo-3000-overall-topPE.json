@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "AKG",
+      "price": 1.23
+    },
+    {
+      "ticker": "SAND",
+      "price": 4.505
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.0614
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.5432
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGEN",
+      "price": 3.61
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.06
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.5821
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.62
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6115
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.0549
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.64
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6115
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGEN",
+      "price": 3.67
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.63
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGEN",
+      "price": 3.65
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.06
+    }
+  ]
+}

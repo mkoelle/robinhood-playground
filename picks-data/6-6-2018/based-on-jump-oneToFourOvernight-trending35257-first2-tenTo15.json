@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 13.575
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 13.46
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 13.349
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.1594
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNAP",
+      "price": 13.2086
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.3
+    }
+  ]
+}

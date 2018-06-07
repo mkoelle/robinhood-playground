@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALT",
+      "price": 0.601
+    },
+    {
+      "ticker": "ZN",
+      "price": 3.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SINO",
+      "price": 1.3316
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 3.142
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOS",
+      "price": 1.5449
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVXL",
+      "price": 3.434
+    },
+    {
+      "ticker": "GNW",
+      "price": 3.815
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNC",
+      "price": 3.215
+    },
+    {
+      "ticker": "HDSN",
+      "price": 2.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STRM",
+      "price": 1.56
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.77
+    }
+  ]
+}

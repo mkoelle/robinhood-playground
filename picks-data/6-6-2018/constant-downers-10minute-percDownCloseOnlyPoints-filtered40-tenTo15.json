@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MPO",
+      "price": 12.77
+    },
+    {
+      "ticker": "ACMR",
+      "price": 12.55
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.9522
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.75
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.875
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SPOK",
+      "price": 14.85
+    },
+    {
+      "ticker": "CIX",
+      "price": 13.75
+    },
+    {
+      "ticker": "EDF",
+      "price": 14.2501
+    }
+  ]
+}

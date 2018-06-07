@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6299
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.3501
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6003
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.3501
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.6114
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SSKN",
+      "price": 2.0888
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.699
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSKN",
+      "price": 2.1255
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.299
+    }
+  ]
+}

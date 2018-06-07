@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KRYS",
+      "price": 11.1594
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.8002
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KRYS",
+      "price": 11.3
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.945
+    }
+  ]
+}

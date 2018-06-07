@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GOGO",
+      "price": 4.99
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.1401
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXU",
+      "price": 5.11
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.079
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PETX",
+      "price": 5.065
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GOGO",
+      "price": 5.015
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LFVN",
+      "price": 5.03
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFVN",
+      "price": 5.135
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.015
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 5.2052
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.04
+    }
+  ]
+}

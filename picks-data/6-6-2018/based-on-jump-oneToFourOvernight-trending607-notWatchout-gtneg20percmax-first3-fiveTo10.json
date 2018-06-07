@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GCV",
+      "price": 6.5
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5
+    },
+    {
+      "ticker": "MAMS",
+      "price": 9.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GCV",
+      "price": 6.522
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.589
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GCV",
+      "price": 6.44
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.575
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GCV",
+      "price": 6.43
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.3399
+    }
+  ]
+}

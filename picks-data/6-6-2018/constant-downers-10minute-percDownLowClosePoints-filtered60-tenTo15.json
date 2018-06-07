@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CIX",
+      "price": 13.7
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "WSC",
+      "price": 11.985
+    }
+  ],
+  "242": [
+    {
+      "ticker": "KIRK",
+      "price": 12.3001
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.613
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AMID",
+      "price": 10.62
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.81
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.14
+    }
+  ]
+}

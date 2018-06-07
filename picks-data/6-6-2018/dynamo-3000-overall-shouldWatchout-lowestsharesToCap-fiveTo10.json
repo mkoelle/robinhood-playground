@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASLN",
+      "price": 9.1712
+    },
+    {
+      "ticker": "TRUE",
+      "price": 9.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHLO",
+      "price": 9.95
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHLO",
+      "price": 9.53
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 9.951
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHLO",
+      "price": 9.99
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEP",
+      "price": 9.925
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EEP",
+      "price": 9.9165
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.9201
+    }
+  ]
+}

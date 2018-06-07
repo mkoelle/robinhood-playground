@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PEIX",
+      "price": 3.3
+    },
+    {
+      "ticker": "VTL",
+      "price": 4.925
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPCB",
+      "price": 1.95
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.045
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNK",
+      "price": 1.1027
+    },
+    {
+      "ticker": "CORV",
+      "price": 2.143
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOS",
+      "price": 1.5449
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AEHR",
+      "price": 2.81
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYMX",
+      "price": 3.51
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CGEN",
+      "price": 3.85
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.4456
+    }
+  ]
+}

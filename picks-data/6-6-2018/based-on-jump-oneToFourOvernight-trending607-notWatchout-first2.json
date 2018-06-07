@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNN",
+      "price": 0.5477
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNN",
+      "price": 0.5451
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.8201
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNN",
+      "price": 0.5498
+    },
+    {
+      "ticker": "ONP",
+      "price": 1.189
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNN",
+      "price": 0.5439
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.99
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CVE",
+      "price": 10.06
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.07
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYBX",
+      "price": 10.05
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 10.05
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 10.0469
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 10.06
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 10.0399
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.0769
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 10.14
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.12
+    }
+  ]
+}

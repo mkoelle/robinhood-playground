@@ -1,0 +1,46 @@
+{
+  "10": [
+    {
+      "ticker": "LOOP",
+      "price": 12.21
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CYRX",
+      "price": 12.63
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 12.89
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CYRX",
+      "price": 12.945
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CYRX",
+      "price": 13.15
+    },
+    {
+      "ticker": "LOOP",
+      "price": 12.06
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CYRX",
+      "price": 13.14
+    }
+  ]
+}

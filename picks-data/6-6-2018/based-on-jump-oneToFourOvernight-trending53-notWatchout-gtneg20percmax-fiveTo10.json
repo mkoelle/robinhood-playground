@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 5.5
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.815
+    },
+    {
+      "ticker": "MAMS",
+      "price": 9.02
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 5.589
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.8084
+    },
+    {
+      "ticker": "MAMS",
+      "price": 9.02
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 5.4
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.87
+    },
+    {
+      "ticker": "MAMS",
+      "price": 9.02
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 5.3399
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.9237
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.96
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.4
+    }
+  ]
+}

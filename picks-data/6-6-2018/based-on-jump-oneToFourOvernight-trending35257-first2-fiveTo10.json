@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GCV",
+      "price": 6.5
+    },
+    {
+      "ticker": "OCUL",
+      "price": 7.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GCV",
+      "price": 6.522
+    },
+    {
+      "ticker": "NL",
+      "price": 9.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GCV",
+      "price": 6.44
+    },
+    {
+      "ticker": "NL",
+      "price": 9.979
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GCV",
+      "price": 6.43
+    },
+    {
+      "ticker": "NL",
+      "price": 9.95
+    }
+  ]
+}

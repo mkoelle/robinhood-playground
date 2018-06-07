@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CPSH",
+      "price": 1.6
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.755
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ALIM",
+      "price": 0.8215
+    },
+    {
+      "ticker": "GIGM",
+      "price": 3.1363
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NBY",
+      "price": 2.145
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3922
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5171
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKYI",
+      "price": 2.3077
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SID",
+      "price": 2.2644
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKYI",
+      "price": 2.2854
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.7913
+    }
+  ]
+}

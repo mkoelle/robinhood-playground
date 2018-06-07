@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OXBR",
+      "price": 1.25
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.5025
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OXBR",
+      "price": 1.25
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.5025
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OXBR",
+      "price": 1.25
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.3501
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OXBR",
+      "price": 1.2995
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.3501
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.45
+    }
+  ]
+}

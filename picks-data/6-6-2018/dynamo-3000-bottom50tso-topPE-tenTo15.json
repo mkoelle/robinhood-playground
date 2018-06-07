@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.4951
+    },
+    {
+      "ticker": "ADTN",
+      "price": 15.1
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 14.34
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.02
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 14.32
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 14.305
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.9375
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.74
+    },
+    {
+      "ticker": "AES",
+      "price": 12.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 14.465
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.895
+    },
+    {
+      "ticker": "AES",
+      "price": 12.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 14.4
+    },
+    {
+      "ticker": "NTP",
+      "price": 11.845
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.95
+    }
+  ]
+}

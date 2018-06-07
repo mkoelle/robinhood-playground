@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMGN",
+      "price": 11.3
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMGN",
+      "price": 11.67
+    },
+    {
+      "ticker": "UMRX",
+      "price": 13.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UMRX",
+      "price": 14.1
+    },
+    {
+      "ticker": "ADAP",
+      "price": 13.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRVS",
+      "price": 12.99
+    },
+    {
+      "ticker": "ADAP",
+      "price": 13.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRVS",
+      "price": 12.97
+    },
+    {
+      "ticker": "ADAP",
+      "price": 13.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRVS",
+      "price": 12.96
+    },
+    {
+      "ticker": "CCJ",
+      "price": 12.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRYS",
+      "price": 12.4962
+    },
+    {
+      "ticker": "NTRA",
+      "price": 12.57
+    }
+  ]
+}

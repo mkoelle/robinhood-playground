@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LFGR",
+      "price": 10.05
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.85
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BLFS",
+      "price": 10.05
+    },
+    {
+      "ticker": "PAR",
+      "price": 13.8
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CIX",
+      "price": 13.75
+    },
+    {
+      "ticker": "PAR",
+      "price": 14
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.81
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SURF",
+      "price": 12.53
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.45
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.8436
+    }
+  ],
+  "242": [
+    {
+      "ticker": "INNT",
+      "price": 12.64
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.3001
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "INNT",
+      "price": 12.44
+    },
+    {
+      "ticker": "SHLO",
+      "price": 10.02
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.92
+    }
+  ]
+}

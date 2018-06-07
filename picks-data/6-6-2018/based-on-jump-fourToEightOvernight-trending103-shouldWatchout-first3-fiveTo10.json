@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "MRNS",
+      "price": 7.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MRNS",
+      "price": 7.3676
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.8251
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MRNS",
+      "price": 7.38
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRNS",
+      "price": 7.11
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.28
+    }
+  ]
+}

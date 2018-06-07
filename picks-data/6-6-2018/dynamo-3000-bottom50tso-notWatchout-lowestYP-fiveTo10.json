@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACHV",
+      "price": 8.8773
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACHV",
+      "price": 8.5
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACHV",
+      "price": 8.3284
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACHV",
+      "price": 8.6152
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACHV",
+      "price": 8.57
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACHV",
+      "price": 8.32
+    },
+    {
+      "ticker": "DLNG",
+      "price": 7.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ACHV",
+      "price": 8.7
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.35
+    }
+  ]
+}

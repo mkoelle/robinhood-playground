@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BCLI",
+      "price": 4.99
+    },
+    {
+      "ticker": "LFVN",
+      "price": 4.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODX",
+      "price": 4.9456
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.97
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODX",
+      "price": 4.96
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.905
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCLI",
+      "price": 4.92
+    },
+    {
+      "ticker": "LFVN",
+      "price": 4.985
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CODX",
+      "price": 4.893
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIRC",
+      "price": 4.775
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADMA",
+      "price": 4.98
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.93
+    }
+  ]
+}

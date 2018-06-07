@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SGMA",
+      "price": 7.16
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.1757
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CODX",
+      "price": 5.1598
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.16
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.1712
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODX",
+      "price": 5.08
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.3
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODX",
+      "price": 4.92
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.47
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.08
+    }
+  ]
+}

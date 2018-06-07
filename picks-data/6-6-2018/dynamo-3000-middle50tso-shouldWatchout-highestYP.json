@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APTO",
+      "price": 3.6219
+    },
+    {
+      "ticker": "BVX",
+      "price": 4.1818
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OSG",
+      "price": 3.7558
+    },
+    {
+      "ticker": "TLRA",
+      "price": 4.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENSV",
+      "price": 1.225
+    },
+    {
+      "ticker": "KDMN",
+      "price": 3.7199
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMSI",
+      "price": 2.48
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDPI",
+      "price": 2.07
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDPI",
+      "price": 2.07
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JASN",
+      "price": 2.96
+    },
+    {
+      "ticker": "ZDGE",
+      "price": 3.762
+    }
+  ]
+}

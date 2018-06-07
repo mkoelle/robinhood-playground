@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTOO",
+      "price": 8.6974
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 5.31
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 5.31
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.3751
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 9.985
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.275
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.4259
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 8.99
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.29
+    },
+    {
+      "ticker": "TTOO",
+      "price": 8.59
+    }
+  ]
+}

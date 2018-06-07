@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ADTN",
+      "price": 15.1
+    },
+    {
+      "ticker": "AQXP",
+      "price": 15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPOK",
+      "price": 14.85
+    },
+    {
+      "ticker": "AQXP",
+      "price": 14.9496
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMEH",
+      "price": 14.4
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMEH",
+      "price": 14.86
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.9375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    },
+    {
+      "ticker": "BRID",
+      "price": 14.685
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MMLP",
+      "price": 14.85
+    },
+    {
+      "ticker": "INN",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMEH",
+      "price": 14.33
+    },
+    {
+      "ticker": "MMLP",
+      "price": 14.875
+    }
+  ]
+}

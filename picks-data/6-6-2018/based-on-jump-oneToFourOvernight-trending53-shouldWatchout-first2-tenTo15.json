@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 13.575
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 13.46
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 13.349
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.8002
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNAP",
+      "price": 13.2086
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    }
+  ]
+}

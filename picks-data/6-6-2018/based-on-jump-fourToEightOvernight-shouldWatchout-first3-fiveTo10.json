@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MRNS",
+      "price": 7.15
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MRNS",
+      "price": 7.3676
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.46
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.8251
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MRNS",
+      "price": 7.38
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.3973
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRNS",
+      "price": 7.11
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.3973
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.28
+    }
+  ]
+}

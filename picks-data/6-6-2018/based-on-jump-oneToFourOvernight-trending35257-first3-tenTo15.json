@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNAP",
+      "price": 13.575
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNAP",
+      "price": 13.46
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.27
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNAP",
+      "price": 13.349
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.1594
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.8002
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNAP",
+      "price": 13.2086
+    },
+    {
+      "ticker": "KRYS",
+      "price": 11.3
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.49
+    }
+  ]
+}

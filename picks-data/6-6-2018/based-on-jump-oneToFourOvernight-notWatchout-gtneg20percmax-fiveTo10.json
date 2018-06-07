@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GCV",
+      "price": 6.5
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.525
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.72
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.815
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GCV",
+      "price": 6.522
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.12
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.49
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.589
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GCV",
+      "price": 6.44
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.06
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.48
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.575
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GCV",
+      "price": 6.43
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.355
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.55
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.25
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.3399
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DNN",
+      "price": 0.5477
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.99
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2392
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNN",
+      "price": 0.5451
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.98
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2371
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNN",
+      "price": 0.5498
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.98
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2474
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNN",
+      "price": 0.5439
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.99
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.9556
+    }
+  ]
+}
