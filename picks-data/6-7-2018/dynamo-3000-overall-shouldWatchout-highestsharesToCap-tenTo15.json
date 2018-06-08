@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.905
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASLN",
+      "price": 9.97
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASLN",
+      "price": 10
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASLN",
+      "price": 10.24
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASLN",
+      "price": 9.95
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPR",
+      "price": 10.19
+    },
+    {
+      "ticker": "GIFI",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASLN",
+      "price": 10.01
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.015
+    }
+  ]
+}

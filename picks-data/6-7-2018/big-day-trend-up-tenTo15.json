@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "BGCP",
+      "price": 11.355
+    },
+    {
+      "ticker": "UBX",
+      "price": 13.71
+    }
+  ],
+  "35": [
+    {
+      "ticker": "BGCP",
+      "price": 11.39
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.4
+    },
+    {
+      "ticker": "JAG",
+      "price": 11.63
+    }
+  ],
+  "90": [
+    {
+      "ticker": "SCWX",
+      "price": 11.795
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.415
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.26
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.675
+    },
+    {
+      "ticker": "JAG",
+      "price": 11.61
+    }
+  ],
+  "223": [
+    {
+      "ticker": "BGCP",
+      "price": 11.385
+    },
+    {
+      "ticker": "SCWX",
+      "price": 11.55
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.83
+    },
+    {
+      "ticker": "JAG",
+      "price": 11.73
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.238
+    }
+  ]
+}

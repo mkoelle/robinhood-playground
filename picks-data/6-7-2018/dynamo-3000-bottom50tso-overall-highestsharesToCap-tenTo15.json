@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.04
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AAC",
+      "price": 10.2545
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JMBA",
+      "price": 10.02
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTRP",
+      "price": 10.44
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.1053
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTRP",
+      "price": 10.55
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ULBI",
+      "price": 9.95
+    },
+    {
+      "ticker": "ARWR",
+      "price": 10.37
+    }
+  ]
+}

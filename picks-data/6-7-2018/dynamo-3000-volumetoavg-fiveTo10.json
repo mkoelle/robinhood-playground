@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNTY",
+      "price": 8.12
+    },
+    {
+      "ticker": "NETE",
+      "price": 6.5335
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMSC",
+      "price": 5.7711
+    },
+    {
+      "ticker": "DSM",
+      "price": 7.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFA",
+      "price": 5.99
+    },
+    {
+      "ticker": "NCA",
+      "price": 9.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCPH",
+      "price": 7.62
+    },
+    {
+      "ticker": "EOD",
+      "price": 5.7299
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BSBR",
+      "price": 7.66
+    },
+    {
+      "ticker": "HYB",
+      "price": 8.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 7.4025
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARCO",
+      "price": 7.15
+    },
+    {
+      "ticker": "MCR",
+      "price": 7.92
+    }
+  ]
+}

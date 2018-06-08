@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "ONTX",
+      "price": 0.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONTX",
+      "price": 0.5412
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6112
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3345
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6372
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3301
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.9
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.85
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BTAI",
+      "price": 11.04
+    },
+    {
+      "ticker": "UMRX",
+      "price": 13.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 14.48
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.3888
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.445
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.405
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 10.435
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 10.47
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMGN",
+      "price": 10.365
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMGN",
+      "price": 10.35
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.85
+    }
+  ]
+}

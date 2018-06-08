@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZYNE",
+      "price": 11.5015
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZYNE",
+      "price": 11.3838
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.19
+    }
+  ]
+}

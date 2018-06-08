@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 13.75
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.905
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 10.74
+    },
+    {
+      "ticker": "CYRX",
+      "price": 13.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLFS",
+      "price": 10.8952
+    },
+    {
+      "ticker": "CYRX",
+      "price": 13.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 10.829
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 10.71
+    },
+    {
+      "ticker": "SVVC",
+      "price": 13.6335
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FNKO",
+      "price": 11.295
+    },
+    {
+      "ticker": "SVVC",
+      "price": 13.5283
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNKO",
+      "price": 11.27
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10.01
+    }
+  ]
+}

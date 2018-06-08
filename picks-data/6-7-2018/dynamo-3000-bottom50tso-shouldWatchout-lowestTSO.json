@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SNES",
+      "price": 1.8276
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4981
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ANW",
+      "price": 1.04
+    },
+    {
+      "ticker": "RSLS",
+      "price": 3.2928
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNES",
+      "price": 1.68
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNES",
+      "price": 1.7014
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNES",
+      "price": 1.6799
+    },
+    {
+      "ticker": "SEED",
+      "price": 0.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AXON",
+      "price": 4.8352
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.6985
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AXON",
+      "price": 4.85
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.695
+    }
+  ]
+}

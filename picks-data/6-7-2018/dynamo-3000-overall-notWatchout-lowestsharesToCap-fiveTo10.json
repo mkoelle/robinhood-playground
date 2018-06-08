@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XAN",
+      "price": 9.99
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XAN",
+      "price": 9.95
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XAN",
+      "price": 9.985
+    },
+    {
+      "ticker": "GRX",
+      "price": 9.9801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XAN",
+      "price": 9.98
+    },
+    {
+      "ticker": "ORBC",
+      "price": 9.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XAN",
+      "price": 9.925
+    },
+    {
+      "ticker": "GRX",
+      "price": 9.9973
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JMBA",
+      "price": 9.95
+    },
+    {
+      "ticker": "XAN",
+      "price": 9.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCII",
+      "price": 9.87
+    },
+    {
+      "ticker": "XAN",
+      "price": 9.95
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SHNY",
+      "price": 8.15
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHNY",
+      "price": 8.15
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.453
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SHNY",
+      "price": 8.15
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SHNY",
+      "price": 8.15
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.55
+    }
+  ]
+}

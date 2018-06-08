@@ -63,37 +63,14 @@ const forPurchase = [
     // low-float-high-volume-floatTimesfloatToVolume-trendgt20-6
     // low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt50-210
     // based-on-jump-gtEightOvernight-shouldWatchout-5
-
-    // triples
+    
     'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
-    'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
-    'constant-risers-10minute-percUpCloseOnlyPoints-filtered60-300',
-    'constant-risers-5minute-percUpCloseOnlyPoints-filtered60-140',
-    'constant-risers-5minute-percUpCloseOnlyPoints-filtered60-140',
-    'constant-risers-5minute-percUpCloseOnlyPoints-filtered50-198',
-
-    // doubles
-    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown1to3-6',
-    'based-on-jump-down3overnight-trending103-notWatchout-first1-0',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
-    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-0',
-    'low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-6',
-
-    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-30',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown1to3-6',
-    'based-on-jump-down3overnight-trending103-notWatchout-first1-0',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-315',
-    'based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10-0',
-    'low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-6',
-
-    // singles
-    'low-float-high-volume-floatTimesvolToAvgPoints-trendgt20-notWatchout-fiveTo10-276',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25-notWatchout-150',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trend10to15-notWatchout-95',
-    'based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10-16',
-    'based-on-jump-down5overnight-trending607-shouldWatchout-first1-fiveTo10-30',
-    'based-on-jump-gtEightOvernight-trending35257-gt1milvolume-first1-5'
+    'low-float-high-volume-twoWeekVolToAvgPoints-trendup1to3-6',
+    'low-float-high-volume-absVolPoints-6',
+    'low-float-high-volume-absVolPoints-25',
+    'based-on-jump-down5overnight-trending607-shouldWatchout-first1-fiveTo10-0',
+    'up-streak-6to8days-ltneg3overnight-45',
+    'low-float-high-volume-twoWeekVolToAvgPoints-150',
 ];
 
 const cheapestPicksEmailObj = [

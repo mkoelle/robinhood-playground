@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AETI",
+      "price": 1.3636
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AETI",
+      "price": 1.591
+    },
+    {
+      "ticker": "EKSO",
+      "price": 1.8295
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.6119
+    },
+    {
+      "ticker": "REED",
+      "price": 3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.59
+    },
+    {
+      "ticker": "REED",
+      "price": 2.95
+    }
+  ]
+}

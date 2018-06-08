@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3448
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.5395
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.6119
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.57
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.821
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.0469
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.59
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.645
+    },
+    {
+      "ticker": "SWN",
+      "price": 4.885
+    },
+    {
+      "ticker": "MNKD",
+      "price": 2.025
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.37
+    }
+  ]
+}

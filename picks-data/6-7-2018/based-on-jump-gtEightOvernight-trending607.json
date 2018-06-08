@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    },
+    {
+      "ticker": "ATHX",
+      "price": 3.021
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.99
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.92
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.811
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.85
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.725
+    }
+  ]
+}

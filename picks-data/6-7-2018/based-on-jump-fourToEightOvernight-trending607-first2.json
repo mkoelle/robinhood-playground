@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CRMD",
+      "price": 0.3
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRMD",
+      "price": 0.3179
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRMD",
+      "price": 0.3345
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRMD",
+      "price": 0.3301
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.5282
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AFSI",
+      "price": 14.471
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.585
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AFSI",
+      "price": 14.4758
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6177
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.5
+    }
+  ]
+}

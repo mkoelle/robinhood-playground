@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "OXBR",
+      "price": 1.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OXBR",
+      "price": 1.1942
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OXBR",
+      "price": 1.15
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OXBR",
+      "price": 1.1
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.59
+    }
+  ]
+}

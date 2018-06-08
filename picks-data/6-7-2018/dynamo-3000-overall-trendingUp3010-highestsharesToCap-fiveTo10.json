@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXON",
+      "price": 5.45
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.1355
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXON",
+      "price": 5.6
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXON",
+      "price": 6.335
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.0301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AXON",
+      "price": 6.065
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AXON",
+      "price": 5.725
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XELA",
+      "price": 5.0399
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NRO",
+      "price": 5.0752
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.1
+    }
+  ]
+}

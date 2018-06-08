@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PTI",
+      "price": 3.39
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2179
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PTI",
+      "price": 3.53
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2151
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PTI",
+      "price": 3.325
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2165
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTI",
+      "price": 3.18
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2144
+    }
+  ]
+}

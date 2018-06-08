@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RCII",
+      "price": 10.05
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6099
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRCP",
+      "price": 10.4
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MVO",
+      "price": 10.0353
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVO",
+      "price": 10.23
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.3315
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVO",
+      "price": 10.075
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.1515
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MVO",
+      "price": 10.0799
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MVO",
+      "price": 10.07
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.12
+    }
+  ]
+}

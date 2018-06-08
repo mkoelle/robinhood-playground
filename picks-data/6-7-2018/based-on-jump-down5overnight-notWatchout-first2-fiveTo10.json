@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMSC",
+      "price": 6.25
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMSC",
+      "price": 6.14
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMSC",
+      "price": 6.1456
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.31
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMSC",
+      "price": 5.88
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.31
+    }
+  ]
+}

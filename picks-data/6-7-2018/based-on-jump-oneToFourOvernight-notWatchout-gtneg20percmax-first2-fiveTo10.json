@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JYNT",
+      "price": 7.65
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.525
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JYNT",
+      "price": 7.65
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.475
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JYNT",
+      "price": 7.45
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JYNT",
+      "price": 7.44
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.6
+    }
+  ]
+}

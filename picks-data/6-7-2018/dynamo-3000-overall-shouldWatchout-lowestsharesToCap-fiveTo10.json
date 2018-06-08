@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PBR",
+      "price": 9.76
+    },
+    {
+      "ticker": "EEP",
+      "price": 9.915
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GIFI",
+      "price": 9.95
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.775
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 9.8299
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 9.43
+    },
+    {
+      "ticker": "SHLO",
+      "price": 9.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GIFI",
+      "price": 9.9
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.86
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 9.92
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.58
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 9.91
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.665
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IFON",
+      "price": 4.1001
+    },
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IFON",
+      "price": 4.011
+    },
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IFON",
+      "price": 4.15
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IFON",
+      "price": 4.012
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    }
+  ]
+}

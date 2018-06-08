@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ARL",
+      "price": 13.62
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.2
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.375
+    }
+  ],
+  "242": [
+    {
+      "ticker": "JAX",
+      "price": 12.1
+    },
+    {
+      "ticker": "NTP",
+      "price": 11.69
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.42
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NTP",
+      "price": 11.7
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.95
+    },
+    {
+      "ticker": "RMCF",
+      "price": 10.8
+    }
+  ]
+}

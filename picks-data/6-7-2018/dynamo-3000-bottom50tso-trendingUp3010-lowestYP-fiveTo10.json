@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRVG",
+      "price": 5.075
+    },
+    {
+      "ticker": "AXON",
+      "price": 5.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXON",
+      "price": 5.6
+    },
+    {
+      "ticker": "MLNT",
+      "price": 7.5719
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPI",
+      "price": 6.97
+    },
+    {
+      "ticker": "MCRB",
+      "price": 8.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TENX",
+      "price": 6.33
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALRN",
+      "price": 5.35
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DXR",
+      "price": 6.878
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWT",
+      "price": 9.001
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.35
+    }
+  ]
+}

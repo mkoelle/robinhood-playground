@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GNPX",
+      "price": 11
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.5015
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.72
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.5039
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.91
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 11
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.3838
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.77
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.5555
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 10.8676
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.2
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.81
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 10.9
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.19
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.97
+    },
+    {
+      "ticker": "NGL",
+      "price": 11.49
+    }
+  ]
+}

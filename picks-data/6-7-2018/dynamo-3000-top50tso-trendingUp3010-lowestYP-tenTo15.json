@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LCUT",
+      "price": 11.35
+    },
+    {
+      "ticker": "KT",
+      "price": 13.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNSL",
+      "price": 11.81
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CNSL",
+      "price": 11.84
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNSL",
+      "price": 11.9
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNSL",
+      "price": 11.88
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.615
+    }
+  ],
+  "351": [
+    {
+      "ticker": "REVG",
+      "price": 14.465
+    },
+    {
+      "ticker": "CNSL",
+      "price": 11.94
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REVG",
+      "price": 14.485
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.05
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NEON",
+      "price": 0.3211
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.8489
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3211
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.329
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRKR",
+      "price": 0.7065
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.47
+    }
+  ]
+}

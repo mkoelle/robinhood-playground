@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LSCC",
+      "price": 6.05
+    },
+    {
+      "ticker": "USA",
+      "price": 6.525
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NRO",
+      "price": 5.04
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.7732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRVG",
+      "price": 5.13
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.2102
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMP",
+      "price": 5.08
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCMT",
+      "price": 5.2
+    },
+    {
+      "ticker": "DZZ",
+      "price": 5.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DZZ",
+      "price": 5.51
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.94
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASX",
+      "price": 5.175
+    },
+    {
+      "ticker": "DZZ",
+      "price": 5.51
+    }
+  ]
+}

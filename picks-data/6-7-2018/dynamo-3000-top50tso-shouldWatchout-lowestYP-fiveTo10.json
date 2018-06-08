@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLNK",
+      "price": 6.14
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SLS",
+      "price": 5.5
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.745
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXON",
+      "price": 6.335
+    },
+    {
+      "ticker": "RARX",
+      "price": 7.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 7.3
+    },
+    {
+      "ticker": "AXON",
+      "price": 6.065
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 7.4
+    },
+    {
+      "ticker": "FTD",
+      "price": 6.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 7.4099
+    },
+    {
+      "ticker": "MDXG",
+      "price": 6.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 9.65
+    },
+    {
+      "ticker": "MDXG",
+      "price": 6.2099
+    }
+  ]
+}

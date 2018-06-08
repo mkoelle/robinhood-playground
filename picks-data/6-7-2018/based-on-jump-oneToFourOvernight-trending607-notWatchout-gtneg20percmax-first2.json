@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UEC",
+      "price": 1.76
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UEC",
+      "price": 1.76
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UEC",
+      "price": 1.765
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.4234
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UEC",
+      "price": 1.73
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.425
+    }
+  ]
+}

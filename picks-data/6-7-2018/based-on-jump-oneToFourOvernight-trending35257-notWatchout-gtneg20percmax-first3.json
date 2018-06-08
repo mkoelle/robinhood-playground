@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UEC",
+      "price": 1.76
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.865
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UEC",
+      "price": 1.76
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.44
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UEC",
+      "price": 1.765
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.4234
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UEC",
+      "price": 1.73
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.425
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.947
+    }
+  ]
+}

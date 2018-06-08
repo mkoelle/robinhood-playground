@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 5.895
+    },
+    {
+      "ticker": "CRON",
+      "price": 8.02
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.4805
+    },
+    {
+      "ticker": "TPIV",
+      "price": 6.041
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 5.7948
+    },
+    {
+      "ticker": "NE",
+      "price": 5.9498
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.71
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.4995
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.8875
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 5.7873
+    },
+    {
+      "ticker": "NE",
+      "price": 5.9214
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.6568
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.55
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 5.7727
+    },
+    {
+      "ticker": "NE",
+      "price": 5.98
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.535
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.605
+    },
+    {
+      "ticker": "TPIV",
+      "price": 5.5816
+    }
+  ]
+}

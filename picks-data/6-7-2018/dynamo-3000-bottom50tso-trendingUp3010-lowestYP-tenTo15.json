@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "REVG",
+      "price": 13.73
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "REVG",
+      "price": 13.92
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 11.28
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 11.16
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 11.145
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 10.24
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RKDA",
+      "price": 10.4
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.41
+    }
+  ]
+}

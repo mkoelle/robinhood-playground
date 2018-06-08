@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UMRX",
+      "price": 13.03
+    },
+    {
+      "ticker": "SYRS",
+      "price": 13.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRCP",
+      "price": 10.4
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLFS",
+      "price": 10.8952
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRCP",
+      "price": 10.3315
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.829
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEOS",
+      "price": 12.615
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEOS",
+      "price": 12.91
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEOS",
+      "price": 12.85
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.7002
+    }
+  ]
+}

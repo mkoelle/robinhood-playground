@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CODX",
+      "price": 5.2175
+    },
+    {
+      "ticker": "VSTM",
+      "price": 6.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CODX",
+      "price": 5.08
+    },
+    {
+      "ticker": "VSTM",
+      "price": 6.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CODX",
+      "price": 5.0798
+    },
+    {
+      "ticker": "VSTM",
+      "price": 6.2801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CODX",
+      "price": 4.9711
+    },
+    {
+      "ticker": "VSTM",
+      "price": 6.21
+    }
+  ]
+}

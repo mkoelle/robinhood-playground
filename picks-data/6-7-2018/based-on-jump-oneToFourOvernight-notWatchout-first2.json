@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHNR",
+      "price": 2.44
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHNR",
+      "price": 2.23
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHNR",
+      "price": 2.23
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.787
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRKR",
+      "price": 0.7065
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.2299
+    }
+  ]
+}

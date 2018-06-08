@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNPX",
+      "price": 11
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.5015
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 11
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.3838
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 10.8676
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 10.9
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    }
+  ]
+}

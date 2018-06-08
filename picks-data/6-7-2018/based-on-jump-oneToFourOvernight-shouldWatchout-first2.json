@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RNN",
+      "price": 1.83
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4834
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RNN",
+      "price": 1.7849
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4631
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RNN",
+      "price": 1.8
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RNN",
+      "price": 1.8032
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4631
+    }
+  ]
+}

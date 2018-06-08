@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CODX",
+      "price": 5.05
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODX",
+      "price": 5.07
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VKTX",
+      "price": 9.28
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.069
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCPH",
+      "price": 7.62
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.926
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AXTI",
+      "price": 7.875
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 7.4025
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AXTI",
+      "price": 7.9
+    },
+    {
+      "ticker": "VSTM",
+      "price": 5.91
+    }
+  ]
+}

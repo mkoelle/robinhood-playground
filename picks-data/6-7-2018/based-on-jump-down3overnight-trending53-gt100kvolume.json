@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "PTI",
+      "price": 3.39
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2179
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PTI",
+      "price": 3.53
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2151
+    },
+    {
+      "ticker": "MEIP",
+      "price": 4.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PTI",
+      "price": 3.325
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2165
+    },
+    {
+      "ticker": "MEIP",
+      "price": 4.53
+    },
+    {
+      "ticker": "VBLT",
+      "price": 2.7648
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTI",
+      "price": 3.18
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2144
+    },
+    {
+      "ticker": "MEIP",
+      "price": 4.5026
+    },
+    {
+      "ticker": "VBLT",
+      "price": 2.7027
+    }
+  ]
+}

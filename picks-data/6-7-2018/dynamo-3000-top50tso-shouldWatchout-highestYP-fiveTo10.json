@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IOTS",
+      "price": 9.4
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.0001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TCS",
+      "price": 8.521
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TCS",
+      "price": 8.44
+    },
+    {
+      "ticker": "XENE",
+      "price": 6.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 6.4
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.19
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XENE",
+      "price": 6.3
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.23
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 6.3
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 6.35
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.39
+    }
+  ]
+}

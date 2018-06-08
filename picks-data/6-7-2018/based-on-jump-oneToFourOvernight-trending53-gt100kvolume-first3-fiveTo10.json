@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "VSTM",
+      "price": 6.34
+    },
+    {
+      "ticker": "CRON",
+      "price": 8.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSTM",
+      "price": 6.34
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSTM",
+      "price": 6.2801
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.955
+    },
+    {
+      "ticker": "NE",
+      "price": 5.9214
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSTM",
+      "price": 6.21
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.875
+    },
+    {
+      "ticker": "NE",
+      "price": 5.98
+    }
+  ]
+}

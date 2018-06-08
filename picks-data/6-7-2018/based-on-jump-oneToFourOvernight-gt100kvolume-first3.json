@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MNKD",
+      "price": 2.065
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3448
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AETI",
+      "price": 1.591
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.2828
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.5395
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.6119
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.3691
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.59
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.2534
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.845
+    }
+  ]
+}

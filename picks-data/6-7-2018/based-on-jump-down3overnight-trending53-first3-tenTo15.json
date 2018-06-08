@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CHIE",
+      "price": 12.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REVG",
+      "price": 13.5005
+    },
+    {
+      "ticker": "CHIE",
+      "price": 12.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REVG",
+      "price": 13.4048
+    },
+    {
+      "ticker": "CHIE",
+      "price": 12.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REVG",
+      "price": 13.975
+    },
+    {
+      "ticker": "CHIE",
+      "price": 12.99
+    }
+  ]
+}

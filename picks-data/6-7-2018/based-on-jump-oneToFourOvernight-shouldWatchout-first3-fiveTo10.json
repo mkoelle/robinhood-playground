@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CODX",
+      "price": 5.2175
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.78
+    },
+    {
+      "ticker": "VSTM",
+      "price": 6.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DXR",
+      "price": 7.13
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.08
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DXR",
+      "price": 6.9884
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.0798
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DXR",
+      "price": 6.82
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.9711
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.1
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SKIS",
+      "price": 5.1
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.1477
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVID",
+      "price": 5.04
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SKIS",
+      "price": 5.101
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.0301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SKIS",
+      "price": 5.15
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NRO",
+      "price": 5.05
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1252
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NRO",
+      "price": 5.07
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NRO",
+      "price": 5.0752
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.045
+    }
+  ]
+}

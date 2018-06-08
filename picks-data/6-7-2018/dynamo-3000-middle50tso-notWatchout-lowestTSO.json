@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SEAC",
+      "price": 2.99
+    },
+    {
+      "ticker": "HCFT",
+      "price": 3.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SID",
+      "price": 2.185
+    },
+    {
+      "ticker": "NH",
+      "price": 3.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OCN",
+      "price": 4.545
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.525
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HLIT",
+      "price": 4.275
+    },
+    {
+      "ticker": "NH",
+      "price": 3.4899
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AUO",
+      "price": 4.38
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPL",
+      "price": 1.21
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.845
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INFU",
+      "price": 3.125
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.3399
+    }
+  ]
+}

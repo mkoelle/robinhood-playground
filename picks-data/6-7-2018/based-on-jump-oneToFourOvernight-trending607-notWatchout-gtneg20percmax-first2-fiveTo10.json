@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JYNT",
+      "price": 7.65
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JYNT",
+      "price": 7.65
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.453
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JYNT",
+      "price": 7.45
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JYNT",
+      "price": 7.44
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.55
+    }
+  ]
+}

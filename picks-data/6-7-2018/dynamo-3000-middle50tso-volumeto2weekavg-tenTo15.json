@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RCII",
+      "price": 10.05
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CVE",
+      "price": 10.09
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.045
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WETF",
+      "price": 11.38
+    },
+    {
+      "ticker": "VCV",
+      "price": 11.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DEX",
+      "price": 11.76
+    },
+    {
+      "ticker": "CWCO",
+      "price": 12.6287
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CWBC",
+      "price": 11.5757
+    },
+    {
+      "ticker": "SWZ",
+      "price": 12.215
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZTR",
+      "price": 11.3818
+    },
+    {
+      "ticker": "NXJ",
+      "price": 13.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCA",
+      "price": 10.3876
+    },
+    {
+      "ticker": "BJZ",
+      "price": 14.83
+    }
+  ]
+}

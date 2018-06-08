@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TMQ",
+      "price": 1.6
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.575
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TMQ",
+      "price": 1.55
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.418
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPSS",
+      "price": 4.12
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPSS",
+      "price": 4.1
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.5282
+    }
+  ]
+}

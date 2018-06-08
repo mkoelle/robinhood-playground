@@ -1,0 +1,98 @@
+{
+  "10": [
+    {
+      "ticker": "ANFI",
+      "price": 2.63
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.949
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.62
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1932
+    }
+  ],
+  "50": [
+    {
+      "ticker": "LLIT",
+      "price": 2.2801
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.7
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.621
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.1842
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLIT",
+      "price": 2.3
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.6501
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.9527
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.23
+    }
+  ],
+  "300": [
+    {
+      "ticker": "LLIT",
+      "price": 2.3122
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.9601
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.2028
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LLIT",
+      "price": 2.2221
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.99
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.25
+    }
+  ],
+  "600": [
+    {
+      "ticker": "LLIT",
+      "price": 2.22
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.9848
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.24
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 5.895
+    },
+    {
+      "ticker": "CRON",
+      "price": 8.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 5.7948
+    },
+    {
+      "ticker": "NE",
+      "price": 5.9498
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 5.7873
+    },
+    {
+      "ticker": "NE",
+      "price": 5.9214
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 5.7727
+    },
+    {
+      "ticker": "NE",
+      "price": 5.98
+    }
+  ]
+}

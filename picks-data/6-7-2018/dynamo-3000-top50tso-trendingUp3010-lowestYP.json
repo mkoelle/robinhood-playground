@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NLST",
+      "price": 0.2141
+    },
+    {
+      "ticker": "AMCN",
+      "price": 0.749
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.2159
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALT",
+      "price": 0.7187
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.6189
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DARE",
+      "price": 1.2901
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5018
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DARE",
+      "price": 1.33
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5124
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DARE",
+      "price": 1.3148
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5101
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DARE",
+      "price": 1.3199
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5105
+    }
+  ]
+}

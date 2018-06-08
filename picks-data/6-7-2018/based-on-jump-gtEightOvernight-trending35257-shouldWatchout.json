@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HGSH",
+      "price": 2.1
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.811
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HGSH",
+      "price": 1.96
+    },
+    {
+      "ticker": "AXSM",
+      "price": 3.725
+    }
+  ]
+}

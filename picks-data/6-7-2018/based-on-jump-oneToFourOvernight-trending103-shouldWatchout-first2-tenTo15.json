@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 12.72
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 12.77
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.81
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTRP",
+      "price": 10.63
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.97
+    }
+  ]
+}

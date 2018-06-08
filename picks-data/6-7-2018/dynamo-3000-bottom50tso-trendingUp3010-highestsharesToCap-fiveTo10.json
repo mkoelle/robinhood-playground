@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXON",
+      "price": 5.45
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.1355
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AXON",
+      "price": 5.6
+    },
+    {
+      "ticker": "CODX",
+      "price": 5.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODX",
+      "price": 5.01
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HIL",
+      "price": 5.7
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALRN",
+      "price": 5.35
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDTX",
+      "price": 5.55
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALRN",
+      "price": 5.35
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.725
+    }
+  ]
+}
