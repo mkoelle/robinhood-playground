@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RTIX",
+      "price": 4.55
+    },
+    {
+      "ticker": "AKG",
+      "price": 1.1499
+    },
+    {
+      "ticker": "BTE",
+      "price": 4.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGEN",
+      "price": 3.6399
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.05
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.0928
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6412
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.6
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6494
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.0652
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.59
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.69
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.07
+    }
+  ]
+}

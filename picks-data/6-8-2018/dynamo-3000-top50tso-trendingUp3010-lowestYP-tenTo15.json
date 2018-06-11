@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CNSL",
+      "price": 12.07
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 10.19
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRUE",
+      "price": 10.21
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 10.42
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKBA",
+      "price": 10.41
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.5
+    }
+  ]
+}

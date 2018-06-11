@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRMD",
+      "price": 0.389
+    },
+    {
+      "ticker": "LENS",
+      "price": 2.2101
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTP",
+      "price": 0.8643
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VVUS",
+      "price": 0.8179
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIFE",
+      "price": 1.13
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIFE",
+      "price": 1.14
+    },
+    {
+      "ticker": "ASNA",
+      "price": 4.705
+    }
+  ]
+}

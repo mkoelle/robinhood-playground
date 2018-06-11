@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RMBS",
+      "price": 13.68
+    },
+    {
+      "ticker": "NMRK",
+      "price": 13.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADES",
+      "price": 11.17
+    },
+    {
+      "ticker": "DFRG",
+      "price": 13.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FLY",
+      "price": 14.11
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.0999
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDOR",
+      "price": 10.1
+    },
+    {
+      "ticker": "CMCM",
+      "price": 11.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAKE",
+      "price": 14.2
+    },
+    {
+      "ticker": "ACY",
+      "price": 13.75
+    }
+  ]
+}

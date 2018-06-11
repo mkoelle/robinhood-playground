@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "PBT",
+      "price": 9.3588
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.305
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.7749
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.3438
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNPX",
+      "price": 9.85
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.255
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NUAN",
+      "price": 13.83
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNI",
+      "price": 12.46
+    },
+    {
+      "ticker": "KSM",
+      "price": 10.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFN",
+      "price": 10.65
+    },
+    {
+      "ticker": "GHY",
+      "price": 13.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MQY",
+      "price": 13.997
+    },
+    {
+      "ticker": "MYI",
+      "price": 12.6499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFI",
+      "price": 12.5802
+    },
+    {
+      "ticker": "IVH",
+      "price": 14.41
+    }
+  ]
+}

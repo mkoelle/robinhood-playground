@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CPST",
+      "price": 1.6
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.765
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPST",
+      "price": 1.5405
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.7739
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPST",
+      "price": 1.565
+    },
+    {
+      "ticker": "FPAY",
+      "price": 2.8
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.7651
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPST",
+      "price": 1.58
+    },
+    {
+      "ticker": "FPAY",
+      "price": 2.8
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.77
+    }
+  ]
+}

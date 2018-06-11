@@ -1,0 +1,112 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.405
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.0144
+    },
+    {
+      "ticker": "ACHV",
+      "price": 8.38
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.37
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.38
+    },
+    {
+      "ticker": "CLRO",
+      "price": 5.475
+    },
+    {
+      "ticker": "GLMD",
+      "price": 7.02
+    },
+    {
+      "ticker": "ELP",
+      "price": 5.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.7749
+    },
+    {
+      "ticker": "TAX",
+      "price": 9.6523
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.8123
+    },
+    {
+      "ticker": "CLRO",
+      "price": 5.475
+    },
+    {
+      "ticker": "SCPH",
+      "price": 7.0901
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "ACHV",
+      "price": 7.7633
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.8667
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.352
+    },
+    {
+      "ticker": "SCPH",
+      "price": 7.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNPX",
+      "price": 9.85
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.22
+    },
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "SCPH",
+      "price": 7.0799
+    },
+    {
+      "ticker": "GLMD",
+      "price": 6.79
+    }
+  ]
+}

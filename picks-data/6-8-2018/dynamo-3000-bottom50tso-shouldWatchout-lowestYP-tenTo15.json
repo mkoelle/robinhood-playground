@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SNAP",
+      "price": 12.56
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 10.59
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 10.55
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 10.315
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RKDA",
+      "price": 10.1252
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.3928
+    }
+  ]
+}

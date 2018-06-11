@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AAC",
+      "price": 10.37
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.3875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NWHM",
+      "price": 10.12
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.16
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 10.04
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 10.03
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.18
+    }
+  ]
+}

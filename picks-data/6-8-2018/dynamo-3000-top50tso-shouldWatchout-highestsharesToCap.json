@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRMD",
+      "price": 0.389
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.358
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.2101
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2305
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1577
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.208
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLST",
+      "price": 0.2122
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.242
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IBIO",
+      "price": 0.1552
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2145
+    }
+  ]
+}

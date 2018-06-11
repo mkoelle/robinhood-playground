@@ -1,0 +1,42 @@
+{
+  "32": [
+    {
+      "ticker": "EVLO",
+      "price": 14.951
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.76
+    }
+  ],
+  "63": [
+    {
+      "ticker": "INNT",
+      "price": 11.83
+    },
+    {
+      "ticker": "EVLO",
+      "price": 14.9
+    }
+  ],
+  "221": [
+    {
+      "ticker": "TPIV",
+      "price": 10.1285
+    },
+    {
+      "ticker": "BCTF",
+      "price": 14.9069
+    }
+  ],
+  "280": [
+    {
+      "ticker": "GDP",
+      "price": 12.0899
+    },
+    {
+      "ticker": "FET",
+      "price": 12.575
+    }
+  ]
+}

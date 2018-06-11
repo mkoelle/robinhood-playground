@@ -1,0 +1,42 @@
+{
+  "32": [
+    {
+      "ticker": "BAS",
+      "price": 12.76
+    },
+    {
+      "ticker": "HCLP",
+      "price": 12.425
+    }
+  ],
+  "63": [
+    {
+      "ticker": "INNT",
+      "price": 11.83
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.1
+    }
+  ],
+  "221": [
+    {
+      "ticker": "SVRA",
+      "price": 11.83
+    },
+    {
+      "ticker": "FET",
+      "price": 12.775
+    }
+  ],
+  "280": [
+    {
+      "ticker": "NTRP",
+      "price": 10.41
+    },
+    {
+      "ticker": "FET",
+      "price": 12.575
+    }
+  ]
+}

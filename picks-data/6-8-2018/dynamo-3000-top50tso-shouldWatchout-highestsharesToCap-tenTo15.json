@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 10.2
+    },
+    {
+      "ticker": "PRTK",
+      "price": 11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 10.48
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSSE",
+      "price": 10
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.55
+    }
+  ]
+}

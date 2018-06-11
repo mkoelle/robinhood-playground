@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 13.025
+    },
+    {
+      "ticker": "JKS",
+      "price": 12.0501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.075
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.025
+    },
+    {
+      "ticker": "JKS",
+      "price": 11.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 13.96
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RES",
+      "price": 13.95
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.1
+    }
+  ]
+}

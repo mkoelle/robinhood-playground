@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VNCE",
+      "price": 11.25
+    },
+    {
+      "ticker": "RUN",
+      "price": 12.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNCE",
+      "price": 11.3
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "PCOM",
+      "price": 14.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.8367
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.94
+    }
+  ]
+}

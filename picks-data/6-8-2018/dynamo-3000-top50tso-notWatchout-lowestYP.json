@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.245
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEON",
+      "price": 0.3298
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IGLD",
+      "price": 2.7998
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IGLD",
+      "price": 2.8563
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.5
+    }
+  ]
+}

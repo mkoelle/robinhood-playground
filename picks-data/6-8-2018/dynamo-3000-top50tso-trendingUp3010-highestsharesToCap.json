@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRMD",
+      "price": 0.389
+    },
+    {
+      "ticker": "RGLS",
+      "price": 0.7587
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLST",
+      "price": 0.2101
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NLST",
+      "price": 0.208
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLST",
+      "price": 0.2122
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NLST",
+      "price": 0.2145
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.4269
+    }
+  ]
+}

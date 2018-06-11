@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "S",
+      "price": 5.22
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ANH",
+      "price": 5.05
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VOC",
+      "price": 5.0299
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.3834
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PPR",
+      "price": 5.0866
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.549
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0549
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.086
+    }
+  ]
+}

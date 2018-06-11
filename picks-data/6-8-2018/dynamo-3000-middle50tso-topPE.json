@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.385
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.67
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTE",
+      "price": 4.27
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.66
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.815
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EXK",
+      "price": 2.83
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.645
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRQ",
+      "price": 2.815
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.22
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.2803
+    },
+    {
+      "ticker": "XPLR",
+      "price": 3.1507
+    },
+    {
+      "ticker": "GIGM",
+      "price": 3.2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "SNAP",
+      "price": 13.0226
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNAP",
+      "price": 13.1921
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.125
+    }
+  ]
+}

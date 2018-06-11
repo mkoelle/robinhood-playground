@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TRMT",
+      "price": 11.71
+    },
+    {
+      "ticker": "JAG",
+      "price": 11.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVRA",
+      "price": 11.3886
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.17
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UBX",
+      "price": 14.34
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.0601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 10.45
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.029
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SURF",
+      "price": 14.4
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.08
+    }
+  ]
+}

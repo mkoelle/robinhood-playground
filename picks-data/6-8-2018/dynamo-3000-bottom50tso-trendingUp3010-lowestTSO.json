@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2875
+    },
+    {
+      "ticker": "RGSE",
+      "price": 1.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNES",
+      "price": 1.4666
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.7101
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNES",
+      "price": 1.4648
+    },
+    {
+      "ticker": "AXON",
+      "price": 4.4625
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNES",
+      "price": 1.42
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNES",
+      "price": 1.4384
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.6
+    }
+  ]
+}

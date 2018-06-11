@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "INN",
+      "price": 14.72
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PUMP",
+      "price": 14.46
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "PUMP",
+      "price": 14.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "PUMP",
+      "price": 14.18
+    }
+  ]
+}

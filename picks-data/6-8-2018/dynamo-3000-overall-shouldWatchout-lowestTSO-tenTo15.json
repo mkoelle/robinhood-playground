@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CCXI",
+      "price": 11.52
+    },
+    {
+      "ticker": "CMTA",
+      "price": 13.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 12.66
+    },
+    {
+      "ticker": "CMTA",
+      "price": 13.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BAS",
+      "price": 12.71
+    },
+    {
+      "ticker": "FET",
+      "price": 13.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNPX",
+      "price": 10.1727
+    },
+    {
+      "ticker": "FET",
+      "price": 12.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FET",
+      "price": 12.7
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.7063
+    }
+  ]
+}

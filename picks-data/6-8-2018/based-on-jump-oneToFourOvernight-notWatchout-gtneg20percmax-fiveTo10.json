@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "AWP",
+      "price": 6.485
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LLEX",
+      "price": 5.06
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.8
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.72
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.7175
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.461
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EPM",
+      "price": 9.8
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.01
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.6
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.65
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CSBR",
+      "price": 5.8575
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.83
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.025
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.6
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.65
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IAU",
+      "price": 12.46
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNI",
+      "price": 12.46
+    },
+    {
+      "ticker": "JRO",
+      "price": 10.5866
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MITL",
+      "price": 11.01
+    },
+    {
+      "ticker": "NTC",
+      "price": 11.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MQY",
+      "price": 13.997
+    },
+    {
+      "ticker": "NXQ",
+      "price": 13.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFI",
+      "price": 12.5802
+    },
+    {
+      "ticker": "BAF",
+      "price": 13.95
+    }
+  ]
+}

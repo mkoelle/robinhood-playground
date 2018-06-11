@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CATB",
+      "price": 1.55
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CATB",
+      "price": 1.55
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CATB",
+      "price": 1.56
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CATB",
+      "price": 1.52
+    },
+    {
+      "ticker": "JTPY",
+      "price": 2
+    }
+  ]
+}

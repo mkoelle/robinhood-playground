@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.45
+    },
+    {
+      "ticker": "CHU",
+      "price": 13.13
+    },
+    {
+      "ticker": "WSR",
+      "price": 12.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFI",
+      "price": 12.5916
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.7927
+    },
+    {
+      "ticker": "EARN",
+      "price": 11.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SILJ",
+      "price": 11.17
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.265
+    },
+    {
+      "ticker": "OTTW",
+      "price": 13.893
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OTTW",
+      "price": 13.9
+    },
+    {
+      "ticker": "GLO",
+      "price": 11.0666
+    },
+    {
+      "ticker": "RGT",
+      "price": 10.9935
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 14.52
+    },
+    {
+      "ticker": "RFI",
+      "price": 12.5802
+    },
+    {
+      "ticker": "OTTW",
+      "price": 13.9
+    }
+  ]
+}

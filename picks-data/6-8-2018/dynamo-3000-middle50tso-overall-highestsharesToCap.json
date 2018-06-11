@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.1108
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2003
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMNP",
+      "price": 0.225
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "YUMA",
+      "price": 0.3495
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3504
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PED",
+      "price": 0.3081
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.448
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2243
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.4195
+    }
+  ]
+}

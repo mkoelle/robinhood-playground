@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KERX",
+      "price": 5.15
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PETX",
+      "price": 5.06
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELMD",
+      "price": 5.0251
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.035
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELMD",
+      "price": 5.0251
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.119
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELMD",
+      "price": 5.2
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.09
+    }
+  ]
+}

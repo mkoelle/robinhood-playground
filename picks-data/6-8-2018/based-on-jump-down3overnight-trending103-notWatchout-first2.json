@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.87
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REFR",
+      "price": 0.887
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REFR",
+      "price": 0.9
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REFR",
+      "price": 0.9038
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.92
+    }
+  ]
+}

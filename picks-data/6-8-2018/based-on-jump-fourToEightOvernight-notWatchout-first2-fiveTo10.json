@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ELP",
+      "price": 6.13
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELP",
+      "price": 6.025
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELP",
+      "price": 5.94
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELP",
+      "price": 5.84
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.27
+    }
+  ]
+}

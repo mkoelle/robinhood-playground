@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ABCD",
+      "price": 10.125
+    },
+    {
+      "ticker": "EIA",
+      "price": 10.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASLN",
+      "price": 10.04
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TWI",
+      "price": 11.74
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDOR",
+      "price": 10.1
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDOR",
+      "price": 10.1
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.49
+    }
+  ]
+}

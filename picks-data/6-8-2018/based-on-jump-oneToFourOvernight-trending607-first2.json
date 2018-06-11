@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDT",
+      "price": 1.7199
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5199
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDT",
+      "price": 1.74
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5063
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDT",
+      "price": 1.71
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDT",
+      "price": 1.74
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5051
+    }
+  ]
+}

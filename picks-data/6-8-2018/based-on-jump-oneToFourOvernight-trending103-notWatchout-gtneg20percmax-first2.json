@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPSS",
+      "price": 4.25
+    },
+    {
+      "ticker": "OPHT",
+      "price": 3.1705
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPSS",
+      "price": 4.2104
+    },
+    {
+      "ticker": "OPHT",
+      "price": 3.1001
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPSS",
+      "price": 4.23
+    },
+    {
+      "ticker": "OPHT",
+      "price": 3.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPSS",
+      "price": 4.2127
+    },
+    {
+      "ticker": "OPHT",
+      "price": 3.1505
+    }
+  ]
+}

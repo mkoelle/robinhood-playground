@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 1.13
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.358
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVGR",
+      "price": 1.65
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.5596
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNTR",
+      "price": 0.5698
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2533
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 1.6642
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.69
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.9
+    }
+  ]
+}

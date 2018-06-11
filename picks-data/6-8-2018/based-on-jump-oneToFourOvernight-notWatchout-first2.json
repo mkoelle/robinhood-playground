@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPSS",
+      "price": 4.25
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPSS",
+      "price": 4.2104
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EFOI",
+      "price": 2.5
+    },
+    {
+      "ticker": "CPSS",
+      "price": 4.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EFOI",
+      "price": 2.4
+    },
+    {
+      "ticker": "CPSS",
+      "price": 4.2127
+    }
+  ]
+}

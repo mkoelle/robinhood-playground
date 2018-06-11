@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UGP",
+      "price": 12.68
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.36
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.0102
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UGP",
+      "price": 12.69
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.37
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UGP",
+      "price": 12.59
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.37
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UGP",
+      "price": 12.53
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.3
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.95
+    }
+  ]
+}

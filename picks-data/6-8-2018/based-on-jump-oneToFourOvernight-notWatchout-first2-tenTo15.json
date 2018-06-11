@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FBZ",
+      "price": 12.9
+    },
+    {
+      "ticker": "FNKO",
+      "price": 11.8004
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FBZ",
+      "price": 12.9
+    },
+    {
+      "ticker": "FNKO",
+      "price": 11.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBPH",
+      "price": 14.07
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBPH",
+      "price": 14.07
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.9
+    }
+  ]
+}

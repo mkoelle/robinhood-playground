@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ODP",
+      "price": 2.795
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FGP",
+      "price": 3.5897
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3692
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHNR",
+      "price": 2.1954
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.095
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONP",
+      "price": 1.1508
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2243
+    },
+    {
+      "ticker": "WRN",
+      "price": 1.0001
+    }
+  ]
+}

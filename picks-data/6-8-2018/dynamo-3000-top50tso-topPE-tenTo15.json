@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DGII",
+      "price": 12
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.495
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.49
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.49
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GCI",
+      "price": 10.565
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.78
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GCI",
+      "price": 10.53
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.56
+    },
+    {
+      "ticker": "VRA",
+      "price": 14.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBD",
+      "price": 12.9647
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.5
+    },
+    {
+      "ticker": "VRA",
+      "price": 14.41
+    }
+  ]
+}

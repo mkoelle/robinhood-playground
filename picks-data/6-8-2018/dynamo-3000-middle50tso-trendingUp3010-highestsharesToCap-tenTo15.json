@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.277
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTIE",
+      "price": 10.14
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MEN",
+      "price": 10.59
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFN",
+      "price": 10.66
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.8048
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MEN",
+      "price": 10.6
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.8037
+    }
+  ]
+}

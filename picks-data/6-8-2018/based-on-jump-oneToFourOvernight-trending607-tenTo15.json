@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "FNKO",
+      "price": 11.8004
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.8711
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.78
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.2
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FNKO",
+      "price": 11.88
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.9
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.85
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.2
+    },
+    {
+      "ticker": "TPVG",
+      "price": 12.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FNKO",
+      "price": 11.795
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.84
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.2
+    },
+    {
+      "ticker": "TPVG",
+      "price": 12.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FNKO",
+      "price": 11.805
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.74
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.7
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.78
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.2
+    }
+  ]
+}

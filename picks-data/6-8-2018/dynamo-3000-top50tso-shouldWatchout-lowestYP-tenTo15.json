@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 11
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.3845
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.4365
+    },
+    {
+      "ticker": "PRTA",
+      "price": 13.845
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTA",
+      "price": 13.94
+    },
+    {
+      "ticker": "INNT",
+      "price": 11.5472
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 13.99
+    },
+    {
+      "ticker": "REVG",
+      "price": 14.935
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 14.05
+    },
+    {
+      "ticker": "INNT",
+      "price": 11.49
+    }
+  ]
+}

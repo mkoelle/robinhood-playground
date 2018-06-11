@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLYA",
+      "price": 11.14
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTTR",
+      "price": 14.21
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.4686
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.07
+    },
+    {
+      "ticker": "REI",
+      "price": 12.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "REI",
+      "price": 12.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 12.71
+    },
+    {
+      "ticker": "REI",
+      "price": 12.4
+    }
+  ]
+}

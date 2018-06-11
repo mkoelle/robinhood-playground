@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RTIX",
+      "price": 4.55
+    },
+    {
+      "ticker": "HDSN",
+      "price": 2.36
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.4363
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFIE",
+      "price": 4.4104
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.765
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HDSN",
+      "price": 2.25
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2148
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HDSN",
+      "price": 2.28
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2577
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFIE",
+      "price": 4.2748
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.45
+    },
+    {
+      "ticker": "ALO",
+      "price": 1.514
+    }
+  ]
+}

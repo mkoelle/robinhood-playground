@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DGII",
+      "price": 12
+    },
+    {
+      "ticker": "GME",
+      "price": 14.45
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.495
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.49
+    },
+    {
+      "ticker": "GME",
+      "price": 14.58
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 12.43
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.08
+    },
+    {
+      "ticker": "GME",
+      "price": 14.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.5
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.8006
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12.54
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.8006
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BCLI",
+      "price": 4.58
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JVA",
+      "price": 4.765
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.88
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 4.777
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2148
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADMA",
+      "price": 4.795
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADMA",
+      "price": 4.78
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.2748
+    }
+  ]
+}

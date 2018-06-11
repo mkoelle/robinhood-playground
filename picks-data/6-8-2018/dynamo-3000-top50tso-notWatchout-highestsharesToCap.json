@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.245
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.475
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEON",
+      "price": 0.3298
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5299
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GMO",
+      "price": 0.424
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WWR",
+      "price": 0.464
+    },
+    {
+      "ticker": "THM",
+      "price": 0.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WWR",
+      "price": 0.47
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5895
+    }
+  ]
+}

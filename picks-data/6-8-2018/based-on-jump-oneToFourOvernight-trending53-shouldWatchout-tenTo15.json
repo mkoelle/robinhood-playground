@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRTK",
+      "price": 10.8
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTK",
+      "price": 10.955
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTK",
+      "price": 11
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRTK",
+      "price": 10.9
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.25
+    }
+  ]
+}

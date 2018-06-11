@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 10.3
+    },
+    {
+      "ticker": "VNCE",
+      "price": 11.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNCE",
+      "price": 11.3
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EROS",
+      "price": 12.9
+    },
+    {
+      "ticker": "TELL",
+      "price": 10.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACMR",
+      "price": 12.0689
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACMR",
+      "price": 12.02
+    },
+    {
+      "ticker": "EROS",
+      "price": 12.975
+    }
+  ]
+}

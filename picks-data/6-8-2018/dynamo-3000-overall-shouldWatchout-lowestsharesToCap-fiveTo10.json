@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 9.6523
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.775
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.87
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REFR",
+      "price": 0.887
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REFR",
+      "price": 0.9
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.1183
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REFR",
+      "price": 0.9038
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.1183
+    }
+  ]
+}

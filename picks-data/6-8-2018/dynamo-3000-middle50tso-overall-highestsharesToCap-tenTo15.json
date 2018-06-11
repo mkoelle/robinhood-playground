@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "UGLD",
+      "price": 10.5239
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTIE",
+      "price": 10.14
+    },
+    {
+      "ticker": "MVC",
+      "price": 10.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MVC",
+      "price": 10.12
+    },
+    {
+      "ticker": "MEN",
+      "price": 10.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVM",
+      "price": 10.37
+    },
+    {
+      "ticker": "PFN",
+      "price": 10.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCA",
+      "price": 10.125
+    },
+    {
+      "ticker": "MEN",
+      "price": 10.6
+    }
+  ]
+}

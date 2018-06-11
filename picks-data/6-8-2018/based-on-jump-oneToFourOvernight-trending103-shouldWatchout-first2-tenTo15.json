@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNPX",
+      "price": 10.7
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 10.845
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.955
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 10.8746
+    },
+    {
+      "ticker": "PRTK",
+      "price": 11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 10.75
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.9
+    }
+  ]
+}

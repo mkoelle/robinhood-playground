@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AWP",
+      "price": 6.485
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HPR",
+      "price": 6.72
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.461
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.495
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HPR",
+      "price": 6.6
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.44
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CSBR",
+      "price": 5.8575
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.6
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.44
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.525
+    }
+  ]
+}

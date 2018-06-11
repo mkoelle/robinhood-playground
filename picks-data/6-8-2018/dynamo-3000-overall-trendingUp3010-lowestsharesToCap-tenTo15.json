@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AMD",
+      "price": 14.82
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ASCMA",
+      "price": 2.3
+    },
+    {
+      "ticker": "FTK",
+      "price": 3.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDX",
+      "price": 0.6469
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.225
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DAG",
+      "price": 2.7749
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IDSA",
+      "price": 2.12
+    },
+    {
+      "ticker": "UWN",
+      "price": 2.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTG",
+      "price": 2.69
+    },
+    {
+      "ticker": "RTTR",
+      "price": 3.08
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.1108
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2003
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLG",
+      "price": 0.1078
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1515
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.1087
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1577
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.109
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1521
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.1073
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.1552
+    }
+  ]
+}

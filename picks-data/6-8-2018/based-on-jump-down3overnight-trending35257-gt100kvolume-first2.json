@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6267
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6245
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.5405
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6268
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.565
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6201
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.58
+    }
+  ]
+}

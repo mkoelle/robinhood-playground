@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "JMBA",
+      "price": 9.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 9.6523
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.8738
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.73
+    }
+  ]
+}

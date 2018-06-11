@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NCSM",
+      "price": 14.08
+    },
+    {
+      "ticker": "ALNA",
+      "price": 13.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 12.34
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REVG",
+      "price": 14.935
+    },
+    {
+      "ticker": "XNET",
+      "price": 13.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XNET",
+      "price": 13.49
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.21
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UGP",
+      "price": 12.68
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UGP",
+      "price": 12.69
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UGP",
+      "price": 12.59
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.37
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UGP",
+      "price": 12.53
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.3
+    }
+  ]
+}

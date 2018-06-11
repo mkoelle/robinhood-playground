@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "MTG",
+      "price": 11.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TWI",
+      "price": 11.88
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TWI",
+      "price": 11.91
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TWI",
+      "price": 11.81
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.25
+    }
+  ]
+}

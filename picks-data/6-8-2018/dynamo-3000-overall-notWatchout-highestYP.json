@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CVEO",
+      "price": 4.07
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.5489
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 4.405
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.0844
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 4.33
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.0501
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.33
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.4
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.1
+    }
+  ]
+}

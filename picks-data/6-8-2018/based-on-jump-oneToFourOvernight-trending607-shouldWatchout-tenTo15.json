@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LIVE",
+      "price": 12.8711
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LIVE",
+      "price": 12.9
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LIVE",
+      "price": 12.74
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.25
+    }
+  ]
+}

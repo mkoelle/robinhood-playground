@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.87
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.887
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MLSS",
+      "price": 0.74
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLSS",
+      "price": 0.74
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.9038
+    }
+  ]
+}

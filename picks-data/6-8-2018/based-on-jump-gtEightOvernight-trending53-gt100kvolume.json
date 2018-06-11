@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "DPW",
+      "price": 0.7748
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DPW",
+      "price": 0.746
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.0899
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPW",
+      "price": 0.7388
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DPW",
+      "price": 0.712
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.0379
+    }
+  ]
+}

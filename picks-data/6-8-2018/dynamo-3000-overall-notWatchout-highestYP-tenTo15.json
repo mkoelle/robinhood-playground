@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 13.366
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.3875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGAN",
+      "price": 13.5
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRF",
+      "price": 14.85
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.425
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRF",
+      "price": 14.76
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRF",
+      "price": 14.7
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.451
+    }
+  ]
+}

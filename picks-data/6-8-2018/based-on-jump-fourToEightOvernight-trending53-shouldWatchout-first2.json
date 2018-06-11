@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.32
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2894
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2875
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2858
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2974
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2312
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.35
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.2405
+    }
+  ]
+}

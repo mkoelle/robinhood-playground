@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SVRA",
+      "price": 11.08
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UBX",
+      "price": 14.17
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.3886
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UBX",
+      "price": 14.34
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UBX",
+      "price": 14.22
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UBX",
+      "price": 14.2746
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.3071
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.405
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.7749
+    },
+    {
+      "ticker": "TAX",
+      "price": 9.6523
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "ACHV",
+      "price": 7.7633
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNPX",
+      "price": 9.85
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.22
+    }
+  ]
+}

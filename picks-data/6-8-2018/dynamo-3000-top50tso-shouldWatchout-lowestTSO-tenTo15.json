@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AQ",
+      "price": 11.45
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.935
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 10.19
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGR",
+      "price": 14.55
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 13.56
+    },
+    {
+      "ticker": "AFI",
+      "price": 14.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AOBC",
+      "price": 12.765
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.41
+    }
+  ]
+}

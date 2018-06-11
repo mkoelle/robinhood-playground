@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.63
+    },
+    {
+      "ticker": "DF",
+      "price": 9.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 9.63
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.73
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VKTX",
+      "price": 9.81
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.665
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 10
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLSD",
+      "price": 9.68
+    },
+    {
+      "ticker": "KEYW",
+      "price": 9.55
+    }
+  ]
+}

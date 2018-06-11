@@ -1,0 +1,52 @@
+{
+  "10": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6521
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6099
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.7975
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.2042
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.641
+    },
+    {
+      "ticker": "UPL",
+      "price": 1.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONTX",
+      "price": 0.613
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.64
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.1452
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.24
+    },
+    {
+      "ticker": "UPL",
+      "price": 1.845
+    }
+  ]
+}

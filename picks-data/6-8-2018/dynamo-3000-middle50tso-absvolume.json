@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ASCMA",
+      "price": 2.3
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.795
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDX",
+      "price": 0.6469
+    },
+    {
+      "ticker": "OVAS",
+      "price": 0.9201
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DAG",
+      "price": 2.7749
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IDSA",
+      "price": 2.12
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.815
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTG",
+      "price": 2.69
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2243
+    }
+  ]
+}

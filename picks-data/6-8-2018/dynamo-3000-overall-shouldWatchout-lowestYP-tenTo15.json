@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.59
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.519
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVXY",
+      "price": 13.6229
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.4365
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.64
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.3289
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.75
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVXY",
+      "price": 13.7075
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.1252
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DDF",
+      "price": 11.52
+    },
+    {
+      "ticker": "PGP",
+      "price": 14.8262
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CAFD",
+      "price": 12.3101
+    },
+    {
+      "ticker": "RFI",
+      "price": 12.5916
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BFY",
+      "price": 13.0589
+    },
+    {
+      "ticker": "MUI",
+      "price": 13.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVY",
+      "price": 12.12
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.785
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NEA",
+      "price": 13.001
+    },
+    {
+      "ticker": "BSD",
+      "price": 12.72
+    }
+  ]
+}

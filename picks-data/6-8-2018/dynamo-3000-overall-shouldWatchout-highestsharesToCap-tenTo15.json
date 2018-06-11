@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GIFI",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 10.04
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 10.0999
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 10.165
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10
+    }
+  ]
+}

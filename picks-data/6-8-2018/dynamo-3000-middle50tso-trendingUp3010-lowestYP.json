@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FRED",
+      "price": 1.73
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PULM",
+      "price": 0.5358
+    },
+    {
+      "ticker": "AMCN",
+      "price": 0.7102
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACET",
+      "price": 3.53
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.095
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRYS",
+      "price": 4.13
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2243
+    },
+    {
+      "ticker": "VBLT",
+      "price": 2.597
+    }
+  ]
+}

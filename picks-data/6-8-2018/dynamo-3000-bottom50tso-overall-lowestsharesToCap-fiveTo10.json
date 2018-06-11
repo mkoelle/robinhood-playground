@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 9.75
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "ESXB",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 9.6523
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.695
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.7
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 9.6
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.07
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.32
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2875
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.639
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2974
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.35
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.53
+    }
+  ]
+}

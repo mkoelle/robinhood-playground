@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "SRAX",
+      "price": 4.1
+    },
+    {
+      "ticker": "SNSS",
+      "price": 2.47
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.72
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.5696
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SNSS",
+      "price": 2.47
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5198
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.71
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.5642
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMSI",
+      "price": 2.56
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.73
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.5601
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.55
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.57
+    }
+  ]
+}

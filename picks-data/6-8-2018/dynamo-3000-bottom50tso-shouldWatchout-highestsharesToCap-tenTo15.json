@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GIFI",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 10.59
+    },
+    {
+      "ticker": "ASLN",
+      "price": 10.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 10.55
+    },
+    {
+      "ticker": "TELL",
+      "price": 10.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 10.315
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 10.3928
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.1252
+    }
+  ]
+}

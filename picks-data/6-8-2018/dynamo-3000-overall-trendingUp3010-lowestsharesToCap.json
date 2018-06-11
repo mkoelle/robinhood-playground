@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RESN",
+      "price": 4.97
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JVA",
+      "price": 4.765
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.6672
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JVA",
+      "price": 4.95
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SGBX",
+      "price": 4.86
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELV",
+      "price": 4.94
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.45
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6267
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.071
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6245
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.1234
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TROV",
+      "price": 0.7902
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.6268
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TROV",
+      "price": 0.79
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.6201
+    }
+  ]
+}

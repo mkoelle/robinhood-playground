@@ -1,0 +1,32 @@
+{
+  "10": [
+    {
+      "ticker": "MRNS",
+      "price": 7.57
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.41
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.32
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MRNS",
+      "price": 7.75
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MRNS",
+      "price": 7.9206
+    }
+  ]
+}

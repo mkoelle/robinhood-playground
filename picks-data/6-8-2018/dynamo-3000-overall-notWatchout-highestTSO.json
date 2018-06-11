@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ACTG",
+      "price": 4.15
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.635
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AZRX",
+      "price": 3.231
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AZRX",
+      "price": 3.2301
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AZRX",
+      "price": 3.29
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.7998
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AZRX",
+      "price": 3.34
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8563
+    }
+  ]
+}

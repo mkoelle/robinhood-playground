@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DRYS",
+      "price": 4.11
+    },
+    {
+      "ticker": "VSAR",
+      "price": 1.9357
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4649
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.0799
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4672
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.0352
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4712
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4721
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.16
+    }
+  ]
+}

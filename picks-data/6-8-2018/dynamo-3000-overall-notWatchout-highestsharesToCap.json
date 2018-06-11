@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.245
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2406
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2432
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2484
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2434
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2462
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2445
+    }
+  ]
+}

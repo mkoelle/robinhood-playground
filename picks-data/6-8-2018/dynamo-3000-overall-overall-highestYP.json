@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NFEC",
+      "price": 3.84
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.3576
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NFEC",
+      "price": 3.795
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.914
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GVP",
+      "price": 3.205
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GVP",
+      "price": 3.25
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GVP",
+      "price": 3.25
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "INAP",
+      "price": 11.45
+    },
+    {
+      "ticker": "SNAP",
+      "price": 12.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSH",
+      "price": 14
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEOS",
+      "price": 12.59
+    },
+    {
+      "ticker": "CRT",
+      "price": 13.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEOS",
+      "price": 12.58
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYRS",
+      "price": 12.49
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ]
+}

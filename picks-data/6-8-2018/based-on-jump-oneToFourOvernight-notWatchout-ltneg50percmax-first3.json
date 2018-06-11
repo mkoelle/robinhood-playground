@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5174
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.175
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4995
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.045
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.175
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4964
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.0426
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4998
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.05
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.47
+    }
+  ]
+}

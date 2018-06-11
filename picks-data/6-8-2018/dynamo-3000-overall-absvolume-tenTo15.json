@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLYA",
+      "price": 11.14
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 12.66
+    },
+    {
+      "ticker": "INNT",
+      "price": 12.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.07
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 12.71
+    },
+    {
+      "ticker": "SURF",
+      "price": 14.4
+    }
+  ]
+}

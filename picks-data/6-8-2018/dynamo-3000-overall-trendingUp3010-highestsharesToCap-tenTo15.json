@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "JMBA",
+      "price": 10
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 10.04
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IRT",
+      "price": 10.035
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.155
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 10.45
+    },
+    {
+      "ticker": "IRT",
+      "price": 10
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IRT",
+      "price": 10.01
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.21
+    }
+  ]
+}

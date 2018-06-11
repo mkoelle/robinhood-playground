@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "XIN",
+      "price": 5.3
+    },
+    {
+      "ticker": "RMTI",
+      "price": 5.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RESN",
+      "price": 5.0199
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.235
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RESN",
+      "price": 5.0304
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.645
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBIO",
+      "price": 5.045
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HBIO",
+      "price": 5.1
+    },
+    {
+      "ticker": "ELMD",
+      "price": 5.2
+    }
+  ]
+}

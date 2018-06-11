@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLYA",
+      "price": 11.14
+    },
+    {
+      "ticker": "SMMT",
+      "price": 12.9153
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 12.66
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.07
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "EVLO",
+      "price": 14.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 12.71
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.2
+    }
+  ]
+}

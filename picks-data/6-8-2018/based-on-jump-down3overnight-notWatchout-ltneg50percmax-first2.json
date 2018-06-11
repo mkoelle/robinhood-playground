@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 1.42
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MLSS",
+      "price": 0.74
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLSS",
+      "price": 0.74
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.48
+    }
+  ]
+}

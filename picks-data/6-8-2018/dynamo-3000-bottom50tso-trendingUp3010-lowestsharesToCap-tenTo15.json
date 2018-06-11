@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AQXP",
+      "price": 14.41
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    },
+    {
+      "ticker": "PCOM",
+      "price": 14.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELOX",
+      "price": 14.159
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDXS",
+      "price": 14.975
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.65
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 10.6228
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.8711
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UVXY",
+      "price": 10.67
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.9
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UVXY",
+      "price": 10.695
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.94
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UVXY",
+      "price": 10.55
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.94
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.74
+    }
+  ]
+}
