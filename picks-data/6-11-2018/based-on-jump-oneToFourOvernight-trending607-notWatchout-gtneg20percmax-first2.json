@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UONEK",
+      "price": 2
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UONEK",
+      "price": 2
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UONEK",
+      "price": 2.005
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.84
+    }
+  ]
+}

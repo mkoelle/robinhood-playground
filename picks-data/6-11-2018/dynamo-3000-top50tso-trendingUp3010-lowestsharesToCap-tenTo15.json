@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.26
+    },
+    {
+      "ticker": "SURF",
+      "price": 14.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.875
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OFG",
+      "price": 14.9
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OBSV",
+      "price": 14.595
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OBSV",
+      "price": 14.6
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIVO",
+      "price": 14.65
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBSV",
+      "price": 14.6
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.65
+    }
+  ]
+}

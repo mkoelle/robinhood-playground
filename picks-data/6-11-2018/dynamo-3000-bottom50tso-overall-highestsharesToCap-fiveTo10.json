@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LLEX",
+      "price": 5.299
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLEX",
+      "price": 5.08
+    },
+    {
+      "ticker": "VTL",
+      "price": 5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LLEX",
+      "price": 5.1201
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLEX",
+      "price": 5.04
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LLEX",
+      "price": 5.035
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 5.13
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.0897
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLEX",
+      "price": 5.14
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.095
+    }
+  ]
+}

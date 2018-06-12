@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PCMI",
+      "price": 14.148
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.755
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 14.2474
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.32
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 14.35
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLP",
+      "price": 11.45
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.41
+    }
+  ]
+}

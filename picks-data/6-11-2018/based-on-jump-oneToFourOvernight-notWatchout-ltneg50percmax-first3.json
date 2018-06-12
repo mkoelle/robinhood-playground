@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 1.5
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.95
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNVC",
+      "price": 0.492
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.51
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNVC",
+      "price": 0.492
+    },
+    {
+      "ticker": "AST",
+      "price": 1.74
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNVC",
+      "price": 0.492
+    },
+    {
+      "ticker": "AST",
+      "price": 1.74
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.58
+    }
+  ]
+}

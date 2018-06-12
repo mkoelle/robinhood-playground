@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVLO",
+      "price": 14.98
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.875
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OFG",
+      "price": 14.9
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CUE",
+      "price": 14.6
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.649
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CUE",
+      "price": 14.5
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UBX",
+      "price": 14.7599
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PCOM",
+      "price": 14.45
+    },
+    {
+      "ticker": "TIVO",
+      "price": 14.65
+    }
+  ]
+}

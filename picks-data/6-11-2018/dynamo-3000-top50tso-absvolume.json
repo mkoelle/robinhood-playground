@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MBOT",
+      "price": 0.8227
+    },
+    {
+      "ticker": "CORV",
+      "price": 2.74
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDTI",
+      "price": 0.671
+    },
+    {
+      "ticker": "CORV",
+      "price": 3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APRI",
+      "price": 0.28
+    },
+    {
+      "ticker": "CORV",
+      "price": 2.9585
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENSV",
+      "price": 1.21
+    },
+    {
+      "ticker": "CORV",
+      "price": 3.2101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TYHT",
+      "price": 1.8573
+    },
+    {
+      "ticker": "CORV",
+      "price": 3.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITI",
+      "price": 4.9
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3698
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFFN",
+      "price": 0.55
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4052
+    }
+  ]
+}

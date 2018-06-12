@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AST",
+      "price": 1.75
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.535
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.46
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TGEN",
+      "price": 3.56
+    },
+    {
+      "ticker": "EVOL",
+      "price": 3.2
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1682
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RLJE",
+      "price": 4.62
+    },
+    {
+      "ticker": "VIRC",
+      "price": 4.5
+    },
+    {
+      "ticker": "ELON",
+      "price": 4.212
+    }
+  ]
+}

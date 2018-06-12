@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NORW",
+      "price": 14.8
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTIE",
+      "price": 10.15
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.375
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 10.25
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.07
+    }
+  ]
+}

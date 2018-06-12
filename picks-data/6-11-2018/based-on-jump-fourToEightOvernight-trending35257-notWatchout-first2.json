@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.546
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.5679
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.5784
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.5918
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9726
+    }
+  ]
+}

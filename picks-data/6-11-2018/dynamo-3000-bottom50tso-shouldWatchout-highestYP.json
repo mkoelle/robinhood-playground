@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NFEC",
+      "price": 4.03
+    },
+    {
+      "ticker": "ENSV",
+      "price": 1.1301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VVUS",
+      "price": 0.836
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDT",
+      "price": 1.7699
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.7352
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDT",
+      "price": 1.7874
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.395
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DDE",
+      "price": 1.7015
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DDE",
+      "price": 1.7
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.17
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DDE",
+      "price": 1.7151
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.17
+    }
+  ]
+}

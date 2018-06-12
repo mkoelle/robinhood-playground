@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "PCMI",
+      "price": 14.148
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.755
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.2506
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.025
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 14.2474
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.32
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.0011
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.875
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 14.35
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.43
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.0011
+    },
+    {
+      "ticker": "RKDA",
+      "price": 10.1157
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLP",
+      "price": 11.45
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.41
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.59
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.0011
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.9
+    }
+  ]
+}

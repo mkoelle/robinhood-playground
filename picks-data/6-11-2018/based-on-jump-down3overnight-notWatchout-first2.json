@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "PTN",
+      "price": 1.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "THM",
+      "price": 0.5311
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.03
+    }
+  ],
+  "16": [
+    {
+      "ticker": "THM",
+      "price": 0.58
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "THM",
+      "price": 0.5701
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.06
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "RCII",
+      "price": 10.27
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.9299
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.8
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.715
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RCII",
+      "price": 10
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.8054
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.8
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.6
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVRA",
+      "price": 12.03
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.82
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.585
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.31
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RCII",
+      "price": 10.13
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.0206
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.2
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.87
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.6
+    }
+  ]
+}

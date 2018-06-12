@@ -1,0 +1,98 @@
+{
+  "10": [
+    {
+      "ticker": "ONTX",
+      "price": 0.6132
+    },
+    {
+      "ticker": "SSKN",
+      "price": 2.14
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.58
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.2921
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.6966
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SSKN",
+      "price": 2.19
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.3616
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSKN",
+      "price": 2.35
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.335
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.6743
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SSKN",
+      "price": 2.299
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.4142
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SSKN",
+      "price": 2.2699
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.225
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.395
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.645
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SSKN",
+      "price": 2.25
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.22
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.38
+    },
+    {
+      "ticker": "SSI",
+      "price": 2.65
+    }
+  ]
+}

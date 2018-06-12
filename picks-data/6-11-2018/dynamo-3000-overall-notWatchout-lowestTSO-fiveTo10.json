@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LLEX",
+      "price": 5.299
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLEX",
+      "price": 5.08
+    },
+    {
+      "ticker": "ACHV",
+      "price": 7.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LLEX",
+      "price": 5.1201
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACHV",
+      "price": 7.39
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.2715
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACHV",
+      "price": 7.1895
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MGIC",
+      "price": 8.15
+    },
+    {
+      "ticker": "ACHV",
+      "price": 7.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MGIC",
+      "price": 8.1
+    },
+    {
+      "ticker": "ACHV",
+      "price": 7.4701
+    }
+  ]
+}

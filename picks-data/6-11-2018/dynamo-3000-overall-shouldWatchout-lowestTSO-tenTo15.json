@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BAS",
+      "price": 12.36
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HX",
+      "price": 11.7514
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.445
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FATE",
+      "price": 11.4
+    },
+    {
+      "ticker": "INNT",
+      "price": 11.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.5
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 10.5
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INNT",
+      "price": 10.59
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.205
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INNT",
+      "price": 10.3
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.19
+    }
+  ]
+}

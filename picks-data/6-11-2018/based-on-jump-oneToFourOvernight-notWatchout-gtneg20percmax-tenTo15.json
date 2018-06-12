@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ADAP",
+      "price": 12.73
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.51
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.39
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.2298
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADAP",
+      "price": 12.68
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.695
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.39
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.308
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADAP",
+      "price": 12.642
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.8415
+    },
+    {
+      "ticker": "FLY",
+      "price": 14.32
+    },
+    {
+      "ticker": "LAKE",
+      "price": 14.322
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CIX",
+      "price": 14.2
+    },
+    {
+      "ticker": "ADAP",
+      "price": 12.62
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.3
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.95
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.869
+    }
+  ]
+}

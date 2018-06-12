@@ -1,0 +1,45 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "VICL",
+      "price": 1.1675
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.03
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VICL",
+      "price": 1.17
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.39
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.654
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VICL",
+      "price": 1.1434
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.06
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.345
+    }
+  ]
+}

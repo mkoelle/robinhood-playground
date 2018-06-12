@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 10.25
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 10.0462
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BTAI",
+      "price": 10.45
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 10.415
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 10.1058
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 10.05
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 10.045
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.685
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ADAP",
+      "price": 12.73
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADAP",
+      "price": 12.68
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADAP",
+      "price": 12.642
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADAP",
+      "price": 12.62
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.95
+    }
+  ]
+}

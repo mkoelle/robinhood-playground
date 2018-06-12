@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXON",
+      "price": 4.9484
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.299
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLEX",
+      "price": 5.08
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.0052
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DHCP",
+      "price": 5.8637
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.1201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHCP",
+      "price": 5.93
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DHCP",
+      "price": 5.98
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DHCP",
+      "price": 5.995
+    },
+    {
+      "ticker": "AXON",
+      "price": 5.0144
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DHCP",
+      "price": 5.95
+    },
+    {
+      "ticker": "AXON",
+      "price": 4.99
+    }
+  ]
+}

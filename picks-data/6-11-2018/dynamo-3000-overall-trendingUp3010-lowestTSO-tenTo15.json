@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MSON",
+      "price": 13
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HX",
+      "price": 11.7514
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.445
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DSPG",
+      "price": 12.3
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DSPG",
+      "price": 12.125
+    },
+    {
+      "ticker": "CBAY",
+      "price": 12.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSPG",
+      "price": 12.175
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRA",
+      "price": 13.75
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DSPG",
+      "price": 12.1
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.78
+    }
+  ]
+}

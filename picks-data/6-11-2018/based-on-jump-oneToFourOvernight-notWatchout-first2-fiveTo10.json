@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ACHV",
+      "price": 8.09
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACHV",
+      "price": 8.16
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACHV",
+      "price": 8.16
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACHV",
+      "price": 7.57
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.7
+    }
+  ]
+}

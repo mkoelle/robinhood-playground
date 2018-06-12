@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "RCII",
+      "price": 10.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RCII",
+      "price": 10
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6448
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRAC",
+      "price": 13.585
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RCII",
+      "price": 10.13
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.6
+    }
+  ]
+}

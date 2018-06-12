@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 0.235
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.879
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BIOC",
+      "price": 0.239
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.941
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2267
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2306
+    },
+    {
+      "ticker": "TTPH",
+      "price": 4
+    }
+  ]
+}

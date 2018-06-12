@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLFS",
+      "price": 10.25
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MBI",
+      "price": 9.995
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MBI",
+      "price": 10.06
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBI",
+      "price": 10.15
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MBI",
+      "price": 10.2389
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MBI",
+      "price": 10.24
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MBI",
+      "price": 10.095
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.03
+    }
+  ]
+}

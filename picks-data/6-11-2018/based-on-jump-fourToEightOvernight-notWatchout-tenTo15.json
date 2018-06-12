@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IIJI",
+      "price": 10.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IIJI",
+      "price": 10.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCOM",
+      "price": 11.2839
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.77
+    },
+    {
+      "ticker": "SBPH",
+      "price": 14.03
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCOM",
+      "price": 11.1935
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.77
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.61
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "RCII",
+      "price": 10.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RCII",
+      "price": 10
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6448
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.695
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRAC",
+      "price": 13.585
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.685
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.8415
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.171
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RCII",
+      "price": 10.13
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.6
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.72
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.869
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.13
+    }
+  ]
+}

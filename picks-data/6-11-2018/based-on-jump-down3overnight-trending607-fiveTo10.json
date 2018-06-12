@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 8.8
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 8.33
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 8.09
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 8.36
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.4
+    }
+  ]
+}

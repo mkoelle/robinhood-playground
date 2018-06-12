@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CPIX",
+      "price": 6
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.51
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PIH",
+      "price": 7.7027
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.92
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.845
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RNGR",
+      "price": 8.92
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.26
+    },
+    {
+      "ticker": "SVBI",
+      "price": 8
+    }
+  ]
+}

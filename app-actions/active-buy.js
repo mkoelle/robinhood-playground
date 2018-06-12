@@ -76,7 +76,7 @@ module.exports = async (
                         Robinhood,
                         {
                             ticker,
-                            newBid,
+                            bidPrice: newBid,
                             quantity,
                             strategy
                         }

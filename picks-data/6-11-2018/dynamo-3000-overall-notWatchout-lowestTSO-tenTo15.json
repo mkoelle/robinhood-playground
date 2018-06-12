@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MSON",
+      "price": 13
+    },
+    {
+      "ticker": "RCII",
+      "price": 10.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMG",
+      "price": 13.5636
+    },
+    {
+      "ticker": "BBGI",
+      "price": 11.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DSPG",
+      "price": 12.125
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DSPG",
+      "price": 12.1
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    }
+  ]
+}

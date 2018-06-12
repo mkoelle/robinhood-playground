@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UGP",
+      "price": 13.31
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UGP",
+      "price": 13.51
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 10.02
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JKS",
+      "price": 12.265
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JKS",
+      "price": 12.24
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JKS",
+      "price": 12.34
+    },
+    {
+      "ticker": "GTN",
+      "price": 11.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DM",
+      "price": 13.475
+    },
+    {
+      "ticker": "JKS",
+      "price": 12.51
+    }
+  ]
+}

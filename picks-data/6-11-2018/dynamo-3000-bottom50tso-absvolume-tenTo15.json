@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BAS",
+      "price": 12.36
+    },
+    {
+      "ticker": "PICO",
+      "price": 10.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMG",
+      "price": 13.5636
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    },
+    {
+      "ticker": "MMLP",
+      "price": 14.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.5
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.6703
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 10.5
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INNT",
+      "price": 10.59
+    },
+    {
+      "ticker": "NAVI",
+      "price": 14.585
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INNT",
+      "price": 10.3
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.6703
+    }
+  ]
+}

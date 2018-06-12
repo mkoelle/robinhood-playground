@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "INNT",
+      "price": 10.5
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.6079
+    }
+  ],
+  "280": [
+    {
+      "ticker": "INNT",
+      "price": 10.57
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.13
+    }
+  ],
+  "328": [
+    {
+      "ticker": "EXPI",
+      "price": 14.32
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.5444
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EXPI",
+      "price": 14.19
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.97
+    }
+  ]
+}

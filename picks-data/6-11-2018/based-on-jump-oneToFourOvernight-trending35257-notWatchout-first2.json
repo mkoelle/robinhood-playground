@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OESX",
+      "price": 0.895
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.92
+    }
+  ]
+}

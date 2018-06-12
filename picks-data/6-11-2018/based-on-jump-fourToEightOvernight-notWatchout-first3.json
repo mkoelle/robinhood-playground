@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.546
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.46
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.5679
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.461
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2574
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5784
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2424
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5918
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.45
+    }
+  ]
+}

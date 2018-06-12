@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HBIO",
+      "price": 5.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.5
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HBIO",
+      "price": 5.25
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.3927
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HBIO",
+      "price": 5.25
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.3801
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HBIO",
+      "price": 5.275
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.38
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.95
+    }
+  ]
+}

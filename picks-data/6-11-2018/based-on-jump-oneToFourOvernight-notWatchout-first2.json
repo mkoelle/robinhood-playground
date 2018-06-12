@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "GGB",
+      "price": 3.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.9851
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OESX",
+      "price": 0.9
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OESX",
+      "price": 0.895
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.63
+    }
+  ]
+}

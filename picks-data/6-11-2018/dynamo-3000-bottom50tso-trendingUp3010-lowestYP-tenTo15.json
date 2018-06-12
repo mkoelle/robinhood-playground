@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 10.25
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRUE",
+      "price": 10.2
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 10.375
+    },
+    {
+      "ticker": "AFI",
+      "price": 14.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 10.25
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.145
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.17
+    }
+  ]
+}

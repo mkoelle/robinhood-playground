@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVLO",
+      "price": 14.98
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.875
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OFG",
+      "price": 14.9
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OBSV",
+      "price": 14.595
+    },
+    {
+      "ticker": "AMC",
+      "price": 14.9235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OBSV",
+      "price": 14.6
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UBX",
+      "price": 14.7599
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBSV",
+      "price": 14.6
+    },
+    {
+      "ticker": "PCOM",
+      "price": 14.45
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "PULM",
+      "price": 0.6146
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PULM",
+      "price": 0.6149
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.6375
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.841
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.6322
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8326
+    }
+  ]
+}

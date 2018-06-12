@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "HMG",
+      "price": 13.5636
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.36
+    }
+  ],
+  "32": [
+    {
+      "ticker": "MRSN",
+      "price": 14.87
+    },
+    {
+      "ticker": "BLFS",
+      "price": 10.2183
+    }
+  ],
+  "63": [
+    {
+      "ticker": "IOR",
+      "price": 13.6703
+    },
+    {
+      "ticker": "OOMA",
+      "price": 12.059
+    }
+  ],
+  "221": [
+    {
+      "ticker": "CIX",
+      "price": 13.6325
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.9
+    }
+  ],
+  "280": [
+    {
+      "ticker": "DRNA",
+      "price": 12.75
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.58
+    }
+  ],
+  "328": [
+    {
+      "ticker": "KRYS",
+      "price": 14.3
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.5
+    }
+  ],
+  "388": [
+    {
+      "ticker": "PHII",
+      "price": 11.1
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.16
+    }
+  ]
+}

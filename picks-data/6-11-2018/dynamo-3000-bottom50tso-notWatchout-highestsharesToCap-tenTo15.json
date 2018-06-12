@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MGTX",
+      "price": 14.7032
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 10.2399
+    },
+    {
+      "ticker": "PTIE",
+      "price": 10.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DZSI",
+      "price": 10.18
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DZSI",
+      "price": 10.1
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ITUB",
+      "price": 10.86
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITUB",
+      "price": 10.83
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ITUB",
+      "price": 10.815
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.4
+    }
+  ]
+}

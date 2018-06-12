@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RFIL",
+      "price": 8.15
+    },
+    {
+      "ticker": "NETE",
+      "price": 8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RFIL",
+      "price": 8.1
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.1547
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RFIL",
+      "price": 7.95
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.115
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RFIL",
+      "price": 8.445
+    },
+    {
+      "ticker": "NETE",
+      "price": 7.865
+    }
+  ]
+}

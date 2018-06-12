@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SVRA",
+      "price": 11.9299
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVRA",
+      "price": 11.8054
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.6448
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVRA",
+      "price": 12.03
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVRA",
+      "price": 12.0206
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.72
+    }
+  ]
+}

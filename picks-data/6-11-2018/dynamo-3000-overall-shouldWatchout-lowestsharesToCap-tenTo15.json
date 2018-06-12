@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 14.9
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.825
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGRY",
+      "price": 14.9
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BOJA",
+      "price": 14.775
+    },
+    {
+      "ticker": "MRSN",
+      "price": 14.745
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 14.9703
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 14.9602
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPI",
+      "price": 14.205
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "I",
+      "price": 14.8725
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.19
+    }
+  ]
+}

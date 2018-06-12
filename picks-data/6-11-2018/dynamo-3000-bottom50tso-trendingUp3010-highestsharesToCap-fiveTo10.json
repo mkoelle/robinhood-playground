@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HBIO",
+      "price": 5.25
+    },
+    {
+      "ticker": "NE",
+      "price": 5.79
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.21
+    },
+    {
+      "ticker": "HCHC",
+      "price": 6.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBIO",
+      "price": 5.175
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1058
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.205
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.505
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GALT",
+      "price": 6.0177
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GALT",
+      "price": 5.97
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 10.2506
+    },
+    {
+      "ticker": "KALA",
+      "price": 13.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBD",
+      "price": 12.5035
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKRX",
+      "price": 14.835
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LNTH",
+      "price": 14.825
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKRX",
+      "price": 14.84
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LNTH",
+      "price": 14.825
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLP",
+      "price": 11.75
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.725
+    }
+  ]
+}

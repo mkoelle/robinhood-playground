@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USO",
+      "price": 13.164
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USO",
+      "price": 13.265
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MIDZ",
+      "price": 10.8769
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MIDZ",
+      "price": 10.845
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.5086
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MIDZ",
+      "price": 10.87
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.605
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MIDZ",
+      "price": 10.87
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.587
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MIDZ",
+      "price": 10.87
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.54
+    }
+  ]
+}

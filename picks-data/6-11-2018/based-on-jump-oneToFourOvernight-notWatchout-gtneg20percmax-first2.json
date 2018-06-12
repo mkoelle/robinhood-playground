@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADMA",
+      "price": 4.9851
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADMA",
+      "price": 4.75
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADMA",
+      "price": 4.63
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 9.805
+    },
+    {
+      "ticker": "TTOO",
+      "price": 9.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXTR",
+      "price": 9.005
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.375
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 9.865
+    },
+    {
+      "ticker": "TTOO",
+      "price": 9.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 9.8822
+    },
+    {
+      "ticker": "EEQ",
+      "price": 9.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEQ",
+      "price": 9.524
+    },
+    {
+      "ticker": "QBAK",
+      "price": 9.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEQ",
+      "price": 9.605
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.2575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EEQ",
+      "price": 9.63
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.385
+    }
+  ]
+}
