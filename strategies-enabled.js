@@ -133,5 +133,7 @@ module.exports = {
         honorableMentions3,
         myPicks,
         realOldSchool,
+        twoPicks,
+        morePicks
     }
 };
