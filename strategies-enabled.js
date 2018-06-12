@@ -98,6 +98,7 @@ const forPurchase = [
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-shouldWatchout-384',
     'based-on-jump-down3overnight-trending35257-shouldWatchout-first3-fiveTo10-0',
     'low-float-high-volume-floatTimesabsVolPoints-trenddown3to5-6',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-fiveTo10-150',
     
     ...twoPicks,
     ...morePicks
