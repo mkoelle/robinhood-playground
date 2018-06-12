@@ -55,23 +55,46 @@ const myPicks = [
     'dynamo-3000-bottom50tso-notWatchout-lowestsharesToCap-40'  // hesitant
 ];
 
+const twoPicks = [
+    'low-float-high-volume-floatPoints-trenddowngt10-notWatchout-6',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout-25',
+    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
+    'low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10-6',
+    'low-float-high-volume-volTo2WeekPoints-trend10to15-shouldWatchout-384',
+    'based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-fiveTo10-30',
+    'based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10-16',
+    'based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-fiveTo10-0',
+    'low-float-high-volume-absVolPoints-trenddowngt10-fiveTo10-276',
+    'based-on-jump-down5overnight-trending53-notWatchout-gtneg20percmax-5'
+
+];
+
+const morePicks = [
+    'based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-0',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout-25',
+    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-notWatchout-6',
+    'low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10-6',
+    'based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10-0',
+    'based-on-jump-down5overnight-trending607-shouldWatchout-fiveTo10-0',
+    'based-on-jump-down5overnight-trending35257-shouldWatchout-fiveTo10-0',
+    'based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-0',
+    'low-float-high-volume-floatPoints-trenddown3to5-tenTo15-6'
+]
+
 const forPurchase = [
     // short sell / buy put option / sell call option:
-    // based-on-jump-gtEightOvernight-trending53-first1-5
-    // based-on-jump-gtEightOvernight-gt100kvolume-first1-5 ??
-    // low-float-high-volume-floatTimesfloatToVolume-trendgt30-6
-    // low-float-high-volume-floatTimesfloatToVolume-trendgt20-6
-    // low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt50-210
-    // based-on-jump-gtEightOvernight-shouldWatchout-5
+    // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
+    // constant-risers-10minute-percUpHighClose-highovernightjumps-198
 
     'low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout-25',
-    'low-float-high-volume-volTo2WeekPoints-trend10to15-shouldWatchout-315',
     'low-float-high-volume-floatTimesvolToAvgPoints-trendgt20-notWatchout-fiveTo10-95',
     'low-float-high-volume-absVolPoints-trend5to10-shouldWatchout-150',
-    'low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10-95',
     'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-150',
     'based-on-jump-down5overnight-trending35257-shouldWatchout-fiveTo10-0',
-    'based-on-jump-fourToEightOvernight-notWatchout-ltneg50percmax-fiveTo10-5'
+
+    ...twoPicks,
+    ...morePicks
 ];
 
 const cheapestPicksEmailObj = [
