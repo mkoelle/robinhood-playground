@@ -92,7 +92,13 @@ const forPurchase = [
     'low-float-high-volume-absVolPoints-trend5to10-shouldWatchout-150',
     'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-150',
     'based-on-jump-down5overnight-trending35257-shouldWatchout-fiveTo10-0',
-
+    'dynamo-3000-bottom50tso-absvolume-4',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-6',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-276',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-shouldWatchout-384',
+    'based-on-jump-down3overnight-trending35257-shouldWatchout-first3-fiveTo10-0',
+    'low-float-high-volume-floatTimesabsVolPoints-trenddown3to5-6',
+    
     ...twoPicks,
     ...morePicks
 ];

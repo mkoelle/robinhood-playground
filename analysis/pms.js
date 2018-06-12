@@ -33,6 +33,9 @@ module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
         pmAnalysis[key] = {
             avgTrend: avgArray(trends),
             percUp: trends.filter(t => t > 0).length / trends.length,
+            hundredResult: trends.reduce((acc, val) => {
+                return acc * (100 + val) / 100;
+            }, 100),
             trends
         };
     });
