@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IEC",
+      "price": 6.6841
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 6.5875
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 6.5499
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 6.56
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.67
+    }
+  ]
+}

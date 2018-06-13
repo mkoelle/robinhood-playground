@@ -1,0 +1,54 @@
+{
+  "4": [
+    {
+      "ticker": "FINL",
+      "price": 13.47
+    },
+    {
+      "ticker": "MTG",
+      "price": 11.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MLP",
+      "price": 11.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 11.98
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESND",
+      "price": 13.83
+    },
+    {
+      "ticker": "FINL",
+      "price": 13.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FINL",
+      "price": 13.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALNA",
+      "price": 13.53
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.59
+    }
+  ]
+}

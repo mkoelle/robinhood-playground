@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.85
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.8892
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.6
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REFR",
+      "price": 0.98
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.593
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.84
+    }
+  ]
+}

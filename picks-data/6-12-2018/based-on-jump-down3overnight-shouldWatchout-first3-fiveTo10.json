@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "RKDA",
+      "price": 9.3
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RKDA",
+      "price": 9.3
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.57
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.4301
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RKDA",
+      "price": 9.3352
+    },
+    {
+      "ticker": "EDRY",
+      "price": 7.16
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RKDA",
+      "price": 9.35
+    },
+    {
+      "ticker": "EDRY",
+      "price": 7.11
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.6295
+    }
+  ]
+}

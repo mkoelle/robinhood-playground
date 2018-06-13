@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PLM",
+      "price": 1.04
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.8892
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLM",
+      "price": 1.11
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLM",
+      "price": 1.079
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 4.9675
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.623
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIS",
+      "price": 4.8901
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NEON",
+      "price": 0.3594
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.65
+    }
+  ]
+}

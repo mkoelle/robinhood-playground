@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5552
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5505
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KOOL",
+      "price": 0.54
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5521
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.25
+    }
+  ]
+}

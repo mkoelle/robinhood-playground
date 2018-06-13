@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 8.8284
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.965
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 8.8178
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.925
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 8.765
+    },
+    {
+      "ticker": "AMRS",
+      "price": 5.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNAT",
+      "price": 5.05
+    },
+    {
+      "ticker": "LGCY",
+      "price": 7.073
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "RCII",
+      "price": 11.53
+    }
+  ],
+  "35": [
+    {
+      "ticker": "RCII",
+      "price": 11.89
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.58
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 12.6411
+    },
+    {
+      "ticker": "JAG",
+      "price": 11.9
+    }
+  ],
+  "90": [
+    {
+      "ticker": "RCII",
+      "price": 12.66
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.875
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.41
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.008
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.6
+    }
+  ],
+  "223": [
+    {
+      "ticker": "RCII",
+      "price": 12.42
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.2247
+    },
+    {
+      "ticker": "TOCA",
+      "price": 10.12
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.1
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.82
+    }
+  ]
+}

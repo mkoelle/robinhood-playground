@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "AGLE",
+      "price": 10.06
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AGLE",
+      "price": 10.15
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AGLE",
+      "price": 10.38
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.541
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORBC",
+      "price": 10.06
+    },
+    {
+      "ticker": "DSKE",
+      "price": 10.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOCA",
+      "price": 10.185
+    },
+    {
+      "ticker": "ORBC",
+      "price": 10.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CWBR",
+      "price": 10.35
+    },
+    {
+      "ticker": "TOCA",
+      "price": 10.16
+    }
+  ]
+}

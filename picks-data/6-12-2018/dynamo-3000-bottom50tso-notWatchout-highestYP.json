@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "NAKD",
+      "price": 2.25
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5703
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAKD",
+      "price": 2.03
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5555
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSI",
+      "price": 2.55
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LTRX",
+      "price": 2.72
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPSH",
+      "price": 1.55
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATLC",
+      "price": 2.03
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9199
+    }
+  ]
+}

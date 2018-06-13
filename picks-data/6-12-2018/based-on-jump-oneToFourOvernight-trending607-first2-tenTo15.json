@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 11.12
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 10.91
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 10.845
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.5947
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CWBR",
+      "price": 9.8729
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.9077
+    }
+  ]
+}

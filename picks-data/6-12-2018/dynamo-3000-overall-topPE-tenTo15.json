@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.33
+    },
+    {
+      "ticker": "NVGS",
+      "price": 11
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.63
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.79
+    },
+    {
+      "ticker": "DGII",
+      "price": 11.9
+    },
+    {
+      "ticker": "GME",
+      "price": 14.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 12.77
+    },
+    {
+      "ticker": "DGII",
+      "price": 12
+    },
+    {
+      "ticker": "GME",
+      "price": 14.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 12.82
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.86
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12.83
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.86
+    },
+    {
+      "ticker": "DGII",
+      "price": 12.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIND",
+      "price": 12.82
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.815
+    },
+    {
+      "ticker": "DGII",
+      "price": 12
+    }
+  ]
+}

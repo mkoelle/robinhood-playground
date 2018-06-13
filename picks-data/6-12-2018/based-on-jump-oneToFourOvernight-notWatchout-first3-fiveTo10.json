@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IEC",
+      "price": 6.6841
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.38
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 6.5875
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.27
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 6.5499
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.6
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.6194
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 6.56
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.67
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.25
+    }
+  ]
+}

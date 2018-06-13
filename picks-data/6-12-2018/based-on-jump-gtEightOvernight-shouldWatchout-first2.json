@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RCON",
+      "price": 1.45
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RCON",
+      "price": 1.4458
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RCON",
+      "price": 1.4085
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.1601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RCON",
+      "price": 1.39
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.2009
+    }
+  ]
+}

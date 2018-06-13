@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "TNXP",
+      "price": 4.3685
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.6363
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.33
+    }
+  ],
+  "50": [
+    {
+      "ticker": "EFOI",
+      "price": 2.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNXP",
+      "price": 4.294
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.315
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TNXP",
+      "price": 4.3001
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.33
+    }
+  ],
+  "380": [
+    {
+      "ticker": "EFOI",
+      "price": 2.33
+    }
+  ],
+  "600": [
+    {
+      "ticker": "DPW",
+      "price": 0.64
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.33
+    }
+  ]
+}

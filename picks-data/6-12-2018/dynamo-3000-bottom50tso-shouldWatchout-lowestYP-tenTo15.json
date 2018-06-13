@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "DBD",
+      "price": 12.45
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NCSM",
+      "price": 13.155
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BAS",
+      "price": 12.7653
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.822
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLP",
+      "price": 11.7
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 12.71
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 10.7
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.675
+    }
+  ]
+}

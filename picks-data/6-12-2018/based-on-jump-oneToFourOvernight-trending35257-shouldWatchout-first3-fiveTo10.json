@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RDVT",
+      "price": 8.345
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.85
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RDVT",
+      "price": 8.1983
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.3379
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 8.065
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.0492
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 8.3368
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.28
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.56
+    }
+  ]
+}

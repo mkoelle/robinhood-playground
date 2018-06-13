@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IEC",
+      "price": 6.6841
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.345
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IEC",
+      "price": 6.5875
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.1983
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IEC",
+      "price": 6.5499
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.065
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IEC",
+      "price": 6.56
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.3368
+    }
+  ]
+}

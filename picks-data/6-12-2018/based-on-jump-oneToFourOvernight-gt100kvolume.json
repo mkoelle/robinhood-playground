@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5552
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.6009
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5442
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5505
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5829
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5213
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.5286
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KOOL",
+      "price": 0.54
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.915
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5501
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0299
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5521
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.867
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.915
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.57
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.08
+    }
+  ]
+}

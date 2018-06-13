@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 12.93
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.91
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 12.97
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 12.63
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.8601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 12.5427
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.86
+    }
+  ]
+}

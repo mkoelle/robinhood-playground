@@ -1,0 +1,54 @@
+{
+  "4": [
+    {
+      "ticker": "GSM",
+      "price": 10.16
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MLP",
+      "price": 11.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 11.98
+    },
+    {
+      "ticker": "TWI",
+      "price": 11.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.91
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FINL",
+      "price": 13.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EEP",
+      "price": 10.39
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.59
+    }
+  ]
+}

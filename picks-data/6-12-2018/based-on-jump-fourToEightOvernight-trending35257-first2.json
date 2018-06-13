@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBRX",
+      "price": 1.9605
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBRX",
+      "price": 1.911
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBRX",
+      "price": 1.885
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBRX",
+      "price": 1.8732
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.2
+    }
+  ]
+}

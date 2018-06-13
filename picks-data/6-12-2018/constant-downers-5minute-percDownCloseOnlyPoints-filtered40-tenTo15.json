@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OFG",
+      "price": 14.55
+    },
+    {
+      "ticker": "EDF",
+      "price": 13.87
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.415
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BAS",
+      "price": 12.74
+    },
+    {
+      "ticker": "KIRK",
+      "price": 12.54
+    },
+    {
+      "ticker": "NSTG",
+      "price": 14.16
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LOOP",
+      "price": 10.48
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.84
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.07
+    }
+  ]
+}

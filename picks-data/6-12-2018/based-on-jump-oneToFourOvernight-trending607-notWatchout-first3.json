@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MYOS",
+      "price": 1.6
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8593
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9923
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8501
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0249
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8347
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.825
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.08
+    }
+  ]
+}

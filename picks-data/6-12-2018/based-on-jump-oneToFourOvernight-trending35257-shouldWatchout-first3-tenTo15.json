@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 11.12
+    },
+    {
+      "ticker": "OBSV",
+      "price": 15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 10.91
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.5621
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 10.845
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6684
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 10.9077
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6384
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.85
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RDVT",
+      "price": 8.345
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.6
+    },
+    {
+      "ticker": "SCPH",
+      "price": 7.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RDVT",
+      "price": 8.1983
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.5366
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 8.065
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.54
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 8.3368
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.05
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.64
+    }
+  ]
+}

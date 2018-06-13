@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "GSM",
+      "price": 10.16
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSM",
+      "price": 10.1504
+    },
+    {
+      "ticker": "INNT",
+      "price": 10.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 10.27
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10.08
+    },
+    {
+      "ticker": "DF",
+      "price": 10.005
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 10
+    },
+    {
+      "ticker": "DERM",
+      "price": 10
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSM",
+      "price": 10
+    },
+    {
+      "ticker": "INNT",
+      "price": 10.31
+    }
+  ]
+}

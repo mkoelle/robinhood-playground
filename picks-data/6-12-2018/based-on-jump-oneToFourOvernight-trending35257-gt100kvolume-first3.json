@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "PULM",
+      "price": 0.6009
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5442
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PULM",
+      "price": 0.5829
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5213
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.5286
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.5501
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0299
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.57
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.08
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.525
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MYOS",
+      "price": 1.6
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8593
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8347
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYOS",
+      "price": 1.52
+    },
+    {
+      "ticker": "AST",
+      "price": 1.825
+    }
+  ]
+}

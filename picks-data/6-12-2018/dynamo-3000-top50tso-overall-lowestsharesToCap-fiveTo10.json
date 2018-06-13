@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "MNI",
+      "price": 9.87
+    },
+    {
+      "ticker": "HABT",
+      "price": 9.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OMEX",
+      "price": 9.23
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 9.91
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOCA",
+      "price": 10.05
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLSD",
+      "price": 9.8926
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NDLS",
+      "price": 9.65
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.53
+    }
+  ]
+}

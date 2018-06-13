@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.8892
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REFR",
+      "price": 0.93
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REFR",
+      "price": 0.98
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.593
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLWT",
+      "price": 8.19
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLWT",
+      "price": 7.91
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.155
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLWT",
+      "price": 7.25
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLWT",
+      "price": 7.2
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.04
+    }
+  ]
+}

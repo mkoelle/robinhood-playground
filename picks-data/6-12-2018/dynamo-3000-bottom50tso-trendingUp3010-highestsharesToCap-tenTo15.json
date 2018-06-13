@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "CEMI",
+      "price": 10.2
+    },
+    {
+      "ticker": "AP",
+      "price": 10.475
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRCP",
+      "price": 10.4
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.2499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VKTX",
+      "price": 10.3929
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AP",
+      "price": 10.2
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRCP",
+      "price": 10.05
+    },
+    {
+      "ticker": "AP",
+      "price": 10.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRCP",
+      "price": 10.11
+    },
+    {
+      "ticker": "AP",
+      "price": 10.125
+    }
+  ]
+}

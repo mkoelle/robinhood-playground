@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRKR",
+      "price": 0.6459
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRKR",
+      "price": 0.6462
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRKR",
+      "price": 0.6362
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.315
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRKR",
+      "price": 0.63
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.3025
+    }
+  ]
+}

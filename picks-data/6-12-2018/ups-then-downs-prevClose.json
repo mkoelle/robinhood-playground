@@ -1,0 +1,122 @@
+{
+  "10": [
+    {
+      "ticker": "WWR",
+      "price": 0.53
+    },
+    {
+      "ticker": "GNC",
+      "price": 3.608
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.57
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.4219
+    }
+  ],
+  "50": [
+    {
+      "ticker": "WWR",
+      "price": 0.53
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.17
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.565
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACET",
+      "price": 3.77
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5425
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3.1201
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8323
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.1754
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NFEC",
+      "price": 4.58
+    },
+    {
+      "ticker": "ACET",
+      "price": 3.76
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5358
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.831
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.552
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ACET",
+      "price": 3.725
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5301
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.505
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.09
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8309
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ACET",
+      "price": 3.72
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.5253
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.05
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8186
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.503
+    }
+  ]
+}

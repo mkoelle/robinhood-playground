@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DRV",
+      "price": 10.415
+    },
+    {
+      "ticker": "PBD",
+      "price": 12.56
+    },
+    {
+      "ticker": "MGTX",
+      "price": 14.75
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AP",
+      "price": 10.15
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.7
+    },
+    {
+      "ticker": "SSFN",
+      "price": 11.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSFN",
+      "price": 11.5
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.15
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.61
+    }
+  ]
+}

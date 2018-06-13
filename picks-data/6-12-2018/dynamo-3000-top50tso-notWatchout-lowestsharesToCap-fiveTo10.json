@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "MNI",
+      "price": 9.87
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRR",
+      "price": 9.18
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CORI",
+      "price": 9.37
+    },
+    {
+      "ticker": "FPI",
+      "price": 8.955
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOCA",
+      "price": 10.05
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.625
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 9.625
+    },
+    {
+      "ticker": "CWBR",
+      "price": 9.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NDLS",
+      "price": 9.65
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.42
+    }
+  ]
+}

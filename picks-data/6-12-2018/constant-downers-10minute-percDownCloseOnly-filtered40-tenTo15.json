@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ARL",
+      "price": 13.4
+    },
+    {
+      "ticker": "MNTX",
+      "price": 11.4
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MLP",
+      "price": 11.7
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.675
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MLP",
+      "price": 11.65
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.15
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.4673
+    }
+  ]
+}

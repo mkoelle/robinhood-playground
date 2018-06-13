@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "GPRO",
+      "price": 6.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPRO",
+      "price": 6.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR",
+      "price": 9.945
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.4085
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 4.9989
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.945
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.35
+    }
+  ]
+}

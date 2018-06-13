@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 2.2
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 2.14
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4458
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 2.0612
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4085
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 2.1
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.39
+    }
+  ]
+}
