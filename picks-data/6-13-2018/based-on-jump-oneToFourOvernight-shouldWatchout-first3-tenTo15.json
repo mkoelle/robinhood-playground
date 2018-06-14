@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.05
+    },
+    {
+      "ticker": "IOVA",
+      "price": 12.825
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.65
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.23
+    }
+  ]
+}

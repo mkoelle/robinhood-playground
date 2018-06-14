@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CWBR",
+      "price": 10.1
+    },
+    {
+      "ticker": "JRS",
+      "price": 10.0027
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 10.0166
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOCA",
+      "price": 9.79
+    },
+    {
+      "ticker": "HALL",
+      "price": 9.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWHM",
+      "price": 9.99
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EXPR",
+      "price": 9.97
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPR",
+      "price": 9.925
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPR",
+      "price": 9.86
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.75
+    }
+  ]
+}

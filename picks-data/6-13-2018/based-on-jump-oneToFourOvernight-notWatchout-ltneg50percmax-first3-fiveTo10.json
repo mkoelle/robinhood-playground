@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.75
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.61
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.87
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.62
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.995
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRIL",
+      "price": 6.05
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.84
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRIL",
+      "price": 6.05
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.78
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.62
+    }
+  ]
+}

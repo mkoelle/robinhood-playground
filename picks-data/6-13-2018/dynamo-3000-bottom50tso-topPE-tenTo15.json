@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "NCSM",
+      "price": 13.28
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.9
+    },
+    {
+      "ticker": "WETF",
+      "price": 11.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.675
+    },
+    {
+      "ticker": "NCSM",
+      "price": 13.23
+    },
+    {
+      "ticker": "TAST",
+      "price": 13.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 13.47
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.9
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 13.42
+    },
+    {
+      "ticker": "NCSM",
+      "price": 12.95
+    },
+    {
+      "ticker": "PCMI",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12.56
+    },
+    {
+      "ticker": "GME",
+      "price": 13.4
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.3019
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 13.34
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.35
+    },
+    {
+      "ticker": "NCSM",
+      "price": 13.2
+    }
+  ]
+}

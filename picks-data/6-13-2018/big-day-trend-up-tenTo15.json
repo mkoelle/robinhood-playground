@@ -1,0 +1,45 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "BCRH",
+      "price": 10.1
+    }
+  ],
+  "90": [
+    {
+      "ticker": "BCRH",
+      "price": 10.2
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.32
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.3
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.37
+    }
+  ],
+  "223": [
+    {
+      "ticker": "BCRH",
+      "price": 10.2
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.21
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.22
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.17
+    }
+  ]
+}

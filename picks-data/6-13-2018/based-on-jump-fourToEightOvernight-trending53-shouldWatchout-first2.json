@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MNGA",
+      "price": 0.43
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLG",
+      "price": 0.1019
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.4228
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLG",
+      "price": 0.1037
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.4161
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLG",
+      "price": 0.1038
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.42
+    }
+  ]
+}

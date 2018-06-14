@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QD",
+      "price": 9.45
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SCPH",
+      "price": 5.82
+    },
+    {
+      "ticker": "MRAM",
+      "price": 8.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CALA",
+      "price": 5.0803
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.8099
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CALA",
+      "price": 5.1305
+    },
+    {
+      "ticker": "NLNK",
+      "price": 5.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CALA",
+      "price": 5.075
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CALA",
+      "price": 5.2
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.8452
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CALA",
+      "price": 5.225
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.895
+    }
+  ]
+}

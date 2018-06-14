@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "OCC",
+      "price": 3.655
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.92
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.44
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.67
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OCC",
+      "price": 3.669
+    },
+    {
+      "ticker": "AST",
+      "price": 1.899
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9831
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.92
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCC",
+      "price": 3.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.9
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.94
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCC",
+      "price": 3.4604
+    },
+    {
+      "ticker": "AST",
+      "price": 1.85
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.925
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.9223
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.44
+    }
+  ]
+}

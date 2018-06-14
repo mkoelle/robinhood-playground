@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SCPH",
+      "price": 5.99
+    },
+    {
+      "ticker": "CLWT",
+      "price": 7.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCPH",
+      "price": 5.87
+    },
+    {
+      "ticker": "CLWT",
+      "price": 7.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCPH",
+      "price": 5.9999
+    },
+    {
+      "ticker": "EDRY",
+      "price": 7.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SCPH",
+      "price": 5.85
+    },
+    {
+      "ticker": "EDRY",
+      "price": 7.7
+    }
+  ]
+}

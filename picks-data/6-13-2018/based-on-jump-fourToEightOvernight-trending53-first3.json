@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MNGA",
+      "price": 0.43
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.65
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1019
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.4228
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5201
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1037
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5346
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1038
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "4": [
+    {
+      "ticker": "CRK",
+      "price": 10.775
+    },
+    {
+      "ticker": "ECOM",
+      "price": 14.65
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.02
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSU",
+      "price": 11.13
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.96
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.05
+    },
+    {
+      "ticker": "TACO",
+      "price": 13.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VIIX",
+      "price": 13.33
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.97
+    },
+    {
+      "ticker": "AQ",
+      "price": 11.74
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCXI",
+      "price": 12.01
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.7299
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 11.625
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TLYS",
+      "price": 14.89
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.62
+    }
+  ]
+}

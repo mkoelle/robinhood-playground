@@ -1,0 +1,62 @@
+{
+  "32": [
+    {
+      "ticker": "IPCI",
+      "price": 0.45
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2
+    }
+  ],
+  "63": [
+    {
+      "ticker": "GROW",
+      "price": 2.03
+    },
+    {
+      "ticker": "RWLK",
+      "price": 1.1
+    }
+  ],
+  "221": [
+    {
+      "ticker": "PLG",
+      "price": 0.1016
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2417
+    }
+  ],
+  "280": [
+    {
+      "ticker": "THM",
+      "price": 0.58
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.07
+    }
+  ],
+  "328": [
+    {
+      "ticker": "ALN",
+      "price": 0.1766
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.53
+    }
+  ],
+  "388": [
+    {
+      "ticker": "FLKS",
+      "price": 1.08
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9889
+    }
+  ]
+}

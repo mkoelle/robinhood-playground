@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ITI",
+      "price": 4.9105
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.289
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ITI",
+      "price": 5.01
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KNDI",
+      "price": 5.079
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.0803
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.1305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KNDI",
+      "price": 5.125
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1835
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.225
+    }
+  ]
+}

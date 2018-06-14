@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VTVT",
+      "price": 1.65
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VTVT",
+      "price": 1.73
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.18
+    },
+    {
+      "ticker": "IPDN",
+      "price": 4.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CORV",
+      "price": 4.02
+    },
+    {
+      "ticker": "NIHD",
+      "price": 3.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CORV",
+      "price": 3.97
+    },
+    {
+      "ticker": "NIHD",
+      "price": 3.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CORV",
+      "price": 3.9772
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BIOC",
+      "price": 0.259
+    },
+    {
+      "ticker": "VISI",
+      "price": 3.575
+    }
+  ]
+}

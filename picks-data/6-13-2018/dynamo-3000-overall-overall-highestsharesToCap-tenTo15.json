@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "DSKE",
+      "price": 9.98
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BCRH",
+      "price": 10
+    },
+    {
+      "ticker": "PPIH",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCRH",
+      "price": 10.1
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCRH",
+      "price": 10.175
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCRH",
+      "price": 10.1
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCRH",
+      "price": 10.25
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.14
+    }
+  ]
+}

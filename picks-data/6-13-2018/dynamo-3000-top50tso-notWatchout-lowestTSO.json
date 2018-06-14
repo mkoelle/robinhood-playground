@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVOL",
+      "price": 3.2
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATXI",
+      "price": 4.19
+    },
+    {
+      "ticker": "BMRA",
+      "price": 3.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZOM",
+      "price": 1.94
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.195
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLBS",
+      "price": 4.0516
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "STKS",
+      "price": 2.54
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLBS",
+      "price": 4.0519
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SALM",
+      "price": 4.65
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.845
+    }
+  ]
+}

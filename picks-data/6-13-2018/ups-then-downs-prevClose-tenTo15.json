@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "ECYT",
+      "price": 14.02
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ECYT",
+      "price": 14.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVU",
+      "price": 11.1
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.16
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ECYT",
+      "price": 14.14
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.34
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CVU",
+      "price": 11.1
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.34
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CVU",
+      "price": 11.2
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.31
+    }
+  ]
+}

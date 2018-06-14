@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PSP",
+      "price": 12.45
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.425
+    }
+  ],
+  "40": [
+    {
+      "ticker": "STRL",
+      "price": 13.1499
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRVS",
+      "price": 12.73
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.93
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWI",
+      "price": 11.695
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GIFI",
+      "price": 10.225
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.0501
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DOC",
+      "price": 14.87
+    },
+    {
+      "ticker": "RCII",
+      "price": 12.38
+    }
+  ]
+}

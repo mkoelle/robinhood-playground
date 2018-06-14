@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ENDP",
+      "price": 8.7942
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.015
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GALT",
+      "price": 6.64
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GALT",
+      "price": 6.6
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.625
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GALT",
+      "price": 6.56
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.85
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SMTX",
+      "price": 3.15
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 2.9184
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.497
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OZM",
+      "price": 2.195
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VTVT",
+      "price": 1.65
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "STKS",
+      "price": 2.54
+    },
+    {
+      "ticker": "MEIP",
+      "price": 4.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OESX",
+      "price": 0.95
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VTVT",
+      "price": 1.6451
+    },
+    {
+      "ticker": "SALM",
+      "price": 4.65
+    }
+  ]
+}

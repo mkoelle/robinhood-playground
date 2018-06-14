@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 1.65
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.5175
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.24
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.505
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAEX",
+      "price": 1.5531
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2277
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.57
+    }
+  ]
+}

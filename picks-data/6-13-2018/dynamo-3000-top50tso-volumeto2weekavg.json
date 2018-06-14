@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVOL",
+      "price": 3.2
+    },
+    {
+      "ticker": "SMTX",
+      "price": 3.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 2.9184
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ISR",
+      "price": 0.4679
+    },
+    {
+      "ticker": "ZOM",
+      "price": 1.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESNC",
+      "price": 0.36
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.3838
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AHPI",
+      "price": 2.67
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCYX",
+      "price": 1.81
+    },
+    {
+      "ticker": "CLBS",
+      "price": 4.0519
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHIP",
+      "price": 0.8351
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.82
+    }
+  ]
+}

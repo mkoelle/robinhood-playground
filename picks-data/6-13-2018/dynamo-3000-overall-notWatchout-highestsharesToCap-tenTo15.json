@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "DSKE",
+      "price": 9.98
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BCRH",
+      "price": 10
+    },
+    {
+      "ticker": "PPIH",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCRH",
+      "price": 10.1
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BCRH",
+      "price": 10.175
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.235
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCRH",
+      "price": 10.1
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCRH",
+      "price": 10.25
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.34
+    }
+  ]
+}

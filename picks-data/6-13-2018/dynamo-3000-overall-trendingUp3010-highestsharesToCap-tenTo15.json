@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "DSKE",
+      "price": 9.98
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PPIH",
+      "price": 10.1
+    },
+    {
+      "ticker": "DSKE",
+      "price": 10.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PPIH",
+      "price": 10.15
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LFGR",
+      "price": 10.075
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PPIH",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABR",
+      "price": 9.995
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPNS",
+      "price": 10.04
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ]
+}

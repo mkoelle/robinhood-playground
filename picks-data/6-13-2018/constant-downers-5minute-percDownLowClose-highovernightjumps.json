@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BDR",
+      "price": 1.1
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.6
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.6048
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BDR",
+      "price": 1.07
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.545
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.61
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DHXM",
+      "price": 2.55
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.08
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5
+    }
+  ]
+}

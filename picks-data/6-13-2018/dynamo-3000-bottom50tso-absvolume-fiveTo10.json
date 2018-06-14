@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WSCI",
+      "price": 5.35
+    },
+    {
+      "ticker": "VNET",
+      "price": 8.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ROSE",
+      "price": 7.51
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.245
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WSCI",
+      "price": 5.23
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WSCI",
+      "price": 5.25
+    },
+    {
+      "ticker": "FRAN",
+      "price": 6.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    },
+    {
+      "ticker": "WHLM",
+      "price": 7.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WSCI",
+      "price": 5.16
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.3526
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 6.675
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.73
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5601
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.4727
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.6
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5903
+    },
+    {
+      "ticker": "SPEX",
+      "price": 1.1183
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 3.0197
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.85
+    },
+    {
+      "ticker": "SPEX",
+      "price": 1.1183
+    }
+  ]
+}

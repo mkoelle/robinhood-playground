@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.7942
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.87
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.63
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 6.84
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.625
+    },
+    {
+      "ticker": "S",
+      "price": 5.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 6.78
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.85
+    },
+    {
+      "ticker": "S",
+      "price": 5.375
+    }
+  ]
+}

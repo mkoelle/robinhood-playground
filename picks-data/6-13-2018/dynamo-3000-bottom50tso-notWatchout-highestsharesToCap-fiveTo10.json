@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.8577
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SKIS",
+      "price": 5.05
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FENG",
+      "price": 5.02
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FENG",
+      "price": 5.028
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WSCI",
+      "price": 5.16
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRWS",
+      "price": 5.9
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.2
+    }
+  ]
+}

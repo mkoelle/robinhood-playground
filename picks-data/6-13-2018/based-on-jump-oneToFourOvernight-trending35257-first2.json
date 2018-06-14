@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.655
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MTNB",
+      "price": 0.6012
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTNB",
+      "price": 0.6012
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 3.0197
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5724
+    }
+  ]
+}

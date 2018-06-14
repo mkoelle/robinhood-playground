@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "AKRX",
+      "price": 14.69
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVXY",
+      "price": 13.96
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.97
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.91
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVXY",
+      "price": 13.95
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVXY",
+      "price": 13.77
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.25
+    }
+  ]
+}

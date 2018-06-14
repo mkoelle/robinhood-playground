@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 6.52
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.2158
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACHV",
+      "price": 7.28
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACHV",
+      "price": 7.02
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.3803
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACHV",
+      "price": 6.92
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.3803
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACHV",
+      "price": 7.16
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACHV",
+      "price": 7.17
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ACHV",
+      "price": 6.9702
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.32
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.8577
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.265
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.95
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.97
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.515
+    }
+  ]
+}

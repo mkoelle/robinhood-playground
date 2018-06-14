@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MARK",
+      "price": 5.45
+    },
+    {
+      "ticker": "PBI",
+      "price": 9.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCRB",
+      "price": 8.53
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PTGX",
+      "price": 6.81
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTD",
+      "price": 5.72
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PTGX",
+      "price": 6.78
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTGX",
+      "price": 6.81
+    },
+    {
+      "ticker": "TTS",
+      "price": 7.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PTGX",
+      "price": 6.83
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.05
+    }
+  ]
+}

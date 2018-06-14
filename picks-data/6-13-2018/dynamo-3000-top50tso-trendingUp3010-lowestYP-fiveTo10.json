@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTD",
+      "price": 5.96
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 7.52
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.525
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MLNT",
+      "price": 8.05
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NLNK",
+      "price": 5.33
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RARX",
+      "price": 8.375
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IDT",
+      "price": 6.235
+    },
+    {
+      "ticker": "RARX",
+      "price": 8.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IDT",
+      "price": 6.255
+    },
+    {
+      "ticker": "RARX",
+      "price": 8.45
+    }
+  ]
+}

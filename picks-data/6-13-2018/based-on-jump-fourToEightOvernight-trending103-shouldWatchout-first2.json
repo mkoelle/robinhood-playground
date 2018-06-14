@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 1.65
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAEX",
+      "price": 1.5531
+    },
+    {
+      "ticker": "FTFT",
+      "price": 2.2277
+    }
+  ]
+}

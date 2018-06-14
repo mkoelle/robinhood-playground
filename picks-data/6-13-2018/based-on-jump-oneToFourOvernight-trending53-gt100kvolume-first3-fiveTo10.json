@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ENDP",
+      "price": 8.7942
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GALT",
+      "price": 6.64
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.63
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GALT",
+      "price": 6.6
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.625
+    },
+    {
+      "ticker": "S",
+      "price": 5.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GALT",
+      "price": 6.56
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.85
+    },
+    {
+      "ticker": "S",
+      "price": 5.375
+    }
+  ]
+}

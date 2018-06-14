@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.655
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.669
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9831
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.55
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.4604
+    },
+    {
+      "ticker": "SACH",
+      "price": 3.99
+    }
+  ]
+}

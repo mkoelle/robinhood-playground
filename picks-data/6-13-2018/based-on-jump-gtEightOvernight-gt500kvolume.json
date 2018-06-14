@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "AYTU",
+      "price": 0.5
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.14
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AYTU",
+      "price": 0.4791
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.1085
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AYTU",
+      "price": 0.4578
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.5
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AYTU",
+      "price": 0.432
+    },
+    {
+      "ticker": "SEII",
+      "price": 4.65
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.4911
+    }
+  ]
+}

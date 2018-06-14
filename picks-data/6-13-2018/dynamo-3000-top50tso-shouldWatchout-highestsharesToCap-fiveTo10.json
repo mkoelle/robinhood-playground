@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALRN",
+      "price": 5.289
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.1374
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CARV",
+      "price": 5.2166
+    },
+    {
+      "ticker": "PETX",
+      "price": 5.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KNDI",
+      "price": 5.079
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.0803
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.1305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KNDI",
+      "price": 5.125
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1835
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.225
+    }
+  ]
+}

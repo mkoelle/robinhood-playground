@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.655
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5601
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.4727
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.669
+    },
+    {
+      "ticker": "AST",
+      "price": 1.899
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOFO",
+      "price": 2.2759
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.9
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 3.0197
+    },
+    {
+      "ticker": "SOFO",
+      "price": 2.2759
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.4604
+    },
+    {
+      "ticker": "AST",
+      "price": 1.85
+    }
+  ]
+}

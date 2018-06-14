@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5601
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5903
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 3.0197
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.85
+    }
+  ]
+}

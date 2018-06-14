@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AFI",
+      "price": 13.66
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.1606
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.5001
+    }
+  ],
+  "242": [
+    {
+      "ticker": "IOR",
+      "price": 13.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.65
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.0501
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IOR",
+      "price": 13.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.65
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.1146
+    }
+  ]
+}

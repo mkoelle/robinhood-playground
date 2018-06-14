@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 13.04
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9
+    },
+    {
+      "ticker": "SOGO",
+      "price": 13.1755
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "SOGO",
+      "price": 13.12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "SOGO",
+      "price": 12.8973
+    }
+  ]
+}

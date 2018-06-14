@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 0.9552
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.275
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.9801
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9761
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9463
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5201
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UMC",
+      "price": 3.105
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9628
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.5346
+    }
+  ]
+}

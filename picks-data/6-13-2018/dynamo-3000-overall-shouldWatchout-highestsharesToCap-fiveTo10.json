@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GOGO",
+      "price": 5.0173
+    },
+    {
+      "ticker": "KERX",
+      "price": 5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OPHC",
+      "price": 5.01
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KNDI",
+      "price": 5.079
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.0803
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.1305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KNDI",
+      "price": 5.125
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KNDI",
+      "price": 5.1835
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.225
+    }
+  ]
+}

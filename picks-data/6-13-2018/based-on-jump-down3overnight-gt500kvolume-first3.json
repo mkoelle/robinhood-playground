@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AXON",
+      "price": 4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXON",
+      "price": 3.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2989
+    },
+    {
+      "ticker": "NIHD",
+      "price": 3.1854
+    },
+    {
+      "ticker": "AXON",
+      "price": 3.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APPS",
+      "price": 1.61
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.305
+    },
+    {
+      "ticker": "NIHD",
+      "price": 3.0725
+    }
+  ]
+}

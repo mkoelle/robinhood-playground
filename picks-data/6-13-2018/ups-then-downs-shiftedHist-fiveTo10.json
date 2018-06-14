@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "ARCT",
+      "price": 8.25
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.9516
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ARCT",
+      "price": 8.4744
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARCT",
+      "price": 8.3971
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ARCT",
+      "price": 8.385
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ARCT",
+      "price": 8.43
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ARCT",
+      "price": 8.43
+    }
+  ]
+}

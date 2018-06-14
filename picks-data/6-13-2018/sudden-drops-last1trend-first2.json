@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2901
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5501
+    }
+  ],
+  "32": [
+    {
+      "ticker": "IPCI",
+      "price": 0.45
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.281
+    }
+  ],
+  "63": [
+    {
+      "ticker": "PED",
+      "price": 0.3477
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.03
+    }
+  ],
+  "221": [
+    {
+      "ticker": "MTNB",
+      "price": 0.553
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.6529
+    }
+  ],
+  "280": [
+    {
+      "ticker": "BDR",
+      "price": 1.07
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.11
+    }
+  ],
+  "328": [
+    {
+      "ticker": "CEI",
+      "price": 0.355
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.53
+    }
+  ],
+  "388": [
+    {
+      "ticker": "IMI",
+      "price": 1.5201
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.25
+    }
+  ]
+}

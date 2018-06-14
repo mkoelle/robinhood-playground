@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OCC",
+      "price": 3.655
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.92
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OCC",
+      "price": 3.669
+    },
+    {
+      "ticker": "AST",
+      "price": 1.899
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9831
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCC",
+      "price": 3.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.9
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCC",
+      "price": 3.4604
+    },
+    {
+      "ticker": "AST",
+      "price": 1.85
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.925
+    }
+  ]
+}

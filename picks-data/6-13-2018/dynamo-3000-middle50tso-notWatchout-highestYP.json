@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRRA",
+      "price": 3.2788
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.765
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMTX",
+      "price": 3.1
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TST",
+      "price": 1.8234
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMTX",
+      "price": 3.1
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SMTX",
+      "price": 3.0942
+    },
+    {
+      "ticker": "TST",
+      "price": 1.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SMTX",
+      "price": 3.1
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.765
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIC",
+      "price": 4.9
+    },
+    {
+      "ticker": "TST",
+      "price": 1.82
+    }
+  ]
+}

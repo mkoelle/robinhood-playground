@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "WSCI",
+      "price": 5.241
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.99
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.84
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.94
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.72
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ENPH",
+      "price": 5.9499
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2
+    },
+    {
+      "ticker": "ROSE",
+      "price": 7.75
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NFEC",
+      "price": 4.75
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NFEC",
+      "price": 4.75
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.455
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NFEC",
+      "price": 4.66
+    },
+    {
+      "ticker": "FLKS",
+      "price": 1.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NFEC",
+      "price": 4.7083
+    },
+    {
+      "ticker": "ASNA",
+      "price": 4.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NFEC",
+      "price": 4.6437
+    },
+    {
+      "ticker": "ASNA",
+      "price": 4.33
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASNA",
+      "price": 4.315
+    },
+    {
+      "ticker": "FLKS",
+      "price": 1.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASNA",
+      "price": 4.28
+    },
+    {
+      "ticker": "FLKS",
+      "price": 1.06
+    }
+  ]
+}

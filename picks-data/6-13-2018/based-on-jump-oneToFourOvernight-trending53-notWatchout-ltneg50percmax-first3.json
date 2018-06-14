@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MBOT",
+      "price": 0.85
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.0115
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBOT",
+      "price": 0.85
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.025
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBOT",
+      "price": 0.8499
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.33
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.865
+    },
+    {
+      "ticker": "PEIX",
+      "price": 2.96
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IGLD",
+      "price": 3.2
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.3899
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IGLD",
+      "price": 3.2
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IGLD",
+      "price": 3.15
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IGLD",
+      "price": 3.1384
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.46
+    }
+  ]
+}

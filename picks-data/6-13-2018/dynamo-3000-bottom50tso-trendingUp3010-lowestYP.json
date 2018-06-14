@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INPX",
+      "price": 0.3747
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5545
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INPX",
+      "price": 0.3684
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5648
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANY",
+      "price": 0.5539
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3055
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.37
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.5448
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANY",
+      "price": 0.5422
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3176
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANY",
+      "price": 0.5301
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.311
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANY",
+      "price": 0.5201
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3143
+    }
+  ]
+}

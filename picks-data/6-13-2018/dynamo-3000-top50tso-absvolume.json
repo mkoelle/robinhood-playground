@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVOL",
+      "price": 3.2
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 2.9184
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.4873
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ISR",
+      "price": 0.4679
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.4901
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESNC",
+      "price": 0.36
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AHPI",
+      "price": 2.67
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCYX",
+      "price": 1.81
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.493
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHIP",
+      "price": 0.8351
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4486
+    }
+  ]
+}

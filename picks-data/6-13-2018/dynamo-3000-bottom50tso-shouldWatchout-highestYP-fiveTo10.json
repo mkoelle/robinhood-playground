@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GALT",
+      "price": 6.59
+    },
+    {
+      "ticker": "XENE",
+      "price": 7.9214
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 10.0166
+    },
+    {
+      "ticker": "XENE",
+      "price": 7.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IOTS",
+      "price": 9.3
+    },
+    {
+      "ticker": "ASLN",
+      "price": 9.2285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSTM",
+      "price": 5.56
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRNS",
+      "price": 7.2813
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRNS",
+      "price": 7.25
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRNS",
+      "price": 7.26
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.295
+    }
+  ]
+}

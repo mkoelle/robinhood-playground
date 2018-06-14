@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 11.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.6465
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PCMI",
+      "price": 14.9001
+    },
+    {
+      "ticker": "VNCE",
+      "price": 12.65
+    }
+  ]
+}

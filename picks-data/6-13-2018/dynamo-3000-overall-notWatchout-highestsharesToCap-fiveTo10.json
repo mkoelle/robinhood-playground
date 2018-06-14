@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.8577
+    },
+    {
+      "ticker": "ITI",
+      "price": 4.9105
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.95
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.97
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.0124
+    }
+  ]
+}

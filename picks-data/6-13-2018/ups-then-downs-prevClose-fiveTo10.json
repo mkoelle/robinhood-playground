@@ -1,0 +1,50 @@
+{
+  "10": [
+    {
+      "ticker": "CLWT",
+      "price": 7.29
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CLWT",
+      "price": 7.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLWT",
+      "price": 7.1
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CLWT",
+      "price": 7.175
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.6696
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CLWT",
+      "price": 7.35
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.71
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CLWT",
+      "price": 7.3
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.66
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PULM",
+      "price": 0.5601
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.4727
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MTNB",
+      "price": 0.6012
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.6
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTNB",
+      "price": 0.6012
+    },
+    {
+      "ticker": "SPEX",
+      "price": 1.1183
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5903
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIK",
+      "price": 3.0197
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5724
+    },
+    {
+      "ticker": "SPEX",
+      "price": 1.1183
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 5.8577
+    },
+    {
+      "ticker": "ITI",
+      "price": 4.9105
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.079
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 6
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 5.95
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.04
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 5.97
+    },
+    {
+      "ticker": "KNDI",
+      "price": 5.1835
+    }
+  ]
+}

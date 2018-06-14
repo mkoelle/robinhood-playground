@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNAT",
+      "price": 4.9948
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNAT",
+      "price": 4.95
+    },
+    {
+      "ticker": "VOC",
+      "price": 4.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CNAT",
+      "price": 4.97
+    },
+    {
+      "ticker": "VOC",
+      "price": 4.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VOC",
+      "price": 4.9
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FLDM",
+      "price": 5.01
+    },
+    {
+      "ticker": "VOC",
+      "price": 4.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VOC",
+      "price": 5
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SORL",
+      "price": 4.9603
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.96
+    }
+  ]
+}

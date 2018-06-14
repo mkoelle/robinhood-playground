@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.7942
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.59
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.87
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.63
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.5599
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 6.84
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.625
+    },
+    {
+      "ticker": "S",
+      "price": 5.41
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.566
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 6.78
+    },
+    {
+      "ticker": "ENDP",
+      "price": 8.85
+    },
+    {
+      "ticker": "S",
+      "price": 5.375
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.59
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSTM",
+      "price": 5.7199
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSTM",
+      "price": 5.61
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSTM",
+      "price": 5.64
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSTM",
+      "price": 5.64
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.925
+    }
+  ]
+}

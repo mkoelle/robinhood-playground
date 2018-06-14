@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JVA",
+      "price": 5.45
+    },
+    {
+      "ticker": "FIT",
+      "price": 7.6399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JVA",
+      "price": 5.46
+    },
+    {
+      "ticker": "FIT",
+      "price": 7.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JVA",
+      "price": 5.4
+    },
+    {
+      "ticker": "FIT",
+      "price": 7.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JVA",
+      "price": 5.4
+    },
+    {
+      "ticker": "FIT",
+      "price": 7.4501
+    }
+  ]
+}

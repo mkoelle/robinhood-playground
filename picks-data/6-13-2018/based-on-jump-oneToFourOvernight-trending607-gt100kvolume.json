@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "PULM",
+      "price": 0.5601
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.935
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PULM",
+      "price": 0.6
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.915
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PULM",
+      "price": 0.5903
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.895
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.5999
+    },
+    {
+      "ticker": "CASM",
+      "price": 1.8635
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PULM",
+      "price": 0.595
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.4478
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.895
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.875
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.49
+    }
+  ]
+}
