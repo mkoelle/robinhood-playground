@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CGEN",
+      "price": 3.975
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEE",
+      "price": 2.5874
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEE",
+      "price": 2.59
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.421
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CGEN",
+      "price": 3.975
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEE",
+      "price": 2.5874
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEE",
+      "price": 2.59
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPI",
+      "price": 0.433
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLRO",
+      "price": 4.75
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.0653
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLRO",
+      "price": 4.65
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3879
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AHPI",
+      "price": 2.7
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLRO",
+      "price": 4.6
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.7699
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MTNB",
+      "price": 0.4499
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AHPI",
+      "price": 2.651
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4449
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "10": [
+    {
+      "ticker": "MARK",
+      "price": 6.19
+    }
+  ],
+  "50": [],
+  "200": [
+    {
+      "ticker": "MARK",
+      "price": 5.49
+    },
+    {
+      "ticker": "BGFV",
+      "price": 8.725
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARK",
+      "price": 5.455
+    },
+    {
+      "ticker": "XENE",
+      "price": 7.9
+    },
+    {
+      "ticker": "BGFV",
+      "price": 8.725
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MARK",
+      "price": 5.45
+    },
+    {
+      "ticker": "XENE",
+      "price": 7.95
+    },
+    {
+      "ticker": "BGFV",
+      "price": 9
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MARK",
+      "price": 5.46
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.05
+    },
+    {
+      "ticker": "BGFV",
+      "price": 9.05
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DEST",
+      "price": 3.88
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4548
+    },
+    {
+      "ticker": "AHPI",
+      "price": 3.399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DEST",
+      "price": 4.63
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DEST",
+      "price": 4.3658
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DEST",
+      "price": 4.2301
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4477
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.9254
+    }
+  ]
+}

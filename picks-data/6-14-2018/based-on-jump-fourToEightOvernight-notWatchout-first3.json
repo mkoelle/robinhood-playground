@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ATEC",
+      "price": 3.6
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.23
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.18
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.56
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.23
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.55
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNVC",
+      "price": 0.469
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.9817
+    }
+  ]
+}

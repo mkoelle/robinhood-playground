@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 0.26
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.028
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3198
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BIOC",
+      "price": 0.246
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.0301
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2439
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.0098
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3011
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2588
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.0274
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3108
+    }
+  ]
+}

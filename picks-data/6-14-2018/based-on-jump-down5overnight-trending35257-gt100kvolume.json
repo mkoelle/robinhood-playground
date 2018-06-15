@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2352
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNOA",
+      "price": 3.1603
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2353
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNOA",
+      "price": 3.2042
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2338
+    },
+    {
+      "ticker": "FRED",
+      "price": 1.7152
+    }
+  ]
+}

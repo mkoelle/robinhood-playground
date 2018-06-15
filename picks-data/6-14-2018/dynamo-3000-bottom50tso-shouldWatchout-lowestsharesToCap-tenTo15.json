@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 15
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EIGR",
+      "price": 14.6
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.479
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGR",
+      "price": 14.55
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGR",
+      "price": 14.6
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAR",
+      "price": 14.6
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIGR",
+      "price": 14.45
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIGR",
+      "price": 14.55
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.225
+    }
+  ]
+}

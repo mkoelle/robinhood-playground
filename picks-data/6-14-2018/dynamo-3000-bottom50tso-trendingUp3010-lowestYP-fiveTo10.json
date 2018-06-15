@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RDVT",
+      "price": 8.16
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 8.0001
+    },
+    {
+      "ticker": "FAT",
+      "price": 7.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HZN",
+      "price": 6.6
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 7.6522
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 7.82
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 7.79
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 7.75
+    },
+    {
+      "ticker": "EGC",
+      "price": 7.48
+    }
+  ]
+}

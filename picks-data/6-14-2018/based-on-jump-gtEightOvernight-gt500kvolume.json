@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "TLGT",
+      "price": 3.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TLGT",
+      "price": 3.7
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TLGT",
+      "price": 3.62
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.3658
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.1532
+    },
+    {
+      "ticker": "FLKS",
+      "price": 1.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TLGT",
+      "price": 3.561
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.2301
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.99
+    },
+    {
+      "ticker": "FLKS",
+      "price": 1.536
+    }
+  ]
+}

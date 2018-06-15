@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TRIL",
+      "price": 6.15
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.78
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 5.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRIL",
+      "price": 6.15
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 6.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRIL",
+      "price": 6.2
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.77
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 6.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRIL",
+      "price": 6.2
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.74
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 6.17
+    }
+  ]
+}

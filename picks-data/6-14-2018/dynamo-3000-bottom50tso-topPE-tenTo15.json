@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 13.07
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.3
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.895
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.09
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.32
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 12.96
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.89
+    },
+    {
+      "ticker": "WETF",
+      "price": 10.7541
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 12.8951
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.92
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.93
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 12.81
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.94
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 12.775
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.9234
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.6552
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 12.82
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.905
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.595
+    }
+  ]
+}

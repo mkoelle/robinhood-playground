@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OESX",
+      "price": 0.96
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 0.96
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.975
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.5373
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.973
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.56
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.97
+    }
+  ]
+}

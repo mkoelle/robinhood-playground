@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KTOV",
+      "price": 2.8501
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.1567
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASNA",
+      "price": 4.25
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.3938
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODX",
+      "price": 4.15
+    },
+    {
+      "ticker": "STDY",
+      "price": 4.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENSV",
+      "price": 1.2125
+    },
+    {
+      "ticker": "GNW",
+      "price": 4.655
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOSY",
+      "price": 1.7065
+    },
+    {
+      "ticker": "CODX",
+      "price": 4.145
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENSV",
+      "price": 1.21
+    },
+    {
+      "ticker": "GNW",
+      "price": 4.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOSY",
+      "price": 1.72
+    },
+    {
+      "ticker": "SNMX",
+      "price": 1.18
+    }
+  ]
+}

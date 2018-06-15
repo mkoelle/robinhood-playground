@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSU",
+      "price": 11.155
+    },
+    {
+      "ticker": "YRCW",
+      "price": 11.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 10.57
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 10.5
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.245
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRUE",
+      "price": 10.56
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRUE",
+      "price": 10.525
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SELB",
+      "price": 12.01
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SELB",
+      "price": 11.98
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.225
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "FAT",
+      "price": 7.65
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.43
+    },
+    {
+      "ticker": "KALV",
+      "price": 8.05
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ASPU",
+      "price": 6.96
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.6639
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CARV",
+      "price": 5.55
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.75
+    }
+  ]
+}

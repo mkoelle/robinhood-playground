@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4887
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.2363
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.451
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLX",
+      "price": 0.4488
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5582
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NNVC",
+      "price": 0.4644
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2461
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2382
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4649
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2383
+    },
+    {
+      "ticker": "ONP",
+      "price": 1.15
+    }
+  ]
+}

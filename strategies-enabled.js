@@ -86,23 +86,19 @@ const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-
-    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
-    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
-    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
-
     'low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10-6',
-    'low-float-high-volume-absVolPoints-95',
-    'dynamo-3000-bottom50tso-absvolume-4',
-
-    'low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout-6',
-    'low-float-high-volume-floatPoints-trenddowngt10-notWatchout-6',
-    'low-float-high-volume-floatTimesabsVolPoints-trend15to25-notWatchout-150'
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-6',
+    'low-float-high-volume-absVolPoints-trenddowngt10-notWatchout-6',
+    'low-float-high-volume-volTo2WeekPoints-trenddown7to10-notWatchout-fiveTo10-150',
+    'based-on-jump-down3overnight-trending35257-shouldWatchout-first3-tenTo15-30',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-fiveTo10-150',
+    'based-on-jump-down8overnight-trending607-gt500kvolume-16'
 ];
 
 const cheapestPicksEmailObj = [
     ['And', 're', 'wzouza@', 'gm', 'ail.com'],
-    ['ViperKi', 'ller847', '@a', 'ol.com']
+    ['ViperKi', 'ller847', '@a', 'ol.com'],
+    ['Versa', 'cecoffin', 's@gmail.com']
 ]
     .map(val => val.join(''))
     .reduce((acc, val) => ({

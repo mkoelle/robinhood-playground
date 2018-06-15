@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVAX",
+      "price": 1.6301
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3721
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGY",
+      "price": 2.815
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.6451
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGY",
+      "price": 2.8
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGY",
+      "price": 2.77
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.65
+    }
+  ]
+}

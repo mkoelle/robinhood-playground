@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "JNUG",
+      "price": 14.399
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.96
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INVA",
+      "price": 14.78
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.2101
+    },
+    {
+      "ticker": "JNUG",
+      "price": 14.4567
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INVA",
+      "price": 14.8
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.4
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.2321
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INVA",
+      "price": 14.85
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.38
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.23
+    }
+  ]
+}

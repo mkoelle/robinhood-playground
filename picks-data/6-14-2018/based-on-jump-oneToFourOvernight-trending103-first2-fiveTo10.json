@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 8.63
+    },
+    {
+      "ticker": "GALT",
+      "price": 7.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 8.64
+    },
+    {
+      "ticker": "GALT",
+      "price": 7.5734
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 8.5422
+    },
+    {
+      "ticker": "GALT",
+      "price": 7.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 8.448
+    },
+    {
+      "ticker": "GALT",
+      "price": 7.37
+    }
+  ]
+}

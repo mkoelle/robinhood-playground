@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5945
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGY",
+      "price": 2.815
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.565
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGY",
+      "price": 2.8
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5696
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGY",
+      "price": 2.77
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    },
+    {
+      "ticker": "OESX",
+      "price": 0.97
+    }
+  ]
+}

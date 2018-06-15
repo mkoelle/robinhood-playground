@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 2.814
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 3.33
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.5565
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 2.905
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 3.295
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 3.32
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 3.33
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 3.45
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.63
+    }
+  ]
+}

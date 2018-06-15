@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "FLY",
+      "price": 13.9
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.76
+    },
+    {
+      "ticker": "DFRG",
+      "price": 12.65
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SFE",
+      "price": 13.075
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.6
+    },
+    {
+      "ticker": "MBTF",
+      "price": 10.575
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TREC",
+      "price": 13.6
+    },
+    {
+      "ticker": "SFE",
+      "price": 13.075
+    },
+    {
+      "ticker": "EWZS",
+      "price": 13.01
+    }
+  ]
+}

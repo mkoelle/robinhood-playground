@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AUY",
+      "price": 3.0499
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.66
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.8834
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEE",
+      "price": 2.5874
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5602
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEE",
+      "price": 2.59
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.56
+    }
+  ]
+}

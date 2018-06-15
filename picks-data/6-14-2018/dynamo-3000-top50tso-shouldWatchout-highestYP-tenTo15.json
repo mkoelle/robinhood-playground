@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 11.12
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 11.47
+    },
+    {
+      "ticker": "FRTA",
+      "price": 10.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 11.4857
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 11.49
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.47
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 11.7125
+    },
+    {
+      "ticker": "NGVC",
+      "price": 11.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 11.56
+    },
+    {
+      "ticker": "NGVC",
+      "price": 11.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBSV",
+      "price": 15.25
+    },
+    {
+      "ticker": "NGVC",
+      "price": 11.49
+    }
+  ]
+}

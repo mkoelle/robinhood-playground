@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.47
+    },
+    {
+      "ticker": "AKAO",
+      "price": 11.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOOP",
+      "price": 9.84
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 10.16
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.6122
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.09
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 12.77
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLP",
+      "price": 11.175
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.7634
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLP",
+      "price": 11.1
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.77
+    }
+  ]
+}

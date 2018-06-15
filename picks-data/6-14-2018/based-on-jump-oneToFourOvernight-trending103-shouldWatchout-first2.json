@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PULM",
+      "price": 0.5945
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGY",
+      "price": 2.815
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.565
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOL",
+      "price": 1.2098
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOL",
+      "price": 1.2098
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.77
+    }
+  ]
+}

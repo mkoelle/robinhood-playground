@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 15
+    },
+    {
+      "ticker": "DOC",
+      "price": 14.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DOC",
+      "price": 14.92
+    },
+    {
+      "ticker": "AKRX",
+      "price": 14.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMOS",
+      "price": 14.94
+    },
+    {
+      "ticker": "BZH",
+      "price": 14.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMOS",
+      "price": 14.94
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMOS",
+      "price": 14.99
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMOS",
+      "price": 14.98
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMOS",
+      "price": 14.99
+    },
+    {
+      "ticker": "APTS",
+      "price": 14.745
+    }
+  ]
+}

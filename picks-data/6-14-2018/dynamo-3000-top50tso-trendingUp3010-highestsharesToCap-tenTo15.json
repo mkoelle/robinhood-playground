@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EEP",
+      "price": 10.285
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRTA",
+      "price": 10.03
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MVO",
+      "price": 10.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLPR",
+      "price": 10
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLCM",
+      "price": 10.005
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLPR",
+      "price": 10.09
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLPR",
+      "price": 9.975
+    },
+    {
+      "ticker": "FRTA",
+      "price": 10.04
+    }
+  ]
+}

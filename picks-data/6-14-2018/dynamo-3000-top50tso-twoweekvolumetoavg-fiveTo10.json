@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 8.1
+    },
+    {
+      "ticker": "GNPX",
+      "price": 9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRBP",
+      "price": 6.1695
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 6.685
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TCRD",
+      "price": 8.1749
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VOXX",
+      "price": 5.8833
+    },
+    {
+      "ticker": "INSY",
+      "price": 8.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DAVE",
+      "price": 6.5
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNFR",
+      "price": 6.4
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.2301
+    }
+  ]
+}

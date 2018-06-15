@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GTE",
+      "price": 3.375
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDPI",
+      "price": 2.1407
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.4063
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APTO",
+      "price": 3.9369
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.3662
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDPI",
+      "price": 2.12
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.8592
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAT",
+      "price": 1.4025
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTO",
+      "price": 3.9
+    },
+    {
+      "ticker": "SDPI",
+      "price": 2.025
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDPI",
+      "price": 2.0693
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.8598
+    }
+  ]
+}

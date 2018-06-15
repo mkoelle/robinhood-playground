@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INSY",
+      "price": 7.24
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INSY",
+      "price": 7.259
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INSY",
+      "price": 7.2301
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.5422
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INSY",
+      "price": 7.62
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.448
+    }
+  ]
+}

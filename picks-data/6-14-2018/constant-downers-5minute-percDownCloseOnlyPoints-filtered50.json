@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AETI",
+      "price": 1.1614
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.83
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3861
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OPGN",
+      "price": 2.1
+    },
+    {
+      "ticker": "SNOA",
+      "price": 3.14
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.3099
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CORV",
+      "price": 3.63
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.25
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.5
+    }
+  ]
+}

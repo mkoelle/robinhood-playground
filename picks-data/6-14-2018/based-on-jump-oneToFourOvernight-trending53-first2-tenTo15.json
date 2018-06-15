@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IOVA",
+      "price": 13.55
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IOVA",
+      "price": 13.5
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.2101
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOVA",
+      "price": 13.475
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.2321
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IOVA",
+      "price": 13.5
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.23
+    }
+  ]
+}

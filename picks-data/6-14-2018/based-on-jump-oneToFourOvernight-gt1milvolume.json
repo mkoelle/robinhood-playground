@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3721
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.365
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3992
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3672
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.685
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HMNY",
+      "price": 0.373
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.7
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.125
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.8099
+    }
+  ]
+}

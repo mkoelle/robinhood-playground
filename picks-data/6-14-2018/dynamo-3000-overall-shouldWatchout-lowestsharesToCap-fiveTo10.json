@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 9.715
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9.65
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTRP",
+      "price": 9.95
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOOP",
+      "price": 9.71
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.995
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOOP",
+      "price": 9.8306
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOOP",
+      "price": 9.62
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GIFI",
+      "price": 9.825
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.42
+    }
+  ]
+}

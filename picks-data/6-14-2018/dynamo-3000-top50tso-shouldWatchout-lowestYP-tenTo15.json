@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NCSM",
+      "price": 13.39
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NCSM",
+      "price": 13.23
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NCSM",
+      "price": 13.32
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10
+    },
+    {
+      "ticker": "CBB",
+      "price": 12.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBB",
+      "price": 12.85
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.8
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTA",
+      "price": 14.69
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.9
+    }
+  ]
+}

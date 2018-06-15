@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USLV",
+      "price": 11.21
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "USLV",
+      "price": 11.2101
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "USLV",
+      "price": 11.2321
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.825
+    }
+  ],
+  "30": [
+    {
+      "ticker": "USLV",
+      "price": 11.23
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.84
+    }
+  ]
+}

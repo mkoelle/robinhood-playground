@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HCLP",
+      "price": 12.35
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.06
+    },
+    {
+      "ticker": "SILJ",
+      "price": 11.5048
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HCLP",
+      "price": 12.425
+    },
+    {
+      "ticker": "QEP",
+      "price": 11.93
+    },
+    {
+      "ticker": "SILJ",
+      "price": 11.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCBP",
+      "price": 15
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.02
+    },
+    {
+      "ticker": "HCLP",
+      "price": 12.425
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HALL",
+      "price": 10.02
+    },
+    {
+      "ticker": "HCLP",
+      "price": 12.425
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.01
+    }
+  ]
+}

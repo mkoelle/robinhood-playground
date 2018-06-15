@@ -1,0 +1,45 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "UMRX",
+      "price": 12.46
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.44
+    }
+  ],
+  "90": [
+    {
+      "ticker": "UMRX",
+      "price": 12.58
+    },
+    {
+      "ticker": "MYJ",
+      "price": 13.79
+    }
+  ],
+  "223": [
+    {
+      "ticker": "ARL",
+      "price": 13.1699
+    },
+    {
+      "ticker": "UMRX",
+      "price": 12.44
+    },
+    {
+      "ticker": "MYJ",
+      "price": 13.79
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.5
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.86
+    }
+  ]
+}

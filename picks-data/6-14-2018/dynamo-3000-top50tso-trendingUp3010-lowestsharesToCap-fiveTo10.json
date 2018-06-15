@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NDLS",
+      "price": 9.6
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UNL",
+      "price": 9.48
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UNL",
+      "price": 9.54
+    },
+    {
+      "ticker": "BLCM",
+      "price": 9.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UNL",
+      "price": 9.54
+    },
+    {
+      "ticker": "BLCM",
+      "price": 9.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGI",
+      "price": 9.575
+    },
+    {
+      "ticker": "RENN",
+      "price": 9.8162
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLCM",
+      "price": 9.7583
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLCM",
+      "price": 9.789
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.55
+    }
+  ]
+}

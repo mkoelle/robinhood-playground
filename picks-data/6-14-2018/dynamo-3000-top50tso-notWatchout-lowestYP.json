@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WWR",
+      "price": 0.52
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TIS",
+      "price": 4.845
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.5969
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NM",
+      "price": 0.8646
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NEON",
+      "price": 0.38
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NEON",
+      "price": 0.3798
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8689
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5184
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3785
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5229
+    },
+    {
+      "ticker": "PEIX",
+      "price": 3.1
+    }
+  ]
+}

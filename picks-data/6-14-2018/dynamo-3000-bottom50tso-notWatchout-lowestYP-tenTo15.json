@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BCRH",
+      "price": 10.2655
+    },
+    {
+      "ticker": "RES",
+      "price": 14.665
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.15
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GE",
+      "price": 13.6
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.27
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.105
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UGP",
+      "price": 12.8
+    },
+    {
+      "ticker": "BFR",
+      "price": 14.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 14.8
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.835
+    }
+  ]
+}

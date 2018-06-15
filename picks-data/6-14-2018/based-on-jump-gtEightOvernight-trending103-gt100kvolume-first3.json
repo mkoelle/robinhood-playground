@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IFON",
+      "price": 4.4301
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DEST",
+      "price": 4.63
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DEST",
+      "price": 4.3658
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.1532
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DEST",
+      "price": 4.2301
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.99
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4477
+    }
+  ]
+}

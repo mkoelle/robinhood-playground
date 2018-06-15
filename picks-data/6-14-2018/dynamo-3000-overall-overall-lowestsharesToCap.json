@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KODK",
+      "price": 5
+    },
+    {
+      "ticker": "SLS",
+      "price": 4.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLRO",
+      "price": 4.75
+    },
+    {
+      "ticker": "KODK",
+      "price": 4.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLRO",
+      "price": 4.65
+    },
+    {
+      "ticker": "KNDI",
+      "price": 4.9705
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLRO",
+      "price": 4.75
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLRO",
+      "price": 4.6
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLRO",
+      "price": 4.59
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.9748
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLRO",
+      "price": 4.6
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.975
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "120": [
+    {
+      "ticker": "VSLR",
+      "price": 4.825
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.55
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5001
+    },
+    {
+      "ticker": "TRXC",
+      "price": 3.685
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.565
+    }
+  ],
+  "180": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.575
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.725
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.55
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.63
+    }
+  ]
+}

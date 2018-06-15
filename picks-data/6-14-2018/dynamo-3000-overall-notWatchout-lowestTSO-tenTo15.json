@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AGLE",
+      "price": 10.35
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.895
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AGLE",
+      "price": 10.21
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AGLE",
+      "price": 10.255
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.289
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVLO",
+      "price": 12.26
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVLO",
+      "price": 12.02
+    },
+    {
+      "ticker": "SPAR",
+      "price": 14.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BFR",
+      "price": 14.31
+    },
+    {
+      "ticker": "EVLO",
+      "price": 11.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BFR",
+      "price": 14.36
+    },
+    {
+      "ticker": "SUPV",
+      "price": 14.8
+    }
+  ]
+}

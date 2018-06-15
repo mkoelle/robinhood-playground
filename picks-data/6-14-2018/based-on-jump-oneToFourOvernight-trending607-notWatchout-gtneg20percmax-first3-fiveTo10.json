@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CRWS",
+      "price": 5.95
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.75
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.546
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRWS",
+      "price": 5.9
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.7283
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.9
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.6838
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.85
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.4432
+    }
+  ]
+}

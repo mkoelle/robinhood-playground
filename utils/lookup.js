@@ -24,5 +24,6 @@ module.exports = async (Robinhood, ticker) => {
         yahooPrice,
         currentPrice: data.lastTrade || yahooPrice
     };
+    console.log(data, 'data');
     return data;
 };

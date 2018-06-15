@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CLRO",
+      "price": 5.105
+    },
+    {
+      "ticker": "CLWT",
+      "price": 6.442
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLRO",
+      "price": 4.8
+    },
+    {
+      "ticker": "CLWT",
+      "price": 6.3781
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLWT",
+      "price": 6.2314
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.7901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLWT",
+      "price": 6.2734
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.66
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 8.25
+    },
+    {
+      "ticker": "NES",
+      "price": 9.325
+    }
+  ]
+}

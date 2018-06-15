@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 9.715
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9.65
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BGFV",
+      "price": 9.05
+    },
+    {
+      "ticker": "JNP",
+      "price": 8.725
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOOP",
+      "price": 9.71
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOOP",
+      "price": 9.8306
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOOP",
+      "price": 9.62
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.465
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPR",
+      "price": 9.42
+    },
+    {
+      "ticker": "GSM",
+      "price": 9.335
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HSGX",
+      "price": 2.79
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7989
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.975
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HSGX",
+      "price": 2.77
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7727
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.459
+    }
+  ]
+}

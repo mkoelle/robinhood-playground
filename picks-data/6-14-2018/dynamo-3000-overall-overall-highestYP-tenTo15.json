@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 11.12
+    },
+    {
+      "ticker": "CDNA",
+      "price": 15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 11.26
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 15
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 14.89
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 14.88
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.7125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 11.56
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKTX",
+      "price": 11.4707
+    },
+    {
+      "ticker": "ARWR",
+      "price": 11.62
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 1.9
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.6301
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 1.85
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.815
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.6451
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOL",
+      "price": 1.2098
+    },
+    {
+      "ticker": "AMPE",
+      "price": 1.859
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOL",
+      "price": 1.2098
+    },
+    {
+      "ticker": "AMPE",
+      "price": 1.82
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.77
+    }
+  ]
+}

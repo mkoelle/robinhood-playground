@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2451
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.83
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.79
+    }
+  ],
+  "242": [
+    {
+      "ticker": "IFON",
+      "price": 3.76
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.6899
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.565
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TLGT",
+      "price": 3.6114
+    },
+    {
+      "ticker": "CTRV",
+      "price": 1.5
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.45
+    }
+  ]
+}

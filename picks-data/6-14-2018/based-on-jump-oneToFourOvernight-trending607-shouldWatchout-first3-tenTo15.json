@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SVXY",
+      "price": 13.96
+    },
+    {
+      "ticker": "VNCE",
+      "price": 13.97
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.825
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVXY",
+      "price": 13.98
+    },
+    {
+      "ticker": "VNCE",
+      "price": 13.9797
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVXY",
+      "price": 13.98
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVXY",
+      "price": 14.04
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14.2785
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.6
+    }
+  ]
+}

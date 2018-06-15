@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GTE",
+      "price": 3.375
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNOA",
+      "price": 3.1435
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.0653
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNOA",
+      "price": 3.1501
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.9369
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNOA",
+      "price": 3.17
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.8592
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNOA",
+      "price": 3.1899
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 4.4
+    },
+    {
+      "ticker": "SNOA",
+      "price": 3.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNOA",
+      "price": 3.14
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.8598
+    }
+  ]
+}

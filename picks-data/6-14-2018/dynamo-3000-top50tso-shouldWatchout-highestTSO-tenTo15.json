@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 11.12
+    },
+    {
+      "ticker": "AQ",
+      "price": 12.015
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTAI",
+      "price": 10.5
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.685
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.46
+    },
+    {
+      "ticker": "BTAI",
+      "price": 9.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 10.38
+    },
+    {
+      "ticker": "AQ",
+      "price": 12.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLCM",
+      "price": 10.005
+    },
+    {
+      "ticker": "AQ",
+      "price": 12.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AQ",
+      "price": 12.575
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBSV",
+      "price": 15.25
+    },
+    {
+      "ticker": "AQ",
+      "price": 12.465
+    }
+  ]
+}

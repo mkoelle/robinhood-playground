@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GALT",
+      "price": 7.77
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GALT",
+      "price": 7.46
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GALT",
+      "price": 7.631
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.153
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GALT",
+      "price": 7.785
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 8.33
+    },
+    {
+      "ticker": "CASI",
+      "price": 5.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APVO",
+      "price": 5.03
+    },
+    {
+      "ticker": "TPIV",
+      "price": 8.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 7.95
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.04
+    }
+  ]
+}

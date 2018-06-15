@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5945
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGY",
+      "price": 2.815
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGY",
+      "price": 2.8
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGY",
+      "price": 2.77
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.46
+    }
+  ]
+}

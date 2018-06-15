@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 6.67
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ORMP",
+      "price": 7.33
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "ORMP",
+      "price": 7.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "ORMP",
+      "price": 7.29
+    }
+  ]
+}

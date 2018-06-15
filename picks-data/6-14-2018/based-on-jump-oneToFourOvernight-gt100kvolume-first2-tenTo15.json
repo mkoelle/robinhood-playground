@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JNUG",
+      "price": 14.399
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INVA",
+      "price": 14.78
+    },
+    {
+      "ticker": "USLV",
+      "price": 11.2101
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INVA",
+      "price": 14.8
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INVA",
+      "price": 14.85
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.38
+    }
+  ]
+}

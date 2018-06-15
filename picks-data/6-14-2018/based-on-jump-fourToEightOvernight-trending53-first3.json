@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 0.26
+    },
+    {
+      "ticker": "NDRA",
+      "price": 1.79
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BIOC",
+      "price": 0.246
+    },
+    {
+      "ticker": "NDRA",
+      "price": 1.7845
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2439
+    },
+    {
+      "ticker": "NDRA",
+      "price": 1.7719
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2588
+    },
+    {
+      "ticker": "NDRA",
+      "price": 1.7719
+    },
+    {
+      "ticker": "ATEC",
+      "price": 3.5477
+    }
+  ]
+}

@@ -12,12 +12,16 @@ const lookupTickers = async (Robinhood, tickersToLookup, includeAfterHours) => {
     let quotes = await chunkApi(
         tickersToLookup,
         async (tickerStr) => {
+            const url = `https://api.robinhood.com/quotes/?symbols=${tickerStr}`;
+            console.log(url);
+            
             // console.log('ti', tickerStr);
-            const { results } = await Robinhood.url(`https://api.robinhood.com/quotes/?symbols=${tickerStr}`);
+            const { results } = await Robinhood.url(url);
             return results;
         },
         1630
     );
+    console.log(quotes, 'quotes')
     const tickerLookups = {};
     quotes.forEach(quote => {
         if (!quote) return;

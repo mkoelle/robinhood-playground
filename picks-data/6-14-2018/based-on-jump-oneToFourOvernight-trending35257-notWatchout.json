@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "OESX",
+      "price": 0.96
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.65
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.421
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.929
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 0.96
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.975
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.68
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OESX",
+      "price": 0.973
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.5874
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OESX",
+      "price": 0.97
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.59
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    },
+    {
+      "ticker": "CGEN",
+      "price": 4.025
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.68
+    }
+  ]
+}

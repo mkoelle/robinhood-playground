@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GALT",
+      "price": 7.69
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GALT",
+      "price": 7.5734
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GALT",
+      "price": 7.75
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.155
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GALT",
+      "price": 7.37
+    },
+    {
+      "ticker": "CDE",
+      "price": 8.15
+    }
+  ]
+}

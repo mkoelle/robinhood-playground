@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UCFC",
+      "price": 10.7
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.155
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 10.57
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 10.5
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 10.46
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMN",
+      "price": 10.25
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OMN",
+      "price": 10.175
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OMN",
+      "price": 10.2
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.42
+    }
+  ]
+}

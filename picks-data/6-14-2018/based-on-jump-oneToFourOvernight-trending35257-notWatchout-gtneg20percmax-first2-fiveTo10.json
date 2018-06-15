@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JVA",
+      "price": 5.75
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.546
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JVA",
+      "price": 5.7283
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JVA",
+      "price": 5.6838
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.547
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JVA",
+      "price": 5.4432
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.535
+    }
+  ]
+}

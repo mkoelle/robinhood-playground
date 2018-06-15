@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBOT",
+      "price": 0.85
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.6499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBOT",
+      "price": 0.85
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.5373
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.814
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.56
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.8263
+    }
+  ]
+}

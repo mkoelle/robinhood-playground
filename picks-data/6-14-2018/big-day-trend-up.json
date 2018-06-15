@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "ATXI",
+      "price": 4.2
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.575
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8407
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9978
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    }
+  ],
+  "35": [
+    {
+      "ticker": "AVP",
+      "price": 1.605
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.0048
+    },
+    {
+      "ticker": "LND",
+      "price": 3.7799
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.5
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.75
+    }
+  ],
+  "90": [
+    {
+      "ticker": "PLM",
+      "price": 1.0082
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.33
+    },
+    {
+      "ticker": "NM",
+      "price": 0.86
+    },
+    {
+      "ticker": "LND",
+      "price": 3.7799
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.945
+    }
+  ],
+  "223": [
+    {
+      "ticker": "NEON",
+      "price": 0.38
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.004
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8617
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.005
+    },
+    {
+      "ticker": "LND",
+      "price": 3.7799
+    }
+  ]
+}

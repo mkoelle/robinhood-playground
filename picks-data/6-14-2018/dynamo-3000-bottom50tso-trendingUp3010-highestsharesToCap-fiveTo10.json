@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RESN",
+      "price": 5.5125
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.8301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNAT",
+      "price": 5.08
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.36
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.5601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CARV",
+      "price": 5.62
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.4798
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CARV",
+      "price": 5.6326
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CARV",
+      "price": 5.37
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.4564
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.325
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.69
+    }
+  ]
+}

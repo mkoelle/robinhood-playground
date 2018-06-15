@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CRWS",
+      "price": 5.95
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.75
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.546
+    },
+    {
+      "ticker": "DS",
+      "price": 7.1
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRWS",
+      "price": 5.9
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.7283
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.54
+    },
+    {
+      "ticker": "DS",
+      "price": 6.91
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.9
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.6838
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.547
+    },
+    {
+      "ticker": "DS",
+      "price": 6.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.85
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.4432
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.535
+    },
+    {
+      "ticker": "DS",
+      "price": 6.85
+    }
+  ]
+}
