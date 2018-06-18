@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIVO",
+      "price": 14.25
+    },
+    {
+      "ticker": "BSTI",
+      "price": 12.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SLCT",
+      "price": 13.105
+    },
+    {
+      "ticker": "GG",
+      "price": 13.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASA",
+      "price": 10.35
+    },
+    {
+      "ticker": "ROAD",
+      "price": 13.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOR",
+      "price": 13.4001
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WAAS",
+      "price": 14.86
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.4001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PAR",
+      "price": 14.7
+    },
+    {
+      "ticker": "ATTU",
+      "price": 11.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATTU",
+      "price": 11.65
+    },
+    {
+      "ticker": "UGLD",
+      "price": 10.0252
+    }
+  ]
+}

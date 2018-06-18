@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NFEC",
+      "price": 4.7127
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASNA",
+      "price": 4.165
+    },
+    {
+      "ticker": "TTPH",
+      "price": 4.415
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MOBL",
+      "price": 4.625
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MOBL",
+      "price": 4.675
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.625
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOBL",
+      "price": 4.675
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOBL",
+      "price": 4.675
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOBL",
+      "price": 4.725
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.18
+    }
+  ]
+}

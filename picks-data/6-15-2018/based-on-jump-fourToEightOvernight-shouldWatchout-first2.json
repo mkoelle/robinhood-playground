@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DPW",
+      "price": 0.689
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4118
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DPW",
+      "price": 0.6601
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPW",
+      "price": 0.6512
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.3927
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FPAY",
+      "price": 3.24
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.6499
+    }
+  ]
+}

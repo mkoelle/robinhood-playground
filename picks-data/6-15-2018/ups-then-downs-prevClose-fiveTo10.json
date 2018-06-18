@@ -1,0 +1,76 @@
+{
+  "10": [
+    {
+      "ticker": "SMI",
+      "price": 7.1
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SPWR",
+      "price": 7.6516
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LONE",
+      "price": 8
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.06
+    },
+    {
+      "ticker": "AG",
+      "price": 7.485
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.709
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FRTA",
+      "price": 9.695
+    },
+    {
+      "ticker": "AG",
+      "price": 7.42
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.66
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.09
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.1
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FRTA",
+      "price": 9.66
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.6699
+    },
+    {
+      "ticker": "AG",
+      "price": 7.45
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.08
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HX",
+      "price": 12.19
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14.05
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.135
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HX",
+      "price": 11.92
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14.52
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.1064
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HX",
+      "price": 11.92
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14.36
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HX",
+      "price": 11.95
+    },
+    {
+      "ticker": "VNCE",
+      "price": 14.75
+    },
+    {
+      "ticker": "NES",
+      "price": 10.29
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TNTR",
+      "price": 0.487
+    },
+    {
+      "ticker": "ACHV",
+      "price": 3.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNTR",
+      "price": 0.4749
+    },
+    {
+      "ticker": "ACHV",
+      "price": 3.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNTR",
+      "price": 0.4711
+    },
+    {
+      "ticker": "ACHV",
+      "price": 3.739
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNTR",
+      "price": 0.4
+    },
+    {
+      "ticker": "ACHV",
+      "price": 3.69
+    }
+  ]
+}

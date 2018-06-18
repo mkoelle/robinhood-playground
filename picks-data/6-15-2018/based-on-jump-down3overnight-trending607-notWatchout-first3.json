@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRRA",
+      "price": 3.1399
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.5252
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.5252
+    }
+  ]
+}

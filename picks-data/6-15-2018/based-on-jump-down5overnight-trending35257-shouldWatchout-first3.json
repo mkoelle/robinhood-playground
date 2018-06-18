@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "DEST",
+      "price": 4.74
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2342
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DEST",
+      "price": 4.78
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2361
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DEST",
+      "price": 4.665
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2401
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1822
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DEST",
+      "price": 4.66
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.237
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1827
+    }
+  ]
+}

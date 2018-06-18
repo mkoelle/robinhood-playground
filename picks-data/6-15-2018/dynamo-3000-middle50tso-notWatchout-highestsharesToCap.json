@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTN",
+      "price": 1
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WWR",
+      "price": 0.5151
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.5891
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NEON",
+      "price": 0.3765
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3702
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSS",
+      "price": 0.675
+    },
+    {
+      "ticker": "URG",
+      "price": 0.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLX",
+      "price": 0.4447
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WWR",
+      "price": 0.5153
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.7057
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNN",
+      "price": 0.54
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.6754
+    }
+  ]
+}

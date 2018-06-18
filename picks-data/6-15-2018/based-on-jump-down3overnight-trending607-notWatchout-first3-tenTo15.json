@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USLV",
+      "price": 10.7152
+    },
+    {
+      "ticker": "AI",
+      "price": 10.82
+    }
+  ],
+  "5": [
+    {
+      "ticker": "USLV",
+      "price": 10.63
+    },
+    {
+      "ticker": "AI",
+      "price": 10.8761
+    }
+  ],
+  "16": [
+    {
+      "ticker": "USLV",
+      "price": 10.4248
+    },
+    {
+      "ticker": "AI",
+      "price": 11.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "USLV",
+      "price": 10.4358
+    },
+    {
+      "ticker": "AI",
+      "price": 11.025
+    }
+  ]
+}

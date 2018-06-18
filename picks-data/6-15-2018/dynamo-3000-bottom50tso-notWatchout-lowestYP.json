@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRKR",
+      "price": 0.5619
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.405
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PKD",
+      "price": 0.348
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.3372
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PKD",
+      "price": 0.3451
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.6899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EBR",
+      "price": 3.62
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.2373
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PKD",
+      "price": 0.3452
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PKD",
+      "price": 0.3542
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PKD",
+      "price": 0.3535
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.555
+    }
+  ]
+}

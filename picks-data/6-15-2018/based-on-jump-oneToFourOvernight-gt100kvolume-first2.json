@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OPK",
+      "price": 4.51
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.352
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OPK",
+      "price": 4.49
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.6
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LIFE",
+      "price": 1.0151
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.585
+    }
+  ]
+}

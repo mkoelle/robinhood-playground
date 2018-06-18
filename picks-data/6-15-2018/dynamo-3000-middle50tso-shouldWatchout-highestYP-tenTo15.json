@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HRG",
+      "price": 12.6
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEO",
+      "price": 13.005
+    },
+    {
+      "ticker": "FINL",
+      "price": 13.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FINL",
+      "price": 13.5
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACMR",
+      "price": 13.33
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FINL",
+      "price": 13.49
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FINL",
+      "price": 13.49
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FINL",
+      "price": 13.495
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.49
+    }
+  ]
+}

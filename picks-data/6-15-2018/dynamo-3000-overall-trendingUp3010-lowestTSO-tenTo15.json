@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSSC",
+      "price": 11.5947
+    },
+    {
+      "ticker": "ROAD",
+      "price": 13.891
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XNET",
+      "price": 12.965
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USLV",
+      "price": 10.205
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USLV",
+      "price": 9.975
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 11.58
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "USLV",
+      "price": 10.011
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USLV",
+      "price": 10.015
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.655
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARQL",
+      "price": 4.98
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.04
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.6559
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMI",
+      "price": 7.06
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARQL",
+      "price": 5.2551
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.05
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.78
+    }
+  ]
+}

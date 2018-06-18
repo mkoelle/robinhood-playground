@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SRRA",
+      "price": 3.1399
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.1876
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.2
+    },
+    {
+      "ticker": "NGD",
+      "price": 2.095
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.1801
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.185
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5469
+    }
+  ]
+}

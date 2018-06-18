@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FAZ",
+      "price": 10.55
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FAZ",
+      "price": 10.54
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FAZ",
+      "price": 10.4901
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FAZ",
+      "price": 10.56
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ]
+}

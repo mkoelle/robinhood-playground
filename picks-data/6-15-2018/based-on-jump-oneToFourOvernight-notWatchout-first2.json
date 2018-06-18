@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AVP",
+      "price": 1.59
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.58
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.3869
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NDRO",
+      "price": 3.15
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NDRO",
+      "price": 3.1
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.585
+    }
+  ]
+}

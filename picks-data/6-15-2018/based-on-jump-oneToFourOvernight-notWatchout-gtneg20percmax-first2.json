@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 1.4
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 1.3869
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 1.35
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 1.3162
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.05
+    }
+  ]
+}

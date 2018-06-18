@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TORC",
+      "price": 10.99
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TORC",
+      "price": 10.66
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TORC",
+      "price": 10.63
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TORC",
+      "price": 10.87
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ]
+}

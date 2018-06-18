@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CFRX",
+      "price": 2.05
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CFRX",
+      "price": 2.07
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 2.07
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 2.05
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ]
+}

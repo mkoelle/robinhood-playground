@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "URG",
+      "price": 0.74
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.655
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMI",
+      "price": 1.6
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CFRX",
+      "price": 2.23
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.1858
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APTO",
+      "price": 4.1479
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APTO",
+      "price": 4.14
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTO",
+      "price": 4.09
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.2651
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APTO",
+      "price": 4.18
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.3127
+    }
+  ]
+}

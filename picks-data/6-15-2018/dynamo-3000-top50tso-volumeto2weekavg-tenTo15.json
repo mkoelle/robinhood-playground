@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRC",
+      "price": 11.6
+    },
+    {
+      "ticker": "RLH",
+      "price": 11.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRTA",
+      "price": 10.24
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.8308
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 12.965
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 10.83
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.215
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UCFC",
+      "price": 11.03
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPK",
+      "price": 14.7
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESCA",
+      "price": 14.25
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.675
+    }
+  ]
+}

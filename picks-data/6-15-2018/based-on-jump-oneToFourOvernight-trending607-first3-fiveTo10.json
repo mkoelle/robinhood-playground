@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BOXL",
+      "price": 6.1275
+    },
+    {
+      "ticker": "RDHL",
+      "price": 8
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BOXL",
+      "price": 6.25
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.8731
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOXL",
+      "price": 6.2922
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.825
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOXL",
+      "price": 6.3301
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.825
+    },
+    {
+      "ticker": "TNAV",
+      "price": 6.05
+    }
+  ]
+}

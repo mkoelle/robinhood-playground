@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UBX",
+      "price": 14.9
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NORW",
+      "price": 14.5652
+    },
+    {
+      "ticker": "FSD",
+      "price": 14.844
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FSD",
+      "price": 14.818
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BZH",
+      "price": 14.87
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BZH",
+      "price": 14.98
+    },
+    {
+      "ticker": "WAAS",
+      "price": 14.86
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WAAS",
+      "price": 14.76
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WAAS",
+      "price": 14.62
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.99
+    }
+  ]
+}

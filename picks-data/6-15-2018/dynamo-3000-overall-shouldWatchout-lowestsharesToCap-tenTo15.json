@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHRS",
+      "price": 14.95
+    },
+    {
+      "ticker": "EIGR",
+      "price": 14.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACAD",
+      "price": 15.07
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHRS",
+      "price": 14.975
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHRS",
+      "price": 14.925
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMCT",
+      "price": 14.5
+    },
+    {
+      "ticker": "TLYS",
+      "price": 14.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EPZM",
+      "price": 15.15
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMCT",
+      "price": 14.4
+    },
+    {
+      "ticker": "CLCT",
+      "price": 15
+    }
+  ]
+}

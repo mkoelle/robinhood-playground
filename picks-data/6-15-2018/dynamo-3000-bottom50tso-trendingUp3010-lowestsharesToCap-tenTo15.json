@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIVO",
+      "price": 14.25
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.8573
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GG",
+      "price": 13.995
+    },
+    {
+      "ticker": "NUAN",
+      "price": 14.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVVC",
+      "price": 14.803
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UBX",
+      "price": 14.58
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WAAS",
+      "price": 14.86
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.795
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WAAS",
+      "price": 14.76
+    },
+    {
+      "ticker": "PAR",
+      "price": 14.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WAAS",
+      "price": 14.62
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.57
+    }
+  ]
+}

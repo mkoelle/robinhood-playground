@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VNCE",
+      "price": 14.05
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.55
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VNCE",
+      "price": 14.52
+    },
+    {
+      "ticker": "RENN",
+      "price": 10.08
+    },
+    {
+      "ticker": "NES",
+      "price": 10.0523
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VNCE",
+      "price": 14.36
+    },
+    {
+      "ticker": "NES",
+      "price": 10.2873
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.4901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNCE",
+      "price": 14.75
+    },
+    {
+      "ticker": "NES",
+      "price": 10.29
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.56
+    }
+  ]
+}

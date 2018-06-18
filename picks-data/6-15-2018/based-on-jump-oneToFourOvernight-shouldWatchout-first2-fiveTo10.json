@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BOXL",
+      "price": 6.1275
+    },
+    {
+      "ticker": "RDHL",
+      "price": 8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BOXL",
+      "price": 6.25
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.8731
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATOM",
+      "price": 5.585
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.2922
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATOM",
+      "price": 5.585
+    },
+    {
+      "ticker": "BOXL",
+      "price": 6.3301
+    }
+  ]
+}

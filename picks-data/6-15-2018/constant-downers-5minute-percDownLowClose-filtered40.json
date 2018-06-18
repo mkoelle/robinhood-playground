@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AUTO",
+      "price": 4.44
+    },
+    {
+      "ticker": "PFMT",
+      "price": 2.21
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4.9255
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HIHO",
+      "price": 4.628
+    },
+    {
+      "ticker": "JTPY",
+      "price": 1.9285
+    },
+    {
+      "ticker": "FCRE",
+      "price": 0.6912
+    }
+  ],
+  "309": [
+    {
+      "ticker": "USEG",
+      "price": 1.19
+    },
+    {
+      "ticker": "DRAD",
+      "price": 1.675
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.2
+    }
+  ]
+}

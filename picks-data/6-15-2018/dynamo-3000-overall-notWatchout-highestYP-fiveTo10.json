@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 8.4923
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 8.4954
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.27
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.4
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.39
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DS",
+      "price": 7.095
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERS",
+      "price": 6.77
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.085
+    }
+  ]
+}

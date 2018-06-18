@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATNM",
+      "price": 0.49
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATNM",
+      "price": 0.4869
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.905
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATNM",
+      "price": 0.486
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.9193
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATNM",
+      "price": 0.486
+    },
+    {
+      "ticker": "EMAN",
+      "price": 1.925
+    }
+  ]
+}

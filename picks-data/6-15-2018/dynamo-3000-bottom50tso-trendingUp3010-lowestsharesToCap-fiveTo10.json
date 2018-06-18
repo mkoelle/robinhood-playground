@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IOTS",
+      "price": 9.4
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSW",
+      "price": 8.89
+    },
+    {
+      "ticker": "HWCC",
+      "price": 8.7372
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSPI",
+      "price": 9.55
+    },
+    {
+      "ticker": "VNET",
+      "price": 8.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UGLD",
+      "price": 9.9648
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USLV",
+      "price": 9.8595
+    },
+    {
+      "ticker": "UGLD",
+      "price": 9.9857
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MVO",
+      "price": 9.7383
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.57
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRTA",
+      "price": 9.64
+    },
+    {
+      "ticker": "CVON",
+      "price": 8.86
+    }
+  ]
+}

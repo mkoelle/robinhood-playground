@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "DEST",
+      "price": 4.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AFMD",
+      "price": 2.05
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.78
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AFMD",
+      "price": 2.0613
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.665
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AFMD",
+      "price": 2.0603
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.66
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    }
+  ]
+}

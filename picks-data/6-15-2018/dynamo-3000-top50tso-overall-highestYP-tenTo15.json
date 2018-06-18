@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLFS",
+      "price": 12.021
+    },
+    {
+      "ticker": "CWBR",
+      "price": 10.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 12.21
+    },
+    {
+      "ticker": "FATE",
+      "price": 13.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VKTX",
+      "price": 11.83
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 12.65
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.3981
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 12.48
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 12.44
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKTX",
+      "price": 12.81
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.87
+    }
+  ]
+}

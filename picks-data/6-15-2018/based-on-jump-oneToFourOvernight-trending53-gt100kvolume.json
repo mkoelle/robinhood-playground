@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "OPK",
+      "price": 4.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OPK",
+      "price": 4.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATIS",
+      "price": 0.499
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.44
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.5992
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4451
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.41
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.62
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.2125
+    }
+  ]
+}

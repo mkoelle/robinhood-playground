@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRRA",
+      "price": 3.1399
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.1876
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.1801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    },
+    {
+      "ticker": "GPL",
+      "price": 1.185
+    }
+  ]
+}

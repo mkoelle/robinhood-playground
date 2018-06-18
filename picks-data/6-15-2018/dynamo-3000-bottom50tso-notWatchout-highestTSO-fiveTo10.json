@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMSC",
+      "price": 6.58
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHNY",
+      "price": 7.5513
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 7.345
+    },
+    {
+      "ticker": "AMZA",
+      "price": 7.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RESN",
+      "price": 5.515
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.5415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGLE",
+      "price": 5.69
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.5025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 9.62
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.511
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LONE",
+      "price": 8.1
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.22
+    }
+  ]
+}

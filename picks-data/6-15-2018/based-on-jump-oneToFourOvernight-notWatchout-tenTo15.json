@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.55
+    },
+    {
+      "ticker": "LMB",
+      "price": 10.99
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.57
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GDXS",
+      "price": 14.39
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.6
+    },
+    {
+      "ticker": "LMB",
+      "price": 10.99
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDP",
+      "price": 12.5022
+    },
+    {
+      "ticker": "GDXS",
+      "price": 14.39
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "REW",
+      "price": 12.05
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.6002
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.35
+    },
+    {
+      "ticker": "GDXS",
+      "price": 14.39
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.28
+    },
+    {
+      "ticker": "REW",
+      "price": 12.05
+    }
+  ]
+}

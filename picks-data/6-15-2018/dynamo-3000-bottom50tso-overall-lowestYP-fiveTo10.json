@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLNK",
+      "price": 5.78
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVIV",
+      "price": 6.35
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 6.145
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 5.9027
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 5.8501
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.37
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 5.85
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.52
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 5.8201
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.39
+    }
+  ]
+}

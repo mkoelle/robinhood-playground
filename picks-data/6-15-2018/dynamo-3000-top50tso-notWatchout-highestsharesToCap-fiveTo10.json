@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VSLR",
+      "price": 5.125
+    },
+    {
+      "ticker": "FENG",
+      "price": 4.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTIC",
+      "price": 5.16
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTIC",
+      "price": 5.095
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMMS",
+      "price": 5.63
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EMMS",
+      "price": 5.63
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EMMS",
+      "price": 5.62
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLEX",
+      "price": 5.2731
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.12
+    }
+  ]
+}

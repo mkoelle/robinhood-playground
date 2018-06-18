@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FAZ",
+      "price": 10.55
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.99
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FAZ",
+      "price": 10.54
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.66
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FAZ",
+      "price": 10.4901
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.63
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FAZ",
+      "price": 10.56
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.87
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.15
+    }
+  ]
+}

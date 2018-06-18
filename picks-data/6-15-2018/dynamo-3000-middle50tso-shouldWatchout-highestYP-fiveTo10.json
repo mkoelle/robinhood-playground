@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CAMT",
+      "price": 8.0615
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ERIC",
+      "price": 7.725
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMEX",
+      "price": 8.9301
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APVO",
+      "price": 5.07
+    },
+    {
+      "ticker": "NCMI",
+      "price": 7.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TTOO",
+      "price": 9.45
+    },
+    {
+      "ticker": "OCUL",
+      "price": 8.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "P",
+      "price": 7.985
+    },
+    {
+      "ticker": "OCUL",
+      "price": 8.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELGX",
+      "price": 6.6
+    },
+    {
+      "ticker": "P",
+      "price": 7.975
+    }
+  ]
+}

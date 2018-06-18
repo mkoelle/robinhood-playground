@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRXC",
+      "price": 3.6601
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSB",
+      "price": 4.07
+    },
+    {
+      "ticker": "ISIG",
+      "price": 1.7764
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRED",
+      "price": 1.795
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMMP",
+      "price": 2.74
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.7039
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASRV",
+      "price": 4.275
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAIT",
+      "price": 1.7057
+    },
+    {
+      "ticker": "VISI",
+      "price": 3.675
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DYSL",
+      "price": 1.4502
+    },
+    {
+      "ticker": "PER",
+      "price": 2.4499
+    }
+  ]
+}

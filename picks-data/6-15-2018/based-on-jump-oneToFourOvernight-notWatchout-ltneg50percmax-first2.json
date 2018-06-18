@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AVP",
+      "price": 1.59
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.58
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.6
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVP",
+      "price": 1.585
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    }
+  ]
+}

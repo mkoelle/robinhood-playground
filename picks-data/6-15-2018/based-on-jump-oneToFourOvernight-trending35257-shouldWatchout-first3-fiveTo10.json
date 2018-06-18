@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "RDHL",
+      "price": 8
+    },
+    {
+      "ticker": "RENN",
+      "price": 9.935
+    },
+    {
+      "ticker": "NVTA",
+      "price": 8.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RDHL",
+      "price": 7.8731
+    },
+    {
+      "ticker": "NVTA",
+      "price": 7.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDHL",
+      "price": 7.825
+    },
+    {
+      "ticker": "RENN",
+      "price": 10.03
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9469
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDHL",
+      "price": 7.825
+    },
+    {
+      "ticker": "RENN",
+      "price": 9.89
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9059
+    }
+  ]
+}

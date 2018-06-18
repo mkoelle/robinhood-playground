@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "BGFV",
+      "price": 9.05
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MARK",
+      "price": 5.5401
+    },
+    {
+      "ticker": "BGFV",
+      "price": 9.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARK",
+      "price": 5.53
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARK",
+      "price": 5.55
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.1
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MARK",
+      "price": 5.52
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.325
+    }
+  ]
+}

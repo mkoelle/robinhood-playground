@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LLEX",
+      "price": 5.015
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTIC",
+      "price": 5.16
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTIC",
+      "price": 5.095
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.016
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTIC",
+      "price": 5.085
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.0211
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTIC",
+      "price": 5.06
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIC",
+      "price": 5.06
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.0667
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIC",
+      "price": 5.1
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.2731
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CWBR",
+      "price": 10.15
+    },
+    {
+      "ticker": "TORC",
+      "price": 10.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSPI",
+      "price": 9.89
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTID",
+      "price": 10.13
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 10.169
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTID",
+      "price": 10.1
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.419
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTID",
+      "price": 10.18
+    },
+    {
+      "ticker": "NDLS",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTID",
+      "price": 10.2646
+    },
+    {
+      "ticker": "NDLS",
+      "price": 10.025
+    }
+  ]
+}

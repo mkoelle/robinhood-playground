@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "DPW",
+      "price": 0.689
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4118
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.26
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3285
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DPW",
+      "price": 0.6601
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.26
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4118
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3285
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.525
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPW",
+      "price": 0.6512
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.3927
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.25
+    },
+    {
+      "ticker": "PED",
+      "price": 0.315
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.5201
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FPAY",
+      "price": 3.24
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.6499
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.3927
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.251
+    },
+    {
+      "ticker": "PED",
+      "price": 0.3141
+    }
+  ]
+}

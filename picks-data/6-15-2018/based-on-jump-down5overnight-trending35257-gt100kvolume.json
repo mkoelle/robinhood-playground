@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "DEST",
+      "price": 4.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DEST",
+      "price": 4.78
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DEST",
+      "price": 4.665
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DEST",
+      "price": 4.66
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.237
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZKIN",
+      "price": 5.83
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZKIN",
+      "price": 6.2287
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZKIN",
+      "price": 6.08
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZKIN",
+      "price": 6.09
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.05
+    }
+  ]
+}

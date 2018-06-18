@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USLV",
+      "price": 10.7152
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.8674
+    }
+  ],
+  "5": [
+    {
+      "ticker": "USLV",
+      "price": 10.63
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.146
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRF",
+      "price": 14.185
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRF",
+      "price": 14.18
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.01
+    }
+  ]
+}

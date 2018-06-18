@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GDXS",
+      "price": 14.39
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDP",
+      "price": 12.5022
+    },
+    {
+      "ticker": "GDXS",
+      "price": 14.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.6002
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.35
+    }
+  ]
+}

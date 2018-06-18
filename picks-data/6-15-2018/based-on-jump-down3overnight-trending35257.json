@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "SRRA",
+      "price": 3.1399
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.74
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2342
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DEST",
+      "price": 4.78
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.16
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2361
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DEST",
+      "price": 4.665
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.28
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2401
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1822
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DEST",
+      "price": 4.66
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.385
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.237
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1827
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.21
+    }
+  ]
+}

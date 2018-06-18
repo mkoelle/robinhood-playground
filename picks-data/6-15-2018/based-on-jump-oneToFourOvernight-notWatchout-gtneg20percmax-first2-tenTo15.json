@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDP",
+      "price": 12.5022
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.2027
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.6002
+    },
+    {
+      "ticker": "EIP",
+      "price": 12.28
+    }
+  ]
+}

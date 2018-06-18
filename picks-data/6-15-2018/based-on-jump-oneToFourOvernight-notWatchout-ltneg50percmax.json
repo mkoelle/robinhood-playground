@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "AVP",
+      "price": 1.59
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.58
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.75
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.6
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.86
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVP",
+      "price": 1.585
+    },
+    {
+      "ticker": "SAUC",
+      "price": 1.23
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.74
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.5842
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.75
+    }
+  ]
+}

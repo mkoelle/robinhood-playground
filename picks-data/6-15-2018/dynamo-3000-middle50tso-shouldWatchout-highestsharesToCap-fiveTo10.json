@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GOGO",
+      "price": 5.14
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMP",
+      "price": 5.13
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JMP",
+      "price": 5.1364
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMP",
+      "price": 5.13
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NPTN",
+      "price": 6.685
+    },
+    {
+      "ticker": "OCUL",
+      "price": 8.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGI",
+      "price": 5.85
+    },
+    {
+      "ticker": "CLNS",
+      "price": 6.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOK",
+      "price": 6.12
+    },
+    {
+      "ticker": "ELGX",
+      "price": 6.6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.63
+    },
+    {
+      "ticker": "NES",
+      "price": 10.0523
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACAD",
+      "price": 15.07
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FET",
+      "price": 11.625
+    },
+    {
+      "ticker": "XNET",
+      "price": 13.0102
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KALA",
+      "price": 13.4799
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KALA",
+      "price": 13.205
+    },
+    {
+      "ticker": "XNET",
+      "price": 12.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKAO",
+      "price": 11.7789
+    },
+    {
+      "ticker": "KALA",
+      "price": 13.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKAO",
+      "price": 11.78
+    },
+    {
+      "ticker": "KALA",
+      "price": 13.31
+    }
+  ]
+}

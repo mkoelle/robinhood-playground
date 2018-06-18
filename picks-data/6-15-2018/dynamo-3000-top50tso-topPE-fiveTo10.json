@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "FENG",
+      "price": 4.99
+    },
+    {
+      "ticker": "YIN",
+      "price": 9.03
+    },
+    {
+      "ticker": "DL",
+      "price": 7.345
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.81
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.73
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTWK",
+      "price": 5.95
+    },
+    {
+      "ticker": "ELVT",
+      "price": 8.2
+    },
+    {
+      "ticker": "PCYG",
+      "price": 6.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.4498
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCYG",
+      "price": 7.35
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.07
+    },
+    {
+      "ticker": "MITK",
+      "price": 9.2998
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCYG",
+      "price": 7.35
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.09
+    },
+    {
+      "ticker": "MITK",
+      "price": 9.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WHLM",
+      "price": 6.98
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.25
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.065
+    }
+  ]
+}

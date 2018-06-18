@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLCM",
+      "price": 9.78
+    },
+    {
+      "ticker": "AIRG",
+      "price": 9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9.49
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.1653
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFIL",
+      "price": 8.425
+    },
+    {
+      "ticker": "PTGX",
+      "price": 7.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNAT",
+      "price": 5.42
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MARK",
+      "price": 5.5301
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NLNK",
+      "price": 5.39
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDXG",
+      "price": 5.64
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.4065
+    }
+  ]
+}

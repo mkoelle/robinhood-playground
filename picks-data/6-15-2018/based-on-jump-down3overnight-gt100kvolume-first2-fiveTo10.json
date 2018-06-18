@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARQL",
+      "price": 4.98
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.775
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPL",
+      "price": 9.54
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.755
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 9.55
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.2551
+    }
+  ]
+}

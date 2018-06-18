@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "NES",
+      "price": 9.825
+    },
+    {
+      "ticker": "RFIL",
+      "price": 7.925
+    }
+  ],
+  "280": [
+    {
+      "ticker": "RFIL",
+      "price": 7.625
+    },
+    {
+      "ticker": "NES",
+      "price": 9.9
+    }
+  ],
+  "328": [
+    {
+      "ticker": "IPIC",
+      "price": 8.12
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.07
+    }
+  ],
+  "388": [
+    {
+      "ticker": "IRIX",
+      "price": 6.27
+    },
+    {
+      "ticker": "YIN",
+      "price": 7.96
+    }
+  ]
+}

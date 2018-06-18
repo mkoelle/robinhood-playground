@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EAST",
+      "price": 7.334
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.455
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TPIV",
+      "price": 9.4
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NETE",
+      "price": 8.62
+    },
+    {
+      "ticker": "VHI",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NETE",
+      "price": 8.93
+    },
+    {
+      "ticker": "ARCT",
+      "price": 9.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NETE",
+      "price": 8.8
+    },
+    {
+      "ticker": "ARCT",
+      "price": 9.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NETE",
+      "price": 8.6752
+    },
+    {
+      "ticker": "ARCT",
+      "price": 9.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NETE",
+      "price": 8.66
+    },
+    {
+      "ticker": "ARCT",
+      "price": 9.28
+    }
+  ]
+}

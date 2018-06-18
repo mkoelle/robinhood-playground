@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RPXC",
+      "price": 10.48
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.2563
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NES",
+      "price": 10.515
+    },
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    },
+    {
+      "ticker": "FINL",
+      "price": 13.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACMR",
+      "price": 13.33
+    },
+    {
+      "ticker": "CMCT",
+      "price": 14.745
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    },
+    {
+      "ticker": "FINL",
+      "price": 13.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RPXC",
+      "price": 10.485
+    },
+    {
+      "ticker": "FINL",
+      "price": 13.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RPXC",
+      "price": 10.49
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.2
+    }
+  ]
+}

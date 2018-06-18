@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4967
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2371
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.505
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2436
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSAR",
+      "price": 2.4
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.253
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ANY",
+      "price": 0.5651
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.241
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2421
+    },
+    {
+      "ticker": "VSAR",
+      "price": 2.425
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OHRP",
+      "price": 0.2438
+    },
+    {
+      "ticker": "VSAR",
+      "price": 2.4785
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSAR",
+      "price": 2.4691
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.845
+    }
+  ]
+}

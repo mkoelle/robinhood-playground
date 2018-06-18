@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTD",
+      "price": 5.915
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 7.15
+    },
+    {
+      "ticker": "XTNT",
+      "price": 6.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MLNT",
+      "price": 8.125
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 7.13
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 9.02
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRAM",
+      "price": 8.93
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRAM",
+      "price": 9.02
+    },
+    {
+      "ticker": "AU",
+      "price": 8.025
+    }
+  ]
+}

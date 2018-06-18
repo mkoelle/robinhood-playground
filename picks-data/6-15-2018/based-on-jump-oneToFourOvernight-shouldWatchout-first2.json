@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALT",
+      "price": 0.5113
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.9976
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALT",
+      "price": 0.5161
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALT",
+      "price": 0.52
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALT",
+      "price": 0.5399
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.0151
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRC",
+      "price": 11.6
+    },
+    {
+      "ticker": "RLH",
+      "price": 11.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 12.93
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 12.965
+    },
+    {
+      "ticker": "UMRX",
+      "price": 12.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRMT",
+      "price": 12.78
+    },
+    {
+      "ticker": "GEOS",
+      "price": 12.885
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UCFC",
+      "price": 11.03
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPK",
+      "price": 14.7
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESCA",
+      "price": 14.25
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.755
+    }
+  ]
+}

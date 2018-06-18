@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 2.9301
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.7127
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRRX",
+      "price": 2.165
+    },
+    {
+      "ticker": "ASNA",
+      "price": 4.165
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.66
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 3.645
+    },
+    {
+      "ticker": "DEST",
+      "price": 4.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 3.61
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTO",
+      "price": 4.09
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.2651
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APTO",
+      "price": 4.18
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.3127
+    }
+  ]
+}
