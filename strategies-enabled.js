@@ -88,12 +88,19 @@ const forPurchase = [
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
 
     'based-on-jump-down8overnight-trending607-gt500kvolume-16',
+    'based-on-jump-down8overnight-trending607-gt500kvolume-16',
+
     'low-float-high-volume-floatPoints-trenddowngt10-notWatchout-6',
     'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-276',
     'based-on-jump-down5overnight-trending103-notWatchout-gtneg20percmax-30',
     'based-on-jump-down3overnight-trending607-shouldWatchout-tenTo15-30',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-276',
-
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt20-notWatchout-fiveTo10-95',
+    'sudden-drops-last5trend-filter10-280',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trendgt20-notWatchout-6',
+    'based-on-jump-down8overnight-notWatchout-ltneg50percmax-0',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-150',
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-315'
 ];
 
 const cheapestPicksEmailObj = [
