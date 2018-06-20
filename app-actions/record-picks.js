@@ -9,6 +9,7 @@ const stratManager = require('../socket-server/strat-manager');
 
 const purchaseStocks = require('./purchase-stocks');
 const sendEmail = require('../utils/send-email');
+const tweeter = require('./tweeter');
 
 console.log(purchase, email, 'strategies enabled ');
 
@@ -60,8 +61,10 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
     const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');
+
+        const stocksToBuy = withPrices.map(obj => obj.ticker);
         await purchaseStocks(Robinhood, {
-            stocksToBuy: withPrices.map(obj => obj.ticker),
+            stocksToBuy,
             strategy,
             multiplier: enableCount,
             min
@@ -70,6 +73,7 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
             `robinhood-playground: ${stratMin}`,
             JSON.stringify(withPrices, null, 2)
         );
+        tweeter.tweet(`${stratMin}: ${stocksToBuy.map(s => `#${s}`).join(' ')}`);
     }
 
     // for email

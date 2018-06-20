@@ -27,7 +27,6 @@ const sellAllOlderThanTwoDays = require('./app-actions/sell-all-older-than-two-d
     Robinhood = await login();
     global.Robinhood = Robinhood;
 
-
     require('./socket-server');
     // console.log(await getUpStreak(Robinhood, 'AAPL', 3));
     // await up10days.trendFilter(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-22 12:53:02 (+380*).json'));
