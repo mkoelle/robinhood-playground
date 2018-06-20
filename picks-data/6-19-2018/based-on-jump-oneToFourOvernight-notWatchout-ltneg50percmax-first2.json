@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRKR",
+      "price": 0.5963
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2419
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRKR",
+      "price": 0.5963
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2364
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRKR",
+      "price": 0.58
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2364
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRKR",
+      "price": 0.58
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    }
+  ]
+}

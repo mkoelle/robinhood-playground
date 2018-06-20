@@ -1,0 +1,44 @@
+{
+  "75": [
+    {
+      "ticker": "OBE",
+      "price": 1.13
+    },
+    {
+      "ticker": "HK",
+      "price": 4.13
+    }
+  ],
+  "180": [
+    {
+      "ticker": "HK",
+      "price": 4.185
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.1405
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.09
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OBE",
+      "price": 1.13
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.105
+    },
+    {
+      "ticker": "UAN",
+      "price": 2.91
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.825
+    }
+  ]
+}

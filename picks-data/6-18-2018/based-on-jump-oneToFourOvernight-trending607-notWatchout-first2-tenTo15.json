@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AZRE",
+      "price": 15.45
+    },
+    {
+      "ticker": "SOGO",
+      "price": 14.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 14.639
+    },
+    {
+      "ticker": "SMTA",
+      "price": 10.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 14.6724
+    },
+    {
+      "ticker": "SMTA",
+      "price": 10.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 14.76
+    },
+    {
+      "ticker": "SMTA",
+      "price": 10.475
+    }
+  ]
+}

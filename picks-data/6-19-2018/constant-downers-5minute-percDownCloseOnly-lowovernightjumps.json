@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ALN",
+      "price": 0.1775
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.6511
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.3999
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ALN",
+      "price": 0.1783
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.392
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.63
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ALN",
+      "price": 0.1783
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.39
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.85
+    }
+  ]
+}

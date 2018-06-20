@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 7.155
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 7.034
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.395
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.925
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIF",
+      "price": 5.5
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.841
+    }
+  ]
+}

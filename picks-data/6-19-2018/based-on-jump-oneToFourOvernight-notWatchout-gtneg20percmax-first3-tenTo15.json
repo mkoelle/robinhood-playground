@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PBBI",
+      "price": 11
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.3352
+    },
+    {
+      "ticker": "MUH",
+      "price": 13.9371
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBBI",
+      "price": 11
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.36
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.1501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.44
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.45
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.3474
+    }
+  ]
+}

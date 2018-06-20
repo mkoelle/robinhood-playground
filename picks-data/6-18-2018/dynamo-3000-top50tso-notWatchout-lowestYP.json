@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.295
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2501
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDLY",
+      "price": 3.3442
+    },
+    {
+      "ticker": "NM",
+      "price": 0.9252
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 4.73
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDLY",
+      "price": 3.5715
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8969
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDLY",
+      "price": 3.522
+    },
+    {
+      "ticker": "NM",
+      "price": 0.9038
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDLY",
+      "price": 3.55
+    },
+    {
+      "ticker": "NM",
+      "price": 0.906
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NDRA",
+      "price": 2.45
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.4999
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NDRA",
+      "price": 2.6
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NDRA",
+      "price": 2.6
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NDRA",
+      "price": 2.84
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.51
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "RMBL",
+      "price": 5.25
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RMBL",
+      "price": 5.35
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.115
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QHC",
+      "price": 5.02
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTIC",
+      "price": 5.015
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIC",
+      "price": 5.095
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIC",
+      "price": 5.135
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.12
+    }
+  ]
+}

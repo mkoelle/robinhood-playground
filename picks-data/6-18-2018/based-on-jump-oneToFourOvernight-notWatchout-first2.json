@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0348
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.0385
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.035
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0225
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    }
+  ]
+}

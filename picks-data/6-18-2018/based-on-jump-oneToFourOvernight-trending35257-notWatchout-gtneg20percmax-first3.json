@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CFRX",
+      "price": 2.3943
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.22
+    },
+    {
+      "ticker": "HSGX",
+      "price": 3.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CFRX",
+      "price": 2.4517
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.2632
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.9999
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 2.3844
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.3432
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.9999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 2.56
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.35
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.9999
+    }
+  ]
+}

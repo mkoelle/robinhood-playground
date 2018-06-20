@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AUPH",
+      "price": 6.18
+    },
+    {
+      "ticker": "CATS",
+      "price": 8.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUPH",
+      "price": 6.0616
+    },
+    {
+      "ticker": "CATS",
+      "price": 8.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AUPH",
+      "price": 6.07
+    },
+    {
+      "ticker": "CATS",
+      "price": 8.451
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AUPH",
+      "price": 6.191
+    },
+    {
+      "ticker": "CATS",
+      "price": 8.69
+    }
+  ]
+}

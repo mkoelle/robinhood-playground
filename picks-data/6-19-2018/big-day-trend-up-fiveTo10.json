@@ -1,0 +1,53 @@
+{
+  "10": [
+    {
+      "ticker": "XONE",
+      "price": 7.365
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.105
+    }
+  ],
+  "35": [],
+  "90": [
+    {
+      "ticker": "GOL",
+      "price": 6.06
+    },
+    {
+      "ticker": "BBD",
+      "price": 7.035
+    },
+    {
+      "ticker": "AKTS",
+      "price": 6.95
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.015
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CLBS",
+      "price": 5.1399
+    },
+    {
+      "ticker": "LAZY",
+      "price": 7.8
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.2299
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.21
+    },
+    {
+      "ticker": "PCYG",
+      "price": 8.9
+    }
+  ]
+}

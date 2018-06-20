@@ -87,20 +87,18 @@ const forPurchase = [
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
 
-    'based-on-jump-down8overnight-trending607-gt500kvolume-16',
-    'based-on-jump-down8overnight-trending607-gt500kvolume-16',
-
-    'low-float-high-volume-floatPoints-trenddowngt10-notWatchout-6',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-276',
-    'based-on-jump-down5overnight-trending103-notWatchout-gtneg20percmax-30',
-    'based-on-jump-down3overnight-trending607-shouldWatchout-tenTo15-30',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-276',
-    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt20-notWatchout-fiveTo10-95',
-    'sudden-drops-last5trend-filter10-280',
-    'low-float-high-volume-floatTimesvolTo2WeekPoints-trendgt20-notWatchout-6',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend15to25-notWatchout-150',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trend15to25-notWatchout-150',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt20-tenTo15-384',
+    'low-float-high-volume-volTo2WeekPoints-trend15to25-notWatchout-150',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25-notWatchout-150',
+    'low-float-high-volume-absVolPoints-trenddowngt10-notWatchout-6',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trendgt30-notWatchout-fiveTo10-315',
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-6',
     'based-on-jump-down8overnight-notWatchout-ltneg50percmax-0',
-    'low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout-150',
-    'low-float-high-volume-floatTimesabsVolPoints-trendgt10-315'
+    'low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10-210',
+    'up-streak-5days-gt3overnight-fiveTo10-189',
+    'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-first1-30'
 ];
 
 const cheapestPicksEmailObj = [

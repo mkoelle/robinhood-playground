@@ -1,0 +1,39 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "DEST",
+      "price": 5.9275
+    }
+  ],
+  "300": [
+    {
+      "ticker": "DEST",
+      "price": 5.8201
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.8499
+    }
+  ],
+  "380": [
+    {
+      "ticker": "DEST",
+      "price": 5.78
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.9
+    }
+  ],
+  "600": [
+    {
+      "ticker": "DEST",
+      "price": 5.75
+    },
+    {
+      "ticker": "RDHL",
+      "price": 7.9
+    }
+  ]
+}

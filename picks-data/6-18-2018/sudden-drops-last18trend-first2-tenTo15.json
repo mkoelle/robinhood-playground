@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "BFR",
+      "price": 13.21
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.555
+    }
+  ],
+  "280": [
+    {
+      "ticker": "CBIO",
+      "price": 9.9999
+    },
+    {
+      "ticker": "COE",
+      "price": 10.6
+    }
+  ],
+  "328": [
+    {
+      "ticker": "GEVO",
+      "price": 13.2828
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.58
+    }
+  ],
+  "388": [
+    {
+      "ticker": "GEVO",
+      "price": 12.4
+    },
+    {
+      "ticker": "TPIV",
+      "price": 12.315
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "TPIV",
+      "price": 11.8
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.575
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 12.8
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 13.81
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.6305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEVO",
+      "price": 12.61
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 12.75
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEVO",
+      "price": 12.0789
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.7358
+    }
+  ]
+}

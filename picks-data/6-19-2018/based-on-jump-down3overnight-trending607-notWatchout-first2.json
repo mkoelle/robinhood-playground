@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNUS",
+      "price": 3
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNUS",
+      "price": 2.9465
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNUS",
+      "price": 2.9592
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNUS",
+      "price": 2.9135
+    },
+    {
+      "ticker": "ZOM",
+      "price": 1.92
+    }
+  ]
+}

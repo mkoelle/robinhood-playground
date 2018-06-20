@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RMBL",
+      "price": 5.25
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.98
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.3313
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RMBL",
+      "price": 5.25
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.915
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TLF",
+      "price": 7.95
+    },
+    {
+      "ticker": "RMBL",
+      "price": 5.25
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.81
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TLF",
+      "price": 7.95
+    },
+    {
+      "ticker": "RMBL",
+      "price": 5.35
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.77
+    }
+  ]
+}

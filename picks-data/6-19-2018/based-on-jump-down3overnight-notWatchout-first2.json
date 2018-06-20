@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SNGX",
+      "price": 1.4
+    },
+    {
+      "ticker": "GNUS",
+      "price": 3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNGX",
+      "price": 1.3934
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9465
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNGX",
+      "price": 1.392
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9592
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNGX",
+      "price": 1.39
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9135
+    }
+  ]
+}

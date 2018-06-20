@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.545
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.15
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4462
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VBIV",
+      "price": 3.17
+    },
+    {
+      "ticker": "NVIV",
+      "price": 4.7762
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.355
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NFEC",
+      "price": 2.95
+    },
+    {
+      "ticker": "VBIV",
+      "price": 3.21
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.81
+    }
+  ]
+}

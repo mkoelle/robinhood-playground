@@ -1,0 +1,62 @@
+{
+  "32": [
+    {
+      "ticker": "LCI",
+      "price": 14.3
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.629
+    }
+  ],
+  "63": [
+    {
+      "ticker": "BLFS",
+      "price": 11.56
+    },
+    {
+      "ticker": "VKTX",
+      "price": 12.63
+    }
+  ],
+  "221": [
+    {
+      "ticker": "CIX",
+      "price": 13.05
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.555
+    }
+  ],
+  "280": [
+    {
+      "ticker": "BLFS",
+      "price": 13.4
+    },
+    {
+      "ticker": "CBIO",
+      "price": 9.9999
+    }
+  ],
+  "328": [
+    {
+      "ticker": "AQ",
+      "price": 12.68
+    },
+    {
+      "ticker": "CLUB",
+      "price": 11.175
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EVLO",
+      "price": 12.02
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.7
+    }
+  ]
+}

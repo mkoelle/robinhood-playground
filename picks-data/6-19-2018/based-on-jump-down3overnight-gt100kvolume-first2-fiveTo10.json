@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TELL",
+      "price": 9.76
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TELL",
+      "price": 9.755
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.7575
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TELL",
+      "price": 9.715
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.7678
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TELL",
+      "price": 9.735
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.705
+    }
+  ]
+}

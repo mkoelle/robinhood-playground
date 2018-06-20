@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 1.46
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.05
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.275
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 1.4331
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.75
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 1.4
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.9
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 1.401
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.85
+    },
+    {
+      "ticker": "BVX",
+      "price": 3.87
+    }
+  ]
+}

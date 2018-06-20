@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KODK",
+      "price": 4.9775
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.975
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVIV",
+      "price": 4.92
+    },
+    {
+      "ticker": "KODK",
+      "price": 4.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVIV",
+      "price": 4.87
+    },
+    {
+      "ticker": "KNDI",
+      "price": 4.9715
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 4.7548
+    },
+    {
+      "ticker": "KODK",
+      "price": 4.969
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVIV",
+      "price": 4.7762
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVIV",
+      "price": 4.94
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVIV",
+      "price": 4.855
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.95
+    }
+  ]
+}

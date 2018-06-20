@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "MIE",
+      "price": 10.0001
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.215
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 9.9866
+    },
+    {
+      "ticker": "ITUB",
+      "price": 10.265
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BWP",
+      "price": 10.015
+    },
+    {
+      "ticker": "ITUB",
+      "price": 10.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMBR",
+      "price": 10.025
+    },
+    {
+      "ticker": "BWP",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFGR",
+      "price": 10.85
+    },
+    {
+      "ticker": "ITUB",
+      "price": 10.585
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AP",
+      "price": 10.125
+    },
+    {
+      "ticker": "LFGR",
+      "price": 10.85
+    }
+  ]
+}

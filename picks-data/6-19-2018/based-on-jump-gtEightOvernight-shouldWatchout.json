@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4121
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.52
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IPAS",
+      "price": 0.42
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.4452
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IPAS",
+      "price": 0.41
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.36
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.7393
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4099
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.2831
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.78
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BLFS",
+      "price": 12.06
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.36
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.87
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CBIO",
+      "price": 10.4196
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.22
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.35
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SUPV",
+      "price": 13.37
+    },
+    {
+      "ticker": "LCI",
+      "price": 14.775
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.4
+    }
+  ]
+}

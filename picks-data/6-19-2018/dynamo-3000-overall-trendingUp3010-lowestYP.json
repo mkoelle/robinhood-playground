@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.461
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.1234
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6469
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.452
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 1.7
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4553
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 1.659
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4544
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.661
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.452
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DCIX",
+      "price": 1.66
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.431
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFIE",
+      "price": 4.65
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.5908
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTE",
+      "price": 3.44
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.0299
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9152
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.5075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9043
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDPI",
+      "price": 1.93
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDPI",
+      "price": 1.92
+    },
+    {
+      "ticker": "NEPT",
+      "price": 2.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9057
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.52
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLUB",
+      "price": 11.25
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLUB",
+      "price": 11.2
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLUB",
+      "price": 11.1
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.37
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLUB",
+      "price": 11.134
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.4
+    }
+  ]
+}

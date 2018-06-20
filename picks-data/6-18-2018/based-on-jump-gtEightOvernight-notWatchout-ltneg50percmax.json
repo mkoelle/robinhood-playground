@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NNVC",
+      "price": 0.45
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNVC",
+      "price": 0.45
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.5
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNVC",
+      "price": 0.45
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.4
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNVC",
+      "price": 0.43
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.3733
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.242
+    }
+  ]
+}

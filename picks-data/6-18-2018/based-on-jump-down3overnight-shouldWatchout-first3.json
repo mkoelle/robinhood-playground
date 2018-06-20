@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NSPR",
+      "price": 1.05
+    },
+    {
+      "ticker": "EARS",
+      "price": 1
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSPR",
+      "price": 1.0289
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.976
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSPR",
+      "price": 1.08
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.9699
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.4512
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSPR",
+      "price": 1.09
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.99
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.4685
+    }
+  ]
+}

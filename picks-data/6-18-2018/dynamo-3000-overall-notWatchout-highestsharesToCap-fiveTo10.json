@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 4.92
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.0338
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 4.9999
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCMT",
+      "price": 5.0702
+    },
+    {
+      "ticker": "GLDD",
+      "price": 5.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCMT",
+      "price": 5.03
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCMT",
+      "price": 5.01
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCMT",
+      "price": 5.09
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SKIS",
+      "price": 5.025
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.13
+    }
+  ]
+}

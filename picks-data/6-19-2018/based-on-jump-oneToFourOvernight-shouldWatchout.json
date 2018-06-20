@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 1.46
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.518
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2521
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.1
+    },
+    {
+      "ticker": "GST",
+      "price": 0.5499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 1.4331
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.52
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.265
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.112
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 1.4
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.52
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.27
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.112
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 1.401
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2651
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.5155
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.099
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.85
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.6
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.72
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.79
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SENS",
+      "price": 4.5
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.63
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.8
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.53
+    },
+    {
+      "ticker": "SACH",
+      "price": 4.2016
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SENS",
+      "price": 4.37
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.59
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.79
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.5201
+    },
+    {
+      "ticker": "SACH",
+      "price": 4.2016
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMI",
+      "price": 1.59
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.3842
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CFRX",
+      "price": 2.61
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CFRX",
+      "price": 2.535
+    },
+    {
+      "ticker": "OSG",
+      "price": 3.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VERU",
+      "price": 2.34
+    },
+    {
+      "ticker": "TNXP",
+      "price": 4.615
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 2.85
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TMQ",
+      "price": 1.826
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TMQ",
+      "price": 1.8099
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.545
+    }
+  ]
+}

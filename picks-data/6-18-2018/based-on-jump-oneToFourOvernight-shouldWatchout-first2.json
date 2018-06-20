@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KOOL",
+      "price": 0.54
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOOL",
+      "price": 0.521
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KOOL",
+      "price": 0.54
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.0928
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5349
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.095
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4121
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IPAS",
+      "price": 0.42
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.4452
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IPAS",
+      "price": 0.41
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.36
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IPAS",
+      "price": 0.4099
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.2831
+    }
+  ]
+}

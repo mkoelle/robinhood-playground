@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CDTI",
+      "price": 0.51
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.7527
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CDTI",
+      "price": 0.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CDTI",
+      "price": 0.55
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.7856
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CDTI",
+      "price": 0.5672
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.82
+    }
+  ]
+}

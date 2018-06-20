@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GRBK",
+      "price": 11.6098
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GRBK",
+      "price": 11.5
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.6842
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GRBK",
+      "price": 11.2
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GRBK",
+      "price": 11.1
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.655
+    }
+  ]
+}

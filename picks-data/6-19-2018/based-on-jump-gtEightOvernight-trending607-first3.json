@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIVE",
+      "price": 3.81
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0836
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIVE",
+      "price": 3.87
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0887
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIVE",
+      "price": 3.7393
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0867
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIVE",
+      "price": 3.78
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.09
+    }
+  ]
+}

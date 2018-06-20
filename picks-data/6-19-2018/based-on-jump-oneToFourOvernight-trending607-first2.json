@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 1.46
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 1.4331
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 1.4
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 1.401
+    },
+    {
+      "ticker": "CADC",
+      "price": 3.85
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.95
+    },
+    {
+      "ticker": "ARWR",
+      "price": 11.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFH",
+      "price": 10.75
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.345
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.23
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSSE",
+      "price": 10.25
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOOP",
+      "price": 10.2
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOOP",
+      "price": 10.2
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.255
+    }
+  ]
+}

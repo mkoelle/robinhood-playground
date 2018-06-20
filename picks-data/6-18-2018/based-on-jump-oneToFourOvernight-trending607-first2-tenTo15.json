@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AZRE",
+      "price": 15.45
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.2472
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 11.45
+    },
+    {
+      "ticker": "SOGO",
+      "price": 14.639
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 11.55
+    },
+    {
+      "ticker": "SOGO",
+      "price": 14.6724
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 11.5693
+    },
+    {
+      "ticker": "SOGO",
+      "price": 14.76
+    }
+  ]
+}

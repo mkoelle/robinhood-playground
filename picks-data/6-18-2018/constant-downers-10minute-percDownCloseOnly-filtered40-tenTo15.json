@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CEMI",
+      "price": 10.195
+    },
+    {
+      "ticker": "IMOS",
+      "price": 15
+    },
+    {
+      "ticker": "SRV",
+      "price": 11.856
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RNET",
+      "price": 12.5
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSG",
+      "price": 14.67
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.005
+    }
+  ]
+}

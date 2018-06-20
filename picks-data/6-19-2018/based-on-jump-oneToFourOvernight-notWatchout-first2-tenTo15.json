@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.655
+    },
+    {
+      "ticker": "PBBI",
+      "price": 11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.6
+    },
+    {
+      "ticker": "PBBI",
+      "price": 11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.5857
+    },
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.7556
+    },
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    }
+  ]
+}

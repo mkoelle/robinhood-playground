@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.105
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.214
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLG",
+      "price": 0.1059
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1913
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.1049
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1914
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.1032
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1907
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.1048
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.189
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLOW",
+      "price": 0.187
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PLG",
+      "price": 0.102
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1905
+    }
+  ]
+}

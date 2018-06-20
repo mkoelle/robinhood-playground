@@ -1,0 +1,44 @@
+{
+  "25": [
+    {
+      "ticker": "THST",
+      "price": 1.5962
+    }
+  ],
+  "95": [
+    {
+      "ticker": "FRED",
+      "price": 2.14
+    }
+  ],
+  "150": [
+    {
+      "ticker": "NAT",
+      "price": 2.4516
+    }
+  ],
+  "210": [
+    {
+      "ticker": "OCX",
+      "price": 2.6
+    }
+  ],
+  "276": [
+    {
+      "ticker": "MDLY",
+      "price": 3.6
+    }
+  ],
+  "315": [
+    {
+      "ticker": "MDLY",
+      "price": 3.5
+    }
+  ],
+  "384": [
+    {
+      "ticker": "MDLY",
+      "price": 3.55
+    }
+  ]
+}

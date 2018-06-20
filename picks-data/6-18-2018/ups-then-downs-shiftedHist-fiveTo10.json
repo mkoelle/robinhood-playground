@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "SPWR",
+      "price": 7.7298
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SPWR",
+      "price": 7.665
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPWR",
+      "price": 7.765
+    },
+    {
+      "ticker": "AG",
+      "price": 7.455
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SPWR",
+      "price": 7.8599
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SPWR",
+      "price": 7.97
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SPWR",
+      "price": 7.96
+    }
+  ]
+}

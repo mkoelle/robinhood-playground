@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 7.155
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.42
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 7.034
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.395
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.925
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.35
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.805
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SIF",
+      "price": 5.5
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.841
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.245
+    }
+  ]
+}

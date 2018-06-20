@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLBS",
+      "price": 4.1299
+    },
+    {
+      "ticker": "SCON",
+      "price": 1.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLBS",
+      "price": 4.1445
+    },
+    {
+      "ticker": "SCON",
+      "price": 1.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLBS",
+      "price": 4.51
+    },
+    {
+      "ticker": "SCON",
+      "price": 1.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLBS",
+      "price": 4.46
+    },
+    {
+      "ticker": "SCON",
+      "price": 1.0586
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 5.375
+    },
+    {
+      "ticker": "GALT",
+      "price": 8.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 5.455
+    },
+    {
+      "ticker": "GALT",
+      "price": 9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 7.77
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.3999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 7.64
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.46
+    }
+  ]
+}

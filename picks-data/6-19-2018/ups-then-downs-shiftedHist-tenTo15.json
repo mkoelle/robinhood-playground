@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "SPNE",
+      "price": 13.615
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CSSE",
+      "price": 10.38
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SPNE",
+      "price": 13.64
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.395
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SPNE",
+      "price": 13.92
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.4
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SPNE",
+      "price": 13.98
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.25
+    }
+  ]
+}

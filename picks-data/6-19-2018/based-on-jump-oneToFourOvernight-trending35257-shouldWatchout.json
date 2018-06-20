@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "DYNT",
+      "price": 3.05
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.77
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.275
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 3.75
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.05
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.77
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2671
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 3.9
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.05
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.77
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.275
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 3.85
+    },
+    {
+      "ticker": "DYNT",
+      "price": 3.1
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.7665
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2653
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNGX",
+      "price": 1.4
+    },
+    {
+      "ticker": "GNUS",
+      "price": 3
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNGX",
+      "price": 1.3934
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9465
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.4826
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNGX",
+      "price": 1.392
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9592
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.4902
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNGX",
+      "price": 1.39
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.9135
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.485
+    }
+  ]
+}

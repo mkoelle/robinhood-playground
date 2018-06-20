@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DGSE",
+      "price": 0.7501
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.3599
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4462
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DGSE",
+      "price": 0.7394
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4496
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7701
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DGSE",
+      "price": 0.7216
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4495
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7601
+    }
+  ]
+}

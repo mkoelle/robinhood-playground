@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VALE",
+      "price": 12.62
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.93
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.14
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VALE",
+      "price": 12.6842
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.19
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VALE",
+      "price": 12.66
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.185
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VALE",
+      "price": 12.655
+    },
+    {
+      "ticker": "BSTI",
+      "price": 11.83
+    },
+    {
+      "ticker": "JKS",
+      "price": 12.0508
+    }
+  ]
+}

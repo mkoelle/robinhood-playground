@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CDTI",
+      "price": 0.51
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.5634
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.435
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CDTI",
+      "price": 0.55
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1866
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.615
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CDTI",
+      "price": 0.55
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1866
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.8599
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CDTI",
+      "price": 0.5672
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.18
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.765
+    }
+  ]
+}

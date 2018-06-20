@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.72
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SENS",
+      "price": 4.5
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SENS",
+      "price": 4.37
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.59
+    }
+  ]
+}

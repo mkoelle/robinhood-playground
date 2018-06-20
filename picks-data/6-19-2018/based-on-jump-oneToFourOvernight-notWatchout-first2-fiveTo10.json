@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 6.59
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.7179
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIZ",
+      "price": 8.67
+    },
+    {
+      "ticker": "AKTS",
+      "price": 6.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIZ",
+      "price": 8.67
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIZ",
+      "price": 8.67
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.95
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "CFRX",
+      "price": 2.7
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEPT",
+      "price": 3.2533
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.075
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NEPT",
+      "price": 3.16
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.0801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NEPT",
+      "price": 3.295
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NEPT",
+      "price": 3.2646
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NEPT",
+      "price": 3.26
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.11
+    }
+  ]
+}

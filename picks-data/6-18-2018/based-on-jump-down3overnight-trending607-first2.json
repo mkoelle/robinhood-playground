@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BYFC",
+      "price": 2.13
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.212
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ISR",
+      "price": 0.45
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ISR",
+      "price": 0.45
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ISR",
+      "price": 0.4419
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.24
+    }
+  ]
+}

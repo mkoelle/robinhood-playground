@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 12.7
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.0001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHRA",
+      "price": 11.3383
+    },
+    {
+      "ticker": "EGAN",
+      "price": 12.8107
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHRA",
+      "price": 11.36
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHRA",
+      "price": 11.5477
+    },
+    {
+      "ticker": "BLFS",
+      "price": 13.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "BLFS",
+      "price": 13.5105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHRA",
+      "price": 11.42
+    },
+    {
+      "ticker": "BLFS",
+      "price": 13.62
+    }
+  ]
+}

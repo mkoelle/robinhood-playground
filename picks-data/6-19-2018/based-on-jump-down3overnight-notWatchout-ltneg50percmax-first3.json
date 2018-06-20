@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.4826
+    },
+    {
+      "ticker": "HK",
+      "price": 3.91
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.4902
+    },
+    {
+      "ticker": "HK",
+      "price": 3.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.485
+    },
+    {
+      "ticker": "HK",
+      "price": 4.02
+    }
+  ]
+}

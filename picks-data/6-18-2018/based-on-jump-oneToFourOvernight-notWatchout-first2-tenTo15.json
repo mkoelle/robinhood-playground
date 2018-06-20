@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIIX",
+      "price": 13.8198
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIIX",
+      "price": 13.94
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIIX",
+      "price": 13.78
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIIX",
+      "price": 13.78
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.8
+    }
+  ]
+}

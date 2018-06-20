@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBBI",
+      "price": 11
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.3352
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBBI",
+      "price": 11
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBBI",
+      "price": 11.15
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.45
+    }
+  ]
+}

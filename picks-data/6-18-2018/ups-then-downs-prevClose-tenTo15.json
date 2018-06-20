@@ -1,0 +1,74 @@
+{
+  "10": [
+    {
+      "ticker": "TORC",
+      "price": 11.4651
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BLFS",
+      "price": 12.058
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.3773
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 11.29
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.45
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.19
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TORC",
+      "price": 11.24
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.51
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TORC",
+      "price": 11.39
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.335
+    },
+    {
+      "ticker": "VKTX",
+      "price": 12.3199
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.26
+    }
+  ],
+  "600": [
+    {
+      "ticker": "TORC",
+      "price": 11.23
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.3
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.18
+    }
+  ]
+}

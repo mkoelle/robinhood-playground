@@ -1,0 +1,64 @@
+{
+  "10": [
+    {
+      "ticker": "SNAP",
+      "price": 13.27
+    }
+  ],
+  "50": [
+    {
+      "ticker": "TPIV",
+      "price": 11.91
+    },
+    {
+      "ticker": "SNAP",
+      "price": 12.75
+    },
+    {
+      "ticker": "SOGO",
+      "price": 14.465
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SOGO",
+      "price": 14.21
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.14
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TPIV",
+      "price": 11.18
+    },
+    {
+      "ticker": "SOGO",
+      "price": 13.925
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.325
+    }
+  ],
+  "600": [
+    {
+      "ticker": "TPIV",
+      "price": 11.3
+    },
+    {
+      "ticker": "SOGO",
+      "price": 13.93
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.31
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.27
+    }
+  ]
+}

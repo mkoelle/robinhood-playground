@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TNK",
+      "price": 1.06
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.4443
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNK",
+      "price": 1.085
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNK",
+      "price": 1.095
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNK",
+      "price": 1.1
+    },
+    {
+      "ticker": "NAKD",
+      "price": 1.51
+    }
+  ]
+}

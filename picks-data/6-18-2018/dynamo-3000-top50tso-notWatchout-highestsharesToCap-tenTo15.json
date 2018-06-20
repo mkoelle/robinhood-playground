@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "GCI",
+      "price": 10.27
+    },
+    {
+      "ticker": "SRCI",
+      "price": 10.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IOTS",
+      "price": 9.9
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPE",
+      "price": 10.31
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.195
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPE",
+      "price": 10.325
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.24
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPE",
+      "price": 10.205
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPE",
+      "price": 10.25
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.475
+    }
+  ]
+}

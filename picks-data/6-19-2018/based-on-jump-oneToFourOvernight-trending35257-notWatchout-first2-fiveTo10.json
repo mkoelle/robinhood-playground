@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CATS",
+      "price": 7.98
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.3313
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CATS",
+      "price": 7.915
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CATS",
+      "price": 7.81
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.3177
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CATS",
+      "price": 7.77
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.28
+    }
+  ]
+}

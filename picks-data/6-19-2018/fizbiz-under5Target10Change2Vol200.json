@@ -1,0 +1,57 @@
+{
+  "12": [],
+  "75": [
+    {
+      "ticker": "IDRA",
+      "price": 1.6
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.075
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.065
+    },
+    {
+      "ticker": "DHT",
+      "price": 4.475
+    }
+  ],
+  "120": [
+    {
+      "ticker": "IDRA",
+      "price": 1.6
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.09
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.765
+    }
+  ],
+  "180": [
+    {
+      "ticker": "SBGL",
+      "price": 2.78
+    },
+    {
+      "ticker": "CIG",
+      "price": 1.795
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.575
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.11
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.055
+    }
+  ]
+}

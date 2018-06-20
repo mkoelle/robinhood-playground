@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VIPS",
+      "price": 11.515
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.2472
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIPS",
+      "price": 11.45
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.45
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIPS",
+      "price": 11.46
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.55
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIPS",
+      "price": 11.32
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.5693
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.9
+    }
+  ]
+}

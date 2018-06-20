@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASTC",
+      "price": 6.7
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASTC",
+      "price": 7.2818
+    },
+    {
+      "ticker": "EVIX",
+      "price": 9.8997
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASTC",
+      "price": 7.53
+    },
+    {
+      "ticker": "EVIX",
+      "price": 9.8997
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASTC",
+      "price": 6.09
+    },
+    {
+      "ticker": "EVIX",
+      "price": 9.8997
+    }
+  ]
+}

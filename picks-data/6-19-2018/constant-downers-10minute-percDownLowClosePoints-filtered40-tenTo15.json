@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BCOV",
+      "price": 10.225
+    },
+    {
+      "ticker": "ECOM",
+      "price": 14.9
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.64
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BCRH",
+      "price": 11
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.15
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.65
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GRBK",
+      "price": 10.95
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.938
+    },
+    {
+      "ticker": "BCOV",
+      "price": 10.15
+    }
+  ]
+}

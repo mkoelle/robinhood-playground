@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2419
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SENS",
+      "price": 4.46
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2364
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SENS",
+      "price": 4.5
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2364
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SENS",
+      "price": 4.37
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.24
+    }
+  ]
+}

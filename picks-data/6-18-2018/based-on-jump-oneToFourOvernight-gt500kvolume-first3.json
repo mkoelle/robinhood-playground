@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3513
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3567
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.9985
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.5622
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3586
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.975
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.58
+    }
+  ]
+}

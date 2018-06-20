@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AWX",
+      "price": 2.212
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AWX",
+      "price": 2.24
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWX",
+      "price": 2.2221
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.2481
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWX",
+      "price": 2.24
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.2481
+    }
+  ]
+}

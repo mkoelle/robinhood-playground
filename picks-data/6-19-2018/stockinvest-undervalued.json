@@ -1,0 +1,90 @@
+{
+  "7": [
+    {
+      "ticker": "EPE",
+      "price": 2.805
+    },
+    {
+      "ticker": "DNR",
+      "price": 3.96
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.764
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.43
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.525
+    }
+  ],
+  "60": [
+    {
+      "ticker": "EPE",
+      "price": 2.81
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.03
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.9085
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.44
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.55
+    }
+  ],
+  "123": [
+    {
+      "ticker": "EPE",
+      "price": 2.83
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.095
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.87
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.45
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.57
+    }
+  ],
+  "263": [
+    {
+      "ticker": "EPE",
+      "price": 2.8099
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.065
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.84
+    },
+    {
+      "ticker": "IPI",
+      "price": 4.47
+    },
+    {
+      "ticker": "FSM",
+      "price": 5.555
+    }
+  ]
+}

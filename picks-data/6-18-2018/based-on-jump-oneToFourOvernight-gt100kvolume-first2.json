@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3513
+    },
+    {
+      "ticker": "AXON",
+      "price": 3.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.355
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.2052
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPW",
+      "price": 0.64
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3567
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KOOL",
+      "price": 0.5349
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.629
+    }
+  ]
+}

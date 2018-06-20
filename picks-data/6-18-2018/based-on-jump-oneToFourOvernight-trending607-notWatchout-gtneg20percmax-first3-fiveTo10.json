@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CATS",
+      "price": 8.77
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.175
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CATS",
+      "price": 8.7
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CATS",
+      "price": 8.451
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.0801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CATS",
+      "price": 8.69
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.269
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.14
+    }
+  ]
+}

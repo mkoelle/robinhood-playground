@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CVM",
+      "price": 3.595
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CVM",
+      "price": 3.47
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CVM",
+      "price": 3.38
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.1901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CVM",
+      "price": 3.4
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.1901
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0348
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.1291
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.0385
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7125
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.035
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7102
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0225
+    },
+    {
+      "ticker": "DTEA",
+      "price": 4.1
+    },
+    {
+      "ticker": "URG",
+      "price": 0.708
+    }
+  ]
+}

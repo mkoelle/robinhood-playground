@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 0.252
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.263
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CEI",
+      "price": 0.2945
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.299
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYN",
+      "price": 0.215
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.29
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2601
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2601
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.2784
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYN",
+      "price": 0.2149
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYN",
+      "price": 0.2174
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2651
+    }
+  ]
+}

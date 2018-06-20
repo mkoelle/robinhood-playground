@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ARWR",
+      "price": 11.58
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARWR",
+      "price": 11.83
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARWR",
+      "price": 11.9798
+    },
+    {
+      "ticker": "XSPL",
+      "price": 11.03
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARWR",
+      "price": 12.59
+    },
+    {
+      "ticker": "XSPL",
+      "price": 10.3425
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.2615
+    }
+  ]
+}

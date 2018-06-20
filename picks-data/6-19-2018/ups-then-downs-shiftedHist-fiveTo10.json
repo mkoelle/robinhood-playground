@@ -1,0 +1,104 @@
+{
+  "10": [
+    {
+      "ticker": "CATS",
+      "price": 7.915
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.1
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.32
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.37
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MLNT",
+      "price": 8.105
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.25
+    },
+    {
+      "ticker": "VCYT",
+      "price": 8.75
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.555
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CATS",
+      "price": 7.885
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.175
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.3281
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.255
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.03
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CATS",
+      "price": 8.1348
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.32
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.33
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.31
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.5
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CATS",
+      "price": 8.12
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.29
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.37
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.26
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.48
+    }
+  ]
+}

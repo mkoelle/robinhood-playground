@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "XSPL",
+      "price": 8.32
+    },
+    {
+      "ticker": "LAZY",
+      "price": 7.94
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 8.35
+    },
+    {
+      "ticker": "LAZY",
+      "price": 8
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LAZY",
+      "price": 7.9
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.765
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LAZY",
+      "price": 8
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.8199
+    }
+  ]
+}

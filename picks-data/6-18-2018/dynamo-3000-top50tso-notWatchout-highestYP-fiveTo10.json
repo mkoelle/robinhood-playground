@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 8.41
+    },
+    {
+      "ticker": "ARQL",
+      "price": 4.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSBR",
+      "price": 6.17
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 7.34
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 7.2387
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.812
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTI",
+      "price": 7.3748
+    },
+    {
+      "ticker": "ABUS",
+      "price": 6.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CERS",
+      "price": 6.965
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.2899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERS",
+      "price": 7
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.29
+    }
+  ]
+}

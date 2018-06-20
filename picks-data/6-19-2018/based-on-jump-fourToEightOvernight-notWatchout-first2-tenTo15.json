@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIIX",
+      "price": 13.9602
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIIX",
+      "price": 13.8
+    },
+    {
+      "ticker": "COE",
+      "price": 10.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIIX",
+      "price": 13.8589
+    },
+    {
+      "ticker": "COE",
+      "price": 10.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIIX",
+      "price": 14.0999
+    },
+    {
+      "ticker": "COE",
+      "price": 10.86
+    }
+  ]
+}

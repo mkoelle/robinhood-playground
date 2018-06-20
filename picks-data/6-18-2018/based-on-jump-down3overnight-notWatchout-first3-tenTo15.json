@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CBIO",
+      "price": 10.975
+    },
+    {
+      "ticker": "PBBI",
+      "price": 10.6
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CBIO",
+      "price": 10.41
+    },
+    {
+      "ticker": "PBBI",
+      "price": 10.6
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.6953
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CBIO",
+      "price": 10.8907
+    },
+    {
+      "ticker": "PBBI",
+      "price": 10.6
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CBIO",
+      "price": 11.3
+    },
+    {
+      "ticker": "PBBI",
+      "price": 11.05
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.62
+    }
+  ]
+}

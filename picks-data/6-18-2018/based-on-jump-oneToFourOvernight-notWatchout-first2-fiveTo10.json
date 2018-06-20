@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATAI",
+      "price": 5.29
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATAI",
+      "price": 5.29
+    },
+    {
+      "ticker": "EURN",
+      "price": 9.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.29
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PFIN",
+      "price": 8.71
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.29
+    }
+  ]
+}

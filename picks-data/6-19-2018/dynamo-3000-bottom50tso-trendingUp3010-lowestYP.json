@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1234
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.3901
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EDGE",
+      "price": 1.08
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.2901
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.2901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EDGE",
+      "price": 1.09
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.4407
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPO",
+      "price": 0.431
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.11
+    }
+  ]
+}

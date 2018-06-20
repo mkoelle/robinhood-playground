@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 13.59
+    },
+    {
+      "ticker": "NCSM",
+      "price": 13.2113
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 13.855
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.68
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 11.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRK",
+      "price": 13.79
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.095
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRK",
+      "price": 13.72
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.375
+    },
+    {
+      "ticker": "PHII",
+      "price": 11.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRK",
+      "price": 13.72
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMRK",
+      "price": 13.79
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.425
+    },
+    {
+      "ticker": "SLCT",
+      "price": 12.965
+    }
+  ]
+}

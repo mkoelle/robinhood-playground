@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 6.35
+    },
+    {
+      "ticker": "DF",
+      "price": 9.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CYS",
+      "price": 7.5401
+    },
+    {
+      "ticker": "NVTA",
+      "price": 8.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FOMX",
+      "price": 5.46
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATEN",
+      "price": 6.74
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNTY",
+      "price": 8.895
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATEN",
+      "price": 6.75
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.965
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MACK",
+      "price": 9.52
+    },
+    {
+      "ticker": "CERS",
+      "price": 7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INPX",
+      "price": 0.357
+    },
+    {
+      "ticker": "NSPR",
+      "price": 1.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSPR",
+      "price": 1.0843
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1666
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.5526
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RSLS",
+      "price": 3.23
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RSLS",
+      "price": 3.25
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    },
+    {
+      "ticker": "RSLS",
+      "price": 3.2728
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6999
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.408
+    }
+  ]
+}

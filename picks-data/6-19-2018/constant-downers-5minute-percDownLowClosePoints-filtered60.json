@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NH",
+      "price": 3
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2545
+    },
+    {
+      "ticker": "IPAS",
+      "price": 0.39
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CHCI",
+      "price": 3.1628
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.0949
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.52
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RRTS",
+      "price": 2.055
+    },
+    {
+      "ticker": "NK",
+      "price": 2.81
+    },
+    {
+      "ticker": "CHCI",
+      "price": 3.145
+    }
+  ]
+}

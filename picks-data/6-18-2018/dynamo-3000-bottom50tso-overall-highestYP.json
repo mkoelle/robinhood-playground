@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFIE",
+      "price": 4.65
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.5908
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CVM",
+      "price": 3.3036
+    },
+    {
+      "ticker": "AVXL",
+      "price": 4.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.2496
+    },
+    {
+      "ticker": "CVM",
+      "price": 3.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 3.25
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9043
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 3.1999
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 3.095
+    },
+    {
+      "ticker": "CVM",
+      "price": 3.3435
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 3.135
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9057
+    }
+  ]
+}

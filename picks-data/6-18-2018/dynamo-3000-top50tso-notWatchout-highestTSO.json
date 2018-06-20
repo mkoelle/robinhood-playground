@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INFU",
+      "price": 3.1
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.3842
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FVE",
+      "price": 1.55
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.346
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NM",
+      "price": 0.9252
+    },
+    {
+      "ticker": "SES",
+      "price": 2.9298
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SES",
+      "price": 2.948
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDLY",
+      "price": 3.5715
+    },
+    {
+      "ticker": "SES",
+      "price": 2.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDLY",
+      "price": 3.522
+    },
+    {
+      "ticker": "SES",
+      "price": 2.985
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDLY",
+      "price": 3.55
+    },
+    {
+      "ticker": "SES",
+      "price": 2.98
+    }
+  ]
+}

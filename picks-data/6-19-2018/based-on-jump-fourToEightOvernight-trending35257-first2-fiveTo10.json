@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NETE",
+      "price": 8.5
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NETE",
+      "price": 8.28
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.395
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NETE",
+      "price": 8.13
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NETE",
+      "price": 8.169
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.245
+    }
+  ]
+}

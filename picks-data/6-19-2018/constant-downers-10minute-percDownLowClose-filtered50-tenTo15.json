@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "COE",
+      "price": 10.82
+    },
+    {
+      "ticker": "LOOP",
+      "price": 10.25
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.6498
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LOOP",
+      "price": 10.14
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.6498
+    },
+    {
+      "ticker": "COE",
+      "price": 10.79
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LIVE",
+      "price": 12.72
+    },
+    {
+      "ticker": "LOOP",
+      "price": 10.32
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.6034
+    }
+  ]
+}

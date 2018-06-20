@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "CVRS",
+      "price": 0.8
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.13
+    },
+    {
+      "ticker": "TTNP",
+      "price": 1
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.57
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ISR",
+      "price": 0.45
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7901
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.13
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5929
+    },
+    {
+      "ticker": "TTNP",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ISR",
+      "price": 0.45
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7701
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.76
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.24
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ISR",
+      "price": 0.4419
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.7702
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.76
+    },
+    {
+      "ticker": "BYFC",
+      "price": 2.24
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.5623
+    }
+  ]
+}

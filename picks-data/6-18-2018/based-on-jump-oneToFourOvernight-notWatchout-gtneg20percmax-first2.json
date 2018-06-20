@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INFU",
+      "price": 3.1291
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.3943
+    }
+  ],
+  "5": [
+    {
+      "ticker": "URG",
+      "price": 0.7125
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "URG",
+      "price": 0.7102
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "URG",
+      "price": 0.708
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.1
+    }
+  ]
+}

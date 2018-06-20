@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "LAKE",
+      "price": 14.5
+    },
+    {
+      "ticker": "EXPI",
+      "price": 13.989
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.225
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HCLP",
+      "price": 11.408
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.533
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WNEB",
+      "price": 11
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPI",
+      "price": 13.2
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DBD",
+      "price": 13.025
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.455
+    }
+  ]
+}

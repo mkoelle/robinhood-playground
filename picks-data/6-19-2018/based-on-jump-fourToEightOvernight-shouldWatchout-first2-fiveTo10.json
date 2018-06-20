@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLNK",
+      "price": 5.77
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.6302
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLNK",
+      "price": 5.6865
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.5601
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLNK",
+      "price": 5.7305
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.3901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLNK",
+      "price": 5.62
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.4399
+    }
+  ]
+}

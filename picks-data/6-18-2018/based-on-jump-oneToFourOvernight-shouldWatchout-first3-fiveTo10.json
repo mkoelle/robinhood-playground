@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 5.375
+    },
+    {
+      "ticker": "GALT",
+      "price": 8.94
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 5.455
+    },
+    {
+      "ticker": "GALT",
+      "price": 9
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RDVT",
+      "price": 7.77
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.3999
+    },
+    {
+      "ticker": "GALT",
+      "price": 9.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RDVT",
+      "price": 7.64
+    },
+    {
+      "ticker": "CNAT",
+      "price": 5.46
+    },
+    {
+      "ticker": "GALT",
+      "price": 9.2034
+    }
+  ]
+}

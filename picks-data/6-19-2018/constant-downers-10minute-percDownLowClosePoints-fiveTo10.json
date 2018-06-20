@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ASTC",
+      "price": 5.95
+    },
+    {
+      "ticker": "GNPX",
+      "price": 6.802
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.569
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ASTC",
+      "price": 6.02
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.625
+    },
+    {
+      "ticker": "GNPX",
+      "price": 6.854
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ASTC",
+      "price": 5.77
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.845
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.62
+    }
+  ]
+}

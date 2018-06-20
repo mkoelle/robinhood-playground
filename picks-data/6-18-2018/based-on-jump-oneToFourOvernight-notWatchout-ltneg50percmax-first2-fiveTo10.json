@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PCYG",
+      "price": 7.5
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.489
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PCYG",
+      "price": 7.55
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PCYG",
+      "price": 7.95
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PCYG",
+      "price": 7.8
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.63
+    }
+  ]
+}

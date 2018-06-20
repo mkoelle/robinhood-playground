@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "TRUE",
+      "price": 10.71
+    },
+    {
+      "ticker": "VIV",
+      "price": 12.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVXY",
+      "price": 13.74
+    },
+    {
+      "ticker": "CAFD",
+      "price": 12.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVE",
+      "price": 12.96
+    },
+    {
+      "ticker": "TPRE",
+      "price": 14.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CAFD",
+      "price": 12.42
+    },
+    {
+      "ticker": "MCA",
+      "price": 13.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SNAP",
+      "price": 14.04
+    },
+    {
+      "ticker": "CAFD",
+      "price": 12.425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRUE",
+      "price": 10.8
+    },
+    {
+      "ticker": "GTN",
+      "price": 12.1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "GALT",
+      "price": 8.94
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUPH",
+      "price": 6.0616
+    },
+    {
+      "ticker": "GALT",
+      "price": 9
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.455
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EURN",
+      "price": 9.375
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.07
+    },
+    {
+      "ticker": "GALT",
+      "price": 9.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EURN",
+      "price": 9.25
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.191
+    },
+    {
+      "ticker": "GALT",
+      "price": 9.2034
+    }
+  ]
+}

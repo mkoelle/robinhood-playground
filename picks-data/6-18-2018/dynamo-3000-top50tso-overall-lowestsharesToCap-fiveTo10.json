@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DF",
+      "price": 9.97
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMBR",
+      "price": 9.95
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMBR",
+      "price": 9.98
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSPI",
+      "price": 9.72
+    },
+    {
+      "ticker": "IOTS",
+      "price": 9.812
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSPI",
+      "price": 9.72
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.745
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QD",
+      "price": 9.9424
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMH",
+      "price": 9.98
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.95
+    }
+  ]
+}

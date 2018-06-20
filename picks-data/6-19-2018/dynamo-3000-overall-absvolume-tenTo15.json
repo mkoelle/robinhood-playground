@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "TPIV",
+      "price": 12.045
+    },
+    {
+      "ticker": "EXPI",
+      "price": 13.989
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMCM",
+      "price": 10.8262
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "YRIV",
+      "price": 10.3327
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.533
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 10.24
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 10.15
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OBSV",
+      "price": 15.45
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.455
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "25": [
+    {
+      "ticker": "THST",
+      "price": 1.5962
+    }
+  ],
+  "95": [
+    {
+      "ticker": "FRED",
+      "price": 2.14
+    }
+  ],
+  "150": [
+    {
+      "ticker": "NAT",
+      "price": 2.4516
+    }
+  ],
+  "210": [
+    {
+      "ticker": "OCX",
+      "price": 2.6
+    }
+  ],
+  "276": [
+    {
+      "ticker": "OCX",
+      "price": 2.575
+    }
+  ],
+  "315": [
+    {
+      "ticker": "OCX",
+      "price": 2.65
+    }
+  ],
+  "384": [
+    {
+      "ticker": "FUV",
+      "price": 3.58
+    }
+  ]
+}

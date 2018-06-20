@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CFRX",
+      "price": 2.3943
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CFRX",
+      "price": 2.4517
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.2632
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CFRX",
+      "price": 2.3844
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.3432
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CFRX",
+      "price": 2.56
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.35
+    }
+  ]
+}

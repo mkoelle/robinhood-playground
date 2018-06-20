@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SNMP",
+      "price": 11.795
+    },
+    {
+      "ticker": "EDI",
+      "price": 12.8809
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.13
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RNET",
+      "price": 12.5
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSG",
+      "price": 14.67
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.005
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNAT",
+      "price": 5.375
+    },
+    {
+      "ticker": "GALT",
+      "price": 8.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNAT",
+      "price": 5.455
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.0616
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNAT",
+      "price": 5.3999
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNAT",
+      "price": 5.46
+    },
+    {
+      "ticker": "AUPH",
+      "price": 6.191
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.63
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 14.28
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTA",
+      "price": 14.59
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 14.56
+    },
+    {
+      "ticker": "LCUT",
+      "price": 11.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INOV",
+      "price": 10.45
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10.425
+    },
+    {
+      "ticker": "TORC",
+      "price": 11.24
+    }
+  ]
+}

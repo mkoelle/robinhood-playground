@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TAYD",
+      "price": 10.1804
+    },
+    {
+      "ticker": "IMOS",
+      "price": 15
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.55
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CIX",
+      "price": 13.3
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.155
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CIX",
+      "price": 13.3
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.4167
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.63
+    }
+  ]
+}
