@@ -73,7 +73,7 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
             `robinhood-playground: ${stratMin}`,
             JSON.stringify(withPrices, null, 2)
         );
-        tweeter.tweet(`${stratMin}: ${stocksToBuy.map(s => `#${s}`).join(' ')}`);
+        tweeter.tweet(`${stratMin}: ${withPrices.map(({ ticker, price }) => `#${s} @ $${price}`).join(' | ')}`);
     }
 
     // for email
