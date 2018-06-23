@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.06
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.06
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.2287
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.0327
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.18
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.069
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.199
+    }
+  ]
+}

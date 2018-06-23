@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 15.03
+    },
+    {
+      "ticker": "EPZM",
+      "price": 14.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDR",
+      "price": 14.6322
+    },
+    {
+      "ticker": "EPZM",
+      "price": 14.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLDR",
+      "price": 14.555
+    },
+    {
+      "ticker": "EPZM",
+      "price": 14.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLDR",
+      "price": 14.64
+    },
+    {
+      "ticker": "CLCT",
+      "price": 15.105
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLDR",
+      "price": 14.61
+    },
+    {
+      "ticker": "CLCT",
+      "price": 15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLDR",
+      "price": 14.5
+    },
+    {
+      "ticker": "EPZM",
+      "price": 14.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLDR",
+      "price": 14.545
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.89
+    }
+  ]
+}

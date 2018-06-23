@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ATEC",
+      "price": 2.9
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TMQ",
+      "price": 1.7357
+    },
+    {
+      "ticker": "PES",
+      "price": 4.675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TMQ",
+      "price": 1.7252
+    },
+    {
+      "ticker": "GNUS",
+      "price": 2.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GMO",
+      "price": 0.4
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3503
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NEON",
+      "price": 0.3507
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PME",
+      "price": 2.8301
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.82
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDR",
+      "price": 1.6425
+    },
+    {
+      "ticker": "PME",
+      "price": 2.83
+    }
+  ]
+}

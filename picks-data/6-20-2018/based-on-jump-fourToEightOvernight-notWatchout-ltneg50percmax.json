@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4899
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3697
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4499
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3697
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3667
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 3.52
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4703
+    }
+  ]
+}

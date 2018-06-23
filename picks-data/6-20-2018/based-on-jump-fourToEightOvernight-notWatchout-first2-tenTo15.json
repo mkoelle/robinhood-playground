@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 14.84
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 14.3199
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.4234
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 14.22
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 14.2262
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.3715
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NEPT",
+      "price": 4.12
+    },
+    {
+      "ticker": "AVXL",
+      "price": 4.2477
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASTC",
+      "price": 4.28
+    },
+    {
+      "ticker": "PETX",
+      "price": 4.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RLJE",
+      "price": 4.7
+    },
+    {
+      "ticker": "ENG",
+      "price": 1.211
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EPE",
+      "price": 2.74
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPE",
+      "price": 2.76
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 2.54
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.821
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NEPT",
+      "price": 3.76
+    },
+    {
+      "ticker": "FUV",
+      "price": 3.93
+    }
+  ]
+}

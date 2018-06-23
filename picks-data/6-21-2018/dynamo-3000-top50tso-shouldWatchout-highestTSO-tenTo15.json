@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NES",
+      "price": 11.35
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.6008
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 10.525
+    },
+    {
+      "ticker": "NES",
+      "price": 11.7777
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KALA",
+      "price": 14.95
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 10.82
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 10.75
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.935
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 11.13
+    },
+    {
+      "ticker": "OBSV",
+      "price": 14.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 10.99
+    },
+    {
+      "ticker": "OBSV",
+      "price": 14.97
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XBIT",
+      "price": 4.49
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVK",
+      "price": 3.75
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVK",
+      "price": 3.7
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INFU",
+      "price": 3.25
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.43
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.4615
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.3999
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 4.58
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.07
+    }
+  ]
+}

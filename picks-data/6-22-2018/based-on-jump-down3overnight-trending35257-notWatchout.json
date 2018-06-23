@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.4352
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.4311
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1367
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.435
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.44
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1
+    },
+    {
+      "ticker": "ISSC",
+      "price": 2.92
+    }
+  ]
+}

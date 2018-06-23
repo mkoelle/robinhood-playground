@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SENS",
+      "price": 4.99
+    },
+    {
+      "ticker": "VTL",
+      "price": 5.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CWBR",
+      "price": 8.62
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 9.09
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.6144
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 9
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 9
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.4001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CERS",
+      "price": 6.965
+    },
+    {
+      "ticker": "SHSP",
+      "price": 9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 9
+    },
+    {
+      "ticker": "CWBR",
+      "price": 8.3
+    }
+  ]
+}

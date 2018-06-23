@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INOV",
+      "price": 9.75
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.82
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPKE",
+      "price": 9.9
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 9.91
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.8698
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 9.775
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 9.82
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INOV",
+      "price": 9.9
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TPIV",
+      "price": 9.87
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.975
+    }
+  ]
+}

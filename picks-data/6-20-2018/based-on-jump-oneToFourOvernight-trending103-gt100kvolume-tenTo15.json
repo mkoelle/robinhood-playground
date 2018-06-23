@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "CPE",
+      "price": 10.7
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPOR",
+      "price": 11.07
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.64
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.529
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPOR",
+      "price": 11.06
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.5982
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.69
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.131
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPOR",
+      "price": 11.08
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.63
+    },
+    {
+      "ticker": "CBAY",
+      "price": 14.755
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.0646
+    }
+  ]
+}

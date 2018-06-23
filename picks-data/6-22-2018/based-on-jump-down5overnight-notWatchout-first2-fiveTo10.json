@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PTIE",
+      "price": 6.82
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.1318
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PTIE",
+      "price": 6.99
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PTIE",
+      "price": 7.089
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTIE",
+      "price": 6.9601
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    }
+  ]
+}

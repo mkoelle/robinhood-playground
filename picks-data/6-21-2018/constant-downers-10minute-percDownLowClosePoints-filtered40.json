@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "XELB",
+      "price": 2.2
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.387
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4521
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FUV",
+      "price": 4.05
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.3025
+    },
+    {
+      "ticker": "LEDS",
+      "price": 3.41
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FUV",
+      "price": 4.04
+    },
+    {
+      "ticker": "IBIO",
+      "price": 0.9601
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.52
+    }
+  ]
+}

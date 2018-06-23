@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEVO",
+      "price": 9.9
+    },
+    {
+      "ticker": "CDZI",
+      "price": 12.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTRA",
+      "price": 14.32
+    },
+    {
+      "ticker": "SBLK",
+      "price": 14.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDRY",
+      "price": 9.3806
+    },
+    {
+      "ticker": "NTRA",
+      "price": 14.9341
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAST",
+      "price": 14.325
+    },
+    {
+      "ticker": "ARL",
+      "price": 14.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAST",
+      "price": 14.425
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.3801
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARL",
+      "price": 14.89
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAST",
+      "price": 14.85
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.67
+    }
+  ]
+}

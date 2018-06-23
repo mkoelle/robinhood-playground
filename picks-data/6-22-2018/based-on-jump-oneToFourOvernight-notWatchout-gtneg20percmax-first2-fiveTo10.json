@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KOS",
+      "price": 8.21
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOS",
+      "price": 8.23
+    },
+    {
+      "ticker": "CHK",
+      "price": 5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.18
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.195
+    }
+  ]
+}

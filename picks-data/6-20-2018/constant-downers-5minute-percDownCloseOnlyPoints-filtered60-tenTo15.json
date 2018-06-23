@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SUPV",
+      "price": 13.91
+    },
+    {
+      "ticker": "TLYS",
+      "price": 14.69
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.9
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SUPV",
+      "price": 13.94
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.75
+    },
+    {
+      "ticker": "BLFS",
+      "price": 13.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BLFS",
+      "price": 12.85
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.92
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.69
+    }
+  ]
+}

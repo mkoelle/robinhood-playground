@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 4.45
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.2176
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 4.4
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.1938
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 4.568
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.197
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 4.7
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.22
+    }
+  ]
+}

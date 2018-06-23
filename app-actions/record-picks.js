@@ -61,19 +61,20 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
     const enableCount = strategiesEnabled.filter(strat => strat === stratMin).length;
     if (enableCount) {
         console.log('strategy enabled: ', stratMin, 'purchasing');
-
         const stocksToBuy = withPrices.map(obj => obj.ticker);
-        await purchaseStocks(Robinhood, {
-            stocksToBuy,
-            strategy,
-            multiplier: enableCount,
-            min
-        });
+        if (stocksToBuy.length) {
+            await purchaseStocks(Robinhood, {
+                stocksToBuy,
+                strategy,
+                multiplier: enableCount,
+                min
+            });
+            tweeter.tweet(`BUY ${withPrices.map(({ ticker, price }) => `#${ticker} @ $${price}`).join(' and ')} - ${stratMin}`);
+        }
         await sendEmail(
             `robinhood-playground: ${stratMin}`,
             JSON.stringify(withPrices, null, 2)
         );
-        tweeter.tweet(`${stratMin}: ${withPrices.map(({ ticker, price }) => `#${s} @ $${price}`).join(' | ')}`);
     }
 
     // for email

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VII",
+      "price": 0.3279
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.2399
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4372
+    }
+  ],
+  "242": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2296
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4204
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.35
+    }
+  ],
+  "309": [
+    {
+      "ticker": "APRI",
+      "price": 0.4145
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.4499
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.04
+    }
+  ]
+}

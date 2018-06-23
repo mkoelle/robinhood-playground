@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPI",
+      "price": 9
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.1818
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPI",
+      "price": 9.02
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.161
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPI",
+      "price": 9.03
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.2843
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPI",
+      "price": 9.11
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.24
+    }
+  ]
+}

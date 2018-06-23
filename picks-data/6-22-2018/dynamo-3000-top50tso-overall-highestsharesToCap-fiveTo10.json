@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WSCI",
+      "price": 5.4
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PES",
+      "price": 5.095
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2647
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PES",
+      "price": 5.15
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2292
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 5.1962
+    },
+    {
+      "ticker": "PES",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.1651
+    },
+    {
+      "ticker": "PES",
+      "price": 5.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "PES",
+      "price": 5.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "PES",
+      "price": 5.2
+    }
+  ]
+}

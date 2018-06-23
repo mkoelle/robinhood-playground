@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "SAN",
+      "price": 5.5238
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.3848
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.3434
+    },
+    {
+      "ticker": "BBVA",
+      "price": 6.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QD",
+      "price": 9.81
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.535
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.5236
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QD",
+      "price": 9.736
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.535
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.459
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.03
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.2843
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QD",
+      "price": 9.8
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.445
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.535
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.47
+    },
+    {
+      "ticker": "NE",
+      "price": 5.399
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 3.3947
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.6645
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 3.41
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.8401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.555
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 3.585
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 3.65
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 3.595
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 3.6047
+    },
+    {
+      "ticker": "NEPT",
+      "price": 4.29
+    }
+  ]
+}

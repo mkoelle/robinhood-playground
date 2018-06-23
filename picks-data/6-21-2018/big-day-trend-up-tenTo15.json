@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "IMGN",
+      "price": 11.48
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CMT",
+      "price": 14.93
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.52
+    }
+  ],
+  "90": [
+    {
+      "ticker": "JKS",
+      "price": 13.89
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.52
+    }
+  ],
+  "223": [
+    {
+      "ticker": "JKS",
+      "price": 14.15
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.3
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 12.58
+    }
+  ]
+}

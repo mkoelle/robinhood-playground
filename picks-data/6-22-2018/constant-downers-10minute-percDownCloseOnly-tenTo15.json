@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRTK",
+      "price": 10.75
+    },
+    {
+      "ticker": "LMST",
+      "price": 14.33
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.3233
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NAII",
+      "price": 10.3642
+    },
+    {
+      "ticker": "HMG",
+      "price": 13.5185
+    },
+    {
+      "ticker": "LMST",
+      "price": 14.3
+    }
+  ],
+  "309": [
+    {
+      "ticker": "JAX",
+      "price": 11.75
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.3642
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.5001
+    }
+  ]
+}

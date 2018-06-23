@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "SLS",
+      "price": 5.015
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.4001
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SLS",
+      "price": 5.0499
+    },
+    {
+      "ticker": "BNED",
+      "price": 7.43
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BNED",
+      "price": 7.6966
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.2982
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BNED",
+      "price": 7.79
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.15
+    }
+  ]
+}

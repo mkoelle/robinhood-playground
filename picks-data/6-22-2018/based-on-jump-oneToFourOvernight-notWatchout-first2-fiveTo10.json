@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SWN",
+      "price": 5.495
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WSCI",
+      "price": 5.4
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.2647
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LFGR",
+      "price": 10.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LFGR",
+      "price": 10.775
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LFGR",
+      "price": 10.65
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CMCT",
+      "price": 14.35
+    },
+    {
+      "ticker": "LFGR",
+      "price": 10.65
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SWN",
+      "price": 5.495
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "FTR",
+      "price": 6.7602
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SWN",
+      "price": 5.41
+    },
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SWN",
+      "price": 5.455
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.18
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SWN",
+      "price": 5.47
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.195
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    }
+  ]
+}

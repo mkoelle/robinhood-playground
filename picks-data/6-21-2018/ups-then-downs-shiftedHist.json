@@ -1,0 +1,46 @@
+{
+  "10": [
+    {
+      "ticker": "CVM",
+      "price": 3.3535
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CVM",
+      "price": 3.3495
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVM",
+      "price": 3.37
+    },
+    {
+      "ticker": "AQMS",
+      "price": 3.35
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AQMS",
+      "price": 3.475
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AQMS",
+      "price": 3.45
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AQMS",
+      "price": 3.46
+    }
+  ]
+}

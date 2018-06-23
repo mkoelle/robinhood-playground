@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MBTF",
+      "price": 10.6
+    },
+    {
+      "ticker": "UIS",
+      "price": 13.525
+    },
+    {
+      "ticker": "NCSM",
+      "price": 12.79
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EEI",
+      "price": 12.3
+    },
+    {
+      "ticker": "BRID",
+      "price": 13.7
+    },
+    {
+      "ticker": "BBF",
+      "price": 13.01
+    }
+  ],
+  "309": [
+    {
+      "ticker": "WSTG",
+      "price": 13.9
+    },
+    {
+      "ticker": "CVU",
+      "price": 11.15
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.3
+    }
+  ]
+}

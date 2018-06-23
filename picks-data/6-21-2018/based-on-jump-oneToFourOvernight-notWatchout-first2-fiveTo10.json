@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNE",
+      "price": 5.2199
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNE",
+      "price": 5.2199
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNE",
+      "price": 5.09
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNE",
+      "price": 5.075
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.58
+    }
+  ]
+}

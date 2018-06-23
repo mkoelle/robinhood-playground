@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NK",
+      "price": 2.9
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NK",
+      "price": 2.88
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.239
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NK",
+      "price": 2.88
+    },
+    {
+      "ticker": "AST",
+      "price": 1.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NK",
+      "price": 2.77
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8
+    }
+  ]
+}

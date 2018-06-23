@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEVO",
+      "price": 9.9
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DF",
+      "price": 10.395
+    },
+    {
+      "ticker": "SA",
+      "price": 11.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JMBA",
+      "price": 10.79
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.46
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DF",
+      "price": 10.525
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DF",
+      "price": 10.465
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDOR",
+      "price": 10.35
+    },
+    {
+      "ticker": "DF",
+      "price": 10.565
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REI",
+      "price": 12.4001
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MPO",
+      "price": 13.08
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MPO",
+      "price": 13.17
+    },
+    {
+      "ticker": "REI",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MPO",
+      "price": 13.24
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.74
+    }
+  ]
+}

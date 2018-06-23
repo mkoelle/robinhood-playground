@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JTPY",
+      "price": 2
+    },
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JTPY",
+      "price": 2
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.835
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JTPY",
+      "price": 2
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.629
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JTPY",
+      "price": 2
+    },
+    {
+      "ticker": "YGE",
+      "price": 1.629
+    }
+  ]
+}

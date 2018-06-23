@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3399
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WFT",
+      "price": 3.3225
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3339
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WFT",
+      "price": 3.36
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3223
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WFT",
+      "price": 3.34
+    },
+    {
+      "ticker": "HK",
+      "price": 4.13
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.3302
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.84
+    }
+  ]
+}

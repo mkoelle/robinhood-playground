@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IDSA",
+      "price": 2.04
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.05
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IDSA",
+      "price": 2
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDSA",
+      "price": 1.96
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.3682
+    }
+  ]
+}

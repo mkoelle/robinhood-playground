@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 6.29
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.21
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 6.18
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 6.212
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.2401
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MOTS",
+      "price": 6.2
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.255
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.62
+    }
+  ]
+}

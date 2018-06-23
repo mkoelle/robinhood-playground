@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CRON",
+      "price": 7.2685
+    },
+    {
+      "ticker": "CX",
+      "price": 6.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRON",
+      "price": 7.5199
+    },
+    {
+      "ticker": "CX",
+      "price": 6.465
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.985
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRON",
+      "price": 7.535
+    },
+    {
+      "ticker": "CX",
+      "price": 6.375
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XBIO",
+      "price": 5.5999
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.51
+    },
+    {
+      "ticker": "CX",
+      "price": 6.29
+    }
+  ]
+}

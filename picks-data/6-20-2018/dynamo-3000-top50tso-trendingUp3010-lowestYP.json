@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1601
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.239
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIFE",
+      "price": 1.119
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDGE",
+      "price": 1.13
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIFE",
+      "price": 1.1385
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIFE",
+      "price": 1.1885
+    },
+    {
+      "ticker": "SNES",
+      "price": 2.0527
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIFE",
+      "price": 1.27
+    },
+    {
+      "ticker": "SNES",
+      "price": 2.07
+    }
+  ]
+}

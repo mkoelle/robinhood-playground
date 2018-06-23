@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEVO",
+      "price": 9.9
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRK",
+      "price": 10.0813
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRK",
+      "price": 10.24
+    },
+    {
+      "ticker": "AFH",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRK",
+      "price": 10.07
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRK",
+      "price": 10.055
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.0933
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 10.05
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.4305
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRK",
+      "price": 10.0101
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.09
+    }
+  ]
+}

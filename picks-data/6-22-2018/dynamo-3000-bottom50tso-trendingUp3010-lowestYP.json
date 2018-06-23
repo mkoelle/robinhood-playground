@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALT",
+      "price": 0.6112
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DARE",
+      "price": 1.27
+    },
+    {
+      "ticker": "FCSC",
+      "price": 2.97
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDGE",
+      "price": 1.0645
+    },
+    {
+      "ticker": "VSAR",
+      "price": 2.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OGEN",
+      "price": 1.5361
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OGEN",
+      "price": 1.55
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.9071
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OGEN",
+      "price": 1.5639
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.5809
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OGEN",
+      "price": 1.5598
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.5878
+    }
+  ]
+}

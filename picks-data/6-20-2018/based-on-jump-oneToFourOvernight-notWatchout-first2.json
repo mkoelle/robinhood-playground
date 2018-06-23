@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NK",
+      "price": 2.9
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.9973
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WYY",
+      "price": 0.5304
+    },
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    }
+  ]
+}

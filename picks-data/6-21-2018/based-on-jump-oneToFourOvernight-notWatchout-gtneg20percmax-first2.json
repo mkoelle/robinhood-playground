@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0957
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4101
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.088
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4101
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0799
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4099
+    }
+  ]
+}

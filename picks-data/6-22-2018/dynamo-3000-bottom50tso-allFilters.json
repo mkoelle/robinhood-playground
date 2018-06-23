@@ -1,0 +1,96 @@
+{
+  "4": [
+    {
+      "ticker": "IMI",
+      "price": 1.56
+    },
+    {
+      "ticker": "SLNO",
+      "price": 3.135
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SLNO",
+      "price": 2.94
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.64
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.001
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SLNO",
+      "price": 2.8725
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.7901
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SLNO",
+      "price": 2.9416
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.61
+    },
+    {
+      "ticker": "ZOM",
+      "price": 1.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SLNO",
+      "price": 2.76
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.685
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SLNO",
+      "price": 2.86
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.725
+    },
+    {
+      "ticker": "NNA",
+      "price": 0.672
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SLNO",
+      "price": 3.06
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.76
+    },
+    {
+      "ticker": "NNA",
+      "price": 0.6734
+    }
+  ]
+}

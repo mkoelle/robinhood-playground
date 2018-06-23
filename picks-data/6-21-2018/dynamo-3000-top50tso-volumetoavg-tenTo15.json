@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GRBK",
+      "price": 10.4
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.559
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HALL",
+      "price": 10.35
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 12.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PEI",
+      "price": 11.61
+    },
+    {
+      "ticker": "SFE",
+      "price": 13.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PGAL",
+      "price": 12.52
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOCO",
+      "price": 11.2
+    },
+    {
+      "ticker": "SLCT",
+      "price": 13.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CZWI",
+      "price": 13.59
+    },
+    {
+      "ticker": "FLEX",
+      "price": 14.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCUT",
+      "price": 12.05
+    },
+    {
+      "ticker": "XCRA",
+      "price": 14.22
+    }
+  ]
+}

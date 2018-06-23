@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.225
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.48
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 6.42
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    },
+    {
+      "ticker": "MLNT",
+      "price": 8.375
+    }
+  ]
+}

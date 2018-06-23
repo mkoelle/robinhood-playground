@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ADMA",
+      "price": 5.045
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.095
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIO",
+      "price": 6.35
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.035
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XBIO",
+      "price": 5.5
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XBIO",
+      "price": 5.89
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 6.1236
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DHCP",
+      "price": 5.58
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DHCP",
+      "price": 5.4471
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.96
+    }
+  ]
+}

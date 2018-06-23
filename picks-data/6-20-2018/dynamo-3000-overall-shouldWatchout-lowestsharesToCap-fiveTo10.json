@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EEP",
+      "price": 9.9809
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOOP",
+      "price": 10.4999
+    },
+    {
+      "ticker": "DF",
+      "price": 9.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HABT",
+      "price": 9.895
+    },
+    {
+      "ticker": "AFH",
+      "price": 9.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 9.9
+    },
+    {
+      "ticker": "AFH",
+      "price": 9.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 9.64
+    },
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    },
+    {
+      "ticker": "AFH",
+      "price": 9.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10.05
+    },
+    {
+      "ticker": "INNT",
+      "price": 9.98
+    }
+  ]
+}

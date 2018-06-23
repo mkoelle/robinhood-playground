@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 4.1
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.5901
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 4.1
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6248
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 4.4
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6308
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.925
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 4.4
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6299
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.9525
+    }
+  ]
+}

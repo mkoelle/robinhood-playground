@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRYS",
+      "price": 5.7162
+    },
+    {
+      "ticker": "ABIL",
+      "price": 5.3493
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HZN",
+      "price": 6.5
+    },
+    {
+      "ticker": "RARX",
+      "price": 8.9201
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HZN",
+      "price": 6.4
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.0489
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DWT",
+      "price": 7.87
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.7352
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DWT",
+      "price": 7.7701
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DWT",
+      "price": 7.72
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.5832
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWT",
+      "price": 7.62
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.411
+    }
+  ]
+}

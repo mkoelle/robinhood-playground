@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVGS",
+      "price": 12.15
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.5893
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVGS",
+      "price": 12.4234
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVGS",
+      "price": 12.55
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVGS",
+      "price": 12.3715
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    }
+  ]
+}

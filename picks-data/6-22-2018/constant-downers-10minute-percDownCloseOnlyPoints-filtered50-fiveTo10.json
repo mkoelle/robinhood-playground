@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ENZ",
+      "price": 5.25
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.01
+    },
+    {
+      "ticker": "HBP",
+      "price": 5.08
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SIEB",
+      "price": 8.77
+    },
+    {
+      "ticker": "TORC",
+      "price": 9.501
+    },
+    {
+      "ticker": "IDSY",
+      "price": 6.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MTEM",
+      "price": 5.41
+    },
+    {
+      "ticker": "SIEB",
+      "price": 8.65
+    },
+    {
+      "ticker": "HX",
+      "price": 8.87
+    }
+  ]
+}

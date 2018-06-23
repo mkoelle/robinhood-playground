@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IRIX",
+      "price": 6.76
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.064
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IRIX",
+      "price": 6.76
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IRIX",
+      "price": 6.76
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPL",
+      "price": 8.415
+    },
+    {
+      "ticker": "IRIX",
+      "price": 6.5
+    }
+  ]
+}

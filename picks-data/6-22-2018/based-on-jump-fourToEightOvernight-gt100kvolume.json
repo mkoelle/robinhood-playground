@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "INPX",
+      "price": 0.3
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INPX",
+      "price": 0.2901
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.74
+    },
+    {
+      "ticker": "SN",
+      "price": 4.25
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.405
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INPX",
+      "price": 0.2731
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.305
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.7693
+    },
+    {
+      "ticker": "SN",
+      "price": 4.3236
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INPX",
+      "price": 0.2613
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.245
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.7313
+    },
+    {
+      "ticker": "SN",
+      "price": 4.33
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.4098
+    }
+  ]
+}

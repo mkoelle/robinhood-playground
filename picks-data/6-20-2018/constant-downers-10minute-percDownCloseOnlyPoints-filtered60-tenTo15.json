@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SUPV",
+      "price": 13.91
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.7
+    },
+    {
+      "ticker": "NSSC",
+      "price": 14.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NSSC",
+      "price": 14.15
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.525
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.565
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NDLS",
+      "price": 11.45
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.4
+    },
+    {
+      "ticker": "NSSC",
+      "price": 14.3
+    }
+  ]
+}

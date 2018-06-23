@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TOPS",
+      "price": 1.1066
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.41
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TOPS",
+      "price": 1.0846
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.4236
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGY",
+      "price": 2.647
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.7059
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGY",
+      "price": 2.616
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6901
+    }
+  ]
+}

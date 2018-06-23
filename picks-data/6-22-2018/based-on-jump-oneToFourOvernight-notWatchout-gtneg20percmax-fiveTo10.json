@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "KOS",
+      "price": 8.21
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.8
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.62
+    },
+    {
+      "ticker": "GREK",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOS",
+      "price": 8.23
+    },
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.775
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.61
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.18
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1818
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.8
+    },
+    {
+      "ticker": "CVE",
+      "price": 9.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.195
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1818
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.825
+    }
+  ]
+}

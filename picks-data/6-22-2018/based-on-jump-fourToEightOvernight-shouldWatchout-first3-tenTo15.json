@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 13.65
+    },
+    {
+      "ticker": "FET",
+      "price": 12.1
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.8599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 13.55
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.1894
+    },
+    {
+      "ticker": "FET",
+      "price": 12.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OAS",
+      "price": 13.54
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.195
+    },
+    {
+      "ticker": "FET",
+      "price": 12.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OAS",
+      "price": 13.651
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.128
+    },
+    {
+      "ticker": "FET",
+      "price": 12.1
+    }
+  ]
+}

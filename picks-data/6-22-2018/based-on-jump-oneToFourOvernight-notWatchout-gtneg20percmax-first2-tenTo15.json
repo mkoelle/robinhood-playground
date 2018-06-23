@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ECA",
+      "price": 12.69
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.151
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ECA",
+      "price": 12.67
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ECA",
+      "price": 12.665
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ECA",
+      "price": 12.74
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.245
+    }
+  ]
+}

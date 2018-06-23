@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APRI",
+      "price": 0.4598
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APRI",
+      "price": 0.4501
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.205
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSAR",
+      "price": 2.275
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4451
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DCIX",
+      "price": 1.619
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSAR",
+      "price": 2.2765
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSAR",
+      "price": 2.2
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4501
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSAR",
+      "price": 2.225
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4492
+    }
+  ]
+}

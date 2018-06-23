@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPI",
+      "price": 9
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.1818
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OVID",
+      "price": 8.36
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OVID",
+      "price": 8.36
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.03
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OVID",
+      "price": 8.52
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.11
+    }
+  ]
+}

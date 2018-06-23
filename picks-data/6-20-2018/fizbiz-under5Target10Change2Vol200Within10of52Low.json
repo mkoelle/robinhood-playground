@@ -1,0 +1,40 @@
+{
+  "120": [
+    {
+      "ticker": "IDRA",
+      "price": 1.5547
+    },
+    {
+      "ticker": "ACHN",
+      "price": 2.94
+    }
+  ],
+  "180": [
+    {
+      "ticker": "IDRA",
+      "price": 1.555
+    },
+    {
+      "ticker": "ACHN",
+      "price": 2.95
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ZIOP",
+      "price": 3.6299
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.055
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.545
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.57
+    }
+  ]
+}

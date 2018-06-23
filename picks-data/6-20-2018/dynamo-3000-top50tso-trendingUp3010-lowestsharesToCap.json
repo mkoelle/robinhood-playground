@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XBIT",
+      "price": 4.49
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RVLT",
+      "price": 4.51
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RVLT",
+      "price": 4.4943
+    },
+    {
+      "ticker": "CADC",
+      "price": 4.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RVLT",
+      "price": 4.63
+    },
+    {
+      "ticker": "CADC",
+      "price": 4.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPK",
+      "price": 4.6
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.61
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPK",
+      "price": 4.87
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVC",
+      "price": 4.875
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.81
+    }
+  ]
+}

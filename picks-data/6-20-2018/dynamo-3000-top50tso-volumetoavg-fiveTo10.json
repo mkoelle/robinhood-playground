@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KERX",
+      "price": 5.25
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.5748
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASC",
+      "price": 8.025
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.1332
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIOT",
+      "price": 7.3425
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DWT",
+      "price": 9.2601
+    },
+    {
+      "ticker": "DS",
+      "price": 7.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EURN",
+      "price": 9.7
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SND",
+      "price": 6.12
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ONDK",
+      "price": 7.61
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.4
+    }
+  ]
+}

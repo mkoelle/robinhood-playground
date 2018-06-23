@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACST",
+      "price": 0.7622
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.4654
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TNK",
+      "price": 1.29
+    },
+    {
+      "ticker": "EVK",
+      "price": 3.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLSN",
+      "price": 3.24
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BPTH",
+      "price": 1.6268
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DAG",
+      "price": 2.41
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASCMA",
+      "price": 2.59
+    },
+    {
+      "ticker": "MIND",
+      "price": 4.17
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JOB",
+      "price": 2.2221
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.3
+    }
+  ]
+}

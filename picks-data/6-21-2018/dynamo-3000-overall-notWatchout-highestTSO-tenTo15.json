@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ROAD",
+      "price": 13.7199
+    },
+    {
+      "ticker": "CZWI",
+      "price": 13.4229
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMT",
+      "price": 14.56
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.575
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNI",
+      "price": 9.56
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.0498
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JKS",
+      "price": 14.1038
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.2438
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JKS",
+      "price": 14.14
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIIX",
+      "price": 14.48
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIIX",
+      "price": 14.4272
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.12
+    }
+  ]
+}

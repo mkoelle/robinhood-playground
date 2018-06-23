@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXG",
+      "price": 9.4615
+    },
+    {
+      "ticker": "OVID",
+      "price": 8.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OR",
+      "price": 9.16
+    },
+    {
+      "ticker": "AMSC",
+      "price": 7.1001
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RBS",
+      "price": 6.88
+    },
+    {
+      "ticker": "GMRE",
+      "price": 9.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXTR",
+      "price": 8.7118
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.485
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PSLV",
+      "price": 5.9447
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHLO",
+      "price": 9.145
+    },
+    {
+      "ticker": "ELMD",
+      "price": 5.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCRD",
+      "price": 7.9
+    },
+    {
+      "ticker": "ONCY",
+      "price": 5.84
+    }
+  ]
+}

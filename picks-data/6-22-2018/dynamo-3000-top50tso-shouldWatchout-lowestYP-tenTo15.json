@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 10.67
+    },
+    {
+      "ticker": "INNT",
+      "price": 10.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 11.54
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 11.3748
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 11.59
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 11.865
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.4657
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INNT",
+      "price": 11.525
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INNT",
+      "price": 13.26
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.9
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.19
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.3
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.23
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.38
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPRT",
+      "price": 2.945
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.25
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.39
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPRT",
+      "price": 2.97
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.245
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.37
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.78
+    }
+  ]
+}

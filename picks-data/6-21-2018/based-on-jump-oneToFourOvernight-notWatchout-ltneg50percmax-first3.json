@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.74
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.7462
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.7248
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.828
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.62
+    }
+  ]
+}

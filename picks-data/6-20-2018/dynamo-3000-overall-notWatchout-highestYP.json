@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APTO",
+      "price": 4.35
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.7852
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APTO",
+      "price": 4.4
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.8074
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APTO",
+      "price": 4.32
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.36
+    },
+    {
+      "ticker": "APTO",
+      "price": 4.214
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.43
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.8508
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.4615
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.845
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 4.58
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.905
+    }
+  ]
+}

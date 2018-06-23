@@ -1,0 +1,59 @@
+{
+  "4": [
+    {
+      "ticker": "EEP",
+      "price": 10.0032
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.819
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INOV",
+      "price": 10.025
+    },
+    {
+      "ticker": "DF",
+      "price": 10.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XNET",
+      "price": 12.87
+    },
+    {
+      "ticker": "CDZI",
+      "price": 13.35
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "BRS",
+      "price": 13.52
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABCD",
+      "price": 10.89
+    },
+    {
+      "ticker": "DBD",
+      "price": 13.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSTG",
+      "price": 14.3
+    }
+  ]
+}

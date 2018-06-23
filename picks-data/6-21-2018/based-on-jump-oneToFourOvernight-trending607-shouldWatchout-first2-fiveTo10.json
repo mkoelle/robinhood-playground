@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CAMT",
+      "price": 7.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SFS",
+      "price": 5.3
+    },
+    {
+      "ticker": "CAMT",
+      "price": 7.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SFS",
+      "price": 5.25
+    },
+    {
+      "ticker": "RNGR",
+      "price": 8.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SFS",
+      "price": 5.175
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.77
+    }
+  ]
+}

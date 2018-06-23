@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CERS",
+      "price": 7.08
+    },
+    {
+      "ticker": "DS",
+      "price": 7.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IEC",
+      "price": 6.3399
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.837
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSBR",
+      "price": 6.6924
+    },
+    {
+      "ticker": "TXMD",
+      "price": 7.105
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EAST",
+      "price": 8.94
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.005
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHK",
+      "price": 5.055
+    },
+    {
+      "ticker": "CMCL",
+      "price": 8.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTI",
+      "price": 7.065
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PGNX",
+      "price": 8.475
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.835
+    }
+  ]
+}

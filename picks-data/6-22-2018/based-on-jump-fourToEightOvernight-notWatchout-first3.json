@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IDSA",
+      "price": 2.04
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.37
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.05
+    },
+    {
+      "ticker": "IDSA",
+      "price": 2
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.389
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IDSA",
+      "price": 2
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.32
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.2499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDSA",
+      "price": 1.96
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.3682
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.22
+    }
+  ]
+}

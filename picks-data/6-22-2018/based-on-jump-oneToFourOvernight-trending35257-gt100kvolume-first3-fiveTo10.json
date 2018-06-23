@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.9799
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RESN",
+      "price": 6.22
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.88
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.7348
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    },
+    {
+      "ticker": "RESN",
+      "price": 6.2
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.875
+    }
+  ]
+}

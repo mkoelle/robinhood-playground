@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 7.0628
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.51
+    },
+    {
+      "ticker": "SENS",
+      "price": 5.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NE",
+      "price": 5.595
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.07
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NE",
+      "price": 5.545
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.1701
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NE",
+      "price": 5.645
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.21
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.16
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.569
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 6.57
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.5195
+    }
+  ]
+}

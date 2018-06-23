@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MBTF",
+      "price": 10.6
+    },
+    {
+      "ticker": "PAK",
+      "price": 11.2
+    },
+    {
+      "ticker": "LFGR",
+      "price": 10.55
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MLP",
+      "price": 11.45
+    },
+    {
+      "ticker": "BRID",
+      "price": 13.7
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.94
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HILO",
+      "price": 14.2785
+    },
+    {
+      "ticker": "BRID",
+      "price": 13.7
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.55
+    }
+  ]
+}

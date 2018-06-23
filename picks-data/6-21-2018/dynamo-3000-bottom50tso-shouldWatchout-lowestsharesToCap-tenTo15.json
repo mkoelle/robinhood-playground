@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 15.25
+    },
+    {
+      "ticker": "TGTX",
+      "price": 14.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMTA",
+      "price": 14.95
+    },
+    {
+      "ticker": "PRTA",
+      "price": 15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVA",
+      "price": 14.83
+    },
+    {
+      "ticker": "DDD",
+      "price": 14.739
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.9
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLYC",
+      "price": 14.92
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.5902
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.519
+    },
+    {
+      "ticker": "GLYC",
+      "price": 14.955
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.42
+    },
+    {
+      "ticker": "GLYC",
+      "price": 14.9
+    }
+  ]
+}

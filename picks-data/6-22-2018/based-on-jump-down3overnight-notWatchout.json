@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.42
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4352
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.448
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4311
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1367
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.4215
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.435
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.427
+    },
+    {
+      "ticker": "FFHL",
+      "price": 2.89
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.44
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.1
+    },
+    {
+      "ticker": "ISSC",
+      "price": 2.92
+    }
+  ]
+}

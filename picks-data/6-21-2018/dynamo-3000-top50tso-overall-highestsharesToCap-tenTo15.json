@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMBR",
+      "price": 10.01
+    },
+    {
+      "ticker": "QD",
+      "price": 10.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    },
+    {
+      "ticker": "IMH",
+      "price": 10.2762
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DZSI",
+      "price": 10.1
+    },
+    {
+      "ticker": "HABT",
+      "price": 10
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    },
+    {
+      "ticker": "IMH",
+      "price": 10.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 10.2
+    },
+    {
+      "ticker": "IMH",
+      "price": 10.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 10.55
+    },
+    {
+      "ticker": "IMH",
+      "price": 10.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVIX",
+      "price": 10.32
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.6
+    }
+  ]
+}

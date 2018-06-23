@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 7.9
+    },
+    {
+      "ticker": "ASC",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 7.71
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.8948
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 7.8599
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 8.024
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.9715
+    }
+  ]
+}

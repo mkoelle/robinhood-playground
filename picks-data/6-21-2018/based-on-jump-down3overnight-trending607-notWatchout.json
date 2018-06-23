@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATLC",
+      "price": 1.9
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.661
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATLC",
+      "price": 2
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7099
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATLC",
+      "price": 2
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.575
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.661
+    }
+  ]
+}

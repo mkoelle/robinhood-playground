@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RVLT",
+      "price": 4.43
+    },
+    {
+      "ticker": "ADMP",
+      "price": 3.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MEIP",
+      "price": 4.75
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MEIP",
+      "price": 4.75
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.4943
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AGTC",
+      "price": 4.65
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPK",
+      "price": 4.6
+    },
+    {
+      "ticker": "AGTC",
+      "price": 4.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPK",
+      "price": 4.87
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVC",
+      "price": 4.875
+    },
+    {
+      "ticker": "OPK",
+      "price": 4.81
+    }
+  ]
+}

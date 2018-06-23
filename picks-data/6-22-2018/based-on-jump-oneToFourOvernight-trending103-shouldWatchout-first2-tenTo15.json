@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARWR",
+      "price": 13.25
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGVC",
+      "price": 12.505
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARWR",
+      "price": 13.05
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.5075
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARWR",
+      "price": 13.0516
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.5252
+    }
+  ]
+}

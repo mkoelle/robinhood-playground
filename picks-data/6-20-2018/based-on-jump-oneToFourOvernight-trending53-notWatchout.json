@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "SPRT",
+      "price": 2.9973
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0659
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.785
+    },
+    {
+      "ticker": "APWC",
+      "price": 2.64
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3248
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.95
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.329
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.96
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.04
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.329
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.96
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0731
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.493
+    }
+  ]
+}

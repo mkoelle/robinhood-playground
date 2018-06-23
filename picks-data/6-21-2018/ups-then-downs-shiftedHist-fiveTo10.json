@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "KONE",
+      "price": 9.1019
+    }
+  ],
+  "50": [
+    {
+      "ticker": "KONE",
+      "price": 9.1019
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KONE",
+      "price": 8.825
+    }
+  ],
+  "300": [
+    {
+      "ticker": "KONE",
+      "price": 8.7183
+    }
+  ],
+  "380": [
+    {
+      "ticker": "KONE",
+      "price": 8.5
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MCF",
+      "price": 5.74
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.64
+    }
+  ]
+}

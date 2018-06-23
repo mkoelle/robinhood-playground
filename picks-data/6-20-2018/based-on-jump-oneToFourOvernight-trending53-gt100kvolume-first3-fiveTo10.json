@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SWN",
+      "price": 5.3848
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.3434
+    },
+    {
+      "ticker": "BBVA",
+      "price": 6.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 7.5236
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.095
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 7.459
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.03
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.2843
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 7.47
+    },
+    {
+      "ticker": "NE",
+      "price": 5.399
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.11
+    }
+  ]
+}

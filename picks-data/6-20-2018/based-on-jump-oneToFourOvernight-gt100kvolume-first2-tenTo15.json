@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ITUB",
+      "price": 10.75
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ITUB",
+      "price": 10.7
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.4179
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ITUB",
+      "price": 10.715
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.454
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ITUB",
+      "price": 10.7901
+    },
+    {
+      "ticker": "JKS",
+      "price": 12.706
+    }
+  ]
+}

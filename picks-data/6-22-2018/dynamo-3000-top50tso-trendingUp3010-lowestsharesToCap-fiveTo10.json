@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 9.6975
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WOW",
+      "price": 9.9444
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.735
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WOW",
+      "price": 10
+    },
+    {
+      "ticker": "INS",
+      "price": 9.5201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WOW",
+      "price": 9.96
+    },
+    {
+      "ticker": "INS",
+      "price": 9.823
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 9.795
+    },
+    {
+      "ticker": "AMSC",
+      "price": 7.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INS",
+      "price": 9.8
+    },
+    {
+      "ticker": "FRAN",
+      "price": 7.995
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INS",
+      "price": 9.7621
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.59
+    }
+  ]
+}

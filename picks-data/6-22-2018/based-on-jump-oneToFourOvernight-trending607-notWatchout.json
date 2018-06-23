@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.19
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.3
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNP",
+      "price": 3.7701
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.23
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.945
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.25
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QRHC",
+      "price": 1.95
+    },
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 2.97
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.245
+    }
+  ]
+}

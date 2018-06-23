@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLG",
+      "price": 0.0999
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTBC",
+      "price": 3.3038
+    },
+    {
+      "ticker": "TTI",
+      "price": 4.435
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRN",
+      "price": 1.7287
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CORV",
+      "price": 3.6693
+    },
+    {
+      "ticker": "VGZ",
+      "price": 0.688
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMR",
+      "price": 4.8707
+    },
+    {
+      "ticker": "NG",
+      "price": 4.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLUG",
+      "price": 2
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.5648
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMMA",
+      "price": 0.3301
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.9031
+    }
+  ]
+}

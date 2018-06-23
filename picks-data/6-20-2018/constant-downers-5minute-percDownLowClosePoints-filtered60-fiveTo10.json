@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MARK",
+      "price": 5.06
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.43
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.56
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PFNX",
+      "price": 5.21
+    },
+    {
+      "ticker": "MARK",
+      "price": 5.02
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.305
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SRNE",
+      "price": 6.725
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.29
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.2649
+    }
+  ]
+}

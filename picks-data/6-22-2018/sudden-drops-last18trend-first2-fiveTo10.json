@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "SIEB",
+      "price": 8.82
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.28
+    }
+  ],
+  "280": [
+    {
+      "ticker": "DXR",
+      "price": 6.46
+    },
+    {
+      "ticker": "TLF",
+      "price": 7.6
+    }
+  ],
+  "328": [
+    {
+      "ticker": "CADC",
+      "price": 6.35
+    },
+    {
+      "ticker": "RARX",
+      "price": 8.84
+    }
+  ],
+  "388": [
+    {
+      "ticker": "VSI",
+      "price": 7.15
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.85
+    }
+  ]
+}

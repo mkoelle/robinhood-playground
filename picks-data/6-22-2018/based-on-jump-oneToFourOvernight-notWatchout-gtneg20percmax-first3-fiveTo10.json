@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KOS",
+      "price": 8.21
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KOS",
+      "price": 8.23
+    },
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "CLAR",
+      "price": 7.775
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.18
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.1818
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6654
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.195
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    }
+  ]
+}

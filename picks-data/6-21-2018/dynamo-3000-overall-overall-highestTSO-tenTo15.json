@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NES",
+      "price": 11.35
+    },
+    {
+      "ticker": "ROAD",
+      "price": 13.7199
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 10.525
+    },
+    {
+      "ticker": "NES",
+      "price": 11.7777
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KALA",
+      "price": 14.95
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 10.82
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.1038
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 10.75
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 11.13
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 10.99
+    },
+    {
+      "ticker": "OBSV",
+      "price": 14.97
+    }
+  ]
+}

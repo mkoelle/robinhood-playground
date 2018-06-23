@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAKD",
+      "price": 7.6552
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAKD",
+      "price": 7.6393
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAKD",
+      "price": 8
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 7.53
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.31
+    }
+  ]
+}

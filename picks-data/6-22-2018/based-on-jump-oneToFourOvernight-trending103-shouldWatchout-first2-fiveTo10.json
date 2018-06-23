@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.064
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.9355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.415
+    }
+  ]
+}

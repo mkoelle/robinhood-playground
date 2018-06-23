@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RAVE",
+      "price": 1.44
+    },
+    {
+      "ticker": "NURO",
+      "price": 1.343
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TNK",
+      "price": 1.29
+    },
+    {
+      "ticker": "DHT",
+      "price": 4.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DAG",
+      "price": 2.4
+    },
+    {
+      "ticker": "DHT",
+      "price": 4.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELSE",
+      "price": 4.1499
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.6172
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DAG",
+      "price": 2.41
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.6172
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UEC",
+      "price": 1.735
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MPVD",
+      "price": 2.4785
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7616
+    }
+  ]
+}

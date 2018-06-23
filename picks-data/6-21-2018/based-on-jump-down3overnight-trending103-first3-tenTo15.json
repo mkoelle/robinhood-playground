@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "AOBC",
+      "price": 11.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AOBC",
+      "price": 11.87
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.05
+    },
+    {
+      "ticker": "NES",
+      "price": 11.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AOBC",
+      "price": 12.6
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.225
+    },
+    {
+      "ticker": "NES",
+      "price": 11.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AOBC",
+      "price": 12.65
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.1
+    },
+    {
+      "ticker": "NES",
+      "price": 11.7777
+    }
+  ]
+}

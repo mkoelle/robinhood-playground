@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USO",
+      "price": 13.6434
+    },
+    {
+      "ticker": "BB",
+      "price": 11.1515
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ECA",
+      "price": 12.67
+    },
+    {
+      "ticker": "USO",
+      "price": 13.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ECA",
+      "price": 12.665
+    },
+    {
+      "ticker": "USO",
+      "price": 13.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ECA",
+      "price": 12.74
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.975
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "10": [
+    {
+      "ticker": "FUV",
+      "price": 3.77
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6248
+    }
+  ],
+  "50": [
+    {
+      "ticker": "FUV",
+      "price": 4.5
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.623
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.78
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FUV",
+      "price": 4.3748
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.7
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.76
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.13
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FUV",
+      "price": 4.3284
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.68
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.7
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.12
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FUV",
+      "price": 4.43
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6798
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.6925
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.1116
+    }
+  ],
+  "600": [
+    {
+      "ticker": "FUV",
+      "price": 4.48
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6925
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.71
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.1
+    }
+  ]
+}

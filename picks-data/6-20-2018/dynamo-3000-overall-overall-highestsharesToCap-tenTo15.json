@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "CLBS",
+      "price": 9.8798
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYBX",
+      "price": 10
+    },
+    {
+      "ticker": "AAC",
+      "price": 9.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 10.0275
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 10.25
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 10.17
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RARX",
+      "price": 10.15
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NETE",
+      "price": 7.96
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NETE",
+      "price": 7.9101
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRFS",
+      "price": 5.31
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTGX",
+      "price": 7.19
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.1508
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 9.64
+    },
+    {
+      "ticker": "PTGX",
+      "price": 7.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTGX",
+      "price": 7.12
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BRFS",
+      "price": 5.215
+    },
+    {
+      "ticker": "WIN",
+      "price": 6.925
+    }
+  ]
+}

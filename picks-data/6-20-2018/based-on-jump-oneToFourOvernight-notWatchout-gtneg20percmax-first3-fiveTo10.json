@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 6.29
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.8
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 6.18
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.6923
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 6.212
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.0402
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.6923
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MOTS",
+      "price": 6.2
+    },
+    {
+      "ticker": "JMLP",
+      "price": 8.0402
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.7
+    }
+  ]
+}

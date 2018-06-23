@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 10.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CDNA",
+      "price": 12.15
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.5999
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CDNA",
+      "price": 12.27
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.549
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CDNA",
+      "price": 11.25
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.545
+    }
+  ]
+}

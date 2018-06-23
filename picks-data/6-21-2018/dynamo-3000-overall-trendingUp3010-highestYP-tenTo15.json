@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 12.3671
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 13.28
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 13.1601
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 13.13
+    },
+    {
+      "ticker": "FATE",
+      "price": 13.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 13.05
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.165
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 13.305
+    },
+    {
+      "ticker": "FATE",
+      "price": 13.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 13.18
+    },
+    {
+      "ticker": "FATE",
+      "price": 13.08
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 10.4
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGTX",
+      "price": 13.775
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.97
+    }
+  ],
+  "100": [],
+  "200": [
+    {
+      "ticker": "OXFD",
+      "price": 14.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FLEX",
+      "price": 14.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QD",
+      "price": 10.12
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIVE",
+      "price": 12.79
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.595
+    }
+  ]
+}

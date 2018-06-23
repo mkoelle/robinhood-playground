@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CADC",
+      "price": 4.1
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLSN",
+      "price": 3.13
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.195
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASTC",
+      "price": 4.84
+    },
+    {
+      "ticker": "CVM",
+      "price": 3.3224
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASTC",
+      "price": 4.87
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.245
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASTC",
+      "price": 4.81
+    },
+    {
+      "ticker": "VIVE",
+      "price": 3.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASTC",
+      "price": 4.895
+    },
+    {
+      "ticker": "MARK",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASTC",
+      "price": 4.8703
+    },
+    {
+      "ticker": "MARK",
+      "price": 4.9101
+    }
+  ]
+}

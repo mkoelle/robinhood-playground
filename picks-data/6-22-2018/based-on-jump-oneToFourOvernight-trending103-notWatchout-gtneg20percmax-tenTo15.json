@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "NVGS",
+      "price": 13.075
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.8
+    },
+    {
+      "ticker": "EPRT",
+      "price": 13.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVGS",
+      "price": 12.8538
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    },
+    {
+      "ticker": "EPRT",
+      "price": 13.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVGS",
+      "price": 12.849
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.9093
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    },
+    {
+      "ticker": "EPRT",
+      "price": 13.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVGS",
+      "price": 12.9428
+    },
+    {
+      "ticker": "AMBR",
+      "price": 10
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.84
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.85
+    },
+    {
+      "ticker": "EPRT",
+      "price": 13.8
+    }
+  ]
+}

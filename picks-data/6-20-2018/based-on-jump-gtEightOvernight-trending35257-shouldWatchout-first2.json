@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBRX",
+      "price": 2.2499
+    },
+    {
+      "ticker": "ARTW",
+      "price": 3.2753
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBRX",
+      "price": 2.25
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBRX",
+      "price": 2.1285
+    },
+    {
+      "ticker": "ARTW",
+      "price": 3.086
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBRX",
+      "price": 2.2318
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.965
+    }
+  ]
+}

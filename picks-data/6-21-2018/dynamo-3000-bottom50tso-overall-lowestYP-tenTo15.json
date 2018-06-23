@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 15.25
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.9399
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 15
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 12.825
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.9
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.561
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPNT",
+      "price": 14.5902
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVXY",
+      "price": 13.32
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPNT",
+      "price": 14.6369
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.54
+    }
+  ]
+}

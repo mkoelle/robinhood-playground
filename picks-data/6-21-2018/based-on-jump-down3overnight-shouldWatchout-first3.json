@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NVIV",
+      "price": 1.93
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.89
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVIV",
+      "price": 1.945
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.88
+    },
+    {
+      "ticker": "FORD",
+      "price": 2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVIV",
+      "price": 1.93
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.86
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVIV",
+      "price": 1.94
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.8408
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.8767
+    }
+  ]
+}

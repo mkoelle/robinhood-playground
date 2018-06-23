@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 8.52
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.21
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 8.8522
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.52
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTAI",
+      "price": 8.9
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.52
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTAI",
+      "price": 9
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.68
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.22
+    }
+  ]
+}

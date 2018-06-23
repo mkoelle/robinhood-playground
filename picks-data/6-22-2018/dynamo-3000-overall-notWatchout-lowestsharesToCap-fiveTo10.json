@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GRBK",
+      "price": 9.125
+    },
+    {
+      "ticker": "VIAV",
+      "price": 9.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    },
+    {
+      "ticker": "IAE",
+      "price": 9.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 9.96
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 9.93
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TORC",
+      "price": 9.66
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TORC",
+      "price": 9.65
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 9.96
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.125
+    }
+  ]
+}

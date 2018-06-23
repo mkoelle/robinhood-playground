@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "FBZ",
+      "price": 11.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.1
+    }
+  ]
+}

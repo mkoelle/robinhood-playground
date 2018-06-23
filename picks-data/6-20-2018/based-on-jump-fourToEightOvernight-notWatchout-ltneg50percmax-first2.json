@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4899
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3697
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4499
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3697
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVFM",
+      "price": 3.4
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3667
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVFM",
+      "price": 3.52
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ]
+}

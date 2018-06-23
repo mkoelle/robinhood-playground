@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KONE",
+      "price": 9.1019
+    },
+    {
+      "ticker": "EAST",
+      "price": 8.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIO",
+      "price": 6.35
+    },
+    {
+      "ticker": "KONE",
+      "price": 9.1019
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XBIO",
+      "price": 5.5
+    },
+    {
+      "ticker": "KONE",
+      "price": 9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XBIO",
+      "price": 5.89
+    },
+    {
+      "ticker": "BNED",
+      "price": 8.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 6.1236
+    },
+    {
+      "ticker": "BNED",
+      "price": 7.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHSP",
+      "price": 9.3314
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.8264
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRYS",
+      "price": 5.7646
+    },
+    {
+      "ticker": "EAST",
+      "price": 8.87
+    }
+  ]
+}

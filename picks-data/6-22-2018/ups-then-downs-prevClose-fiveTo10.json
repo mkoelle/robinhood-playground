@@ -1,0 +1,45 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "BNED",
+      "price": 7.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BNED",
+      "price": 7.015
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BNED",
+      "price": 6.89
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.291
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BNED",
+      "price": 7
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.24
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BNED",
+      "price": 7
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.24
+    }
+  ]
+}

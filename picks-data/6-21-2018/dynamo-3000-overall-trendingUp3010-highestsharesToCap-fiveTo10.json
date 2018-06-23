@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CTIC",
+      "price": 5.095
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.025
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIO",
+      "price": 6.35
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XBIO",
+      "price": 5.5
+    },
+    {
+      "ticker": "QHC",
+      "price": 5.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XBIO",
+      "price": 5.89
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 6.1236
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QHC",
+      "price": 5.07
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.8264
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SENS",
+      "price": 4.96
+    },
+    {
+      "ticker": "QHC",
+      "price": 5.1
+    }
+  ]
+}

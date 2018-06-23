@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "RENN",
+      "price": 2.4025
+    },
+    {
+      "ticker": "FCSC",
+      "price": 3.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RENN",
+      "price": 2.005
+    },
+    {
+      "ticker": "FCSC",
+      "price": 2.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RENN",
+      "price": 1.77
+    },
+    {
+      "ticker": "SBOT",
+      "price": 1.85
+    },
+    {
+      "ticker": "FCSC",
+      "price": 2.95
+    }
+  ]
+}

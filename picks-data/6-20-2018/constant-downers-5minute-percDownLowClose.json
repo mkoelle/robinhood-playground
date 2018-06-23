@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IPCI",
+      "price": 0.433
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.075
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.1001
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SPCB",
+      "price": 1.789
+    },
+    {
+      "ticker": "ONP",
+      "price": 1.0585
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4171
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OXBR",
+      "price": 1.9
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.3785
+    },
+    {
+      "ticker": "ECT",
+      "price": 2
+    }
+  ]
+}

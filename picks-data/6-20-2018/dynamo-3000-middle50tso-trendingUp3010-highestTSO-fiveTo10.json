@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGC",
+      "price": 8.99
+    },
+    {
+      "ticker": "FPI",
+      "price": 9.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LSCC",
+      "price": 6.43
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMI",
+      "price": 6.905
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.825
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PSEC",
+      "price": 6.9433
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.19
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECF",
+      "price": 9.6067
+    },
+    {
+      "ticker": "VER",
+      "price": 7.365
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECF",
+      "price": 9.6067
+    },
+    {
+      "ticker": "MITK",
+      "price": 9.325
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "LEVB",
+      "price": 4
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.74
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.94
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0957
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LEVB",
+      "price": 4
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.7462
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.7
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9375
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEVB",
+      "price": 3.66
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.73
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEVB",
+      "price": 3.8
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.828
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.7589
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.62
+    }
+  ]
+}

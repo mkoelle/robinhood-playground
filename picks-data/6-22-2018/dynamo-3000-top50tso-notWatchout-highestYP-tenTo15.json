@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MGTA",
+      "price": 14.72
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MGTA",
+      "price": 14.67
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLFS",
+      "price": 12.26
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 12.115
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 12.3801
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.545
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NDLS",
+      "price": 12.05
+    },
+    {
+      "ticker": "BLFS",
+      "price": 12.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 12.67
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.67
+    }
+  ]
+}

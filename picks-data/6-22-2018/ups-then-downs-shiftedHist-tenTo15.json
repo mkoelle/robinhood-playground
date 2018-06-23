@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "UMRX",
+      "price": 13.85
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.105
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CMTA",
+      "price": 14.6
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMTA",
+      "price": 14.7
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.16
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AQ",
+      "price": 13.23
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UMRX",
+      "price": 14.13
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.175
+    }
+  ],
+  "600": [
+    {
+      "ticker": "UMRX",
+      "price": 14.09
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.19
+    }
+  ]
+}

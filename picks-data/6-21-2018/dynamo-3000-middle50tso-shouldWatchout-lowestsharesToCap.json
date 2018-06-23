@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAP",
+      "price": 3.9101
+    },
+    {
+      "ticker": "CLD",
+      "price": 3.64
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MEIP",
+      "price": 4.5062
+    },
+    {
+      "ticker": "STDY",
+      "price": 4.525
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPHC",
+      "price": 4.78
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELTK",
+      "price": 3.73
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.7954
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PXLW",
+      "price": 4.02
+    },
+    {
+      "ticker": "ELTK",
+      "price": 3.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KERX",
+      "price": 4.975
+    },
+    {
+      "ticker": "OPHC",
+      "price": 4.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KERX",
+      "price": 4.98
+    },
+    {
+      "ticker": "OPHC",
+      "price": 4.76
+    }
+  ]
+}

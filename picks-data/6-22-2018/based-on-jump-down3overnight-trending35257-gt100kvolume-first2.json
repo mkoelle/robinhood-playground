@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "RENN",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RENN",
+      "price": 2.4025
+    },
+    {
+      "ticker": "SNES",
+      "price": 1.9101
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RENN",
+      "price": 2.005
+    },
+    {
+      "ticker": "XBIO",
+      "price": 2.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RENN",
+      "price": 1.77
+    },
+    {
+      "ticker": "XBIO",
+      "price": 3.0799
+    }
+  ]
+}

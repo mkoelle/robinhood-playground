@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 10.01
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.13
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.85
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OMEX",
+      "price": 8.5
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.81
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.22
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IDSY",
+      "price": 6.05
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.125
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.805
+    }
+  ]
+}

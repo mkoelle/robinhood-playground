@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 11.025
+    },
+    {
+      "ticker": "DBD",
+      "price": 13.1995
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 11.03
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 11
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.0275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 11
+    },
+    {
+      "ticker": "MRAM",
+      "price": 10.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 11
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.8
+    },
+    {
+      "ticker": "PRTK",
+      "price": 11
+    }
+  ]
+}

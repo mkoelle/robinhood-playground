@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPN",
+      "price": 9.98
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.0699
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPN",
+      "price": 10.01
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPN",
+      "price": 10.01
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.2043
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPN",
+      "price": 9.99
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.06
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.1049
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.09
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.17
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.09
+    }
+  ]
+}

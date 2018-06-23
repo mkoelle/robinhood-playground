@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLBS",
+      "price": 7.99
+    },
+    {
+      "ticker": "SIRI",
+      "price": 7.1698
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLBS",
+      "price": 8.091
+    },
+    {
+      "ticker": "CYS",
+      "price": 7.4101
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INFN",
+      "price": 9.44
+    },
+    {
+      "ticker": "CLBS",
+      "price": 7.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAKD",
+      "price": 7.53
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.925
+    }
+  ]
+}

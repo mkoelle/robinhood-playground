@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MARK",
+      "price": 5.18
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTEM",
+      "price": 5.31
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MARK",
+      "price": 5.0417
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARK",
+      "price": 5.0231
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MARK",
+      "price": 5.06
+    },
+    {
+      "ticker": "BOXL",
+      "price": 5.115
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BOXL",
+      "price": 5.1
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KERX",
+      "price": 5.03
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.17
+    }
+  ]
+}

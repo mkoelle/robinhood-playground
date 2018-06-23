@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEOS",
+      "price": 12.82
+    },
+    {
+      "ticker": "PRTA",
+      "price": 15.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOGO",
+      "price": 12.65
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.905
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SURF",
+      "price": 14.38
+    },
+    {
+      "ticker": "ACMR",
+      "price": 11.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 11.05
+    },
+    {
+      "ticker": "UMRX",
+      "price": 13.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVRA",
+      "price": 12.07
+    },
+    {
+      "ticker": "UMRX",
+      "price": 13.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SBPH",
+      "price": 11.61
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYRS",
+      "price": 10.54
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.25
+    }
+  ]
+}

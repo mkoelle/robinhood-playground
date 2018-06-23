@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FRED",
+      "price": 2.27
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0659
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.19
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRED",
+      "price": 2.2287
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRED",
+      "price": 2.18
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.04
+    },
+    {
+      "ticker": "GGB",
+      "price": 3.7799
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRED",
+      "price": 2.199
+    },
+    {
+      "ticker": "BLPH",
+      "price": 3.14
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.2932
+    }
+  ]
+}

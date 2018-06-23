@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NGVC",
+      "price": 12.68
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGVC",
+      "price": 12.505
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGVC",
+      "price": 12.5075
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.6508
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGVC",
+      "price": 12.5252
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.6
+    }
+  ]
+}

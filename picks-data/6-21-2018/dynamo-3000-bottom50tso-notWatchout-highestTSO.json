@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APWC",
+      "price": 2.5
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTN",
+      "price": 0.9027
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CFRX",
+      "price": 2.48
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.131
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMRN",
+      "price": 3.02
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CKPT",
+      "price": 2.611
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WWR",
+      "price": 0.45
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMRN",
+      "price": 3
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.35
+    }
+  ]
+}

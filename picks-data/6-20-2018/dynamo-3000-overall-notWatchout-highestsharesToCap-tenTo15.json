@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "GRX",
+      "price": 10.0252
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.0486
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AAC",
+      "price": 9.99
+    },
+    {
+      "ticker": "SMM",
+      "price": 10
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AAC",
+      "price": 10.02
+    },
+    {
+      "ticker": "SMM",
+      "price": 9.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 10.025
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AAC",
+      "price": 10.29
+    },
+    {
+      "ticker": "DSKE",
+      "price": 10.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AAC",
+      "price": 10.24
+    },
+    {
+      "ticker": "DSKE",
+      "price": 10.01
+    }
+  ]
+}

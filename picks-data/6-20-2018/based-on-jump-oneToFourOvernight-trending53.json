@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "FRED",
+      "price": 2.27
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.9359
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.14
+    },
+    {
+      "ticker": "YTEN",
+      "price": 1.46
+    },
+    {
+      "ticker": "MBVX",
+      "price": 0.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRED",
+      "price": 2.2287
+    },
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.9816
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.2416
+    },
+    {
+      "ticker": "YTEN",
+      "price": 1.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRED",
+      "price": 2.18
+    },
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "BLPH",
+      "price": 3.0227
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.2499
+    },
+    {
+      "ticker": "YTEN",
+      "price": 1.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRED",
+      "price": 2.199
+    },
+    {
+      "ticker": "ELSE",
+      "price": 4.15
+    },
+    {
+      "ticker": "BLPH",
+      "price": 3.14
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.2932
+    },
+    {
+      "ticker": "YTEN",
+      "price": 1.48
+    }
+  ]
+}

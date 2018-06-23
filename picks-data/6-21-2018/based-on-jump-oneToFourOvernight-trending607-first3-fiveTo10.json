@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 7.9
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.975
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 7.71
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.3
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 7.8599
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.25
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 8.024
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.175
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.77
+    }
+  ]
+}

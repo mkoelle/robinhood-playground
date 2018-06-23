@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.06
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.27
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.06
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.2287
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.0327
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.18
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.09
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.069
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.199
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.09
+    }
+  ]
+}

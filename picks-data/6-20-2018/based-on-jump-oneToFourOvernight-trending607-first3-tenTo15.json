@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 11.75
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.79
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 11.9426
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.8
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HMTA",
+      "price": 13.75
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.8
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.792
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HMTA",
+      "price": 13.75
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.55
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.88
+    }
+  ]
+}

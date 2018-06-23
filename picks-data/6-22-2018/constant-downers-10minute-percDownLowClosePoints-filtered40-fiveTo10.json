@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IPIC",
+      "price": 7.75
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.01
+    },
+    {
+      "ticker": "MNOV",
+      "price": 8.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CALA",
+      "price": 5.1252
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.375
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.586
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IDSY",
+      "price": 6.05
+    },
+    {
+      "ticker": "CALA",
+      "price": 5.125
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.805
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABIL",
+      "price": 5.3493
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABIL",
+      "price": 6.0511
+    },
+    {
+      "ticker": "PES",
+      "price": 5.095
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABIL",
+      "price": 5.6185
+    },
+    {
+      "ticker": "PES",
+      "price": 5.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 5.1962
+    },
+    {
+      "ticker": "PES",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.1651
+    },
+    {
+      "ticker": "PES",
+      "price": 5.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABIL",
+      "price": 5.5059
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 5.3701
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.325
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.48
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.2532
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 6.42
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.2532
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    },
+    {
+      "ticker": "VUZI",
+      "price": 7.15
+    }
+  ]
+}

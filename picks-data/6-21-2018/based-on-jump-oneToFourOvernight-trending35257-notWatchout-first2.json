@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0957
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4846
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3302
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.088
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.332
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0799
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.332
+    }
+  ]
+}

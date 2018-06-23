@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MACK",
+      "price": 9.84
+    },
+    {
+      "ticker": "CORI",
+      "price": 9.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RARX",
+      "price": 9.9
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.369
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRAM",
+      "price": 9.6101
+    },
+    {
+      "ticker": "TRST",
+      "price": 9.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 9.9354
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EURN",
+      "price": 9.7
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EURN",
+      "price": 9.75
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.935
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRAM",
+      "price": 9.7267
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.55
+    }
+  ]
+}

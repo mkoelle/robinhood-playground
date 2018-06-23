@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FRED",
+      "price": 2.27
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.0659
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRED",
+      "price": 2.2287
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRED",
+      "price": 2.18
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRED",
+      "price": 2.199
+    },
+    {
+      "ticker": "BLPH",
+      "price": 3.14
+    }
+  ]
+}

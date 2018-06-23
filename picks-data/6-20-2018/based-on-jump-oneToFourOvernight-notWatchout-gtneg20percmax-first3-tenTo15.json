@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNMP",
+      "price": 12
+    },
+    {
+      "ticker": "DSPG",
+      "price": 11.65
+    },
+    {
+      "ticker": "CWBC",
+      "price": 11.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNMP",
+      "price": 11.743
+    },
+    {
+      "ticker": "DSPG",
+      "price": 11.65
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNMP",
+      "price": 11.743
+    },
+    {
+      "ticker": "DSPG",
+      "price": 11.675
+    },
+    {
+      "ticker": "HMTA",
+      "price": 13.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNMP",
+      "price": 11.7685
+    },
+    {
+      "ticker": "DSPG",
+      "price": 11.65
+    },
+    {
+      "ticker": "HMTA",
+      "price": 13.75
+    }
+  ]
+}

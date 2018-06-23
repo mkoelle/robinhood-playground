@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "GRX",
+      "price": 10.0252
+    },
+    {
+      "ticker": "ORBC",
+      "price": 10.329
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPNS",
+      "price": 10.33
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPNS",
+      "price": 10.315
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 10.25
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 10.17
+    },
+    {
+      "ticker": "SPNS",
+      "price": 10.57
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RARX",
+      "price": 10.15
+    },
+    {
+      "ticker": "SPNS",
+      "price": 10.54
+    }
+  ]
+}

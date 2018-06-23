@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RVLT",
+      "price": 4.5
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.535
+    },
+    {
+      "ticker": "RRTS",
+      "price": 2.522
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RVLT",
+      "price": 4.5
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.58
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.865
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RVLT",
+      "price": 4.5
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.53
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RVLT",
+      "price": 4.71
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.545
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.87
+    }
+  ]
+}

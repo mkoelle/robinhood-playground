@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALSK",
+      "price": 1.6672
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.695
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2341
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4399
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNN",
+      "price": 0.525
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CGA",
+      "price": 1.1712
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.2801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HEB",
+      "price": 0.3301
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4196
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MBOT",
+      "price": 0.7945
+    },
+    {
+      "ticker": "BXE",
+      "price": 1.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VGZ",
+      "price": 0.6883
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.2
+    }
+  ]
+}

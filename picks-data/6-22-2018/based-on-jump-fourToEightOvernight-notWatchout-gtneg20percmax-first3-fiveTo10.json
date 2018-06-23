@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 5.58
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.365
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NE",
+      "price": 5.595
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.475
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.505
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NE",
+      "price": 5.545
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.42
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NE",
+      "price": 5.645
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.52
+    },
+    {
+      "ticker": "HLX",
+      "price": 7.6
+    }
+  ]
+}

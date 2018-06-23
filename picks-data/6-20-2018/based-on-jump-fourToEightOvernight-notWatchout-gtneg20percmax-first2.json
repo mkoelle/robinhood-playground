@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HSGX",
+      "price": 2.8
+    },
+    {
+      "ticker": "TST",
+      "price": 1.895
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7967
+    },
+    {
+      "ticker": "TST",
+      "price": 1.8586
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7916
+    },
+    {
+      "ticker": "TST",
+      "price": 1.9114
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HSGX",
+      "price": 2.795
+    },
+    {
+      "ticker": "TST",
+      "price": 1.9139
+    }
+  ]
+}

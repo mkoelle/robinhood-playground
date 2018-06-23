@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.455
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 12.95
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IKNX",
+      "price": 10.868
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.8
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IKNX",
+      "price": 10.773
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.77
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IKNX",
+      "price": 10.773
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.84
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IKNX",
+      "price": 10.5001
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.74
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IKNX",
+      "price": 10.5001
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.78
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.73
+    }
+  ]
+}

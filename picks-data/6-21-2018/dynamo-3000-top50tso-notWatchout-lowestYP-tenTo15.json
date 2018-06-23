@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LCI",
+      "price": 14.45
+    },
+    {
+      "ticker": "RES",
+      "price": 14.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.185
+    },
+    {
+      "ticker": "JKS",
+      "price": 13.5517
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.26
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.37
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.35
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.8908
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.4
+    },
+    {
+      "ticker": "SSG",
+      "price": 14.8908
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.4244
+    },
+    {
+      "ticker": "SSG",
+      "price": 15.039
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TNTR",
+      "price": 0.205
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2399
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2443
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3316
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4398
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.4261
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.1852
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.447
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WWR",
+      "price": 0.447
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ISR",
+      "price": 0.4795
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WWR",
+      "price": 0.44
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5355
+    }
+  ]
+}

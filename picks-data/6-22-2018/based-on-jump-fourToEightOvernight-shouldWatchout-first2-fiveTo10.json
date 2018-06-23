@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MTEM",
+      "price": 5.6372
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MTEM",
+      "price": 5.5
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MTEM",
+      "price": 5.515
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MTEM",
+      "price": 5.5052
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.16
+    }
+  ]
+}

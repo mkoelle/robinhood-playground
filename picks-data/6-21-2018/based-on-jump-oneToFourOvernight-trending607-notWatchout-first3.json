@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0957
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4846
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.485
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.088
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4405
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0799
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4405
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.6
+    }
+  ]
+}

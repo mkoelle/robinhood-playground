@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SA",
+      "price": 11.125
+    },
+    {
+      "ticker": "SBLK",
+      "price": 14.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 11.85
+    },
+    {
+      "ticker": "TAST",
+      "price": 13.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBGI",
+      "price": 12.05
+    },
+    {
+      "ticker": "KRYS",
+      "price": 14.6217
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BBGI",
+      "price": 12.1109
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMBA",
+      "price": 10.79
+    },
+    {
+      "ticker": "HMTA",
+      "price": 14.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DF",
+      "price": 10.465
+    },
+    {
+      "ticker": "LXRX",
+      "price": 13.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDOR",
+      "price": 10.35
+    },
+    {
+      "ticker": "LXRX",
+      "price": 13.585
+    }
+  ]
+}

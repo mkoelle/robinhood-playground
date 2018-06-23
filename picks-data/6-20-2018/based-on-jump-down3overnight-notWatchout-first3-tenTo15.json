@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "LFGR",
+      "price": 10.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LFGR",
+      "price": 10.775
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.35
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LFGR",
+      "price": 10.65
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.35
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LFGR",
+      "price": 10.65
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.35
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.62
+    }
+  ]
+}

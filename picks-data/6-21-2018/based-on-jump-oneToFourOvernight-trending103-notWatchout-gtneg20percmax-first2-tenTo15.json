@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DGII",
+      "price": 14.1
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGII",
+      "price": 13.8
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.29
+    }
+  ]
+}

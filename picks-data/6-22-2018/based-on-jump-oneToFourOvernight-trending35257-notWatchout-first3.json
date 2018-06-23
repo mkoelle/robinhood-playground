@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.19
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNP",
+      "price": 3.7701
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.05
+    }
+  ]
+}

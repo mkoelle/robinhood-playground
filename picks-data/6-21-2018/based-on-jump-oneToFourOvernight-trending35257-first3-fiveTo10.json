@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 7.9
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ASC",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 7.71
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.3
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 7.8599
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.25
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.7295
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 8.024
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.175
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.5999
+    }
+  ]
+}

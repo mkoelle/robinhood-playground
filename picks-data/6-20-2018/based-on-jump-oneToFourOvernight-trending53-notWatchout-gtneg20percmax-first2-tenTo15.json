@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 11.73
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UMRX",
+      "price": 14.8
+    },
+    {
+      "ticker": "QEP",
+      "price": 11.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 11.685
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.792
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 11.72
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.88
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 6.29
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 6.18
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 6.212
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MOTS",
+      "price": 6.2
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.5
+    }
+  ]
+}

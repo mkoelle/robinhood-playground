@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TMQ",
+      "price": 1.661
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OESX",
+      "price": 1.12
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9027
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CFRX",
+      "price": 2.48
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.131
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CFRX",
+      "price": 2.47
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CFRX",
+      "price": 2.43
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CFRX",
+      "price": 2.45
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MARPS",
+      "price": 3.76
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.28
+    }
+  ]
+}

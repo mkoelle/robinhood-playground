@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NGVC",
+      "price": 12.68
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGVC",
+      "price": 12.505
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGVC",
+      "price": 12.5075
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGVC",
+      "price": 12.5252
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.125
+    }
+  ]
+}

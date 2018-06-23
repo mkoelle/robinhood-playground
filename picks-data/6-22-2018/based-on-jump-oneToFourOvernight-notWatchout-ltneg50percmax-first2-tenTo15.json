@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UGP",
+      "price": 12.3
+    },
+    {
+      "ticker": "DM",
+      "price": 14.0614
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UGP",
+      "price": 12.36
+    },
+    {
+      "ticker": "DM",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UGP",
+      "price": 12.4
+    },
+    {
+      "ticker": "DM",
+      "price": 13.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UGP",
+      "price": 12.3
+    },
+    {
+      "ticker": "DM",
+      "price": 13.723
+    }
+  ]
+}

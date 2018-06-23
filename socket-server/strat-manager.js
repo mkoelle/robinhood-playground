@@ -373,14 +373,14 @@ const stratManager = {
         }));
         tickersToLookup = [...new Set(tickersToLookup)];     // uniquify duplicate tickers
         console.log('getting related prices', tickersToLookup.length);
-        console.log(JSON.stringify(tickersToLookup));
+        // console.log(JSON.stringify(tickersToLookup));
         const relatedPrices = await lookupTickers(
             this.Robinhood,
             tickersToLookup,
             true
         );
 
-        console.log(relatedPrices)
+        // console.log(relatedPrices)
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
         console.log('done getting related prices');

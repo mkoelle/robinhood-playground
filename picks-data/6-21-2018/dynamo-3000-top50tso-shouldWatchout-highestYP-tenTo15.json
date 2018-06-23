@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TPIV",
+      "price": 11.6008
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 12.58
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 12.43
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.5623
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 12.46
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.515
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NGVC",
+      "price": 12.46
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NGVC",
+      "price": 12.49
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGVC",
+      "price": 12.5
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.93
+    }
+  ]
+}

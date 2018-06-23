@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LGCY",
+      "price": 6.79
+    },
+    {
+      "ticker": "IRIX",
+      "price": 6.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LGCY",
+      "price": 6.78
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.585
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LGCY",
+      "price": 6.68
+    },
+    {
+      "ticker": "CARV",
+      "price": 5.585
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LGCY",
+      "price": 6.74
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.415
+    }
+  ]
+}

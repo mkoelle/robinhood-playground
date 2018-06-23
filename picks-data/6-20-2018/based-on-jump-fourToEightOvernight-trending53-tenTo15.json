@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NVGS",
+      "price": 12.15
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.5893
+    },
+    {
+      "ticker": "SUPV",
+      "price": 14.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVGS",
+      "price": 12.4234
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVGS",
+      "price": 12.55
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVGS",
+      "price": 12.3715
+    },
+    {
+      "ticker": "UBCP",
+      "price": 12.8
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.805
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMBR",
+      "price": 10.01
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.0452
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DZSI",
+      "price": 10.1
+    },
+    {
+      "ticker": "HABT",
+      "price": 10
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 10.2
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 10.55
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVIX",
+      "price": 10.32
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.6
+    }
+  ]
+}

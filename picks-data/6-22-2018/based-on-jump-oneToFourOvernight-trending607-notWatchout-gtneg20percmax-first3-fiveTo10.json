@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.45
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "KYE",
+      "price": 9.6301
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.569
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KYE",
+      "price": 9.6092
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.57
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    },
+    {
+      "ticker": "KYE",
+      "price": 9.6
+    },
+    {
+      "ticker": "MOTS",
+      "price": 6.5195
+    }
+  ]
+}

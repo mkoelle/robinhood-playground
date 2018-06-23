@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 7.9
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ASC",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 7.71
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.11
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 7.8599
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.11
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.7295
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 8.024
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.0901
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.7789
+    }
+  ]
+}

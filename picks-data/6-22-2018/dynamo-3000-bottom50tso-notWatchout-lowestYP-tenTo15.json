@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BZH",
+      "price": 14.27
+    },
+    {
+      "ticker": "WTTR",
+      "price": 13.935
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.8
+    },
+    {
+      "ticker": "RES",
+      "price": 14.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.75
+    },
+    {
+      "ticker": "RES",
+      "price": 14.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNNA",
+      "price": 14.53
+    },
+    {
+      "ticker": "RES",
+      "price": 14.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RES",
+      "price": 14.13
+    },
+    {
+      "ticker": "SNNA",
+      "price": 14.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 14.14
+    },
+    {
+      "ticker": "SNNA",
+      "price": 14.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 14.02
+    },
+    {
+      "ticker": "RES",
+      "price": 14.185
+    }
+  ]
+}

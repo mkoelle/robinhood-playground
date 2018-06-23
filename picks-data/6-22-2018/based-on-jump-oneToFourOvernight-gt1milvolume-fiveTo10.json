@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.07
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.9799
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SWN",
+      "price": 5.41
+    },
+    {
+      "ticker": "CHK",
+      "price": 5
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SWN",
+      "price": 5.455
+    },
+    {
+      "ticker": "BBD",
+      "price": 6.865
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.5965
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.7348
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SWN",
+      "price": 5.47
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.09
+    },
+    {
+      "ticker": "BBD",
+      "price": 6.85
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.57
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.59
+    }
+  ]
+}

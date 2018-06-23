@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FBZ",
+      "price": 11.86
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "AOBC",
+      "price": 11.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FBZ",
+      "price": 11.79
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.65
+    }
+  ]
+}

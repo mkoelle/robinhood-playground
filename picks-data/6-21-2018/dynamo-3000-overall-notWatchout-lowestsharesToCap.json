@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NMR",
+      "price": 4.855
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.9149
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSLR",
+      "price": 4.97
+    },
+    {
+      "ticker": "CXE",
+      "price": 4.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSLR",
+      "price": 4.9
+    },
+    {
+      "ticker": "TAC",
+      "price": 4.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VSLR",
+      "price": 5
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSLR",
+      "price": 5
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 4.98
+    },
+    {
+      "ticker": "VSLR",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATAI",
+      "price": 4.85
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.0001
+    }
+  ]
+}

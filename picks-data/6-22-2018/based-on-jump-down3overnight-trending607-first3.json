@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "XBIO",
+      "price": 3.0452
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4352
+    },
+    {
+      "ticker": "PRSS",
+      "price": 1.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XBIO",
+      "price": 3.136
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4311
+    },
+    {
+      "ticker": "PRSS",
+      "price": 1.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XBIO",
+      "price": 2.86
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.435
+    },
+    {
+      "ticker": "PRSS",
+      "price": 1.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XBIO",
+      "price": 3.0799
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.44
+    },
+    {
+      "ticker": "PRSS",
+      "price": 1.44
+    }
+  ]
+}

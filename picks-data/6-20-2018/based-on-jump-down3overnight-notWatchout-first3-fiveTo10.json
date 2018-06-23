@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PMBC",
+      "price": 9.4
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.94
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.6069
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PMBC",
+      "price": 9.55
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.9044
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.6069
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PMBC",
+      "price": 9.8798
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.94
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PMBC",
+      "price": 9.8798
+    },
+    {
+      "ticker": "DWT",
+      "price": 9
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.62
+    }
+  ]
+}

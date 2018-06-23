@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DGII",
+      "price": 14.1
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGII",
+      "price": 13.8
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "WTID",
+      "price": 10.0711
+    }
+  ]
+}

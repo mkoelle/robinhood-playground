@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AGEN",
+      "price": 2.5572
+    },
+    {
+      "ticker": "PEIX",
+      "price": 2.6
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5065
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HK",
+      "price": 4.06
+    },
+    {
+      "ticker": "AST",
+      "price": 1.775
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.505
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HK",
+      "price": 4.09
+    },
+    {
+      "ticker": "AST",
+      "price": 1.775
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HK",
+      "price": 4.13
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.15
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7902
+    }
+  ]
+}

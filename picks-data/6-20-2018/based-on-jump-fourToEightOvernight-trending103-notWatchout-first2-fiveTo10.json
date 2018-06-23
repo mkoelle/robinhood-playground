@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 7.11
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 7.172
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 7.3748
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 7.5
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.2
+    }
+  ]
+}

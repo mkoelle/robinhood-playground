@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SBLK",
+      "price": 14.14
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TREC",
+      "price": 14.9
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GOV",
+      "price": 14.947
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMTA",
+      "price": 14.4
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMTA",
+      "price": 14.4
+    },
+    {
+      "ticker": "GOV",
+      "price": 14.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMTA",
+      "price": 14.4
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAST",
+      "price": 14.85
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.35
+    }
+  ]
+}

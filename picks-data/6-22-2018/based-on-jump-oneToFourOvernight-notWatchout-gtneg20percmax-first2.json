@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DSWL",
+      "price": 3.19
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RCG",
+      "price": 1.5131
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.2028
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RCG",
+      "price": 1.5131
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4097
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RCG",
+      "price": 1.5131
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4097
+    }
+  ]
+}

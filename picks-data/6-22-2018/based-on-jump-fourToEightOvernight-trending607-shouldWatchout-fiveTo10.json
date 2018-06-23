@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 5.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MCF",
+      "price": 6.0969
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.1501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCF",
+      "price": 6.02
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.1501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCF",
+      "price": 5.985
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.201
+    }
+  ]
+}

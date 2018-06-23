@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    },
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNP",
+      "price": 3.7701
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNP",
+      "price": 3.8101
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.25
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KERX",
+      "price": 5.05
+    },
+    {
+      "ticker": "RLJE",
+      "price": 5.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIO",
+      "price": 6.35
+    },
+    {
+      "ticker": "KERX",
+      "price": 5.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XBIO",
+      "price": 5.5
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XBIO",
+      "price": 5.89
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 6.1236
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DHCP",
+      "price": 5.58
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DHCP",
+      "price": 5.4471
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.08
+    }
+  ]
+}

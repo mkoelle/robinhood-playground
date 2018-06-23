@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 1.0957
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.65
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 1.089
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.65
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 1.088
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.61
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 1.0799
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.6
+    },
+    {
+      "ticker": "HSGX",
+      "price": 2.8367
+    }
+  ]
+}

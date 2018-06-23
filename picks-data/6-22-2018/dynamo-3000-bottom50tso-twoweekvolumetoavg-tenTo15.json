@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 12.2133
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 10.99
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 11.89
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRVS",
+      "price": 11.07
+    },
+    {
+      "ticker": "GPOR",
+      "price": 11.445
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRVS",
+      "price": 10.97
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.2785
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 11.83
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.74
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BB",
+      "price": 10.675
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.7
+    }
+  ]
+}

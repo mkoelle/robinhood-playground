@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBRX",
+      "price": 1.89
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATLC",
+      "price": 1.9
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATLC",
+      "price": 2
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATLC",
+      "price": 2
+    },
+    {
+      "ticker": "MBRX",
+      "price": 1.8408
+    }
+  ]
+}

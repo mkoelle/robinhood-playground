@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TRX",
+      "price": 0.4
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRX",
+      "price": 0.4161
+    },
+    {
+      "ticker": "EVK",
+      "price": 3.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRX",
+      "price": 0.4091
+    },
+    {
+      "ticker": "EVK",
+      "price": 3.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRX",
+      "price": 0.4243
+    },
+    {
+      "ticker": "EVK",
+      "price": 3.75
+    }
+  ]
+}

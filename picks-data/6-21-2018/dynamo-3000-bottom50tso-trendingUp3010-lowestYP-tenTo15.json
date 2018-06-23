@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 15.25
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 15
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.7358
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 12.825
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.9
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.561
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKAO",
+      "price": 12.64
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKAO",
+      "price": 12.4553
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKAO",
+      "price": 12.46
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.325
+    }
+  ]
+}

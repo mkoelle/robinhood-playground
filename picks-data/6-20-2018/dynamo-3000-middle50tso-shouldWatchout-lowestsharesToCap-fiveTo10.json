@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PBI",
+      "price": 9.62
+    },
+    {
+      "ticker": "TELL",
+      "price": 9.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEQ",
+      "price": 9.58
+    },
+    {
+      "ticker": "EGC",
+      "price": 9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 9.7001
+    },
+    {
+      "ticker": "EGC",
+      "price": 8.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKD",
+      "price": 9.265
+    },
+    {
+      "ticker": "EGC",
+      "price": 8.995
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.9854
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.605
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DAKT",
+      "price": 8.545
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.3
+    }
+  ]
+}

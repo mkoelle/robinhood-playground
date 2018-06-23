@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HSGX",
+      "price": 2.8
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.4899
+    },
+    {
+      "ticker": "TST",
+      "price": 1.895
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7967
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.57
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.4499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HSGX",
+      "price": 2.7916
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.61
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HSGX",
+      "price": 2.795
+    },
+    {
+      "ticker": "SOL",
+      "price": 2.6
+    },
+    {
+      "ticker": "EVFM",
+      "price": 3.52
+    }
+  ]
+}

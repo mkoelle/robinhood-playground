@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 6.29
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.63
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 6.18
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.5236
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 6.212
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.459
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.2401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MOTS",
+      "price": 6.2
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.47
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.255
+    }
+  ]
+}

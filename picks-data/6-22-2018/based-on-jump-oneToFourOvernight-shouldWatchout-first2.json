@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AETI",
+      "price": 1.3299
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AETI",
+      "price": 1.309
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AETI",
+      "price": 1.28
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AETI",
+      "price": 1.25
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.56
+    }
+  ]
+}

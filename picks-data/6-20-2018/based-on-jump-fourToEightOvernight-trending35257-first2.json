@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 4.1
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.5901
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 4.1
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6248
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 4.4
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6308
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 4.4
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6299
+    }
+  ]
+}

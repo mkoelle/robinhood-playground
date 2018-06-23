@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RCM",
+      "price": 8.8
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CWBR",
+      "price": 9.52
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CWBR",
+      "price": 9.23
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.1001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CWBR",
+      "price": 9.1183
+    },
+    {
+      "ticker": "LONE",
+      "price": 7.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CWBR",
+      "price": 9.12
+    },
+    {
+      "ticker": "LONE",
+      "price": 7.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CWBR",
+      "price": 9.2
+    },
+    {
+      "ticker": "LONE",
+      "price": 7.985
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWSN",
+      "price": 7.47
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.7
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 5.9784
+    },
+    {
+      "ticker": "WTID",
+      "price": 9.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 6.005
+    },
+    {
+      "ticker": "WTID",
+      "price": 9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.0268
+    },
+    {
+      "ticker": "WTID",
+      "price": 9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 5.9865
+    },
+    {
+      "ticker": "WTID",
+      "price": 9
+    }
+  ]
+}

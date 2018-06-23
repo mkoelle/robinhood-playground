@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AQ",
+      "price": 13.34
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NES",
+      "price": 11.25
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.5008
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NES",
+      "price": 11.25
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.545
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NES",
+      "price": 11.25
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.56
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 6.285
+    },
+    {
+      "ticker": "DS",
+      "price": 7.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMSC",
+      "price": 7.1001
+    },
+    {
+      "ticker": "ABUS",
+      "price": 7.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 7.1575
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONDK",
+      "price": 7.62
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.9199
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERS",
+      "price": 7.19
+    },
+    {
+      "ticker": "ZIXI",
+      "price": 5.485
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HIL",
+      "price": 5.85
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERS",
+      "price": 7.19
+    },
+    {
+      "ticker": "AMSC",
+      "price": 7.11
+    }
+  ]
+}

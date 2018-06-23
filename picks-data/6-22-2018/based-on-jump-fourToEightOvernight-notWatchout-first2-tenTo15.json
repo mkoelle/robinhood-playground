@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RDC",
+      "price": 15.29
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.92
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RIG",
+      "price": 12.855
+    },
+    {
+      "ticker": "RES",
+      "price": 14.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIG",
+      "price": 12.82
+    },
+    {
+      "ticker": "RES",
+      "price": 14.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIG",
+      "price": 12.95
+    },
+    {
+      "ticker": "RES",
+      "price": 14.4
+    }
+  ]
+}

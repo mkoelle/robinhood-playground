@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "ASTC",
+      "price": 5.47
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.81
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.1125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASTC",
+      "price": 5.6132
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.7
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.0032
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.2842
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASTC",
+      "price": 5.58
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.655
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.0032
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASTC",
+      "price": 5.1452
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.69
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.1
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.2
+    }
+  ]
+}

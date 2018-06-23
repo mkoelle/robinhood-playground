@@ -1,0 +1,54 @@
+{
+  "221": [
+    {
+      "ticker": "ABIL",
+      "price": 4.34
+    },
+    {
+      "ticker": "CYTX",
+      "price": 1.7471
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.2026
+    }
+  ],
+  "280": [
+    {
+      "ticker": "ABIL",
+      "price": 4.47
+    },
+    {
+      "ticker": "VII",
+      "price": 0.253
+    },
+    {
+      "ticker": "CYTX",
+      "price": 1.78
+    }
+  ],
+  "328": [
+    {
+      "ticker": "VII",
+      "price": 0.25
+    },
+    {
+      "ticker": "ESEA",
+      "price": 1.61
+    },
+    {
+      "ticker": "AST",
+      "price": 1.6
+    }
+  ],
+  "388": [
+    {
+      "ticker": "VII",
+      "price": 0.2501
+    },
+    {
+      "ticker": "NAUH",
+      "price": 0.929
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEMP",
+      "price": 7.25
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTGX",
+      "price": 7.46
+    },
+    {
+      "ticker": "HZN",
+      "price": 7.161
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRAM",
+      "price": 9.6101
+    },
+    {
+      "ticker": "HZN",
+      "price": 7.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 9.9354
+    },
+    {
+      "ticker": "DWT",
+      "price": 9.2601
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HZN",
+      "price": 7.485
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HZN",
+      "price": 7.33
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.935
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HZN",
+      "price": 7.395
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.7267
+    }
+  ]
+}

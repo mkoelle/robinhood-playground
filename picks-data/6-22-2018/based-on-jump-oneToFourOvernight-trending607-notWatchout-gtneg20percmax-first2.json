@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.19
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPRT",
+      "price": 3.02
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.23
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPRT",
+      "price": 2.945
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPRT",
+      "price": 2.97
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.245
+    }
+  ]
+}

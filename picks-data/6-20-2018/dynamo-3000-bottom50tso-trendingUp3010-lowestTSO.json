@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARTW",
+      "price": 2.95
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.4598
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARTW",
+      "price": 2.965
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.205
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASTC",
+      "price": 4.84
+    },
+    {
+      "ticker": "ARTW",
+      "price": 3.0042
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARTW",
+      "price": 3.0342
+    },
+    {
+      "ticker": "ASTC",
+      "price": 4.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARTW",
+      "price": 2.9315
+    },
+    {
+      "ticker": "ASTC",
+      "price": 4.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARTW",
+      "price": 2.975
+    },
+    {
+      "ticker": "ASTC",
+      "price": 4.895
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARTW",
+      "price": 2.975
+    },
+    {
+      "ticker": "ASTC",
+      "price": 4.8703
+    }
+  ]
+}

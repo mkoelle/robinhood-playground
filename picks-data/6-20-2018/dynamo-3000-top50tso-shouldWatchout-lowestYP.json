@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3223
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.3305
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1601
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.3899
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 0.3297
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDGE",
+      "price": 1.13
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADOM",
+      "price": 1.5
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.1385
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OGEN",
+      "price": 1.6499
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.4199
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OGEN",
+      "price": 1.6606
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.385
+    }
+  ]
+}

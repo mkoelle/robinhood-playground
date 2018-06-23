@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MESO",
+      "price": 6.2
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.7498
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 9.791
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 9.9
+    },
+    {
+      "ticker": "AVH",
+      "price": 7.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 8.8978
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 9.14
+    },
+    {
+      "ticker": "NICK",
+      "price": 8.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHSP",
+      "price": 9.3314
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 9.2
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.98
+    }
+  ]
+}

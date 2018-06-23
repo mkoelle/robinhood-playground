@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ROAD",
+      "price": 13.7199
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.6008
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMT",
+      "price": 14.56
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 11.525
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AOBC",
+      "price": 12.79
+    },
+    {
+      "ticker": "EROS",
+      "price": 14.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AOBC",
+      "price": 12.935
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AOBC",
+      "price": 12.865
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HABT",
+      "price": 10.6
+    },
+    {
+      "ticker": "AOBC",
+      "price": 12.8
+    }
+  ]
+}

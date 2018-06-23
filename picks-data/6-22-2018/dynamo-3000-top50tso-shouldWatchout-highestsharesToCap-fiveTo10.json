@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CADC",
+      "price": 5.15
+    },
+    {
+      "ticker": "GOGO",
+      "price": 5.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CADC",
+      "price": 5.65
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 8.4988
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 5.1962
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.1651
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MXC",
+      "price": 5.0801
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.45
+    }
+  ]
+}

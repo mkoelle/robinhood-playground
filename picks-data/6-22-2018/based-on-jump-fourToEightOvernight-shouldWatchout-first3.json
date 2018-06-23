@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EPE",
+      "price": 2.9499
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.66
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EPE",
+      "price": 2.9872
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.66
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.2901
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EPE",
+      "price": 3.04
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.641
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.2731
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EPE",
+      "price": 3.03
+    },
+    {
+      "ticker": "VTVT",
+      "price": 1.6411
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.2613
+    }
+  ]
+}

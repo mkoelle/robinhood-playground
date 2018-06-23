@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "TPIV",
+      "price": 11.75
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.7
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.34
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 11.9426
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.85
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.5008
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 11.8
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.9
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.545
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 11.55
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.85
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.56
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.62
+    }
+  ]
+}

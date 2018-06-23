@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLFS",
+      "price": 13.0601
+    },
+    {
+      "ticker": "TPIV",
+      "price": 11.6008
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 12.58
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 12.43
+    },
+    {
+      "ticker": "IMGN",
+      "price": 11.395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 12.46
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 11.9
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NDLS",
+      "price": 12.125
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NDLS",
+      "price": 11.875
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.5
+    }
+  ]
+}

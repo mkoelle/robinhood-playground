@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SCON",
+      "price": 1.05
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCON",
+      "price": 1.011
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7393
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCON",
+      "price": 1.0125
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7211
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SCON",
+      "price": 1.0111
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7362
+    }
+  ]
+}

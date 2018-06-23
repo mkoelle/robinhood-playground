@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NBR",
+      "price": 6.51
+    },
+    {
+      "ticker": "SENS",
+      "price": 5.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NE",
+      "price": 5.595
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.59
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.475
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NE",
+      "price": 5.545
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.63
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NE",
+      "price": 5.645
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.21
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.7
+    }
+  ]
+}

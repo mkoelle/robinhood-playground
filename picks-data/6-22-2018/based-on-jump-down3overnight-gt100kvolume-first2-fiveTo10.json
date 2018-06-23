@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GRBK",
+      "price": 9.1318
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.9784
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.005
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.0268
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PTIE",
+      "price": 6.9601
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.075
+    }
+  ]
+}

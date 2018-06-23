@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PMBC",
+      "price": 9.4
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PMBC",
+      "price": 9.55
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.9044
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PMBC",
+      "price": 9.8798
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.94
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PMBC",
+      "price": 9.8798
+    },
+    {
+      "ticker": "DWT",
+      "price": 9
+    }
+  ]
+}

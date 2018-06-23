@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "REI",
+      "price": 12.4001
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.69
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.151
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MPO",
+      "price": 13.08
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.67
+    },
+    {
+      "ticker": "REI",
+      "price": 12.4744
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MPO",
+      "price": 13.17
+    },
+    {
+      "ticker": "REI",
+      "price": 12.5
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.665
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MPO",
+      "price": 13.24
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.74
+    },
+    {
+      "ticker": "REI",
+      "price": 12.4261
+    }
+  ]
+}
