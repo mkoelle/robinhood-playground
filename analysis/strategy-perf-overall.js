@@ -31,19 +31,19 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0, ignoreYesterday) => {
+module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0, ignoreYesterday, maxCount = Number.POSITIVE_INFINITY) => {
     console.log('includeToday', includeToday);
     console.log('days back', daysBack);
     console.log('mincount', minCount);
 
-
+    const paramTrue = val => val && val.toString() === 'true';
     let files = await fs.readdir('./strat-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-    if (ignoreYesterday) sortedFiles.pop();
+    if (paramTrue(ignoreYesterday)) sortedFiles.pop();
     let threeMostRecent = sortedFiles.slice(0 - daysBack);
     console.log('selected days', threeMostRecent);
 
@@ -72,7 +72,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     }
 
     // should includetoday?
-    if (includeToday.toString() === 'true') {
+    if (paramTrue(includeToday)) {
         console.log('adding today');
         const todayPerf = await strategyPerfToday(Robinhood);
         todayPerf.forEach(perf => {
@@ -123,7 +123,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
             const lastChunk = strategyName.substring(strategyName.lastIndexOf('-') + 1);
             return !['single', 'first3'].includes(lastChunk);
         })
-        .filter(perf => perf.count >= minCount);
+        .filter(perf => perf.count >= minCount && perf.count <= maxCount);
 
     const withData = withoutPerms.map(({ strategyName, avgTrend, buyMin, trends, count }) => ({
         name: strategyName + '-' + buyMin,

@@ -1,9 +1,10 @@
-const stratPerfOverall = require('./strategy-perf-overall');
+const stratPerfOverall = require('../analysis/strategy-perf-overall');
 const { uniqifyArrayOfStrategies } = require('../utils/uniqify-stuff');
 
 module.exports = async (Robinhood) => {
 
     const perms = [
+        [20, 15],
         [10, 5],    // days, count
         [7, 4],
         [5, 3],
@@ -13,10 +14,10 @@ module.exports = async (Robinhood) => {
     let resultObj = {};
 
     for (let [day, minCount] of perms) {
-        const data = await stratPerfOverall(Robinhood, true, day, minCount);
-        console.log(data);
+        const { sortedByPercUp } = await stratPerfOverall(Robinhood, true, day, minCount);
+        console.log(sortedByPercUp);
 
-        const hundredUpPicks = data.sortedByPercUp
+        const hundredUpPicks = sortedByPercUp
             .filter(pick => pick.percUp === 1);
 
         const hundredUpAvgGt4 = hundredUpPicks

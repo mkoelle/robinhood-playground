@@ -7,7 +7,7 @@ const strategiesEnabled = require('../strategies-enabled');
 // predictions and past data
 const stratPerfOverall = require('../analysis/strategy-perf-overall');
 const { predictCurrent, stratPerfPredictions } = require('../app-actions/predict-top-performing');
-const getRecs = require('../analysis/get-recs');
+const getMyRecs = require('../pms/my-recs');
 
 const getTrend = require('../utils/get-trend');
 const avgArray = require('../utils/avg-array');
@@ -17,7 +17,7 @@ const formatDate = date => date.toLocaleDateString().split('/').join('-');
 const getToday = () => formatDate(new Date());
 
 const flatten = list => list.reduce(
-  (a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []
+    (a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []
 );
 
 const stratManager = {
@@ -284,7 +284,7 @@ const stratManager = {
         // const yesterdayPredictions = await predictCurrent(1);
 
 
-        const myRecs = await getRecs(this.Robinhood);
+        const myRecs = await getMyRecs(this.Robinhood);
 
         let strategies = {
 
