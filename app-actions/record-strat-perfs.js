@@ -36,7 +36,7 @@ const lookupTickers = async (Robinhood, tickersToLookup, includeAfterHours) => {
 const analyzeDay = async (Robinhood, day) => {
 
     let files = await fs.readdir(`./picks-data/${day}`);
-    console.log(day, files);
+    console.log(`analyzing ${day}: ${files.length} files`);
 
     let tickerLookups = {};
     const strategyPicks = {};
