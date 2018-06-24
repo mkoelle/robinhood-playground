@@ -72,9 +72,9 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     }
 
     // should includetoday?
-    if (paramTrue(includeToday)) {
+    if (paramTrue(includeToday) || typeof includeToday === 'object') {
         console.log('adding today');
-        const todayPerf = await strategyPerfToday(Robinhood);
+        const todayPerf = typeof includeToday === 'object' ? includeToday : await strategyPerfToday(Robinhood);
         todayPerf.forEach(perf => {
             let { strategyName, avgTrend } = perf;
             const lastDash = strategyName.lastIndexOf('-');
