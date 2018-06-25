@@ -37,16 +37,20 @@ module.exports = async (Robinhood) => {
             minCounts: [2, 5, 10, 13, 17]
         },
         {
-            dayCount: 25,
-            minCounts: [7, 13, 18, 23]
+            dayCount: 30,
+            minCounts: [7, 13, 22]
+        },
+        {
+            dayCount: 40,
+            minCounts: [7, 18, 24, 30]
         }
     ];
 
     const additionalVariations = {
         count2to4: () => pick => pick.count >= 2 && pick.count <= 4,
         creme: (stratPerfOverall, dayCount) => {
-
-            const getCreme = stratPerf => {
+            console.log(stratPerfOverall, dayCount, 'buritto');
+            const getWhileLoopCreme = stratPerf => {
                 let curMinPercUp = 1;
                 let curMinAvgTrend = 2.9;
                 let numResults = null;
@@ -72,7 +76,17 @@ module.exports = async (Robinhood) => {
                     attempts++;
                 }
                 return uniqified;
-            }
+            };
+
+            const getHundredResultCreme = stratPerf => {
+
+                console.log('stratPerf', stratPerf);
+                const top10 = stratPerf.slice(0, 10);
+                const sortedByHundredResult = top10.sort((a, b) => b.hundredResult - a.hundredResult);
+                const topPick = sortedByHundredResult[0];
+                return topPick ? [topPick] : [];
+
+            };
 
             const minCount = Math.ceil(dayCount * 0.69);
             const countFiltered = stratPerfOverall.filter(pick => pick.count >= minCount);
@@ -81,8 +95,10 @@ module.exports = async (Robinhood) => {
             );
 
             return {
-                [`day${dayCount}creme`]: getNames(getCreme(countFiltered)),
-                [`day${dayCount}creme-allGt1`]: getNames(getCreme(allGt1)),
+                whileLoopCreme: getWhileLoopCreme(countFiltered),
+                'whileLoopCreme-allGt1': getWhileLoopCreme(allGt1),
+                hundredResultCreme: getHundredResultCreme(countFiltered),
+                'hundredResultCreme-allGt1': getHundredResultCreme(allGt1)
             };
 
         }
@@ -98,10 +114,15 @@ module.exports = async (Robinhood) => {
         };
     };
     const uniqifyAndAddPM = (prefix, picksObj) => {
-        const withUniq = (name, list) => ({
-            [`${prefix}-${name}`]: getNames(list),
-            [`${prefix}-uniq-${name}`]: getNames(uniqifyArrayOfStrategies(list))
-        });
+        const withUniq = (name, list) => {
+            const names = getNames(list);
+            const uniqNames = getNames(uniqifyArrayOfStrategies(list));
+            const isSame = names.toString() === uniqNames.toString();
+            return {
+                [`${prefix}-${name}`]: getNames(list),
+                ...!isSame && { [`${prefix}-uniq-${name}`]: uniqNames }
+            };
+        };
         const picksObjWithUniq = Object.keys(picksObj).reduce((acc, val) => ({
             ...acc,
             ...withUniq(
@@ -112,7 +133,7 @@ module.exports = async (Robinhood) => {
         addPM(picksObjWithUniq);
     };
 
-    const createPicksObjFromSortedByPercUp = sortedByPercUp => {
+    const createPicksObjFromSortedByPercUp = (sortedByPercUp, dayCount) => {
         const hundredUpPicks = sortedByPercUp
             .filter(pick => pick.percUp === 1);
 
@@ -143,7 +164,7 @@ module.exports = async (Robinhood) => {
             const prefix = `day${dayCount}${variationName}`;
             const filteredStratPerf = sortedByPercUp.filter(filterFn);
             console.log('---filtered')
-            const picksObj = createPicksObjFromSortedByPercUp(filteredStratPerf);
+            const picksObj = createPicksObjFromSortedByPercUp(filteredStratPerf, dayCount);
             console.log('---picksobj')
             uniqifyAndAddPM(prefix, picksObj);
             console.log('---uniq')
@@ -168,16 +189,22 @@ module.exports = async (Robinhood) => {
         //     uniqifyAndAddPM(`day${dayCount}${variationName}`, picksObj);
         // });
 
+        // add count2to4
         filterSortedByPercUpAndAddToResults(
             'count2to4',
             additionalVariations.count2to4
         );
 
+        // add cremeObj (1 / dayCount)
         const cremeObj = additionalVariations.creme(
             sortedByPercUp,
             dayCount
         );
-        addPM(cremeObj);
+        const cremeObjWithPrefix = Object.keys(cremeObj).reduce((acc, val) => ({
+            ...acc,
+            [`day${dayCount}-${val}`]: getNames(cremeObj[val])
+        }), {});
+        addPM(cremeObjWithPrefix);
 
         console.log('done')
     }
