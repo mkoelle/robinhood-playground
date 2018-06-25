@@ -91,8 +91,8 @@ const forPurchase = [
     'sudden-drops-last3trend-first1-280',
     'low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10-150',
     'low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout-25',
-    'based-on-jump-down3overnight-trending103-notWatchout-first1-fiveTo10-0'
-    'sudden-drops-last30trend-filter20-tenTo15-388'
+    'based-on-jump-down3overnight-trending103-notWatchout-first1-fiveTo10-0',
+    'sudden-drops-last30trend-filter20-tenTo15-388',
     'based-on-jump-down3overnight-trending35257-first1-tenTo15-5'
 ];
 
