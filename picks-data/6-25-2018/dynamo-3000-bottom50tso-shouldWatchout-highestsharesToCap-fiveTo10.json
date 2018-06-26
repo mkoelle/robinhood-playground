@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLNK",
+      "price": 5.3422
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.4801
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTD",
+      "price": 5.05
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.1628
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRFS",
+      "price": 5
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 5.15
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.291
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "ELMD",
+      "price": 5.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CARV",
+      "price": 5.02
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.035
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELMD",
+      "price": 5.215
+    },
+    {
+      "ticker": "FTD",
+      "price": 5.1
+    }
+  ]
+}

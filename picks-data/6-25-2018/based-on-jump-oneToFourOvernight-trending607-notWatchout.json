@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "TNK",
+      "price": 1.305
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.02
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.55
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.8901
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNK",
+      "price": 1.2775
+    },
+    {
+      "ticker": "ATXI",
+      "price": 4.02
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.55
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.9199
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNK",
+      "price": 1.275
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.9677
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.895
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.45
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.3
+    }
+  ]
+}

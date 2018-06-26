@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HALL",
+      "price": 10.07
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NES",
+      "price": 9.81
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 9.67
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 9.66
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 9.82
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 9.78
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.845
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NES",
+      "price": 9.99
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.805
+    }
+  ]
+}

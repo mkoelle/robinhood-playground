@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 9.6
+    },
+    {
+      "ticker": "INNT",
+      "price": 14.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 12.065
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 12.4199
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.828
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 12.9734
+    },
+    {
+      "ticker": "HX",
+      "price": 10.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 10.1926
+    },
+    {
+      "ticker": "UVXY",
+      "price": 13.0599
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 10.05
+    },
+    {
+      "ticker": "GEVO",
+      "price": 9.86
+    }
+  ]
+}

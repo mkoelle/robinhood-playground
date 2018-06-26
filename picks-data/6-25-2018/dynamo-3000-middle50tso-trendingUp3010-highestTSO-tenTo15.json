@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KIRK",
+      "price": 12.6
+    },
+    {
+      "ticker": "NAN",
+      "price": 12.5125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VLT",
+      "price": 13.531
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFL",
+      "price": 12.81
+    },
+    {
+      "ticker": "MQY",
+      "price": 13.9065
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VLY",
+      "price": 12.645
+    },
+    {
+      "ticker": "HMTV",
+      "price": 13.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ESCA",
+      "price": 14.95
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AWF",
+      "price": 11.57
+    },
+    {
+      "ticker": "MPW",
+      "price": 14.085
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BFK",
+      "price": 12.8411
+    },
+    {
+      "ticker": "GHY",
+      "price": 13.69
+    }
+  ]
+}

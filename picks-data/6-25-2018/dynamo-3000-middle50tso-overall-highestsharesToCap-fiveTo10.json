@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SAN",
+      "price": 5.43
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VHI",
+      "price": 5.14
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NRO",
+      "price": 5.06
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.0601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LYTS",
+      "price": 5.13
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.155
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GGN",
+      "price": 5.0652
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.0548
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LYTS",
+      "price": 5.1
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGBX",
+      "price": 5.03
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.065
+    }
+  ]
+}

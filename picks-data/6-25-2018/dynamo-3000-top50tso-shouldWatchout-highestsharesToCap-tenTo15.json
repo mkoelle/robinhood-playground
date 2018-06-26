@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPKE",
+      "price": 10.15
+    },
+    {
+      "ticker": "SYBX",
+      "price": 9.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WOW",
+      "price": 9.955
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPKE",
+      "price": 10.495
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 10.03
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HX",
+      "price": 10.14
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 10.1926
+    },
+    {
+      "ticker": "HX",
+      "price": 10.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 10.05
+    },
+    {
+      "ticker": "GEVO",
+      "price": 9.86
+    }
+  ]
+}

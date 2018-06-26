@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MGTA",
+      "price": 14.3
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.8394
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WOW",
+      "price": 9.955
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 11.22
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 10.03
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HX",
+      "price": 10.14
+    },
+    {
+      "ticker": "DSKE",
+      "price": 10.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 10.1926
+    },
+    {
+      "ticker": "HX",
+      "price": 10.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 10.05
+    },
+    {
+      "ticker": "GEVO",
+      "price": 9.86
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.23
+    },
+    {
+      "ticker": "DBD",
+      "price": 13.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBD",
+      "price": 12.75
+    },
+    {
+      "ticker": "INAP",
+      "price": 12.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 12.45
+    },
+    {
+      "ticker": "BFR",
+      "price": 14.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.98
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DBD",
+      "price": 12.65
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.2199
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DBD",
+      "price": 12.525
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.035
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DBD",
+      "price": 12.45
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.02
+    }
+  ]
+}

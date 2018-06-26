@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 9.31
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFH",
+      "price": 9.6
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WOW",
+      "price": 9.9
+    },
+    {
+      "ticker": "RARX",
+      "price": 9.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RARX",
+      "price": 9.79
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.9501
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RARX",
+      "price": 9.91
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.9248
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 9.495
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.0551
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RARX",
+      "price": 9.66
+    },
+    {
+      "ticker": "DWT",
+      "price": 8.0099
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AETI",
+      "price": 1.225
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.2472
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHNR",
+      "price": 2.3601
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 4.7952
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.1934
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRXC",
+      "price": 4.845
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.1856
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RENN",
+      "price": 2.455
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.9401
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RENN",
+      "price": 2.4
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RENN",
+      "price": 2.45
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.9657
+    }
+  ]
+}

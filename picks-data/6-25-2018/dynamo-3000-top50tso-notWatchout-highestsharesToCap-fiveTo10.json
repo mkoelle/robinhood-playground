@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HBIO",
+      "price": 5.3
+    },
+    {
+      "ticker": "TIS",
+      "price": 5.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TSRI",
+      "price": 5.5055
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TSRI",
+      "price": 5.8
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSRI",
+      "price": 6.0747
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.135
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TSRI",
+      "price": 6.17
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.095
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TSRI",
+      "price": 6.0753
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TSRI",
+      "price": 6.032
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.09
+    }
+  ]
+}

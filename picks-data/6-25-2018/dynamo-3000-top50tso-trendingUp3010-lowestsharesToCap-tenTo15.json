@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFI",
+      "price": 14.4589
+    },
+    {
+      "ticker": "NSTG",
+      "price": 14.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FF",
+      "price": 14.26
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UMRX",
+      "price": 14.13
+    },
+    {
+      "ticker": "INNT",
+      "price": 15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMRX",
+      "price": 14.74
+    },
+    {
+      "ticker": "FRBA",
+      "price": 13.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMRX",
+      "price": 14.86
+    },
+    {
+      "ticker": "FRBA",
+      "price": 13.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TREC",
+      "price": 14.3
+    },
+    {
+      "ticker": "VRA",
+      "price": 15.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRA",
+      "price": 15.02
+    },
+    {
+      "ticker": "SPRO",
+      "price": 15.16
+    }
+  ]
+}

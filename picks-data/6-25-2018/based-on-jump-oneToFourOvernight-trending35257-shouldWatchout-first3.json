@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "DCIX",
+      "price": 1.8
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.41
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DCIX",
+      "price": 1.73
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.47
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DCIX",
+      "price": 1.7653
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.44
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.553
+    }
+  ]
+}

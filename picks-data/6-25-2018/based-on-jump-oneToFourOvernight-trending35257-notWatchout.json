@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "SOL",
+      "price": 2.78
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.305
+    },
+    {
+      "ticker": "TUES",
+      "price": 3
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.8901
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOL",
+      "price": 2.7325
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.2775
+    },
+    {
+      "ticker": "TUES",
+      "price": 3
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.9199
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOL",
+      "price": 2.79
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.275
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.895
+    },
+    {
+      "ticker": "TUES",
+      "price": 3
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.3
+    }
+  ]
+}

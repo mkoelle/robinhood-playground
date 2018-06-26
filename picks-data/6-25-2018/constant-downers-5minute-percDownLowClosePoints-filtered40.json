@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VII",
+      "price": 0.2224
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.55
+    },
+    {
+      "ticker": "AST",
+      "price": 1.625
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CFRX",
+      "price": 2.1701
+    },
+    {
+      "ticker": "NBEV",
+      "price": 2.0243
+    },
+    {
+      "ticker": "ATEC",
+      "price": 2.67
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CRMD",
+      "price": 0.225
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5601
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.235
+    }
+  ]
+}

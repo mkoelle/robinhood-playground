@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESCA",
+      "price": 14.2753
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNNA",
+      "price": 14.95
+    },
+    {
+      "ticker": "XON",
+      "price": 14.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMD",
+      "price": 14.9185
+    },
+    {
+      "ticker": "XON",
+      "price": 14.7699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BILI",
+      "price": 14.94
+    },
+    {
+      "ticker": "AMD",
+      "price": 14.916
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMTA",
+      "price": 15.0395
+    },
+    {
+      "ticker": "XON",
+      "price": 14.2448
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDXS",
+      "price": 14.5
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZYME",
+      "price": 14.975
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.45
+    }
+  ]
+}

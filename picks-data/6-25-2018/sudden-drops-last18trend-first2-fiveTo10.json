@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "RDVT",
+      "price": 8.5
+    },
+    {
+      "ticker": "KALV",
+      "price": 8.35
+    }
+  ],
+  "280": [
+    {
+      "ticker": "MACK",
+      "price": 5.37
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.48
+    }
+  ],
+  "328": [
+    {
+      "ticker": "CARV",
+      "price": 5.02
+    },
+    {
+      "ticker": "XENE",
+      "price": 7.75
+    }
+  ],
+  "388": [
+    {
+      "ticker": "XBIO",
+      "price": 5.55
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.62
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESCA",
+      "price": 14.2753
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.9152
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SBPH",
+      "price": 11.64
+    },
+    {
+      "ticker": "CTSO",
+      "price": 10.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BHAC",
+      "price": 10.99
+    },
+    {
+      "ticker": "NSSC",
+      "price": 13.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BHAC",
+      "price": 10.84
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.001
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BHAC",
+      "price": 10.83
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 12.4
+    },
+    {
+      "ticker": "NSSC",
+      "price": 13.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 12.29
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.45
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIS",
+      "price": 5.5
+    },
+    {
+      "ticker": "ABIL",
+      "price": 6.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 9
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDVT",
+      "price": 9.41
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.6385
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 8.94
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.6557
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRYS",
+      "price": 6.7547
+    },
+    {
+      "ticker": "RARX",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 8.61
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 9.2
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.56
+    }
+  ]
+}

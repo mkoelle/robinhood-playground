@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FRTA",
+      "price": 9.97
+    },
+    {
+      "ticker": "PBR",
+      "price": 9.545
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCLR",
+      "price": 8.59
+    },
+    {
+      "ticker": "ELVT",
+      "price": 8.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTRP",
+      "price": 9.71
+    },
+    {
+      "ticker": "AFH",
+      "price": 9.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 9.45
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKD",
+      "price": 9.23
+    },
+    {
+      "ticker": "KONE",
+      "price": 8.4855
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GIFI",
+      "price": 9.475
+    },
+    {
+      "ticker": "OVID",
+      "price": 8.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCS",
+      "price": 8.5438
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.25
+    }
+  ]
+}

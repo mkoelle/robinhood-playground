@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PES",
+      "price": 5.175
+    },
+    {
+      "ticker": "GLDD",
+      "price": 5.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PES",
+      "price": 5.016
+    },
+    {
+      "ticker": "GLDD",
+      "price": 5.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSLR",
+      "price": 5.2
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 5.05
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSLR",
+      "price": 5.15
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSLR",
+      "price": 5.1
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSLR",
+      "price": 5.1
+    },
+    {
+      "ticker": "CCLP",
+      "price": 5.25
+    }
+  ]
+}

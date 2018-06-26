@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INPX",
+      "price": 0.1416
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.9347
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INPX",
+      "price": 0.165
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVXL",
+      "price": 3.5
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.5054
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UAMY",
+      "price": 0.485
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTI",
+      "price": 0.54
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVXL",
+      "price": 3.2792
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.1082
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVXL",
+      "price": 3.26
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.66
+    }
+  ]
+}

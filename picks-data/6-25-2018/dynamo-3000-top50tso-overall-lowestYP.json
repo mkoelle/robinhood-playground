@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TNTR",
+      "price": 0.1899
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.8158
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LMFA",
+      "price": 0.4285
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.1543
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LMFA",
+      "price": 0.4297
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDGE",
+      "price": 1.17
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.2713
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDGE",
+      "price": 1.225
+    },
+    {
+      "ticker": "AXON",
+      "price": 2.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EDGE",
+      "price": 1.1785
+    },
+    {
+      "ticker": "VSAR",
+      "price": 2.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EDGE",
+      "price": 1.18
+    },
+    {
+      "ticker": "CHKE",
+      "price": 0.6401
+    }
+  ]
+}

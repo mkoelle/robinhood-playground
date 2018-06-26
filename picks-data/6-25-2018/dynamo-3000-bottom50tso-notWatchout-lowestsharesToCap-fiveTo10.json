@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HALL",
+      "price": 10.07
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPN",
+      "price": 9.54
+    },
+    {
+      "ticker": "NATR",
+      "price": 9.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPN",
+      "price": 9.32
+    },
+    {
+      "ticker": "NATR",
+      "price": 9.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNI",
+      "price": 9.5301
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNI",
+      "price": 9.5301
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.435
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNI",
+      "price": 9.81
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.36
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPN",
+      "price": 9.39
+    },
+    {
+      "ticker": "INS",
+      "price": 8.9434
+    }
+  ]
+}

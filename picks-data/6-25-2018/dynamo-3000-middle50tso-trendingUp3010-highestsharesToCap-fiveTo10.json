@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SAN",
+      "price": 5.43
+    },
+    {
+      "ticker": "GLUU",
+      "price": 6.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMP",
+      "price": 5.3
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NRO",
+      "price": 5.06
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HIL",
+      "price": 5.95
+    },
+    {
+      "ticker": "IAF",
+      "price": 6.0262
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GGN",
+      "price": 5.0652
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.0548
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANH",
+      "price": 5.16
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGBX",
+      "price": 5.03
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.065
+    }
+  ]
+}

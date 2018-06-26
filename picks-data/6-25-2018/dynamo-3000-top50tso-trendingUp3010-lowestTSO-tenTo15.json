@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSU",
+      "price": 11.32
+    },
+    {
+      "ticker": "AKAO",
+      "price": 12.555
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KIN",
+      "price": 11.225
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 11.69
+    },
+    {
+      "ticker": "XAN",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XAN",
+      "price": 10.1975
+    },
+    {
+      "ticker": "BOCH",
+      "price": 12.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRBA",
+      "price": 13.875
+    },
+    {
+      "ticker": "SMTA",
+      "price": 10.33
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TREC",
+      "price": 14.3
+    },
+    {
+      "ticker": "XAN",
+      "price": 10.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEOS",
+      "price": 13.65
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.45
+    }
+  ]
+}

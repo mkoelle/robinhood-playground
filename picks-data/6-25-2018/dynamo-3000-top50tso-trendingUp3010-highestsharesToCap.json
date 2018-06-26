@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTNP",
+      "price": 1.075
+    },
+    {
+      "ticker": "NAO",
+      "price": 1.1501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OESX",
+      "price": 1.06
+    },
+    {
+      "ticker": "INFI",
+      "price": 2.085
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HGT",
+      "price": 0.77
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.7387
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AAU",
+      "price": 0.742
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AAU",
+      "price": 0.7411
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMPE",
+      "price": 2.165
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.312
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OESX",
+      "price": 1.07
+    },
+    {
+      "ticker": "RAD",
+      "price": 2.11
+    }
+  ]
+}

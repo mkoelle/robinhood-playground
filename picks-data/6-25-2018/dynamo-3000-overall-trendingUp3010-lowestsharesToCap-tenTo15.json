@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESCA",
+      "price": 14.2753
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.693
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CS",
+      "price": 15.01
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CS",
+      "price": 15.01
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.98
+    },
+    {
+      "ticker": "CS",
+      "price": 15.0166
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMTA",
+      "price": 15.0395
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDXS",
+      "price": 14.5
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDXS",
+      "price": 14.45
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.3
+    }
+  ]
+}

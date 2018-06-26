@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SENS",
+      "price": 4.769
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.725
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CELH",
+      "price": 4.4399
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.5641
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DHT",
+      "price": 4.58
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.7499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RVLT",
+      "price": 4.231
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RVLT",
+      "price": 4.24
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RVLT",
+      "price": 4.163
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RVLT",
+      "price": 4.25
+    },
+    {
+      "ticker": "TYME",
+      "price": 3.75
+    }
+  ]
+}

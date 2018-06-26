@@ -1,0 +1,44 @@
+{
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 2.05
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.1268
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 2.2171
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.1268
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.275
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 2.271
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.2
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DEST",
+      "price": 6.4
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CADC",
+      "price": 8.65
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 6.85
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.6525
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 6.8535
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.407
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 6.9595
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.945
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENPH",
+      "price": 6.98
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.18
+    }
+  ]
+}

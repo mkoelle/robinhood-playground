@@ -86,14 +86,13 @@ const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-
-    'low-float-high-volume-volToAvgPoints-trendgt20-notWatchout-fiveTo10-210',
-    'sudden-drops-last3trend-first1-280',
-    'low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10-150',
-    'low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout-25',
-    'based-on-jump-down3overnight-trending103-notWatchout-first1-fiveTo10-0',
-    'sudden-drops-last30trend-filter20-tenTo15-388',
-    'based-on-jump-down3overnight-trending35257-first1-tenTo15-5'
+    'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10-16',
+    'low-float-high-volume-volToAvgPoints-trendup1to3-shouldWatchout-25',
+    'based-on-jump-down8overnight-trending607-gt500kvolume-16',
+    'based-on-jump-down3overnight-trending607-shouldWatchout-first1-tenTo15-30',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10-95',
+    'dynamo-3000-overall-notWatchout-lowestTSO-fiveTo10-4',
+    'low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10-210',
 ];
 
 const cheapestPicksEmailObj = [

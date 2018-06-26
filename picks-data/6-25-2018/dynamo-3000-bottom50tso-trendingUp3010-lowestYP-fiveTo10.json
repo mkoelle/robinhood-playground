@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSUM",
+      "price": 6.26
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QD",
+      "price": 9.34
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QD",
+      "price": 9.42
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QD",
+      "price": 9.295
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QD",
+      "price": 9.4
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 9.78
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.57
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 9.805
+    },
+    {
+      "ticker": "IDT",
+      "price": 6.37
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "EVLO",
+      "price": 13.44
+    },
+    {
+      "ticker": "FENC",
+      "price": 11.59
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.84
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.9
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CRVS",
+      "price": 12.05
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.02
+    },
+    {
+      "ticker": "FENC",
+      "price": 11.59
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.6028
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.1
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CRVS",
+      "price": 12.26
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.29
+    },
+    {
+      "ticker": "AMID",
+      "price": 10.769
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.64
+    },
+    {
+      "ticker": "CIX",
+      "price": 12.9243
+    }
+  ]
+}

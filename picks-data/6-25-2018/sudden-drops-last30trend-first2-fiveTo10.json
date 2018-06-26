@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "CADC",
+      "price": 7.3
+    },
+    {
+      "ticker": "MACK",
+      "price": 5.351
+    }
+  ],
+  "280": [
+    {
+      "ticker": "RDVT",
+      "price": 8.48
+    },
+    {
+      "ticker": "MACK",
+      "price": 5.37
+    }
+  ],
+  "328": [
+    {
+      "ticker": "IDT",
+      "price": 6.45
+    },
+    {
+      "ticker": "MACK",
+      "price": 5.3125
+    }
+  ],
+  "388": [
+    {
+      "ticker": "XBIO",
+      "price": 5.55
+    },
+    {
+      "ticker": "DVCR",
+      "price": 6.62
+    }
+  ]
+}

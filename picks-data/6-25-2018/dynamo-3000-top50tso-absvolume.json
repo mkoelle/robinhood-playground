@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TROV",
+      "price": 0.8158
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.9347
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVFY",
+      "price": 1.7989
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AAU",
+      "price": 0.7387
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.5054
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBK",
+      "price": 0.9241
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BW",
+      "price": 2.32
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.1225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASTC",
+      "price": 4.3627
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.1082
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BCLI",
+      "price": 4.17
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.66
+    }
+  ]
+}

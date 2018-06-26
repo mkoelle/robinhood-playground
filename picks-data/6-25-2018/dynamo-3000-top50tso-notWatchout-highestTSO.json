@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WWR",
+      "price": 0.4467
+    },
+    {
+      "ticker": "EVOL",
+      "price": 3.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPHS",
+      "price": 2.235
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.3601
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPHS",
+      "price": 2.2466
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4878
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPHS",
+      "price": 2.19
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RAVE",
+      "price": 1.5348
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPHS",
+      "price": 2.225
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.5101
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPHS",
+      "price": 2.24
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.51
+    }
+  ]
+}

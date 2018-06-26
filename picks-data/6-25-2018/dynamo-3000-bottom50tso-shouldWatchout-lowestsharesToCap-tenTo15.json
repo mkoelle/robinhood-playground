@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VECO",
+      "price": 14.85
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XON",
+      "price": 14.99
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XON",
+      "price": 14.7699
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.98
+    },
+    {
+      "ticker": "XON",
+      "price": 14.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMTA",
+      "price": 15.0395
+    },
+    {
+      "ticker": "XON",
+      "price": 14.2448
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 14.6
+    },
+    {
+      "ticker": "XON",
+      "price": 14.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 14.3
+    },
+    {
+      "ticker": "XON",
+      "price": 14.255
+    }
+  ]
+}

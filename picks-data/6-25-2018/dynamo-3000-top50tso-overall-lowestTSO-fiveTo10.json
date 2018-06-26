@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHS",
+      "price": 8.58
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFNX",
+      "price": 5.46
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.68
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TSQ",
+      "price": 6.44
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CARV",
+      "price": 5.35
+    },
+    {
+      "ticker": "SOHO",
+      "price": 6.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSI",
+      "price": 7.375
+    },
+    {
+      "ticker": "ADVM",
+      "price": 6.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 9.495
+    },
+    {
+      "ticker": "GRBK",
+      "price": 9.3975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRSH",
+      "price": 5.29
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.56
+    }
+  ]
+}

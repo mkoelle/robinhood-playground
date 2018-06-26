@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESCA",
+      "price": 14.2753
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.9152
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.7
+    },
+    {
+      "ticker": "SBPH",
+      "price": 11.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.6305
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.5198
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.52
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 12.4
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 12.29
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 10.49
+    }
+  ]
+}

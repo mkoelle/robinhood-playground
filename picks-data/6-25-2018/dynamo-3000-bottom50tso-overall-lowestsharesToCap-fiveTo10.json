@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HALL",
+      "price": 10.07
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 9.91
+    },
+    {
+      "ticker": "SIEB",
+      "price": 9.2175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 9.67
+    },
+    {
+      "ticker": "CLSD",
+      "price": 9.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 9.66
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.5301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 9.82
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.5301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 9.78
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 9.805
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.39
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "SPHS",
+      "price": 2.05
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.1268
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.3
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.5216
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPHS",
+      "price": 2.2171
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.1268
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.275
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPHS",
+      "price": 2.271
+    },
+    {
+      "ticker": "ATAI",
+      "price": 4.95
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.2
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.3
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.51
+    }
+  ]
+}
