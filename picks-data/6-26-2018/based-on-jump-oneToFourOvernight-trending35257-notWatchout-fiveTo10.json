@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "SMI",
+      "price": 7.17
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.2
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.3498
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMI",
+      "price": 7.12
+    },
+    {
+      "ticker": "XSPL",
+      "price": 9.1001
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMI",
+      "price": 7.1321
+    },
+    {
+      "ticker": "XSPL",
+      "price": 9
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.225
+    },
+    {
+      "ticker": "SHSP",
+      "price": 9
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SMI",
+      "price": 7.135
+    },
+    {
+      "ticker": "XSPL",
+      "price": 9
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.225
+    },
+    {
+      "ticker": "SHSP",
+      "price": 8.9582
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.2699
+    }
+  ]
+}

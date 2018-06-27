@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AVGR",
+      "price": 1.9
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.1728
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVGR",
+      "price": 1.84
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.1557
+    },
+    {
+      "ticker": "CIDM",
+      "price": 1.59
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACHV",
+      "price": 4.68
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.8385
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.075
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACHV",
+      "price": 4.6289
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7715
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.07
+    }
+  ]
+}

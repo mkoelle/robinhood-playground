@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.18
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDLP",
+      "price": 3.2099
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BMRA",
+      "price": 3.6683
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.2399
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.2627
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BMRA",
+      "price": 3.6683
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.2263
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.304
+    }
+  ]
+}

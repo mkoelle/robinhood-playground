@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HX",
+      "price": 10.495
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.85
+    },
+    {
+      "ticker": "VIPS",
+      "price": 11.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HX",
+      "price": 10.38
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.4195
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.6401
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HX",
+      "price": 10
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.2905
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HX",
+      "price": 10.2
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.56
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.79
+    }
+  ]
+}

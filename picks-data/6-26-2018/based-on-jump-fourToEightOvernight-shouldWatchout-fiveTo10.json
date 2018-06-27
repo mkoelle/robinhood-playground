@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GNPX",
+      "price": 8.465
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.692
+    },
+    {
+      "ticker": "XTNT",
+      "price": 5.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 8.681
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "XTNT",
+      "price": 5.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 9.17
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8
+    },
+    {
+      "ticker": "XTNT",
+      "price": 5.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 10.05
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.75
+    },
+    {
+      "ticker": "XTNT",
+      "price": 5.9
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2934
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.3265
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.2899
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.3525
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.291
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.2685
+    },
+    {
+      "ticker": "SPHS",
+      "price": 2.6589
+    }
+  ]
+}

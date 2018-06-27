@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PYDS",
+      "price": 1.6991
+    },
+    {
+      "ticker": "OCX",
+      "price": 3
+    },
+    {
+      "ticker": "NTEC",
+      "price": 4.45
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PYDS",
+      "price": 1.6461
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.025
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OCX",
+      "price": 3
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.35
+    },
+    {
+      "ticker": "CLRO",
+      "price": 3.795
+    }
+  ]
+}

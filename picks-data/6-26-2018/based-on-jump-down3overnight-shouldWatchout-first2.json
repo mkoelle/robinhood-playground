@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XBIO",
+      "price": 4.3807
+    },
+    {
+      "ticker": "SLS",
+      "price": 3.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XBIO",
+      "price": 4.58
+    },
+    {
+      "ticker": "SLS",
+      "price": 3.72
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XBIO",
+      "price": 4.411
+    },
+    {
+      "ticker": "SLS",
+      "price": 3.5757
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SLS",
+      "price": 3.68
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.7198
+    }
+  ]
+}

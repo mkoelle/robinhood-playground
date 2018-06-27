@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 1.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INFU",
+      "price": 3.5283
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INFU",
+      "price": 3.549
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INFU",
+      "price": 3.5
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0106
+    }
+  ]
+}

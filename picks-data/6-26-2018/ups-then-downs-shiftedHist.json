@@ -1,0 +1,48 @@
+{
+  "10": [
+    {
+      "ticker": "SACH",
+      "price": 4.17
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.52
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RVLT",
+      "price": 4.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBVX",
+      "price": 0.95
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.385
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MBVX",
+      "price": 0.9316
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.3287
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MBVX",
+      "price": 0.9316
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.31
+    }
+  ]
+}

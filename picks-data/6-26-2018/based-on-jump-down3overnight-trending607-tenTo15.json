@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "YRIV",
+      "price": 10.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YRIV",
+      "price": 10.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABIL",
+      "price": 12.5
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.44
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.7501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABIL",
+      "price": 12.53
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.4922
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.68
+    }
+  ]
+}

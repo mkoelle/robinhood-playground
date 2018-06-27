@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 12.12
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UVXY",
+      "price": 12.7725
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABIL",
+      "price": 12.5
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.521
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABIL",
+      "price": 12.53
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.33
+    },
+    {
+      "ticker": "YRIV",
+      "price": 10.4922
+    }
+  ]
+}

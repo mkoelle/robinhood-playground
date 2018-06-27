@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XBIO",
+      "price": 4.3807
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XBIO",
+      "price": 4.58
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XBIO",
+      "price": 4.411
+    },
+    {
+      "ticker": "YECO",
+      "price": 4.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "YECO",
+      "price": 4.14
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.0873
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "XXII",
+      "price": 2.5659
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INFU",
+      "price": 3.5283
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.3335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INFU",
+      "price": 3.549
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.2904
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INFU",
+      "price": 3.5
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.2904
+    }
+  ]
+}

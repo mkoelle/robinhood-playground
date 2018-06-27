@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTR",
+      "price": 11.11
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTR",
+      "price": 11.07
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IKNX",
+      "price": 10.752
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.06
+    }
+  ]
+}

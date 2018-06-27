@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "AVGR",
+      "price": 1.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LEE",
+      "price": 3
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.84
+    },
+    {
+      "ticker": "LIFE",
+      "price": 1.1557
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACHV",
+      "price": 4.68
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.825
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.8385
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACHV",
+      "price": 4.6289
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.881
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.7715
+    }
+  ]
+}

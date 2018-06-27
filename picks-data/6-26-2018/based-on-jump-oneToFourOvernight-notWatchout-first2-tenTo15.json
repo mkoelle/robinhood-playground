@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 11.75
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 11.51
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACH",
+      "price": 10.99
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.7819
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACH",
+      "price": 10.99
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.727
+    }
+  ]
+}

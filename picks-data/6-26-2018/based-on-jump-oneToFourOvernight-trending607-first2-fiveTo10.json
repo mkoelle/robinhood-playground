@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTAI",
+      "price": 9.1998
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.17
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 9.25
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTAI",
+      "price": 9.2
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.1321
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTAI",
+      "price": 9.2
+    },
+    {
+      "ticker": "SMI",
+      "price": 7.135
+    }
+  ]
+}

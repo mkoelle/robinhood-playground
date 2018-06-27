@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "LIFE",
+      "price": 1.15
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.915
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIFE",
+      "price": 1.02
+    },
+    {
+      "ticker": "PLG",
+      "price": 0.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIFE",
+      "price": 0.9837
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIFE",
+      "price": 1.02
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIFE",
+      "price": 1.01
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIFE",
+      "price": 1.01
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.1
+    }
+  ]
+}

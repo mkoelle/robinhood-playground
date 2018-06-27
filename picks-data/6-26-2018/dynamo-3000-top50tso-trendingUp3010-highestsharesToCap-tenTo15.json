@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "EXPR",
+      "price": 10.15
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.019
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABIL",
+      "price": 14.07
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABIL",
+      "price": 13.195
+    },
+    {
+      "ticker": "LFGR",
+      "price": 10.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABIL",
+      "price": 12.45
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.0366
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCYO",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABIL",
+      "price": 11.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PCYO",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABIL",
+      "price": 12.02
+    }
+  ]
+}

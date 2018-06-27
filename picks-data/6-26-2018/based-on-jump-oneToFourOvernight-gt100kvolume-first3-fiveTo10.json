@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 6.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR",
+      "price": 9.725
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.84
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR",
+      "price": 9.7967
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.85
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.7288
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR",
+      "price": 9.705
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.865
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.41
+    }
+  ]
+}

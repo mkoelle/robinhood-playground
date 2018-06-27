@@ -1,0 +1,45 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "INFU",
+      "price": 3.5283
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.6767
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INFU",
+      "price": 3.549
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.65
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INFU",
+      "price": 3.5
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.5851
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0106
+    }
+  ]
+}

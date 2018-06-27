@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BVSN",
+      "price": 2.1
+    },
+    {
+      "ticker": "ARTW",
+      "price": 3.0134
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.915
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BVSN",
+      "price": 2.01
+    },
+    {
+      "ticker": "ARTW",
+      "price": 2.8
+    }
+  ]
+}

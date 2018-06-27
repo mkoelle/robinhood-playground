@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 11.75
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.85
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 11.51
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.6401
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.115
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 11.7819
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.71
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 11.727
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.79
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.97
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSLR",
+      "price": 5.2
+    },
+    {
+      "ticker": "CMCL",
+      "price": 8.3194
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XSPL",
+      "price": 9.1001
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XSPL",
+      "price": 9
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XSPL",
+      "price": 9
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.225
+    }
+  ]
+}

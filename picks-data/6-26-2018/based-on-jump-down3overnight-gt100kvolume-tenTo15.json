@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "AKAO",
+      "price": 10.46
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKAO",
+      "price": 9.9625
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.7725
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABIL",
+      "price": 12.5
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.521
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABIL",
+      "price": 12.53
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.33
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.0892
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.87
+    }
+  ]
+}

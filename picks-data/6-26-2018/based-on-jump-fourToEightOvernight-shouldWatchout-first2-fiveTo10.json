@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNPX",
+      "price": 8.465
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.692
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNPX",
+      "price": 8.681
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNPX",
+      "price": 9.17
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNPX",
+      "price": 10.05
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.75
+    }
+  ]
+}

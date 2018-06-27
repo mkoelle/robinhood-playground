@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.5
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTR",
+      "price": 11.11
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTR",
+      "price": 11.07
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    },
+    {
+      "ticker": "USDP",
+      "price": 10.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IKNX",
+      "price": 10.752
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.06
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    }
+  ]
+}

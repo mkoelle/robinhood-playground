@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTAI",
+      "price": 9.1998
+    },
+    {
+      "ticker": "CYTK",
+      "price": 8.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 9.25
+    },
+    {
+      "ticker": "CYTK",
+      "price": 8.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTAI",
+      "price": 9.2
+    },
+    {
+      "ticker": "LBY",
+      "price": 8.105
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTAI",
+      "price": 9.2
+    },
+    {
+      "ticker": "LBY",
+      "price": 8.12
+    }
+  ]
+}

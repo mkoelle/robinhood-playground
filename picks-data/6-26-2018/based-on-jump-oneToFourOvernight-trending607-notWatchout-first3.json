@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "XXII",
+      "price": 2.5659
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.45
+    },
+    {
+      "ticker": "NH",
+      "price": 3.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INFU",
+      "price": 3.5283
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.3335
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INFU",
+      "price": 3.549
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.2904
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INFU",
+      "price": 3.5
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.2904
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0106
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.91
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.87
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APRI",
+      "price": 0.4
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.255
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CVRS",
+      "price": 0.77
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OGEN",
+      "price": 1.5699
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ANFI",
+      "price": 2.381
+    },
+    {
+      "ticker": "OGEN",
+      "price": 1.5499
+    }
+  ]
+}
