@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CLDC",
+      "price": 3.71
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2057
+    },
+    {
+      "ticker": "ELTK",
+      "price": 3.5221
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLDC",
+      "price": 4.95
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2226
+    },
+    {
+      "ticker": "ELTK",
+      "price": 3.5221
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2175
+    },
+    {
+      "ticker": "ELTK",
+      "price": 3.5221
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPMX",
+      "price": 0.223
+    },
+    {
+      "ticker": "ELTK",
+      "price": 3.5221
+    }
+  ]
+}

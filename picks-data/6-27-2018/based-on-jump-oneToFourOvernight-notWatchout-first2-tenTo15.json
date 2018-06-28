@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HCLP",
+      "price": 11.825
+    },
+    {
+      "ticker": "FTSI",
+      "price": 15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HCLP",
+      "price": 11.8
+    },
+    {
+      "ticker": "GPOR",
+      "price": 12.515
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HCLP",
+      "price": 11.875
+    },
+    {
+      "ticker": "GPOR",
+      "price": 12.385
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HCLP",
+      "price": 11.8248
+    },
+    {
+      "ticker": "GPOR",
+      "price": 12.335
+    }
+  ]
+}

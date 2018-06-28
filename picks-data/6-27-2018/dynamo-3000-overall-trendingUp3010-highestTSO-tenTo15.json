@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABIL",
+      "price": 10.29
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RIG",
+      "price": 13.37
+    },
+    {
+      "ticker": "NDLS",
+      "price": 13.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 14.05
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.485
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 14.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.2409
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EGAN",
+      "price": 14.175
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.69
+    }
+  ]
+}

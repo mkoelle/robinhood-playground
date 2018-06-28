@@ -1,0 +1,70 @@
+{
+  "2": [],
+  "12": [],
+  "120": [
+    {
+      "ticker": "WFT",
+      "price": 3.48
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.39
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.89
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.12
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.39
+    }
+  ],
+  "180": [
+    {
+      "ticker": "AXAS",
+      "price": 2.91
+    },
+    {
+      "ticker": "ARAY",
+      "price": 4.225
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.395
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.1203
+    },
+    {
+      "ticker": "TTI",
+      "price": 4.5
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ARAY",
+      "price": 4.3
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.9501
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.36
+    },
+    {
+      "ticker": "TTI",
+      "price": 4.55
+    },
+    {
+      "ticker": "OBE",
+      "price": 1.115
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ITI",
+      "price": 5.009
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.0599
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TSI",
+      "price": 5.51
+    },
+    {
+      "ticker": "EOD",
+      "price": 5.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PPR",
+      "price": 5.05
+    },
+    {
+      "ticker": "QHC",
+      "price": 5.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATAI",
+      "price": 5.12
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATAI",
+      "price": 5.12
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.1099
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VHI",
+      "price": 5.06
+    },
+    {
+      "ticker": "SNFCA",
+      "price": 5.095
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VHI",
+      "price": 5.09
+    },
+    {
+      "ticker": "SNFCA",
+      "price": 5.095
+    }
+  ]
+}

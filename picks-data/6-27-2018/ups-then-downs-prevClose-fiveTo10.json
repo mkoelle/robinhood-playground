@@ -1,0 +1,110 @@
+{
+  "10": [
+    {
+      "ticker": "CADC",
+      "price": 8.0001
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.5
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ABIL",
+      "price": 8.7
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.035
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABIL",
+      "price": 8.4601
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.9498
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.9629
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.02
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.09
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABIL",
+      "price": 8.4
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.7
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.9
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.9875
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.01
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ABIL",
+      "price": 8.2852
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.6
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.9
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.785
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.05
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ABIL",
+      "price": 8.11
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.05
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.95
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.81
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.13
+    }
+  ]
+}

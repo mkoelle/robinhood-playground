@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UPL",
+      "price": 2.33
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.47
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UPL",
+      "price": 2.389
+    },
+    {
+      "ticker": "CCCR",
+      "price": 1.2531
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATLC",
+      "price": 2.1
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.33
+    },
+    {
+      "ticker": "CCCR",
+      "price": 1.211
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATLC",
+      "price": 2.1
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.31
+    },
+    {
+      "ticker": "CCCR",
+      "price": 1.26
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DNR",
+      "price": 4.83
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.4
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.375
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 4.925
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.401
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 4.9614
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.39
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.395
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDS",
+      "price": 3.395
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.41
+    }
+  ]
+}

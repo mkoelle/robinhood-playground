@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SMI",
+      "price": 6.63
+    },
+    {
+      "ticker": "CO",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    },
+    {
+      "ticker": "CO",
+      "price": 9.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 6.07
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 5.7042
+    },
+    {
+      "ticker": "ABIL",
+      "price": 9.5787
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AGRX",
+      "price": 0.58
+    },
+    {
+      "ticker": "CPAH",
+      "price": 2.35
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPAH",
+      "price": 2.43
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.5501
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.389
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPAH",
+      "price": 2.5168
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.5501
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AGRX",
+      "price": 0.5502
+    },
+    {
+      "ticker": "CPAH",
+      "price": 2.435
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.31
+    }
+  ]
+}

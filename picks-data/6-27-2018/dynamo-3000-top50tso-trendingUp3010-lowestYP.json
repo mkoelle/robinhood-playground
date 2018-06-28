@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRH",
+      "price": 1.2201
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.416
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMRH",
+      "price": 1.3458
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5389
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRH",
+      "price": 1.321
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAK",
+      "price": 0.5517
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7376
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAK",
+      "price": 0.5401
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7281
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAK",
+      "price": 0.54
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7269
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DGSE",
+      "price": 0.72
+    },
+    {
+      "ticker": "TTNP",
+      "price": 1.095
+    }
+  ]
+}

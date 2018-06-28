@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 5.97
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NE",
+      "price": 6.1
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NE",
+      "price": 6.14
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.0125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NE",
+      "price": 6.28
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.07
+    }
+  ]
+}

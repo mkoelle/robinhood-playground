@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PRTO",
+      "price": 2.65
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.925
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTO",
+      "price": 2.62
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.8893
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTO",
+      "price": 2.55
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.75
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVPR",
+      "price": 1.632
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.5
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.825
+    }
+  ]
+}

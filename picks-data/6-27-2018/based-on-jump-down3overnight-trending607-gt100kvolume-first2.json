@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AQXP",
+      "price": 2.74
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2057
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AQXP",
+      "price": 2.705
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2226
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AQXP",
+      "price": 2.619
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AQXP",
+      "price": 2.3801
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.223
+    }
+  ]
+}

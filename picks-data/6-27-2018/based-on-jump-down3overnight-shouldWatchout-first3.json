@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SMMT",
+      "price": 2.836
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.7101
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.1716
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMMT",
+      "price": 2.6
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.7
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.157
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMMT",
+      "price": 2.22
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.69
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.155
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SMMT",
+      "price": 2.4
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.64
+    },
+    {
+      "ticker": "ANTH",
+      "price": 0.1555
+    }
+  ]
+}

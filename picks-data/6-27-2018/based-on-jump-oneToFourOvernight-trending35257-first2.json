@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.389
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.1
+    }
+  ]
+}

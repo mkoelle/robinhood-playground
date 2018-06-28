@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SMI",
+      "price": 6.63
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.665
+    },
+    {
+      "ticker": "CO",
+      "price": 9.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.57
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.7534
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.585
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.7534
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SMI",
+      "price": 6.63
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.6
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.86
+    }
+  ]
+}

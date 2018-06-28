@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RARX",
+      "price": 9.68
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABIL",
+      "price": 8.9202
+    },
+    {
+      "ticker": "RARX",
+      "price": 9.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABIL",
+      "price": 8.533
+    },
+    {
+      "ticker": "RARX",
+      "price": 9.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABIL",
+      "price": 8.4601
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABIL",
+      "price": 8.6636
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.255
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABIL",
+      "price": 7.801
+    },
+    {
+      "ticker": "DERM",
+      "price": 8.91
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 8.14
+    },
+    {
+      "ticker": "DERM",
+      "price": 8.74
+    }
+  ]
+}

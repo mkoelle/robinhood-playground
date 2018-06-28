@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TNTR",
+      "price": 0.17
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNTR",
+      "price": 0.17
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNTR",
+      "price": 0.1612
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNTR",
+      "price": 0.156
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.64
+    }
+  ]
+}

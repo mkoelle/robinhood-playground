@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WSC",
+      "price": 15
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAST",
+      "price": 14.95
+    },
+    {
+      "ticker": "CBB",
+      "price": 14.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMSWA",
+      "price": 14.77
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.758
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WSC",
+      "price": 14.95
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 14.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 14.75
+    },
+    {
+      "ticker": "WSC",
+      "price": 15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMOS",
+      "price": 14.92
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMOS",
+      "price": 14.97
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.63
+    }
+  ]
+}

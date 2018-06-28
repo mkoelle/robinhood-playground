@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.225
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.05
+    },
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    }
+  ]
+}

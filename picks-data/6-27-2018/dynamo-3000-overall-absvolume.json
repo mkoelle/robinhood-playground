@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ANTH",
+      "price": 0.169
+    },
+    {
+      "ticker": "THST",
+      "price": 1.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BNSO",
+      "price": 3.5253
+    },
+    {
+      "ticker": "PED",
+      "price": 0.7313
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANTH",
+      "price": 0.1346
+    },
+    {
+      "ticker": "PED",
+      "price": 1.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ANTH",
+      "price": 0.127
+    },
+    {
+      "ticker": "PED",
+      "price": 1.5531
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANTH",
+      "price": 0.1379
+    },
+    {
+      "ticker": "PED",
+      "price": 2.2348
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ANTH",
+      "price": 0.1335
+    },
+    {
+      "ticker": "PED",
+      "price": 2.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANTH",
+      "price": 0.12
+    },
+    {
+      "ticker": "PED",
+      "price": 2.38
+    }
+  ]
+}

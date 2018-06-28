@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APRI",
+      "price": 0.41
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.965
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAT",
+      "price": 2.72
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.4748
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RRTS",
+      "price": 2.41
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FORD",
+      "price": 1.62
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.315
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APRI",
+      "price": 0.3805
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UPL",
+      "price": 2.27
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3116
+    }
+  ]
+}

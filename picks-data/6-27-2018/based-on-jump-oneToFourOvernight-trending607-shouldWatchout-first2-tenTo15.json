@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 13.42
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 13.44
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OAS",
+      "price": 13.46
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OAS",
+      "price": 13.4063
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.64
+    }
+  ]
+}

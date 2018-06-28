@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CZR",
+      "price": 10.925
+    },
+    {
+      "ticker": "CPE",
+      "price": 11.3062
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPN",
+      "price": 10.06
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.69
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPN",
+      "price": 10.05
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IRT",
+      "price": 10.24
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IRT",
+      "price": 10.265
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IRT",
+      "price": 10.24
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.337
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IRT",
+      "price": 10.21
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.59
+    }
+  ]
+}

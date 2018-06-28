@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "BAS",
+      "price": 12.1
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.42
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.47
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.1962
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 12.4
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.21
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.65
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.44
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 12.525
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.34
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.65
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.46
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 12.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.31
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.775
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.4063
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.64
+    }
+  ]
+}

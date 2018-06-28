@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRH",
+      "price": 1.2201
+    },
+    {
+      "ticker": "AETI",
+      "price": 1.3027
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PED",
+      "price": 0.7313
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5389
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PED",
+      "price": 1.85
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PED",
+      "price": 1.5531
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5517
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PED",
+      "price": 2.2348
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5401
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PED",
+      "price": 2.54
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PED",
+      "price": 2.38
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.72
+    }
+  ]
+}

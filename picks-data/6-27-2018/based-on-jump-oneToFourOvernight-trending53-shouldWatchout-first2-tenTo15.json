@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BAS",
+      "price": 12.1
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 12.4
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.21
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 12.525
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 12.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.31
+    }
+  ]
+}

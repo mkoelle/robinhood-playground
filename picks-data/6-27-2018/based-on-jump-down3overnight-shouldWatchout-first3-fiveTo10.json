@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DWT",
+      "price": 6.81
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 8.42
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DWT",
+      "price": 6.75
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 8.6364
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 6.07
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.74
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 8.5211
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 5.7042
+    },
+    {
+      "ticker": "ABIL",
+      "price": 9.5787
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.74
+    }
+  ]
+}

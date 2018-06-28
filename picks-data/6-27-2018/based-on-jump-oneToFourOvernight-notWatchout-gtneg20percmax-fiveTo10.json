@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.4836
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    },
+    {
+      "ticker": "NE",
+      "price": 5.97
+    },
+    {
+      "ticker": "CATS",
+      "price": 8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.601
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.85
+    },
+    {
+      "ticker": "NE",
+      "price": 6.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.85
+    },
+    {
+      "ticker": "NE",
+      "price": 6.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.6
+    },
+    {
+      "ticker": "PIH",
+      "price": 7.55
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.85
+    },
+    {
+      "ticker": "NE",
+      "price": 6.28
+    }
+  ]
+}

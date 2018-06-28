@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LEDS",
+      "price": 4.43
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4198
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LEDS",
+      "price": 4.33
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4198
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEDS",
+      "price": 4.334
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.39
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEDS",
+      "price": 4.348
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.402
+    },
+    {
+      "ticker": "ABAC",
+      "price": 3.02
+    }
+  ]
+}

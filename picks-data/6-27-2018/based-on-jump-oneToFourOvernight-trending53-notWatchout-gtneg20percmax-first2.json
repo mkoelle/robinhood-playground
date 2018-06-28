@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNR",
+      "price": 4.83
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 4.925
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.401
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 4.9614
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.395
+    }
+  ]
+}

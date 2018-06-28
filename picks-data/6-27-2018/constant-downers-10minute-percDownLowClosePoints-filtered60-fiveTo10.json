@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EAST",
+      "price": 7.9992
+    },
+    {
+      "ticker": "AKTS",
+      "price": 7.1
+    },
+    {
+      "ticker": "GNPX",
+      "price": 8.4021
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CADC",
+      "price": 6.75
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.29
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CADC",
+      "price": 6.75
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.9
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.1
+    }
+  ]
+}

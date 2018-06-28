@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "ESV",
+      "price": 7.0401
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.275
+    }
+  ],
+  "35": [
+    {
+      "ticker": "HPR",
+      "price": 6.43
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.075
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.795
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.375
+    },
+    {
+      "ticker": "TOUR",
+      "price": 8.61
+    }
+  ],
+  "90": [
+    {
+      "ticker": "ESV",
+      "price": 7.14
+    },
+    {
+      "ticker": "HLX",
+      "price": 8.265
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.42
+    },
+    {
+      "ticker": "PES",
+      "price": 5.75
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.775
+    }
+  ],
+  "223": [
+    {
+      "ticker": "HLX",
+      "price": 8.29
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.135
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.82
+    },
+    {
+      "ticker": "HPR",
+      "price": 6.265
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.475
+    }
+  ]
+}

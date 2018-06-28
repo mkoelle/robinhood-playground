@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TPIV",
+      "price": 10.385
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QNST",
+      "price": 13.25
+    },
+    {
+      "ticker": "FATE",
+      "price": 12.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QNST",
+      "price": 13.06
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 13.13
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 13.07
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 13.08
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.74
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 13.115
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.65
+    }
+  ]
+}

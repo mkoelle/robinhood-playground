@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UMRX",
+      "price": 14.1
+    },
+    {
+      "ticker": "SBLK",
+      "price": 12.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PGP",
+      "price": 14.7494
+    },
+    {
+      "ticker": "KRYS",
+      "price": 14.9659
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FOLD",
+      "price": 15.02
+    },
+    {
+      "ticker": "KRYS",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PGP",
+      "price": 14.82
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PGP",
+      "price": 14.8432
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.5502
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PGP",
+      "price": 14.8
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADTN",
+      "price": 14.65
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.68
+    }
+  ]
+}

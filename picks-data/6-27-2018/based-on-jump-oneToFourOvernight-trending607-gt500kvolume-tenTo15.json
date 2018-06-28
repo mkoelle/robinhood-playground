@@ -1,0 +1,41 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "RIG",
+      "price": 13.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIG",
+      "price": 13.26
+    },
+    {
+      "ticker": "USO",
+      "price": 14.55
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIG",
+      "price": 13.255
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.29
+    },
+    {
+      "ticker": "USO",
+      "price": 14.55
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.4063
+    }
+  ]
+}

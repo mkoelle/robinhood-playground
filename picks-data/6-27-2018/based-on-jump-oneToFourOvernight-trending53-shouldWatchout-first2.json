@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AGRX",
+      "price": 0.58
+    },
+    {
+      "ticker": "CPAH",
+      "price": 2.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPAH",
+      "price": 2.43
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.5501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPAH",
+      "price": 2.5168
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.5501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AGRX",
+      "price": 0.5502
+    },
+    {
+      "ticker": "CPAH",
+      "price": 2.435
+    }
+  ]
+}

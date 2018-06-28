@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WETF",
+      "price": 9.81
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CO",
+      "price": 9.365
+    },
+    {
+      "ticker": "ESTE",
+      "price": 8.7514
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BB",
+      "price": 9.975
+    },
+    {
+      "ticker": "MITK",
+      "price": 9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AAC",
+      "price": 9.51
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCYO",
+      "price": 9.6
+    },
+    {
+      "ticker": "MITK",
+      "price": 8.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCYO",
+      "price": 9.5
+    },
+    {
+      "ticker": "AAC",
+      "price": 9.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PCYO",
+      "price": 9.46
+    },
+    {
+      "ticker": "AAC",
+      "price": 9.26
+    }
+  ]
+}

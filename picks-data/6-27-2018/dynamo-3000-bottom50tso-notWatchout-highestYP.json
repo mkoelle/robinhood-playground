@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BDSI",
+      "price": 3.0808
+    },
+    {
+      "ticker": "XPLR",
+      "price": 3.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APTO",
+      "price": 3.86
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APTO",
+      "price": 3.8275
+    },
+    {
+      "ticker": "SB",
+      "price": 3.5348
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLNE",
+      "price": 3.685
+    },
+    {
+      "ticker": "SB",
+      "price": 3.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENIC",
+      "price": 4.87
+    },
+    {
+      "ticker": "CXDC",
+      "price": 3.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VERU",
+      "price": 2.0169
+    },
+    {
+      "ticker": "VIRC",
+      "price": 4.3999
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIRC",
+      "price": 4.3999
+    },
+    {
+      "ticker": "RMTI",
+      "price": 4.49
+    }
+  ]
+}

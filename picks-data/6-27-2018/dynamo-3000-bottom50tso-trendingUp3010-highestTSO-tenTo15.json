@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HRG",
+      "price": 13.35
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WMC",
+      "price": 10.7
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CYRX",
+      "price": 14.33
+    },
+    {
+      "ticker": "NSTG",
+      "price": 14.055
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRA",
+      "price": 14.58
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSTG",
+      "price": 13.88
+    },
+    {
+      "ticker": "SMTA",
+      "price": 10.155
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GPOR",
+      "price": 12.195
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GPOR",
+      "price": 12.165
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.71
+    }
+  ]
+}

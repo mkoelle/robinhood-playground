@@ -32,9 +32,9 @@ const permutator = (inputArr) => {
 
 module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) => {
 
-    // console.log('daysBack', daysBack);
-    // console.log('numChunks', numChunks);
-    // console.log('ignoreDays', ignoreDays);
+    console.log('daysBack', daysBack);
+    console.log('numChunks', numChunks);
+    console.log('ignoreDays', ignoreDays);
     let files = await fs.readdir('./pm-perfs');
 
     let sortedFiles = files
@@ -51,8 +51,11 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
     const pmCache = {};
     for (let file of filesOfInterest) {
         const json = await jsonMgr.get(`./pm-perfs/${file}.json`);
+        // console.log(json, 'heyyyy');
         json.forEach(({ pm, avgTrend }) => {
-            if (!(pm.endsWith('sortedByAvgTrend-first1') || pm.endsWith('sortedByPercUp-first1'))) return;
+            // if (!(pm.endsWith('sortedByAvgTrend-first1') || pm.endsWith('sortedByPercUp-first1'))) return;
+            if (pm.includes('forPurchase')) return;
+            // console.log('hereee')
             pmCache[pm] = pmCache[pm] || {};
             pmCache[pm] = {
                 ...pmCache[pm],
@@ -68,7 +71,7 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
     //     }
     // });
 
-    // console.log(JSON.stringify(pmCache, null, 2));
+    console.log(JSON.stringify(pmCache, null, 2));
 
     // for each day
     // sort list of pm's ordered
@@ -84,7 +87,7 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
     }
     const cmb = Combinatorics.bigCombination(pms, Number(numChunks));
     while (a = cmb.next()) {
-        // console.log(a);
+        console.log(a);
         const trends = filesOfInterest.map(day => {
             return a.map(pm => pmCache[pm][day]);
         });

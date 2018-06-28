@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BAS",
+      "price": 12.1
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.42
+    },
+    {
+      "ticker": "DNOW",
+      "price": 13.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 12.4
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.21
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 12.525
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.34
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 12.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.31
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.775
+    }
+  ]
+}

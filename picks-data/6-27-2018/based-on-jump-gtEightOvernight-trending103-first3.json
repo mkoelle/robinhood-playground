@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DFBG",
+      "price": 4.95
+    },
+    {
+      "ticker": "PED",
+      "price": 0.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DFBG",
+      "price": 4.25
+    },
+    {
+      "ticker": "PED",
+      "price": 0.5301
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DFBG",
+      "price": 4.26
+    },
+    {
+      "ticker": "PED",
+      "price": 0.57
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.9628
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DFBG",
+      "price": 3.5376
+    },
+    {
+      "ticker": "PED",
+      "price": 0.748
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.99
+    }
+  ]
+}

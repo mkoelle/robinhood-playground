@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRTO",
+      "price": 2.65
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.925
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRTO",
+      "price": 2.62
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.8893
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRTO",
+      "price": 2.55
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VVPR",
+      "price": 1.632
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.5
+    }
+  ]
+}

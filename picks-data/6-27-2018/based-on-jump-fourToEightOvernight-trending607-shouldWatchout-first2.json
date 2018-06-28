@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LEDS",
+      "price": 4.43
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4198
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LEDS",
+      "price": 4.33
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4198
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEDS",
+      "price": 4.334
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEDS",
+      "price": 4.348
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.402
+    }
+  ]
+}

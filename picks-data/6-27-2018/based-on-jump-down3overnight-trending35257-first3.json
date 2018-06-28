@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AQXP",
+      "price": 2.74
+    },
+    {
+      "ticker": "CLDC",
+      "price": 3.71
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7001
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AQXP",
+      "price": 2.705
+    },
+    {
+      "ticker": "CLDC",
+      "price": 4.95
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7392
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AQXP",
+      "price": 2.619
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7876
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AQXP",
+      "price": 2.3801
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.73
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.75
+    }
+  ]
+}

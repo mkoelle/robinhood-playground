@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ATAI",
+      "price": 5.15
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.08
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENIC",
+      "price": 5.08
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.15
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ENIC",
+      "price": 5.02
+    },
+    {
+      "ticker": "ATAI",
+      "price": 4.97
+    },
+    {
+      "ticker": "TOCA",
+      "price": 8.985
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TOCA",
+      "price": 9.3
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.54
+    }
+  ]
+}

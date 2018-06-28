@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GFN",
+      "price": 13.15
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FATE",
+      "price": 12.03
+    },
+    {
+      "ticker": "VRA",
+      "price": 14.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CYRX",
+      "price": 14.33
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FATE",
+      "price": 11.9
+    },
+    {
+      "ticker": "VRA",
+      "price": 14.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FATE",
+      "price": 11.69
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FATE",
+      "price": 11.74
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FATE",
+      "price": 11.65
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.71
+    }
+  ]
+}

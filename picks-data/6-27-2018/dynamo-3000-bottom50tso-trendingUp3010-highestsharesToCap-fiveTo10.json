@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CTIC",
+      "price": 5.181
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.611
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADVM",
+      "price": 6
+    },
+    {
+      "ticker": "VTL",
+      "price": 6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APVO",
+      "price": 5.39
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SALM",
+      "price": 5.2
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALRN",
+      "price": 5.2
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.105
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HBIO",
+      "price": 5.05
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SALM",
+      "price": 5.2
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.075
+    }
+  ]
+}

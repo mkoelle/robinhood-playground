@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LGCY",
+      "price": 7.03
+    },
+    {
+      "ticker": "NE",
+      "price": 5.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LGCY",
+      "price": 7.11
+    },
+    {
+      "ticker": "NE",
+      "price": 6.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LGCY",
+      "price": 7.2927
+    },
+    {
+      "ticker": "NE",
+      "price": 6.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LGCY",
+      "price": 7.26
+    },
+    {
+      "ticker": "NE",
+      "price": 6.28
+    }
+  ]
+}

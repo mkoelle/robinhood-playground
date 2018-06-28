@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BBDO",
+      "price": 6.02
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.8001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 9.51
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.885
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSPI",
+      "price": 9.95
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TZA",
+      "price": 9.12
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TZA",
+      "price": 9.25
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TZA",
+      "price": 9.34
+    },
+    {
+      "ticker": "ALPN",
+      "price": 7.4999
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TZA",
+      "price": 9.3866
+    },
+    {
+      "ticker": "ALPN",
+      "price": 7.465
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SMI",
+      "price": 6.63
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.7534
+    },
+    {
+      "ticker": "TSRI",
+      "price": 8.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 6.07
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.59
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.7534
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 5.7042
+    },
+    {
+      "ticker": "ABIL",
+      "price": 9.5787
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.63
+    }
+  ]
+}

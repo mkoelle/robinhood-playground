@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.4836
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.601
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.3701
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.6
+    }
+  ]
+}

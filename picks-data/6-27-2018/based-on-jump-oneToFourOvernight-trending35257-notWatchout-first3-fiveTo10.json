@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NE",
+      "price": 5.97
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.95
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.419
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NE",
+      "price": 6.1
+    },
+    {
+      "ticker": "HMHC",
+      "price": 7.95
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.431
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NE",
+      "price": 6.14
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.0125
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.672
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NE",
+      "price": 6.28
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.07
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.2
+    }
+  ]
+}

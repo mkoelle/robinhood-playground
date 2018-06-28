@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GLMD",
+      "price": 13.51
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLMD",
+      "price": 13.1127
+    },
+    {
+      "ticker": "FET",
+      "price": 12.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLMD",
+      "price": 13.2
+    },
+    {
+      "ticker": "FET",
+      "price": 12.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLMD",
+      "price": 13.17
+    },
+    {
+      "ticker": "FET",
+      "price": 12.6
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.4836
+    },
+    {
+      "ticker": "NE",
+      "price": 5.97
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.8399
+    },
+    {
+      "ticker": "FRO",
+      "price": 6.14
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.2499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.601
+    },
+    {
+      "ticker": "NE",
+      "price": 6.1
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.0127
+    },
+    {
+      "ticker": "FRO",
+      "price": 6.2
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.2499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "NE",
+      "price": 6.14
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.05
+    },
+    {
+      "ticker": "FRO",
+      "price": 6.23
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.6
+    },
+    {
+      "ticker": "NE",
+      "price": 6.28
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.07
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.1242
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.2988
+    }
+  ]
+}

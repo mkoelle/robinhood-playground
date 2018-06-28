@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.05
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.13
+    }
+  ]
+}

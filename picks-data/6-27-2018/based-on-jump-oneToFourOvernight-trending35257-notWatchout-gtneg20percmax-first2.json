@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNR",
+      "price": 4.83
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.24
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 4.925
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.286
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.9614
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCC",
+      "price": 4.0424
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.1915
+    }
+  ]
+}

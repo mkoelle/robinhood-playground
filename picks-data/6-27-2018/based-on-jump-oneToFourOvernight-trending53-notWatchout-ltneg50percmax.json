@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "PKD",
+      "price": 0.3542
+    },
+    {
+      "ticker": "VRML",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.225
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.349
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4849
+    },
+    {
+      "ticker": "VRML",
+      "price": 1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2216
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3663
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4802
+    },
+    {
+      "ticker": "VRML",
+      "price": 1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2202
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3649
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.48
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.9534
+    },
+    {
+      "ticker": "NM",
+      "price": 0.8756
+    }
+  ]
+}

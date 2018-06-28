@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OAS",
+      "price": 13.42
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.1962
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OAS",
+      "price": 13.44
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OAS",
+      "price": 13.46
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OAS",
+      "price": 13.4063
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.375
+    }
+  ]
+}

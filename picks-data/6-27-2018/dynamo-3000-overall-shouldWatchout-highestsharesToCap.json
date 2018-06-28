@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TNTR",
+      "price": 0.17
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLG",
+      "price": 0.111
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.1557
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.115
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.155
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.1119
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.1589
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.1107
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.156
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLG",
+      "price": 0.109
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.154
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PLG",
+      "price": 0.1091
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.151
+    }
+  ]
+}

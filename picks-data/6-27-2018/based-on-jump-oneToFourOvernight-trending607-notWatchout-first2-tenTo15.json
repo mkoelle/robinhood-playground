@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPOR",
+      "price": 12.5932
+    },
+    {
+      "ticker": "RIG",
+      "price": 12.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPOR",
+      "price": 12.515
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPOR",
+      "price": 12.385
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPOR",
+      "price": 12.335
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.255
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DWT",
+      "price": 6.81
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.806
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DWT",
+      "price": 6.75
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.715
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLDC",
+      "price": 6.07
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.74
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLDC",
+      "price": 5.7042
+    },
+    {
+      "ticker": "ABIL",
+      "price": 9.5787
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.74
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.715
+    }
+  ]
+}

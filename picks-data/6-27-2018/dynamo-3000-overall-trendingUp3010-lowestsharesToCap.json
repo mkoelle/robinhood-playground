@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WIT",
+      "price": 4.91
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MDCA",
+      "price": 5.025
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDCA",
+      "price": 4.9671
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.951
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 4.8101
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XBIO",
+      "price": 4.69
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XBIO",
+      "price": 4.6603
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.875
+    }
+  ]
+}

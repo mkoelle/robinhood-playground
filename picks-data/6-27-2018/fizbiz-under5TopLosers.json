@@ -1,0 +1,112 @@
+{
+  "2": [
+    {
+      "ticker": "SLS",
+      "price": 3.72
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.1
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.6492
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.75
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.34
+    }
+  ],
+  "12": [
+    {
+      "ticker": "SLS",
+      "price": 3.705
+    },
+    {
+      "ticker": "FRED",
+      "price": 2.2359
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.6101
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.6418
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.3601
+    }
+  ],
+  "120": [
+    {
+      "ticker": "AQXP",
+      "price": 2.39
+    },
+    {
+      "ticker": "SMMT",
+      "price": 2.52
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.5874
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.446
+    },
+    {
+      "ticker": "YECO",
+      "price": 3.259
+    }
+  ],
+  "180": [
+    {
+      "ticker": "AQXP",
+      "price": 2.48
+    },
+    {
+      "ticker": "SMMT",
+      "price": 2.43
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.58
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.569
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.98
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AQXP",
+      "price": 2.31
+    },
+    {
+      "ticker": "SMMT",
+      "price": 2.515
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.46
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.63
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.9452
+    }
+  ]
+}

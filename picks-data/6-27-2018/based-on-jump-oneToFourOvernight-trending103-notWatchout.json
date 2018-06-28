@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.58
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.83
+    },
+    {
+      "ticker": "HK",
+      "price": 4.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.64
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.925
+    },
+    {
+      "ticker": "HK",
+      "price": 4.525
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.33
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.1
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.93
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.64
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.9614
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.05
+    },
+    {
+      "ticker": "ICD",
+      "price": 4.13
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.92
+    },
+    {
+      "ticker": "AREX",
+      "price": 2.629
+    },
+    {
+      "ticker": "HK",
+      "price": 4.45
+    }
+  ]
+}

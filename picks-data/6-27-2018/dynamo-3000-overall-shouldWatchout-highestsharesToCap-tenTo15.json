@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EEP",
+      "price": 10.115
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "YRCW",
+      "price": 10.31
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBR",
+      "price": 9.965
+    },
+    {
+      "ticker": "YRCW",
+      "price": 10.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRCW",
+      "price": 10.3
+    },
+    {
+      "ticker": "HX",
+      "price": 10.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRCW",
+      "price": 10.27
+    },
+    {
+      "ticker": "HX",
+      "price": 9.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRCW",
+      "price": 10.15
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRCW",
+      "price": 10.06
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.275
+    }
+  ]
+}

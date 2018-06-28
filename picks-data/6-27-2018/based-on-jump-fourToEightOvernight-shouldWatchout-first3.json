@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TNTR",
+      "price": 0.17
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNTR",
+      "price": 0.17
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNTR",
+      "price": 0.1612
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.65
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.334
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNTR",
+      "price": 0.156
+    },
+    {
+      "ticker": "PYDS",
+      "price": 1.64
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.348
+    }
+  ]
+}

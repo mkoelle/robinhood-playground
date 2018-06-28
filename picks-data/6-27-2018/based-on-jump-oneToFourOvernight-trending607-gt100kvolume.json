@@ -1,0 +1,65 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "SN",
+      "price": 4.49
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.925
+    },
+    {
+      "ticker": "NOG",
+      "price": 3
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SN",
+      "price": 4.52
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.9614
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.79
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.96
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SN",
+      "price": 4.5867
+    },
+    {
+      "ticker": "EGY",
+      "price": 2.78
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.92
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.435
+    },
+    {
+      "ticker": "EPE",
+      "price": 3.38
+    }
+  ]
+}
