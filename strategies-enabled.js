@@ -87,6 +87,14 @@ const forPurchase = [
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
     'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10-16',
+    'sudden-drops-last3trend-first1-280',
+    'low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout-25',
+    'based-on-jump-down3overnight-trending53-notWatchout-gtneg20percmax-first1-5',
+    'low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10-150',
+    'sudden-drops-last10trend-filter10-221',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-fiveTo10-6',
+    'dynamo-3000-overall-onlyWatchout-highestTSO-200',
+    'up-streak-5days-gt3overnight-fiveTo10-189'
 ];
 
 const cheapestPicksEmailObj = [
