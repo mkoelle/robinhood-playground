@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BCLI",
+      "price": 4
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PKD",
+      "price": 0.38
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PKD",
+      "price": 0.3921
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.042
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PKD",
+      "price": 0.3915
+    },
+    {
+      "ticker": "BCLI",
+      "price": 4.0469
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.35
+    }
+  ]
+}

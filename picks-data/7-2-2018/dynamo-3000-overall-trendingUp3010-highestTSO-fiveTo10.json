@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.355
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.4179
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 6.8475
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 8.1
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.33
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "MXC",
+      "price": 8.034
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "MXC",
+      "price": 8.0548
+    }
+  ]
+}

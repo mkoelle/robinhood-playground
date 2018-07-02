@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EMMS",
+      "price": 5.18
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.225
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLDD",
+      "price": 5.125
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SALM",
+      "price": 5.4
+    },
+    {
+      "ticker": "GLDD",
+      "price": 5.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SALM",
+      "price": 5.25
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.1802
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SALM",
+      "price": 5.2
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.031
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 5.238
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.031
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SALM",
+      "price": 5.25
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.031
+    }
+  ]
+}

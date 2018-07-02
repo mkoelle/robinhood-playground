@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLFS",
+      "price": 13.209
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 13.0761
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.905
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSW",
+      "price": 9.955
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOR",
+      "price": 13.6753
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIG",
+      "price": 13.075
+    },
+    {
+      "ticker": "RLH",
+      "price": 11.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RLH",
+      "price": 11.3
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IOR",
+      "price": 13.35
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.315
+    }
+  ]
+}

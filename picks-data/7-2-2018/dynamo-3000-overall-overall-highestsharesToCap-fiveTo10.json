@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.385
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRFS",
+      "price": 5.33
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.0725
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BRFS",
+      "price": 5.4
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BRFS",
+      "price": 5.41
+    },
+    {
+      "ticker": "VHI",
+      "price": 5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.21
+    }
+  ]
+}

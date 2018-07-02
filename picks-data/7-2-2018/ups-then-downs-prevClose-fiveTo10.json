@@ -1,0 +1,76 @@
+{
+  "10": [
+    {
+      "ticker": "CASI",
+      "price": 7.84
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.9
+    },
+    {
+      "ticker": "PES",
+      "price": 5.65
+    },
+    {
+      "ticker": "NE",
+      "price": 6.0052
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PES",
+      "price": 5.55
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.965
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PES",
+      "price": 5.55
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.56
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.94
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.08
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PES",
+      "price": 5.3
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.89
+    },
+    {
+      "ticker": "NE",
+      "price": 6.01
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PES",
+      "price": 5.25
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.9344
+    },
+    {
+      "ticker": "NE",
+      "price": 6.075
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 1.6
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.2875
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALN",
+      "price": 0.19
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5599
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALN",
+      "price": 0.2054
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.823
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALN",
+      "price": 0.204
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.95
+    }
+  ]
+}

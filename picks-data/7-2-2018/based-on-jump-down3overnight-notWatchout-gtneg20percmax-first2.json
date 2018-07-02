@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OESX",
+      "price": 1.06
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.6075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OESX",
+      "price": 1.06
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OESX",
+      "price": 1.0613
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OESX",
+      "price": 1.09
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.02
+    }
+  ]
+}

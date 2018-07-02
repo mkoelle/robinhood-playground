@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BAS",
+      "price": 10.35
+    },
+    {
+      "ticker": "FRAC",
+      "price": 12.85
+    },
+    {
+      "ticker": "CORT",
+      "price": 14.94
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FRAC",
+      "price": 12.6
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.03
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.49
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DDR",
+      "price": 13.94
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.395
+    },
+    {
+      "ticker": "FRAC",
+      "price": 12.6
+    }
+  ]
+}

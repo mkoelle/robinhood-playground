@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.14
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.24
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.24
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.5467
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.08
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.5285
+    }
+  ]
+}

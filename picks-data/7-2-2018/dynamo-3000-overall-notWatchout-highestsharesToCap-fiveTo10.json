@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PIRS",
+      "price": 5.07
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GNE",
+      "price": 5.0501
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSLR",
+      "price": 5.016
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNE",
+      "price": 5.24
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNE",
+      "price": 5.3101
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNE",
+      "price": 5.49
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSLR",
+      "price": 5.1
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.4101
+    }
+  ]
+}

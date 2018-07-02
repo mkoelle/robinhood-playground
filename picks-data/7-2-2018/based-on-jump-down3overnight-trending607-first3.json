@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ALSK",
+      "price": 1.6952
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.6
+    },
+    {
+      "ticker": "FWP",
+      "price": 2.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALN",
+      "price": 0.19
+    },
+    {
+      "ticker": "ALSK",
+      "price": 1.6952
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5599
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALN",
+      "price": 0.2054
+    },
+    {
+      "ticker": "ALSK",
+      "price": 1.74
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.823
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALN",
+      "price": 0.204
+    },
+    {
+      "ticker": "ALSK",
+      "price": 1.73
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7
+    }
+  ]
+}

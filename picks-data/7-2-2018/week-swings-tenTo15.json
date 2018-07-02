@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "ticker": "NES",
+      "price": 12
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.25
+    }
+  ],
+  "169": [
+    {
+      "ticker": "NES",
+      "price": 11.3427
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.51
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.4999
+    }
+  ],
+  "273": [
+    {
+      "ticker": "NES",
+      "price": 11.3
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.84
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.11
+    }
+  ]
+}

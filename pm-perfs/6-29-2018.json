@@ -224,11 +224,11 @@
     "avgTrend": "5.23%"
   },
   {
-    "pm": "myRecs-day7-hundredResultCreme",
+    "pm": "myRecs-day7-hundredResultCreme-allGt1",
     "avgTrend": "5.19%"
   },
   {
-    "pm": "myRecs-day7-hundredResultCreme-allGt1",
+    "pm": "myRecs-day7-hundredResultCreme",
     "avgTrend": "5.19%"
   },
   {
@@ -273,7 +273,7 @@
   },
   {
     "pm": "myRecs-day7count2to4-hundredUpPicks",
-    "avgTrend": "3.76%"
+    "avgTrend": "3.73%"
   },
   {
     "pm": "myRecs-day7count3-hundredUpAvgGt4",
@@ -296,15 +296,15 @@
     "avgTrend": "3.32%"
   },
   {
+    "pm": "myRecs-day10count7-hundredUpAvgGt4",
+    "avgTrend": "3.19%"
+  },
+  {
     "pm": "myRecs-day10count7-hundredUpPicks",
     "avgTrend": "3.19%"
   },
   {
     "pm": "myRecs-day10-whileLoopCreme",
-    "avgTrend": "3.19%"
-  },
-  {
-    "pm": "myRecs-day10count7-hundredUpAvgGt4",
     "avgTrend": "3.19%"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "pm": "myRecs-day5count2to4-hundredUpPicks",
-    "avgTrend": "2.53%"
+    "avgTrend": "2.50%"
   },
   {
     "pm": "myRecs-day15count2to4-hundredUpPicks",
@@ -337,7 +337,7 @@
   },
   {
     "pm": "myRecs-day3count2-hundredUpTrendsAllGt1",
-    "avgTrend": "2.41%"
+    "avgTrend": "2.39%"
   },
   {
     "pm": "myRecs-day5count3-hundredUpAvgGt4",
@@ -348,11 +348,11 @@
     "avgTrend": "2.34%"
   },
   {
-    "pm": "myRecs-day15count5-hundredUpPicks",
+    "pm": "myRecs-day15count5-hundredUpAvgGt4",
     "avgTrend": "2.33%"
   },
   {
-    "pm": "myRecs-day15count5-hundredUpAvgGt4",
+    "pm": "myRecs-day15count5-hundredUpPicks",
     "avgTrend": "2.33%"
   },
   {
@@ -385,14 +385,14 @@
   },
   {
     "pm": "myRecs-day7count3-hundredUpPicks",
-    "avgTrend": "2.07%"
-  },
-  {
-    "pm": "myRecs-day5-whileLoopCreme",
-    "avgTrend": "1.98%"
+    "avgTrend": "2.00%"
   },
   {
     "pm": "myRecs-day5-whileLoopCreme-allGt1",
+    "avgTrend": "1.98%"
+  },
+  {
+    "pm": "myRecs-day5-whileLoopCreme",
     "avgTrend": "1.98%"
   },
   {
@@ -404,11 +404,7 @@
     "avgTrend": "1.88%"
   },
   {
-    "pm": "myRecs-day5count2-hundredUpPicks",
-    "avgTrend": "1.83%"
-  },
-  {
-    "pm": "myRecs-day40count2to4-hundredUpAvgGt4",
+    "pm": "myRecs-day40count2to4-hundredUpPicks",
     "avgTrend": "1.82%"
   },
   {
@@ -416,7 +412,7 @@
     "avgTrend": "1.82%"
   },
   {
-    "pm": "myRecs-day40count2to4-hundredUpPicks",
+    "pm": "myRecs-day40count2to4-hundredUpAvgGt4",
     "avgTrend": "1.82%"
   },
   {
@@ -424,20 +420,24 @@
     "avgTrend": "1.78%"
   },
   {
-    "pm": "twoPicks",
-    "avgTrend": "1.77%"
+    "pm": "myRecs-day5count2-hundredUpPicks",
+    "avgTrend": "1.78%"
   },
   {
-    "pm": "myRecs-day5count4-hundredUpPicks",
-    "avgTrend": "1.70%"
+    "pm": "twoPicks",
+    "avgTrend": "1.77%"
   },
   {
     "pm": "myRecs-day30count2to4-hundredUpPicks",
     "avgTrend": "1.66%"
   },
   {
+    "pm": "myRecs-day5count4-hundredUpPicks",
+    "avgTrend": "1.65%"
+  },
+  {
     "pm": "myRecs-day3count2-hundredUpAvgGt4",
-    "avgTrend": "1.63%"
+    "avgTrend": "1.61%"
   },
   {
     "pm": "myRecs-day5count4-uniq-hundredUpAvgGt4",
@@ -445,31 +445,31 @@
   },
   {
     "pm": "myRecs-day5count3-hundredUpPicks",
-    "avgTrend": "1.55%"
-  },
-  {
-    "pm": "myRecs-day7count5-hundredUpPicks",
-    "avgTrend": "1.39%"
+    "avgTrend": "1.50%"
   },
   {
     "pm": "myRecs-day40-whileLoopCreme",
     "avgTrend": "1.37%"
   },
   {
-    "pm": "myRecs-day3count2to4-hundredUpTrendsAllGt1",
-    "avgTrend": "1.23%"
+    "pm": "myRecs-day7count5-hundredUpPicks",
+    "avgTrend": "1.25%"
   },
   {
-    "pm": "myRecs-day5count4-uniq-hundredUpPicks",
-    "avgTrend": "1.21%"
+    "pm": "myRecs-day3count2to4-hundredUpTrendsAllGt1",
+    "avgTrend": "1.22%"
   },
   {
     "pm": "myRecs-day15count2to4-uniq-hundredWithHundredCheck",
     "avgTrend": "1.15%"
   },
   {
+    "pm": "myRecs-day5count4-uniq-hundredUpPicks",
+    "avgTrend": "1.13%"
+  },
+  {
     "pm": "myRecs-day5count2to4-uniq-hundredUpPicks",
-    "avgTrend": "1.15%"
+    "avgTrend": "1.10%"
   },
   {
     "pm": "myRecs-day10count5-uniq-hundredUpPicks",
@@ -484,10 +484,6 @@
     "avgTrend": "0.97%"
   },
   {
-    "pm": "myRecs-day3count2-hundredUpPicks",
-    "avgTrend": "0.89%"
-  },
-  {
     "pm": "myRecs-day7count5-hundredUpAvgGt4",
     "avgTrend": "0.88%"
   },
@@ -500,39 +496,35 @@
     "avgTrend": "0.87%"
   },
   {
-    "pm": "myRecs-day30count2to4-hundredUpTrendsAllGt1",
-    "avgTrend": "0.85%"
-  },
-  {
     "pm": "myRecs-day30count2to4-hundredUpAvgGt4",
     "avgTrend": "0.85%"
   },
   {
+    "pm": "myRecs-day30count2to4-hundredUpTrendsAllGt1",
+    "avgTrend": "0.85%"
+  },
+  {
+    "pm": "myRecs-day3count2-hundredUpPicks",
+    "avgTrend": "0.81%"
+  },
+  {
     "pm": "myRecs-day3count2to4-hundredUpPicks",
-    "avgTrend": "0.75%"
+    "avgTrend": "0.69%"
   },
   {
     "pm": "myRecs-day5count2-uniq-hundredUpPicks",
-    "avgTrend": "0.71%"
-  },
-  {
-    "pm": "myRecs-day7count5-uniq-hundredUpPicks",
-    "avgTrend": "0.65%"
+    "avgTrend": "0.66%"
   },
   {
     "pm": "myRecs-day5count3-uniq-hundredUpPicks",
-    "avgTrend": "0.62%"
+    "avgTrend": "0.56%"
   },
   {
     "pm": "myRecs-day7count2to4-uniq-hundredUpAvgGt4",
     "avgTrend": "0.51%"
   },
   {
-    "pm": "myRecs-day7count2to4-uniq-hundredUpPicks",
-    "avgTrend": "0.45%"
-  },
-  {
-    "pm": "myRecs-day10count5-uniq-hundredUpTrendsAllGt1",
+    "pm": "myRecs-day7count5-uniq-hundredUpPicks",
     "avgTrend": "0.44%"
   },
   {
@@ -540,8 +532,8 @@
     "avgTrend": "0.44%"
   },
   {
-    "pm": "myRecs-day7count3-uniq-hundredUpPicks",
-    "avgTrend": "0.43%"
+    "pm": "myRecs-day10count5-uniq-hundredUpTrendsAllGt1",
+    "avgTrend": "0.44%"
   },
   {
     "pm": "myRecs-day7count3-uniq-hundredUpAvgGt4",
@@ -558,6 +550,14 @@
   {
     "pm": "myRecs-day5count3-uniq-hundredUpAvgGt4",
     "avgTrend": "0.35%"
+  },
+  {
+    "pm": "myRecs-day7count2to4-uniq-hundredUpPicks",
+    "avgTrend": "0.31%"
+  },
+  {
+    "pm": "myRecs-day7count3-uniq-hundredUpPicks",
+    "avgTrend": "0.28%"
   },
   {
     "pm": "myRecs-day5count2-uniq-hundredWithHundredCheck",
@@ -673,7 +673,7 @@
   },
   {
     "pm": "wild n crazy",
-    "avgTrend": "-8.89%"
+    "avgTrend": "-8.64%"
   },
   {
     "pm": "myRecs-day15count2to4-uniq-hundredUpAvgGt4",

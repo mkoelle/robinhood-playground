@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 11.8
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 10.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "REI",
+      "price": 12.36
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "YRIV",
+      "price": 11.7796
+    },
+    {
+      "ticker": "REI",
+      "price": 12.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.59
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 10.335
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 11.65
+    },
+    {
+      "ticker": "REI",
+      "price": 12.62
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 10.19
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.88
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DGII",
+      "price": 13.35
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.201
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DGII",
+      "price": 13.45
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.23
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGII",
+      "price": 13.4792
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGII",
+      "price": 13.55
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.45
+    }
+  ]
+}

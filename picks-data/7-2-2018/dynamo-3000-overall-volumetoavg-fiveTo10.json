@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MFIN",
+      "price": 5.08
+    },
+    {
+      "ticker": "EAD",
+      "price": 8.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ONCY",
+      "price": 5.1848
+    },
+    {
+      "ticker": "ENY",
+      "price": 8.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XSPL",
+      "price": 8.03
+    },
+    {
+      "ticker": "FRAN",
+      "price": 7.545
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 8.9412
+    },
+    {
+      "ticker": "NCV",
+      "price": 6.985
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEMP",
+      "price": 8.6897
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 8.42
+    },
+    {
+      "ticker": "AGC",
+      "price": 5.583
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEMP",
+      "price": 8.3801
+    },
+    {
+      "ticker": "EEA",
+      "price": 9.3
+    }
+  ]
+}

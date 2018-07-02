@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "APRI",
+      "price": 0.375
+    },
+    {
+      "ticker": "HK",
+      "price": 4.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPTH",
+      "price": 2.2876
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WHLR",
+      "price": 4.04
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IGLD",
+      "price": 2.809
+    },
+    {
+      "ticker": "WHLR",
+      "price": 4.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ISSC",
+      "price": 2.921
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMUC",
+      "price": 0.251
+    },
+    {
+      "ticker": "ISSC",
+      "price": 2.921
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMUC",
+      "price": 0.2508
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.06
+    }
+  ]
+}

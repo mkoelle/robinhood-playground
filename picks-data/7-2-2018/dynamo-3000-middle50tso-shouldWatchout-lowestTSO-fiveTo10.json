@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHLO",
+      "price": 8.64
+    },
+    {
+      "ticker": "JILL",
+      "price": 9.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9
+    },
+    {
+      "ticker": "BKD",
+      "price": 9.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HCHC",
+      "price": 5.87
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NOK",
+      "price": 5.625
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INFN",
+      "price": 9.835
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.71
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CALX",
+      "price": 7.725
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGI",
+      "price": 5.665
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.55
+    }
+  ]
+}

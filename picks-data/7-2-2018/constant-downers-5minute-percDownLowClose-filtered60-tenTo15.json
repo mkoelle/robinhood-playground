@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LOOP",
+      "price": 11.033
+    },
+    {
+      "ticker": "KEN",
+      "price": 14.45
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.4101
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DPK",
+      "price": 13.52
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.04
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.9
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CIX",
+      "price": 12.25
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.75
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.15
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RNET",
+      "price": 10.35
+    },
+    {
+      "ticker": "SUPV",
+      "price": 10.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AP",
+      "price": 10.1
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTGN",
+      "price": 12.025
+    },
+    {
+      "ticker": "SSW",
+      "price": 9.955
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTGN",
+      "price": 12.2003
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FENC",
+      "price": 10.02
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTGN",
+      "price": 11.85
+    },
+    {
+      "ticker": "NAII",
+      "price": 10.0802
+    }
+  ]
+}

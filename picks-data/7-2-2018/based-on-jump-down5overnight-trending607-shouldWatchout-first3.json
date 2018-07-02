@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALN",
+      "price": 0.19
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5599
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALN",
+      "price": 0.2054
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.823
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.061
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALN",
+      "price": 0.204
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7
+    },
+    {
+      "ticker": "IDN",
+      "price": 2.1665
+    }
+  ]
+}

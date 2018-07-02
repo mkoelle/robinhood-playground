@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "XON",
+      "price": 13.785
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.28
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XON",
+      "price": 13.9
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XON",
+      "price": 13.815
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.75
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XON",
+      "price": 14.04
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.475
+    }
+  ]
+}

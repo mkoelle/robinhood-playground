@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NNA",
+      "price": 0.6251
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNA",
+      "price": 0.6251
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.7884
+    },
+    {
+      "ticker": "SNGX",
+      "price": 0.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNA",
+      "price": 0.6219
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.7805
+    },
+    {
+      "ticker": "SNGX",
+      "price": 0.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNA",
+      "price": 0.6278
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.7898
+    },
+    {
+      "ticker": "SNGX",
+      "price": 0.97
+    }
+  ]
+}

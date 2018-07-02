@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PTN",
+      "price": 0.9716
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.255
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SENS",
+      "price": 4.26
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SENS",
+      "price": 4.27
+    },
+    {
+      "ticker": "PTN",
+      "price": 0.9902
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UUUU",
+      "price": 2.495
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UUUU",
+      "price": 2.51
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SENS",
+      "price": 4.42
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SENS",
+      "price": 4.425
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.5
+    }
+  ]
+}

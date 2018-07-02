@@ -1,0 +1,84 @@
+{
+  "10": [
+    {
+      "ticker": "JONE",
+      "price": 0.382
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4079
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3877
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.7451
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.97
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PKD",
+      "price": 0.3875
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.7708
+    },
+    {
+      "ticker": "SQBG",
+      "price": 2
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.9084
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZN",
+      "price": 4.08
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.3889
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.8331
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.9428
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ZN",
+      "price": 4.12
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.8463
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.9398
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ZN",
+      "price": 4.17
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.8272
+    }
+  ]
+}

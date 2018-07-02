@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VII",
+      "price": 0.29
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PULM",
+      "price": 0.4384
+    },
+    {
+      "ticker": "IGC",
+      "price": 0.4975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRMD",
+      "price": 0.2499
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3995
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALIM",
+      "price": 0.9869
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICON",
+      "price": 0.5847
+    },
+    {
+      "ticker": "SGLB",
+      "price": 0.915
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMUC",
+      "price": 0.251
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.3901
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INPX",
+      "price": 0.1611
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2508
+    }
+  ]
+}

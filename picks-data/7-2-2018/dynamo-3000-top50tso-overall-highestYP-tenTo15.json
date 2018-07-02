@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 12.44
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.755
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 10.8795
+    },
+    {
+      "ticker": "TBIO",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 9.8599
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 10.7501
+    },
+    {
+      "ticker": "TBIO",
+      "price": 12.995
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 14.805
+    },
+    {
+      "ticker": "BLFS",
+      "price": 14.3301
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.87
+    }
+  ]
+}

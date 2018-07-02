@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 10.31
+    },
+    {
+      "ticker": "RNET",
+      "price": 10.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 10.1632
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.8405
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BFR",
+      "price": 11.805
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BFR",
+      "price": 11.69
+    },
+    {
+      "ticker": "LCI",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.46
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.398
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 11.255
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.62
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.2
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.1183
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KALA",
+      "price": 13.51
+    },
+    {
+      "ticker": "PAK",
+      "price": 11.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAK",
+      "price": 10.995
+    },
+    {
+      "ticker": "MFD",
+      "price": 10.8844
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BRID",
+      "price": 13.6
+    },
+    {
+      "ticker": "MFD",
+      "price": 10.8754
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EWZS",
+      "price": 12.1882
+    },
+    {
+      "ticker": "VGI",
+      "price": 13.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DB",
+      "price": 10.57
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.2177
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBIO",
+      "price": 11.63
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.43
+    }
+  ]
+}

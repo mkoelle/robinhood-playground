@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XONE",
+      "price": 7
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FSP",
+      "price": 8.6
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AIRG",
+      "price": 9.33
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.5338
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNFR",
+      "price": 6.5
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.7025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENDP",
+      "price": 9.765
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.634
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRD",
+      "price": 8.56
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDHL",
+      "price": 9.14
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.85
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "REI",
+      "price": 12.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BBGI",
+      "price": 11.4
+    },
+    {
+      "ticker": "PNF",
+      "price": 12.8721
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RYI",
+      "price": 11.975
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EPM",
+      "price": 10.8191
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 10.725
+    },
+    {
+      "ticker": "BLFS",
+      "price": 14.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EPM",
+      "price": 10.955
+    },
+    {
+      "ticker": "BLFS",
+      "price": 14.3301
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EPM",
+      "price": 11.025
+    },
+    {
+      "ticker": "BLFS",
+      "price": 14.98
+    }
+  ]
+}

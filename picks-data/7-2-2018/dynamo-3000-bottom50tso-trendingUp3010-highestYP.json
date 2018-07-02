@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 2.6062
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7401
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 3.6861
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.773
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVEO",
+      "price": 4.11
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.656
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVEO",
+      "price": 4
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 3.99
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.6709
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APTO",
+      "price": 3.7108
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APTO",
+      "price": 3.799
+    },
+    {
+      "ticker": "CVEO",
+      "price": 3.9
+    }
+  ]
+}

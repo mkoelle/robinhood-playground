@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GE",
+      "price": 13.4
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.822
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BOE",
+      "price": 11.069
+    },
+    {
+      "ticker": "KTF",
+      "price": 11.045
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BOE",
+      "price": 11.0769
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MAB",
+      "price": 12.89
+    },
+    {
+      "ticker": "DPG",
+      "price": 14.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABX",
+      "price": 13.0425
+    },
+    {
+      "ticker": "MAB",
+      "price": 12.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MAB",
+      "price": 12.89
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KTF",
+      "price": 11.03
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.37
+    }
+  ]
+}

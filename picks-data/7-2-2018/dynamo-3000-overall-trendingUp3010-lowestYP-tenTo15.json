@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 11.8
+    },
+    {
+      "ticker": "GE",
+      "price": 13.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 11.82
+    },
+    {
+      "ticker": "GE",
+      "price": 13.3149
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 11.71
+    },
+    {
+      "ticker": "GE",
+      "price": 13.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.64
+    },
+    {
+      "ticker": "NES",
+      "price": 11.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.46
+    },
+    {
+      "ticker": "NES",
+      "price": 11.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.398
+    },
+    {
+      "ticker": "NES",
+      "price": 11.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 11.255
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.19
+    }
+  ]
+}

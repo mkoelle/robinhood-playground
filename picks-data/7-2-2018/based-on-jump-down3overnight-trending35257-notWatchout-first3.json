@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "ALSK",
+      "price": 1.6952
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALSK",
+      "price": 1.6952
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.307
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALSK",
+      "price": 1.74
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.309
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALSK",
+      "price": 1.73
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.315
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.02
+    }
+  ]
+}

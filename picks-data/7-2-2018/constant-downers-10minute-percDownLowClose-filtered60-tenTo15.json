@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NAII",
+      "price": 10.05
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.445
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.0198
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ESCA",
+      "price": 13.9
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.04
+    },
+    {
+      "ticker": "REW",
+      "price": 12.87
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HHS",
+      "price": 10.8535
+    },
+    {
+      "ticker": "CIX",
+      "price": 12.25
+    },
+    {
+      "ticker": "REW",
+      "price": 12.78
+    }
+  ]
+}

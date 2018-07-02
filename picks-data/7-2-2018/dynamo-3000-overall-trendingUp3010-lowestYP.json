@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CEI",
+      "price": 0.7144
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.051
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CEI",
+      "price": 0.76
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CEI",
+      "price": 0.789
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.0701
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMRH",
+      "price": 1.1
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.9093
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.7801
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.0952
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.761
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.1602
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.8
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.18
+    }
+  ]
+}

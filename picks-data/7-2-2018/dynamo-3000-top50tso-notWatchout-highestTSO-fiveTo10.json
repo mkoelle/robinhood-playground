@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MBIO",
+      "price": 7.09
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.9451
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALPN",
+      "price": 8.0664
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PZN",
+      "price": 9.77
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PZN",
+      "price": 9.83
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.3101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNE",
+      "price": 5.49
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNE",
+      "price": 5.4101
+    },
+    {
+      "ticker": "PZN",
+      "price": 9.795
+    }
+  ]
+}

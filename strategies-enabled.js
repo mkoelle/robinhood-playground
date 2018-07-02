@@ -94,11 +94,19 @@ const myListJune27 = [
     'up-streak-5days-gt3overnight-fiveTo10-189'
 ];
 
+const myListJuly3 = [
+    'sudden-drops-last3trend-first1-280',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-25',
+    'dynamo-3000-overall-notWatchout-lowestTSO-fiveTo10-4',
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt20-notWatchout-fiveTo10-210',
+    'low-float-high-volume-volToAvgPoints-fiveTo10-6'
+];
+
 const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-    'sudden-drops-last3trend-first1-280'
+    '[myListJuly3]'
 ];
 
 const cheapestPicksEmailObj = [

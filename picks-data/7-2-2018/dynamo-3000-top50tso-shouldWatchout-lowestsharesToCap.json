@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRAX",
+      "price": 4.61
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.2975
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SRAX",
+      "price": 4.67
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATAI",
+      "price": 4.45
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FLGT",
+      "price": 4.48
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BVX",
+      "price": 4.6
+    },
+    {
+      "ticker": "FLGT",
+      "price": 4.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FLGT",
+      "price": 4.37
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDMO",
+      "price": 4.29
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.72
+    }
+  ]
+}

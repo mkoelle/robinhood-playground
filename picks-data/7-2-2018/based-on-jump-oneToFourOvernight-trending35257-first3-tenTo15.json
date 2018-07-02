@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "KVHI",
+      "price": 13.6
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KVHI",
+      "price": 13.5501
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.6527
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.2526
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KVHI",
+      "price": 13.55
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.6
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KVHI",
+      "price": 13.5685
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.3
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.2758
+    }
+  ]
+}

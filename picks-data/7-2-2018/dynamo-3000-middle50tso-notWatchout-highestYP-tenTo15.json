@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USO",
+      "price": 14.9601
+    },
+    {
+      "ticker": "CSQ",
+      "price": 12.6624
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 13.5
+    },
+    {
+      "ticker": "GAIN",
+      "price": 11.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OOMA",
+      "price": 14.1502
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCII",
+      "price": 14.725
+    },
+    {
+      "ticker": "MITL",
+      "price": 10.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 14.7352
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.4698
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCII",
+      "price": 14.74
+    },
+    {
+      "ticker": "MITL",
+      "price": 10.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFSI",
+      "price": 14.58
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.675
+    }
+  ]
+}

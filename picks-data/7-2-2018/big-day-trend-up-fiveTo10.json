@@ -1,0 +1,74 @@
+{
+  "10": [
+    {
+      "ticker": "SGMA",
+      "price": 7.32
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.09
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.24
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.3
+    }
+  ],
+  "35": [
+    {
+      "ticker": "SALM",
+      "price": 5.8858
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.315
+    }
+  ],
+  "90": [
+    {
+      "ticker": "SGMA",
+      "price": 7.36
+    },
+    {
+      "ticker": "ALPN",
+      "price": 8.0688
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.55
+    },
+    {
+      "ticker": "INS",
+      "price": 8.8224
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.8276
+    }
+  ],
+  "223": [
+    {
+      "ticker": "PZN",
+      "price": 9.74
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.25
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.89
+    },
+    {
+      "ticker": "ALPN",
+      "price": 8.06
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.95
+    }
+  ]
+}

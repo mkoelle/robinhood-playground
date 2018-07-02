@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AIQ",
+      "price": 14.89
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AIQ",
+      "price": 14.86
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 10.8795
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.9202
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 9.8599
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 10.7501
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.604
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 14.805
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 14.87
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.14
+    }
+  ]
+}

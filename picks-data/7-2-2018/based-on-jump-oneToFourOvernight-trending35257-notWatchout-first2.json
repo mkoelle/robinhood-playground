@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 2.301
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 2.33
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRN",
+      "price": 2.169
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.4473
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRN",
+      "price": 2.2499
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.54
+    }
+  ]
+}

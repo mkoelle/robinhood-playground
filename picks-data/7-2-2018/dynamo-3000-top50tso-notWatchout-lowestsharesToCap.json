@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VJET",
+      "price": 3.55
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIT",
+      "price": 4.68
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.8399
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FENG",
+      "price": 4.38
+    },
+    {
+      "ticker": "NYMX",
+      "price": 3.505
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLNW",
+      "price": 4.67
+    },
+    {
+      "ticker": "NYMX",
+      "price": 3.656
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LLNW",
+      "price": 4.68
+    },
+    {
+      "ticker": "NYMX",
+      "price": 3.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLNW",
+      "price": 4.735
+    },
+    {
+      "ticker": "XPLR",
+      "price": 4.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIRC",
+      "price": 4.65
+    },
+    {
+      "ticker": "SELF",
+      "price": 4.45
+    }
+  ]
+}

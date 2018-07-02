@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "KVHI",
+      "price": 13.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KVHI",
+      "price": 13.5501
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.2526
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KVHI",
+      "price": 13.55
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KVHI",
+      "price": 13.5685
+    },
+    {
+      "ticker": "PMF",
+      "price": 13.2758
+    }
+  ]
+}

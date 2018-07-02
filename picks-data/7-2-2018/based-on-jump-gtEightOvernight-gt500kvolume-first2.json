@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RSYS",
+      "price": 1.5975
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.403
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RSYS",
+      "price": 1.5799
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RSYS",
+      "price": 1.5387
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RSYS",
+      "price": 1.5
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.375
+    }
+  ]
+}

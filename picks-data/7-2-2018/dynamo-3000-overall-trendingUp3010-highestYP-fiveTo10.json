@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.8652
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.0501
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CASI",
+      "price": 8.03
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.6801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 8.09
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.78
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.1
+    }
+  ]
+}

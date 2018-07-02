@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OMEX",
+      "price": 8.14
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.05
+    },
+    {
+      "ticker": "EAST",
+      "price": 8.3456
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FRSH",
+      "price": 5.38
+    },
+    {
+      "ticker": "ARCO",
+      "price": 6.85
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.15
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FUE",
+      "price": 6.2119
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.86
+    },
+    {
+      "ticker": "ULBI",
+      "price": 9.5
+    }
+  ]
+}

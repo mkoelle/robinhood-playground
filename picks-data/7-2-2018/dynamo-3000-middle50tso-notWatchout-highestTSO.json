@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LUB",
+      "price": 2.55
+    },
+    {
+      "ticker": "HL",
+      "price": 3.4401
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMX",
+      "price": 1.0352
+    },
+    {
+      "ticker": "ANH",
+      "price": 4.9516
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARPO",
+      "price": 4.17
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GASS",
+      "price": 3.945
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.565
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMS",
+      "price": 2.7635
+    },
+    {
+      "ticker": "RNWK",
+      "price": 3.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDR",
+      "price": 4.75
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DXYN",
+      "price": 2.25
+    },
+    {
+      "ticker": "CTEK",
+      "price": 3.94
+    }
+  ]
+}

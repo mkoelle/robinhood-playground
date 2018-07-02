@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.565
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TBIO",
+      "price": 12.635
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TBIO",
+      "price": 12.75
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.2122
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TBIO",
+      "price": 12.995
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.2003
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.205
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "NTGN",
+      "price": 11.85
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.8899
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENPH",
+      "price": 7.0552
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.8405
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 7.0835
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 7.12
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.14
+    }
+  ]
+}

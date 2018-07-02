@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BORN",
+      "price": 1.1742
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AUMN",
+      "price": 0.32
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3147
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3153
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3711
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3152
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3679
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3131
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3731
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3132
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3773
+    }
+  ]
+}

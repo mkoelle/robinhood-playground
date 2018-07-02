@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.9451
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.6801
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.805
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.78
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.77
+    }
+  ]
+}

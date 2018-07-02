@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ARCT",
+      "price": 8.5
+    },
+    {
+      "ticker": "ATEN",
+      "price": 6.35
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.299
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QHC",
+      "price": 5.1
+    },
+    {
+      "ticker": "ATEN",
+      "price": 6.29
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.2845
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATEN",
+      "price": 6.2408
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.2287
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATEN",
+      "price": 6.27
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.25
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.1
+    }
+  ]
+}

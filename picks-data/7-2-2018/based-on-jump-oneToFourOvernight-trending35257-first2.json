@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FNJN",
+      "price": 3.4948
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.301
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FNJN",
+      "price": 3.45
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRN",
+      "price": 2.169
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.4673
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRN",
+      "price": 2.2499
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.46
+    }
+  ]
+}

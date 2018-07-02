@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XONE",
+      "price": 7
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRD.A",
+      "price": 8.57
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.677
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOAN",
+      "price": 7.75
+    },
+    {
+      "ticker": "AIRG",
+      "price": 9.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 9.96
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.7025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENDP",
+      "price": 9.765
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRD",
+      "price": 8.56
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOAN",
+      "price": 7.85
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.77
+    }
+  ]
+}

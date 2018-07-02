@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OBSV",
+      "price": 14.71
+    },
+    {
+      "ticker": "CMTA",
+      "price": 12.761
+    },
+    {
+      "ticker": "QTRX",
+      "price": 14.27
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GDP",
+      "price": 11.81
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.675
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.45
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GDP",
+      "price": 11.83
+    },
+    {
+      "ticker": "EVLO",
+      "price": 11.46
+    },
+    {
+      "ticker": "PRTY",
+      "price": 14.875
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMD",
+      "price": 15.02
+    },
+    {
+      "ticker": "CISN",
+      "price": 14.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CGO",
+      "price": 14.21
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TREC",
+      "price": 14.9
+    },
+    {
+      "ticker": "OSBC",
+      "price": 14.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OSBC",
+      "price": 14.7748
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OSBC",
+      "price": 14.9
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.9448
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMSWA",
+      "price": 14.98
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDXS",
+      "price": 15
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.69
+    }
+  ]
+}

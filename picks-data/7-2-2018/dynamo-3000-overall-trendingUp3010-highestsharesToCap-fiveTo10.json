@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 8.46
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 9.1386
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.085
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NWY",
+      "price": 5.09
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.1111
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWY",
+      "price": 5.04
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.105
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GGN",
+      "price": 5.0901
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.095
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 9.8411
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 9.3164
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "LOOP",
+      "price": 11.4999
+    },
+    {
+      "ticker": "EXPI",
+      "price": 11.5
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LOOP",
+      "price": 11.4999
+    },
+    {
+      "ticker": "EXPI",
+      "price": 11.5
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.6527
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LOOP",
+      "price": 11.01
+    },
+    {
+      "ticker": "EXPI",
+      "price": 11.74
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.6
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.3176
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LOOP",
+      "price": 11.5
+    },
+    {
+      "ticker": "EXPI",
+      "price": 11.6461
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.3
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.2
+    }
+  ]
+}

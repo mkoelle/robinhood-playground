@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MHLD",
+      "price": 7.75
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRD.A",
+      "price": 8.57
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.2262
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFNX",
+      "price": 5.42
+    },
+    {
+      "ticker": "QD",
+      "price": 8.9094
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 9.96
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SRT",
+      "price": 6.4925
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRT",
+      "price": 6.54
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASLN",
+      "price": 8.51
+    },
+    {
+      "ticker": "GNPX",
+      "price": 7.84
+    }
+  ]
+}

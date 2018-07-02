@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDMO",
+      "price": 3.98
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.9405
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIT",
+      "price": 4.68
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDMO",
+      "price": 4.12
+    },
+    {
+      "ticker": "CLDC",
+      "price": 3.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDMO",
+      "price": 4.24
+    },
+    {
+      "ticker": "CLDC",
+      "price": 3.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BVX",
+      "price": 4.6
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.205
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDMO",
+      "price": 4.115
+    },
+    {
+      "ticker": "XPLR",
+      "price": 4.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SELF",
+      "price": 4.45
+    },
+    {
+      "ticker": "CDMO",
+      "price": 4.29
+    }
+  ]
+}

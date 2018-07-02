@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VNET",
+      "price": 10.67
+    },
+    {
+      "ticker": "XON",
+      "price": 13.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 10.27
+    },
+    {
+      "ticker": "XON",
+      "price": 13.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 10.8795
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 9.8599
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.5634
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 10.7501
+    },
+    {
+      "ticker": "SGMO",
+      "price": 14.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 11.5
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.805
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 11.69
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.87
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCWX",
+      "price": 11.73
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVTR",
+      "price": 14.714
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MGTA",
+      "price": 12.5
+    },
+    {
+      "ticker": "GBR",
+      "price": 10.8795
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PHII",
+      "price": 10.31
+    },
+    {
+      "ticker": "GBR",
+      "price": 9.8599
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 13.725
+    },
+    {
+      "ticker": "GBR",
+      "price": 10.7501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRAC",
+      "price": 12.45
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.955
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 12.34
+    },
+    {
+      "ticker": "EPM",
+      "price": 11.025
+    }
+  ]
+}

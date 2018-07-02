@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 10.27
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 10.8795
+    },
+    {
+      "ticker": "TBIO",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "GBR",
+      "price": 9.8599
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 10.7501
+    },
+    {
+      "ticker": "TBIO",
+      "price": 12.995
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VNET",
+      "price": 10.19
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.18
+    }
+  ]
+}

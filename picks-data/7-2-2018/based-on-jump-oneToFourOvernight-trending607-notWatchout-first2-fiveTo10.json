@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BKS",
+      "price": 6.401
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKS",
+      "price": 6.45
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKS",
+      "price": 6.45
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKS",
+      "price": 6.525
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.66
+    }
+  ]
+}

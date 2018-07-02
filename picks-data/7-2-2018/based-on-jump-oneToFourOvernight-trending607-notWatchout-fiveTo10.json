@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BKS",
+      "price": 6.401
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.53
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKS",
+      "price": 6.45
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.53
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.4229
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKS",
+      "price": 6.45
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.43
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.4255
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKS",
+      "price": 6.525
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.66
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.54
+    }
+  ]
+}

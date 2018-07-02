@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "PHII",
+      "price": 11.0642
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 10.14
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMG",
+      "price": 14.0198
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.66
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 10.24
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HMG",
+      "price": 14.0198
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.31
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 10.24
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.5467
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HMG",
+      "price": 14.0198
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.31
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 10.08
+    },
+    {
+      "ticker": "DPK",
+      "price": 13.5285
+    }
+  ]
+}
