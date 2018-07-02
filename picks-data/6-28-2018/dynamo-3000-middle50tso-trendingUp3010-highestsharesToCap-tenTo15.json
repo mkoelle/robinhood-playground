@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DF",
+      "price": 10.745
+    },
+    {
+      "ticker": "EVJ",
+      "price": 11.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.75
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRCP",
+      "price": 10.1926
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.705
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSHT",
+      "price": 10.17
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.1201
+    }
+  ]
+}

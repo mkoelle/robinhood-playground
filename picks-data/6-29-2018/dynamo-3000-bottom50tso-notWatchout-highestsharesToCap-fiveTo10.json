@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1495
+    },
+    {
+      "ticker": "ONCY",
+      "price": 5.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    },
+    {
+      "ticker": "GOL",
+      "price": 5.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRBP",
+      "price": 5.1
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOL",
+      "price": 5.35
+    },
+    {
+      "ticker": "MFCB",
+      "price": 5.95
+    }
+  ]
+}

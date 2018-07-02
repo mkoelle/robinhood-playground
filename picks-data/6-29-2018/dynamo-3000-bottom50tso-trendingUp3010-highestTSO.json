@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "OCC",
+      "price": 3.975
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3598
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABAC",
+      "price": 2.705
+    },
+    {
+      "ticker": "ARPO",
+      "price": 3.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASNA",
+      "price": 3.925
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.6695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABAC",
+      "price": 2.7255
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.915
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NDRA",
+      "price": 2.55
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.1599
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WSC",
+      "price": 14.625
+    },
+    {
+      "ticker": "USO",
+      "price": 14.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TREC",
+      "price": 14.7
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIG",
+      "price": 13.435
+    },
+    {
+      "ticker": "AES",
+      "price": 13.515
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FNKO",
+      "price": 11.9905
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    }
+  ]
+}

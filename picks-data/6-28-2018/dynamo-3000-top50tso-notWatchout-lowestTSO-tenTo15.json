@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LAKE",
+      "price": 14.075
+    },
+    {
+      "ticker": "REI",
+      "price": 13.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REI",
+      "price": 13.325
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIG",
+      "price": 13.435
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRVS",
+      "price": 11.25
+    },
+    {
+      "ticker": "FNKO",
+      "price": 11.9905
+    }
+  ]
+}

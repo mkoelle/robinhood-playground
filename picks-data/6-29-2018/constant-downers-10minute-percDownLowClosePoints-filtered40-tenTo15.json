@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACMR",
+      "price": 10.62
+    },
+    {
+      "ticker": "NSH",
+      "price": 12.5
+    },
+    {
+      "ticker": "TGS",
+      "price": 13.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VRNA",
+      "price": 13.76
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.11
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.65
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VRNA",
+      "price": 13.6
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.65
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.075
+    }
+  ]
+}

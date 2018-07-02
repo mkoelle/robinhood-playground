@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "VRA",
+      "price": 14.26
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRA",
+      "price": 14.23
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.8519
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDNT",
+      "price": 14.975
+    },
+    {
+      "ticker": "VRA",
+      "price": 14.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRA",
+      "price": 14.12
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.5247
+    }
+  ]
+}

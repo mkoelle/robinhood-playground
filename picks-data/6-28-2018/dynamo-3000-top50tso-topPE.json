@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "SIFY",
+      "price": 1.99
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.4138
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESNC",
+      "price": 0.42
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.31
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.724
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPLR",
+      "price": 4
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.4037
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AWRE",
+      "price": 4.2
+    },
+    {
+      "ticker": "AEZS",
+      "price": 1.98
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3889
+    }
+  ]
+}

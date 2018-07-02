@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 8.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.9699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 8.02
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKBA",
+      "price": 8.5357
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.9566
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKBA",
+      "price": 9.275
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.7801
+    }
+  ]
+}

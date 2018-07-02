@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DHCP",
+      "price": 5.1555
+    },
+    {
+      "ticker": "VHI",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REPH",
+      "price": 5.01
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPH",
+      "price": 5.05
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DHCP",
+      "price": 5.73
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.1
+    }
+  ]
+}

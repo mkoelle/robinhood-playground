@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1919
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNTR",
+      "price": 0.142
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1867
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TNTR",
+      "price": 0.1403
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1951
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NRO",
+      "price": 5.1
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0866
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0866
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.095
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0866
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.1042
+    }
+  ]
+}

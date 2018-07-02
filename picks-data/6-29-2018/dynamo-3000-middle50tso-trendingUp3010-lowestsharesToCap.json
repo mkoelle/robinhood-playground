@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "WIT",
+      "price": 4.82
+    },
+    {
+      "ticker": "MEET",
+      "price": 4.385
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WIT",
+      "price": 4.815
+    },
+    {
+      "ticker": "RNWK",
+      "price": 3.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WIT",
+      "price": 4.805
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WIT",
+      "price": 4.8
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HOS",
+      "price": 3.98
+    },
+    {
+      "ticker": "IVTY",
+      "price": 3.875
+    }
+  ]
+}

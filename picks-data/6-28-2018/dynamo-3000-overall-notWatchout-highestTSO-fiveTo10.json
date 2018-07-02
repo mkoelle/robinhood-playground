@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ONCY",
+      "price": 5.3344
+    },
+    {
+      "ticker": "BBDO",
+      "price": 5.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONCY",
+      "price": 5.33
+    },
+    {
+      "ticker": "BBDO",
+      "price": 5.969
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BBDO",
+      "price": 5.969
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BBDO",
+      "price": 6.135
+    },
+    {
+      "ticker": "DS",
+      "price": 7.74
+    }
+  ]
+}

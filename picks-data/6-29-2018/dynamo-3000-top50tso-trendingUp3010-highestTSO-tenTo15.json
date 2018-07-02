@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EEP",
+      "price": 10.73
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 10.7895
+    },
+    {
+      "ticker": "TBIO",
+      "price": 12.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.11
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.21
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.88
+    }
+  ]
+}

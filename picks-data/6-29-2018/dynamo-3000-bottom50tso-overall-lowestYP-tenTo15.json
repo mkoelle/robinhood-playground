@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 11.76
+    },
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 10.01
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SUPV",
+      "price": 10.25
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTA",
+      "price": 14.53
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.99
+    }
+  ]
+}

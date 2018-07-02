@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 6.05
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIOT",
+      "price": 6.34
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.222
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIOT",
+      "price": 6.32
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIOT",
+      "price": 6.31
+    },
+    {
+      "ticker": "WIN",
+      "price": 5.23
+    }
+  ]
+}

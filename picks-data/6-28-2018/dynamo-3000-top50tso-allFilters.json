@@ -1,0 +1,66 @@
+{
+  "100": [
+    {
+      "ticker": "BRN",
+      "price": 2.1299
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.6
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.2
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.4138
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NDRO",
+      "price": 3.6
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.25
+    },
+    {
+      "ticker": "LEE",
+      "price": 2.925
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPLR",
+      "price": 4
+    },
+    {
+      "ticker": "LEE",
+      "price": 3
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.4037
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LEE",
+      "price": 2.925
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.545
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3889
+    }
+  ]
+}

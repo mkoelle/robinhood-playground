@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DGII",
+      "price": 13.25
+    },
+    {
+      "ticker": "REDU",
+      "price": 14.02
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.25
+    }
+  ],
+  "242": [
+    {
+      "ticker": "REDU",
+      "price": 14
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.842
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    },
+    {
+      "ticker": "MTR",
+      "price": 14.6
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.4
+    }
+  ]
+}

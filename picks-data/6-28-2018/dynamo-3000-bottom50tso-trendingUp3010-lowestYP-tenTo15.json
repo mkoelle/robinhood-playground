@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.575
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 13.55
+    },
+    {
+      "ticker": "REW",
+      "price": 12.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "REW",
+      "price": 13.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 12.6799
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.4566
+    }
+  ]
+}

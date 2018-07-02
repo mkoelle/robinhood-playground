@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DFBG",
+      "price": 3.875
+    },
+    {
+      "ticker": "KERX",
+      "price": 3.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASNS",
+      "price": 4.6
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASNS",
+      "price": 4.3998
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASNS",
+      "price": 4.29
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.3301
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1495
+    },
+    {
+      "ticker": "ONCY",
+      "price": 5.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 9.8427
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRBP",
+      "price": 5.1
+    },
+    {
+      "ticker": "GEMP",
+      "price": 9.4752
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 9.865
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.11
+    }
+  ]
+}

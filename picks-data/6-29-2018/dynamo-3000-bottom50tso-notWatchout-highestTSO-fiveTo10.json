@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1495
+    },
+    {
+      "ticker": "FPI",
+      "price": 8.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNAV",
+      "price": 5.65
+    },
+    {
+      "ticker": "ABUS",
+      "price": 7.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOL",
+      "price": 5.35
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.5652
+    }
+  ]
+}

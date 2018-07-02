@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 9.542
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 9.22
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 9.14
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 9.01
+    },
+    {
+      "ticker": "GNMK",
+      "price": 6.435
+    }
+  ]
+}

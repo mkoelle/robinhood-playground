@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ALRN",
+      "price": 5.28
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.1495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TNAV",
+      "price": 5.65
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDGW",
+      "price": 5.4
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNMK",
+      "price": 6.435
+    },
+    {
+      "ticker": "ELGX",
+      "price": 5.68
+    }
+  ]
+}

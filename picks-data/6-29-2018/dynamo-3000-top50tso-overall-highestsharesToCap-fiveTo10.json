@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "FOMX",
+      "price": 5.02
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SALM",
+      "price": 5.0254
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SALM",
+      "price": 5.1
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.0171
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 5.05
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.045
+    }
+  ]
+}

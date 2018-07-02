@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HZN",
+      "price": 5.98
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HZN",
+      "price": 5.95
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HZN",
+      "price": 5.95
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 9.825
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.63
+    }
+  ]
+}

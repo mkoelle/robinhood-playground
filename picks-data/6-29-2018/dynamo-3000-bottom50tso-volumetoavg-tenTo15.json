@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AQ",
+      "price": 11.855
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRNA",
+      "price": 14.02
+    },
+    {
+      "ticker": "CHRS",
+      "price": 14.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRNA",
+      "price": 13.75
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRNA",
+      "price": 13.6548
+    },
+    {
+      "ticker": "ERA",
+      "price": 12.95
+    }
+  ]
+}

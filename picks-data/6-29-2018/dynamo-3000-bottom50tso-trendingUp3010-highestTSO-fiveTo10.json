@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ALRN",
+      "price": 5.28
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 7.2
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKD",
+      "price": 9.06
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.6401
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.73
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.94
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AQ",
+      "price": 11.855
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRNA",
+      "price": 14.02
+    },
+    {
+      "ticker": "BWG",
+      "price": 11.3799
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRNA",
+      "price": 13.75
+    },
+    {
+      "ticker": "RGT",
+      "price": 10.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRNA",
+      "price": 13.6548
+    },
+    {
+      "ticker": "NBO",
+      "price": 11.49
+    }
+  ]
+}

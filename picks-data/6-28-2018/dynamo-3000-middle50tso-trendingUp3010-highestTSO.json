@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AIRI",
+      "price": 1.84
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAT",
+      "price": 2.6
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIK",
+      "price": 3.4886
+    },
+    {
+      "ticker": "CUI",
+      "price": 2.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KCAP",
+      "price": 3.26
+    },
+    {
+      "ticker": "SELF",
+      "price": 4.1
+    }
+  ]
+}

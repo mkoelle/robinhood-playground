@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2299
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2261
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.4829
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2287
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.9356
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSPR",
+      "price": 0.231
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.0161
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSPR",
+      "price": 0.246
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.95
+    }
+  ]
+}

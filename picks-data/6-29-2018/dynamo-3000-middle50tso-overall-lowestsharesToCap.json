@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TRIB",
+      "price": 4.92
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CXE",
+      "price": 4.94
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.815
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CXE",
+      "price": 4.93
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.895
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASPN",
+      "price": 4.88
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSLR",
+      "price": 4.925
+    },
+    {
+      "ticker": "NLNK",
+      "price": 4.78
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.7812
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.25
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.142
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2365
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2434
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.1403
+    }
+  ]
+}

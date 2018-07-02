@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "QHC",
+      "price": 5.2501
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.295
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTN",
+      "price": 5.35
+    },
+    {
+      "ticker": "NAKD",
+      "price": 6.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTN",
+      "price": 5.35
+    },
+    {
+      "ticker": "NAKD",
+      "price": 6.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTN",
+      "price": 5.35
+    },
+    {
+      "ticker": "NAKD",
+      "price": 6.34
+    }
+  ]
+}

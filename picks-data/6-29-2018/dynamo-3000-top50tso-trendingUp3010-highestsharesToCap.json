@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2061
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4498
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGI",
+      "price": 0.446
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2041
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.9356
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGI",
+      "price": 0.4566
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.0161
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2073
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.95
+    }
+  ]
+}

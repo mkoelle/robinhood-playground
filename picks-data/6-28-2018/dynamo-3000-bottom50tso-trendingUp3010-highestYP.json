@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PED",
+      "price": 3.03
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PED",
+      "price": 2.7399
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PED",
+      "price": 2.36
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDT",
+      "price": 1.9
+    },
+    {
+      "ticker": "PED",
+      "price": 2.604
+    }
+  ]
+}

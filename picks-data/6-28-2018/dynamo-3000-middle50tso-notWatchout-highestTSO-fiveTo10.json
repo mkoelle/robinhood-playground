@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EXD",
+      "price": 9
+    },
+    {
+      "ticker": "WVVI",
+      "price": 8.3116
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHNY",
+      "price": 6.97
+    },
+    {
+      "ticker": "RMT",
+      "price": 9.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NUV",
+      "price": 9.555
+    },
+    {
+      "ticker": "BBW",
+      "price": 7.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKT",
+      "price": 5.8
+    },
+    {
+      "ticker": "CANE",
+      "price": 7.575
+    }
+  ]
+}

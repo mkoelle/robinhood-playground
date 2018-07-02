@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.1
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.025
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 10.05
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 10.32
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.762
+    }
+  ]
+}

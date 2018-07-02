@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TBIO",
+      "price": 12.1505
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 12.01
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TBIO",
+      "price": 12
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.4212
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TBIO",
+      "price": 12.02
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15
+    }
+  ]
+}

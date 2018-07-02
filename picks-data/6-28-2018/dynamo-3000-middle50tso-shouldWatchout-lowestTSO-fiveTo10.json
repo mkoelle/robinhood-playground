@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AXTI",
+      "price": 6.825
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGEN",
+      "price": 6.42
+    },
+    {
+      "ticker": "APEN",
+      "price": 6.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DXR",
+      "price": 6.46
+    },
+    {
+      "ticker": "QBAK",
+      "price": 7.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BRG",
+      "price": 8.84
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.825
+    }
+  ]
+}

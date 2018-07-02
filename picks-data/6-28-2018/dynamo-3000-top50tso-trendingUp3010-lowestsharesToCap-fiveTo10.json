@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JILL",
+      "price": 9.12
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.215
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIEB",
+      "price": 9.86
+    },
+    {
+      "ticker": "SSW",
+      "price": 9.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SSW",
+      "price": 9.72
+    },
+    {
+      "ticker": "JILL",
+      "price": 9.3501
+    }
+  ]
+}

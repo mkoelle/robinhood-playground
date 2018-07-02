@@ -1,0 +1,54 @@
+{
+  "100": [
+    {
+      "ticker": "PFIE",
+      "price": 4.13
+    },
+    {
+      "ticker": "PIR",
+      "price": 2.275
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.496
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFIE",
+      "price": 3.954
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFIE",
+      "price": 3.95
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.4501
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFIE",
+      "price": 3.79
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.4773
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.9
+    }
+  ]
+}

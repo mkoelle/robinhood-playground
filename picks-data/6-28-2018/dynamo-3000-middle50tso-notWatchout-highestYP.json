@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9095
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 4.34
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IDSA",
+      "price": 2.07
+    },
+    {
+      "ticker": "SYPR",
+      "price": 1.62
+    }
+  ]
+}

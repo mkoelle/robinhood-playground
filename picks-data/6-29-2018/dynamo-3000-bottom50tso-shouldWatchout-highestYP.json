@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 4.5501
+    },
+    {
+      "ticker": "PFIE",
+      "price": 3.36
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEN",
+      "price": 2.3
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.463
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEN",
+      "price": 2.2338
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRXC",
+      "price": 4.415
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEN",
+      "price": 2.3
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.3
+    }
+  ]
+}

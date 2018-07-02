@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AES",
+      "price": 13.295
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 14.73
+    },
+    {
+      "ticker": "PBPB",
+      "price": 12.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECOM",
+      "price": 14.15
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 14.665
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.12
+    }
+  ]
+}

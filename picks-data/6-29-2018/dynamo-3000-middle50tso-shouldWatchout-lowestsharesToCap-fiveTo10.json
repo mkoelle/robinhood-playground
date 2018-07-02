@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 8.9
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AIRG",
+      "price": 9.015
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTAI",
+      "price": 9.0273
+    },
+    {
+      "ticker": "BRG",
+      "price": 8.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 9.83
+    },
+    {
+      "ticker": "RNGR",
+      "price": 9.225
+    }
+  ]
+}

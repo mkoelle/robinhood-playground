@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "NCSM",
+      "price": 14.3602
+    },
+    {
+      "ticker": "CRF",
+      "price": 14.02
+    },
+    {
+      "ticker": "OUNZ",
+      "price": 12.305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMBA",
+      "price": 10.69
+    },
+    {
+      "ticker": "MLPX",
+      "price": 13.31
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.5664
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBD",
+      "price": 11.658
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.02
+    },
+    {
+      "ticker": "CLM",
+      "price": 14.1169
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JMBA",
+      "price": 10.655
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.54
+    },
+    {
+      "ticker": "PBD",
+      "price": 11.64
+    }
+  ]
+}

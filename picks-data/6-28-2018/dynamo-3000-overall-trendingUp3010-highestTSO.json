@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CEI",
+      "price": 1.21
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.5724
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 1.16
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDRA",
+      "price": 2.8524
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.3164
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LBIX",
+      "price": 1.599
+    },
+    {
+      "ticker": "NIHD",
+      "price": 4.115
+    }
+  ]
+}

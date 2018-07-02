@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "INPX",
+      "price": 0.1604
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.265
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "NSPR",
+      "price": 0.6301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INPX",
+      "price": 0.1573
+    },
+    {
+      "ticker": "NSPR",
+      "price": 0.5501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSPR",
+      "price": 0.55
+    },
+    {
+      "ticker": "IMNP",
+      "price": 0.1846
+    }
+  ]
+}

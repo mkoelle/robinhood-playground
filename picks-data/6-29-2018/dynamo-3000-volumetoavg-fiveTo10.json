@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 9.542
+    },
+    {
+      "ticker": "PHT",
+      "price": 9.311
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 9.22
+    },
+    {
+      "ticker": "SMFG",
+      "price": 7.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 9.14
+    },
+    {
+      "ticker": "WPG",
+      "price": 8.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 9.01
+    },
+    {
+      "ticker": "MVF",
+      "price": 8.7318
+    }
+  ]
+}

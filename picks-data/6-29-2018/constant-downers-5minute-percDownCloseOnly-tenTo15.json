@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LBC",
+      "price": 11.49
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.44
+    },
+    {
+      "ticker": "IRL",
+      "price": 11.5766
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NOM",
+      "price": 13.05
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.18
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SNMP",
+      "price": 11.7792
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.09
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    }
+  ]
+}

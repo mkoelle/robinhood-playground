@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EVLO",
+      "price": 12.27
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGS",
+      "price": 12.05
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 12.21
+    },
+    {
+      "ticker": "TGS",
+      "price": 12.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGS",
+      "price": 12.14
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.45
+    }
+  ]
+}

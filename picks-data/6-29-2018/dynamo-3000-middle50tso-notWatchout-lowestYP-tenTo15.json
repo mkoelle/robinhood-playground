@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "FBZ",
+      "price": 11.5503
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.2757
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ITUB",
+      "price": 10.38
+    },
+    {
+      "ticker": "EARN",
+      "price": 10.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITUB",
+      "price": 10.4
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.54
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ONCY",
+      "price": 5.3344
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONCY",
+      "price": 5.33
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ONCY",
+      "price": 5.2398
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ONCY",
+      "price": 5.23
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.241
+    }
+  ]
+}

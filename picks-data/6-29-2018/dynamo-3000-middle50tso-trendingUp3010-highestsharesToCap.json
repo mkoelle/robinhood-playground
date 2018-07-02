@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TTNP",
+      "price": 1.071
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.7952
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XPL",
+      "price": 0.428
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.8848
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMI",
+      "price": 1.64
+    },
+    {
+      "ticker": "EPE",
+      "price": 3.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ALIM",
+      "price": 0.943
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.9641
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YUMA",
+      "price": 0.53
+    },
+    {
+      "ticker": "PED",
+      "price": 2.2998
+    }
+  ]
+}

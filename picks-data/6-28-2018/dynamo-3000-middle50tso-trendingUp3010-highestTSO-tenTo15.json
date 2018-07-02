@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MNE",
+      "price": 12.63
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVJ",
+      "price": 11.21
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DTF",
+      "price": 13.3501
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAN",
+      "price": 12.55
+    },
+    {
+      "ticker": "MNE",
+      "price": 12.644
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 12.55
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FATE",
+      "price": 11.36
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AHH",
+      "price": 14.945
+    },
+    {
+      "ticker": "ITCB",
+      "price": 14.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GCI",
+      "price": 10.775
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.57
+    }
+  ]
+}

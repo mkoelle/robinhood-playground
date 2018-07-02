@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "YIN",
+      "price": 8.4
+    },
+    {
+      "ticker": "CO",
+      "price": 9.59
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.805
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CO",
+      "price": 9.5331
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.7299
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TEDU",
+      "price": 7.6707
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.68
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YIN",
+      "price": 8.36
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.35
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.8667
+    }
+  ]
+}

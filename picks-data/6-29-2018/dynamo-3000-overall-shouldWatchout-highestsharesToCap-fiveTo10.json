@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SND",
+      "price": 5.2349
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SND",
+      "price": 5.254
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SND",
+      "price": 5.3
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.3
+    }
+  ]
+}

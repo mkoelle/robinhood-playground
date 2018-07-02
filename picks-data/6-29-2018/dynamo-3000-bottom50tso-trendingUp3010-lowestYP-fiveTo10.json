@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ALRN",
+      "price": 5.28
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SFS",
+      "price": 5.65
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 8.6401
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.6322
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SFS",
+      "price": 5.449
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.6423
+    }
+  ]
+}

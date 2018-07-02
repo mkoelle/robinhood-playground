@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SUPV",
+      "price": 10.22
+    },
+    {
+      "ticker": "COTY",
+      "price": 13.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMRK",
+      "price": 13
+    },
+    {
+      "ticker": "SCM",
+      "price": 12.8655
+    }
+  ],
+  "260": [
+    {
+      "ticker": "STRL",
+      "price": 13.36
+    },
+    {
+      "ticker": "SCM",
+      "price": 12.8799
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BEL",
+      "price": 10.575
+    },
+    {
+      "ticker": "TPVG",
+      "price": 12.4968
+    }
+  ]
+}

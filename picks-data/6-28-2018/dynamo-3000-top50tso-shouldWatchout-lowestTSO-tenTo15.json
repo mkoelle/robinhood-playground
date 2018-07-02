@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WSC",
+      "price": 14.625
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SELB",
+      "price": 12.71
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECOM",
+      "price": 14.3
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VECO",
+      "price": 14.2
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.22
+    }
+  ]
+}

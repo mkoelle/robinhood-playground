@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "VCYT",
+      "price": 9.24
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.095
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWY",
+      "price": 5.16
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRS",
+      "price": 6.445
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRS",
+      "price": 6.4543
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.12
+    }
+  ]
+}

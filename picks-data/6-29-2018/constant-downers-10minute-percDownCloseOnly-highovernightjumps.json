@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OCC",
+      "price": 3.85
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.15
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.494
+    }
+  ],
+  "242": [
+    {
+      "ticker": "UTI",
+      "price": 3.17
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.8743
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.465
+    }
+  ],
+  "309": [
+    {
+      "ticker": "UTI",
+      "price": 3.14
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.85
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.47
+    }
+  ]
+}

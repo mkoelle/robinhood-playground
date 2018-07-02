@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.6601
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTTR",
+      "price": 14.73
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDNT",
+      "price": 14.975
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.6601
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTTR",
+      "price": 14.5201
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.13
+    }
+  ]
+}

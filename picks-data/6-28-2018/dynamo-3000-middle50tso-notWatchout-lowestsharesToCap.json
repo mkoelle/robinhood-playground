@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WIT",
+      "price": 4.79
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FOMX",
+      "price": 4.98
+    },
+    {
+      "ticker": "VIRC",
+      "price": 4.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FOMX",
+      "price": 4.985
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENIC",
+      "price": 4.85
+    },
+    {
+      "ticker": "CMU",
+      "price": 4.48
+    }
+  ]
+}

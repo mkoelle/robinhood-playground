@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CJJD",
+      "price": 1.5474
+    },
+    {
+      "ticker": "ECT",
+      "price": 2.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARPS",
+      "price": 4.5
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.3127
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECT",
+      "price": 2.064
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.385
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TMQ",
+      "price": 1.7873
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    }
+  ]
+}

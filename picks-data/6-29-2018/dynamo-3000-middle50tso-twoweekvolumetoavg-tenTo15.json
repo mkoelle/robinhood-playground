@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EVV",
+      "price": 12.5899
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.2757
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLM",
+      "price": 14.1169
+    },
+    {
+      "ticker": "BFO",
+      "price": 14.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BFO",
+      "price": 14.26
+    },
+    {
+      "ticker": "BHK",
+      "price": 12.75
+    }
+  ]
+}

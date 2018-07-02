@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "JVA",
+      "price": 5.7
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLF",
+      "price": 7.684
+    },
+    {
+      "ticker": "QHC",
+      "price": 5.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVF",
+      "price": 8.73
+    },
+    {
+      "ticker": "FT",
+      "price": 6.67
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 9.63
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.67
+    }
+  ]
+}

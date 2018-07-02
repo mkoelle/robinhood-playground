@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "JILL",
+      "price": 9
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FINZ",
+      "price": 8.67
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPIX",
+      "price": 6.25
+    },
+    {
+      "ticker": "SSW",
+      "price": 9.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRD",
+      "price": 6.49
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.2
+    }
+  ]
+}

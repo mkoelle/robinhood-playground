@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SCON",
+      "price": 0.9499
+    },
+    {
+      "ticker": "OTIC",
+      "price": 3.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOS",
+      "price": 1.5
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4337
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.8758
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SES",
+      "price": 3.279
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1951
+    }
+  ]
+}

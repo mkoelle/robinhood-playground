@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SSW",
+      "price": 10.04
+    },
+    {
+      "ticker": "SMM",
+      "price": 10.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXE",
+      "price": 10.3401
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.7895
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.11
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.21
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.17
+    }
+  ]
+}

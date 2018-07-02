@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "YRIV",
+      "price": 11.2403
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.33
+    },
+    {
+      "ticker": "KVHI",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.45
+    },
+    {
+      "ticker": "KVHI",
+      "price": 13.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 12.05
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.7
+    }
+  ]
+}

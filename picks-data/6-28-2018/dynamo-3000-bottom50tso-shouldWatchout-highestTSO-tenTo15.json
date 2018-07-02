@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "QNST",
+      "price": 12.81
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FLEX",
+      "price": 13.82
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 14.5
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OAS",
+      "price": 13.215
+    },
+    {
+      "ticker": "ALNA",
+      "price": 12.88
+    }
+  ]
+}

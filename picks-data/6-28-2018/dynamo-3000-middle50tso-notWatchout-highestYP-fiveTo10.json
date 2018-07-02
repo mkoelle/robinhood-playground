@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ONDK",
+      "price": 7.095
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCM",
+      "price": 9.23
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRS",
+      "price": 6.445
+    },
+    {
+      "ticker": "ORN",
+      "price": 8.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRS",
+      "price": 6.4543
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.12
+    }
+  ]
+}

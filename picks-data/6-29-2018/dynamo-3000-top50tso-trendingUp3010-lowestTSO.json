@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CHNR",
+      "price": 2.3756
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGC",
+      "price": 0.77
+    },
+    {
+      "ticker": "LPTH",
+      "price": 2.371
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2041
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.142
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NFEC",
+      "price": 2.71
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOG",
+      "price": 3.149
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.291
+    }
+  ]
+}

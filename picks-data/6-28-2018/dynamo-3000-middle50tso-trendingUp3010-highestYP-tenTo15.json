@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NXQ",
+      "price": 13.625
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.5259
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MZF",
+      "price": 14.34
+    },
+    {
+      "ticker": "MSP",
+      "price": 11.7103
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XRM",
+      "price": 13.25
+    },
+    {
+      "ticker": "CEMI",
+      "price": 10.705
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XRM",
+      "price": 13.245
+    },
+    {
+      "ticker": "GRX",
+      "price": 10.1201
+    }
+  ]
+}

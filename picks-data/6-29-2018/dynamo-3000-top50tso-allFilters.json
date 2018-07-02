@@ -1,0 +1,64 @@
+{
+  "100": [
+    {
+      "ticker": "CHNR",
+      "price": 2.3756
+    },
+    {
+      "ticker": "SALM",
+      "price": 5
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.238
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UAN",
+      "price": 3.3127
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.42
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BRN",
+      "price": 2.142
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.385
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UAN",
+      "price": 3.29
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.626
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UAN",
+      "price": 3.291
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    }
+  ]
+}

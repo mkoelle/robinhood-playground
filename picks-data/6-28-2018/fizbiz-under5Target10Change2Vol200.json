@@ -1,0 +1,60 @@
+{
+  "75": [
+    {
+      "ticker": "AMRN",
+      "price": 2.945
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.33
+    },
+    {
+      "ticker": "BLDP",
+      "price": 2.72
+    }
+  ],
+  "120": [
+    {
+      "ticker": "AMRN",
+      "price": 2.99
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.365
+    },
+    {
+      "ticker": "BLDP",
+      "price": 2.74
+    },
+    {
+      "ticker": "GGB",
+      "price": 3.55
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.135
+    }
+  ],
+  "180": [
+    {
+      "ticker": "AMRN",
+      "price": 2.95
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.4
+    },
+    {
+      "ticker": "GGB",
+      "price": 3.565
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.64
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.425
+    }
+  ]
+}

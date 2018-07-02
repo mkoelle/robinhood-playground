@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AVXL",
+      "price": 2.715
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTBX",
+      "price": 2.14
+    },
+    {
+      "ticker": "EQS",
+      "price": 2.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JCP",
+      "price": 2.385
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNC",
+      "price": 3.51
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNMX",
+      "price": 1.19
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.42
+    }
+  ]
+}

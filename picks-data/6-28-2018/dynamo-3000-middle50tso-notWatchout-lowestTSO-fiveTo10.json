@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "JVA",
+      "price": 5.7
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.7399
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLF",
+      "price": 7.684
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVF",
+      "price": 8.73
+    },
+    {
+      "ticker": "NYMT",
+      "price": 5.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IAE",
+      "price": 9.83
+    },
+    {
+      "ticker": "CSPI",
+      "price": 9.63
+    }
+  ]
+}

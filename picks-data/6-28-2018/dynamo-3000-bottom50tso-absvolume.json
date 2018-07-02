@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "YUMA",
+      "price": 0.61
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.535
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6192
+    },
+    {
+      "ticker": "PAVM",
+      "price": 0.9329
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 2.076
+    },
+    {
+      "ticker": "CHCI",
+      "price": 2.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 1.94
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 3.5262
+    }
+  ]
+}

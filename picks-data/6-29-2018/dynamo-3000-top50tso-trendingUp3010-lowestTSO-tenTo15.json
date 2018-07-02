@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GPOR",
+      "price": 12.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.745
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIO",
+      "price": 12.87
+    },
+    {
+      "ticker": "ACCO",
+      "price": 13.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AHH",
+      "price": 14.945
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.6953
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACT",
+      "price": 12.2
+    },
+    {
+      "ticker": "SMM",
+      "price": 10.1142
+    }
+  ]
+}

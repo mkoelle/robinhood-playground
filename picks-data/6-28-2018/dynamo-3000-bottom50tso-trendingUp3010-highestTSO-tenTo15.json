@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HMG",
+      "price": 14.25
+    },
+    {
+      "ticker": "LMRK",
+      "price": 13.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVGS",
+      "price": 13.1655
+    },
+    {
+      "ticker": "AROC",
+      "price": 11.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "STRL",
+      "price": 13.36
+    },
+    {
+      "ticker": "REW",
+      "price": 13.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OAS",
+      "price": 13.215
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.9
+    }
+  ]
+}

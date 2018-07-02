@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2301
+    },
+    {
+      "ticker": "GEVO",
+      "price": 4.04
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.6299
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2265
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.6063
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.2389
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NSPR",
+      "price": 0.237
+    },
+    {
+      "ticker": "SDRL",
+      "price": 0.22
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.3964
+    }
+  ]
+}

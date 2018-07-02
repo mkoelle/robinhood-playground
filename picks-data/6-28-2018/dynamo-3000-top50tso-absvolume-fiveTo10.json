@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "JILL",
+      "price": 9
+    },
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGI",
+      "price": 9.725
+    },
+    {
+      "ticker": "NAKD",
+      "price": 6.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPIX",
+      "price": 6.25
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.5699
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLNT",
+      "price": 6.525
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.8015
+    }
+  ]
+}

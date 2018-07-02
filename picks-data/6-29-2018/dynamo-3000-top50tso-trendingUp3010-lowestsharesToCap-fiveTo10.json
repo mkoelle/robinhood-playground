@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 9.77
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.9
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.615
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VNET",
+      "price": 9.57
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.35
+    }
+  ]
+}

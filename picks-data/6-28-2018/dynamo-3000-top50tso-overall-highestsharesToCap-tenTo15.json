@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.535
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.515
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEP",
+      "price": 10.2
+    },
+    {
+      "ticker": "ABR",
+      "price": 10.405
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 10.05
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.22
+    }
+  ]
+}

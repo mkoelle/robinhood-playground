@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DB",
+      "price": 10.78
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.629
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNUG",
+      "price": 13.725
+    },
+    {
+      "ticker": "ADTN",
+      "price": 14.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNUG",
+      "price": 13.665
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.585
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JNUG",
+      "price": 13.5951
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.605
+    }
+  ]
+}

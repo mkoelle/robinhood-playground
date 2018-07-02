@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HMG",
+      "price": 14.25
+    },
+    {
+      "ticker": "LMRK",
+      "price": 13.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LMRK",
+      "price": 13.54
+    },
+    {
+      "ticker": "DM",
+      "price": 13.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LMRK",
+      "price": 13.55
+    },
+    {
+      "ticker": "DM",
+      "price": 13.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    }
+  ]
+}

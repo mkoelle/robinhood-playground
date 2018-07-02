@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VII",
+      "price": 0.2953
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4121
+    },
+    {
+      "ticker": "SLS",
+      "price": 3.4
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HUSA",
+      "price": 0.297
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.5851
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3869
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2966
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.38
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.5801
+    }
+  ]
+}

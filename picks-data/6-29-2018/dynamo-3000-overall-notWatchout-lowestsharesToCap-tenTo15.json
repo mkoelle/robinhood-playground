@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    },
+    {
+      "ticker": "CRESY",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCO",
+      "price": 14.895
+    },
+    {
+      "ticker": "CRESY",
+      "price": 14.835
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SNNA",
+      "price": 15.08
+    },
+    {
+      "ticker": "SCO",
+      "price": 14.8752
+    }
+  ]
+}

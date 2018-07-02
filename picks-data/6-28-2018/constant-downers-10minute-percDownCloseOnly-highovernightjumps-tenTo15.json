@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "EZPW",
+      "price": 12.25
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.59
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CMT",
+      "price": 14
+    },
+    {
+      "ticker": "EZPW",
+      "price": 12.175
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.66
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CMT",
+      "price": 14
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.67
+    },
+    {
+      "ticker": "EZPW",
+      "price": 12.175
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.905
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.89
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.94
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IKNX",
+      "price": 10.8365
+    },
+    {
+      "ticker": "LIND",
+      "price": 13
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.55
+    }
+  ]
+}

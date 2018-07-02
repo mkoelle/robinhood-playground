@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PRPL",
+      "price": 8.45
+    },
+    {
+      "ticker": "SNR",
+      "price": 7.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNR",
+      "price": 7.565
+    },
+    {
+      "ticker": "PCK",
+      "price": 8.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LEO",
+      "price": 7.66
+    },
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TSI",
+      "price": 5.451
+    },
+    {
+      "ticker": "CXH",
+      "price": 9.25
+    }
+  ]
+}

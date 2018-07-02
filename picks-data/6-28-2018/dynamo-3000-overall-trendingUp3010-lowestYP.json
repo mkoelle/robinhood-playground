@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AVGR",
+      "price": 1.69
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.1868
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 1.75
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.1327
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.751
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.8452
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVGR",
+      "price": 1.78
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.9
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 9.9682
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HX",
+      "price": 9.912
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HX",
+      "price": 9.92
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HX",
+      "price": 9.84
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.925
+    }
+  ]
+}

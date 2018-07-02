@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 9.542
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.145
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 9.8427
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEMP",
+      "price": 9.4752
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 9.865
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.11
+    }
+  ]
+}

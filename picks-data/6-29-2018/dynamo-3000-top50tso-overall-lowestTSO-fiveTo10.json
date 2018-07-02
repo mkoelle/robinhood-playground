@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.6
+    },
+    {
+      "ticker": "CLMT",
+      "price": 7.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 8.14
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.615
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.19
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.01
+    }
+  ]
+}

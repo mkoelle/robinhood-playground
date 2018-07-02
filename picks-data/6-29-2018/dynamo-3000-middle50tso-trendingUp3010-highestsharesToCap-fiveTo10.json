@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    },
+    {
+      "ticker": "PES",
+      "price": 5.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    },
+    {
+      "ticker": "MMT",
+      "price": 5.6499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TSI",
+      "price": 5.451
+    },
+    {
+      "ticker": "IAF",
+      "price": 6.18
+    }
+  ]
+}

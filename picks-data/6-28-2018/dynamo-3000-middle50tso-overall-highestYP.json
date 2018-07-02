@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9095
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.507
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLRA",
+      "price": 4.09
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 4.34
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 2.54
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.53
+    }
+  ]
+}

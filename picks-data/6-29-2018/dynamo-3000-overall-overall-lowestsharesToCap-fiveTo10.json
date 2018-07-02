@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 9.9682
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HX",
+      "price": 9.912
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.995
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.45
+    },
+    {
+      "ticker": "HX",
+      "price": 9.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.45
+    },
+    {
+      "ticker": "HX",
+      "price": 9.84
+    }
+  ]
+}

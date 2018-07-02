@@ -80,12 +80,9 @@ const morePicks = [
     'based-on-jump-down5overnight-trending35257-shouldWatchout-fiveTo10-0',
     'based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-0',
     'low-float-high-volume-floatPoints-trenddown3to5-tenTo15-6'
-]
+];
 
-const forPurchase = [
-    // short sell / buy put option / sell call option:
-    // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
-    // constant-risers-10minute-percUpHighClose-highovernightjumps-198
+const myListJune27 = [
     'based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10-16',
     'sudden-drops-last3trend-first1-280',
     'low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout-25',
@@ -95,6 +92,13 @@ const forPurchase = [
     'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10-fiveTo10-6',
     'dynamo-3000-overall-onlyWatchout-highestTSO-200',
     'up-streak-5days-gt3overnight-fiveTo10-189'
+];
+
+const forPurchase = [
+    // short sell / buy put option / sell call option:
+    // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
+    // constant-risers-10minute-percUpHighClose-highovernightjumps-198
+    'sudden-drops-last3trend-first1-280'
 ];
 
 const cheapestPicksEmailObj = [
@@ -135,6 +139,7 @@ module.exports = {
         myPicks,
         realOldSchool,
         twoPicks,
-        morePicks
+        morePicks,
+        myListJune27
     }
 };

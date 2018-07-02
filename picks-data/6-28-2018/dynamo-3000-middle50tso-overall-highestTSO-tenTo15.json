@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MNE",
+      "price": 12.63
+    },
+    {
+      "ticker": "TLI",
+      "price": 10.1501
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLI",
+      "price": 10.16
+    },
+    {
+      "ticker": "NAC",
+      "price": 13.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DTF",
+      "price": 13.3501
+    },
+    {
+      "ticker": "PML",
+      "price": 13.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AJX",
+      "price": 13.2199
+    },
+    {
+      "ticker": "JRO",
+      "price": 10.4073
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EPM",
+      "price": 9.975
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EPM",
+      "price": 9.995
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPM",
+      "price": 9.875
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EPM",
+      "price": 9.875
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.62
+    }
+  ]
+}

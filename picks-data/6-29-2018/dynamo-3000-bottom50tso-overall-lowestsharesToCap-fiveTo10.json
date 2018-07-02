@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 9.9682
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HX",
+      "price": 9.912
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.5898
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HX",
+      "price": 9.92
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.585
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HX",
+      "price": 9.84
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.5652
+    }
+  ]
+}

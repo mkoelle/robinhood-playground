@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UAMY",
+      "price": 0.507
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6063
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IDXG",
+      "price": 0.8728
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMI",
+      "price": 1.63
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTX",
+      "price": 2.4373
+    },
+    {
+      "ticker": "KCAP",
+      "price": 3.26
+    }
+  ]
+}

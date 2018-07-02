@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MACK",
+      "price": 4.9701
+    },
+    {
+      "ticker": "MXWL",
+      "price": 5.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MTEM",
+      "price": 5.15
+    },
+    {
+      "ticker": "MXWL",
+      "price": 5.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMV",
+      "price": 5.1
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRBP",
+      "price": 5.1
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.045
+    }
+  ]
+}

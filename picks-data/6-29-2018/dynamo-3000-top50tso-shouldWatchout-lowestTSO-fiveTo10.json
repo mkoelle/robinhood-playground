@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.6
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AG",
+      "price": 7.635
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.615
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.6707
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.19
+    },
+    {
+      "ticker": "AXTI",
+      "price": 6.9
+    }
+  ]
+}

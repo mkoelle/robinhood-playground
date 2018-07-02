@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TBIO",
+      "price": 12.1505
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 12.01
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TBIO",
+      "price": 12
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.9928
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TBIO",
+      "price": 12.02
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.9928
+    }
+  ]
+}

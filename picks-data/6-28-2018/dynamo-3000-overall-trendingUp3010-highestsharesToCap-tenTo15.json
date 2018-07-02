@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.0801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.1505
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.04
+    },
+    {
+      "ticker": "MXE",
+      "price": 10.27
+    }
+  ]
+}

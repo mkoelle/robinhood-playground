@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "SUPV",
+      "price": 10.13
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.545
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.275
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.24
+    },
+    {
+      "ticker": "INVA",
+      "price": 13.72
+    }
+  ],
+  "250": [
+    {
+      "ticker": "SUPV",
+      "price": 10.17
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.665
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.43
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.05
+    },
+    {
+      "ticker": "INVA",
+      "price": 13.665
+    }
+  ],
+  "-15": [
+    {
+      "ticker": "SUPV",
+      "price": 10.86
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.45
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.3
+    },
+    {
+      "ticker": "EVLO",
+      "price": 11.81
+    },
+    {
+      "ticker": "INVA",
+      "price": 13.76
+    }
+  ]
+}

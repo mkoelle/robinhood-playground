@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 3.78
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 3.74
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.905
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 3.7
+    },
+    {
+      "ticker": "NOG",
+      "price": 2.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 4.115
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.805
+    }
+  ]
+}

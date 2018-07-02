@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "CERC",
+      "price": 4.43
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.25
+    },
+    {
+      "ticker": "PTN",
+      "price": 1.0001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.44
+    },
+    {
+      "ticker": "EXK",
+      "price": 3.1584
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.845
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.39
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.865
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.5762
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRQ",
+      "price": 2.845
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    },
+    {
+      "ticker": "ECT",
+      "price": 2.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRQ",
+      "price": 2.85
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    },
+    {
+      "ticker": "PME",
+      "price": 3.02
+    }
+  ]
+}

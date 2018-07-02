@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "XELA",
+      "price": 4.96
+    },
+    {
+      "ticker": "REPH",
+      "price": 4.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VHI",
+      "price": 4.98
+    },
+    {
+      "ticker": "FOMX",
+      "price": 4.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FOMX",
+      "price": 4.985
+    },
+    {
+      "ticker": "FTD",
+      "price": 4.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVC",
+      "price": 4.95
+    },
+    {
+      "ticker": "IVAC",
+      "price": 4.825
+    }
+  ]
+}

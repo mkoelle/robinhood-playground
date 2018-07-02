@@ -1,0 +1,90 @@
+{
+  "100": [
+    {
+      "ticker": "YUMA",
+      "price": 0.61
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7936
+    },
+    {
+      "ticker": "PED",
+      "price": 3.03
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.875
+    },
+    {
+      "ticker": "PIR",
+      "price": 2.275
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6192
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.55
+    },
+    {
+      "ticker": "PED",
+      "price": 2.7399
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.6
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6005
+    },
+    {
+      "ticker": "PED",
+      "price": 2.36
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.2
+    },
+    {
+      "ticker": "ASNS",
+      "price": 4.3998
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YUMA",
+      "price": 0.5803
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.619
+    },
+    {
+      "ticker": "PED",
+      "price": 2.604
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.3301
+    },
+    {
+      "ticker": "ASNS",
+      "price": 4.29
+    }
+  ]
+}

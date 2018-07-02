@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NSH",
+      "price": 12.5
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.25
+    },
+    {
+      "ticker": "LBC",
+      "price": 11.49
+    }
+  ],
+  "242": [
+    {
+      "ticker": "REDU",
+      "price": 14
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.842
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    },
+    {
+      "ticker": "MTR",
+      "price": 14.6
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.65
+    }
+  ]
+}

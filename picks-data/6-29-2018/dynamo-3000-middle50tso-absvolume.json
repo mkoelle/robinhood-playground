@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AVXL",
+      "price": 2.715
+    },
+    {
+      "ticker": "TTNP",
+      "price": 1.071
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTBX",
+      "price": 2.14
+    },
+    {
+      "ticker": "BLDP",
+      "price": 2.805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JCP",
+      "price": 2.385
+    },
+    {
+      "ticker": "CCM",
+      "price": 4.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNC",
+      "price": 3.51
+    },
+    {
+      "ticker": "VVR",
+      "price": 4.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNMX",
+      "price": 1.19
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.245
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "100": [
+    {
+      "ticker": "YUMA",
+      "price": 0.61
+    },
+    {
+      "ticker": "GBR",
+      "price": 2.63
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7936
+    },
+    {
+      "ticker": "KERX",
+      "price": 3.71
+    },
+    {
+      "ticker": "XELB",
+      "price": 2.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6192
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.55
+    },
+    {
+      "ticker": "GBR",
+      "price": 2.4375
+    },
+    {
+      "ticker": "KERX",
+      "price": 3.355
+    },
+    {
+      "ticker": "PED",
+      "price": 2.7399
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 2.076
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.6005
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.0966
+    },
+    {
+      "ticker": "PED",
+      "price": 2.36
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 1.94
+    },
+    {
+      "ticker": "CVM",
+      "price": 1.02
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5803
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.619
+    },
+    {
+      "ticker": "NSPR",
+      "price": 0.55
+    }
+  ]
+}

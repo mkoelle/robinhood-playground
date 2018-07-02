@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CRBP",
+      "price": 4.979
+    },
+    {
+      "ticker": "PFIE",
+      "price": 4.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMTI",
+      "price": 4.095
+    },
+    {
+      "ticker": "CRBP",
+      "price": 4.9488
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATXI",
+      "price": 3.6752
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.5588
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EBR.B",
+      "price": 3.5262
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.76
+    }
+  ]
+}

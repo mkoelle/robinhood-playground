@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "BKT",
+      "price": 5.8101
+    },
+    {
+      "ticker": "CCNI",
+      "price": 5.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNR",
+      "price": 7.565
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.2948
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGCY",
+      "price": 6.9399
+    },
+    {
+      "ticker": "AUDC",
+      "price": 7.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IAF",
+      "price": 6.18
+    },
+    {
+      "ticker": "CXH",
+      "price": 9.25
+    }
+  ]
+}

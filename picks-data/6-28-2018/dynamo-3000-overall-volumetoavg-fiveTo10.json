@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 8.25
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 8.02
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CADC",
+      "price": 5.05
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CADC",
+      "price": 5.085
+    },
+    {
+      "ticker": "OIA",
+      "price": 7.4906
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IFMK",
+      "price": 5.28
+    },
+    {
+      "ticker": "PTGX",
+      "price": 7.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IFMK",
+      "price": 5.44
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TEDU",
+      "price": 7.6707
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 8.25
+    },
+    {
+      "ticker": "SND",
+      "price": 5.3
+    }
+  ]
+}

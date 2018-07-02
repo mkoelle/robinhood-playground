@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PZC",
+      "price": 10.3
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENX",
+      "price": 11.31
+    },
+    {
+      "ticker": "NAN",
+      "price": 12.569
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENX",
+      "price": 11.31
+    },
+    {
+      "ticker": "NAN",
+      "price": 12.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PZC",
+      "price": 10.284
+    },
+    {
+      "ticker": "PHH",
+      "price": 10.865
+    }
+  ]
+}

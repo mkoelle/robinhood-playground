@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CARV",
+      "price": 4.73
+    },
+    {
+      "ticker": "FLGT",
+      "price": 4.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.44
+    },
+    {
+      "ticker": "NTEC",
+      "price": 4.4361
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.39
+    },
+    {
+      "ticker": "ACHV",
+      "price": 3.9275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AUTO",
+      "price": 4.24
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.4633
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AUTO",
+      "price": 4.4
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.4371
+    }
+  ]
+}

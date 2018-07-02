@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PLG",
+      "price": 0.1037
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLG",
+      "price": 0.1002
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.142
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PLG",
+      "price": 0.1002
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLG",
+      "price": 0.1007
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.1403
+    }
+  ]
+}

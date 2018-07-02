@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "SRC",
+      "price": 8.025
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.52
+    },
+    {
+      "ticker": "GDL",
+      "price": 9.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 9.03
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.13
+    },
+    {
+      "ticker": "RMT",
+      "price": 9.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JRS",
+      "price": 9.9199
+    },
+    {
+      "ticker": "JMLP",
+      "price": 7.96
+    },
+    {
+      "ticker": "ORN",
+      "price": 8.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 9.63
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.67
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.61
+    }
+  ]
+}

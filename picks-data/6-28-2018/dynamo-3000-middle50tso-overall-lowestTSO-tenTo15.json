@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "BTA",
+      "price": 11.3
+    },
+    {
+      "ticker": "NMI",
+      "price": 11.5259
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.75
+    },
+    {
+      "ticker": "MYN",
+      "price": 11.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SILJ",
+      "price": 10.7142
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMS",
+      "price": 13.445
+    },
+    {
+      "ticker": "OXLC",
+      "price": 10.3968
+    }
+  ]
+}

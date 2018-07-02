@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MESO",
+      "price": 5.45
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MESO",
+      "price": 5.4299
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMV",
+      "price": 5.1
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRBP",
+      "price": 5.1
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.045
+    }
+  ]
+}

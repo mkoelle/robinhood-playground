@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    },
+    {
+      "ticker": "NGVC",
+      "price": 12.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.4027
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.8519
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.5317
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.6038
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EQFN",
+      "price": 10.762
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.44
+    }
+  ]
+}

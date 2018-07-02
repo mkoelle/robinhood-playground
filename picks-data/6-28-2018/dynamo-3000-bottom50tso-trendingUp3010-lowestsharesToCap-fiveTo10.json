@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.28
+    },
+    {
+      "ticker": "ARCT",
+      "price": 8.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPI",
+      "price": 9.3492
+    },
+    {
+      "ticker": "ARCT",
+      "price": 8.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 9.92
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMGN",
+      "price": 9.96
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.36
+    }
+  ]
+}

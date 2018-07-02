@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ENDP",
+      "price": 9.66
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.855
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRV",
+      "price": 9.5898
+    },
+    {
+      "ticker": "CMCM",
+      "price": 9.7082
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRV",
+      "price": 9.585
+    },
+    {
+      "ticker": "CMCM",
+      "price": 9.675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRV",
+      "price": 9.5652
+    },
+    {
+      "ticker": "CMCM",
+      "price": 9.65
+    }
+  ]
+}

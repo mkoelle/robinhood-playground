@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TVIZ",
+      "price": 10.3
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KIN",
+      "price": 11
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IKNX",
+      "price": 10.8365
+    },
+    {
+      "ticker": "YRIV",
+      "price": 12.05
+    }
+  ]
+}

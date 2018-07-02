@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.205
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.105
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.13
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.098
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.19
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.29
+    }
+  ]
+}

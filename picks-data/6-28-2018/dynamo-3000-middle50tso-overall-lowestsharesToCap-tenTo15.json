@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MPV",
+      "price": 14.8365
+    },
+    {
+      "ticker": "FSD",
+      "price": 14.6867
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPE",
+      "price": 14.9752
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMOS",
+      "price": 14.93
+    },
+    {
+      "ticker": "SFL",
+      "price": 14.9339
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AFSI",
+      "price": 14.57
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.549
+    }
+  ]
+}

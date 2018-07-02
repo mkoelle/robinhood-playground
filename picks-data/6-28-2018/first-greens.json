@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.414
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5364
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.21
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6446
+    }
+  ],
+  "250": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.482
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5301
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.21
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.622
+    }
+  ],
+  "600": [
+    {
+      "ticker": "INPX",
+      "price": 0.1635
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.5
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.5261
+    },
+    {
+      "ticker": "BIOL",
+      "price": 1.21
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6577
+    }
+  ]
+}

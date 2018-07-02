@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LKM",
+      "price": 1.13
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXK",
+      "price": 3.1584
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.4829
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LKM",
+      "price": 1.13
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.9356
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DTRM",
+      "price": 1.43
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.0161
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2195
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.95
+    }
+  ]
+}

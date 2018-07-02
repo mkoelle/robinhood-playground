@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MPW",
+      "price": 13.925
+    },
+    {
+      "ticker": "PML",
+      "price": 13.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SXC",
+      "price": 13.17
+    },
+    {
+      "ticker": "MZF",
+      "price": 14.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEMI",
+      "price": 10.705
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.1926
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MITL",
+      "price": 10.965
+    },
+    {
+      "ticker": "XCRA",
+      "price": 13.74
+    }
+  ]
+}

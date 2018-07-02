@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EBR",
+      "price": 3.22
+    },
+    {
+      "ticker": "BKEP",
+      "price": 3.3317
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCCL",
+      "price": 1.5803
+    },
+    {
+      "ticker": "OZM",
+      "price": 1.915
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 3.1099
+    },
+    {
+      "ticker": "KFS",
+      "price": 2.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JTPY",
+      "price": 1.9
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.04
+    }
+  ]
+}

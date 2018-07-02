@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 5.4925
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 8.8
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.155
+    },
+    {
+      "ticker": "XENE",
+      "price": 8.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 7.05
+    },
+    {
+      "ticker": "EDRY",
+      "price": 8.44
+    }
+  ]
+}

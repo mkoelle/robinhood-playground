@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CYRX",
+      "price": 14.94
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYRX",
+      "price": 14.85
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CYRX",
+      "price": 14.85
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "USAT",
+      "price": 13.925
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.5
+    }
+  ]
+}

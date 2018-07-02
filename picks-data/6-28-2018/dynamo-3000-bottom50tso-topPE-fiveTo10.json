@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "RRD",
+      "price": 5.58
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.4973
+    },
+    {
+      "ticker": "CAMT",
+      "price": 7.3568
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RRD",
+      "price": 5.585
+    },
+    {
+      "ticker": "KFFB",
+      "price": 8.2001
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.191
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RRD",
+      "price": 5.61
+    },
+    {
+      "ticker": "KFFB",
+      "price": 8.2001
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGRO",
+      "price": 8.18
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.635
+    },
+    {
+      "ticker": "KFFB",
+      "price": 8.2001
+    }
+  ]
+}

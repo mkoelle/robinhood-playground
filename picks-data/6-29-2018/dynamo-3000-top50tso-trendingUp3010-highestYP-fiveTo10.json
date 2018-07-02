@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CASI",
+      "price": 8.03
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 8.04
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASI",
+      "price": 8.098
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASI",
+      "price": 8.29
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.47
+    }
+  ]
+}

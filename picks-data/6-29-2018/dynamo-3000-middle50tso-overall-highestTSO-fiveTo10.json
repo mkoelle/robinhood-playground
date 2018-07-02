@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MVF",
+      "price": 8.76
+    },
+    {
+      "ticker": "BGY",
+      "price": 5.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNR",
+      "price": 7.565
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNMK",
+      "price": 6.63
+    },
+    {
+      "ticker": "HYB",
+      "price": 8.5972
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RNGR",
+      "price": 9.225
+    },
+    {
+      "ticker": "IAF",
+      "price": 6.18
+    }
+  ]
+}

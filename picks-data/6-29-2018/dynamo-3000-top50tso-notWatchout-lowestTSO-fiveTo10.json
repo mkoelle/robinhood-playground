@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CLMT",
+      "price": 7.6
+    },
+    {
+      "ticker": "GFA",
+      "price": 5.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 8.14
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELL",
+      "price": 9.68
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FLDM",
+      "price": 6.01
+    },
+    {
+      "ticker": "AHT",
+      "price": 8.12
+    }
+  ]
+}

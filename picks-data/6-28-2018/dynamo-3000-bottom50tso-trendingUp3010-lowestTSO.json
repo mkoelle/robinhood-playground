@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "YUMA",
+      "price": 0.61
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.7936
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6192
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6005
+    },
+    {
+      "ticker": "PED",
+      "price": 2.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YUMA",
+      "price": 0.5803
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.619
+    }
+  ]
+}

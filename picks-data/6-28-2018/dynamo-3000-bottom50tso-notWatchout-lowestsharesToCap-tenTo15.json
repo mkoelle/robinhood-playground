@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AZRE",
+      "price": 14.4041
+    },
+    {
+      "ticker": "WHF",
+      "price": 14.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAUR",
+      "price": 14.68
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CCR",
+      "price": 14.7844
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRA",
+      "price": 10.13
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    }
+  ]
+}

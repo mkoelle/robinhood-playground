@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TNK",
+      "price": 1.1638
+    },
+    {
+      "ticker": "CORV",
+      "price": 3.6783
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDXC",
+      "price": 3.725
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OCC",
+      "price": 3.925
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTX",
+      "price": 2.4373
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.95
+    }
+  ]
+}

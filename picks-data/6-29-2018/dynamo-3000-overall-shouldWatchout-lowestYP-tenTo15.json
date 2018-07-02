@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 12.94
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 12.8453
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVXY",
+      "price": 12.86
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVXY",
+      "price": 12.81
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.53
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "JILL",
+      "price": 9
+    },
+    {
+      "ticker": "DAIO",
+      "price": 6.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 9.6
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.47
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNLO",
+      "price": 8.18
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEQ",
+      "price": 9.61
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.7
+    }
+  ]
+}

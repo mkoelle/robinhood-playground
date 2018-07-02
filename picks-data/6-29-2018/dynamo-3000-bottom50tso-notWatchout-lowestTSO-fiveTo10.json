@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IOTS",
+      "price": 8.4
+    },
+    {
+      "ticker": "UXIN",
+      "price": 9.1238
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UXIN",
+      "price": 9.015
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.4232
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UXIN",
+      "price": 8.9
+    },
+    {
+      "ticker": "IOTS",
+      "price": 8.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UXIN",
+      "price": 9.01
+    },
+    {
+      "ticker": "INS",
+      "price": 8.5387
+    }
+  ]
+}

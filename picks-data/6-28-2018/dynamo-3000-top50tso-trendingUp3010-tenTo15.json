@@ -1,0 +1,90 @@
+{
+  "100": [
+    {
+      "ticker": "WSC",
+      "price": 14.625
+    },
+    {
+      "ticker": "USO",
+      "price": 14.88
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.65
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    },
+    {
+      "ticker": "PICO",
+      "price": 11.825
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TREC",
+      "price": 14.7
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7
+    },
+    {
+      "ticker": "PICO",
+      "price": 11.825
+    },
+    {
+      "ticker": "BHR",
+      "price": 11.22
+    },
+    {
+      "ticker": "MPO",
+      "price": 13.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIG",
+      "price": 13.435
+    },
+    {
+      "ticker": "AES",
+      "price": 13.515
+    },
+    {
+      "ticker": "PICO",
+      "price": 11.875
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.98
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FNKO",
+      "price": 11.9905
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.98
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.8365
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.875
+    }
+  ]
+}

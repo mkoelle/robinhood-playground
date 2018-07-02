@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CHRA",
+      "price": 10.91
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMN",
+      "price": 10.625
+    },
+    {
+      "ticker": "USX",
+      "price": 14.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMN",
+      "price": 10.725
+    },
+    {
+      "ticker": "USX",
+      "price": 14.8425
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRA",
+      "price": 10.87
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.45
+    }
+  ]
+}

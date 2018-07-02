@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 9.6
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 8.14
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.147
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 9.615
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 9.19
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.29
+    }
+  ]
+}

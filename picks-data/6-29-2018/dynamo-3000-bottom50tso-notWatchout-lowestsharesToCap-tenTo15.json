@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.6601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTTR",
+      "price": 14.73
+    },
+    {
+      "ticker": "FTSI",
+      "price": 14.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDNT",
+      "price": 14.975
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.6601
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SNNA",
+      "price": 15.08
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.5201
+    }
+  ]
+}

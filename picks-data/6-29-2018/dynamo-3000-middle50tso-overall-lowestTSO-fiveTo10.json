@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "FCO",
+      "price": 7.923
+    },
+    {
+      "ticker": "MUFG",
+      "price": 5.695
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NNY",
+      "price": 9.26
+    },
+    {
+      "ticker": "AWP",
+      "price": 6.381
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LDF",
+      "price": 9.59
+    },
+    {
+      "ticker": "EHT",
+      "price": 9.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 9.83
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.689
+    }
+  ]
+}

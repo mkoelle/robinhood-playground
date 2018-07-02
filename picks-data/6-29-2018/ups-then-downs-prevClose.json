@@ -1,0 +1,68 @@
+{
+  "200": [
+    {
+      "ticker": "ZN",
+      "price": 4.095
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3835
+    },
+    {
+      "ticker": "VII",
+      "price": 0.301
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.705
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ZN",
+      "price": 4.065
+    },
+    {
+      "ticker": "VII",
+      "price": 0.29
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3829
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.39
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.6738
+    }
+  ],
+  "380": [
+    {
+      "ticker": "JONE",
+      "price": 0.357
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.06
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.38
+    },
+    {
+      "ticker": "VII",
+      "price": 0.2981
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.7402
+    }
+  ]
+}

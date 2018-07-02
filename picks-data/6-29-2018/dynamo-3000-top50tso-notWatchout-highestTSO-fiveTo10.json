@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HMI",
+      "price": 9.805
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IDSY",
+      "price": 6.07
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.0254
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDSY",
+      "price": 6.1307
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 5.05
+    },
+    {
+      "ticker": "IDSY",
+      "price": 6.0679
+    }
+  ]
+}

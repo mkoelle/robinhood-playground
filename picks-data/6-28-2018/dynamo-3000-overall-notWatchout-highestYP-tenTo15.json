@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 14.35
+    },
+    {
+      "ticker": "CYRX",
+      "price": 14.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    },
+    {
+      "ticker": "CYRX",
+      "price": 14.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    },
+    {
+      "ticker": "CYRX",
+      "price": 14.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.4
+    }
+  ]
+}

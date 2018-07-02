@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TTNP",
+      "price": 1.071
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PER",
+      "price": 2.575
+    },
+    {
+      "ticker": "IDXG",
+      "price": 0.8848
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HCFT",
+      "price": 3.408
+    },
+    {
+      "ticker": "CELH",
+      "price": 4.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WIT",
+      "price": 4.8
+    },
+    {
+      "ticker": "TNP",
+      "price": 3.7138
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TST",
+      "price": 2.18
+    },
+    {
+      "ticker": "HOS",
+      "price": 3.98
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MGTX",
+      "price": 10.8001
+    },
+    {
+      "ticker": "BWG",
+      "price": 11.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "EVO",
+      "price": 12.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "BOE",
+      "price": 11.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.549
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "XELA",
+      "price": 4.96
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVC",
+      "price": 4.95
+    },
+    {
+      "ticker": "CDXC",
+      "price": 3.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 4.34
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVC",
+      "price": 4.95
+    },
+    {
+      "ticker": "SELF",
+      "price": 4.1
+    }
+  ]
+}

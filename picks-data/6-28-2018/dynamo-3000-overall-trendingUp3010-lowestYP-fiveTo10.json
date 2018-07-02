@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 8.36
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 8.4939
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.8162
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 8.631
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.85
+    }
+  ]
+}

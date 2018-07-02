@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "OAS",
+      "price": 13.02
+    },
+    {
+      "ticker": "NR",
+      "price": 11.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OAS",
+      "price": 13.21
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OAS",
+      "price": 13.22
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.1
+    }
+  ]
+}

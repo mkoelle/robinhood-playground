@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 3.82
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.44
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.4829
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.39
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.9356
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NOG",
+      "price": 3.155
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.0161
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOG",
+      "price": 3.149
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.95
+    }
+  ]
+}

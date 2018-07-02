@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "BLNK",
+      "price": 5.2758
+    },
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 5.4208
+    },
+    {
+      "ticker": "NETE",
+      "price": 7.0942
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLNK",
+      "price": 5.304
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLNK",
+      "price": 5.38
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.23
+    }
+  ]
+}

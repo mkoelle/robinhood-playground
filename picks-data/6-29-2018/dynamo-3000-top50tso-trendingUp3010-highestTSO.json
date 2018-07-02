@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 3.82
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 3.4829
+    },
+    {
+      "ticker": "PED",
+      "price": 2.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 3.9356
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.385
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GBR",
+      "price": 4.0161
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 3.95
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.6975
+    }
+  ]
+}

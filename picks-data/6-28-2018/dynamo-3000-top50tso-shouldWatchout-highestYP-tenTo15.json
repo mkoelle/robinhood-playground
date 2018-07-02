@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CLUB",
+      "price": 13.7001
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 12.82
+    },
+    {
+      "ticker": "ABCD",
+      "price": 10.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 12.88
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLUB",
+      "price": 13.875
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.78
+    }
+  ]
+}

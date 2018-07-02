@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.685
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDHL",
+      "price": 9.147
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDHL",
+      "price": 9.06
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASI",
+      "price": 8.29
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.04
+    },
+    {
+      "ticker": "NR",
+      "price": 11.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 10.035
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FAZ",
+      "price": 11.12
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.4566
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.99
+    }
+  ]
+}

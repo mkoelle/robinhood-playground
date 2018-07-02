@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IRT",
+      "price": 10.31
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NXR",
+      "price": 14.5997
+    },
+    {
+      "ticker": "NEA",
+      "price": 13.0266
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BRS",
+      "price": 14.18
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VG",
+      "price": 12.955
+    },
+    {
+      "ticker": "MZF",
+      "price": 14.34
+    }
+  ]
+}

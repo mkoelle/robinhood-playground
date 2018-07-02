@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXPR",
+      "price": 9.93
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIEB",
+      "price": 9.86
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEQ",
+      "price": 9.61
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.305
+    }
+  ]
+}

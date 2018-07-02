@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SOI",
+      "price": 14.26
+    },
+    {
+      "ticker": "FBZ",
+      "price": 11.5503
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLCT",
+      "price": 14.96
+    },
+    {
+      "ticker": "LVL",
+      "price": 10.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFO",
+      "price": 14.29
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BHK",
+      "price": 12.75
+    },
+    {
+      "ticker": "MYD",
+      "price": 13.3
+    }
+  ]
+}

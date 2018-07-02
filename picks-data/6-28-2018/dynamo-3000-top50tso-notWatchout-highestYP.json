@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CFRX",
+      "price": 2.5
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LEE",
+      "price": 2.925
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPLR",
+      "price": 4
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LEE",
+      "price": 2.925
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4.2
+    }
+  ]
+}

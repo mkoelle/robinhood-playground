@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TSRI",
+      "price": 6.71
+    },
+    {
+      "ticker": "MCF",
+      "price": 5.689
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSRI",
+      "price": 6.65
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TSRI",
+      "price": 6.638
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.6322
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DEST",
+      "price": 5.5
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.449
+    }
+  ]
+}

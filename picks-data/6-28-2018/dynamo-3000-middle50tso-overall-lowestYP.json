@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 1.53
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.9778
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVIV",
+      "price": 1.79
+    },
+    {
+      "ticker": "AVGR",
+      "price": 1.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.751
+    },
+    {
+      "ticker": "OBLN",
+      "price": 2.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MARA",
+      "price": 0.9701
+    },
+    {
+      "ticker": "PTI",
+      "price": 2.8
+    }
+  ]
+}

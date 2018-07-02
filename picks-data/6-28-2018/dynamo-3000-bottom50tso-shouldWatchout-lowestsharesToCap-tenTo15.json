@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CSTE",
+      "price": 14.9
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.84
+    }
+  ]
+}

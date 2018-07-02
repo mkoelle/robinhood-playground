@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "RDVT",
+      "price": 8.9599
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 8.8
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.2906
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 8.6401
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.2906
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 8.72
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.4394
+    }
+  ]
+}

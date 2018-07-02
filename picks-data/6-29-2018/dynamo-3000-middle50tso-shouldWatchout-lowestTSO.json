@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AVXL",
+      "price": 2.715
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.146
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTBX",
+      "price": 2.14
+    },
+    {
+      "ticker": "HPJ",
+      "price": 3.1354
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JCP",
+      "price": 2.385
+    },
+    {
+      "ticker": "GENE",
+      "price": 0.974
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNC",
+      "price": 3.51
+    },
+    {
+      "ticker": "HIVE",
+      "price": 4.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SNMX",
+      "price": 1.19
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.64
+    }
+  ]
+}

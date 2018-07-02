@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EEQ",
+      "price": 10.075
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEQ",
+      "price": 10.08
+    },
+    {
+      "ticker": "ORBC",
+      "price": 10.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEQ",
+      "price": 10.1532
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEQ",
+      "price": 10.18
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.21
+    }
+  ]
+}

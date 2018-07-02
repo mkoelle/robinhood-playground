@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MUFG",
+      "price": 5.67
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PPT",
+      "price": 5.205
+    },
+    {
+      "ticker": "AGC",
+      "price": 5.5499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0866
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.0751
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGBX",
+      "price": 5.0866
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.08
+    }
+  ]
+}

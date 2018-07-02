@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DEST",
+      "price": 5.98
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENPH",
+      "price": 6.76
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 6.71
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.73
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.5
+    }
+  ]
+}

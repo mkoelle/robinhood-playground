@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2299
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2261
+    },
+    {
+      "ticker": "EQS",
+      "price": 2.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSPR",
+      "price": 0.2287
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSPR",
+      "price": 0.231
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSPR",
+      "price": 0.246
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.42
+    }
+  ]
+}

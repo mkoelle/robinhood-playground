@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DNOW",
+      "price": 13.63
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FATE",
+      "price": 11.36
+    },
+    {
+      "ticker": "GLMD",
+      "price": 12.3801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRCW",
+      "price": 10.17
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    },
+    {
+      "ticker": "ARWR",
+      "price": 13.5
+    }
+  ]
+}

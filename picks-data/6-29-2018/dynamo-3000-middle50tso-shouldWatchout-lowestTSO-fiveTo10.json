@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PRPL",
+      "price": 8.45
+    },
+    {
+      "ticker": "BRG",
+      "price": 8.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHCP",
+      "price": 5.23
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTAI",
+      "price": 9.0273
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.635
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 9.83
+    },
+    {
+      "ticker": "SCPH",
+      "price": 5.689
+    }
+  ]
+}

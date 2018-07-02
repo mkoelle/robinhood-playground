@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "BTA",
+      "price": 11.3
+    },
+    {
+      "ticker": "BWG",
+      "price": 11.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.75
+    },
+    {
+      "ticker": "EVO",
+      "price": 12.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SILJ",
+      "price": 10.7142
+    },
+    {
+      "ticker": "BOE",
+      "price": 11.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMS",
+      "price": 13.445
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.549
+    }
+  ]
+}

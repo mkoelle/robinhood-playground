@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AXTI",
+      "price": 6.825
+    },
+    {
+      "ticker": "EXD",
+      "price": 9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGEN",
+      "price": 6.42
+    },
+    {
+      "ticker": "SHNY",
+      "price": 6.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MVF",
+      "price": 8.73
+    },
+    {
+      "ticker": "NUV",
+      "price": 9.555
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IAE",
+      "price": 9.83
+    },
+    {
+      "ticker": "BKT",
+      "price": 5.8
+    }
+  ]
+}

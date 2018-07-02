@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CRBP",
+      "price": 4.979
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.8401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRBP",
+      "price": 4.9488
+    },
+    {
+      "ticker": "SALM",
+      "price": 4.9599
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRBP",
+      "price": 4.9972
+    },
+    {
+      "ticker": "ANH",
+      "price": 4.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 4.8
+    },
+    {
+      "ticker": "GNE",
+      "price": 4.84
+    }
+  ]
+}

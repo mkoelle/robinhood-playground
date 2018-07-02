@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 12.98
+    },
+    {
+      "ticker": "QNST",
+      "price": 12.81
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 13.98
+    },
+    {
+      "ticker": "ARWR",
+      "price": 12.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECYT",
+      "price": 13.96
+    },
+    {
+      "ticker": "ARWR",
+      "price": 12.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.84
+    }
+  ]
+}

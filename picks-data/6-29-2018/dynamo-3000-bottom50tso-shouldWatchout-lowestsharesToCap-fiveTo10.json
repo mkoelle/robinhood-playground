@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HX",
+      "price": 9.9682
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HX",
+      "price": 9.912
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HX",
+      "price": 9.92
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HX",
+      "price": 9.84
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.43
+    }
+  ]
+}

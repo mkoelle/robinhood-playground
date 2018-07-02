@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CSTE",
+      "price": 14.9
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "LAUR",
+      "price": 14.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "CCR",
+      "price": 14.7844
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRA",
+      "price": 10.13
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    }
+  ]
+}

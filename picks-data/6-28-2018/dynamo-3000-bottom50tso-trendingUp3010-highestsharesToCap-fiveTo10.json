@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DRYS",
+      "price": 5.28
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRYS",
+      "price": 5.35
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.465
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPWH",
+      "price": 5.34
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.045
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.3
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 4.945
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.825
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HYRE",
+      "price": 4.99
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.815
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.825
+    },
+    {
+      "ticker": "TST",
+      "price": 2.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 4.825
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.7873
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SALM",
+      "price": 5
+    },
+    {
+      "ticker": "CARV",
+      "price": 4.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMTI",
+      "price": 4.66
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RMTI",
+      "price": 4.77
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RMTI",
+      "price": 4.89
+    },
+    {
+      "ticker": "AUTO",
+      "price": 4.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RMTI",
+      "price": 4.91
+    },
+    {
+      "ticker": "AUTO",
+      "price": 4.4
+    }
+  ]
+}

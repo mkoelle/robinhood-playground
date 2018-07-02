@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "NTWK",
+      "price": 5.7
+    },
+    {
+      "ticker": "FPI",
+      "price": 9.05
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTWK",
+      "price": 5.7
+    },
+    {
+      "ticker": "FPI",
+      "price": 8.9899
+    },
+    {
+      "ticker": "JNP",
+      "price": 9.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTWK",
+      "price": 5.775
+    },
+    {
+      "ticker": "FPI",
+      "price": 9.0028
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPI",
+      "price": 8.99
+    },
+    {
+      "ticker": "JNP",
+      "price": 9
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.49
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7517
+    },
+    {
+      "ticker": "UXIN",
+      "price": 9.1238
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7506
+    },
+    {
+      "ticker": "UXIN",
+      "price": 9.015
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UXIN",
+      "price": 8.9
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.7506
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UXIN",
+      "price": 9.01
+    },
+    {
+      "ticker": "HYRE",
+      "price": 5.04
+    }
+  ]
+}

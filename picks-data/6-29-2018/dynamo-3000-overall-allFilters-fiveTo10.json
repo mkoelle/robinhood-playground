@@ -1,0 +1,90 @@
+{
+  "100": [
+    {
+      "ticker": "RCM",
+      "price": 8.855
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.2252
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.66
+    },
+    {
+      "ticker": "SVBI",
+      "price": 8.6
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.365
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENDP",
+      "price": 9.5451
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.79
+    },
+    {
+      "ticker": "ABUS",
+      "price": 7.2
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.25
+    },
+    {
+      "ticker": "BTN",
+      "price": 5.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENDP",
+      "price": 9.525
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.19
+    },
+    {
+      "ticker": "BTN",
+      "price": 5.125
+    },
+    {
+      "ticker": "EPM",
+      "price": 9.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENDP",
+      "price": 9.4111
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.745
+    },
+    {
+      "ticker": "AMSC",
+      "price": 6.94
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.215
+    },
+    {
+      "ticker": "ORN",
+      "price": 8.24
+    }
+  ]
+}

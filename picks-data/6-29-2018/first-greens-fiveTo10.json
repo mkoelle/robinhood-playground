@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "TORC",
+      "price": 9.79
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.46
+    },
+    {
+      "ticker": "MHLD",
+      "price": 7.825
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.475
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.3013
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TORC",
+      "price": 9.37
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5141
+    },
+    {
+      "ticker": "MHLD",
+      "price": 7.7938
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.375
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.32
+    }
+  ],
+  "-15": [
+    {
+      "ticker": "TORC",
+      "price": 9
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.42
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.25
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.5
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.37
+    }
+  ]
+}

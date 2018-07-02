@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SALM",
+      "price": 5.0254
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SALM",
+      "price": 5.1
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 5.05
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.3
+    }
+  ]
+}

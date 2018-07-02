@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ATV",
+      "price": 14.65
+    },
+    {
+      "ticker": "CSTE",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "FORM",
+      "price": 12.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "GLMD",
+      "price": 12.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    },
+    {
+      "ticker": "GLMD",
+      "price": 12.07
+    }
+  ]
+}

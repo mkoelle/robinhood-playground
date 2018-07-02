@@ -1,0 +1,90 @@
+{
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 8.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.9699
+    },
+    {
+      "ticker": "OMN",
+      "price": 9.1
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.5002
+    },
+    {
+      "ticker": "LWAY",
+      "price": 5.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 8.02
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.5
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.15
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.53
+    },
+    {
+      "ticker": "DAVE",
+      "price": 6.5177
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKBA",
+      "price": 8.5357
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.9566
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.92
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.21
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKBA",
+      "price": 9.275
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.7801
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.96
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.55
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.926
+    }
+  ]
+}

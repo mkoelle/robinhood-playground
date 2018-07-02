@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.295
+    },
+    {
+      "ticker": "DS",
+      "price": 7.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DS",
+      "price": 7.62
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DS",
+      "price": 7.64
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.835
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DS",
+      "price": 7.74
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.79
+    }
+  ]
+}

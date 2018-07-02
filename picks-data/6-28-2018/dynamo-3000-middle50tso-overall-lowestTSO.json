@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SPRT",
+      "price": 2.8951
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.1638
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRSS",
+      "price": 1.2
+    },
+    {
+      "ticker": "BORN",
+      "price": 1.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    },
+    {
+      "ticker": "AGTC",
+      "price": 3.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UMC",
+      "price": 2.75
+    },
+    {
+      "ticker": "GEN",
+      "price": 2.54
+    }
+  ]
+}

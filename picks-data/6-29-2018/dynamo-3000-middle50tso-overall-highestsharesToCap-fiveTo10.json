@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    },
+    {
+      "ticker": "MUFG",
+      "price": 5.695
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VOC",
+      "price": 5.24
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNFCA",
+      "price": 5.19
+    },
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SNFCA",
+      "price": 5.19
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.325
+    }
+  ]
+}

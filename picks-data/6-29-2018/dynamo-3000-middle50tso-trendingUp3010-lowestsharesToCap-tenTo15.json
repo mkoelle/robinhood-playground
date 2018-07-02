@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "HYI",
+      "price": 14.6
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLCT",
+      "price": 14.96
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.5997
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 14.96
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.5997
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MZF",
+      "price": 14.34
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.31
+    }
+  ]
+}

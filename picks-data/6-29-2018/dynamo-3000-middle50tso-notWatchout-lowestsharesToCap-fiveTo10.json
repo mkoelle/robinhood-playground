@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IAE",
+      "price": 9.9
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.8798
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FAM",
+      "price": 9.99
+    },
+    {
+      "ticker": "IAE",
+      "price": 9.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IPOA",
+      "price": 9.995
+    },
+    {
+      "ticker": "FAM",
+      "price": 9.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FAM",
+      "price": 9.9927
+    },
+    {
+      "ticker": "IAE",
+      "price": 9.89
+    }
+  ]
+}

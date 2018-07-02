@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CSTE",
+      "price": 14.9
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "AIQ",
+      "price": 14.8101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRNA",
+      "price": 14.9203
+    },
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    }
+  ]
+}

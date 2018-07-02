@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 4.82
+    },
+    {
+      "ticker": "TST",
+      "price": 2.1608
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.85
+    },
+    {
+      "ticker": "TST",
+      "price": 2.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 4.875
+    },
+    {
+      "ticker": "TST",
+      "price": 2.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.805
+    },
+    {
+      "ticker": "TST",
+      "price": 2.2
+    }
+  ]
+}

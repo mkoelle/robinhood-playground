@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AQ",
+      "price": 11.855
+    },
+    {
+      "ticker": "AES",
+      "price": 13.295
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRNA",
+      "price": 14.02
+    },
+    {
+      "ticker": "GME",
+      "price": 14.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRNA",
+      "price": 13.75
+    },
+    {
+      "ticker": "ECOM",
+      "price": 14.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRNA",
+      "price": 13.6548
+    },
+    {
+      "ticker": "GME",
+      "price": 14.665
+    }
+  ]
+}

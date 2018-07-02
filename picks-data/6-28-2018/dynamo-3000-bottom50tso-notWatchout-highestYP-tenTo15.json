@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CBAY",
+      "price": 13.32
+    },
+    {
+      "ticker": "CDXS",
+      "price": 13.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBAY",
+      "price": 13.33
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.965
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AGLE",
+      "price": 10.43
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.1
+    }
+  ]
+}

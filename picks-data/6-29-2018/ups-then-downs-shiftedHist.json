@@ -1,0 +1,28 @@
+{
+  "200": [
+    {
+      "ticker": "SDT",
+      "price": 1.96
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3925
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SDT",
+      "price": 1.97
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SDT",
+      "price": 1.964
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.365
+    }
+  ]
+}

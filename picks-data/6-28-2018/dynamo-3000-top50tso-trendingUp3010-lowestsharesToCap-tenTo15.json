@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WSC",
+      "price": 14.625
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TREC",
+      "price": 14.7
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.5564
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.875
+    }
+  ]
+}

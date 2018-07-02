@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ASNS",
+      "price": 5.7548
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 9.92
+    },
+    {
+      "ticker": "HABT",
+      "price": 9.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMGN",
+      "price": 9.96
+    },
+    {
+      "ticker": "EPM",
+      "price": 10.025
+    }
+  ]
+}

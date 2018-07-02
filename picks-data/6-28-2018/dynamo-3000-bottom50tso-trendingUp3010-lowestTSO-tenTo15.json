@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.04
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 10.035
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVGS",
+      "price": 13.15
+    },
+    {
+      "ticker": "NEO",
+      "price": 13.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    },
+    {
+      "ticker": "UVXY",
+      "price": 12.6799
+    }
+  ]
+}

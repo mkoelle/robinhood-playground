@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2061
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPTH",
+      "price": 2.371
+    },
+    {
+      "ticker": "CHNR",
+      "price": 2.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2041
+    },
+    {
+      "ticker": "LPTH",
+      "price": 2.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SAEX",
+      "price": 1.6
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HAIR",
+      "price": 3.4371
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.2073
+    }
+  ]
+}

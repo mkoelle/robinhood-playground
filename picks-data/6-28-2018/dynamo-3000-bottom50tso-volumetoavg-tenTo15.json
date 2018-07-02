@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MGTX",
+      "price": 10.8001
+    },
+    {
+      "ticker": "AROC",
+      "price": 11.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "NR",
+      "price": 11.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.34
+    }
+  ]
+}

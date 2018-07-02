@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AWRE",
+      "price": 3.95
+    },
+    {
+      "ticker": "ARPO",
+      "price": 3.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AWRE",
+      "price": 3.8
+    },
+    {
+      "ticker": "ARPO",
+      "price": 3.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APTO",
+      "price": 3.8899
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATAI",
+      "price": 4.55
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.705
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATAI",
+      "price": 4.19
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.67
+    }
+  ]
+}

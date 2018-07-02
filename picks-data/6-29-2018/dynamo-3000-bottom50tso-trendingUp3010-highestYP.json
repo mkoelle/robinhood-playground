@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 4.5501
+    },
+    {
+      "ticker": "XPLR",
+      "price": 3.7818
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AWRE",
+      "price": 3.8
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.705
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASNA",
+      "price": 3.925
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.6695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRXC",
+      "price": 4.415
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.915
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRXC",
+      "price": 4.3
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.1599
+    }
+  ]
+}

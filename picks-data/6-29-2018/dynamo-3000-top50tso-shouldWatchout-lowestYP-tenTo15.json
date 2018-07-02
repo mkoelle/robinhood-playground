@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 12.2161
+    },
+    {
+      "ticker": "NES",
+      "price": 12.7299
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 12.37
+    },
+    {
+      "ticker": "XON",
+      "price": 13.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRCW",
+      "price": 10.17
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 12.04
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.1
+    }
+  ]
+}

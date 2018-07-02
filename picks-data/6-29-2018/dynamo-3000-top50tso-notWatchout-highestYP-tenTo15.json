@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "TBIO",
+      "price": 12.1505
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 12.01
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TBIO",
+      "price": 12
+    },
+    {
+      "ticker": "BLFS",
+      "price": 11.6843
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TBIO",
+      "price": 12.02
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15
+    }
+  ]
+}

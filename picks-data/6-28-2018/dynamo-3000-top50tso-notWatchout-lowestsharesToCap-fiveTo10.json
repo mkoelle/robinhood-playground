@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GWRS",
+      "price": 9.66
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGI",
+      "price": 9.725
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSW",
+      "price": 9.62
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SSW",
+      "price": 9.72
+    },
+    {
+      "ticker": "ENDP",
+      "price": 9.835
+    }
+  ]
+}

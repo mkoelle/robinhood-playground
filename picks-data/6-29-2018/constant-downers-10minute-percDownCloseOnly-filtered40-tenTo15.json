@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPNE",
+      "price": 12.44
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.25
+    },
+    {
+      "ticker": "LBC",
+      "price": 11.49
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SNMP",
+      "price": 11.842
+    },
+    {
+      "ticker": "NOM",
+      "price": 13.05
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    },
+    {
+      "ticker": "MTR",
+      "price": 14.6
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.65
+    }
+  ]
+}

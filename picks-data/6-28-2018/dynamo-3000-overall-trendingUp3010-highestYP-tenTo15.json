@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 14.35
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.7001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.3
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.245
+    }
+  ]
+}

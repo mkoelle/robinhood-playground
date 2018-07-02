@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 13.77
+    },
+    {
+      "ticker": "AP",
+      "price": 10.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 13.6101
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.45
+    },
+    {
+      "ticker": "PICO",
+      "price": 11.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 12.05
+    },
+    {
+      "ticker": "SPRO",
+      "price": 14.7
+    }
+  ]
+}

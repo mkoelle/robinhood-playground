@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "DWT",
+      "price": 6.24
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RKDA",
+      "price": 7.9695
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DWT",
+      "price": 6.2285
+    },
+    {
+      "ticker": "GEMP",
+      "price": 5.1805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 5.19
+    },
+    {
+      "ticker": "WIN",
+      "price": 5.64
+    }
+  ]
+}

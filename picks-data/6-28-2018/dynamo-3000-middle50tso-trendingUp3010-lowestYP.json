@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "XELA",
+      "price": 4.96
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.6063
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 1.75
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.751
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.4886
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PTX",
+      "price": 2.4373
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.95
+    }
+  ]
+}

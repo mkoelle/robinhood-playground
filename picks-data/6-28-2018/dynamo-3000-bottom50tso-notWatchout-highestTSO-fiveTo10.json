@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 6.89
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MESO",
+      "price": 5.4299
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMV",
+      "price": 5.1
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 5.23
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.18
+    }
+  ]
+}

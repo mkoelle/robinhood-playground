@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WVVI",
+      "price": 8.3116
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LGCY",
+      "price": 6.88
+    },
+    {
+      "ticker": "HIX",
+      "price": 6.4493
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JT",
+      "price": 6.58
+    },
+    {
+      "ticker": "OIA",
+      "price": 7.497
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKT",
+      "price": 5.8
+    },
+    {
+      "ticker": "PYN",
+      "price": 9.1153
+    }
+  ]
+}

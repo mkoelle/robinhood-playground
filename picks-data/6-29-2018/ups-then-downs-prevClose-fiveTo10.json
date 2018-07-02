@@ -1,0 +1,32 @@
+{
+  "200": [
+    {
+      "ticker": "NAKD",
+      "price": 6.23
+    },
+    {
+      "ticker": "HQCL",
+      "price": 6.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NAKD",
+      "price": 6.2273
+    },
+    {
+      "ticker": "HQCL",
+      "price": 6.77
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NAKD",
+      "price": 6.2593
+    },
+    {
+      "ticker": "HQCL",
+      "price": 6.63
+    }
+  ]
+}

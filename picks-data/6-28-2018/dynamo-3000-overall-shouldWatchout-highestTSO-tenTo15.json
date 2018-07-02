@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 12.66
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.2403
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDNA",
+      "price": 12.82
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 12.88
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 12.05
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.8948
+    }
+  ]
+}

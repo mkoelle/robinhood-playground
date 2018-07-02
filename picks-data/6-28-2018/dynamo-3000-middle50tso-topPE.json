@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "SDPI",
+      "price": 1.9095
+    },
+    {
+      "ticker": "RTIX",
+      "price": 4.375
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KCAP",
+      "price": 3.26
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.0542
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.755
+    },
+    {
+      "ticker": "GV",
+      "price": 4.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KCAP",
+      "price": 3.26
+    },
+    {
+      "ticker": "CYAN",
+      "price": 3.86
+    },
+    {
+      "ticker": "ASRV",
+      "price": 4.12
+    }
+  ]
+}

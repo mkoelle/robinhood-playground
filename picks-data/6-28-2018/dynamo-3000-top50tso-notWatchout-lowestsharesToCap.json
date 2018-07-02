@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CSLT",
+      "price": 4.2
+    },
+    {
+      "ticker": "DTEA",
+      "price": 3.632
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSLT",
+      "price": 4.25
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPLR",
+      "price": 4
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AWRE",
+      "price": 4.2
+    },
+    {
+      "ticker": "ARPO",
+      "price": 4.05
+    }
+  ]
+}

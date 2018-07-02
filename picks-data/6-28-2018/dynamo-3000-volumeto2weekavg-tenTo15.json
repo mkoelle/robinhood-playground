@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MGTX",
+      "price": 10.8001
+    },
+    {
+      "ticker": "ATV",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATV",
+      "price": 14.0301
+    },
+    {
+      "ticker": "CMT",
+      "price": 14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATV",
+      "price": 13.845
+    },
+    {
+      "ticker": "CMT",
+      "price": 14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATV",
+      "price": 13.9956
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    }
+  ]
+}

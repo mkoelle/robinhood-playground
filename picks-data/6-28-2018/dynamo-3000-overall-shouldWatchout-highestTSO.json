@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MNGA",
+      "price": 0.7812
+    },
+    {
+      "ticker": "CEI",
+      "price": 1.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNGA",
+      "price": 0.7496
+    },
+    {
+      "ticker": "CEI",
+      "price": 1.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNGA",
+      "price": 0.7424
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNGA",
+      "price": 0.6055
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.599
+    }
+  ]
+}

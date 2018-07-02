@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ADAP",
+      "price": 12.051
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.57
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMBA",
+      "price": 10.69
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.3368
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 14.735
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AIQ",
+      "price": 14.9928
+    },
+    {
+      "ticker": "VG",
+      "price": 12.955
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WOW",
+      "price": 9.75
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.9
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.73
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELL",
+      "price": 9.68
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFSW",
+      "price": 9.71
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.88
+    }
+  ]
+}

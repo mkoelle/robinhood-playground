@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.48
+    },
+    {
+      "ticker": "GOL",
+      "price": 5.38
+    },
+    {
+      "ticker": "DL",
+      "price": 7.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRON",
+      "price": 6.5109
+    },
+    {
+      "ticker": "GOL",
+      "price": 5.48
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.47
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRON",
+      "price": 6.52
+    },
+    {
+      "ticker": "FRD",
+      "price": 6.5
+    },
+    {
+      "ticker": "GOL",
+      "price": 5.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRD",
+      "price": 6.49
+    },
+    {
+      "ticker": "GOL",
+      "price": 5.5
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.59
+    }
+  ]
+}

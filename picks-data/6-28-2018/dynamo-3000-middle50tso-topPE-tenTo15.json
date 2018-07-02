@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "LOCO",
+      "price": 11.125
+    },
+    {
+      "ticker": "KMF",
+      "price": 12.8
+    },
+    {
+      "ticker": "FEI",
+      "price": 12.7998
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YLCO",
+      "price": 11.66
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.5001
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SILJ",
+      "price": 10.7142
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.52
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.1926
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSHT",
+      "price": 10.17
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.5151
+    },
+    {
+      "ticker": "CEM",
+      "price": 13.99
+    }
+  ]
+}

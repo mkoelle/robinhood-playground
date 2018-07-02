@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AIQ",
+      "price": 14.7561
+    },
+    {
+      "ticker": "ECYT",
+      "price": 14.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AIQ",
+      "price": 14.8
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AIQ",
+      "price": 14.8101
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AIQ",
+      "price": 14.9445
+    },
+    {
+      "ticker": "ECYT",
+      "price": 13.84
+    }
+  ]
+}

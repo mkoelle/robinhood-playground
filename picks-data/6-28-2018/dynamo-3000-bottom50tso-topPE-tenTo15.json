@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "QNST",
+      "price": 12.81
+    },
+    {
+      "ticker": "NR",
+      "price": 11.005
+    },
+    {
+      "ticker": "CSTE",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVGS",
+      "price": 13.1655
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NVGS",
+      "price": 13.15
+    },
+    {
+      "ticker": "LOCO",
+      "price": 10.9
+    },
+    {
+      "ticker": "NR",
+      "price": 11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVGS",
+      "price": 13.05
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.145
+    },
+    {
+      "ticker": "NR",
+      "price": 11
+    }
+  ]
+}

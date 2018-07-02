@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    },
+    {
+      "ticker": "SUPV",
+      "price": 10.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 10.01
+    },
+    {
+      "ticker": "SCO",
+      "price": 14.895
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SUPV",
+      "price": 10.25
+    },
+    {
+      "ticker": "SCO",
+      "price": 14.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCO",
+      "price": 14.8752
+    },
+    {
+      "ticker": "SUPV",
+      "price": 10.53
+    }
+  ]
+}

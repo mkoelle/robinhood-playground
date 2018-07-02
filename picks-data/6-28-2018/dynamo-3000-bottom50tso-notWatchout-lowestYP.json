@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CLRB",
+      "price": 0.645
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.7711
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIS",
+      "price": 4.04
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.5343
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TIS",
+      "price": 4.05
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 3.9899
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.5575
+    }
+  ]
+}

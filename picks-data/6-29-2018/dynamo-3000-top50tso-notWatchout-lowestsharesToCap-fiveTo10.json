@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ULBI",
+      "price": 9.75
+    },
+    {
+      "ticker": "CO",
+      "price": 9.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 9.73
+    },
+    {
+      "ticker": "CO",
+      "price": 9.5331
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELL",
+      "price": 9.68
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFSW",
+      "price": 9.71
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.88
+    }
+  ]
+}

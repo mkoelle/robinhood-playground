@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CHRA",
+      "price": 10.8593
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.9298
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHRA",
+      "price": 10.6768
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHRA",
+      "price": 10.44
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRA",
+      "price": 10.13
+    },
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    }
+  ]
+}

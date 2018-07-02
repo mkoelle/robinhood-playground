@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GEVO",
+      "price": 4.105
+    },
+    {
+      "ticker": "CALA",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEVO",
+      "price": 3.9886
+    },
+    {
+      "ticker": "MACK",
+      "price": 4.932
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEVO",
+      "price": 4.18
+    },
+    {
+      "ticker": "CALA",
+      "price": 4.9764
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEVO",
+      "price": 3.89
+    },
+    {
+      "ticker": "BTN",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEVO",
+      "price": 3.86
+    },
+    {
+      "ticker": "BTN",
+      "price": 4.9
+    }
+  ]
+}

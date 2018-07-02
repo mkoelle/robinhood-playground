@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "GIFI",
+      "price": 9.35
+    },
+    {
+      "ticker": "ALDX",
+      "price": 7.881
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPI",
+      "price": 9.3492
+    },
+    {
+      "ticker": "BGFV",
+      "price": 7.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APOP",
+      "price": 6.906
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APOP",
+      "price": 6.906
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.36
+    }
+  ]
+}

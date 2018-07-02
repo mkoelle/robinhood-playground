@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CHRA",
+      "price": 10.8593
+    },
+    {
+      "ticker": "QIWI",
+      "price": 14.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHRA",
+      "price": 10.6768
+    },
+    {
+      "ticker": "QIWI",
+      "price": 14.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "GME",
+      "price": 14.8449
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "GME",
+      "price": 14.865
+    }
+  ]
+}

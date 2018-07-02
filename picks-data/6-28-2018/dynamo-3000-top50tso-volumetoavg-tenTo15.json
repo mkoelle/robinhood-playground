@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "WSC",
+      "price": 14.625
+    },
+    {
+      "ticker": "TBBK",
+      "price": 10.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REI",
+      "price": 13.325
+    },
+    {
+      "ticker": "TRMT",
+      "price": 13.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIG",
+      "price": 13.435
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VECO",
+      "price": 14.2
+    },
+    {
+      "ticker": "NSSC",
+      "price": 14.3028
+    }
+  ]
+}

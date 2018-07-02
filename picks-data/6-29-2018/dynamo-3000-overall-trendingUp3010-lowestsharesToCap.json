@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TRXC",
+      "price": 4.5501
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.7951
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRXC",
+      "price": 4.755
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRXC",
+      "price": 4.64
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTN",
+      "price": 4.95
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.415
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTN",
+      "price": 4.9
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.3
+    }
+  ]
+}

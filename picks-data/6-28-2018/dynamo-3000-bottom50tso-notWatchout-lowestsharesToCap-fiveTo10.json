@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 8.25
+    },
+    {
+      "ticker": "OMN",
+      "price": 9.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKBA",
+      "price": 8.02
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 9.92
+    },
+    {
+      "ticker": "AKBA",
+      "price": 8.5357
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMGN",
+      "price": 9.96
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.275
+    }
+  ]
+}

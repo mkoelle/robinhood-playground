@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "PBR",
+      "price": 9.95
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 9.03
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 8.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRTA",
+      "price": 9.62
+    },
+    {
+      "ticker": "BRG",
+      "price": 8.8501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 9.825
+    },
+    {
+      "ticker": "WOW",
+      "price": 9.605
+    }
+  ]
+}

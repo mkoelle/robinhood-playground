@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "LONE",
+      "price": 8.5801
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LONE",
+      "price": 8.59
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LONE",
+      "price": 8.62
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LONE",
+      "price": 8.53
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.045
+    }
+  ]
+}

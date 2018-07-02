@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "ICLK",
+      "price": 6.05
+    },
+    {
+      "ticker": "EDRY",
+      "price": 8.25
+    },
+    {
+      "ticker": "CWBR",
+      "price": 7.1
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.0052
+    },
+    {
+      "ticker": "FAT",
+      "price": 7.5825
+    }
+  ],
+  "250": [
+    {
+      "ticker": "ICLK",
+      "price": 5.92
+    },
+    {
+      "ticker": "EDRY",
+      "price": 8.15
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.9781
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.0052
+    },
+    {
+      "ticker": "FAT",
+      "price": 7.5116
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ICLK",
+      "price": 5.79
+    },
+    {
+      "ticker": "EDRY",
+      "price": 8.2
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.71
+    },
+    {
+      "ticker": "ATAI",
+      "price": 5.0052
+    },
+    {
+      "ticker": "FAT",
+      "price": 7.5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.36
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.507
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IGC",
+      "price": 0.5159
+    },
+    {
+      "ticker": "DGSE",
+      "price": 0.7061
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IGC",
+      "price": 0.5167
+    },
+    {
+      "ticker": "HGT",
+      "price": 0.6698
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KIQ",
+      "price": 0.4498
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.834
+    }
+  ]
+}

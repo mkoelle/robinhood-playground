@@ -1,0 +1,58 @@
+{
+  "100": [
+    {
+      "ticker": "DGII",
+      "price": 13.2
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    },
+    {
+      "ticker": "REI",
+      "price": 12.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DGII",
+      "price": 13.125
+    },
+    {
+      "ticker": "GME",
+      "price": 14.73
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.8519
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DGII",
+      "price": 13.125
+    },
+    {
+      "ticker": "GME",
+      "price": 14.65
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.6038
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DGII",
+      "price": 13.025
+    },
+    {
+      "ticker": "GME",
+      "price": 14.665
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.675
+    }
+  ]
+}

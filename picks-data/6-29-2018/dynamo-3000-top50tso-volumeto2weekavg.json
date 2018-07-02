@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LKM",
+      "price": 1.13
+    },
+    {
+      "ticker": "HLTH",
+      "price": 1.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EXK",
+      "price": 3.1584
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LKM",
+      "price": 1.13
+    },
+    {
+      "ticker": "USAS",
+      "price": 3.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DTRM",
+      "price": 1.43
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2195
+    },
+    {
+      "ticker": "APRN",
+      "price": 3.37
+    }
+  ]
+}

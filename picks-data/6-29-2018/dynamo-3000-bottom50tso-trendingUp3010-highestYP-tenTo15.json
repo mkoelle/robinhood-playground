@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 12.66
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.7678
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 12.7499
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.515
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NGVC",
+      "price": 12.7
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.435
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCXI",
+      "price": 13.13
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.5247
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SUPV",
+      "price": 10.22
+    },
+    {
+      "ticker": "DM",
+      "price": 13.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 13.55
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.615
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.4566
+    },
+    {
+      "ticker": "DM",
+      "price": 13.65
+    }
+  ]
+}

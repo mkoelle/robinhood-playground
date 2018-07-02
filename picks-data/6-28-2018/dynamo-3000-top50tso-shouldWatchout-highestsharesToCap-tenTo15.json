@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 10.86
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.2403
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABCD",
+      "price": 10.95
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEP",
+      "price": 10.2
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RARX",
+      "price": 10.05
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.22
+    }
+  ]
+}

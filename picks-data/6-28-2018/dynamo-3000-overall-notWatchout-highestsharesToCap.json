@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2205
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2203
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2146
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.22
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2155
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2243
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2202
+    }
+  ]
+}

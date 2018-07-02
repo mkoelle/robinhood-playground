@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "AFI",
+      "price": 14.16
+    },
+    {
+      "ticker": "NUO",
+      "price": 13.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMOS",
+      "price": 14.91
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMOS",
+      "price": 14.93
+    },
+    {
+      "ticker": "FF",
+      "price": 14.37
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NXR",
+      "price": 14.549
+    },
+    {
+      "ticker": "MUH",
+      "price": 13.87
+    }
+  ]
+}

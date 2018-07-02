@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 13.77
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.2712
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 10.71
+    },
+    {
+      "ticker": "UVXY",
+      "price": 13.6101
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SUPV",
+      "price": 10.73
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 10.83
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.8948
+    }
+  ]
+}

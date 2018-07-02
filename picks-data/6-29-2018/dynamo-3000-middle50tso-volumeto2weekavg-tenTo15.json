@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "EVV",
+      "price": 12.5899
+    },
+    {
+      "ticker": "BHK",
+      "price": 12.7648
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 14.2757
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLM",
+      "price": 14.1169
+    },
+    {
+      "ticker": "NXP",
+      "price": 14.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BFO",
+      "price": 14.26
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.15
+    }
+  ]
+}

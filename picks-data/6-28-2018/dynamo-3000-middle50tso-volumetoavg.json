@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "SPRT",
+      "price": 2.8951
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRSS",
+      "price": 1.2
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARTX",
+      "price": 3.775
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UMC",
+      "price": 2.75
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.885
+    }
+  ]
+}

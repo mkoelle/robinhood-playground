@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VII",
+      "price": 0.2953
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4121
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.26
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HUSA",
+      "price": 0.297
+    },
+    {
+      "ticker": "XBIO",
+      "price": 3.9137
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3869
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2966
+    },
+    {
+      "ticker": "XBIO",
+      "price": 3.6758
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.38
+    }
+  ]
+}

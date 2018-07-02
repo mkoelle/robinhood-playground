@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "MGTX",
+      "price": 10.8001
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMT",
+      "price": 14
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMT",
+      "price": 14
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.745
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBM",
+      "price": 14.88
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.5777
+    }
+  ]
+}

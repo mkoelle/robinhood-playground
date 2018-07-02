@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UAMY",
+      "price": 0.507
+    },
+    {
+      "ticker": "CORV",
+      "price": 3.6783
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLRA",
+      "price": 4.09
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TLRA",
+      "price": 4.1
+    },
+    {
+      "ticker": "DDE",
+      "price": 1.6001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEN",
+      "price": 2.54
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.53
+    }
+  ]
+}

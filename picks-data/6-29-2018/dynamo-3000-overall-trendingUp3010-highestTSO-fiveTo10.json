@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "CADC",
+      "price": 5.4748
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.685
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CADC",
+      "price": 5.375
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CADC",
+      "price": 5.35
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.098
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASI",
+      "price": 8.29
+    },
+    {
+      "ticker": "CADC",
+      "price": 5.3
+    }
+  ]
+}

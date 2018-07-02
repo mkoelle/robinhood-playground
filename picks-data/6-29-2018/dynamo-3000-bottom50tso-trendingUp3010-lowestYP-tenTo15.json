@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 11.76
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.6601
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.4027
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.5317
+    },
+    {
+      "ticker": "TRMT",
+      "price": 12.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 11.44
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.5201
+    }
+  ]
+}

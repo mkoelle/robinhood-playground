@@ -1,0 +1,40 @@
+{
+  "200": [
+    {
+      "ticker": "ZN",
+      "price": 3.955
+    },
+    {
+      "ticker": "BIOS",
+      "price": 2.85
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.9299
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ZN",
+      "price": 3.97
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.9
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3798
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SDT",
+      "price": 1.93
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.377
+    }
+  ]
+}

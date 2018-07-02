@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 9.77
+    },
+    {
+      "ticker": "ABIL",
+      "price": 7.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CADC",
+      "price": 5.375
+    },
+    {
+      "ticker": "ABIL",
+      "price": 7.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CADC",
+      "price": 5.35
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.615
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CADC",
+      "price": 5.3
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.05
+    }
+  ]
+}

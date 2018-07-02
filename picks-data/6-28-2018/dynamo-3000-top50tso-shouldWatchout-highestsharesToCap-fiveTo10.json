@@ -1,0 +1,42 @@
+{
+  "100": [
+    {
+      "ticker": "QHC",
+      "price": 5.2501
+    },
+    {
+      "ticker": "ALRN",
+      "price": 5.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHCP",
+      "price": 6
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.4208
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DHCP",
+      "price": 5.95
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.304
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DHCP",
+      "price": 5.73
+    },
+    {
+      "ticker": "BLNK",
+      "price": 5.38
+    }
+  ]
+}
