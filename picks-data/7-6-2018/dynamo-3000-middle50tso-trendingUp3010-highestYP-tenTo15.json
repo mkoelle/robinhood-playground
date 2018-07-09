@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ADES",
+      "price": 11.81
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAT",
+      "price": 13.9349
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 14.86
+    },
+    {
+      "ticker": "WSC",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OFG",
+      "price": 14.475
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.495
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KRYS",
+      "price": 14.6962
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.5
+    }
+  ]
+}

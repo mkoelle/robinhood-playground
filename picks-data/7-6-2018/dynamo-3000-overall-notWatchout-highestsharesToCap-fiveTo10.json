@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PPR",
+      "price": 5.031
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.095
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DSX",
+      "price": 5.0164
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.0301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PPR",
+      "price": 5.0331
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DSX",
+      "price": 5
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.0328
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DSX",
+      "price": 5.005
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.03
+    }
+  ]
+}

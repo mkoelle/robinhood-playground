@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGC",
+      "price": 1.7889
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4514
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGC",
+      "price": 1.415
+    },
+    {
+      "ticker": "NIHD",
+      "price": 4.1213
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGC",
+      "price": 1.576
+    },
+    {
+      "ticker": "NIHD",
+      "price": 4.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGC",
+      "price": 1.52
+    },
+    {
+      "ticker": "BASI",
+      "price": 2.02
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VNET",
+      "price": 9.9001
+    },
+    {
+      "ticker": "FET",
+      "price": 12.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 12.5
+    },
+    {
+      "ticker": "EXPI",
+      "price": 11.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 12.629
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 12.6
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.08
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "FPAC",
+      "price": 9.77
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "RFL",
+      "price": 8.9578
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "ARQL",
+      "price": 6.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPAC",
+      "price": 9.75
+    },
+    {
+      "ticker": "ARQL",
+      "price": 6.785
+    }
+  ]
+}

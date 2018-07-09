@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GOL",
+      "price": 5.19
+    },
+    {
+      "ticker": "BBD",
+      "price": 6.835
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 9.06
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFA",
+      "price": 5.15
+    },
+    {
+      "ticker": "ORMP",
+      "price": 6.51
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YIN",
+      "price": 8.4
+    },
+    {
+      "ticker": "S",
+      "price": 5.415
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPNS",
+      "price": 9.71
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.25
+    }
+  ]
+}

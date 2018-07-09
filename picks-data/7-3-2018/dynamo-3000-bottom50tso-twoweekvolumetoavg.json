@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SAEX",
+      "price": 2.849
+    },
+    {
+      "ticker": "GASS",
+      "price": 3.861
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SAEX",
+      "price": 2.55
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.4683
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBOX",
+      "price": 1.3882
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.871
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.25
+    }
+  ]
+}

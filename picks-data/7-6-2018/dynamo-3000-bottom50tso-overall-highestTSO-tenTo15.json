@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TITN",
+      "price": 14.95
+    },
+    {
+      "ticker": "DMB",
+      "price": 12.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EHIC",
+      "price": 13
+    },
+    {
+      "ticker": "EEI",
+      "price": 12.8585
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 10.565
+    },
+    {
+      "ticker": "REW",
+      "price": 12.2462
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CUE",
+      "price": 11.7
+    },
+    {
+      "ticker": "ALNA",
+      "price": 13.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CUE",
+      "price": 11.71
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.64
+    }
+  ]
+}

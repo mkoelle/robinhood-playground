@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 4.9865
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SORL",
+      "price": 4.9609
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QHC",
+      "price": 4.99
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.9301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QHC",
+      "price": 4.88
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.935
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QHC",
+      "price": 4.94
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.8601
+    }
+  ]
+}

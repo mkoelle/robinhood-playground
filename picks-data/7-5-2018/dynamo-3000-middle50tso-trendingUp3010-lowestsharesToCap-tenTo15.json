@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BFO",
+      "price": 14.2872
+    },
+    {
+      "ticker": "PFLT",
+      "price": 13.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PGX",
+      "price": 14.7031
+    },
+    {
+      "ticker": "BBK",
+      "price": 14.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PGX",
+      "price": 14.705
+    },
+    {
+      "ticker": "NXR",
+      "price": 14.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFSI",
+      "price": 14.5801
+    },
+    {
+      "ticker": "PAI",
+      "price": 13.761
+    }
+  ]
+}

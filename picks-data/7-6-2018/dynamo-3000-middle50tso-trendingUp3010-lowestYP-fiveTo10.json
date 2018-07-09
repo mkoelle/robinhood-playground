@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CRWS",
+      "price": 5.6252
+    },
+    {
+      "ticker": "FG",
+      "price": 8.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FG",
+      "price": 8.775
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABDC",
+      "price": 6.5296
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPTA",
+      "price": 8.35
+    },
+    {
+      "ticker": "SNR",
+      "price": 7.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLNY",
+      "price": 6.475
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.87
+    }
+  ]
+}

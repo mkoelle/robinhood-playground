@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 6.35
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 6.69
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 6.61
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.027
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 6.75
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.785
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.0372
+    }
+  ]
+}

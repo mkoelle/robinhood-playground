@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "FENC",
+      "price": 10.4
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.0902
+    }
+  ],
+  "280": [
+    {
+      "ticker": "EXPI",
+      "price": 10.9545
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.21
+    }
+  ],
+  "328": [
+    {
+      "ticker": "EXPI",
+      "price": 10.97
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.215
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EXPI",
+      "price": 10.97
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.63
+    }
+  ]
+}

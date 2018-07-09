@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGI",
+      "price": 0.462
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGI",
+      "price": 0.462
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4699
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGI",
+      "price": 0.4618
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4899
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGI",
+      "price": 0.4328
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.504
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 11.1751
+    },
+    {
+      "ticker": "TITN",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LKSD",
+      "price": 14.005
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 13.5
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.565
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 10.9362
+    },
+    {
+      "ticker": "CUE",
+      "price": 11.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LKSD",
+      "price": 13.895
+    },
+    {
+      "ticker": "CUE",
+      "price": 11.71
+    }
+  ]
+}

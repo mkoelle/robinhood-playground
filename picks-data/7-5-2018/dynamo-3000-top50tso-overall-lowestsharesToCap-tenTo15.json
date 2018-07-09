@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "WBAI",
+      "price": 14.8424
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.9
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.95
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.95
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.65
+    }
+  ]
+}

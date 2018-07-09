@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 9.27
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.2933
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMES",
+      "price": 7.31
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IAG",
+      "price": 6.015
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.6997
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBIO",
+      "price": 7.21
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVH",
+      "price": 6.59
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.395
+    }
+  ]
+}

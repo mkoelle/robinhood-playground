@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DPK",
+      "price": 13.07
+    },
+    {
+      "ticker": "FRAC",
+      "price": 12.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.8563
+    },
+    {
+      "ticker": "TGS",
+      "price": 12.7364
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGS",
+      "price": 13.28
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.0752
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGS",
+      "price": 13.465
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGS",
+      "price": 13.6
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.23
+    }
+  ]
+}

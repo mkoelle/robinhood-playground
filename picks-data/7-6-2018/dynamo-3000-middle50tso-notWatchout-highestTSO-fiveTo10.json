@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PXJ",
+      "price": 9.6999
+    },
+    {
+      "ticker": "JVA",
+      "price": 5.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HIX",
+      "price": 6.4352
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XSPL",
+      "price": 6.9
+    },
+    {
+      "ticker": "HBM",
+      "price": 5.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CANE",
+      "price": 7.211
+    },
+    {
+      "ticker": "LXP",
+      "price": 9.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AINV",
+      "price": 5.645
+    },
+    {
+      "ticker": "AOD",
+      "price": 8.8339
+    }
+  ]
+}

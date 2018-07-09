@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DWCH",
+      "price": 9.7499
+    },
+    {
+      "ticker": "PRGX",
+      "price": 9.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XSPL",
+      "price": 7.7447
+    },
+    {
+      "ticker": "HQCL",
+      "price": 5.8906
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HQCL",
+      "price": 5.7299
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HQCL",
+      "price": 5.645
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HQCL",
+      "price": 5.6
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.75
+    }
+  ]
+}

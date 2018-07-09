@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NCSM",
+      "price": 14.64
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.9725
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.92
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.8689
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNKO",
+      "price": 14.85
+    },
+    {
+      "ticker": "UIS",
+      "price": 14.45
+    }
+  ]
+}

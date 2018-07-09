@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.3506
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.2584
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2136
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.348
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 0.219
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.344
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.2171
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2121
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.3599
+    }
+  ]
+}

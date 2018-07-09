@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WTID",
+      "price": 6.8551
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.815
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTID",
+      "price": 7.11
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.9658
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTID",
+      "price": 7.22
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 7.255
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTID",
+      "price": 7.255
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.04
+    }
+  ]
+}

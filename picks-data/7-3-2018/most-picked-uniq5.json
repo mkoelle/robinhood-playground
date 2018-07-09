@@ -1,0 +1,78 @@
+{
+  "8": [
+    {
+      "ticker": "MNGA",
+      "price": 0.4274
+    }
+  ],
+  "19": [
+    {
+      "ticker": "MNGA",
+      "price": 0.389
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.18
+    }
+  ],
+  "55": [
+    {
+      "ticker": "GBR",
+      "price": 6.93
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.69
+    }
+  ],
+  "183": [
+    {
+      "ticker": "GBR",
+      "price": 4.8628
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.94
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.33
+    }
+  ],
+  "236": [
+    {
+      "ticker": "BBOX",
+      "price": 0.75
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.22
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.72
+    }
+  ],
+  "307": [
+    {
+      "ticker": "VNET",
+      "price": 10.22
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.72
+    },
+    {
+      "ticker": "BBOX",
+      "price": 0.75
+    }
+  ]
+}

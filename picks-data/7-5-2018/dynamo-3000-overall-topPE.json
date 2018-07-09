@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.585
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.805
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.9132
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.585
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.81
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGEN",
+      "price": 3.774
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.74
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.335
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGEN",
+      "price": 3.774
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.74
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.33
+    }
+  ]
+}

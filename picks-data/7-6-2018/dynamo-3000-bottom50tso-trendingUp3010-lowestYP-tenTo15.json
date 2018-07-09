@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 10.075
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRUE",
+      "price": 10.84
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.52
+    }
+  ]
+}

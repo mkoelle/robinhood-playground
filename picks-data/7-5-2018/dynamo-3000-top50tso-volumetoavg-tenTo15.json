@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MXE",
+      "price": 10.61
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSIQ",
+      "price": 12.5
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.131
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "LCUT",
+      "price": 13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SXC",
+      "price": 13.805
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.69
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 9.27
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMES",
+      "price": 7.31
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IAG",
+      "price": 6.015
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBIO",
+      "price": 7.21
+    },
+    {
+      "ticker": "AG",
+      "price": 7.985
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVH",
+      "price": 6.59
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.15
+    }
+  ]
+}

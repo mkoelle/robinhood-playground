@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.291
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKS",
+      "price": 5.425
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKS",
+      "price": 5.375
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.6867
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.975
+    }
+  ]
+}

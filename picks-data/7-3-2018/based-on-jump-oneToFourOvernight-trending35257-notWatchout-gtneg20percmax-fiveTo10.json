@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.8
+    },
+    {
+      "ticker": "STKL",
+      "price": 8.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3334
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.6657
+    },
+    {
+      "ticker": "STKL",
+      "price": 8.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3738
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.58
+    },
+    {
+      "ticker": "PYN",
+      "price": 9.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3487
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.41
+    },
+    {
+      "ticker": "PYN",
+      "price": 9.24
+    }
+  ]
+}

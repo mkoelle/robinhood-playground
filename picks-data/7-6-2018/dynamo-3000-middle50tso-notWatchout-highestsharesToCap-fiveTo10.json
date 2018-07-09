@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TAC",
+      "price": 5.145
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GGN",
+      "price": 5.1534
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGL",
+      "price": 5.245
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLEX",
+      "price": 5.39
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VSLR",
+      "price": 5.175
+    },
+    {
+      "ticker": "TSI",
+      "price": 5.47
+    }
+  ]
+}

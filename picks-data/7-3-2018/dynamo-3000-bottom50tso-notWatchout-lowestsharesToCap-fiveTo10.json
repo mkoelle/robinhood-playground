@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRGX",
+      "price": 9.8
+    },
+    {
+      "ticker": "DWCH",
+      "price": 9.7499
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AP",
+      "price": 9.9
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.6288
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AP",
+      "price": 9.9
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.6561
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRV",
+      "price": 9.5992
+    },
+    {
+      "ticker": "ESTE",
+      "price": 9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRV",
+      "price": 9.57
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.06
+    }
+  ]
+}

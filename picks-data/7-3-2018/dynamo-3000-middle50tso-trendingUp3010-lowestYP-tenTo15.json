@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BWP",
+      "price": 12.0224
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KTF",
+      "price": 11.04
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 10.27
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 10.74
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    },
+    {
+      "ticker": "BSD",
+      "price": 12.72
+    }
+  ]
+}

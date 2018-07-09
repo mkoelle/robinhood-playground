@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "GLMD",
+      "price": 11.5
+    },
+    {
+      "ticker": "VRNA",
+      "price": 13.6
+    }
+  ],
+  "280": [
+    {
+      "ticker": "MOTS",
+      "price": 10.03
+    },
+    {
+      "ticker": "EXPI",
+      "price": 10.9545
+    }
+  ],
+  "328": [
+    {
+      "ticker": "FRAC",
+      "price": 13.33
+    },
+    {
+      "ticker": "INAP",
+      "price": 12.14
+    }
+  ],
+  "388": [
+    {
+      "ticker": "NTRP",
+      "price": 10.29
+    },
+    {
+      "ticker": "CMTA",
+      "price": 12.25
+    }
+  ]
+}

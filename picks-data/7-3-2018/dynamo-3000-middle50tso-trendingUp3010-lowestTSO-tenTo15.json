@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KSM",
+      "price": 10.9227
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IRT",
+      "price": 10.325
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NMZ",
+      "price": 12.68
+    },
+    {
+      "ticker": "NAN",
+      "price": 12.6394
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCA",
+      "price": 13.418
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.5
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "XENE",
+      "price": 10.35
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.9725
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.92
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 14.71
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.28
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.0201
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.379
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAI",
+      "price": 13.76
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.485
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BWP",
+      "price": 12.025
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    },
+    {
+      "ticker": "PAI",
+      "price": 13.761
+    }
+  ]
+}

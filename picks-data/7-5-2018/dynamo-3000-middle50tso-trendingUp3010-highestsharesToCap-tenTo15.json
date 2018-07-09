@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FPL",
+      "price": 10.379
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.8058
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NLY",
+      "price": 10.485
+    },
+    {
+      "ticker": "WIW",
+      "price": 11.146
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVM",
+      "price": 10.325
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.46
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    },
+    {
+      "ticker": "WIW",
+      "price": 11.15
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CEI",
+      "price": 0.81
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.093
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVGR",
+      "price": 1.7348
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.7677
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVGR",
+      "price": 1.7199
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVGR",
+      "price": 1.675
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.6801
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVGR",
+      "price": 1.68
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.71
+    }
+  ]
+}

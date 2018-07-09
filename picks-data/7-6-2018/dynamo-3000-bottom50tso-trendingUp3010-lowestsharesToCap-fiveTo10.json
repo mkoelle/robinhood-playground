@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 9.95
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.1156
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOCA",
+      "price": 9.6867
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TOCA",
+      "price": 9.81
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.9052
+    }
+  ]
+}

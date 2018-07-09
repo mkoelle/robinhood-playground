@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KNDI",
+      "price": 4.3
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADMP",
+      "price": 4.76
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMP",
+      "price": 4.6686
+    },
+    {
+      "ticker": "DFBG",
+      "price": 3.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.4331
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.5
+    }
+  ]
+}

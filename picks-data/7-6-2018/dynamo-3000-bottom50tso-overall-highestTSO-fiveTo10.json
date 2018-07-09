@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    },
+    {
+      "ticker": "GSM",
+      "price": 8.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMI",
+      "price": 9.1193
+    },
+    {
+      "ticker": "CVV",
+      "price": 6.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PHIIK",
+      "price": 9.9101
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRD.B",
+      "price": 8.69
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GRBK",
+      "price": 9.9
+    },
+    {
+      "ticker": "GNPX",
+      "price": 7.86
+    }
+  ]
+}

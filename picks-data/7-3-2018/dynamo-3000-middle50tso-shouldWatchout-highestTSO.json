@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GERN",
+      "price": 3.51
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DFBG",
+      "price": 3.39
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3991
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ANFI",
+      "price": 2.3101
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.6401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UAMY",
+      "price": 0.4701
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REED",
+      "price": 2.825
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4491
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 11.4
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.42
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 11.425
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.458
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIND",
+      "price": 13.43
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.05
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIND",
+      "price": 13.43
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.1
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.875
+    }
+  ]
+}

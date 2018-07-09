@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DSX",
+      "price": 4.915
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSX",
+      "price": 4.92
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.755
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMR",
+      "price": 4.755
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DSX",
+      "price": 4.905
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.78
+    }
+  ]
+}

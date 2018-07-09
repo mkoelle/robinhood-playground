@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CADC",
+      "price": 6.2933
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CADC",
+      "price": 6.5
+    },
+    {
+      "ticker": "ABIL",
+      "price": 6.68
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDVT",
+      "price": 9.6997
+    },
+    {
+      "ticker": "LFVN",
+      "price": 6.7956
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSRI",
+      "price": 7.205
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TSRI",
+      "price": 7.395
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.2
+    }
+  ]
+}

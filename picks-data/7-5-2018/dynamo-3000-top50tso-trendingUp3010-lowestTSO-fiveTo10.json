@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CPIX",
+      "price": 6.17
+    },
+    {
+      "ticker": "STKL",
+      "price": 8.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPIX",
+      "price": 6.1805
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "PES",
+      "price": 5.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.18
+    }
+  ]
+}

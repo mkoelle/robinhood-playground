@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CVRS",
+      "price": 0.953
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.9691
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBK",
+      "price": 0.92
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.9767
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGC",
+      "price": 0.97
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4501
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.984
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4552
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7401
+    }
+  ]
+}

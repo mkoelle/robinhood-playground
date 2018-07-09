@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "IPIC",
+      "price": 7.8828
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.216
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IPIC",
+      "price": 7.9204
+    },
+    {
+      "ticker": "HQCL",
+      "price": 5.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPIC",
+      "price": 7.9204
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.2095
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 8.91
+    },
+    {
+      "ticker": "IPIC",
+      "price": 7.9204
+    }
+  ]
+}

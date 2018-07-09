@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SORL",
+      "price": 4.97
+    },
+    {
+      "ticker": "SEII",
+      "price": 3.5375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XBIO",
+      "price": 4.2852
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.97
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MARK",
+      "price": 4.39
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.629
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.63
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.47
+    }
+  ]
+}

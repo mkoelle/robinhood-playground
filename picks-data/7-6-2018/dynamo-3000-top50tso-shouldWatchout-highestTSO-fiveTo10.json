@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "XBIO",
+      "price": 5.7
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XBIO",
+      "price": 5.7
+    },
+    {
+      "ticker": "OPK",
+      "price": 5.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XBIO",
+      "price": 5.78
+    },
+    {
+      "ticker": "LFVN",
+      "price": 7.9729
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XBIO",
+      "price": 5.36
+    },
+    {
+      "ticker": "BRFS",
+      "price": 5.985
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XBIO",
+      "price": 5.37
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.34
+    }
+  ]
+}

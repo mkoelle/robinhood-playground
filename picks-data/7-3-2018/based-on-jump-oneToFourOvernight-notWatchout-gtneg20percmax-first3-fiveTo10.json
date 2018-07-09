@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.45
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.42
+    },
+    {
+      "ticker": "NE",
+      "price": 6.29
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.45
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.4751
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.0766
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.475
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.5342
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.475
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.5173
+    },
+    {
+      "ticker": "KOS",
+      "price": 8.09
+    }
+  ]
+}

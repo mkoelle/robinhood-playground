@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ARTX",
+      "price": 3.825
+    },
+    {
+      "ticker": "TLGT",
+      "price": 3.845
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARTX",
+      "price": 3.8252
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.6569
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPLP",
+      "price": 3.1934
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.905
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CETV",
+      "price": 4.125
+    },
+    {
+      "ticker": "SACH",
+      "price": 4.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIDM",
+      "price": 1.5708
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.825
+    }
+  ]
+}

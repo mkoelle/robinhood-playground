@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ATAI",
+      "price": 4.0837
+    },
+    {
+      "ticker": "ASNS",
+      "price": 3.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.5338
+    },
+    {
+      "ticker": "RVLT",
+      "price": 4.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.5235
+    },
+    {
+      "ticker": "MARK",
+      "price": 4.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCCO",
+      "price": 4.8
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.3899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 4.2501
+    },
+    {
+      "ticker": "MARK",
+      "price": 3.9
+    }
+  ]
+}

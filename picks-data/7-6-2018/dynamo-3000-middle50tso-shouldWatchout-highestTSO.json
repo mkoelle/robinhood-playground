@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "YTEN",
+      "price": 1.46
+    },
+    {
+      "ticker": "PETX",
+      "price": 4.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.585
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.4452
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLPH",
+      "price": 2.6096
+    },
+    {
+      "ticker": "GURE",
+      "price": 1.3298
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.59
+    },
+    {
+      "ticker": "GOGO",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIDM",
+      "price": 1.5708
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.45
+    }
+  ]
+}

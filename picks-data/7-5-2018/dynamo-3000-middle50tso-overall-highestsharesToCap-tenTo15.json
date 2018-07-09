@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "IPOA",
+      "price": 10.0084
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.379
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAYD",
+      "price": 10.2495
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.485
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCA",
+      "price": 10.283
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.265
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNHI",
+      "price": 10.285
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    }
+  ]
+}

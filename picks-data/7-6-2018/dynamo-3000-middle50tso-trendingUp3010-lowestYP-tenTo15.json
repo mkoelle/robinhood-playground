@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "FPH",
+      "price": 11.72
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.515
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 12.22
+    },
+    {
+      "ticker": "HCAP",
+      "price": 10.638
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 12.21
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "COTY",
+      "price": 14.17
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    }
+  ],
+  "381": [
+    {
+      "ticker": "COTY",
+      "price": 14.165
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    }
+  ]
+}

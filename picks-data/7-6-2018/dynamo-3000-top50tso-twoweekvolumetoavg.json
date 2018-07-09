@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PAVM",
+      "price": 1.16
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONCS",
+      "price": 1.39
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.4647
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLWT",
+      "price": 3.95
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ONVO",
+      "price": 1.41
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.4399
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BDR",
+      "price": 1.14
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.6231
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LPTX",
+      "price": 9.09
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELON",
+      "price": 8.304
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELON",
+      "price": 8.31
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.58
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELON",
+      "price": 8.3161
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.44
+    }
+  ]
+}

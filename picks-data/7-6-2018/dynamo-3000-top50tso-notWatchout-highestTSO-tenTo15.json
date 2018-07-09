@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "MVO",
+      "price": 11
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.6211
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVO",
+      "price": 11.05
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.049
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOTS",
+      "price": 10.141
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.88
+    }
+  ]
+}

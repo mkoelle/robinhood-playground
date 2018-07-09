@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "EGI",
+      "price": 0.462
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.48
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.875
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGI",
+      "price": 0.462
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4699
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.53
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.9502
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGI",
+      "price": 0.4618
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.4899
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.51
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGI",
+      "price": 0.4328
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.504
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.5
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.7391
+    }
+  ]
+}

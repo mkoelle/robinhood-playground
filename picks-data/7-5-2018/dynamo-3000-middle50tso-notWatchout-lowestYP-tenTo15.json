@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GE",
+      "price": 13.3608
+    },
+    {
+      "ticker": "MMLP",
+      "price": 13.9473
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAYD",
+      "price": 10.2495
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GE",
+      "price": 13.3884
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.265
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNHI",
+      "price": 10.285
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    }
+  ]
+}

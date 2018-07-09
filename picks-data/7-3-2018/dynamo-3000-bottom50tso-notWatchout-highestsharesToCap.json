@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3299
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.7694
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2283
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2246
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESNC",
+      "price": 0.33
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    },
+    {
+      "ticker": "NNA",
+      "price": 0.5302
+    }
+  ]
+}

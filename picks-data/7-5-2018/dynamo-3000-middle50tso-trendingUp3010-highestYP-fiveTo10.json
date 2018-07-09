@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NVUS",
+      "price": 7
+    },
+    {
+      "ticker": "LSCC",
+      "price": 6.395
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELON",
+      "price": 8.304
+    },
+    {
+      "ticker": "NE",
+      "price": 6.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELON",
+      "price": 8.31
+    },
+    {
+      "ticker": "AHT",
+      "price": 8.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.3161
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TRIB",
+      "price": 4.8812
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MEET",
+      "price": 4.5013
+    },
+    {
+      "ticker": "AVXL",
+      "price": 3.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.926
+    },
+    {
+      "ticker": "MEET",
+      "price": 4.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVXL",
+      "price": 3.49
+    },
+    {
+      "ticker": "NSYS",
+      "price": 3.47
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "FUV",
+      "price": 4.8
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.3561
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNAT",
+      "price": 4.685
+    },
+    {
+      "ticker": "CDXC",
+      "price": 4.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LWAY",
+      "price": 4.86
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNAT",
+      "price": 4.7201
+    },
+    {
+      "ticker": "SN",
+      "price": 4.642
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNAT",
+      "price": 4.74
+    },
+    {
+      "ticker": "SN",
+      "price": 4.6601
+    }
+  ]
+}

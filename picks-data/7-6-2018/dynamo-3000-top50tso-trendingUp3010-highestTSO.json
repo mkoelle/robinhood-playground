@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "IGLD",
+      "price": 3.19
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.2216
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAIT",
+      "price": 2.3
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAIT",
+      "price": 2.3618
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.5201
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRAN",
+      "price": 2.56
+    },
+    {
+      "ticker": "THM",
+      "price": 0.586
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRAN",
+      "price": 2.52
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.9499
+    }
+  ]
+}

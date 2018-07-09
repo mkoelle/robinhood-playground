@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    },
+    {
+      "ticker": "DM",
+      "price": 13.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "DM",
+      "price": 13.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "DM",
+      "price": 13.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "DM",
+      "price": 13.5
+    }
+  ]
+}

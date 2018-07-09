@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GAB",
+      "price": 6.27
+    },
+    {
+      "ticker": "PXJ",
+      "price": 9.6999
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORMP",
+      "price": 6.27
+    },
+    {
+      "ticker": "HIX",
+      "price": 6.4352
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMO",
+      "price": 9.25
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATAX",
+      "price": 6.3705
+    },
+    {
+      "ticker": "CANE",
+      "price": 7.211
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CALL",
+      "price": 8.5
+    },
+    {
+      "ticker": "AINV",
+      "price": 5.645
+    }
+  ]
+}

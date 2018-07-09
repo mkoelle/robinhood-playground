@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGC",
+      "price": 1.8259
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.2201
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.945
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGC",
+      "price": 2.4
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.215
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.955
+    }
+  ]
+}

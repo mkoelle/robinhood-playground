@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "RMCF",
+      "price": 11.154
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.71
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GSAT",
+      "price": 0.47
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.394
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2283
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2246
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2285
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.4499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2259
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.43
+    }
+  ]
+}

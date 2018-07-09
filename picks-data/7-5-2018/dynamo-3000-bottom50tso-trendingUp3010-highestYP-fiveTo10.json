@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 7.71
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASI",
+      "price": 7.68
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASI",
+      "price": 7.77
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.2102
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CASI",
+      "price": 7.8
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.22
+    }
+  ]
+}

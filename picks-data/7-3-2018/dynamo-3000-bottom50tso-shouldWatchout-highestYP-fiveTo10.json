@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CASI",
+      "price": 8.01
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.985
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 7.01
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.006
+    },
+    {
+      "ticker": "EDRY",
+      "price": 8.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 9.475
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDRY",
+      "price": 8.47
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.53
+    }
+  ]
+}

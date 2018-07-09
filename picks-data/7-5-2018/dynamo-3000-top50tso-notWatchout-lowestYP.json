@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "EVFM",
+      "price": 2.5828
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4402
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 2.63
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVFM",
+      "price": 2.72
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4499
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 2.7246
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4421
+    }
+  ]
+}

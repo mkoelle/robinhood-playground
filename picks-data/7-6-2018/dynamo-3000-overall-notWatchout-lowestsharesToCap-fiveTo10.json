@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PHIIK",
+      "price": 9.87
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 9.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.56
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOCA",
+      "price": 9.6867
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 9.9101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.6
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.6
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.81
+    }
+  ]
+}

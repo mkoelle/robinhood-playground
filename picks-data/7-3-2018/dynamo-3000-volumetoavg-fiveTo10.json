@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 7.8748
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.3552
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 6.9001
+    },
+    {
+      "ticker": "BKCC",
+      "price": 6.0099
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 6.5227
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.385
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 8.8802
+    },
+    {
+      "ticker": "DUC",
+      "price": 8.6612
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 8.67
+    },
+    {
+      "ticker": "MRAM",
+      "price": 8.79
+    }
+  ]
+}

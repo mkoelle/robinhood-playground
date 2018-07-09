@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BAS",
+      "price": 11.45
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.9399
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 11.52
+    },
+    {
+      "ticker": "MLP",
+      "price": 11.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.575
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.05
+    }
+  ]
+}

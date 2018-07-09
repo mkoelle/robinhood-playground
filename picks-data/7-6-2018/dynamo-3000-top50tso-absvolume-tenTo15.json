@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SA",
+      "price": 11.525
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QUOT",
+      "price": 14.225
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRC",
+      "price": 13.4
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.61
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "ACIU",
+      "price": 13.0016
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XON",
+      "price": 14.53
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.8604
+    }
+  ]
+}

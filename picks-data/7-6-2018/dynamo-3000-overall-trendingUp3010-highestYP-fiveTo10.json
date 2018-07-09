@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "FPAC",
+      "price": 9.77
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.93
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPAC",
+      "price": 9.75
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.025
+    }
+  ]
+}

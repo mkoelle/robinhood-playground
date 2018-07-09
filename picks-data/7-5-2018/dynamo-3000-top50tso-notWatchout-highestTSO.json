@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TAIT",
+      "price": 1.92
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4402
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAIT",
+      "price": 1.979
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVFM",
+      "price": 2.72
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.9831
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 2.7246
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4421
+    }
+  ]
+}

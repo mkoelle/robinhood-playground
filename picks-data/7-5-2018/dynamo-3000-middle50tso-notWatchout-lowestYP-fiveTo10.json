@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SHNY",
+      "price": 7.348
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.3299
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SBS",
+      "price": 6.03
+    },
+    {
+      "ticker": "SHNY",
+      "price": 7.348
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BDD",
+      "price": 7.81
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.5699
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPTA",
+      "price": 8.3348
+    },
+    {
+      "ticker": "GCAP",
+      "price": 7.89
+    }
+  ]
+}

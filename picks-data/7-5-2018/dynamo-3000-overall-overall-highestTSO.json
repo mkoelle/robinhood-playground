@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BBOX",
+      "price": 1.07
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BBOX",
+      "price": 1.1166
+    },
+    {
+      "ticker": "PRAN",
+      "price": 2.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BBOX",
+      "price": 1.0314
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.4452
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BBOX",
+      "price": 0.965
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.85
+    }
+  ]
+}

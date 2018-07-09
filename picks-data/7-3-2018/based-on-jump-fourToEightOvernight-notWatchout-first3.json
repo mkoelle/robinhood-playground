@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VERU",
+      "price": 2.13
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.8
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.385
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VERU",
+      "price": 2.0796
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.23
+    },
+    {
+      "ticker": "THM",
+      "price": 0.525
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VERU",
+      "price": 2.06
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.23
+    },
+    {
+      "ticker": "THM",
+      "price": 0.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VERU",
+      "price": 2.04
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2283
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5501
+    }
+  ]
+}

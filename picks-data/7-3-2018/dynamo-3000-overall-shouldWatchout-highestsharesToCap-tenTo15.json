@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "JNP",
+      "price": 11.425
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 9.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 12.0001
+    },
+    {
+      "ticker": "RDVT",
+      "price": 10.2717
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 10.6
+    },
+    {
+      "ticker": "JNP",
+      "price": 11.425
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.57
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.43
+    }
+  ]
+}

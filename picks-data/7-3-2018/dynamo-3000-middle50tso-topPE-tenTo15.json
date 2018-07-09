@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHU",
+      "price": 12.34
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.925
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BGCP",
+      "price": 11.445
+    },
+    {
+      "ticker": "SLVP",
+      "price": 10.2
+    },
+    {
+      "ticker": "LAUR",
+      "price": 14.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSHT",
+      "price": 10.14
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.01
+    },
+    {
+      "ticker": "FMO",
+      "price": 11.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 11.75
+    },
+    {
+      "ticker": "ETY",
+      "price": 12.2101
+    },
+    {
+      "ticker": "ISBC",
+      "price": 12.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEM",
+      "price": 14.04
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.239
+    },
+    {
+      "ticker": "ETY",
+      "price": 12.2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "200": [],
+  "300": [
+    {
+      "ticker": "TOCA",
+      "price": 9.8799
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.45
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.87
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.4601
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.755
+    }
+  ],
+  "600": [
+    {
+      "ticker": "TOCA",
+      "price": 9.76
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.42
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "JRS",
+      "price": 10.11
+    },
+    {
+      "ticker": "PHH",
+      "price": 10.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAT",
+      "price": 13.9349
+    },
+    {
+      "ticker": "FTF",
+      "price": 11.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LVL",
+      "price": 11
+    },
+    {
+      "ticker": "NMFC",
+      "price": 13.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPFF",
+      "price": 12.0399
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTF",
+      "price": 11.0034
+    },
+    {
+      "ticker": "NLY",
+      "price": 10.515
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "JNUG",
+      "price": 13.75
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.515
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIG",
+      "price": 13.5
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.82
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.255
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIG",
+      "price": 13.32
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.795
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.03
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "100": [
+    {
+      "ticker": "SA",
+      "price": 11.525
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.95
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.835
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.295
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QUOT",
+      "price": 14.225
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.14
+    },
+    {
+      "ticker": "CCRN",
+      "price": 12.145
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.929
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.165
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRC",
+      "price": 13.4
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.445
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.515
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.925
+    },
+    {
+      "ticker": "GE",
+      "price": 13.795
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "WOW",
+      "price": 11.01
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.8
+    },
+    {
+      "ticker": "ITUB",
+      "price": 10.905
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XON",
+      "price": 14.53
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.545
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.855
+    },
+    {
+      "ticker": "RCUS",
+      "price": 12.99
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.795
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 6.61
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.4
+    },
+    {
+      "ticker": "ENY",
+      "price": 8.0636
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCF",
+      "price": 9.4
+    },
+    {
+      "ticker": "ENY",
+      "price": 8.0636
+    },
+    {
+      "ticker": "SRF",
+      "price": 9.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCF",
+      "price": 9.3942
+    },
+    {
+      "ticker": "CYS",
+      "price": 7.605
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.3749
+    },
+    {
+      "ticker": "CBA",
+      "price": 7.571
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TITN",
+      "price": 14.95
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWI",
+      "price": 10.56
+    },
+    {
+      "ticker": "ALNA",
+      "price": 13.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 10.565
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ALNA",
+      "price": 13.13
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TWI",
+      "price": 10.575
+    },
+    {
+      "ticker": "AFI",
+      "price": 14.54
+    }
+  ]
+}

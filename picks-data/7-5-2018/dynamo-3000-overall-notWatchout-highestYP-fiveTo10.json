@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.53
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 5.55
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.69
+    },
+    {
+      "ticker": "CERS",
+      "price": 6.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.675
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    }
+  ]
+}

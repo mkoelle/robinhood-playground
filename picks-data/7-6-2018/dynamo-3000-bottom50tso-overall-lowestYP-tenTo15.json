@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 11.1751
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.2605
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 11.2184
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 11.09
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.5966
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 10.9362
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 11.009
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.53
+    }
+  ]
+}

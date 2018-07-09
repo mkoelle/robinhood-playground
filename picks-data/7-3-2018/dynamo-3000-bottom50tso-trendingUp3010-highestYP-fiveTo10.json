@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CASI",
+      "price": 8.01
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.985
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 7.01
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.74
+    },
+    {
+      "ticker": "LONE",
+      "price": 8.305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 9.475
+    },
+    {
+      "ticker": "VTL",
+      "price": 6.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VTL",
+      "price": 6.75
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.23
+    }
+  ]
+}

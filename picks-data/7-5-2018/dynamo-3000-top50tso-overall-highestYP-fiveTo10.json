@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 8.895
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 8.7771
+    },
+    {
+      "ticker": "LFVN",
+      "price": 7.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.97
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TNP",
+      "price": 3.75
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.8252
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOO",
+      "price": 2.65
+    },
+    {
+      "ticker": "ECT",
+      "price": 2.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGEN",
+      "price": 2.415
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARTX",
+      "price": 3.825
+    },
+    {
+      "ticker": "FBIO",
+      "price": 3.11
+    }
+  ]
+}

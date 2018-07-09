@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    },
+    {
+      "ticker": "ACTG",
+      "price": 4.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WIT",
+      "price": 4.9
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.655
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.96
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.78
+    }
+  ]
+}

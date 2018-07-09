@@ -1,0 +1,112 @@
+{
+  "100": [
+    {
+      "ticker": "ACY",
+      "price": 15
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.55
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.7739
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.4484
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FENC",
+      "price": 10.44
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.4835
+    },
+    {
+      "ticker": "TOCA",
+      "price": 10.015
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.7607
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIIX",
+      "price": 14.6
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.37
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.4406
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.5966
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVLO",
+      "price": 12.44
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.95
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.44
+    },
+    {
+      "ticker": "FENC",
+      "price": 10.31
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FENC",
+      "price": 10.36
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.56
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.51
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.53
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.42
+    }
+  ]
+}

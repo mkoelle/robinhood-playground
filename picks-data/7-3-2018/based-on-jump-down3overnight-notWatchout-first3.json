@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NH",
+      "price": 3.19
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.79
+    },
+    {
+      "ticker": "INOD",
+      "price": 1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NH",
+      "price": 3.19
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.79
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NH",
+      "price": 3.42
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.75
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NH",
+      "price": 3.42
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.75
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.04
+    }
+  ]
+}

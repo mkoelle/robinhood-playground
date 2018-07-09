@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SAEX",
+      "price": 2.849
+    },
+    {
+      "ticker": "KTOV",
+      "price": 2.4183
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SAEX",
+      "price": 2.55
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBOX",
+      "price": 1.3882
+    },
+    {
+      "ticker": "ATAI",
+      "price": 4.3001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "CVM",
+      "price": 0.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "TWMC",
+      "price": 0.8501
+    }
+  ]
+}

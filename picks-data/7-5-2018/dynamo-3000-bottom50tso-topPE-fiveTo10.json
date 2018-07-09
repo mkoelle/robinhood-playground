@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "FRBK",
+      "price": 7.95
+    },
+    {
+      "ticker": "ASG",
+      "price": 6.652
+    },
+    {
+      "ticker": "INS",
+      "price": 8.7495
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRBK",
+      "price": 7.95
+    },
+    {
+      "ticker": "ASG",
+      "price": 6.6552
+    },
+    {
+      "ticker": "INS",
+      "price": 8.8599
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRBK",
+      "price": 7.9
+    },
+    {
+      "ticker": "ASG",
+      "price": 6.6385
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.5287
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRBK",
+      "price": 7.925
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.5
+    },
+    {
+      "ticker": "WVVI",
+      "price": 8.33
+    }
+  ]
+}

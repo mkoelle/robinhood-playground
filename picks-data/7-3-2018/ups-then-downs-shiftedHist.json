@@ -1,0 +1,42 @@
+{
+  "10": [
+    {
+      "ticker": "ESEA",
+      "price": 1.735
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.551
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ESEA",
+      "price": 1.7991
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.6265
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESEA",
+      "price": 1.8
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.6
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ESEA",
+      "price": 1.85
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.65
+    }
+  ]
+}

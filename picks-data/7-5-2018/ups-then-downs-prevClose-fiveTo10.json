@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 7.7899
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.59
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MXC",
+      "price": 7.575
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.61
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.17
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MXC",
+      "price": 7.06
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.71
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.17
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.44
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MXC",
+      "price": 6.73
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.72
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.08
+    }
+  ]
+}

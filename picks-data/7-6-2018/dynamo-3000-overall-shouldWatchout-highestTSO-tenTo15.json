@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ACIU",
+      "price": 12.02
+    },
+    {
+      "ticker": "IOVA",
+      "price": 13.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACIU",
+      "price": 12.5
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 12.61
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACIU",
+      "price": 13.0016
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.3649
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ACIU",
+      "price": 12.8604
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.29
+    }
+  ]
+}

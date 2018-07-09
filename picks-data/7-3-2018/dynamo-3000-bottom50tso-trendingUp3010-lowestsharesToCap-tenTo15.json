@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NSSC",
+      "price": 14.85
+    },
+    {
+      "ticker": "BLFS",
+      "price": 14.7892
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UBX",
+      "price": 14.735
+    },
+    {
+      "ticker": "RUN",
+      "price": 14.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USO",
+      "price": 14.83
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USO",
+      "price": 14.94
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USO",
+      "price": 14.92
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.65
+    }
+  ]
+}

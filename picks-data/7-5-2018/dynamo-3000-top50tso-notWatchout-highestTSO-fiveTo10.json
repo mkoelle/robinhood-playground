@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AKTS",
+      "price": 8.9112
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.3207
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKTS",
+      "price": 8.63
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.6676
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AKTS",
+      "price": 8.6
+    },
+    {
+      "ticker": "MJCO",
+      "price": 6.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOTS",
+      "price": 8.58
+    },
+    {
+      "ticker": "MJCO",
+      "price": 6.83
+    }
+  ]
+}

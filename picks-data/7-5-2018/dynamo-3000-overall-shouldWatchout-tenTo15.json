@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "CMTA",
+      "price": 11.31
+    },
+    {
+      "ticker": "CHRS",
+      "price": 14.425
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.11
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.5955
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHRS",
+      "price": 14.3
+    },
+    {
+      "ticker": "CMTA",
+      "price": 11.5
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.06
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.525
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.245
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRS",
+      "price": 14.375
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.5758
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.14
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.26
+    },
+    {
+      "ticker": "ACMR",
+      "price": 10.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHRS",
+      "price": 14.475
+    },
+    {
+      "ticker": "CORT",
+      "price": 14.69
+    },
+    {
+      "ticker": "ACMR",
+      "price": 10.54
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.5
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.265
+    }
+  ]
+}

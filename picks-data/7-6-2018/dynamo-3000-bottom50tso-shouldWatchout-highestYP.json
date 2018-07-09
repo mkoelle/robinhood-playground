@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CASM",
+      "price": 1.9001
+    },
+    {
+      "ticker": "PRTO",
+      "price": 2.675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTO",
+      "price": 2.65
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASM",
+      "price": 1.92
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASM",
+      "price": 1.87
+    },
+    {
+      "ticker": "SMSI",
+      "price": 2.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SMSI",
+      "price": 2.5199
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.65
+    }
+  ]
+}

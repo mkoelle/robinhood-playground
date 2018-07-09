@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 7.8748
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.2933
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 6.9001
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 6.5227
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.6997
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 8.8802
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 8.67
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.395
+    }
+  ]
+}

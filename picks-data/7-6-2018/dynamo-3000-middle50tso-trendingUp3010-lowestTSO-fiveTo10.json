@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GAB",
+      "price": 6.27
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TIPT",
+      "price": 7.0252
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMO",
+      "price": 9.25
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.655
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATAX",
+      "price": 6.3705
+    },
+    {
+      "ticker": "SNR",
+      "price": 7.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TSQ",
+      "price": 6.87
+    },
+    {
+      "ticker": "SNR",
+      "price": 7.845
+    }
+  ]
+}

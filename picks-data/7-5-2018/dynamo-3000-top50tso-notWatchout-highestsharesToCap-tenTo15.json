@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GRBK",
+      "price": 10.2
+    },
+    {
+      "ticker": "AP",
+      "price": 10.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GRBK",
+      "price": 10.1248
+    },
+    {
+      "ticker": "AP",
+      "price": 10.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENDP",
+      "price": 10.115
+    },
+    {
+      "ticker": "AP",
+      "price": 10.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENDP",
+      "price": 10.12
+    },
+    {
+      "ticker": "AP",
+      "price": 10.36
+    }
+  ]
+}

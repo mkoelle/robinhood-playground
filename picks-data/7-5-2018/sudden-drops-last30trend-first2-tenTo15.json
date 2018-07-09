@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "CMTA",
+      "price": 11.18
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.01
+    }
+  ],
+  "280": [
+    {
+      "ticker": "ACMR",
+      "price": 10.6
+    },
+    {
+      "ticker": "CMTA",
+      "price": 11.6
+    }
+  ],
+  "328": [
+    {
+      "ticker": "ACMR",
+      "price": 10.6
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.91
+    }
+  ],
+  "388": [
+    {
+      "ticker": "EPZM",
+      "price": 12.35
+    },
+    {
+      "ticker": "CORT",
+      "price": 14.7
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FNKO",
+      "price": 14.22
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FNKO",
+      "price": 14.11
+    },
+    {
+      "ticker": "TACT",
+      "price": 12.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRCP",
+      "price": 11.87
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.3625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRCP",
+      "price": 12.07
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.44
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ELVT",
+      "price": 10.15
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELVT",
+      "price": 10.115
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.049
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ELVT",
+      "price": 10.1093
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ELVT",
+      "price": 10.155
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.06
+    }
+  ]
+}

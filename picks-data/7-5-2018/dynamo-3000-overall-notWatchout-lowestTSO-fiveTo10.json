@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UXIN",
+      "price": 7.7601
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.9501
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMSC",
+      "price": 5.8878
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XSPL",
+      "price": 6.8
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.7558
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XSPL",
+      "price": 6.8646
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.71
+    }
+  ]
+}

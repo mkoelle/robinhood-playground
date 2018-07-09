@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 6.61
+    },
+    {
+      "ticker": "SHNY",
+      "price": 7.348
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPH",
+      "price": 5.26
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSM",
+      "price": 8.08
+    },
+    {
+      "ticker": "BDD",
+      "price": 7.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DHCP",
+      "price": 5.68
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.3348
+    }
+  ]
+}

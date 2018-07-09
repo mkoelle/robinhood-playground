@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.6
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.6151
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5505
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.6204
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5242
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.6101
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.52
+    }
+  ]
+}

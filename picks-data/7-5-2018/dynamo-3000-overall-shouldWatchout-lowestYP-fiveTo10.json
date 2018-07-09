@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LIVX",
+      "price": 5.87
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVX",
+      "price": 5.86
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.1322
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVX",
+      "price": 5.91
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.036
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIVX",
+      "price": 5.82
+    },
+    {
+      "ticker": "RKDA",
+      "price": 8.07
+    }
+  ]
+}

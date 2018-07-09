@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3334
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3738
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3487
+    }
+  ]
+}

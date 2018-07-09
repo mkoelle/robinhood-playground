@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "OPK",
+      "price": 5.2616
+    },
+    {
+      "ticker": "TCCO",
+      "price": 5.3501
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPK",
+      "price": 5.21
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.085
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPK",
+      "price": 5.18
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPK",
+      "price": 5.26
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.0699
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPK",
+      "price": 5.24
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.166
+    }
+  ]
+}

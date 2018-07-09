@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 7.349
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.145
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCOM",
+      "price": 9.15
+    },
+    {
+      "ticker": "ENZ",
+      "price": 5.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTID",
+      "price": 7.4323
+    },
+    {
+      "ticker": "BCOM",
+      "price": 9.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTID",
+      "price": 7.41
+    },
+    {
+      "ticker": "BCOM",
+      "price": 9.15
+    }
+  ]
+}

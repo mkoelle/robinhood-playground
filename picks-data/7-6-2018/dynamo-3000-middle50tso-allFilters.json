@@ -1,0 +1,112 @@
+{
+  "100": [
+    {
+      "ticker": "CHKR",
+      "price": 1.633
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.9
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.88
+    },
+    {
+      "ticker": "LRAD",
+      "price": 2.6548
+    },
+    {
+      "ticker": "AZRX",
+      "price": 3.185
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDLP",
+      "price": 3.8976
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4.0485
+    },
+    {
+      "ticker": "III",
+      "price": 4.235
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.185
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.94
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4.0485
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.4
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTT",
+      "price": 2.21
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.96
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.89
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4.0485
+    },
+    {
+      "ticker": "CHKR",
+      "price": 1.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTT",
+      "price": 2.21
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4.05
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.5678
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.375
+    }
+  ]
+}

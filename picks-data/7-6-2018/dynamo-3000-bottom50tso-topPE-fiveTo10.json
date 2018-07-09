@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "CRON",
+      "price": 6.8755
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.93
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.265
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RRD",
+      "price": 5.925
+    },
+    {
+      "ticker": "KFFB",
+      "price": 7.95
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RRD",
+      "price": 5.895
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.575
+    },
+    {
+      "ticker": "KFFB",
+      "price": 7.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RRD",
+      "price": 5.7548
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.235
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RRD",
+      "price": 5.78
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.225
+    },
+    {
+      "ticker": "CVGI",
+      "price": 7.535
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 11.12
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 11.025
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.1775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 11
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.3625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 12.44
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.44
+    }
+  ]
+}

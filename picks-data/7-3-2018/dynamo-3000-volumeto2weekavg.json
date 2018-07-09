@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SAEX",
+      "price": 2.849
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SAEX",
+      "price": 2.55
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.223
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBOX",
+      "price": 1.3882
+    },
+    {
+      "ticker": "SAEX",
+      "price": 2.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "BBOX",
+      "price": 0.945
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "BBOX",
+      "price": 0.75
+    }
+  ]
+}

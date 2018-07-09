@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 10.06
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.565
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPKE",
+      "price": 10.075
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TWI",
+      "price": 10.575
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.54
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "GME",
+      "price": 14.55
+    },
+    {
+      "ticker": "NVGS",
+      "price": 13.0999
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 14.645
+    },
+    {
+      "ticker": "NVGS",
+      "price": 13.1
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.131
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 14.66
+    },
+    {
+      "ticker": "NVGS",
+      "price": 13.05
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 14.64
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.355
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.44
+    }
+  ]
+}

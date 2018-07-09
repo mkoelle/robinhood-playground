@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 7.71
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASI",
+      "price": 7.68
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASI",
+      "price": 7.77
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CASI",
+      "price": 7.8
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    }
+  ]
+}

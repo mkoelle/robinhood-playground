@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "EVFM",
+      "price": 2.6
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.4329
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NNVC",
+      "price": 0.4051
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.4031
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 2.57
+    },
+    {
+      "ticker": "STAF",
+      "price": 1.4422
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NNVC",
+      "price": 0.4236
+    },
+    {
+      "ticker": "BSQR",
+      "price": 2.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 2.57
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.428
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 5.0261
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.1
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GBR",
+      "price": 5.0285
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.05
+    }
+  ],
+  "380": [
+    {
+      "ticker": "VTL",
+      "price": 7.075
+    }
+  ],
+  "600": [
+    {
+      "ticker": "VTL",
+      "price": 7
+    }
+  ]
+}

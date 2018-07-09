@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "STAF",
+      "price": 1.4329
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAF",
+      "price": 1.4031
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.245
+    }
+  ],
+  "260": [
+    {
+      "ticker": "STAF",
+      "price": 1.4422
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4501
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.215
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4552
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.2438
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "GEMP",
+      "price": 8.138
+    },
+    {
+      "ticker": "BGFV",
+      "price": 7.425
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.6379
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.225
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.86
+    }
+  ],
+  "250": [
+    {
+      "ticker": "GEMP",
+      "price": 8.1
+    },
+    {
+      "ticker": "BGFV",
+      "price": 7.428
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.6379
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.2396
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.81
+    }
+  ],
+  "600": [
+    {
+      "ticker": "GEMP",
+      "price": 8.09
+    },
+    {
+      "ticker": "BGFV",
+      "price": 7.35
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.69
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.2
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.92
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UGP",
+      "price": 11.95
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UGP",
+      "price": 11.92
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UGP",
+      "price": 11.885
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.996
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UGP",
+      "price": 11.9
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.22
+    }
+  ]
+}

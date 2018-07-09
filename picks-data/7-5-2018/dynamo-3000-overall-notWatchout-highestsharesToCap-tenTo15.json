@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GRBK",
+      "price": 10.2
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.131
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCS",
+      "price": 10.055
+    },
+    {
+      "ticker": "GRBK",
+      "price": 10.1248
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENDP",
+      "price": 10.115
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.035
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ENDP",
+      "price": 10.12
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.0331
+    }
+  ]
+}

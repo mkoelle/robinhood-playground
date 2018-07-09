@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "IIIV",
+      "price": 14.865
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IIIV",
+      "price": 15.11
+    },
+    {
+      "ticker": "NMRK",
+      "price": 15.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMRK",
+      "price": 14.98
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAST",
+      "price": 14.925
+    },
+    {
+      "ticker": "CCR",
+      "price": 14.9
+    }
+  ]
+}

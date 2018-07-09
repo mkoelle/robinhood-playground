@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "MXE",
+      "price": 10.61
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.475
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.3946
+    },
+    {
+      "ticker": "AOSL",
+      "price": 14.53
+    },
+    {
+      "ticker": "GLV",
+      "price": 12.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSIQ",
+      "price": 12.5
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.7484
+    },
+    {
+      "ticker": "CZR",
+      "price": 10.85
+    },
+    {
+      "ticker": "DF",
+      "price": 10.8
+    },
+    {
+      "ticker": "SIEB",
+      "price": 12.0755
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.115
+    },
+    {
+      "ticker": "FPH",
+      "price": 11.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.45
+    },
+    {
+      "ticker": "UIS",
+      "price": 13.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SXC",
+      "price": 13.805
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.65
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.12
+    },
+    {
+      "ticker": "GLMD",
+      "price": 11.93
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "BASI",
+      "price": 1.86
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BASI",
+      "price": 2.059
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BASI",
+      "price": 1.891
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUMU",
+      "price": 2.212
+    },
+    {
+      "ticker": "BASI",
+      "price": 2.06
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.4619
+    }
+  ]
+}

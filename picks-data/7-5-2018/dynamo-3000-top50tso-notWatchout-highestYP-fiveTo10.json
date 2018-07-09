@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 8.895
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 8.7771
+    },
+    {
+      "ticker": "MOTS",
+      "price": 8.0598
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 8.9
+    },
+    {
+      "ticker": "PES",
+      "price": 5.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 8.97
+    },
+    {
+      "ticker": "MOTS",
+      "price": 8.58
+    }
+  ]
+}

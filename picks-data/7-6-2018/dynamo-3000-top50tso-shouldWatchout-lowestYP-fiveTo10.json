@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.9594
+    },
+    {
+      "ticker": "QD",
+      "price": 8.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVX",
+      "price": 5.91
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.7796
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVX",
+      "price": 5.91
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVX",
+      "price": 5.93
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.3961
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIVX",
+      "price": 5.95
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.3768
+    }
+  ]
+}

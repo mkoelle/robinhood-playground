@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 6.35
+    },
+    {
+      "ticker": "MNOV",
+      "price": 8.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 6.69
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 6.61
+    },
+    {
+      "ticker": "MNOV",
+      "price": 8.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 6.75
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.785
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.615
+    }
+  ]
+}

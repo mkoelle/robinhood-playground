@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NATR",
+      "price": 9.4
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NATR",
+      "price": 9.5
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.47
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRR",
+      "price": 9.6822
+    },
+    {
+      "ticker": "BCOM",
+      "price": 9.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRR",
+      "price": 9.652
+    },
+    {
+      "ticker": "BCOM",
+      "price": 9.15
+    }
+  ]
+}

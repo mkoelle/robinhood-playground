@@ -1,0 +1,61 @@
+{
+  "75": [],
+  "120": [
+    {
+      "ticker": "NVAX",
+      "price": 1.405
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.89
+    },
+    {
+      "ticker": "SID",
+      "price": 2.025
+    },
+    {
+      "ticker": "HL",
+      "price": 3.705
+    }
+  ],
+  "180": [
+    {
+      "ticker": "TRQ",
+      "price": 2.8761
+    },
+    {
+      "ticker": "SID",
+      "price": 2.03
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.63
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "OZM",
+      "price": 2.05
+    },
+    {
+      "ticker": "SID",
+      "price": 2.04
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.405
+    },
+    {
+      "ticker": "ZIOP",
+      "price": 3.1861
+    },
+    {
+      "ticker": "HL",
+      "price": 3.725
+    }
+  ]
+}

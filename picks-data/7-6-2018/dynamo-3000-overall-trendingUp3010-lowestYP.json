@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CEI",
+      "price": 0.5856
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6808
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.57
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6884
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.5628
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.565
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6871
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.5598
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.6802
+    }
+  ]
+}

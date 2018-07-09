@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ARDX",
+      "price": 4.4
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TCCO",
+      "price": 4.9
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARDX",
+      "price": 4.418
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.5401
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCCO",
+      "price": 4.997
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.62
+    }
+  ]
+}

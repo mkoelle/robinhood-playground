@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VCYT",
+      "price": 9.995
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.4492
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PGNX",
+      "price": 8.46
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.665
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 7.015
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.655
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.9248
+    },
+    {
+      "ticker": "APEN",
+      "price": 7.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KEYW",
+      "price": 9.665
+    },
+    {
+      "ticker": "BRG",
+      "price": 9.11
+    }
+  ]
+}

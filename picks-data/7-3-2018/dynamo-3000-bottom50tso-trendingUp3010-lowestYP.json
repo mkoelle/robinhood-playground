@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AMRH",
+      "price": 1.093
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5798
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMRH",
+      "price": 1.14
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2998
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CEI",
+      "price": 0.675
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.6801
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.106
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.71
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ]
+}

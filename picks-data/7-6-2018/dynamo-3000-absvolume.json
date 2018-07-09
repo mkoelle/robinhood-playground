@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CLDC",
+      "price": 2.3
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RGSE",
+      "price": 0.415
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.4647
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RGSE",
+      "price": 0.42
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RGSE",
+      "price": 0.39
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.4399
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3925
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.6231
+    }
+  ]
+}

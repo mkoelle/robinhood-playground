@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LCI",
+      "price": 13.825
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LCI",
+      "price": 13.925
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.802
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UGP",
+      "price": 12.09
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UGP",
+      "price": 12.095
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UGP",
+      "price": 12.085
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.7
+    }
+  ]
+}

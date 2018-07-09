@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RFL",
+      "price": 9.11
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFL",
+      "price": 9.325
+    },
+    {
+      "ticker": "CASI",
+      "price": 8.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPAC",
+      "price": 9.72
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.006
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPAC",
+      "price": 9.75
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPAC",
+      "price": 9.75
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.14
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.12
+    },
+    {
+      "ticker": "RUN",
+      "price": 14.8925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.131
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.385
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 14.355
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ]
+}

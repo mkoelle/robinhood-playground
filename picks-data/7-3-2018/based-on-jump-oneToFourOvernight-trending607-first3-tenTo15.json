@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TBIO",
+      "price": 13.47
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.9001
+    },
+    {
+      "ticker": "KVHI",
+      "price": 14.0297
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "KVHI",
+      "price": 14.0571
+    },
+    {
+      "ticker": "AROC",
+      "price": 12.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "KVHI",
+      "price": 14.0143
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "KVHI",
+      "price": 14.0385
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.08
+    }
+  ]
+}

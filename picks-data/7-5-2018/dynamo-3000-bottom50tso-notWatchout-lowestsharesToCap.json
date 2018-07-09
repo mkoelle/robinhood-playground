@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TRIB",
+      "price": 4.8812
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLNE",
+      "price": 3.225
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.926
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EBR.B",
+      "price": 4.27
+    },
+    {
+      "ticker": "CLNE",
+      "price": 3.13
+    }
+  ]
+}

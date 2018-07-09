@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.97
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTA",
+      "price": 14.92
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    }
+  ]
+}

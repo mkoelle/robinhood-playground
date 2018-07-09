@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1748
+    },
+    {
+      "ticker": "CDR",
+      "price": 5.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.03
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    }
+  ]
+}

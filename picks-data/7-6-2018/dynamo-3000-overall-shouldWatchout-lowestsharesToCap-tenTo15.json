@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LKSD",
+      "price": 14.45
+    },
+    {
+      "ticker": "TITN",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LKSD",
+      "price": 14.005
+    },
+    {
+      "ticker": "TITN",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LKSD",
+      "price": 14.105
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LKSD",
+      "price": 13.985
+    },
+    {
+      "ticker": "HPE",
+      "price": 14.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LKSD",
+      "price": 13.895
+    },
+    {
+      "ticker": "HPE",
+      "price": 14.985
+    }
+  ]
+}

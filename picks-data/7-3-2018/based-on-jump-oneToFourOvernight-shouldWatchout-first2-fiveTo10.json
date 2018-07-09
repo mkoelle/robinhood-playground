@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INSE",
+      "price": 6.8746
+    },
+    {
+      "ticker": "VNET",
+      "price": 8.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.46
+    }
+  ]
+}

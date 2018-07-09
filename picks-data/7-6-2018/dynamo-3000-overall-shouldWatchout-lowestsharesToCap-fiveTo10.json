@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VCYT",
+      "price": 9.995
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 9.95
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZOES",
+      "price": 9.91
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZOES",
+      "price": 9.9
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZOES",
+      "price": 9.9052
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.7
+    }
+  ]
+}

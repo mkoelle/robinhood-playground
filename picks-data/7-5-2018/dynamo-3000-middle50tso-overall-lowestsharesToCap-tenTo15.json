@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "GPK",
+      "price": 14.59
+    },
+    {
+      "ticker": "AFI",
+      "price": 14.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLW",
+      "price": 14.8459
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.935
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BPK",
+      "price": 14.99
+    },
+    {
+      "ticker": "PGX",
+      "price": 14.705
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MPV",
+      "price": 14.9467
+    },
+    {
+      "ticker": "HPE",
+      "price": 14.8
+    }
+  ]
+}

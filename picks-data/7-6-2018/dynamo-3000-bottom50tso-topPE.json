@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "BASI",
+      "price": 1.9402
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.9691
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BASI",
+      "price": 1.92
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.9767
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.6309
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BASI",
+      "price": 1.92
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.97
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGC",
+      "price": 0.984
+    },
+    {
+      "ticker": "MDXG",
+      "price": 3.47
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGC",
+      "price": 0.9812
+    },
+    {
+      "ticker": "MDXG",
+      "price": 3.3
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.61
+    }
+  ]
+}

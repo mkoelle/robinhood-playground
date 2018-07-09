@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RFL",
+      "price": 9.11
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.551
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EXPR",
+      "price": 9.3
+    },
+    {
+      "ticker": "HCHC",
+      "price": 5.845
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CALX",
+      "price": 7.775
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LBY",
+      "price": 7.99
+    },
+    {
+      "ticker": "CLBS",
+      "price": 6.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCMI",
+      "price": 8.35
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.68
+    }
+  ]
+}

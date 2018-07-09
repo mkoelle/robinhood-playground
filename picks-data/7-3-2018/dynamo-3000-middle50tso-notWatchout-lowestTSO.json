@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IMI",
+      "price": 1.73
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.4482
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OIIM",
+      "price": 1.7627
+    },
+    {
+      "ticker": "URG",
+      "price": 0.6961
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMI",
+      "price": 1.7336
+    },
+    {
+      "ticker": "ATEC",
+      "price": 2.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IGLD",
+      "price": 2.76
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EMX",
+      "price": 1.02
+    },
+    {
+      "ticker": "TST",
+      "price": 2.2
+    }
+  ]
+}

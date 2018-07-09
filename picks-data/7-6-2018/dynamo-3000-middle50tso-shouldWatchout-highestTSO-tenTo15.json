@@ -1,0 +1,48 @@
+{
+  "100": [
+    {
+      "ticker": "CDZI",
+      "price": 13.15
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HRG",
+      "price": 13.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WSC",
+      "price": 14.8
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SELB",
+      "price": 12.54
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HRG",
+      "price": 13.915
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    }
+  ]
+}

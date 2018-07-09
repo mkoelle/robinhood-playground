@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 0.2046
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2481
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2136
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.223
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 0.219
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.2274
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.2171
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2121
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.2121
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "0": [
+    {
+      "ticker": "SVXY",
+      "price": 12.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVXY",
+      "price": 12.81
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GG",
+      "price": 13.885
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSW",
+      "price": 10.18
+    },
+    {
+      "ticker": "GG",
+      "price": 13.905
+    }
+  ]
+}

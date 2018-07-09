@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "ticker": "NES",
+      "price": 11.57
+    },
+    {
+      "ticker": "UVXY",
+      "price": 11.9848
+    }
+  ],
+  "169": [
+    {
+      "ticker": "UVXY",
+      "price": 12.071
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.335
+    },
+    {
+      "ticker": "NES",
+      "price": 12.22
+    }
+  ],
+  "273": [
+    {
+      "ticker": "UVXY",
+      "price": 12.52
+    },
+    {
+      "ticker": "NES",
+      "price": 11.49
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.2
+    }
+  ]
+}

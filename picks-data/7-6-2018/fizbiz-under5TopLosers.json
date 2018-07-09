@@ -1,0 +1,68 @@
+{
+  "120": [
+    {
+      "ticker": "CLDC",
+      "price": 2.28
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.21
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.982
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.6
+    },
+    {
+      "ticker": "CVRS",
+      "price": 0.9602
+    }
+  ],
+  "180": [
+    {
+      "ticker": "CLDC",
+      "price": 2.3149
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.23
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.6
+    },
+    {
+      "ticker": "TGC",
+      "price": 0.98
+    },
+    {
+      "ticker": "MYO",
+      "price": 2.4778
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CLDC",
+      "price": 2.37
+    },
+    {
+      "ticker": "PED",
+      "price": 1.8448
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.2801
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.65
+    },
+    {
+      "ticker": "HAIR",
+      "price": 3.245
+    }
+  ]
+}

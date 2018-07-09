@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BILI",
+      "price": 13.03
+    },
+    {
+      "ticker": "DEX",
+      "price": 11.205
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BILI",
+      "price": 13.06
+    },
+    {
+      "ticker": "DTF",
+      "price": 13.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BILI",
+      "price": 13.04
+    },
+    {
+      "ticker": "SOIL",
+      "price": 10.2292
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BILI",
+      "price": 12.93
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.285
+    }
+  ]
+}

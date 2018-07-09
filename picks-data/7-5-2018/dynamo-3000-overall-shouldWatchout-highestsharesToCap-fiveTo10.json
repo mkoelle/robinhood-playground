@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    },
+    {
+      "ticker": "GBR",
+      "price": 5.0261
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    },
+    {
+      "ticker": "GBR",
+      "price": 5.0399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 5.085
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.03
+    },
+    {
+      "ticker": "QHC",
+      "price": 4.995
+    }
+  ]
+}

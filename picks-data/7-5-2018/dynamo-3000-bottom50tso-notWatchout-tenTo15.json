@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "BILI",
+      "price": 13.03
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.11
+    },
+    {
+      "ticker": "TIVO",
+      "price": 13.275
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.4441
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BILI",
+      "price": 13.06
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.8
+    },
+    {
+      "ticker": "CCJ",
+      "price": 10.725
+    },
+    {
+      "ticker": "MGTX",
+      "price": 12.135
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BILI",
+      "price": 13.04
+    },
+    {
+      "ticker": "REDU",
+      "price": 14
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.024
+    },
+    {
+      "ticker": "MGTX",
+      "price": 12.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BILI",
+      "price": 12.93
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "TIVO",
+      "price": 13.25
+    },
+    {
+      "ticker": "JKS",
+      "price": 13.585
+    },
+    {
+      "ticker": "MGTX",
+      "price": 12.09
+    }
+  ]
+}

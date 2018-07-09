@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.1645
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1598
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1586
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INPX",
+      "price": 0.1573
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1569
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INPX",
+      "price": 0.1571
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.16
+    }
+  ]
+}

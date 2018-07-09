@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DPK",
+      "price": 13.07
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 12.0001
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 11.85
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.775
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.84
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.85
+    }
+  ]
+}

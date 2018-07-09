@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BAS",
+      "price": 11.45
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 11.52
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.0099
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.575
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.03
+    }
+  ]
+}

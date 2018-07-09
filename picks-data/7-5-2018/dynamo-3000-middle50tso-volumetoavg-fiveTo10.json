@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LPTX",
+      "price": 9.09
+    },
+    {
+      "ticker": "JQC",
+      "price": 7.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANH",
+      "price": 5.065
+    },
+    {
+      "ticker": "IRIX",
+      "price": 6.3298
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RJA",
+      "price": 5.91
+    },
+    {
+      "ticker": "GPM",
+      "price": 8.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ONDK",
+      "price": 7.15
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.5699
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ITI",
+      "price": 5.26
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1048
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.2589
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITI",
+      "price": 5.28
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    }
+  ]
+}

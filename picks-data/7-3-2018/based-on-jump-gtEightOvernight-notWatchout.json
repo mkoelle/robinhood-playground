@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USEG",
+      "price": 1.49
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.4579
+    }
+  ],
+  "5": [
+    {
+      "ticker": "USEG",
+      "price": 1.42
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "USEG",
+      "price": 1.67
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.4549
+    }
+  ],
+  "30": [
+    {
+      "ticker": "USEG",
+      "price": 1.6785
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.56
+    }
+  ]
+}

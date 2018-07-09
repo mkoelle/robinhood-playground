@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIIX",
+      "price": 14.6
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIIX",
+      "price": 14.44
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIIX",
+      "price": 14.51
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.5417
+    }
+  ]
+}

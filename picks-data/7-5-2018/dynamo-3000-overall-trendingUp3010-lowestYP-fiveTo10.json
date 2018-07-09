@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 9.1385
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 9.1
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 9.03
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 9.07
+    },
+    {
+      "ticker": "TEDU",
+      "price": 7.87
+    }
+  ]
+}

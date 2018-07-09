@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "DAKT",
+      "price": 8.77
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.58
+    },
+    {
+      "ticker": "SIRI",
+      "price": 6.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LXP",
+      "price": 9.01
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "DAKT",
+      "price": 8.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGL",
+      "price": 5.245
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.325
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LXP",
+      "price": 9.02
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.075
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LXP",
+      "price": 9.025
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.32
+    }
+  ]
+}

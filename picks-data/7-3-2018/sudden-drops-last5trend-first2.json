@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "MNGA",
+      "price": 0.3888
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.2127
+    }
+  ],
+  "63": [
+    {
+      "ticker": "TGC",
+      "price": 1.7149
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.55
+    }
+  ],
+  "221": [
+    {
+      "ticker": "BBOX",
+      "price": 0.775
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.2
+    }
+  ],
+  "280": [
+    {
+      "ticker": "BBOX",
+      "price": 0.75
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    }
+  ],
+  "328": [
+    {
+      "ticker": "BBOX",
+      "price": 0.75
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    }
+  ]
+}

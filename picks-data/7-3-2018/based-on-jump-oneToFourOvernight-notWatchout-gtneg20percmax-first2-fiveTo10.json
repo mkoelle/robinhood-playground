@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PES",
+      "price": 5.45
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PES",
+      "price": 5.45
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.4751
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PES",
+      "price": 5.475
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.5342
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PES",
+      "price": 5.475
+    },
+    {
+      "ticker": "CPG",
+      "price": 7.5173
+    }
+  ]
+}

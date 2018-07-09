@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBVX",
+      "price": 0.47
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBVX",
+      "price": 0.5036
+    },
+    {
+      "ticker": "BASI",
+      "price": 2.059
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBVX",
+      "price": 0.61
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.891
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBVX",
+      "price": 0.61
+    },
+    {
+      "ticker": "QUMU",
+      "price": 2.212
+    }
+  ]
+}

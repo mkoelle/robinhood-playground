@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LFVN",
+      "price": 8.04
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.1658
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LFVN",
+      "price": 7.87
+    },
+    {
+      "ticker": "DRYS",
+      "price": 6.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DEST",
+      "price": 6.027
+    },
+    {
+      "ticker": "LFVN",
+      "price": 7.9729
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DEST",
+      "price": 6.03
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DEST",
+      "price": 6.0372
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.34
+    }
+  ]
+}

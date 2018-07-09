@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "JHB",
+      "price": 9.6113
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANH",
+      "price": 5.065
+    },
+    {
+      "ticker": "NCA",
+      "price": 9.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OIA",
+      "price": 7.57
+    },
+    {
+      "ticker": "NCZ",
+      "price": 6.055
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ANH",
+      "price": 5.07
+    },
+    {
+      "ticker": "MESO",
+      "price": 5.77
+    }
+  ]
+}

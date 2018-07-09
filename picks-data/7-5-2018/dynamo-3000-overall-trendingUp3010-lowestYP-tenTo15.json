@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.0201
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 11.9902
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 12
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 11.905
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    }
+  ]
+}

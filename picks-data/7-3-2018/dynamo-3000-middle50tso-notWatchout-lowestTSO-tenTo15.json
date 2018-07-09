@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KSM",
+      "price": 10.9227
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IRT",
+      "price": 10.325
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.445
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WIA",
+      "price": 11.36
+    },
+    {
+      "ticker": "NMZ",
+      "price": 12.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NJV",
+      "price": 12.96
+    },
+    {
+      "ticker": "MCA",
+      "price": 13.418
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMLP",
+      "price": 10.12
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    }
+  ]
+}

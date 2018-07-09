@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WMC",
+      "price": 10.555
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NTC",
+      "price": 11.8748
+    },
+    {
+      "ticker": "MIY",
+      "price": 13.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MHI",
+      "price": 11.55
+    },
+    {
+      "ticker": "EVN",
+      "price": 11.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHY",
+      "price": 12.76
+    },
+    {
+      "ticker": "GAIN",
+      "price": 11.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BBK",
+      "price": 14.29
+    },
+    {
+      "ticker": "CHY",
+      "price": 12.7473
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "SUPV",
+      "price": 13.12
+    },
+    {
+      "ticker": "TGS",
+      "price": 13.98
+    }
+  ],
+  "280": [
+    {
+      "ticker": "ROAD",
+      "price": 12.6
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14
+    }
+  ],
+  "328": [
+    {
+      "ticker": "DZSI",
+      "price": 10.38
+    },
+    {
+      "ticker": "NTGN",
+      "price": 12.58
+    }
+  ],
+  "388": [
+    {
+      "ticker": "MGTX",
+      "price": 12.18
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.25
+    }
+  ]
+}

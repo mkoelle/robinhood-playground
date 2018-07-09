@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RUN",
+      "price": 14.31
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.805
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 14.02
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NDLS",
+      "price": 12.2
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.725
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NDLS",
+      "price": 12.125
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 12.15
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.55
+    }
+  ]
+}

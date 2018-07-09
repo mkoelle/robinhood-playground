@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "INPX",
+      "price": 0.1535
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1532
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.1565
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.191
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INPX",
+      "price": 0.1561
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1534
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1849
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.203
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INPX",
+      "price": 0.1549
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1831
+    }
+  ]
+}

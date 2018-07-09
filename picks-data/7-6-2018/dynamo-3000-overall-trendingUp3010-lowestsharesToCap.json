@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 4.9865
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SORL",
+      "price": 4.9609
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SORL",
+      "price": 4.9301
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SORL",
+      "price": 4.935
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SORL",
+      "price": 4.8601
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.8378
+    }
+  ]
+}

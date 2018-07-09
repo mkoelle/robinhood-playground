@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ARCT",
+      "price": 8.91
+    },
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 9.95
+    },
+    {
+      "ticker": "HX",
+      "price": 9.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZOES",
+      "price": 9.91
+    },
+    {
+      "ticker": "HX",
+      "price": 9.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZOES",
+      "price": 9.9
+    },
+    {
+      "ticker": "HX",
+      "price": 9.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZOES",
+      "price": 9.9052
+    },
+    {
+      "ticker": "HX",
+      "price": 9.66
+    }
+  ]
+}

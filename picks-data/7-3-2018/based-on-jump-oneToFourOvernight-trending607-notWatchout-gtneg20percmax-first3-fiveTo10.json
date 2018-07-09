@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.8773
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3334
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3738
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3487
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ]
+}

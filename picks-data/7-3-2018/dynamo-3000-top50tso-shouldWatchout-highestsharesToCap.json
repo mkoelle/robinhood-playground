@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SYN",
+      "price": 0.23
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLOW",
+      "price": 0.1922
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.335
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RHE",
+      "price": 0.227
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.3398
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMNP",
+      "price": 0.1927
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.438
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATIS",
+      "price": 0.4076
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.438
+    }
+  ]
+}

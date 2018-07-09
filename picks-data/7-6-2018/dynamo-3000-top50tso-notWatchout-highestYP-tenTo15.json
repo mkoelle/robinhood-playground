@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AMRC",
+      "price": 13.8499
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FNKO",
+      "price": 14.87
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOTS",
+      "price": 10.141
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FNKO",
+      "price": 14.8689
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.9763
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNKO",
+      "price": 14.85
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.96
+    }
+  ]
+}

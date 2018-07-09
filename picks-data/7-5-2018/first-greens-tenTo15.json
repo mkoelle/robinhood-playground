@@ -1,0 +1,68 @@
+{
+  "190": [
+    {
+      "ticker": "NTGN",
+      "price": 12.46
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.47
+    },
+    {
+      "ticker": "PEI",
+      "price": 11.19
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.41
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.2
+    }
+  ],
+  "250": [
+    {
+      "ticker": "NTGN",
+      "price": 12.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.57
+    },
+    {
+      "ticker": "PEI",
+      "price": 11.21
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.425
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.32
+    }
+  ],
+  "600": [
+    {
+      "ticker": "NTGN",
+      "price": 13.4
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.44
+    },
+    {
+      "ticker": "PEI",
+      "price": 11.4
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.67
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.32
+    }
+  ]
+}

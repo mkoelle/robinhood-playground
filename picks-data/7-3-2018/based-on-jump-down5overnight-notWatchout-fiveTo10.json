@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ORMP",
+      "price": 6.419
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ORMP",
+      "price": 6.44
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.801
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ORMP",
+      "price": 6.44
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.795
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ORMP",
+      "price": 6.51
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.84
+    }
+  ]
+}

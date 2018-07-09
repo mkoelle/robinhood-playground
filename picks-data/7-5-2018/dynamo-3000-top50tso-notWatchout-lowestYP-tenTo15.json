@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 13.52
+    },
+    {
+      "ticker": "AP",
+      "price": 10.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SUPV",
+      "price": 13.0099
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.915
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 12.98
+    },
+    {
+      "ticker": "AP",
+      "price": 10.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 13.03
+    },
+    {
+      "ticker": "AP",
+      "price": 10.36
+    }
+  ]
+}

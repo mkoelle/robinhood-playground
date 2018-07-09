@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HEB",
+      "price": 0.309
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "YUMA",
+      "price": 0.6211
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.7889
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGC",
+      "price": 1.415
+    },
+    {
+      "ticker": "SKYS",
+      "price": 1.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XPL",
+      "price": 0.438
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.576
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPL",
+      "price": 0.438
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.52
+    }
+  ]
+}

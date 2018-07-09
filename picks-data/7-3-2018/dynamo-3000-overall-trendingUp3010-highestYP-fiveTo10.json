@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CASI",
+      "price": 8.01
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.985
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CASI",
+      "price": 8.05
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CASI",
+      "price": 7.98
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.105
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 8.02
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.0499
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASI",
+      "price": 8
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.03
+    }
+  ]
+}

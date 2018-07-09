@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "AVID",
+      "price": 5.21
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.216
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LAC",
+      "price": 5.21
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRSH",
+      "price": 5.24
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRSH",
+      "price": 5.125
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.229
+    }
+  ]
+}

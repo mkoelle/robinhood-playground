@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.88
+    },
+    {
+      "ticker": "CHRS",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTTR",
+      "price": 14.96
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.9725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTTR",
+      "price": 14.94
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.8689
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTTR",
+      "price": 14.925
+    },
+    {
+      "ticker": "HMG",
+      "price": 14.7811
+    }
+  ]
+}

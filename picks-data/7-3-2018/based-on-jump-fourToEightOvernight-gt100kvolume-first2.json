@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKER",
+      "price": 0.393
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.2299
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKER",
+      "price": 0.395
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.225
+    }
+  ],
+  "16": [
+    {
+      "ticker": "YUMA",
+      "price": 0.63
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "YUMA",
+      "price": 0.7003
+    },
+    {
+      "ticker": "VERU",
+      "price": 2.04
+    }
+  ]
+}

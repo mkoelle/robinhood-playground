@@ -1,0 +1,38 @@
+{
+  "10": [
+    {
+      "ticker": "GBR",
+      "price": 6.83
+    },
+    {
+      "ticker": "VNET",
+      "price": 8.9
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GBR",
+      "price": 6.97
+    },
+    {
+      "ticker": "FRD",
+      "price": 8.2699
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VTL",
+      "price": 6.825
+    }
+  ],
+  "300": [
+    {
+      "ticker": "VTL",
+      "price": 6.75
+    }
+  ]
+}

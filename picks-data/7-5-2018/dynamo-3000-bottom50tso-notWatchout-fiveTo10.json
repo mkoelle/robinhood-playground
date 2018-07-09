@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "UXIN",
+      "price": 7.7601
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.9501
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.6
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.4
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMSC",
+      "price": 5.8878
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.77
+    },
+    {
+      "ticker": "XSPL",
+      "price": 7.25
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.5285
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.2995
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XSPL",
+      "price": 6.8
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.7558
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.98
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.5765
+    },
+    {
+      "ticker": "NRT",
+      "price": 7.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XSPL",
+      "price": 6.8646
+    },
+    {
+      "ticker": "UXIN",
+      "price": 7.71
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.95
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.6
+    },
+    {
+      "ticker": "NOA",
+      "price": 5.5
+    }
+  ]
+}

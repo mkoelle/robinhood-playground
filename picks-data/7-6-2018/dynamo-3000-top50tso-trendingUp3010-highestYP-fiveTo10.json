@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LFVN",
+      "price": 8.04
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.188
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 8.925
+    },
+    {
+      "ticker": "LFVN",
+      "price": 7.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 8.975
+    },
+    {
+      "ticker": "LFVN",
+      "price": 7.9729
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 9.105
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 8.34
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.3
+    }
+  ]
+}

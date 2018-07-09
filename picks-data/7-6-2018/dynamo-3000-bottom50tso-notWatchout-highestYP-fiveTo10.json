@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "AMRS",
+      "price": 6.0699
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 8.15
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMBR",
+      "price": 9.51
+    },
+    {
+      "ticker": "FLDM",
+      "price": 5.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMBR",
+      "price": 9.4021
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMBR",
+      "price": 9.47
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ]
+}

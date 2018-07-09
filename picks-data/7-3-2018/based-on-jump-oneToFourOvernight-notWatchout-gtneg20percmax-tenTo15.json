@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ECA",
+      "price": 13.21
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.47
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.455
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.71
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ECA",
+      "price": 13.15
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.43
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.74
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.205
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ECA",
+      "price": 13.18
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.5
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.77
+    },
+    {
+      "ticker": "ITCB",
+      "price": 14.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ECA",
+      "price": 13.08
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.32
+    },
+    {
+      "ticker": "ERF",
+      "price": 12.79
+    },
+    {
+      "ticker": "ITCB",
+      "price": 14.69
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "GOGO",
+      "price": 4.94
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WIT",
+      "price": 4.9
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.655
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.96
+    },
+    {
+      "ticker": "GOGO",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.78
+    }
+  ]
+}

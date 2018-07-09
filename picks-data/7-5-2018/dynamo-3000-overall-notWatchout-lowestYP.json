@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2207
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.5828
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2205
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4623
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4739
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2202
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4738
+    }
+  ]
+}

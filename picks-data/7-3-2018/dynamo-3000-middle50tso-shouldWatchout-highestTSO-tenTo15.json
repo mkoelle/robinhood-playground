@@ -1,0 +1,48 @@
+{
+  "4": [
+    {
+      "ticker": "FLEX",
+      "price": 13.995
+    },
+    {
+      "ticker": "AFI",
+      "price": 14.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCRN",
+      "price": 11.42
+    },
+    {
+      "ticker": "DF",
+      "price": 10.555
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNAP",
+      "price": 13.19
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 10.74
+    },
+    {
+      "ticker": "ALNA",
+      "price": 13.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TACO",
+      "price": 14.24
+    }
+  ]
+}

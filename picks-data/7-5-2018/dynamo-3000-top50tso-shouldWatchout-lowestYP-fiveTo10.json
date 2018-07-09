@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DWT",
+      "price": 6.335
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DWT",
+      "price": 6.3208
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DWT",
+      "price": 6.355
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWT",
+      "price": 6.38
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.21
+    }
+  ]
+}

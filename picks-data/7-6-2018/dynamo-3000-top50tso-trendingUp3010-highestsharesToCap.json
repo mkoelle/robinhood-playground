@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "THM",
+      "price": 0.5699
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "THM",
+      "price": 0.5736
+    },
+    {
+      "ticker": "AMTX",
+      "price": 1.7816
+    }
+  ],
+  "260": [
+    {
+      "ticker": "THM",
+      "price": 0.5736
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "THM",
+      "price": 0.586
+    },
+    {
+      "ticker": "CVRS",
+      "price": 1.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALN",
+      "price": 0.2249
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5766
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "OCIP",
+      "price": 11.4845
+    },
+    {
+      "ticker": "PML",
+      "price": 13.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BRT",
+      "price": 13.29
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ERH",
+      "price": 12.336
+    },
+    {
+      "ticker": "MZF",
+      "price": 14.353
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFSI",
+      "price": 14.5801
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.03
+    }
+  ]
+}

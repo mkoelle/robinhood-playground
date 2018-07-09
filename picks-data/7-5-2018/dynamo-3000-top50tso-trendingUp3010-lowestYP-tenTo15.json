@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 11.12
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 10.9899
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.985
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYBX",
+      "price": 11.065
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYBX",
+      "price": 10.93
+    },
+    {
+      "ticker": "TRUE",
+      "price": 11
+    }
+  ]
+}

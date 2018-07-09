@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MMT",
+      "price": 5.639
+    },
+    {
+      "ticker": "EAD",
+      "price": 7.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMZA",
+      "price": 7.315
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.735
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KYE",
+      "price": 9.5
+    },
+    {
+      "ticker": "INB",
+      "price": 9.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TPIV",
+      "price": 9.76
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.615
+    }
+  ]
+}

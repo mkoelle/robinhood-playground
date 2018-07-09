@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CLCT",
+      "price": 14.58
+    },
+    {
+      "ticker": "TRUE",
+      "price": 10.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLCT",
+      "price": 14.24
+    },
+    {
+      "ticker": "XNET",
+      "price": 11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KALA",
+      "price": 13.17
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 12.65
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPNT",
+      "price": 13.28
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.25
+    }
+  ]
+}

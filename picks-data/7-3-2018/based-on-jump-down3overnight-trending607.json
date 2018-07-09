@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "BASI",
+      "price": 1.86
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BASI",
+      "price": 2.059
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1828
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BASI",
+      "price": 1.891
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1844
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.87
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUMU",
+      "price": 2.212
+    },
+    {
+      "ticker": "BASI",
+      "price": 2.06
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.4619
+    },
+    {
+      "ticker": "GLOW",
+      "price": 0.1922
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.87
+    }
+  ]
+}

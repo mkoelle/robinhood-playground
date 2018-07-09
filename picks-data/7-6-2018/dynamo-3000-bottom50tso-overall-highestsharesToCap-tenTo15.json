@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 10.06
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOCA",
+      "price": 10.015
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 10.061
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NWHM",
+      "price": 10.19
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.575
+    }
+  ]
+}

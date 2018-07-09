@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CHRS",
+      "price": 14.9
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.9725
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.92
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.6501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "XON",
+      "price": 14.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XON",
+      "price": 14.53
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.61
+    }
+  ]
+}

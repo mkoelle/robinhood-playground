@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DGII",
+      "price": 13.875
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.875
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.25
+    }
+  ]
+}

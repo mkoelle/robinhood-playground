@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.0201
+    },
+    {
+      "ticker": "GE",
+      "price": 13.3608
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRNA",
+      "price": 13.8069
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.935
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GE",
+      "price": 13.3884
+    },
+    {
+      "ticker": "VRNA",
+      "price": 13.8069
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNHI",
+      "price": 10.285
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    }
+  ]
+}

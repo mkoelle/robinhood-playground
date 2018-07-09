@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 12.95
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLP",
+      "price": 12.802
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.715
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLP",
+      "price": 12.775
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLP",
+      "price": 12.66
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLP",
+      "price": 12.7
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.61
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PAVM",
+      "price": 1.21
+    },
+    {
+      "ticker": "NVAX",
+      "price": 1.35
+    },
+    {
+      "ticker": "FTR",
+      "price": 5.045
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PAVM",
+      "price": 1.275
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.805
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PAVM",
+      "price": 1.18
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.8259
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.395
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDS",
+      "price": 3.385
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.2025
+    },
+    {
+      "ticker": "TGC",
+      "price": 2.4
+    }
+  ]
+}

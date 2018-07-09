@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SA",
+      "price": 11.525
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QUOT",
+      "price": 14.225
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRC",
+      "price": 13.4
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIGI",
+      "price": 10.8
+    },
+    {
+      "ticker": "ITUB",
+      "price": 10.905
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPE",
+      "price": 10.855
+    },
+    {
+      "ticker": "RCUS",
+      "price": 12.99
+    }
+  ]
+}

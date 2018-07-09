@@ -1,0 +1,112 @@
+{
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.291
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.28
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.55
+    },
+    {
+      "ticker": "GALT",
+      "price": 7.03
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKS",
+      "price": 5.425
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.78
+    },
+    {
+      "ticker": "GEMP",
+      "price": 8.1584
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.38
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKS",
+      "price": 5.375
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.6867
+    },
+    {
+      "ticker": "GEMP",
+      "price": 8.1098
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.91
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.83
+    },
+    {
+      "ticker": "MRNS",
+      "price": 7.39
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.975
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.651
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.81
+    },
+    {
+      "ticker": "GEMP",
+      "price": 8.05
+    }
+  ]
+}

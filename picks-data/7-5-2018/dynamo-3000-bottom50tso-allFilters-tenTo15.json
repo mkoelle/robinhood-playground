@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 13.05
+    },
+    {
+      "ticker": "RMCF",
+      "price": 11.154
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.795
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.845
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.001
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.78
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.775
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.69
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.025
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.75
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "ECA",
+      "price": 12.71
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.57
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.25
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.08
+    }
+  ]
+}

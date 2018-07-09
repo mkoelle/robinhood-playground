@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "OCC",
+      "price": 3.8
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SENS",
+      "price": 4.245
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3111
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SENS",
+      "price": 4.2399
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.3101
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SENS",
+      "price": 4.25
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SENS",
+      "price": 4.165
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.2949
+    }
+  ]
+}

@@ -64,5 +64,49 @@
       "ticker": "USEG",
       "price": 1.3649
     }
+  ],
+  "575": [
+    {
+      "ticker": "MNGA",
+      "price": 0.3601
+    },
+    {
+      "ticker": "CLDC",
+      "price": 3.3
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.3849
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.33
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.79
+    }
+  ],
+  "583": [
+    {
+      "ticker": "MNGA",
+      "price": 0.3601
+    },
+    {
+      "ticker": "CLDC",
+      "price": 3.3
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.3849
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.33
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.79
+    }
   ]
 }

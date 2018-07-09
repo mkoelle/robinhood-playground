@@ -1,0 +1,50 @@
+{
+  "10": [
+    {
+      "ticker": "PES",
+      "price": 5.4
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.1856
+    },
+    {
+      "ticker": "NE",
+      "price": 6.255
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PES",
+      "price": 5.35
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.1099
+    },
+    {
+      "ticker": "NE",
+      "price": 6.085
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PES",
+      "price": 5.325
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.925
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PES",
+      "price": 5.3
+    },
+    {
+      "ticker": "ESV",
+      "price": 7
+    }
+  ]
+}

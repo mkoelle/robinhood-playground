@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    },
+    {
+      "ticker": "MXC",
+      "price": 7.7388
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    },
+    {
+      "ticker": "MXC",
+      "price": 7.5825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 7.3183
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.03
+    },
+    {
+      "ticker": "MXC",
+      "price": 7.1501
+    }
+  ]
+}

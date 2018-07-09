@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ALN",
+      "price": 0.2127
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.215
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3856
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALN",
+      "price": 0.2147
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ALN",
+      "price": 0.218
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ALN",
+      "price": 0.2249
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3897
+    }
+  ]
+}

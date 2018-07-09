@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MXE",
+      "price": 10.61
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSIQ",
+      "price": 12.5
+    },
+    {
+      "ticker": "CDOR",
+      "price": 10.7484
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SXC",
+      "price": 13.805
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.65
+    }
+  ]
+}

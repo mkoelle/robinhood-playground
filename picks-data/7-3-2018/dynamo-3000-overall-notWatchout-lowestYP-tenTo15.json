@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SCO",
+      "price": 14.82
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.8563
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 11.3
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.186
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.775
+    },
+    {
+      "ticker": "DM",
+      "price": 13.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.84
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.38
+    }
+  ]
+}

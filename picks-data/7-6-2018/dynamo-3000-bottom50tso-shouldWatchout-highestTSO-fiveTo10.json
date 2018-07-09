@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 8.9578
+    },
+    {
+      "ticker": "OCUL",
+      "price": 6.4282
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 9.12
+    },
+    {
+      "ticker": "RKDA",
+      "price": 7.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRD.B",
+      "price": 8.69
+    },
+    {
+      "ticker": "DEPO",
+      "price": 6.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNPX",
+      "price": 7.86
+    },
+    {
+      "ticker": "DAIO",
+      "price": 6.374
+    }
+  ]
+}

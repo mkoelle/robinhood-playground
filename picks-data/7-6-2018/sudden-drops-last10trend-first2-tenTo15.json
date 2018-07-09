@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "FENC",
+      "price": 10.4
+    },
+    {
+      "ticker": "GLMD",
+      "price": 11.5
+    }
+  ],
+  "280": [
+    {
+      "ticker": "EXPI",
+      "price": 10.9545
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.3
+    }
+  ],
+  "328": [
+    {
+      "ticker": "MGTX",
+      "price": 12.46
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.33
+    }
+  ],
+  "388": [
+    {
+      "ticker": "CMTA",
+      "price": 12.25
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.76
+    }
+  ]
+}

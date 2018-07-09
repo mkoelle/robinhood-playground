@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EIGI",
+      "price": 10.1
+    },
+    {
+      "ticker": "GRBK",
+      "price": 10.1485
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CZR",
+      "price": 10.65
+    },
+    {
+      "ticker": "OMN",
+      "price": 10.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSRM",
+      "price": 10.13
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DZSI",
+      "price": 10.01
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DZSI",
+      "price": 10.08
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.15
+    }
+  ]
+}

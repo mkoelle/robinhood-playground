@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ANH",
+      "price": 5.06
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.4075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 5.0399
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.0362
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PPR",
+      "price": 5.0301
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.065
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.025
+    }
+  ]
+}

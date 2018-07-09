@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 10.375
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 10.245
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.2775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PBR",
+      "price": 10.26
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.2575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PBR",
+      "price": 10.265
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.23
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MXE",
+      "price": 10.61
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSIQ",
+      "price": 12.5
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.095
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SXC",
+      "price": 13.805
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.13
+    }
+  ]
+}

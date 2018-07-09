@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IDXG",
+      "price": 0.906
+    },
+    {
+      "ticker": "RSYS",
+      "price": 1.514
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSS",
+      "price": 0.6801
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5952
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALN",
+      "price": 0.204
+    },
+    {
+      "ticker": "AXU",
+      "price": 1.361
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.204
+    },
+    {
+      "ticker": "INUV",
+      "price": 0.7498
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HEB",
+      "price": 0.3044
+    },
+    {
+      "ticker": "DAC",
+      "price": 2.25
+    }
+  ]
+}

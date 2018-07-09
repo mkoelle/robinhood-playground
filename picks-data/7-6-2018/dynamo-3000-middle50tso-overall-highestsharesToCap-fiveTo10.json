@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TAC",
+      "price": 5.145
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LGL",
+      "price": 5.245
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EMKR",
+      "price": 5.075
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EMKR",
+      "price": 5.05
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.175
+    }
+  ]
+}

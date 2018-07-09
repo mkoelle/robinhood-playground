@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "IGLD",
+      "price": 3.19
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.2216
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAIT",
+      "price": 2.3
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAIT",
+      "price": 2.3618
+    },
+    {
+      "ticker": "NVLN",
+      "price": 4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVLN",
+      "price": 4.04
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.3871
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVLN",
+      "price": 4.045
+    },
+    {
+      "ticker": "EVK",
+      "price": 2.9
+    }
+  ]
+}

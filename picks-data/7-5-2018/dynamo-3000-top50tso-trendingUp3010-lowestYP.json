@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ICON",
+      "price": 0.69
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IGLD",
+      "price": 3
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IGLD",
+      "price": 3.109
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7909
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IGLD",
+      "price": 3.0524
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.997
+    }
+  ]
+}

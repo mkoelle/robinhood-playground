@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TACO",
+      "price": 14.7
+    },
+    {
+      "ticker": "RUN",
+      "price": 14.8925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TACO",
+      "price": 14.67
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.131
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TACO",
+      "price": 14.65
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ]
+}

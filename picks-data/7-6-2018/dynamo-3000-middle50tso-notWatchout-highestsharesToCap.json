@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.21
+    },
+    {
+      "ticker": "BXE",
+      "price": 0.9805
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EMX",
+      "price": 1.0236
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.439
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CJJD",
+      "price": 1.439
+    },
+    {
+      "ticker": "ECT",
+      "price": 2.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AAU",
+      "price": 0.72
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.0275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2299
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.7203
+    }
+  ]
+}

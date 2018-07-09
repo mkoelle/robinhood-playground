@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NH",
+      "price": 3.19
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NH",
+      "price": 3.19
+    },
+    {
+      "ticker": "BASI",
+      "price": 2.059
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NH",
+      "price": 3.42
+    },
+    {
+      "ticker": "BASI",
+      "price": 1.891
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUMU",
+      "price": 2.212
+    },
+    {
+      "ticker": "NH",
+      "price": 3.42
+    }
+  ]
+}

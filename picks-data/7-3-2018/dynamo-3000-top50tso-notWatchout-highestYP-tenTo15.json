@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AGLE",
+      "price": 10.93
+    },
+    {
+      "ticker": "FNKO",
+      "price": 13.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRNA",
+      "price": 13.35
+    },
+    {
+      "ticker": "VG",
+      "price": 13.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LFGR",
+      "price": 11.2
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRNA",
+      "price": 13.2701
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 13.26
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.25
+    }
+  ]
+}

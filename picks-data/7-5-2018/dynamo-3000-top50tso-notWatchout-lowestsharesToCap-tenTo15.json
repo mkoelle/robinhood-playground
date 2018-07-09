@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "WBAI",
+      "price": 14.8424
+    },
+    {
+      "ticker": "AOSL",
+      "price": 14.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.9
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.95
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BWL.A",
+      "price": 14.95
+    },
+    {
+      "ticker": "WSTG",
+      "price": 14.1
+    }
+  ]
+}

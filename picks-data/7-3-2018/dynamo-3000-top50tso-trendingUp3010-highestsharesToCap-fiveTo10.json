@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NRO",
+      "price": 5.08
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SORL",
+      "price": 5.0799
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 5.03
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNE",
+      "price": 5.7701
+    },
+    {
+      "ticker": "CNFR",
+      "price": 7.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 5.07
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.72
+    }
+  ]
+}

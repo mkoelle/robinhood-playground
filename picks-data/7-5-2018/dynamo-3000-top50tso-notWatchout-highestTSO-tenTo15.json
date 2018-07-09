@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 13.52
+    },
+    {
+      "ticker": "FNKO",
+      "price": 14.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVLO",
+      "price": 13.095
+    },
+    {
+      "ticker": "AP",
+      "price": 10.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVLO",
+      "price": 13.38
+    },
+    {
+      "ticker": "PRCP",
+      "price": 11.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVLO",
+      "price": 13.13
+    },
+    {
+      "ticker": "PRCP",
+      "price": 12.07
+    }
+  ]
+}

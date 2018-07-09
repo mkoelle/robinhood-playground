@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "CXE",
+      "price": 4.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "CXE",
+      "price": 4.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.9399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.96
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRIB",
+      "price": 4.97
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.84
+    }
+  ]
+}

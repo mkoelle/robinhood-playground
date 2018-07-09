@@ -1,0 +1,90 @@
+{
+  "200": [
+    {
+      "ticker": "BLCM",
+      "price": 8.09
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.4241
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.84
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.42
+    },
+    {
+      "ticker": "OVID",
+      "price": 8.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IFMK",
+      "price": 5.42
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.79
+    },
+    {
+      "ticker": "GALT",
+      "price": 6.49
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.44
+    },
+    {
+      "ticker": "ADRO",
+      "price": 7.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "PRPL",
+      "price": 8.45
+    },
+    {
+      "ticker": "XTNT",
+      "price": 5.8362
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.75
+    },
+    {
+      "ticker": "BLCM",
+      "price": 8.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASYS",
+      "price": 5.9301
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.75
+    },
+    {
+      "ticker": "PVG",
+      "price": 7.85
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.7
+    },
+    {
+      "ticker": "OVID",
+      "price": 8.66
+    }
+  ]
+}

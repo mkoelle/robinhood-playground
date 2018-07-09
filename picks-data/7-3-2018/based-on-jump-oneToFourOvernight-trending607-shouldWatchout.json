@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "TGC",
+      "price": 0.98
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.18
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.25
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.45
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.8834
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.209
+    },
+    {
+      "ticker": "DAC",
+      "price": 2.25
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2486
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGC",
+      "price": 1.8259
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.2201
+    },
+    {
+      "ticker": "DAC",
+      "price": 2.2337
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.25
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.4318
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDN",
+      "price": 2.2
+    },
+    {
+      "ticker": "TGC",
+      "price": 2.4
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.215
+    },
+    {
+      "ticker": "DAC",
+      "price": 2.173
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.25
+    }
+  ]
+}

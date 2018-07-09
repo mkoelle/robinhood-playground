@@ -1,0 +1,72 @@
+{
+  "100": [
+    {
+      "ticker": "ELVT",
+      "price": 10.15
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.64
+    },
+    {
+      "ticker": "SIEB",
+      "price": 13.0201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELVT",
+      "price": 10.115
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.74
+    },
+    {
+      "ticker": "REI",
+      "price": 13.195
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELVT",
+      "price": 10.1093
+    },
+    {
+      "ticker": "REI",
+      "price": 13.295
+    },
+    {
+      "ticker": "SPNS",
+      "price": 10.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELVT",
+      "price": 10.155
+    },
+    {
+      "ticker": "REI",
+      "price": 13.38
+    },
+    {
+      "ticker": "SPNS",
+      "price": 10.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REI",
+      "price": 13.34
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.7
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.75
+    }
+  ]
+}

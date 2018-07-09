@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EIGI",
+      "price": 10.1
+    },
+    {
+      "ticker": "ACMR",
+      "price": 9.9342
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 12.0001
+    },
+    {
+      "ticker": "RDVT",
+      "price": 10.2717
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSRM",
+      "price": 10.13
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.57
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.43
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.08
+    }
+  ]
+}

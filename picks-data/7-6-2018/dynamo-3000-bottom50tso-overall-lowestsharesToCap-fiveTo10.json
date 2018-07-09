@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "PHIIK",
+      "price": 9.87
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 9.95
+    },
+    {
+      "ticker": "PHIIK",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOCA",
+      "price": 9.6867
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TOCA",
+      "price": 9.8
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TOCA",
+      "price": 9.81
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.9052
+    }
+  ]
+}

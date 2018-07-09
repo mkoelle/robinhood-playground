@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SA",
+      "price": 11.525
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QUOT",
+      "price": 14.225
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRC",
+      "price": 13.4
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.7848
+    },
+    {
+      "ticker": "WOW",
+      "price": 11.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XON",
+      "price": 14.53
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.545
+    }
+  ]
+}

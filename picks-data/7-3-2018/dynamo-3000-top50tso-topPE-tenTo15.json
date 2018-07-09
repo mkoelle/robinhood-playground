@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JMF",
+      "price": 10.78
+    },
+    {
+      "ticker": "SBLK",
+      "price": 12.81
+    },
+    {
+      "ticker": "FRAC",
+      "price": 12.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 13.37
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.95
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 13.5
+    },
+    {
+      "ticker": "JMF",
+      "price": 10.75
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 13.47
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.01
+    },
+    {
+      "ticker": "INN",
+      "price": 14.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 13.44
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.75
+    },
+    {
+      "ticker": "FRAC",
+      "price": 12.85
+    }
+  ]
+}

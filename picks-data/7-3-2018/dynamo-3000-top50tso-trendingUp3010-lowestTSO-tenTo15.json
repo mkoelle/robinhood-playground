@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VG",
+      "price": 12.93
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NDP",
+      "price": 12.62
+    },
+    {
+      "ticker": "VG",
+      "price": 13.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABX",
+      "price": 13.455
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 10.6
+    },
+    {
+      "ticker": "PICO",
+      "price": 11.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 10.52
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.44
+    }
+  ]
+}

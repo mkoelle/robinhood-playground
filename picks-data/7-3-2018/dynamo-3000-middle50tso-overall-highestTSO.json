@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GERN",
+      "price": 3.51
+    },
+    {
+      "ticker": "CNAT",
+      "price": 4.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DFBG",
+      "price": 3.39
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AXU",
+      "price": 1.361
+    },
+    {
+      "ticker": "ANFI",
+      "price": 2.3101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASPN",
+      "price": 4.83
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.4701
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REED",
+      "price": 2.825
+    },
+    {
+      "ticker": "CIK",
+      "price": 3.13
+    }
+  ]
+}

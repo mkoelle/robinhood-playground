@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 7.8748
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GBR",
+      "price": 6.9001
+    },
+    {
+      "ticker": "QD",
+      "price": 8.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GBR",
+      "price": 6.5227
+    },
+    {
+      "ticker": "WTI",
+      "price": 6.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 8.8802
+    },
+    {
+      "ticker": "EAST",
+      "price": 8.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 8.67
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.24
+    }
+  ]
+}

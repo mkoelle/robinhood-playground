@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NTRP",
+      "price": 9.8999
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 9.8
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 9.815
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 9.641
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTAI",
+      "price": 9.7651
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTAI",
+      "price": 9.98
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.87
+    }
+  ]
+}

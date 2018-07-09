@@ -1,0 +1,96 @@
+{
+  "100": [
+    {
+      "ticker": "CDXC",
+      "price": 4.28
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5699
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.94
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.2216
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDXC",
+      "price": 4.33
+    },
+    {
+      "ticker": "NBY",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5736
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.91
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NBY",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5736
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.91
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.3618
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NBY",
+      "price": 2.45
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.93
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.15
+    },
+    {
+      "ticker": "THM",
+      "price": 0.586
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NBY",
+      "price": 2.45
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5766
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.9499
+    }
+  ]
+}

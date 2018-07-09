@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 10.09
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.5872
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 7.78
+    },
+    {
+      "ticker": "XONE",
+      "price": 7.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 7.84
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 8.09
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NETE",
+      "price": 7.23
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.97
+    }
+  ]
+}

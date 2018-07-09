@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.245
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.0099
+    }
+  ]
+}

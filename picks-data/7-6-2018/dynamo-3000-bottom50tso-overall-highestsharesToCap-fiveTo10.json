@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ITI",
+      "price": 5.26
+    },
+    {
+      "ticker": "ONCY",
+      "price": 5.4481
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDTX",
+      "price": 5.125
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.1048
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITI",
+      "price": 5.28
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.24
+    }
+  ]
+}

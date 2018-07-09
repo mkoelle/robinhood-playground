@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RUN",
+      "price": 14.8925
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 13.68
+    },
+    {
+      "ticker": "AMRC",
+      "price": 12.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRNA",
+      "price": 13.685
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRNA",
+      "price": 13.8
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 15
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMRK",
+      "price": 15.02
+    },
+    {
+      "ticker": "USO",
+      "price": 14.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMRK",
+      "price": 14.98
+    },
+    {
+      "ticker": "USO",
+      "price": 14.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.79
+    },
+    {
+      "ticker": "GLQ",
+      "price": 14.28
+    }
+  ]
+}

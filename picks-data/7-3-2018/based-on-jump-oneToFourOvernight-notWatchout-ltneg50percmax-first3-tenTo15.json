@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "UGP",
+      "price": 11.95
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UGP",
+      "price": 11.92
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.8
+    },
+    {
+      "ticker": "DM",
+      "price": 13.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UGP",
+      "price": 11.885
+    },
+    {
+      "ticker": "BFR",
+      "price": 11.996
+    },
+    {
+      "ticker": "DM",
+      "price": 13.6499
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UGP",
+      "price": 11.9
+    },
+    {
+      "ticker": "BFR",
+      "price": 12.22
+    },
+    {
+      "ticker": "DM",
+      "price": 13.625
+    }
+  ]
+}

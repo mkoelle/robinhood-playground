@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EPRT",
+      "price": 13.78
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCA",
+      "price": 10.15
+    },
+    {
+      "ticker": "SLVP",
+      "price": 10.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPOA",
+      "price": 10.01
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SEA",
+      "price": 10.0785
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMLP",
+      "price": 10.12
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    }
+  ]
+}

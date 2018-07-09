@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "NETE",
+      "price": 7.62
+    },
+    {
+      "ticker": "TCCO",
+      "price": 5.3501
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDVT",
+      "price": 9.7796
+    },
+    {
+      "ticker": "NETE",
+      "price": 7.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDVT",
+      "price": 9.58
+    },
+    {
+      "ticker": "NETE",
+      "price": 7.6528
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 9.3961
+    },
+    {
+      "ticker": "NETE",
+      "price": 7.57
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 9.3768
+    },
+    {
+      "ticker": "LXU",
+      "price": 5.96
+    }
+  ]
+}

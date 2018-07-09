@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TACO",
+      "price": 14.7
+    },
+    {
+      "ticker": "DDD",
+      "price": 14.295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECOM",
+      "price": 14.9
+    },
+    {
+      "ticker": "TACO",
+      "price": 14.67
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACO",
+      "price": 14.63
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TACO",
+      "price": 14.65
+    },
+    {
+      "ticker": "CLUB",
+      "price": 14.65
+    }
+  ]
+}

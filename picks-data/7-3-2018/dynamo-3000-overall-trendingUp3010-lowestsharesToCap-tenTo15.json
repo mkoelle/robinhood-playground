@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NSSC",
+      "price": 14.85
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.925
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAST",
+      "price": 14.919
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USO",
+      "price": 14.83
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USO",
+      "price": 14.94
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USO",
+      "price": 14.92
+    },
+    {
+      "ticker": "UBX",
+      "price": 14.86
+    }
+  ]
+}

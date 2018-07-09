@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "XRM",
+      "price": 13.24
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.925
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XRM",
+      "price": 13.255
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMRC",
+      "price": 12.3001
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GAIN",
+      "price": 11.89
+    },
+    {
+      "ticker": "GPOR",
+      "price": 12.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ERF",
+      "price": 12.64
+    },
+    {
+      "ticker": "GAIN",
+      "price": 11.89
+    }
+  ]
+}

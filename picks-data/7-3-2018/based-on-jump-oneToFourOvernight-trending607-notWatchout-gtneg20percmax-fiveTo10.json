@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.8773
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.8
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3334
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.92
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.6657
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3738
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.1665
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.58
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.9601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.245
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3487
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.41
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.955
+    }
+  ]
+}

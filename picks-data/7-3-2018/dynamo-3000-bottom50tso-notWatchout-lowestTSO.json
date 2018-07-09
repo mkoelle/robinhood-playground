@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "USEG",
+      "price": 1.4
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3299
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2283
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CJJD",
+      "price": 1.42
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.4605
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USEG",
+      "price": 1.4
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USEG",
+      "price": 1.4
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ]
+}

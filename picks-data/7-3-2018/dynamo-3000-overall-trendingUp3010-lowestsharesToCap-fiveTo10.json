@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 10.09
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 9.53
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNET",
+      "price": 9.88
+    },
+    {
+      "ticker": "JHY",
+      "price": 9.9975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DSKE",
+      "price": 9.95
+    },
+    {
+      "ticker": "JHY",
+      "price": 9.9275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DSKE",
+      "price": 9.97
+    },
+    {
+      "ticker": "JHY",
+      "price": 9.9275
+    }
+  ]
+}

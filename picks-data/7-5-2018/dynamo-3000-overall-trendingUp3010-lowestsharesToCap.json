@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TRIB",
+      "price": 4.8812
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 4.945
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.926
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRIB",
+      "price": 4.989
+    },
+    {
+      "ticker": "EVC",
+      "price": 4.875
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 5.3334
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ESV",
+      "price": 7.21
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3738
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 9.07
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNET",
+      "price": 9.46
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.15
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.3487
+    }
+  ]
+}

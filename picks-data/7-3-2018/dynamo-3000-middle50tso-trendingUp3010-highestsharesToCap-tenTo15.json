@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EEQ",
+      "price": 10.22
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.305
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVM",
+      "price": 10.37
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSHT",
+      "price": 10.14
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEP",
+      "price": 10.74
+    },
+    {
+      "ticker": "ENX",
+      "price": 11.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVM",
+      "price": 10.36
+    },
+    {
+      "ticker": "PZC",
+      "price": 10.5
+    }
+  ]
+}

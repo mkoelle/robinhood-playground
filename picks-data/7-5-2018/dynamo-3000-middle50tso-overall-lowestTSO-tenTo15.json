@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.0201
+    },
+    {
+      "ticker": "PML",
+      "price": 13.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFN",
+      "price": 10.5837
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.935
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCA",
+      "price": 10.283
+    },
+    {
+      "ticker": "NKX",
+      "price": 13.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BHK",
+      "price": 12.79
+    },
+    {
+      "ticker": "SOIL",
+      "price": 10.2292
+    }
+  ]
+}

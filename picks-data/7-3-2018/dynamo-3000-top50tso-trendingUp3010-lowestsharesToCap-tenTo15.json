@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FNKO",
+      "price": 13.52
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.465
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLUB",
+      "price": 14.325
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.4584
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLUB",
+      "price": 14.325
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 13.47
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 13.44
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.02
+    }
+  ]
+}

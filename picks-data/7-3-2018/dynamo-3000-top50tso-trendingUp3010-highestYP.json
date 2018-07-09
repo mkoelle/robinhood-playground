@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WMIH",
+      "price": 1.4425
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 4.02
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 4.1213
+    },
+    {
+      "ticker": "TGA",
+      "price": 2.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 4.15
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.576
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 4.12
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.24
+    }
+  ]
+}

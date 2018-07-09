@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 3.18
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAEX",
+      "price": 2.9354
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAEX",
+      "price": 2.7473
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAEX",
+      "price": 2.615
+    },
+    {
+      "ticker": "USEG",
+      "price": 1.6785
+    }
+  ]
+}

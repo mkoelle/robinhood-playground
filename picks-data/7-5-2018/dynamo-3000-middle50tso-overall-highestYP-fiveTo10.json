@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "FBP",
+      "price": 7.855
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ELON",
+      "price": 8.304
+    },
+    {
+      "ticker": "NE",
+      "price": 6.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CERS",
+      "price": 6.99
+    },
+    {
+      "ticker": "CTIC",
+      "price": 5.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XPLR",
+      "price": 5.96
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.3161
+    }
+  ]
+}

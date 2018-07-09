@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 10.09
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 9.53
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNET",
+      "price": 9.88
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 9.475
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OCLR",
+      "price": 8.67
+    },
+    {
+      "ticker": "CNTY",
+      "price": 8.49
+    }
+  ]
+}

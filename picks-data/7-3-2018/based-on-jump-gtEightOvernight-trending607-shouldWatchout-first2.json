@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 3.18
+    },
+    {
+      "ticker": "UONE",
+      "price": 3.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAEX",
+      "price": 2.9354
+    },
+    {
+      "ticker": "UONE",
+      "price": 3.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAEX",
+      "price": 2.7473
+    },
+    {
+      "ticker": "UONE",
+      "price": 3.1797
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAEX",
+      "price": 2.615
+    },
+    {
+      "ticker": "UONE",
+      "price": 3.4
+    }
+  ]
+}

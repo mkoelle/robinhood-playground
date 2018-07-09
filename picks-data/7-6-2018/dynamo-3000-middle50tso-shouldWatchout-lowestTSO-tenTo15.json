@@ -1,0 +1,48 @@
+{
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 11.47
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.945
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HRG",
+      "price": 13.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNGR",
+      "price": 10.2
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    },
+    {
+      "ticker": "SELB",
+      "price": 12.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RNGR",
+      "price": 10.19
+    },
+    {
+      "ticker": "HRG",
+      "price": 13.915
+    }
+  ]
+}

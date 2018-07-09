@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "PRKR",
+      "price": 0.7799
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.79
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PRKR",
+      "price": 0.7401
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.691
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.72
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.42
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.4452
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.74
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7203
+    },
+    {
+      "ticker": "FNJN",
+      "price": 3.43
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.75
+    },
+    {
+      "ticker": "HSON",
+      "price": 1.69
+    }
+  ]
+}

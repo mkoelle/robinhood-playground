@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 11.38
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 11.24
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.4584
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 10.33
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.775
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.84
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.52
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "THM",
+      "price": 0.5466
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EBR",
+      "price": 3.82
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIB",
+      "price": 4.926
+    },
+    {
+      "ticker": "OIIM",
+      "price": 1.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLRB",
+      "price": 0.6191
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 4.27
+    }
+  ]
+}

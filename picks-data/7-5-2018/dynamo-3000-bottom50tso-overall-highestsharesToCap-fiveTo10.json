@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRSH",
+      "price": 5.24
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.03
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.125
+    }
+  ]
+}

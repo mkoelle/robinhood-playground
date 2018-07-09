@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MACK",
+      "price": 4.85
+    },
+    {
+      "ticker": "HBP",
+      "price": 4.615
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADMP",
+      "price": 4.76
+    },
+    {
+      "ticker": "BLNK",
+      "price": 4.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMP",
+      "price": 4.6686
+    },
+    {
+      "ticker": "BLNK",
+      "price": 4.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.4331
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "ADMP",
+      "price": 4.5
+    }
+  ]
+}

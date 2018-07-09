@@ -1,0 +1,58 @@
+{
+  "200": [
+    {
+      "ticker": "IPOA",
+      "price": 10.0084
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.0922
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JDD",
+      "price": 11.57
+    },
+    {
+      "ticker": "GGZ",
+      "price": 12.0862
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2495
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEM",
+      "price": 14.1
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.265
+    },
+    {
+      "ticker": "OUNZ",
+      "price": 12.3429
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FLY",
+      "price": 13.93
+    },
+    {
+      "ticker": "YLCO",
+      "price": 11.8
+    },
+    {
+      "ticker": "GGZ",
+      "price": 12.0815
+    }
+  ]
+}

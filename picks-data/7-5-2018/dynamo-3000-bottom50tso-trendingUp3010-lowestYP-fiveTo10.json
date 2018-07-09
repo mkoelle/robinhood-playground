@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "ABDC",
+      "price": 6.51
+    },
+    {
+      "ticker": "SGMA",
+      "price": 7.364
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABDC",
+      "price": 6.51
+    },
+    {
+      "ticker": "KALV",
+      "price": 8.6001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABDC",
+      "price": 6.52
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 9.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABDC",
+      "price": 6.52
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.6
+    }
+  ]
+}

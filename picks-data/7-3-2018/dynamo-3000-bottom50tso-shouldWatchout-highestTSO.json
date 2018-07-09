@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KNDI",
+      "price": 4.3
+    },
+    {
+      "ticker": "MTBC",
+      "price": 3.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HGSH",
+      "price": 1.4683
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.5062
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMDA",
+      "price": 0.871
+    },
+    {
+      "ticker": "CHFS",
+      "price": 1.6901
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RSLS",
+      "price": 2.14
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4373
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QTM",
+      "price": 2.02
+    },
+    {
+      "ticker": "CHFS",
+      "price": 1.66
+    }
+  ]
+}

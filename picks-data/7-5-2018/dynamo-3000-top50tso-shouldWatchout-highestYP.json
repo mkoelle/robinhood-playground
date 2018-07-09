@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MEIP",
+      "price": 4.57
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MEIP",
+      "price": 4.51
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HOS",
+      "price": 4.5401
+    },
+    {
+      "ticker": "MEIP",
+      "price": 4.495
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HOS",
+      "price": 4.62
+    },
+    {
+      "ticker": "ENT",
+      "price": 2.92
+    }
+  ]
+}

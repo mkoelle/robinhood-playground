@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SCKT",
+      "price": 2.43
+    },
+    {
+      "ticker": "AGTC",
+      "price": 4.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CMU",
+      "price": 4.46
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.665
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTX",
+      "price": 2.12
+    },
+    {
+      "ticker": "SRRA",
+      "price": 3.055
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MFG",
+      "price": 3.35
+    },
+    {
+      "ticker": "KGC",
+      "price": 3.875
+    }
+  ]
+}

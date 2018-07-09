@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "MGI",
+      "price": 6.75
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.6048
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBM",
+      "price": 5.375
+    },
+    {
+      "ticker": "ORMP",
+      "price": 6.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HBM",
+      "price": 5.375
+    },
+    {
+      "ticker": "ORMP",
+      "price": 6.2799
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MGI",
+      "price": 6.78
+    },
+    {
+      "ticker": "CVV",
+      "price": 6.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLNY",
+      "price": 6.475
+    },
+    {
+      "ticker": "LPL",
+      "price": 8.175
+    }
+  ]
+}

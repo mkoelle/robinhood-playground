@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SYBX",
+      "price": 10.09
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.76
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 9.53
+    },
+    {
+      "ticker": "VCEL",
+      "price": 9.895
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNET",
+      "price": 9.88
+    },
+    {
+      "ticker": "VCEL",
+      "price": 9.825
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VCEL",
+      "price": 9.775
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VCEL",
+      "price": 9.9
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.77
+    }
+  ]
+}

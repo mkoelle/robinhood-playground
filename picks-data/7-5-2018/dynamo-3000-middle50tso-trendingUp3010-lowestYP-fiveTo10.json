@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CPTA",
+      "price": 8.3299
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.5699
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 5.0399
+    },
+    {
+      "ticker": "CPTA",
+      "price": 8.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FINZ",
+      "price": 8.5699
+    },
+    {
+      "ticker": "CRWS",
+      "price": 5.579
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPTA",
+      "price": 8.3348
+    },
+    {
+      "ticker": "FINZ",
+      "price": 8.5699
+    }
+  ]
+}

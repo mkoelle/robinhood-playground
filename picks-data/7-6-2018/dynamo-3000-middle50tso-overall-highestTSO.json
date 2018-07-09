@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TNP",
+      "price": 3.75
+    },
+    {
+      "ticker": "YTEN",
+      "price": 1.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGEN",
+      "price": 3.585
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOO",
+      "price": 2.65
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.6096
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGEN",
+      "price": 2.415
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIDM",
+      "price": 1.5708
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.45
+    }
+  ]
+}

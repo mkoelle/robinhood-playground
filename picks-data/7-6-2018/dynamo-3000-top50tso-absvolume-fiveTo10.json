@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "FRAN",
+      "price": 8.445
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SWN",
+      "price": 5.455
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "S",
+      "price": 5.62
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.78
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRYS",
+      "price": 6.2201
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.36
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VTL",
+      "price": 7.3
+    },
+    {
+      "ticker": "XBIO",
+      "price": 5.37
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VCYT",
+      "price": 9.995
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.4492
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FBP",
+      "price": 7.945
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENPH",
+      "price": 7.015
+    },
+    {
+      "ticker": "FBP",
+      "price": 7.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.9248
+    },
+    {
+      "ticker": "SHSP",
+      "price": 8.84
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 8.85
+    },
+    {
+      "ticker": "KEYW",
+      "price": 9.665
+    }
+  ]
+}

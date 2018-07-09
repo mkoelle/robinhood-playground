@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "CEI",
+      "price": 0.6
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2551
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEI",
+      "price": 0.6151
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2549
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.6204
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2546
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.6101
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2517
+    }
+  ]
+}

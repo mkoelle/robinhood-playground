@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EPRT",
+      "price": 13.78
+    },
+    {
+      "ticker": "SSW",
+      "price": 10.2728
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EPRT",
+      "price": 13.715
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EPRT",
+      "price": 13.65
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EPRT",
+      "price": 13.54
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EPRT",
+      "price": 13.47
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.08
+    }
+  ]
+}

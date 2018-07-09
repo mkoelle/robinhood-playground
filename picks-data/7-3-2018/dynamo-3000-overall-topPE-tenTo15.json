@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JNP",
+      "price": 11.425
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.39
+    },
+    {
+      "ticker": "DGII",
+      "price": 14.025
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIND",
+      "price": 13.37
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.05
+    },
+    {
+      "ticker": "DGII",
+      "price": 14.075
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 11.425
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.5
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIND",
+      "price": 13.47
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.9101
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.44
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.92
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 6.35
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.188
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 6.69
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARQL",
+      "price": 6.61
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 6.75
+    },
+    {
+      "ticker": "ABUS",
+      "price": 9.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.785
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.3
+    }
+  ]
+}

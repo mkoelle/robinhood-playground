@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 4.9865
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SORL",
+      "price": 4.9609
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.5338
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QHC",
+      "price": 4.99
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.9301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QHC",
+      "price": 4.88
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.935
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QHC",
+      "price": 4.94
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.8601
+    }
+  ]
+}

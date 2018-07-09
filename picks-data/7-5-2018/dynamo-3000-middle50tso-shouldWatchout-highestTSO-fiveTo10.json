@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 6.61
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "P",
+      "price": 7.985
+    },
+    {
+      "ticker": "LPTX",
+      "price": 9.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NVUS",
+      "price": 7
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVON",
+      "price": 9.59
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.76
+    }
+  ]
+}

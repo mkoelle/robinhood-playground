@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 11.09
+    },
+    {
+      "ticker": "JKS",
+      "price": 13.715
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 11.07
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 11.0149
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.93
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 14.0099
+    }
+  ]
+}

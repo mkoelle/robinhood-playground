@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CLDC",
+      "price": 2.3
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.471
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RGSE",
+      "price": 0.415
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RGSE",
+      "price": 0.42
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RGSE",
+      "price": 0.39
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3925
+    },
+    {
+      "ticker": "CLDC",
+      "price": 2.39
+    }
+  ]
+}

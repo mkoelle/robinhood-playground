@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.12
+    },
+    {
+      "ticker": "RUN",
+      "price": 14.8925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.131
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.1775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.385
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 14.355
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.44
+    }
+  ]
+}

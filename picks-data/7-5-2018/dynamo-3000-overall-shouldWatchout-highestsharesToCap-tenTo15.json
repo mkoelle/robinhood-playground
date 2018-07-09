@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "RNGR",
+      "price": 10.06
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INFN",
+      "price": 10.05
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RNGR",
+      "price": 10.18
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RNGR",
+      "price": 10.24
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.12
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "USLV",
+      "price": 8.87
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UXIN",
+      "price": 8.545
+    },
+    {
+      "ticker": "NE",
+      "price": 6.28
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VNET",
+      "price": 8.98
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNET",
+      "price": 9.46
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.28
+    }
+  ]
+}

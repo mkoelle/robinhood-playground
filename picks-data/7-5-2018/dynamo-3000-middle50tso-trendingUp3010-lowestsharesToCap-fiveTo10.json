@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "NUV",
+      "price": 9.5901
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCA",
+      "price": 9.5
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCF",
+      "price": 9.3942
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 8.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGU",
+      "price": 9.6308
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.3749
+    }
+  ]
+}

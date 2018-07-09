@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "PRTA",
+      "price": 14.97
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.5955
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 11.43
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVE",
+      "price": 12.65
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.5758
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTA",
+      "price": 14.92
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.5
+    }
+  ]
+}

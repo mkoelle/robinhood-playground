@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    },
+    {
+      "ticker": "CVON",
+      "price": 9.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JYNT",
+      "price": 8.15
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.1156
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 9.12
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRD.B",
+      "price": 8.69
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    },
+    {
+      "ticker": "AMBR",
+      "price": 9.47
+    }
+  ]
+}

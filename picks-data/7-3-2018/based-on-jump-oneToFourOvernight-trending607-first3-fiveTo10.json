@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "INSE",
+      "price": 6.55
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.34
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INSE",
+      "price": 6.7
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.68
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.151
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INSE",
+      "price": 6.8746
+    },
+    {
+      "ticker": "VNET",
+      "price": 8.98
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.151
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.46
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.151
+    }
+  ]
+}

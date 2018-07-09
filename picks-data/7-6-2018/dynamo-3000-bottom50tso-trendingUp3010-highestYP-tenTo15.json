@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CLUB",
+      "price": 14.4239
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLUB",
+      "price": 13.8001
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLUB",
+      "price": 13.5
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GFN",
+      "price": 13.8
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GFN",
+      "price": 13.7
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.8
+    }
+  ]
+}

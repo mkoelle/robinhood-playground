@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "REDU",
+      "price": 14.24
+    },
+    {
+      "ticker": "FTSI",
+      "price": 14.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCR",
+      "price": 14.9
+    },
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCR",
+      "price": 14.9
+    },
+    {
+      "ticker": "HVBC",
+      "price": 14.7
+    }
+  ]
+}

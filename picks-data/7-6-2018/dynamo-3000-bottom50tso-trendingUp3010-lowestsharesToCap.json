@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "SENS",
+      "price": 4.23
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.5338
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.245
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.5235
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.2399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCCO",
+      "price": 4.8
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.3899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GBR",
+      "price": 4.2501
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.165
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LKSD",
+      "price": 14.45
+    },
+    {
+      "ticker": "TAST",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LKSD",
+      "price": 14.005
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LKSD",
+      "price": 14.105
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.7402
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LKSD",
+      "price": 13.985
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LKSD",
+      "price": 13.895
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.7
+    }
+  ]
+}

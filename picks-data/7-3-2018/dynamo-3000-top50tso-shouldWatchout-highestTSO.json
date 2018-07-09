@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGC",
+      "price": 1.7889
+    },
+    {
+      "ticker": "MBVX",
+      "price": 0.5803
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGC",
+      "price": 1.415
+    },
+    {
+      "ticker": "MBVX",
+      "price": 0.6488
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGC",
+      "price": 1.576
+    },
+    {
+      "ticker": "MBVX",
+      "price": 0.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGC",
+      "price": 1.52
+    },
+    {
+      "ticker": "MBVX",
+      "price": 0.6
+    }
+  ]
+}

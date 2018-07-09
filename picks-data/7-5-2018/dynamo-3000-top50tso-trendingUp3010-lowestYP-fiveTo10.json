@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TCCO",
+      "price": 5.016
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TTS",
+      "price": 8.55
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GEMP",
+      "price": 8.43
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.575
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GEMP",
+      "price": 8.39
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.625
+    }
+  ]
+}

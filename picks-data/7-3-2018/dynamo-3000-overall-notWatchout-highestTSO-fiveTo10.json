@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "XSPL",
+      "price": 8.04
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.5001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GNE",
+      "price": 5.7566
+    },
+    {
+      "ticker": "CNFR",
+      "price": 7.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HYRE",
+      "price": 5.2
+    },
+    {
+      "ticker": "CNFR",
+      "price": 7.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKTS",
+      "price": 7.8301
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.7701
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNFR",
+      "price": 7.2
+    },
+    {
+      "ticker": "AKTS",
+      "price": 7.65
+    }
+  ]
+}

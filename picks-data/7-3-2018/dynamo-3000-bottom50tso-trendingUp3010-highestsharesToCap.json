@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2987
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5798
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2998
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HUSA",
+      "price": 0.29
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HUSA",
+      "price": 0.275
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HUSA",
+      "price": 0.275
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ]
+}

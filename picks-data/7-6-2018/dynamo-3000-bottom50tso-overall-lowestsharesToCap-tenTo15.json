@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LKSD",
+      "price": 14.45
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LKSD",
+      "price": 14.005
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LKSD",
+      "price": 14.105
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LKSD",
+      "price": 13.985
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LKSD",
+      "price": 13.895
+    },
+    {
+      "ticker": "VIIX",
+      "price": 14.51
+    }
+  ]
+}

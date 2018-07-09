@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "MLP",
+      "price": 12.35
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.802
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 10.1
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLP",
+      "price": 12.66
+    },
+    {
+      "ticker": "SPKE",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLP",
+      "price": 12.7
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.01
+    }
+  ]
+}

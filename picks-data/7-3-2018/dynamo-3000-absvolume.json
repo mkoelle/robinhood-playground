@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SAEX",
+      "price": 2.849
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SAEX",
+      "price": 2.55
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.7889
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BBOX",
+      "price": 1.3882
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.415
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GBR",
+      "price": 4.7
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.576
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GBR",
+      "price": 4.11
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.52
+    }
+  ]
+}

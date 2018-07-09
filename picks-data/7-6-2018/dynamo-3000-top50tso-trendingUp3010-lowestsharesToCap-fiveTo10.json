@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CRR",
+      "price": 9.96
+    },
+    {
+      "ticker": "NICK",
+      "price": 9.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NICK",
+      "price": 9.9194
+    },
+    {
+      "ticker": "ESTE",
+      "price": 9.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRR",
+      "price": 9.9307
+    },
+    {
+      "ticker": "ESTE",
+      "price": 9.6371
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ESTE",
+      "price": 9.6752
+    },
+    {
+      "ticker": "ABUS",
+      "price": 9.105
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESTE",
+      "price": 9.735
+    },
+    {
+      "ticker": "ABUS",
+      "price": 9.1748
+    }
+  ]
+}

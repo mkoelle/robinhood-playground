@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "LPTX",
+      "price": 9.09
+    },
+    {
+      "ticker": "TELL",
+      "price": 8.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPTX",
+      "price": 9.12
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.304
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRTA",
+      "price": 9.58
+    },
+    {
+      "ticker": "CRD.B",
+      "price": 8.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TPIV",
+      "price": 9.76
+    },
+    {
+      "ticker": "CHS",
+      "price": 8.475
+    }
+  ]
+}

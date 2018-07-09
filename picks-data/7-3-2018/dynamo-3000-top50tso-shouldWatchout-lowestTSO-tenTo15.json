@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "XON",
+      "price": 13.87
+    },
+    {
+      "ticker": "WATT",
+      "price": 14.3802
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVE",
+      "price": 12.6727
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KIRK",
+      "price": 12.02
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.655
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESND",
+      "price": 13.695
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYBX",
+      "price": 10.52
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.43
+    }
+  ]
+}

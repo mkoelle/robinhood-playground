@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "CDXC",
+      "price": 4.28
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDXC",
+      "price": 4.33
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LWAY",
+      "price": 4.86
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TIS",
+      "price": 4.345
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.365
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TIS",
+      "price": 4.3757
+    },
+    {
+      "ticker": "NVLN",
+      "price": 4.045
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "TCCO",
+      "price": 5.016
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QHC",
+      "price": 5.005
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITI",
+      "price": 5.36
+    },
+    {
+      "ticker": "BTN",
+      "price": 5.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QHC",
+      "price": 4.995
+    },
+    {
+      "ticker": "ITI",
+      "price": 5.34
+    }
+  ]
+}

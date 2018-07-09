@@ -384,7 +384,7 @@ const stratManager = {
         this.relatedPrices = relatedPrices;
         this.sendToAll('server:related-prices', relatedPrices);
         console.log('done getting related prices');
-        // console.log(JSON.stringify(relatedPrices, null, 2));
+        console.log(JSON.stringify(relatedPrices, null, 2));
     }
 };
 

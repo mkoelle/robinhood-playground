@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "SDLP",
+      "price": 3.89
+    },
+    {
+      "ticker": "CKPT",
+      "price": 3.0163
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CKPT",
+      "price": 3.01
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATXI",
+      "price": 3.7868
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3.109
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATXI",
+      "price": 3.7868
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3.0524
+    }
+  ]
+}

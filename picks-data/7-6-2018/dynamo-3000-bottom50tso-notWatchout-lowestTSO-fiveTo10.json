@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 5.801
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKS",
+      "price": 5.425
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.7374
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKS",
+      "price": 5.375
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.7076
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "HNRG",
+      "price": 6.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKS",
+      "price": 5.225
+    },
+    {
+      "ticker": "HNRG",
+      "price": 6.3
+    }
+  ]
+}

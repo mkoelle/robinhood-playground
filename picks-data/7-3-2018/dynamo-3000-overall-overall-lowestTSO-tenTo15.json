@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SLCT",
+      "price": 12.82
+    },
+    {
+      "ticker": "EPZM",
+      "price": 11.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SELB",
+      "price": 12.06
+    },
+    {
+      "ticker": "MGTA",
+      "price": 13.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SELB",
+      "price": 12.07
+    },
+    {
+      "ticker": "MGTA",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGTA",
+      "price": 12.985
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NES",
+      "price": 11.49
+    },
+    {
+      "ticker": "MGTA",
+      "price": 12.98
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VGI",
+      "price": 13.6031
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.7395
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 13.505
+    },
+    {
+      "ticker": "INAP",
+      "price": 12.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 12.21
+    },
+    {
+      "ticker": "MMLP",
+      "price": 13.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DM",
+      "price": 13.5248
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMOS",
+      "price": 14.15
+    },
+    {
+      "ticker": "COTY",
+      "price": 14.165
+    }
+  ]
+}

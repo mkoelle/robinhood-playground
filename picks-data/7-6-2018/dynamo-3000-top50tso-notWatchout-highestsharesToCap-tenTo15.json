@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "ULBI",
+      "price": 10.075
+    },
+    {
+      "ticker": "CMCM",
+      "price": 10.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRR",
+      "price": 10.049
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.0054
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.1373
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.1273
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NICK",
+      "price": 10.2
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.05
+    }
+  ]
+}

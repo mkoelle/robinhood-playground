@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 5.45
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 5.26
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 7.3183
+    },
+    {
+      "ticker": "SRNE",
+      "price": 6.3813
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.03
+    },
+    {
+      "ticker": "MXC",
+      "price": 7.1501
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "MMT",
+      "price": 5.639
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MFA",
+      "price": 7.735
+    },
+    {
+      "ticker": "NE",
+      "price": 6.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CYS",
+      "price": 7.605
+    },
+    {
+      "ticker": "AHT",
+      "price": 8.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELON",
+      "price": 8.3161
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.6308
+    }
+  ]
+}

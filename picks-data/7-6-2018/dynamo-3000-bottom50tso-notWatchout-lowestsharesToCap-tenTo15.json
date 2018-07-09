@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "ACY",
+      "price": 15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIIX",
+      "price": 14.67
+    },
+    {
+      "ticker": "PDLB",
+      "price": 14.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VIIX",
+      "price": 14.6
+    },
+    {
+      "ticker": "PDLB",
+      "price": 14.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIIX",
+      "price": 14.44
+    },
+    {
+      "ticker": "NMRK",
+      "price": 14.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIIX",
+      "price": 14.51
+    },
+    {
+      "ticker": "SXCP",
+      "price": 14.925
+    }
+  ]
+}

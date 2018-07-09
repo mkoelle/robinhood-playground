@@ -1,0 +1,74 @@
+{
+  "200": [
+    {
+      "ticker": "IMI",
+      "price": 1.78
+    },
+    {
+      "ticker": "SDLP",
+      "price": 3.89
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9772
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XXII",
+      "price": 2.885
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.9673
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IGLD",
+      "price": 3.109
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.9831
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMI",
+      "price": 1.78
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.95
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.9
+    },
+    {
+      "ticker": "IGLD",
+      "price": 3.0524
+    }
+  ]
+}

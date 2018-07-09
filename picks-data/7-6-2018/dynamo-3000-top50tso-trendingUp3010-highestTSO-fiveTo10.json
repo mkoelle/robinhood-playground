@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "LFVN",
+      "price": 8.04
+    },
+    {
+      "ticker": "OPK",
+      "price": 5.2616
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    },
+    {
+      "ticker": "OPK",
+      "price": 5.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LFVN",
+      "price": 7.9729
+    },
+    {
+      "ticker": "OPK",
+      "price": 5.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 8.34
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.615
+    }
+  ]
+}

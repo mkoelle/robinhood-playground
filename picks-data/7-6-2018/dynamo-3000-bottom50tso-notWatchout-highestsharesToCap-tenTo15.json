@@ -1,0 +1,52 @@
+{
+  "100": [
+    {
+      "ticker": "TAYD",
+      "price": 10.2
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.4484
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOCA",
+      "price": 10.015
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAYD",
+      "price": 10.2
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGLE",
+      "price": 10.061
+    },
+    {
+      "ticker": "NWHM",
+      "price": 10.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NWHM",
+      "price": 10.19
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.5027
+    }
+  ]
+}

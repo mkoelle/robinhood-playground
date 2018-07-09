@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GGN",
+      "price": 5.115
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SORL",
+      "price": 5.0799
+    },
+    {
+      "ticker": "NRO",
+      "price": 5.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 5.03
+    },
+    {
+      "ticker": "NWY",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SKIS",
+      "price": 5.1235
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.0636
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIB",
+      "price": 5.07
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.15
+    }
+  ]
+}

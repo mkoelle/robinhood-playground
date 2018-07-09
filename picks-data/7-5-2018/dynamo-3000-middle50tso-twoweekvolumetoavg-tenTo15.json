@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 12.0201
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PFN",
+      "price": 10.5837
+    },
+    {
+      "ticker": "JDD",
+      "price": 11.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCA",
+      "price": 10.283
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.336
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BHK",
+      "price": 12.79
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.33
+    }
+  ]
+}

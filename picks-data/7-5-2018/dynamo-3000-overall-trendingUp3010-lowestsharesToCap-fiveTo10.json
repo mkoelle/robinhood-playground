@@ -1,0 +1,42 @@
+{
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 9.61
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VNET",
+      "price": 9.59
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.9152
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VNET",
+      "price": 9.6
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VNET",
+      "price": 9.73
+    },
+    {
+      "ticker": "VCYT",
+      "price": 9.98
+    }
+  ]
+}
