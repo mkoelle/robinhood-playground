@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.625
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.815
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INFN",
+      "price": 10.015
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INFN",
+      "price": 10.08
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RARX",
+      "price": 10.04
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INFN",
+      "price": 10.0525
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    }
+  ]
+}

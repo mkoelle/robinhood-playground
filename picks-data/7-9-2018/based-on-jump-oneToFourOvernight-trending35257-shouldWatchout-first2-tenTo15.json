@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ELVT",
+      "price": 10.255
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELVT",
+      "price": 10.3
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.64
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELVT",
+      "price": 10.425
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELVT",
+      "price": 10.4548
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.55
+    }
+  ]
+}

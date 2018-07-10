@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPG",
+      "price": 8.25
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPG",
+      "price": 8.16
+    },
+    {
+      "ticker": "SALM",
+      "price": 6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPG",
+      "price": 8.15
+    },
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPG",
+      "price": 8.305
+    },
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    }
+  ]
+}

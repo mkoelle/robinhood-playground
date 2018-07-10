@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZYNE",
+      "price": 9.96
+    },
+    {
+      "ticker": "ELVT",
+      "price": 10.255
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ELVT",
+      "price": 10.3
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.012
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ELVT",
+      "price": 10.425
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.135
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ELVT",
+      "price": 10.4548
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.0651
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.625
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EPZM",
+      "price": 12.7
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 11
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 11.02
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DF",
+      "price": 10.76
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.75
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 12.99
+    },
+    {
+      "ticker": "CLCT",
+      "price": 14.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.58
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 10.13
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10.21
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.57
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.43
+    },
+    {
+      "ticker": "LCI",
+      "price": 14.25
+    }
+  ]
+}

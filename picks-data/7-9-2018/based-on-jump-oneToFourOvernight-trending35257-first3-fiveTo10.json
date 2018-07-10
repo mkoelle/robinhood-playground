@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.02
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SALM",
+      "price": 6
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.9635
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "HIHO",
+      "price": 5.072
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    }
+  ]
+}

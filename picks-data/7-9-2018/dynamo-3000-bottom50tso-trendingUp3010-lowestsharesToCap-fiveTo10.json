@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPNS",
+      "price": 9.99
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCRB",
+      "price": 9.01
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.775
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRTA",
+      "price": 9.23
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 10.02
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 9.581
+    },
+    {
+      "ticker": "FRTA",
+      "price": 9.0901
+    }
+  ]
+}

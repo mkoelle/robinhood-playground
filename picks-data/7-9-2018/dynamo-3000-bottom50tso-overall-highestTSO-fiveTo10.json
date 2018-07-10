@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLAB",
+      "price": 8.55
+    },
+    {
+      "ticker": "ASC",
+      "price": 8.5999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSI",
+      "price": 7.075
+    },
+    {
+      "ticker": "MBIO",
+      "price": 7.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LQDT",
+      "price": 6.85
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.165
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSUM",
+      "price": 6.79
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.645
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.8
+    }
+  ]
+}

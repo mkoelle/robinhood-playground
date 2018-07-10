@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ACIU",
+      "price": 12.2
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHRA",
+      "price": 11.11
+    },
+    {
+      "ticker": "SCD",
+      "price": 13.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECOR",
+      "price": 14.59
+    },
+    {
+      "ticker": "INAP",
+      "price": 12.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECOR",
+      "price": 14.35
+    },
+    {
+      "ticker": "MPO",
+      "price": 14.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECOR",
+      "price": 14.29
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.8235
+    }
+  ]
+}

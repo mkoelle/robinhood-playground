@@ -1,0 +1,30 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "FNKO",
+      "price": 14.21
+    }
+  ],
+  "300": [
+    {
+      "ticker": "FNKO",
+      "price": 13.9
+    },
+    {
+      "ticker": "OOMA",
+      "price": 14.9
+    }
+  ],
+  "380": [
+    {
+      "ticker": "FNKO",
+      "price": 13.84
+    },
+    {
+      "ticker": "OOMA",
+      "price": 14.925
+    }
+  ]
+}

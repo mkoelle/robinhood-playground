@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PLAB",
+      "price": 8.6
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.5
+    },
+    {
+      "ticker": "TTOO",
+      "price": 7.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLAB",
+      "price": 8.55
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 9.849
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLAB",
+      "price": 8.7
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 9.8149
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLAB",
+      "price": 8.6
+    },
+    {
+      "ticker": "ZYNE",
+      "price": 9.8464
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.559
+    }
+  ]
+}

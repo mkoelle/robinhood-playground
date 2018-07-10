@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LEDS",
+      "price": 4.37
+    },
+    {
+      "ticker": "IFON",
+      "price": 4.0499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LEDS",
+      "price": 4.34
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.9725
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEDS",
+      "price": 4.5824
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEDS",
+      "price": 4.43
+    },
+    {
+      "ticker": "IFON",
+      "price": 3.88
+    }
+  ]
+}

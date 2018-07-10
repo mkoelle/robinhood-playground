@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "BILI",
+      "price": 13.76
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.455
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 13.8313
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.67
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.47
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.025
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BILI",
+      "price": 13.791
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.565
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.4416
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.2431
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JNUG",
+      "price": 14.945
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.565
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.435
+    },
+    {
+      "ticker": "SOGO",
+      "price": 11.236
+    }
+  ]
+}

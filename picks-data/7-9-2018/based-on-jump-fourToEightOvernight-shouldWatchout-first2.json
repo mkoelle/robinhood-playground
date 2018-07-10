@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 0.425
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5682
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 0.4182
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5511
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RGSE",
+      "price": 0.39
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5477
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3962
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.537
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SALM",
+      "price": 6
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.9635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    }
+  ]
+}

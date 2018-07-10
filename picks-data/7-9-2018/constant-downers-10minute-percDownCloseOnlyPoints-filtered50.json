@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CUR",
+      "price": 1.101
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1552
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.96
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SSY",
+      "price": 1.3973
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.2138
+    },
+    {
+      "ticker": "KOOL",
+      "price": 0.4217
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SSY",
+      "price": 1.5
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.2102
+    },
+    {
+      "ticker": "SLS",
+      "price": 3.36
+    }
+  ]
+}

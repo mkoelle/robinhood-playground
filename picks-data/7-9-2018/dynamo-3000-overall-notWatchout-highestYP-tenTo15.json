@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DRNA",
+      "price": 14.11
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.275
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.525
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRNA",
+      "price": 14.07
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GFN",
+      "price": 14
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.355
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USAT",
+      "price": 14.375
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.87
+    }
+  ]
+}

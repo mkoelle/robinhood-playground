@@ -1,0 +1,80 @@
+{
+  "10": [
+    {
+      "ticker": "MICT",
+      "price": 1.61
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.51
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.6
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.7762
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PTIE",
+      "price": 2.651
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.68
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.7762
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PTIE",
+      "price": 2.74
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.695
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MICT",
+      "price": 1.62
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.75
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.68
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.75
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MICT",
+      "price": 1.6
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.5999
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.7085
+    },
+    {
+      "ticker": "TCCO",
+      "price": 4.75
+    }
+  ]
+}

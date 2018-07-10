@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPEX",
+      "price": 1.05
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPEX",
+      "price": 1.04
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPEX",
+      "price": 1.04
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.3898
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPEX",
+      "price": 1.0386
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.38
+    }
+  ]
+}

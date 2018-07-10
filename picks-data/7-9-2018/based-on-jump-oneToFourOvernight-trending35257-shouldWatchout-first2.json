@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATNM",
+      "price": 0.64
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATNM",
+      "price": 0.6397
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5602
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATNM",
+      "price": 0.6266
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.7742
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATNM",
+      "price": 0.6298
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.7256
+    }
+  ]
+}

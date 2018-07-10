@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.05
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PES",
+      "price": 5.775
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTL",
+      "price": 7.545
+    },
+    {
+      "ticker": "PES",
+      "price": 5.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAF",
+      "price": 5.33
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 5.21
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.65
+    }
+  ]
+}

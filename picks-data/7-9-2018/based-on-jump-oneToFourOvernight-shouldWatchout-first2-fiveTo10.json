@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MGEN",
+      "price": 7.5
+    },
+    {
+      "ticker": "PLAB",
+      "price": 8.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MGEN",
+      "price": 7.6599
+    },
+    {
+      "ticker": "PLAB",
+      "price": 8.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MGEN",
+      "price": 7.84
+    },
+    {
+      "ticker": "PLAB",
+      "price": 8.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MGEN",
+      "price": 7.87
+    },
+    {
+      "ticker": "PLAB",
+      "price": 8.6
+    }
+  ]
+}

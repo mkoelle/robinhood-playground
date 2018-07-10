@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "INAP",
+      "price": 12.32
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.63
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBD",
+      "price": 13.1
+    },
+    {
+      "ticker": "NCSM",
+      "price": 14.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 10.13
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 13.1227
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 10.21
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.43
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.69
+    }
+  ]
+}

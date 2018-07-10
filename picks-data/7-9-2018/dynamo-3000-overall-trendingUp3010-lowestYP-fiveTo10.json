@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RDVT",
+      "price": 9.5836
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDVT",
+      "price": 9.1818
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNLO",
+      "price": 8.6648
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNLO",
+      "price": 8.44
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNLO",
+      "price": 8.6
+    },
+    {
+      "ticker": "RDVT",
+      "price": 9.14
+    }
+  ]
+}

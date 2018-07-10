@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 0.425
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5682
+    },
+    {
+      "ticker": "VVPR",
+      "price": 2.07
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.4358
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 0.4182
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5511
+    },
+    {
+      "ticker": "VVPR",
+      "price": 1.8693
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.42
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RGSE",
+      "price": 0.39
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5477
+    },
+    {
+      "ticker": "SNOA",
+      "price": 2.7
+    },
+    {
+      "ticker": "VVPR",
+      "price": 1.9599
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3962
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.537
+    },
+    {
+      "ticker": "SNOA",
+      "price": 2.7
+    },
+    {
+      "ticker": "MOC",
+      "price": 1.5876
+    },
+    {
+      "ticker": "VVPR",
+      "price": 1.9599
+    }
+  ]
+}

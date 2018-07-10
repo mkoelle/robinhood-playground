@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WTI",
+      "price": 7.72
+    },
+    {
+      "ticker": "YIN",
+      "price": 8.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HIHO",
+      "price": 5.1891
+    },
+    {
+      "ticker": "ONCY",
+      "price": 5.7712
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HQCL",
+      "price": 5.9271
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAF",
+      "price": 5.33
+    },
+    {
+      "ticker": "INS",
+      "price": 9.515
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STAF",
+      "price": 5.3
+    },
+    {
+      "ticker": "SHSP",
+      "price": 9.5206
+    }
+  ]
+}

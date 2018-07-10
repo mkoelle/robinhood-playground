@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 6.67
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLUU",
+      "price": 6.405
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.775
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 8.95
+    },
+    {
+      "ticker": "GLUU",
+      "price": 6.355
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 8.91
+    },
+    {
+      "ticker": "GLUU",
+      "price": 6.265
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.645
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.8
+    }
+  ]
+}

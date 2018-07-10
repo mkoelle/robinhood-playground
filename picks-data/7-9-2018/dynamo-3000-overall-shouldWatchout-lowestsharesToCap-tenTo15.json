@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ECOM",
+      "price": 14.9
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.78
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHRS",
+      "price": 14.75
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLSE",
+      "price": 14.97
+    },
+    {
+      "ticker": "CHRS",
+      "price": 14.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLYS",
+      "price": 14.9
+    },
+    {
+      "ticker": "CHRS",
+      "price": 14.775
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 14.7427
+    },
+    {
+      "ticker": "PLSE",
+      "price": 15.02
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1868
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1866
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.6099
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1801
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.165
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.5832
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1299
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.48
+    }
+  ]
+}

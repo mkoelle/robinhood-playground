@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ECOM",
+      "price": 14.9
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.84
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECOM",
+      "price": 14.85
+    },
+    {
+      "ticker": "MPV",
+      "price": 14.9167
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KRYS",
+      "price": 14.5746
+    },
+    {
+      "ticker": "ECOM",
+      "price": 14.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RDNT",
+      "price": 15
+    },
+    {
+      "ticker": "KRYS",
+      "price": 14.5746
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OOMA",
+      "price": 14.925
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.9
+    }
+  ]
+}

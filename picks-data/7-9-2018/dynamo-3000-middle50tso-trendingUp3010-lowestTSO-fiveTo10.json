@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LXP",
+      "price": 9.03
+    },
+    {
+      "ticker": "DSX",
+      "price": 5.015
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRST",
+      "price": 9.125
+    },
+    {
+      "ticker": "IGR",
+      "price": 7.6443
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FSM",
+      "price": 5.91
+    },
+    {
+      "ticker": "NYMT",
+      "price": 6.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REPH",
+      "price": 5.37
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.755
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELMD",
+      "price": 5.4
+    },
+    {
+      "ticker": "ENY",
+      "price": 8.19
+    }
+  ]
+}

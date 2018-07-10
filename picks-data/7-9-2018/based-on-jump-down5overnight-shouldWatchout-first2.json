@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.85
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NDRA",
+      "price": 2.508
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2313
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NDRA",
+      "price": 2.4623
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2322
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NDRA",
+      "price": 2.458
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.24
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INVE",
+      "price": 4.1
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INVE",
+      "price": 4.1
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.3499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INVE",
+      "price": 4.0801
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.3416
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INVE",
+      "price": 4.0801
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.3799
+    }
+  ]
+}

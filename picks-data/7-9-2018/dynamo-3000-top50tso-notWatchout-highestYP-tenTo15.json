@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "USAT",
+      "price": 14.275
+    },
+    {
+      "ticker": "MOTS",
+      "price": 10.181
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.525
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.8873
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFN",
+      "price": 13.9
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GFN",
+      "price": 14
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GFN",
+      "price": 14
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.25
+    }
+  ]
+}

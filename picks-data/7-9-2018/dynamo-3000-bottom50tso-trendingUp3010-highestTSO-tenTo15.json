@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VG",
+      "price": 13.32
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TBIO",
+      "price": 13.331
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 11
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 11.02
+    },
+    {
+      "ticker": "KIN",
+      "price": 11.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTT",
+      "price": 12.77
+    },
+    {
+      "ticker": "DF",
+      "price": 10.76
+    }
+  ]
+}

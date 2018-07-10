@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPNS",
+      "price": 9.99
+    },
+    {
+      "ticker": "BB",
+      "price": 10
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPNS",
+      "price": 9.99
+    },
+    {
+      "ticker": "AKBA",
+      "price": 9.915
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AKBA",
+      "price": 9.93
+    },
+    {
+      "ticker": "BB",
+      "price": 9.93
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5338
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.5149
+    },
+    {
+      "ticker": "PCYO",
+      "price": 9.9
+    }
+  ]
+}

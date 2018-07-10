@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BILI",
+      "price": 13.76
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.455
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 13.8313
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.67
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BILI",
+      "price": 13.791
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.565
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.4416
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JNUG",
+      "price": 14.945
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.565
+    }
+  ]
+}

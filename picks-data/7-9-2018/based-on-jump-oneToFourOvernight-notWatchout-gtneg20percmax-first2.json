@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARPO",
+      "price": 4.06
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUO",
+      "price": 4.47
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AUO",
+      "price": 4.65
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AUO",
+      "price": 4.65
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.55
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 7.45
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.2726
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 7.4489
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.295
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 7.1228
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 7.05
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.08
+    }
+  ]
+}

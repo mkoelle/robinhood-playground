@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PVG",
+      "price": 9.6576
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.8723
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVX",
+      "price": 5.2977
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MCF",
+      "price": 6.43
+    },
+    {
+      "ticker": "APEN",
+      "price": 8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCF",
+      "price": 6.5527
+    },
+    {
+      "ticker": "DEPO",
+      "price": 7.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LEDS",
+      "price": 5.95
+    },
+    {
+      "ticker": "DEPO",
+      "price": 8.33
+    }
+  ]
+}

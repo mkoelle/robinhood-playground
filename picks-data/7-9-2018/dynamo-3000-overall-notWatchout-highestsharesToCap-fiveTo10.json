@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.05
+    },
+    {
+      "ticker": "DSX",
+      "price": 5.015
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HIHO",
+      "price": 5.1891
+    },
+    {
+      "ticker": "PPR",
+      "price": 5.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HIHO",
+      "price": 5.0551
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAF",
+      "price": 5.33
+    },
+    {
+      "ticker": "HIHO",
+      "price": 5.041
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STAF",
+      "price": 5.3
+    },
+    {
+      "ticker": "HIHO",
+      "price": 5.008
+    }
+  ]
+}

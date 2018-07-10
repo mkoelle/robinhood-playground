@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "MGTX",
+      "price": 13.05
+    },
+    {
+      "ticker": "PRCP",
+      "price": 11.75
+    }
+  ],
+  "63": [
+    {
+      "ticker": "ACIU",
+      "price": 12.24
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.27
+    }
+  ],
+  "280": [
+    {
+      "ticker": "MTR",
+      "price": 14.0781
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.67
+    }
+  ],
+  "328": [
+    {
+      "ticker": "GTXI",
+      "price": 14.68
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.33
+    }
+  ],
+  "388": [
+    {
+      "ticker": "BILI",
+      "price": 13.8386
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.4
+    }
+  ]
+}

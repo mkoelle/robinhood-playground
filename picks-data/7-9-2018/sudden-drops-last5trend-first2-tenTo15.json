@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "RARX",
+      "price": 10.2352
+    },
+    {
+      "ticker": "AGLE",
+      "price": 10.08
+    }
+  ],
+  "63": [
+    {
+      "ticker": "CBIO",
+      "price": 11.18
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.27
+    }
+  ],
+  "280": [
+    {
+      "ticker": "MTR",
+      "price": 14.0781
+    },
+    {
+      "ticker": "MGTA",
+      "price": 12.7
+    }
+  ],
+  "328": [
+    {
+      "ticker": "GTXI",
+      "price": 14.68
+    },
+    {
+      "ticker": "NES",
+      "price": 10.66
+    }
+  ],
+  "388": [
+    {
+      "ticker": "CTSO",
+      "price": 12.2
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.35
+    }
+  ]
+}

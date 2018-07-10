@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FAZ",
+      "price": 10.58
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.281
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UGP",
+      "price": 11.82
+    },
+    {
+      "ticker": "RCUS",
+      "price": 12.835
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCUS",
+      "price": 12.829
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.415
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCUS",
+      "price": 12.81
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.4012
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCUS",
+      "price": 12.63
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.95
+    }
+  ]
+}

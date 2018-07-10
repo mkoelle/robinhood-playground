@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 10.0999
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.25
+    },
+    {
+      "ticker": "CHRA",
+      "price": 11.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 10.44
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.305
+    },
+    {
+      "ticker": "CHRA",
+      "price": 11.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 10.165
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.1678
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MVO",
+      "price": 11.1399
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.9805
+    },
+    {
+      "ticker": "CHRA",
+      "price": 11.0451
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ACIU",
+      "price": 12.2
+    },
+    {
+      "ticker": "EDF",
+      "price": 13.63
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHRA",
+      "price": 11.11
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.331
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECOR",
+      "price": 14.59
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECOR",
+      "price": 14.35
+    },
+    {
+      "ticker": "NES",
+      "price": 11.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECOR",
+      "price": 14.29
+    },
+    {
+      "ticker": "JDD",
+      "price": 11.5758
+    }
+  ]
+}

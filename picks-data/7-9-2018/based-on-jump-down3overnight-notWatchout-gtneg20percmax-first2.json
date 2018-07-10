@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 4.23
+    },
+    {
+      "ticker": "JAKK",
+      "price": 3.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSNT",
+      "price": 3.18
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSNT",
+      "price": 3.18
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.623
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSNT",
+      "price": 4.0509
+    },
+    {
+      "ticker": "CTIC",
+      "price": 4.535
+    }
+  ]
+}

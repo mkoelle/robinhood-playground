@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LPG",
+      "price": 8.25
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPG",
+      "price": 8.16
+    },
+    {
+      "ticker": "SALM",
+      "price": 6
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.9635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPG",
+      "price": 8.15
+    },
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "SALM",
+      "price": 6.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPG",
+      "price": 8.305
+    },
+    {
+      "ticker": "GRF",
+      "price": 7.84
+    },
+    {
+      "ticker": "MOTS",
+      "price": 9.9
+    }
+  ]
+}

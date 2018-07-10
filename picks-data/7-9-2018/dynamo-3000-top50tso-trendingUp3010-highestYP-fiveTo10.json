@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.05
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.165
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DEST",
+      "price": 6.1901
+    },
+    {
+      "ticker": "PES",
+      "price": 5.775
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DEST",
+      "price": 6.29
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.545
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VTL",
+      "price": 7.625
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 5.21
+    },
+    {
+      "ticker": "LFVN",
+      "price": 8.75
+    }
+  ]
+}

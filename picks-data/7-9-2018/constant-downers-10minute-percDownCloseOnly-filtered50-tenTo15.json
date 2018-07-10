@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MRT",
+      "price": 11.24
+    },
+    {
+      "ticker": "GDP",
+      "price": 13.11
+    },
+    {
+      "ticker": "BBGI",
+      "price": 11.6
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CRT",
+      "price": 14.22
+    },
+    {
+      "ticker": "KRYS",
+      "price": 14.5746
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.17
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MTR",
+      "price": 14.125
+    },
+    {
+      "ticker": "TAYD",
+      "price": 10.185
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.1
+    }
+  ]
+}

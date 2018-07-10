@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PLAB",
+      "price": 8.55
+    },
+    {
+      "ticker": "MXWL",
+      "price": 5.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSI",
+      "price": 7.075
+    },
+    {
+      "ticker": "LQDT",
+      "price": 6.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LQDT",
+      "price": 6.85
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSUM",
+      "price": 6.79
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGI",
+      "price": 5.75
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.96
+    }
+  ]
+}

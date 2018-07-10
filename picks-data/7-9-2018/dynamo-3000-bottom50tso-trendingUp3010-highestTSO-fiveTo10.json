@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ASC",
+      "price": 8.5999
+    },
+    {
+      "ticker": "APEN",
+      "price": 7.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MBIO",
+      "price": 7.25
+    },
+    {
+      "ticker": "LQDT",
+      "price": 6.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LQDT",
+      "price": 6.85
+    },
+    {
+      "ticker": "AHT",
+      "price": 8.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    },
+    {
+      "ticker": "NCMI",
+      "price": 8.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 6.645
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.15
+    }
+  ]
+}

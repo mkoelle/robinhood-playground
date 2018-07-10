@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 5.505
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOL",
+      "price": 5.53
+    },
+    {
+      "ticker": "BCOM",
+      "price": 8.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 5.44
+    },
+    {
+      "ticker": "BCOM",
+      "price": 8.51
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRIP",
+      "price": 5.395
+    },
+    {
+      "ticker": "BCOM",
+      "price": 8.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRIP",
+      "price": 5.31
+    },
+    {
+      "ticker": "TORC",
+      "price": 8.5566
+    }
+  ]
+}

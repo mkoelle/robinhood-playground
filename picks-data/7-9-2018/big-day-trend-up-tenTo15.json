@@ -1,0 +1,43 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "CRR",
+      "price": 10.322
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.1
+    },
+    {
+      "ticker": "ESTE",
+      "price": 10.3
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.92
+    }
+  ],
+  "90": [
+    {
+      "ticker": "BFR",
+      "price": 13.82
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.53
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.405
+    },
+    {
+      "ticker": "ESTE",
+      "price": 10.38
+    },
+    {
+      "ticker": "PAH",
+      "price": 12.37
+    }
+  ]
+}

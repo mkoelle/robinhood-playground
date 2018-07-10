@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 2.2
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.4801
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.5499
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.1872
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.5499
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.0412
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.55
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.06
+    }
+  ]
+}

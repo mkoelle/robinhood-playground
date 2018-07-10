@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 10.0999
+    },
+    {
+      "ticker": "ACH",
+      "price": 10.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 10.44
+    },
+    {
+      "ticker": "ACH",
+      "price": 10.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 10.165
+    },
+    {
+      "ticker": "ACH",
+      "price": 10.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JNUG",
+      "price": 14.945
+    },
+    {
+      "ticker": "ACH",
+      "price": 10.475
+    }
+  ]
+}

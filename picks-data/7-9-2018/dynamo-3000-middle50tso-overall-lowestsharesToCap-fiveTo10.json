@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BB",
+      "price": 10
+    },
+    {
+      "ticker": "SPN",
+      "price": 10.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 9.85
+    },
+    {
+      "ticker": "KEYW",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIM",
+      "price": 9.836
+    },
+    {
+      "ticker": "NCA",
+      "price": 9.49
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JHY",
+      "price": 9.94
+    },
+    {
+      "ticker": "HALL",
+      "price": 9.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKBA",
+      "price": 9.995
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.895
+    }
+  ]
+}

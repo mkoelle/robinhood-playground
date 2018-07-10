@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 4.23
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 4.6
+    },
+    {
+      "ticker": "ANW",
+      "price": 1.7664
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTIC",
+      "price": 4.623
+    },
+    {
+      "ticker": "ANW",
+      "price": 1.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIC",
+      "price": 4.535
+    },
+    {
+      "ticker": "ANW",
+      "price": 1.71
+    }
+  ]
+}

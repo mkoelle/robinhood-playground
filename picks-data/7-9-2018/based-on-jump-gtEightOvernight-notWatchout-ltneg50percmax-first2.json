@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 1.88
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.67
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 2.37
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6502
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 2.4
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6674
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 2.3499
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.65
+    }
+  ]
+}

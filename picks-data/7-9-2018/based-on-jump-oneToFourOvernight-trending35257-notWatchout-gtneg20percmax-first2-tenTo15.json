@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MOTS",
+      "price": 10.0999
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MOTS",
+      "price": 10.44
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.305
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MOTS",
+      "price": 10.165
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.1678
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MVO",
+      "price": 11.1399
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.3884
+    }
+  ]
+}

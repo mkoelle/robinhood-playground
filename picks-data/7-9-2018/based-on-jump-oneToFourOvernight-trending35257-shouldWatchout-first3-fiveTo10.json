@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OVID",
+      "price": 9.5
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.45
+    },
+    {
+      "ticker": "TEDU",
+      "price": 8.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OVID",
+      "price": 9.6
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.16
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.445
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OVID",
+      "price": 9.55
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.35
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OVID",
+      "price": 9.559
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.35
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.44
+    }
+  ]
+}

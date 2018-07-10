@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ESTE",
+      "price": 10.18
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESTE",
+      "price": 10.2462
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESTE",
+      "price": 10.41
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.4305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESTE",
+      "price": 10.38
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESTE",
+      "price": 10.51
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.43
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "REFR",
+      "price": 0.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSNT",
+      "price": 3.18
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.8643
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSNT",
+      "price": 3.18
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.8576
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.635
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSNT",
+      "price": 4.0509
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.8576
+    },
+    {
+      "ticker": "TIK",
+      "price": 3.6187
+    }
+  ]
+}

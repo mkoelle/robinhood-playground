@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MBVX",
+      "price": 2.11
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MBVX",
+      "price": 2.2902
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MBVX",
+      "price": 2.1981
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2226
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MBVX",
+      "price": 2.15
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.279
+    }
+  ]
+}

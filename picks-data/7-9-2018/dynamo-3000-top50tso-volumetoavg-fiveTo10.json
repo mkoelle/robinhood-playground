@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ADT",
+      "price": 8.275
+    },
+    {
+      "ticker": "MFIN",
+      "price": 5.4629
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 9.12
+    },
+    {
+      "ticker": "SND",
+      "price": 5.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLAB",
+      "price": 8.725
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFIL",
+      "price": 7.35
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BVX",
+      "price": 5.23
+    },
+    {
+      "ticker": "PVG",
+      "price": 9.29
+    }
+  ]
+}
