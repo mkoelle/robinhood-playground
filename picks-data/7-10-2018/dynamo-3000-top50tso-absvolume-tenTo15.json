@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DNOW",
+      "price": 14.31
+    },
+    {
+      "ticker": "DWCH",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PEI",
+      "price": 11.5
+    },
+    {
+      "ticker": "MNOV",
+      "price": 10.124
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ROAD",
+      "price": 12.79
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.6899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 11.96
+    },
+    {
+      "ticker": "BTAI",
+      "price": 12.793
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMI",
+      "price": 11.27
+    },
+    {
+      "ticker": "BTAI",
+      "price": 14.505
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEI",
+      "price": 13.3
+    },
+    {
+      "ticker": "BTAI",
+      "price": 13.1051
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CZWI",
+      "price": 14.18
+    },
+    {
+      "ticker": "BTAI",
+      "price": 12.91
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.75
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "IPIC",
+      "price": 9.1773
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.9144
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.86
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.9144
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.86
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.3
+    }
+  ]
+}

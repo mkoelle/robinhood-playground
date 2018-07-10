@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CGEN",
+      "price": 3.2
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.03
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.4583
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8529
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.4927
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.856
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MLSS",
+      "price": 0.82
+    },
+    {
+      "ticker": "AST",
+      "price": 1.4927
+    }
+  ]
+}

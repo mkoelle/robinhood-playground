@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GECC",
+      "price": 9.35
+    },
+    {
+      "ticker": "PVG",
+      "price": 9.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PVG",
+      "price": 9.14
+    },
+    {
+      "ticker": "MCRB",
+      "price": 9.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TPIV",
+      "price": 9.8445
+    },
+    {
+      "ticker": "PVG",
+      "price": 9.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 9.681
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 9.74
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OVID",
+      "price": 9.2
+    },
+    {
+      "ticker": "MCRB",
+      "price": 8.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.51
+    }
+  ]
+}

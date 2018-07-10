@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRX",
+      "price": 0.4991
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APT",
+      "price": 3.45
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2533
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRX",
+      "price": 0.4989
+    },
+    {
+      "ticker": "IMUC",
+      "price": 0.2515
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMUC",
+      "price": 0.2553
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.485
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRX",
+      "price": 0.475
+    },
+    {
+      "ticker": "APT",
+      "price": 3.4805
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMUC",
+      "price": 0.2516
+    },
+    {
+      "ticker": "APT",
+      "price": 3.4747
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APT",
+      "price": 3.45
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4774
+    }
+  ]
+}

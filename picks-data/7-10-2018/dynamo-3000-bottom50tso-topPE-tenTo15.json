@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "ELVT",
+      "price": 10.79
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.29
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELVT",
+      "price": 10.72
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.525
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELVT",
+      "price": 10.75
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.5
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.49
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELVT",
+      "price": 10.69
+    },
+    {
+      "ticker": "GME",
+      "price": 14.94
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GME",
+      "price": 14.9124
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.8839
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GME",
+      "price": 14.845
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GME",
+      "price": 14.85
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.9
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.25
+    }
+  ]
+}

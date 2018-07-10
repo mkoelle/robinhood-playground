@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LLEX",
+      "price": 5.68
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.6925
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.6925
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WSCI",
+      "price": 5.3
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    }
+  ]
+}

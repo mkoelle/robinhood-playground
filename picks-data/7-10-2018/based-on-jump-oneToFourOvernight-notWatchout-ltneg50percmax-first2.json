@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.4115
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4053
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.4583
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.4001
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.4927
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.419
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.4927
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3108
+    }
+  ]
+}

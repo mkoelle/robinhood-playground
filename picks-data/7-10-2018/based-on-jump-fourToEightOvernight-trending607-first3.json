@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 3.27
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1489
+    },
+    {
+      "ticker": "VIVE",
+      "price": 2.9699
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 3.4
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1501
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.3127
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 3.4
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.17
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 3.32
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.12
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.3147
+    }
+  ]
+}

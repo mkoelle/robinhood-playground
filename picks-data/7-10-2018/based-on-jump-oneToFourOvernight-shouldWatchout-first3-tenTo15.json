@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.275
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.325
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.3
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 13.2
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.245
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.19
+    }
+  ]
+}

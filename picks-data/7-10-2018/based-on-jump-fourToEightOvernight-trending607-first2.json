@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 3.27
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1489
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 3.4
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 3.4
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 3.32
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.12
+    }
+  ]
+}

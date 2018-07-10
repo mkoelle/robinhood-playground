@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AUO",
+      "price": 4.4701
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SENS",
+      "price": 4.18
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HIHO",
+      "price": 4.6756
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKTI",
+      "price": 3.5
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKTI",
+      "price": 3.5
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.48
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKTI",
+      "price": 3.55
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.6056
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVLN",
+      "price": 3.72
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.49
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTID",
+      "price": 6.8
+    },
+    {
+      "ticker": "CX",
+      "price": 6.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPWR",
+      "price": 7.94
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UEPS",
+      "price": 9.385
+    },
+    {
+      "ticker": "FT",
+      "price": 6.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AGFS",
+      "price": 7.01
+    },
+    {
+      "ticker": "PSEC",
+      "price": 6.695
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CUBA",
+      "price": 6.7216
+    },
+    {
+      "ticker": "HIX",
+      "price": 6.4424
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DXR",
+      "price": 6.4202
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVT",
+      "price": 9.2
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.9
+    }
+  ]
+}

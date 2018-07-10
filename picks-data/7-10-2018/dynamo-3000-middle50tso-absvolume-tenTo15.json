@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RPAI",
+      "price": 12.925
+    },
+    {
+      "ticker": "FRA",
+      "price": 14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBO",
+      "price": 12.605
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYRS",
+      "price": 12.02
+    },
+    {
+      "ticker": "PRCP",
+      "price": 11.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NHS",
+      "price": 10.85
+    },
+    {
+      "ticker": "BNY",
+      "price": 12.5872
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SLVP",
+      "price": 10.26
+    },
+    {
+      "ticker": "MLPC",
+      "price": 14.4058
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 11.21
+    },
+    {
+      "ticker": "MYC",
+      "price": 13.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VLT",
+      "price": 13.47
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.45
+    }
+  ]
+}

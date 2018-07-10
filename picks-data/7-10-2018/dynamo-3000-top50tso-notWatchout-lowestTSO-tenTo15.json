@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HCLP",
+      "price": 12.75
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PEI",
+      "price": 11.5
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.1001
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ROAD",
+      "price": 12.79
+    },
+    {
+      "ticker": "JCE",
+      "price": 14.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 11.96
+    },
+    {
+      "ticker": "CRT",
+      "price": 14.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMI",
+      "price": 11.27
+    },
+    {
+      "ticker": "ABX",
+      "price": 13.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEI",
+      "price": 13.3
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CZWI",
+      "price": 14.18
+    },
+    {
+      "ticker": "GRBK",
+      "price": 10.1
+    }
+  ]
+}

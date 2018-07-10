@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NGVC",
+      "price": 13.25
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.1775
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 13.0299
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 13.05
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTRP",
+      "price": 10.39
+    },
+    {
+      "ticker": "NEO",
+      "price": 14.2098
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTRP",
+      "price": 10.38
+    },
+    {
+      "ticker": "NEO",
+      "price": 14.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "NEO",
+      "price": 14.3152
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTRP",
+      "price": 10.3
+    },
+    {
+      "ticker": "NEO",
+      "price": 14.25
+    }
+  ]
+}

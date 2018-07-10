@@ -1,0 +1,55 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "ENDP",
+      "price": 10.86
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WOW",
+      "price": 10.68
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.795
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "WOW",
+      "price": 10.705
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.19
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.865
+    }
+  ],
+  "380": [
+    {
+      "ticker": "QNST",
+      "price": 14.265
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.875
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.975
+    },
+    {
+      "ticker": "INOV",
+      "price": 9.975
+    }
+  ]
+}

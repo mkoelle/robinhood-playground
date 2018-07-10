@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LEDS",
+      "price": 4.8286
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EDGW",
+      "price": 5.44
+    },
+    {
+      "ticker": "VOC",
+      "price": 6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEDS",
+      "price": 5.2239
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.44
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEDS",
+      "price": 5.09
+    },
+    {
+      "ticker": "KONE",
+      "price": 6.6922
+    }
+  ]
+}

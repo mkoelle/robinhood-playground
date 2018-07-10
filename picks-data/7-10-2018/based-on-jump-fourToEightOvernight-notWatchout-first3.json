@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TYHT",
+      "price": 1.82
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.75
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TYHT",
+      "price": 1.8137
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.7
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.4085
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TYHT",
+      "price": 1.761
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.7
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.4182
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TYHT",
+      "price": 1.73
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.66
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.44
+    }
+  ]
+}

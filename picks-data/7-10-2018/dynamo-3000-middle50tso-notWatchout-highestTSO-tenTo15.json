@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FRA",
+      "price": 14
+    },
+    {
+      "ticker": "VTA",
+      "price": 11.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ERH",
+      "price": 12.37
+    },
+    {
+      "ticker": "BGT",
+      "price": 13.195
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRCP",
+      "price": 11.71
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BNY",
+      "price": 12.5872
+    },
+    {
+      "ticker": "ERC",
+      "price": 12.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPC",
+      "price": 14.4058
+    },
+    {
+      "ticker": "XAN",
+      "price": 10.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MYC",
+      "price": 13.4
+    },
+    {
+      "ticker": "BNY",
+      "price": 12.5904
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVRA",
+      "price": 12.45
+    },
+    {
+      "ticker": "HTGC",
+      "price": 12.92
+    }
+  ]
+}

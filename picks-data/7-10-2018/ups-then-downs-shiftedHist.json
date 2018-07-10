@@ -1,0 +1,104 @@
+{
+  "10": [
+    {
+      "ticker": "ASCMA",
+      "price": 3.535
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.77
+    },
+    {
+      "ticker": "RHE",
+      "price": 0.2352
+    },
+    {
+      "ticker": "SGYP",
+      "price": 1.88
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.28
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ASCMA",
+      "price": 3.52
+    },
+    {
+      "ticker": "XBIO",
+      "price": 4.747
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.4585
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.182
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.8299
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASCMA",
+      "price": 3.6301
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.338
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5702
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.1548
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.8
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ASCMA",
+      "price": 3.83
+    },
+    {
+      "ticker": "FUV",
+      "price": 4.33
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5799
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.3323
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ASCMA",
+      "price": 3.87
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5201
+    },
+    {
+      "ticker": "THM",
+      "price": 0.5712
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.3924
+    }
+  ]
+}

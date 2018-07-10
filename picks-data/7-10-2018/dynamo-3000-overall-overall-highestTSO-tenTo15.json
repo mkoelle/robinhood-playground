@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DWCH",
+      "price": 10.05
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MNOV",
+      "price": 10.124
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.7049
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RNGR",
+      "price": 10.6899
+    },
+    {
+      "ticker": "HHS",
+      "price": 11.3473
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 12.793
+    },
+    {
+      "ticker": "RARX",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTAI",
+      "price": 14.505
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.7422
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTAI",
+      "price": 13.1051
+    },
+    {
+      "ticker": "RARX",
+      "price": 11.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTAI",
+      "price": 12.91
+    },
+    {
+      "ticker": "RARX",
+      "price": 11.47
+    }
+  ]
+}

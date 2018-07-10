@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CFRX",
+      "price": 2.5958
+    },
+    {
+      "ticker": "VIRC",
+      "price": 4.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WRN",
+      "price": 0.8529
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.5738
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WRN",
+      "price": 0.856
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.5939
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WRN",
+      "price": 0.8599
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3108
+    }
+  ]
+}

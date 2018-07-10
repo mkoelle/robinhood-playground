@@ -1,0 +1,63 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.4476
+    },
+    {
+      "ticker": "EXPI",
+      "price": 10.9498
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KIRK",
+      "price": 12.14
+    },
+    {
+      "ticker": "SWCH",
+      "price": 12.525
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EXPI",
+      "price": 10.9999
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.02
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.52
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 11.21
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPI",
+      "price": 10.15
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.125
+    }
+  ]
+}

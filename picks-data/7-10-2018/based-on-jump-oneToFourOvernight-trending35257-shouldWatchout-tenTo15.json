@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "LPI",
+      "price": 10.275
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.515
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.52
+    },
+    {
+      "ticker": "SELB",
+      "price": 13.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPI",
+      "price": 10.3
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.595
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.47
+    },
+    {
+      "ticker": "SELB",
+      "price": 13.5603
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.5759
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.4775
+    },
+    {
+      "ticker": "SELB",
+      "price": 13.6484
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPI",
+      "price": 10.245
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.49
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.5
+    },
+    {
+      "ticker": "SELB",
+      "price": 13.46
+    }
+  ]
+}

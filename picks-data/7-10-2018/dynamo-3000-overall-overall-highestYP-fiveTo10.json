@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MXC",
+      "price": 6.79
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 6.8133
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.9546
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.7394
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DXR",
+      "price": 6.286
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.7394
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DXR",
+      "price": 6.286
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 6.442
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.4202
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DXR",
+      "price": 6.41
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.68
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OCX",
+      "price": 4.35
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.851
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OCX",
+      "price": 4.39
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8359
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCX",
+      "price": 4.0793
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8346
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCX",
+      "price": 4.15
+    },
+    {
+      "ticker": "VVUS",
+      "price": 0.8281
+    }
+  ]
+}

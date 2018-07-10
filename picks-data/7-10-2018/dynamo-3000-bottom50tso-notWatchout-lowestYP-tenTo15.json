@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.92
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.695
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.17
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.8262
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.06
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BFR",
+      "price": 13.27
+    },
+    {
+      "ticker": "RES",
+      "price": 15.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 13.15
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BFR",
+      "price": 13.3
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTSI",
+      "price": 13.57
+    },
+    {
+      "ticker": "BCRH",
+      "price": 11.3
+    }
+  ]
+}

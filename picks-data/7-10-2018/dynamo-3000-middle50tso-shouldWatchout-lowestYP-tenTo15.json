@@ -1,0 +1,63 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.4476
+    },
+    {
+      "ticker": "SNAP",
+      "price": 13.7201
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SWCH",
+      "price": 12.525
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.65
+    },
+    {
+      "ticker": "SYRS",
+      "price": 12.02
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "NGL",
+      "price": 12.325
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.52
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 11.21
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPI",
+      "price": 10.15
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.125
+    }
+  ]
+}

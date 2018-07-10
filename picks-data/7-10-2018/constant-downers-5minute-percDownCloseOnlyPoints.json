@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OCX",
+      "price": 3.6786
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.89
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.0928
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OCX",
+      "price": 3.4752
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.7001
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.0699
+    }
+  ],
+  "309": [
+    {
+      "ticker": "STAF",
+      "price": 3.7
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.3768
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.0725
+    }
+  ]
+}

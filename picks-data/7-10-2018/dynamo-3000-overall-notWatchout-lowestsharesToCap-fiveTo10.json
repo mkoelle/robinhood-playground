@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 9.94
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.022
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GCI",
+      "price": 9.98
+    },
+    {
+      "ticker": "CMCM",
+      "price": 9.8501
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAYD",
+      "price": 9.9891
+    },
+    {
+      "ticker": "ULBI",
+      "price": 9.9961
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 9.946
+    },
+    {
+      "ticker": "PHII",
+      "price": 9.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PHII",
+      "price": 9.6
+    },
+    {
+      "ticker": "FENC",
+      "price": 9.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 9.99
+    },
+    {
+      "ticker": "PHII",
+      "price": 9.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 9.985
+    },
+    {
+      "ticker": "PHII",
+      "price": 9.6
+    }
+  ]
+}

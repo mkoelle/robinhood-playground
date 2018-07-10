@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AXAS",
+      "price": 3.21
+    },
+    {
+      "ticker": "APTO",
+      "price": 3.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLIN",
+      "price": 3.28
+    },
+    {
+      "ticker": "LWAY",
+      "price": 4.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLIN",
+      "price": 3.326
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.7922
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLRB",
+      "price": 0.788
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GTIM",
+      "price": 4.2872
+    },
+    {
+      "ticker": "HYRE",
+      "price": 4.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCCL",
+      "price": 1.75
+    },
+    {
+      "ticker": "NNA",
+      "price": 0.625
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PKD",
+      "price": 0.4624
+    },
+    {
+      "ticker": "NNA",
+      "price": 0.6358
+    }
+  ]
+}

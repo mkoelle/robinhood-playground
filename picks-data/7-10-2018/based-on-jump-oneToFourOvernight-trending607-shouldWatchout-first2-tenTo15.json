@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPI",
+      "price": 10.275
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.515
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPI",
+      "price": 10.3
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.595
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.5759
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPI",
+      "price": 10.245
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.49
+    }
+  ]
+}

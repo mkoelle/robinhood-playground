@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "LEDS",
+      "price": 4.8286
+    },
+    {
+      "ticker": "VOC",
+      "price": 6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VOC",
+      "price": 6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LEDS",
+      "price": 5.2239
+    },
+    {
+      "ticker": "VOC",
+      "price": 6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LEDS",
+      "price": 5.09
+    },
+    {
+      "ticker": "VOC",
+      "price": 5.7945
+    }
+  ]
+}

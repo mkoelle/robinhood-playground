@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LEDS",
+      "price": 5
+    },
+    {
+      "ticker": "NSPR",
+      "price": 0.2531
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RSLS",
+      "price": 2.2802
+    },
+    {
+      "ticker": "CYTX",
+      "price": 1.411
+    }
+  ],
+  "100": [
+    {
+      "ticker": "STAF",
+      "price": 3.65
+    },
+    {
+      "ticker": "KZIA",
+      "price": 3.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OCX",
+      "price": 3.45
+    },
+    {
+      "ticker": "UPL",
+      "price": 2.105
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RSLS",
+      "price": 2.13
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.4259
+    }
+  ],
+  "351": [
+    {
+      "ticker": "STAF",
+      "price": 3.59
+    },
+    {
+      "ticker": "RTTR",
+      "price": 2.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STAF",
+      "price": 3.54
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.245
+    }
+  ]
+}

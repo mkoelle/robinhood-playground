@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TYHT",
+      "price": 1.82
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TYHT",
+      "price": 1.8137
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TYHT",
+      "price": 1.761
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TYHT",
+      "price": 1.73
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.66
+    }
+  ]
+}

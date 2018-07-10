@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8801
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1489
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AHPI",
+      "price": 2.9559
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1501
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8241
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8164
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.12
+    }
+  ]
+}

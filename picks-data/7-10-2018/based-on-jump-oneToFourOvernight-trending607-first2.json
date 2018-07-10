@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NOG",
+      "price": 3.66
+    },
+    {
+      "ticker": "CPAH",
+      "price": 2.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NOG",
+      "price": 3.6525
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8529
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NOG",
+      "price": 3.6948
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.856
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NOG",
+      "price": 3.6855
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8599
+    }
+  ]
+}

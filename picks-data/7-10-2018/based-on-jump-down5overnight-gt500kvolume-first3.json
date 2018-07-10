@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ISR",
+      "price": 0.7108
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ISR",
+      "price": 0.6953
+    },
+    {
+      "ticker": "STAF",
+      "price": 4.3701
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.9587
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ISR",
+      "price": 0.6996
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.215
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.94
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ISR",
+      "price": 0.68
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.1856
+    },
+    {
+      "ticker": "STAF",
+      "price": 4.2
+    }
+  ]
+}

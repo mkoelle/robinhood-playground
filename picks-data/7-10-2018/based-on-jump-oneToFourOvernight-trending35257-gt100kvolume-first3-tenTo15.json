@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RIG",
+      "price": 14.035
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.515
+    },
+    {
+      "ticker": "GPOR",
+      "price": 13.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 13.68
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.3
+    },
+    {
+      "ticker": "RIG",
+      "price": 14.125
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 13.63
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "RIG",
+      "price": 14.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 13.575
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.245
+    },
+    {
+      "ticker": "RIG",
+      "price": 14.11
+    }
+  ]
+}

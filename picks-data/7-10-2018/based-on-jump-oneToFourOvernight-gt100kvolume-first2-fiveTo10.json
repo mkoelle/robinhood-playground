@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 8.32
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.5252
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SN",
+      "price": 4.98
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRYS",
+      "price": 6.1199
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 8.86
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.94
+    }
+  ]
+}

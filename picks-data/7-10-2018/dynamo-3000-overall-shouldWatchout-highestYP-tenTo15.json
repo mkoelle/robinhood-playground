@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QNST",
+      "price": 14.91
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QNST",
+      "price": 14.62
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.2898
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QNST",
+      "price": 14.49
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.285
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XRM",
+      "price": 13.28
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.18
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.71
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XRM",
+      "price": 13.27
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 14.25
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.645
+    }
+  ]
+}

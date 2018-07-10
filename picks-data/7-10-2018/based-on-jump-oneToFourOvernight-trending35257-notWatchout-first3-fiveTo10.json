@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMR",
+      "price": 7.34
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.844
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMR",
+      "price": 7.2903
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.971
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMR",
+      "price": 7.24
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.6925
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMR",
+      "price": 7.23
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.3
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    }
+  ]
+}

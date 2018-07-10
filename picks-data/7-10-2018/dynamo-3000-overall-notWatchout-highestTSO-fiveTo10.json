@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VOC",
+      "price": 6
+    },
+    {
+      "ticker": "NE",
+      "price": 6.679
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 8.7106
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VOC",
+      "price": 6.0893
+    },
+    {
+      "ticker": "ORN",
+      "price": 8.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICCC",
+      "price": 7.3566
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICCC",
+      "price": 7.5799
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VTL",
+      "price": 8.6
+    },
+    {
+      "ticker": "JASO",
+      "price": 7.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VTL",
+      "price": 8.65
+    },
+    {
+      "ticker": "JASO",
+      "price": 7.42
+    }
+  ]
+}

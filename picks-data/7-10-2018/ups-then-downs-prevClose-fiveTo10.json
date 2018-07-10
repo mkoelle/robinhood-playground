@@ -1,0 +1,80 @@
+{
+  "10": [
+    {
+      "ticker": "GFA",
+      "price": 5.45
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GFA",
+      "price": 5.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SALM",
+      "price": 5.255
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.19
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.24
+    },
+    {
+      "ticker": "GFA",
+      "price": 5.38
+    },
+    {
+      "ticker": "TSQ",
+      "price": 6.985
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SALM",
+      "price": 5.425
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.16
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.19
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.01
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.24
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SALM",
+      "price": 5.4
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.16
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.39
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.2
+    },
+    {
+      "ticker": "GFA",
+      "price": 5.4451
+    }
+  ]
+}

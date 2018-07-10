@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CTSO",
+      "price": 12.24
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.625
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 14.835
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.605
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFN",
+      "price": 13.9407
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.8399
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADES",
+      "price": 11.77
+    },
+    {
+      "ticker": "PSO",
+      "price": 12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCII",
+      "price": 14.785
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.7955
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEMI",
+      "price": 11.05
+    },
+    {
+      "ticker": "SVVC",
+      "price": 14.815
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVRA",
+      "price": 12.45
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.29
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IDXG",
+      "price": 0.9141
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGC",
+      "price": 1.1376
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.249
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGC",
+      "price": 1.14
+    },
+    {
+      "ticker": "BLIN",
+      "price": 3.326
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UQM",
+      "price": 1.0199
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.109
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.131
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGC",
+      "price": 1.15
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGC",
+      "price": 1.1995
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.371
+    }
+  ]
+}

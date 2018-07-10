@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 9.79
+    },
+    {
+      "ticker": "RDHL",
+      "price": 9.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHLO",
+      "price": 8.96
+    },
+    {
+      "ticker": "TEDU",
+      "price": 8.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 8.9959
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 9.915
+    },
+    {
+      "ticker": "BRG",
+      "price": 8.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 9.75
+    },
+    {
+      "ticker": "BRG",
+      "price": 8.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSSE",
+      "price": 9.57
+    },
+    {
+      "ticker": "BRG",
+      "price": 9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRD.A",
+      "price": 8.4225
+    },
+    {
+      "ticker": "ERIC",
+      "price": 7.81
+    }
+  ]
+}

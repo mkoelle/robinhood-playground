@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OMEX",
+      "price": 7.51
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.22
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.64
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ROSE",
+      "price": 8.474
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.05
+    },
+    {
+      "ticker": "ADRO",
+      "price": 7.2
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ROSE",
+      "price": 8.45
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.18
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.19
+    }
+  ]
+}

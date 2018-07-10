@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 0.9749
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AYTU",
+      "price": 0.2815
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.2802
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RSLS",
+      "price": 2.1099
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RSLS",
+      "price": 2.0992
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.5092
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOPS",
+      "price": 0.96
+    },
+    {
+      "ticker": "RSLS",
+      "price": 2.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RSLS",
+      "price": 2.05
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RSLS",
+      "price": 2.0489
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4639
+    }
+  ]
+}

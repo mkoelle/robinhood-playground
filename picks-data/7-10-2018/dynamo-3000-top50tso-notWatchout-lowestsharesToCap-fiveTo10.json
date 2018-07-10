@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FSP",
+      "price": 8.925
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.985
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INS",
+      "price": 9.7207
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 9
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.5432
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLPR",
+      "price": 9.9999
+    },
+    {
+      "ticker": "HMI",
+      "price": 10
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLPR",
+      "price": 9.9
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.9252
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLPR",
+      "price": 9.955
+    },
+    {
+      "ticker": "ABUS",
+      "price": 8.9968
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 9.1
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.505
+    }
+  ]
+}

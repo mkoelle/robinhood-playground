@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 10.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 10.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPRO",
+      "price": 14.5639
+    },
+    {
+      "ticker": "GASX",
+      "price": 14.9632
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPRO",
+      "price": 14.03
+    },
+    {
+      "ticker": "GASX",
+      "price": 15.011
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.34
+    }
+  ]
+}

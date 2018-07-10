@@ -1,0 +1,112 @@
+{
+  "10": [
+    {
+      "ticker": "ISR",
+      "price": 0.6999
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.953
+    },
+    {
+      "ticker": "LEDS",
+      "price": 5
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.33
+    },
+    {
+      "ticker": "AQXP",
+      "price": 2.69
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ISR",
+      "price": 0.6599
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.94
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.8291
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.17
+    },
+    {
+      "ticker": "CVRS",
+      "price": 1.0869
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ISR",
+      "price": 0.6891
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.864
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.6395
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.11
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.8409
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ISR",
+      "price": 0.691
+    },
+    {
+      "ticker": "BBOX",
+      "price": 1.8505
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.7487
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.082
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.8
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ISR",
+      "price": 0.683
+    },
+    {
+      "ticker": "LEDS",
+      "price": 4.98
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.01
+    },
+    {
+      "ticker": "SSC",
+      "price": 2.16
+    },
+    {
+      "ticker": "WMLP",
+      "price": 1.8411
+    }
+  ]
+}

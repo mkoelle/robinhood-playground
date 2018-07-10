@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPI",
+      "price": 10.27
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPI",
+      "price": 10.285
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.105
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPI",
+      "price": 10.175
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPI",
+      "price": 10.225
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.185
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPI",
+      "price": 10.215
+    },
+    {
+      "ticker": "INFN",
+      "price": 10.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BKD",
+      "price": 10.065
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BKD",
+      "price": 10.055
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.15
+    }
+  ]
+}

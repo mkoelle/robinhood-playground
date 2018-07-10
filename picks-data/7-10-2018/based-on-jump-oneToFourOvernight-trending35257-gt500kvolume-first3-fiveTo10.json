@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 5.541
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNR",
+      "price": 5.41
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.5192
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNR",
+      "price": 5.49
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.57
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.915
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SN",
+      "price": 5.0745
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.59
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.47
+    }
+  ]
+}

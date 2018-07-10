@@ -1,0 +1,68 @@
+{
+  "10": [
+    {
+      "ticker": "ABUS",
+      "price": 8.85
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.45
+    },
+    {
+      "ticker": "CYTK",
+      "price": 9.25
+    }
+  ],
+  "50": [
+    {
+      "ticker": "ABUS",
+      "price": 8.95
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.475
+    },
+    {
+      "ticker": "CYTK",
+      "price": 9.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 9.125
+    },
+    {
+      "ticker": "CYTK",
+      "price": 9.125
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABUS",
+      "price": 8.96
+    },
+    {
+      "ticker": "CYTK",
+      "price": 9.2
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.0601
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ABUS",
+      "price": 9.025
+    },
+    {
+      "ticker": "CYTK",
+      "price": 9.225
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.065
+    }
+  ]
+}

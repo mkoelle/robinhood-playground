@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8801
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1489
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AHPI",
+      "price": 2.9559
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.1501
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8241
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.17
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AHPI",
+      "price": 2.8164
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.12
+    },
+    {
+      "ticker": "REFR",
+      "price": 0.852
+    }
+  ]
+}

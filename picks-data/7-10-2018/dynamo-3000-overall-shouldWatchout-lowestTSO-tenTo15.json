@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ELVT",
+      "price": 10.79
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FORM",
+      "price": 13.775
+    },
+    {
+      "ticker": "ELVT",
+      "price": 10.72
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELVT",
+      "price": 10.75
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.655
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WOW",
+      "price": 10.68
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.4275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WOW",
+      "price": 10.6401
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XNET",
+      "price": 11.505
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABEO",
+      "price": 14.65
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.095
+    }
+  ]
+}

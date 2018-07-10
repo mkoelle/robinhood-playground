@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MOTS",
+      "price": 9.0101
+    },
+    {
+      "ticker": "YIN",
+      "price": 8.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MOTS",
+      "price": 8.8
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MOTS",
+      "price": 8.6898
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.6218
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MOTS",
+      "price": 8.51
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.245
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SALM",
+      "price": 5.3
+    },
+    {
+      "ticker": "MOTS",
+      "price": 8.3001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOTS",
+      "price": 8.37
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.432
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOTS",
+      "price": 8.35
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.4773
+    }
+  ]
+}

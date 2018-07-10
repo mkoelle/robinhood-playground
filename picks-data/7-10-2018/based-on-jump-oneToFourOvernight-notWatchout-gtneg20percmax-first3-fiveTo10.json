@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.78
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.92
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.905
+    },
+    {
+      "ticker": "OLO",
+      "price": 6.4348
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IIJI",
+      "price": 9.7001
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.86
+    },
+    {
+      "ticker": "CLPR",
+      "price": 9.56
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 8.32
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.5252
+    },
+    {
+      "ticker": "CHK",
+      "price": 5.541
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.707
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SN",
+      "price": 4.98
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.42
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.41
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.81
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRYS",
+      "price": 6.1199
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.24
+    },
+    {
+      "ticker": "SN",
+      "price": 5.06
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.55
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 8.86
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.94
+    },
+    {
+      "ticker": "AMR",
+      "price": 7.23
+    },
+    {
+      "ticker": "SN",
+      "price": 5.0745
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.59
+    }
+  ]
+}

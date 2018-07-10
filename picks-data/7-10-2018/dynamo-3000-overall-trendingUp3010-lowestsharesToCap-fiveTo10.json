@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 9.79
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.022
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSPI",
+      "price": 10
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.8001
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZOES",
+      "price": 9.99
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.8445
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZOES",
+      "price": 9.94
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.681
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZOES",
+      "price": 10.01
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZOES",
+      "price": 9.96
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INOV",
+      "price": 10
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.99
+    }
+  ]
+}

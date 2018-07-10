@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RIG",
+      "price": 14.035
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.515
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNHI",
+      "price": 10.785
+    },
+    {
+      "ticker": "QEP",
+      "price": 13.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 10.745
+    },
+    {
+      "ticker": "QEP",
+      "price": 13.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNHI",
+      "price": 10.75
+    },
+    {
+      "ticker": "QEP",
+      "price": 13.575
+    }
+  ]
+}

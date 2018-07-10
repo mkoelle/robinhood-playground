@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.275
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.325
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.515
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.3
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.26
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.595
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FET",
+      "price": 13.3
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.31
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.26
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.5759
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FET",
+      "price": 13.2
+    },
+    {
+      "ticker": "LPI",
+      "price": 10.245
+    },
+    {
+      "ticker": "BAS",
+      "price": 12.19
+    },
+    {
+      "ticker": "GTXI",
+      "price": 15.01
+    },
+    {
+      "ticker": "OAS",
+      "price": 13.49
+    }
+  ]
+}
