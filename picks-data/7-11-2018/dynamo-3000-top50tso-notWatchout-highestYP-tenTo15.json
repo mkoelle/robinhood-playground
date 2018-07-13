@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USAT",
+      "price": 14.2
+    },
+    {
+      "ticker": "VG",
+      "price": 13.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGAN",
+      "price": 14.55
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 10.53
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    }
+  ]
+}

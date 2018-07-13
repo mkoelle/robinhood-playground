@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VSAR",
+      "price": 2.15
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.68
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSAR",
+      "price": 2.105
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.62
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSAR",
+      "price": 2.0554
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.8308
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.26
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSAR",
+      "price": 2
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.9
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.1909
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIQ",
+      "price": 0.6126
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDS",
+      "price": 3.71
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.6913
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PDS",
+      "price": 3.66
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.6417
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JOB",
+      "price": 3.04
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.725
+    }
+  ]
+}

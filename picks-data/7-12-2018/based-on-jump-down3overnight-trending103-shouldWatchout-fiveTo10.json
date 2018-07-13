@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 5.9518
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BIOC",
+      "price": 6.29
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.05
+    },
+    {
+      "ticker": "TENX",
+      "price": 7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOC",
+      "price": 5.9642
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.05
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 5.65
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.05
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.8857
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.5735
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVXY",
+      "price": 13.57
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.59
+    },
+    {
+      "ticker": "CIFS",
+      "price": 13.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.6284
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVXY",
+      "price": 13.64
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.08
+    }
+  ]
+}

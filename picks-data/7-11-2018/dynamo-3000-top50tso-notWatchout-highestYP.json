@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TURN",
+      "price": 2.23
+    },
+    {
+      "ticker": "OCN",
+      "price": 4.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MYOS",
+      "price": 1.95
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYOS",
+      "price": 2.1299
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOS",
+      "price": 1.991
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MYOS",
+      "price": 2.089
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.8367
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MYOS",
+      "price": 2.37
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CFRX",
+      "price": 2.8132
+    },
+    {
+      "ticker": "MYOS",
+      "price": 2.0541
+    }
+  ]
+}

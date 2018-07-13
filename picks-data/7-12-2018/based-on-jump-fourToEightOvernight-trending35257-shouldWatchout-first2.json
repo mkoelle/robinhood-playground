@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIQ",
+      "price": 0.6126
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KIQ",
+      "price": 0.6913
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.4335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIQ",
+      "price": 0.6417
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JOB",
+      "price": 3.04
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.65
+    }
+  ]
+}

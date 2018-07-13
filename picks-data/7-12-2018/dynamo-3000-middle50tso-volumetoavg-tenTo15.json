@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VRA",
+      "price": 13.1946
+    },
+    {
+      "ticker": "LAND",
+      "price": 12.1101
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAD",
+      "price": 13.245
+    },
+    {
+      "ticker": "NXJ",
+      "price": 12.9893
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RQI",
+      "price": 12.1562
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PGX",
+      "price": 14.68
+    },
+    {
+      "ticker": "NMS",
+      "price": 13.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FMY",
+      "price": 13.4
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.98
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KALA",
+      "price": 12.7472
+    },
+    {
+      "ticker": "GE",
+      "price": 13.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.633
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 13.9
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIFS",
+      "price": 14.25
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIFS",
+      "price": 14.08
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.68
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NAVI",
+      "price": 13.75
+    },
+    {
+      "ticker": "ORBC",
+      "price": 10.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OFG",
+      "price": 14.505
+    },
+    {
+      "ticker": "STRL",
+      "price": 13.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 13.38
+    },
+    {
+      "ticker": "STRL",
+      "price": 13.105
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIG",
+      "price": 13.505
+    },
+    {
+      "ticker": "VLY",
+      "price": 12.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 10.335
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.685
+    }
+  ]
+}

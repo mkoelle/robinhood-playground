@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RIBT",
+      "price": 2.93
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8001
+    },
+    {
+      "ticker": "SB",
+      "price": 3.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RIBT",
+      "price": 2.919
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.9266
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5235
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIBT",
+      "price": 2.8764
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.895
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIBT",
+      "price": 2.8946
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8698
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.525
+    }
+  ]
+}

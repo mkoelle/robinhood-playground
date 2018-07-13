@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CCRN",
+      "price": 12.27
+    },
+    {
+      "ticker": "SIEB",
+      "price": 13.2407
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACIU",
+      "price": 14.745
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.8799
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRK",
+      "price": 12.12
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.1805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRK",
+      "price": 11.915
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.96
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 3.44
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 3.6749
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 3.59
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.8931
+    }
+  ]
+}

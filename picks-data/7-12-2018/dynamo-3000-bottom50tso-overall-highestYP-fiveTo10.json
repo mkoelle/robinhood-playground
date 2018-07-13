@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.97
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.505
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6.96
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 7.965
+    },
+    {
+      "ticker": "DS",
+      "price": 7.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 5.015
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.9966
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.798
+    }
+  ]
+}

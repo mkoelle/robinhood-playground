@@ -1,0 +1,53 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.1549
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBOX",
+      "price": 2.3
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.575
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.91
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.665
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.16
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.91
+    },
+    {
+      "ticker": "UPL",
+      "price": 1.86
+    }
+  ]
+}

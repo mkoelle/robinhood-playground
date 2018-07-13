@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.5252
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RSLS",
+      "price": 1.7
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RSLS",
+      "price": 1.67
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACHV",
+      "price": 5.57
+    },
+    {
+      "ticker": "TAHO",
+      "price": 5.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVX",
+      "price": 5.14
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BVX",
+      "price": 5.2
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JVA",
+      "price": 5.24
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JVA",
+      "price": 5.24
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JVA",
+      "price": 5.3
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVC",
+      "price": 5.025
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.16
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ATEN",
+      "price": 7.33
+    },
+    {
+      "ticker": "PES",
+      "price": 5.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 5.29
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCOV",
+      "price": 9.6
+    },
+    {
+      "ticker": "JYNT",
+      "price": 8.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDE",
+      "price": 8.3
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MACK",
+      "price": 5.3
+    },
+    {
+      "ticker": "SRNE",
+      "price": 7.475
+    }
+  ]
+}

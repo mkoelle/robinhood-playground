@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CDE",
+      "price": 8.04
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESXB",
+      "price": 9.725
+    },
+    {
+      "ticker": "AP",
+      "price": 9.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASC",
+      "price": 8.325
+    },
+    {
+      "ticker": "NE",
+      "price": 6.415
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AUPH",
+      "price": 5.687
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SWN",
+      "price": 5.385
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.29
+    }
+  ]
+}

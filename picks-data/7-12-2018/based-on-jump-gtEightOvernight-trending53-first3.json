@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NDRA",
+      "price": 2.8
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NDRA",
+      "price": 2.75
+    },
+    {
+      "ticker": "AST",
+      "price": 1.73
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NDRA",
+      "price": 2.6
+    },
+    {
+      "ticker": "AST",
+      "price": 1.656
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.5496
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NDRA",
+      "price": 2.37
+    },
+    {
+      "ticker": "AST",
+      "price": 1.75
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.5034
+    }
+  ]
+}

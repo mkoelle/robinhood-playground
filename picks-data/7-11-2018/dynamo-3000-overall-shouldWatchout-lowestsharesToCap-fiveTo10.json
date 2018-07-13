@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BKD",
+      "price": 9.99
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BKD",
+      "price": 9.975
+    },
+    {
+      "ticker": "ZOES",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INFN",
+      "price": 9.945
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.935
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INFN",
+      "price": 9.91
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.865
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INFN",
+      "price": 9.9
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INFN",
+      "price": 9.885
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.775
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INFN",
+      "price": 9.825
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.7801
+    }
+  ]
+}

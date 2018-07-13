@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.191
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 5.3
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.3643
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNR",
+      "price": 5.23
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 5.185
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPAC",
+      "price": 9.63
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPAC",
+      "price": 9.63
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.0388
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPAC",
+      "price": 9.63
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.0634
+    }
+  ]
+}

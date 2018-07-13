@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ACIU",
+      "price": 13.28
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.53
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACIU",
+      "price": 13.3
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.52
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.4052
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACIU",
+      "price": 13.37
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 10.9606
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACIU",
+      "price": 13.3667
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 10.9606
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.52
+    }
+  ]
+}

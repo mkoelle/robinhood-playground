@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABEV",
+      "price": 4.76
+    },
+    {
+      "ticker": "AUO",
+      "price": 4.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMRX",
+      "price": 4.77
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ICL",
+      "price": 4.63
+    },
+    {
+      "ticker": "LWAY",
+      "price": 4.443
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DHT",
+      "price": 4.815
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.755
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DHT",
+      "price": 4.81
+    },
+    {
+      "ticker": "CMRX",
+      "price": 4.755
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIC",
+      "price": 4.615
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.298
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMRX",
+      "price": 4.75
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.675
+    }
+  ]
+}

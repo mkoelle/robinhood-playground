@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPAR",
+      "price": 15.1
+    },
+    {
+      "ticker": "RES",
+      "price": 14.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CORT",
+      "price": 14.85
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14.4818
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMTE",
+      "price": 14.4818
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACIU",
+      "price": 14.99
+    },
+    {
+      "ticker": "DNLI",
+      "price": 14.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 15
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.45
+    }
+  ]
+}

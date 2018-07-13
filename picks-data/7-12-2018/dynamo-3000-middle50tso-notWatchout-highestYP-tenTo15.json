@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ATTU",
+      "price": 12.1
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCIP",
+      "price": 11.5
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.015
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 14.425
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCII",
+      "price": 14.79
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PSO",
+      "price": 12.02
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11.08
+    }
+  ]
+}

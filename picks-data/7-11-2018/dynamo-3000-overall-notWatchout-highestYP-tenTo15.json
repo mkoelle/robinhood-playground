@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GFN",
+      "price": 14
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.351
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.059
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "GFN",
+      "price": 14.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    },
+    {
+      "ticker": "GFN",
+      "price": 14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 10.53
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    }
+  ]
+}

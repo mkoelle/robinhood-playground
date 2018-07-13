@@ -1,0 +1,50 @@
+{
+  "10": [
+    {
+      "ticker": "BTAI",
+      "price": 12.125
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BTAI",
+      "price": 12.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 11.97
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BTAI",
+      "price": 12.17
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BTAI",
+      "price": 12.16
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.905
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BTAI",
+      "price": 11.85
+    },
+    {
+      "ticker": "ELVT",
+      "price": 10.53
+    },
+    {
+      "ticker": "QEP",
+      "price": 12.9
+    }
+  ]
+}

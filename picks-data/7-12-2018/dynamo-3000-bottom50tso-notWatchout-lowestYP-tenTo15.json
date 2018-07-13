@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GE",
+      "price": 13.96
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.633
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.839
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.58
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.7476
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.61
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.649
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.68
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.51
+    }
+  ]
+}

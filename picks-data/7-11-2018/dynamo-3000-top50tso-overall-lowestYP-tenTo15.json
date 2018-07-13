@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.48
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.3483
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 11.9
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.5
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.475
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.656
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4338
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.705
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.45
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.72
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRTK",
+      "price": 10.375
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.75
+    }
+  ]
+}

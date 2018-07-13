@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NVGS",
+      "price": 12.95
+    },
+    {
+      "ticker": "KRNY",
+      "price": 13.9
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMBA",
+      "price": 11.4
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.5
+    },
+    {
+      "ticker": "RYI",
+      "price": 12.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JMBA",
+      "price": 11.26
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.05
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMBA",
+      "price": 11.42
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMBA",
+      "price": 11.31
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.95
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NM",
+      "price": 0.85
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NM",
+      "price": 0.8496
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NM",
+      "price": 0.8496
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.82
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NM",
+      "price": 0.859
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3503
+    },
+    {
+      "ticker": "EBR",
+      "price": 3.82
+    }
+  ]
+}

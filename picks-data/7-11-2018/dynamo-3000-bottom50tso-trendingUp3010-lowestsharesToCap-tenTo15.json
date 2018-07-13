@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BOJA",
+      "price": 14.75
+    },
+    {
+      "ticker": "GME",
+      "price": 14.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TLYS",
+      "price": 14.69
+    },
+    {
+      "ticker": "GME",
+      "price": 14.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TLYS",
+      "price": 14.74
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLYS",
+      "price": 14.45
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TLYS",
+      "price": 14.56
+    },
+    {
+      "ticker": "USO",
+      "price": 14.415
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACY",
+      "price": 14.8
+    },
+    {
+      "ticker": "TLYS",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.32
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.4
+    }
+  ]
+}

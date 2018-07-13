@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TTS",
+      "price": 8.3
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TEDU",
+      "price": 8.44
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TEDU",
+      "price": 8.46
+    },
+    {
+      "ticker": "SRT",
+      "price": 6.845
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 6.495
+    },
+    {
+      "ticker": "SRT",
+      "price": 6.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 9.5783
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.7601
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BBD",
+      "price": 7.2
+    },
+    {
+      "ticker": "INSY",
+      "price": 7.64
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ORC",
+      "price": 7.7748
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ORC",
+      "price": 7.7658
+    },
+    {
+      "ticker": "CECE",
+      "price": 6.49
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MSD",
+      "price": 8.85
+    },
+    {
+      "ticker": "MFM",
+      "price": 6.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPH",
+      "price": 5.415
+    },
+    {
+      "ticker": "CX",
+      "price": 6.915
+    }
+  ]
+}

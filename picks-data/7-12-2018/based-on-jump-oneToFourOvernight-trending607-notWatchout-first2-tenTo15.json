@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CWCO",
+      "price": 13.9
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.57
+    }
+  ]
+}

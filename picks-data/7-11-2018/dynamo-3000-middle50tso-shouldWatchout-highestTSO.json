@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.3499
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.4501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGOC",
+      "price": 1.09
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5802
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DPW",
+      "price": 0.5199
+    },
+    {
+      "ticker": "MOC",
+      "price": 1.5495
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CODX",
+      "price": 3.44
+    },
+    {
+      "ticker": "HTGM",
+      "price": 3.285
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNAT",
+      "price": 4.48
+    },
+    {
+      "ticker": "IMMY",
+      "price": 2.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FORD",
+      "price": 1.8
+    },
+    {
+      "ticker": "NAT",
+      "price": 2.655
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTIP",
+      "price": 2.925
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.8
+    }
+  ]
+}

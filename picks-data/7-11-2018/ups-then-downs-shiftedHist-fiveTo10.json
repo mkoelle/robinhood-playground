@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "BVX",
+      "price": 5.0473
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.2599
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.1899
+    }
+  ],
+  "50": [
+    {
+      "ticker": "BVX",
+      "price": 5.163
+    },
+    {
+      "ticker": "MGEN",
+      "price": 7.27
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.34
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BVX",
+      "price": 5.119
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.73
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.22
+    }
+  ],
+  "300": [
+    {
+      "ticker": "BVX",
+      "price": 5.118
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.64
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.219
+    }
+  ],
+  "380": [
+    {
+      "ticker": "BVX",
+      "price": 5.16
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.64
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.1791
+    }
+  ],
+  "600": [
+    {
+      "ticker": "BVX",
+      "price": 5.18
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.56
+    },
+    {
+      "ticker": "IEC",
+      "price": 6.18
+    }
+  ]
+}

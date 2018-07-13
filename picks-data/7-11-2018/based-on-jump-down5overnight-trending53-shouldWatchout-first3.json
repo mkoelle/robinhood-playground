@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GBR",
+      "price": 3.44
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GBR",
+      "price": 3.6749
+    },
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5999
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GBR",
+      "price": 3.59
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.8931
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.5701
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TROV",
+      "price": 0.7759
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.3401
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBOX",
+      "price": 2.2494
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.7501
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.9945
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TROV",
+      "price": 0.7525
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.3
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBOX",
+      "price": 2.16
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.7507
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.9749
+    }
+  ]
+}

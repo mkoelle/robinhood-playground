@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "VTL",
+      "price": 7.78
+    },
+    {
+      "ticker": "DEST",
+      "price": 6
+    }
+  ],
+  "50": [
+    {
+      "ticker": "VTL",
+      "price": 7.9
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.73
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VTL",
+      "price": 7.8
+    },
+    {
+      "ticker": "RMBL",
+      "price": 7.115
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.095
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.9
+    }
+  ],
+  "600": [
+    {
+      "ticker": "RMBL",
+      "price": 7.52
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.88
+    }
+  ]
+}

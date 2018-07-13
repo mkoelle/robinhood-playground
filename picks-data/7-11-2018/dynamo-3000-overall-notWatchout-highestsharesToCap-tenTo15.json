@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IIJI",
+      "price": 9.8
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.099
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JRS",
+      "price": 10.0955
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "PMBC",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    },
+    {
+      "ticker": "PMBC",
+      "price": 10.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    },
+    {
+      "ticker": "PMBC",
+      "price": 10.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.14
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AQN",
+      "price": 9.55
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.145
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    },
+    {
+      "ticker": "BBD",
+      "price": 7.285
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCOV",
+      "price": 9.6
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDE",
+      "price": 8.3
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 5.78
+    },
+    {
+      "ticker": "ZIXI",
+      "price": 5.53
+    }
+  ]
+}

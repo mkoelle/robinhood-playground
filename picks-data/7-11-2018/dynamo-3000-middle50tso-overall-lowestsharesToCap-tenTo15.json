@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 14.99
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDNT",
+      "price": 14.95
+    },
+    {
+      "ticker": "BLW",
+      "price": 14.9198
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EMF",
+      "price": 14.71
+    },
+    {
+      "ticker": "BLW",
+      "price": 14.9201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZMLP",
+      "price": 14.8804
+    },
+    {
+      "ticker": "EMF",
+      "price": 14.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPK",
+      "price": 14.9603
+    },
+    {
+      "ticker": "ZMLP",
+      "price": 14.8804
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UBS",
+      "price": 14.985
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.9603
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CS",
+      "price": 14.86
+    },
+    {
+      "ticker": "BPK",
+      "price": 14.9603
+    }
+  ]
+}

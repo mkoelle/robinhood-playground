@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ATEN",
+      "price": 7.33
+    },
+    {
+      "ticker": "AQN",
+      "price": 9.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 5.29
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCOV",
+      "price": 9.6
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDE",
+      "price": 8.3
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MACK",
+      "price": 5.3
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.78
+    }
+  ]
+}

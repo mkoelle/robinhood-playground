@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "BBOX",
+      "price": 2.3401
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.1549
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2494
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.67
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.44
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.3
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.69
+    },
+    {
+      "ticker": "TRXC",
+      "price": 4.4211
+    },
+    {
+      "ticker": "SN",
+      "price": 4.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.16
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.73
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.63
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.8
+    }
+  ]
+}

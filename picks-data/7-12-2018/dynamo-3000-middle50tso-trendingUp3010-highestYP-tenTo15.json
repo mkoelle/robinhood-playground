@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XRM",
+      "price": 13.31
+    },
+    {
+      "ticker": "OCIP",
+      "price": 11.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 14.425
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCII",
+      "price": 14.79
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PSO",
+      "price": 12.02
+    },
+    {
+      "ticker": "CIO",
+      "price": 12.91
+    }
+  ]
+}

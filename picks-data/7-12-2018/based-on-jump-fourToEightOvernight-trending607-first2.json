@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NNDM",
+      "price": 2.2401
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNDM",
+      "price": 2.14
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.4335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNDM",
+      "price": 2.2034
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JOB",
+      "price": 3.04
+    },
+    {
+      "ticker": "NNDM",
+      "price": 2.24
+    }
+  ]
+}

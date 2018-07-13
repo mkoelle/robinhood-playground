@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.67
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AGLE",
+      "price": 9.55
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INS",
+      "price": 9.2937
+    },
+    {
+      "ticker": "CALL",
+      "price": 8.5165
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 9.34
+    },
+    {
+      "ticker": "TXMD",
+      "price": 6.695
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INS",
+      "price": 9.4211
+    },
+    {
+      "ticker": "CAMT",
+      "price": 7.5
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CWCO",
+      "price": 13.9
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.1195
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.75
+    },
+    {
+      "ticker": "REI",
+      "price": 13.79
+    },
+    {
+      "ticker": "VG",
+      "price": 13.465
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.05
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.56
+    },
+    {
+      "ticker": "MXE",
+      "price": 11.1888
+    },
+    {
+      "ticker": "REI",
+      "price": 13.605
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.09
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.58
+    },
+    {
+      "ticker": "MXE",
+      "price": 11.17
+    },
+    {
+      "ticker": "REI",
+      "price": 13.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    },
+    {
+      "ticker": "FPH",
+      "price": 12.13
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.57
+    },
+    {
+      "ticker": "MXE",
+      "price": 11.15
+    },
+    {
+      "ticker": "REI",
+      "price": 13.53
+    }
+  ]
+}

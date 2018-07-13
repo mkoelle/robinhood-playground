@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SN",
+      "price": 5
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SN",
+      "price": 5
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALRN",
+      "price": 5.1881
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 6.495
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MTEM",
+      "price": 5.02
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.19
+    }
+  ]
+}

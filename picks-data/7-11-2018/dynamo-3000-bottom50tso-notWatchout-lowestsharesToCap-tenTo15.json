@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPAR",
+      "price": 14.95
+    },
+    {
+      "ticker": "QTRX",
+      "price": 14.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ITCB",
+      "price": 14.845
+    },
+    {
+      "ticker": "GME",
+      "price": 14.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNLI",
+      "price": 14.97
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNLI",
+      "price": 14.79
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNLI",
+      "price": 14.71
+    },
+    {
+      "ticker": "USO",
+      "price": 14.415
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACY",
+      "price": 14.8
+    },
+    {
+      "ticker": "USO",
+      "price": 14.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USO",
+      "price": 14.32
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.4
+    }
+  ]
+}

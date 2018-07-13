@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NYCB",
+      "price": 11.61
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECA",
+      "price": 13.19
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EEI",
+      "price": 13.325
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDOR",
+      "price": 10.69
+    },
+    {
+      "ticker": "ESND",
+      "price": 14.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USAT",
+      "price": 14.3
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IOVA",
+      "price": 13.3328
+    },
+    {
+      "ticker": "TBBK",
+      "price": 10.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LMRK",
+      "price": 13.9
+    },
+    {
+      "ticker": "LOV",
+      "price": 10.555
+    }
+  ]
+}

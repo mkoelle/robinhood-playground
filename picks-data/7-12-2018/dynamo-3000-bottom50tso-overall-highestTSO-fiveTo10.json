@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CDE",
+      "price": 8.04
+    },
+    {
+      "ticker": "KEYW",
+      "price": 9.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESXB",
+      "price": 9.725
+    },
+    {
+      "ticker": "VCEL",
+      "price": 9.6625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRTA",
+      "price": 8.6
+    },
+    {
+      "ticker": "GNPX",
+      "price": 7.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AUPH",
+      "price": 5.687
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.5001
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SWN",
+      "price": 5.385
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.29
+    }
+  ]
+}

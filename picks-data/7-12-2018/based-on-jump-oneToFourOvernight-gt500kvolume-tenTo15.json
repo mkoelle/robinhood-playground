@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "JNUG",
+      "price": 13.8799
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 13.23
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.8262
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BILI",
+      "price": 13.16
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.8
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.58
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BILI",
+      "price": 12.995
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.755
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.575
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.57
+    },
+    {
+      "ticker": "ITUB",
+      "price": 11.165
+    }
+  ]
+}

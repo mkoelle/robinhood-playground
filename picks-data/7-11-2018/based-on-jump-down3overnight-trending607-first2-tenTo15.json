@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 10.23
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 10.3
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 10.4349
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.48
+    }
+  ]
+}

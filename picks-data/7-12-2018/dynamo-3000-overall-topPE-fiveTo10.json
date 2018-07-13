@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FPI",
+      "price": 6.2
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.0551
+    },
+    {
+      "ticker": "CTG",
+      "price": 8.1247
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPI",
+      "price": 6.38
+    },
+    {
+      "ticker": "IKNX",
+      "price": 9.8994
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.095
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IKNX",
+      "price": 9.8994
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.07
+    },
+    {
+      "ticker": "CTG",
+      "price": 7.9998
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTWK",
+      "price": 5.7
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.4898
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTWK",
+      "price": 5.7
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.3595
+    },
+    {
+      "ticker": "CRON",
+      "price": 7.05
+    }
+  ]
+}

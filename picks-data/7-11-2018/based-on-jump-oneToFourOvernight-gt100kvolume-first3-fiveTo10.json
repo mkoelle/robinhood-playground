@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 5.625
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCRX",
+      "price": 6.2
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.51
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCRX",
+      "price": 6.38
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.27
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCRX",
+      "price": 6.3003
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.2365
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.38
+    }
+  ]
+}

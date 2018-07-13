@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.191
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.274
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 5.3
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.3643
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.34
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 9.35
+    },
+    {
+      "ticker": "MRNS",
+      "price": 8.17
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 9.555
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APEN",
+      "price": 8.96
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "APEN",
+      "price": 8.99
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.16
+    }
+  ]
+}

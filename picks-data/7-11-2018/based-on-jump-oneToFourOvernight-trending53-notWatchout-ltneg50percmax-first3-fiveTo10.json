@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 5.625
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 5.51
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 5.46
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.6601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 5.38
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.555
+    }
+  ]
+}

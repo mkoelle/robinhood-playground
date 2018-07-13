@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PKD",
+      "price": 0.4394
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.551
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PKD",
+      "price": 0.4481
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PKD",
+      "price": 0.4465
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5311
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PKD",
+      "price": 0.4277
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5217
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PKD",
+      "price": 0.4301
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5215
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PKD",
+      "price": 0.4281
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5061
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YUMA",
+      "price": 0.51
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.6379
+    }
+  ]
+}

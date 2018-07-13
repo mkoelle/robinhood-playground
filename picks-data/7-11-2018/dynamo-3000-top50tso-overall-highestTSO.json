@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GBR",
+      "price": 3.551
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.204
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MYOS",
+      "price": 1.95
+    },
+    {
+      "ticker": "WMLP",
+      "price": 2.2699
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYOS",
+      "price": 2.1299
+    },
+    {
+      "ticker": "BIOC",
+      "price": 4.811
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOS",
+      "price": 1.991
+    },
+    {
+      "ticker": "BIOC",
+      "price": 4.699
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MYOS",
+      "price": 2.089
+    },
+    {
+      "ticker": "BIOC",
+      "price": 4.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MYOS",
+      "price": 2.37
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2452
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MYOS",
+      "price": 2.0541
+    },
+    {
+      "ticker": "QUMU",
+      "price": 2.589
+    }
+  ]
+}

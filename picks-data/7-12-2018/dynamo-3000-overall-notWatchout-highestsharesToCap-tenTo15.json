@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IIJI",
+      "price": 10.03
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.0002
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BB",
+      "price": 10.04
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BB",
+      "price": 10.04
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BB",
+      "price": 10.1
+    },
+    {
+      "ticker": "JHY",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BB",
+      "price": 10.095
+    },
+    {
+      "ticker": "DWCH",
+      "price": 10.25
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FTR",
+      "price": 5.2
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.5608
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NWY",
+      "price": 5.03
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.109
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAHO",
+      "price": 5.015
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICLK",
+      "price": 6.25
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAHO",
+      "price": 5.015
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.415
+    }
+  ]
+}

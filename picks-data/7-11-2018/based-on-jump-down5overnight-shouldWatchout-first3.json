@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SINO",
+      "price": 1.06
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.44
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.7008
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SINO",
+      "price": 1.06
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.6749
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SINO",
+      "price": 1.14
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.59
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SINO",
+      "price": 1.11
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.7
+    }
+  ]
+}

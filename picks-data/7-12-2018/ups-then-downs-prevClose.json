@@ -1,0 +1,38 @@
+{
+  "10": [
+    {
+      "ticker": "OPGN",
+      "price": 2.13
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AYTU",
+      "price": 0.2851
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPGN",
+      "price": 2.09
+    }
+  ],
+  "600": [
+    {
+      "ticker": "NNA",
+      "price": 0.586
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.11
+    },
+    {
+      "ticker": "BPTH",
+      "price": 1.53
+    }
+  ]
+}

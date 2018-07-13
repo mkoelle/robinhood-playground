@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LOAN",
+      "price": 7.29
+    },
+    {
+      "ticker": "QD",
+      "price": 8.1354
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 5.71
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.315
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 5.7485
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.6344
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 8.73
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVX",
+      "price": 5.48
+    },
+    {
+      "ticker": "MDWD",
+      "price": 6.471
+    }
+  ]
+}

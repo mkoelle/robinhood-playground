@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.5735
+    },
+    {
+      "ticker": "DM",
+      "price": 13.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.79
+    },
+    {
+      "ticker": "DM",
+      "price": 13.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.59
+    },
+    {
+      "ticker": "BCRH",
+      "price": 11.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.6284
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOI",
+      "price": 14.27
+    },
+    {
+      "ticker": "MYF",
+      "price": 13.69
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ATEN",
+      "price": 7.33
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTR",
+      "price": 5.29
+    },
+    {
+      "ticker": "DEPO",
+      "price": 8.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BRG",
+      "price": 9.17
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NPTN",
+      "price": 6.6
+    },
+    {
+      "ticker": "MRIN",
+      "price": 5.722
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MACK",
+      "price": 5.3
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.625
+    }
+  ]
+}

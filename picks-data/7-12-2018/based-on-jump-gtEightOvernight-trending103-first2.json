@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IZEA",
+      "price": 1.67
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IZEA",
+      "price": 1.6
+    },
+    {
+      "ticker": "AST",
+      "price": 1.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IZEA",
+      "price": 1.82
+    },
+    {
+      "ticker": "AST",
+      "price": 1.656
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IZEA",
+      "price": 1.9
+    },
+    {
+      "ticker": "AST",
+      "price": 1.75
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "FPI",
+      "price": 7.28
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.99
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.473
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FPI",
+      "price": 5.405
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.2501
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.43
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FPI",
+      "price": 5.37
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.33
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.175
+    }
+  ]
+}

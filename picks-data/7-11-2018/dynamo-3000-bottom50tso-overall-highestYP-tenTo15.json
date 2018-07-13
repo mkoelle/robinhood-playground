@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.41
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.225
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.26
+    },
+    {
+      "ticker": "DRNA",
+      "price": 13.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.19
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CCXI",
+      "price": 13.28
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MVO",
+      "price": 11.37
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCXI",
+      "price": 13.34
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.795
+    }
+  ]
+}

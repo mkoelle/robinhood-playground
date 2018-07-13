@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "YUMA",
+      "price": 0.551
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4394
+    }
+  ],
+  "40": [
+    {
+      "ticker": "STAF",
+      "price": 3.1
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.105
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAU",
+      "price": 1.47
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.1139
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLIN",
+      "price": 1.8301
+    },
+    {
+      "ticker": "YUMA",
+      "price": 0.5217
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLIN",
+      "price": 1.77
+    },
+    {
+      "ticker": "USAU",
+      "price": 1.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLIN",
+      "price": 1.7251
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.8672
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STAF",
+      "price": 2.8
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.74
+    }
+  ]
+}

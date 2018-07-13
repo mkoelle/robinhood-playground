@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "FPI",
+      "price": 5.56
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.17
+    }
+  ],
+  "280": [
+    {
+      "ticker": "FPI",
+      "price": 5.3545
+    },
+    {
+      "ticker": "METC",
+      "price": 6.27
+    }
+  ],
+  "328": [
+    {
+      "ticker": "NAKD",
+      "price": 5.2501
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.2521
+    }
+  ],
+  "388": [
+    {
+      "ticker": "SEED",
+      "price": 7.9494
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.725
+    }
+  ]
+}

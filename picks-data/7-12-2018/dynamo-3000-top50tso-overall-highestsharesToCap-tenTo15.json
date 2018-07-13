@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IIJI",
+      "price": 10.03
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.055
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BB",
+      "price": 10.04
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.1102
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BB",
+      "price": 10.04
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 10.175
+    },
+    {
+      "ticker": "BB",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 10.2
+    },
+    {
+      "ticker": "BKD",
+      "price": 10.0752
+    }
+  ]
+}

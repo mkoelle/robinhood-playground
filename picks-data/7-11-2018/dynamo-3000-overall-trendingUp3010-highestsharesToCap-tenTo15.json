@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INFN",
+      "price": 10.12
+    },
+    {
+      "ticker": "SPN",
+      "price": 10.075
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JRS",
+      "price": 10.0955
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "PMBC",
+      "price": 10.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.1805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.074
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.53
+    }
+  ]
+}

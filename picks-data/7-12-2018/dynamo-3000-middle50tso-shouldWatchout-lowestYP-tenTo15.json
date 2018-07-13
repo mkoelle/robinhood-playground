@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.5735
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.79
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.59
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.6284
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TCAP",
+      "price": 11.77
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.295
+    }
+  ]
+}

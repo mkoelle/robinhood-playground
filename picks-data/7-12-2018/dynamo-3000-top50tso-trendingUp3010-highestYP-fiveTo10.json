@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 7.24
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.145
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CERS",
+      "price": 7.34
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 7.31
+    },
+    {
+      "ticker": "ARQL",
+      "price": 6.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.55
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.849
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.42
+    }
+  ]
+}

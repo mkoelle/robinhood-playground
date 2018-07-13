@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RIBT",
+      "price": 2.93
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8001
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.75
+    },
+    {
+      "ticker": "ARPO",
+      "price": 4.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.7267
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.7267
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.93
+    }
+  ]
+}

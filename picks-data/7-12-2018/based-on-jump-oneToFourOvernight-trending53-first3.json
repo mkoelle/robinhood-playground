@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BBOX",
+      "price": 2.3401
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.805
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2494
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.9945
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.3
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.16
+    },
+    {
+      "ticker": "CBAK",
+      "price": 0.9749
+    }
+  ]
+}

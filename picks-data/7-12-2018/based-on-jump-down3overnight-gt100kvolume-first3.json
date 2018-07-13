@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMDA",
+      "price": 0.56
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.65
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMDA",
+      "price": 0.585
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.73
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.599
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMDA",
+      "price": 0.5701
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.7587
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.5612
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMDA",
+      "price": 0.57
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.6966
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.534
+    }
+  ]
+}

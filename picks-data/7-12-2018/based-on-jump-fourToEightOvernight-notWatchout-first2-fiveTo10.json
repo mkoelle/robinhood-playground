@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SHNY",
+      "price": 7.25
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.185
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHNY",
+      "price": 7.25
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.1845
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SHNY",
+      "price": 7.04
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.1802
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SHNY",
+      "price": 7.04
+    },
+    {
+      "ticker": "SMI",
+      "price": 6.175
+    }
+  ]
+}

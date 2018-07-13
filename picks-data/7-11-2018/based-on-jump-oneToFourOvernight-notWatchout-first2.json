@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGLT",
+      "price": 0.43
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4084
+    },
+    {
+      "ticker": "MYOS",
+      "price": 2.125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGLT",
+      "price": 0.39
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.8799
+    }
+  ]
+}

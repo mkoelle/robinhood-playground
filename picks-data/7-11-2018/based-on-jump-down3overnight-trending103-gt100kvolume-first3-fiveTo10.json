@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ESV",
+      "price": 7.62
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.7578
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 8.3101
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.75
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 8.35
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.745
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.795
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 8.445
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.795
+    },
+    {
+      "ticker": "OCLR",
+      "price": 8.78
+    }
+  ]
+}

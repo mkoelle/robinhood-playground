@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GE",
+      "price": 13.96
+    },
+    {
+      "ticker": "RES",
+      "price": 14.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 11.21
+    },
+    {
+      "ticker": "LCUT",
+      "price": 13.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 11.28
+    },
+    {
+      "ticker": "JKS",
+      "price": 13.8578
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JKS",
+      "price": 13.67
+    },
+    {
+      "ticker": "SELB",
+      "price": 13.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JKS",
+      "price": 13.8452
+    },
+    {
+      "ticker": "DBD",
+      "price": 12.8
+    }
+  ]
+}

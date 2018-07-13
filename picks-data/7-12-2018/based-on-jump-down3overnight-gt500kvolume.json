@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1707
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1699
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACRX",
+      "price": 2.925
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMDA",
+      "price": 0.57
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.6966
+    },
+    {
+      "ticker": "ACRX",
+      "price": 3.05
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1705
+    }
+  ]
+}

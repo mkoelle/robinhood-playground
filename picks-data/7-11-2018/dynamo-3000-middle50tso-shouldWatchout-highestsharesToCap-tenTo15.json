@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AIRG",
+      "price": 10.85
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TCAP",
+      "price": 11.82
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.971
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NTRP",
+      "price": 10.3586
+    },
+    {
+      "ticker": "XRM",
+      "price": 13.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NTRP",
+      "price": 10.3378
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TCAP",
+      "price": 11.79
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WAIR",
+      "price": 11.225
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.79
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WAIR",
+      "price": 11.225
+    },
+    {
+      "ticker": "NSH",
+      "price": 12.975
+    }
+  ]
+}

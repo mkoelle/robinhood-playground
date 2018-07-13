@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EGLT",
+      "price": 0.43
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.05
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.05
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4084
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.05
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGLT",
+      "price": 0.39
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.0301
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.51
+    }
+  ]
+}

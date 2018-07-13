@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NGVC",
+      "price": 13.39
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 12.82
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "NGVC",
+      "price": 14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.33
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 14.44
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.35
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SHSP",
+      "price": 10.53
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    }
+  ]
+}

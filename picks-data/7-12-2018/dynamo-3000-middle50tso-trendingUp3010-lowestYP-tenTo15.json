@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "KTF",
+      "price": 11.026
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCRH",
+      "price": 11.35
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 11.49
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TCAP",
+      "price": 11.77
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.295
+    }
+  ]
+}

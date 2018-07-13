@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LPI",
+      "price": 9.74
+    },
+    {
+      "ticker": "PVG",
+      "price": 8.9201
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSW",
+      "price": 9.81
+    },
+    {
+      "ticker": "ESXB",
+      "price": 9.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSW",
+      "price": 9.75
+    },
+    {
+      "ticker": "PVG",
+      "price": 8.715
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSW",
+      "price": 9.76
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSW",
+      "price": 9.78
+    },
+    {
+      "ticker": "HMHC",
+      "price": 8.35
+    }
+  ]
+}

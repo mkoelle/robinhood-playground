@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 10.23
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.53
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 10.3
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.8
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.855
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 10.4349
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.8
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.7828
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.48
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.72
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.73
+    }
+  ]
+}

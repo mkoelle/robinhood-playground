@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1775
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.173
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1745
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.8931
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1736
+    }
+  ]
+}

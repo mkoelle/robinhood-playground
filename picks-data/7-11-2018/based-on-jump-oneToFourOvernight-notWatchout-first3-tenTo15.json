@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.21
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 15.28
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.168
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.4052
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.26
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.205
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 10.9606
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.4434
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.11
+    },
+    {
+      "ticker": "MSON",
+      "price": 13.4
+    },
+    {
+      "ticker": "MIDZ",
+      "price": 10.9606
+    }
+  ]
+}

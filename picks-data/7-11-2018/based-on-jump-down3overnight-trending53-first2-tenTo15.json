@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNHI",
+      "price": 10.25
+    },
+    {
+      "ticker": "VLT",
+      "price": 13.4301
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNHI",
+      "price": 10.27
+    },
+    {
+      "ticker": "VLT",
+      "price": 13.4301
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 10.22
+    },
+    {
+      "ticker": "VLT",
+      "price": 13.4301
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.25
+    }
+  ]
+}

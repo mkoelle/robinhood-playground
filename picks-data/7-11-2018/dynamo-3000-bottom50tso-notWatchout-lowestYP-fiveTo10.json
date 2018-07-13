@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HBM",
+      "price": 5.23
+    },
+    {
+      "ticker": "YIN",
+      "price": 7.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRIP",
+      "price": 5.405
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.672
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TRIL",
+      "price": 5.65
+    },
+    {
+      "ticker": "HBM",
+      "price": 5.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IPIC",
+      "price": 8.25
+    },
+    {
+      "ticker": "AP",
+      "price": 9.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AP",
+      "price": 9.4
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HBM",
+      "price": 5.1
+    },
+    {
+      "ticker": "AP",
+      "price": 9.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GOL",
+      "price": 5.47
+    },
+    {
+      "ticker": "AP",
+      "price": 9.65
+    }
+  ]
+}

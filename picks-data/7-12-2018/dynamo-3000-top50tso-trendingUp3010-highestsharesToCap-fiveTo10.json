@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SN",
+      "price": 5
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SN",
+      "price": 5
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSLR",
+      "price": 5.408
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 6.495
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HOS",
+      "price": 5.19
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.6
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VOXX",
+      "price": 5
+    },
+    {
+      "ticker": "IOTS",
+      "price": 6.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VOXX",
+      "price": 5.225
+    },
+    {
+      "ticker": "IOTS",
+      "price": 6.3289
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VOXX",
+      "price": 5.35
+    },
+    {
+      "ticker": "IOTS",
+      "price": 6.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VOXX",
+      "price": 5.3788
+    },
+    {
+      "ticker": "IOTS",
+      "price": 6.175
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MYOS",
+      "price": 1.65
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MYOS",
+      "price": 1.599
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYOS",
+      "price": 1.5612
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYOS",
+      "price": 1.534
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.5622
+    }
+  ]
+}

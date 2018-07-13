@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NICK",
+      "price": 10.0002
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDHL",
+      "price": 10.299
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HRZN",
+      "price": 10.43
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 11.5683
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BKD",
+      "price": 10.0752
+    },
+    {
+      "ticker": "DWCH",
+      "price": 10.25
+    }
+  ]
+}

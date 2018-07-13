@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "CKPT",
+      "price": 2.55
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.065
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CKPT",
+      "price": 2.71
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CKPT",
+      "price": 2.71
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.0724
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CKPT",
+      "price": 2.71
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.7
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.07
+    }
+  ]
+}

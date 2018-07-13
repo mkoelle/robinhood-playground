@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLM",
+      "price": 0.93
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.065
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLM",
+      "price": 0.93
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 0.93
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.0724
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OXBR",
+      "price": 1.7
+    },
+    {
+      "ticker": "PLM",
+      "price": 0.9301
+    }
+  ]
+}

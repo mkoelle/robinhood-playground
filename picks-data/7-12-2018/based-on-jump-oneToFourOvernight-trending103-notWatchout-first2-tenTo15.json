@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKBA",
+      "price": 9.9401
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKBA",
+      "price": 10.18
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKBA",
+      "price": 10.17
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKBA",
+      "price": 10.165
+    },
+    {
+      "ticker": "CWCO",
+      "price": 13.6
+    }
+  ]
+}

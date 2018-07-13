@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.5252
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.5856
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.58
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLIN",
+      "price": 1.8931
+    },
+    {
+      "ticker": "VLRX",
+      "price": 1.615
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.1001
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "FPI",
+      "price": 5.56
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.25
+    }
+  ],
+  "280": [
+    {
+      "ticker": "FPI",
+      "price": 5.3545
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.9159
+    }
+  ],
+  "328": [
+    {
+      "ticker": "FPI",
+      "price": 5.3732
+    },
+    {
+      "ticker": "MAMS",
+      "price": 8.2521
+    }
+  ],
+  "388": [
+    {
+      "ticker": "NAKD",
+      "price": 5.08
+    },
+    {
+      "ticker": "SEED",
+      "price": 7.9494
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMDA",
+      "price": 0.56
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMDA",
+      "price": 0.585
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.599
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMDA",
+      "price": 0.5701
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.5612
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMDA",
+      "price": 0.57
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.534
+    }
+  ]
+}

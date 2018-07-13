@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RES",
+      "price": 15.0599
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMT",
+      "price": 14.835
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.555
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMT",
+      "price": 14.13
+    },
+    {
+      "ticker": "BILI",
+      "price": 13.2666
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.656
+    },
+    {
+      "ticker": "DM",
+      "price": 13.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.705
+    },
+    {
+      "ticker": "LCI",
+      "price": 14.475
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.72
+    },
+    {
+      "ticker": "LCI",
+      "price": 14.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.75
+    },
+    {
+      "ticker": "TGS",
+      "price": 14.75
+    }
+  ]
+}

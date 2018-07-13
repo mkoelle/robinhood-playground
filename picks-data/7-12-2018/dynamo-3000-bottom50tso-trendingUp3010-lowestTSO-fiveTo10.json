@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CADC",
+      "price": 6.35
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.275
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 5.71
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 5.7485
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HZN",
+      "price": 6.76
+    },
+    {
+      "ticker": "SSW",
+      "price": 9.76
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HZN",
+      "price": 6.793
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.798
+    }
+  ]
+}

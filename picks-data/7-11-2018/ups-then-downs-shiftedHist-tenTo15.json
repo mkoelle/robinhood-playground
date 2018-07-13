@@ -1,0 +1,40 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "QNST",
+      "price": 14.3
+    },
+    {
+      "ticker": "ENDP",
+      "price": 11.0062
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.34
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.945
+    }
+  ],
+  "300": [
+    {
+      "ticker": "QNST",
+      "price": 14.475
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.925
+    }
+  ],
+  "380": [
+    {
+      "ticker": "QNST",
+      "price": 14.285
+    }
+  ],
+  "600": []
+}

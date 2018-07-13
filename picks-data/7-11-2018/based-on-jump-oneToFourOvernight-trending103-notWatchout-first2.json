@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGLT",
+      "price": 0.43
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGLT",
+      "price": 0.4084
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EGLT",
+      "price": 0.39
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.51
+    }
+  ]
+}

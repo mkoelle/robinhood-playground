@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSAR",
+      "price": 2.15
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSAR",
+      "price": 2.105
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSAR",
+      "price": 2.0554
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.8308
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSAR",
+      "price": 2
+    },
+    {
+      "ticker": "BIOC",
+      "price": 3.9
+    }
+  ]
+}

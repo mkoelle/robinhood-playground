@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CFRX",
+      "price": 2.8001
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.9266
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5235
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.895
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8698
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.525
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.15
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.132
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.633
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.58
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.61
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.195
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10.68
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.2339
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ACH",
+      "price": 10.37
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACH",
+      "price": 10.37
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.756
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACH",
+      "price": 10.334
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.6101
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACH",
+      "price": 10.324
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.01
+    }
+  ]
+}

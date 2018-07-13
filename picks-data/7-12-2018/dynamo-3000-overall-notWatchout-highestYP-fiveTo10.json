@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DNR",
+      "price": 5.0537
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNR",
+      "price": 5.03
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 7.31
+    },
+    {
+      "ticker": "ARQL",
+      "price": 6.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 5.015
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNR",
+      "price": 5.035
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.42
+    }
+  ]
+}

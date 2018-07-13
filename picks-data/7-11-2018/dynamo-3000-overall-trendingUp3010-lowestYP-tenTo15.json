@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.86
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.675
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.825
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DERM",
+      "price": 11.07
+    },
+    {
+      "ticker": "MLP",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DERM",
+      "price": 11.23
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 11.368
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.1905
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 11.36
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 11.35
+    },
+    {
+      "ticker": "JKS",
+      "price": 14.24
+    }
+  ]
+}

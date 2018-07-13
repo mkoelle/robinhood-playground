@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 0.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3601
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4368
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RGSE",
+      "price": 0.357
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4535
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AYTU",
+      "price": 0.2914
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.3624
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPST",
+      "price": 1.53
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPST",
+      "price": 1.51
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.3901
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPST",
+      "price": 1.5085
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 2.25
+    },
+    {
+      "ticker": "CPST",
+      "price": 1.5264
+    }
+  ]
+}

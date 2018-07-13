@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BLIN",
+      "price": 2
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.1
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLIN",
+      "price": 2.0814
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.1399
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLIN",
+      "price": 1.93
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.05
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLIN",
+      "price": 1.8931
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.08
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.48
+    }
+  ]
+}

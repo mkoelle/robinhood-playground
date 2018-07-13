@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NETE",
+      "price": 7.6599
+    },
+    {
+      "ticker": "KALV",
+      "price": 8.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CADC",
+      "price": 6.4427
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPI",
+      "price": 6.8362
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 5.7201
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPI",
+      "price": 5.5107
+    },
+    {
+      "ticker": "IPIC",
+      "price": 8.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPI",
+      "price": 5.4724
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPI",
+      "price": 5.3182
+    },
+    {
+      "ticker": "KMPH",
+      "price": 5.1
+    }
+  ]
+}

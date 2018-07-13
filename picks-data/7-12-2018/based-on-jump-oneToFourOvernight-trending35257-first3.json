@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 2.97
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.6701
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.1549
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.73
+    }
+  ]
+}

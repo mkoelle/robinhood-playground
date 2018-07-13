@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SN",
+      "price": 4.8
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SN",
+      "price": 4.81
+    },
+    {
+      "ticker": "NWY",
+      "price": 4.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SN",
+      "price": 4.91
+    },
+    {
+      "ticker": "RELV",
+      "price": 4.9001
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDR",
+      "price": 4.985
+    },
+    {
+      "ticker": "SN",
+      "price": 4.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDR",
+      "price": 4.945
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.6484
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DFBG",
+      "price": 4.97
+    },
+    {
+      "ticker": "CDR",
+      "price": 4.915
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDR",
+      "price": 4.895
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.91
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SLV",
+      "price": 14.99
+    },
+    {
+      "ticker": "CS",
+      "price": 14.955
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SLV",
+      "price": 14.985
+    },
+    {
+      "ticker": "CS",
+      "price": 14.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SLV",
+      "price": 14.9084
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.8152
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SLV",
+      "price": 14.885
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.762
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UCI",
+      "price": 14.92
+    },
+    {
+      "ticker": "SLV",
+      "price": 14.8586
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACY",
+      "price": 14.8
+    },
+    {
+      "ticker": "UCI",
+      "price": 14.91
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UCI",
+      "price": 14.828
+    },
+    {
+      "ticker": "UBS",
+      "price": 14.99
+    }
+  ]
+}

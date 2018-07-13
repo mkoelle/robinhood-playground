@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LOAN",
+      "price": 7.29
+    },
+    {
+      "ticker": "SRC",
+      "price": 8.225
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 5.71
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 5.7485
+    },
+    {
+      "ticker": "ORC",
+      "price": 7.7658
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 8.73
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVX",
+      "price": 5.48
+    },
+    {
+      "ticker": "FIT",
+      "price": 6.645
+    }
+  ]
+}

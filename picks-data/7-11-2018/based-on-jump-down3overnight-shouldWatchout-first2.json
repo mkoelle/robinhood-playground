@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SINO",
+      "price": 1.06
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SINO",
+      "price": 1.06
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.6749
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SINO",
+      "price": 1.14
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SINO",
+      "price": 1.11
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.8225
+    }
+  ]
+}

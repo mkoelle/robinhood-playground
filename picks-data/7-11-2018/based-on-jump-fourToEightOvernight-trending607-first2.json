@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AIPT",
+      "price": 1.23
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AIPT",
+      "price": 1.2
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AIPT",
+      "price": 1.1873
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.6281
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AIPT",
+      "price": 1.1901
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.6
+    }
+  ]
+}

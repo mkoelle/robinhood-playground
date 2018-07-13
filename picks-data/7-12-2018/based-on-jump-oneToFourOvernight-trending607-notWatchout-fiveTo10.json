@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "SKIS",
+      "price": 5.44
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.31
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.835
+    },
+    {
+      "ticker": "NE",
+      "price": 6.585
+    },
+    {
+      "ticker": "IDSY",
+      "price": 6.254
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SKIS",
+      "price": 5.4027
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.15
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.62
+    },
+    {
+      "ticker": "NE",
+      "price": 6.48
+    },
+    {
+      "ticker": "PES",
+      "price": 5.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SKIS",
+      "price": 5.35
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.985
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.555
+    },
+    {
+      "ticker": "NE",
+      "price": 6.44
+    },
+    {
+      "ticker": "PES",
+      "price": 5.5999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SKIS",
+      "price": 5.3498
+    },
+    {
+      "ticker": "IMH",
+      "price": 9.8
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.1
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.625
+    },
+    {
+      "ticker": "NE",
+      "price": 6.485
+    }
+  ]
+}

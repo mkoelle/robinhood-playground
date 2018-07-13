@@ -1,0 +1,42 @@
+{
+  "32": [
+    {
+      "ticker": "BIOC",
+      "price": 5.65
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.66
+    }
+  ],
+  "63": [
+    {
+      "ticker": "FPI",
+      "price": 6.1201
+    },
+    {
+      "ticker": "CELP",
+      "price": 7.4333
+    }
+  ],
+  "221": [
+    {
+      "ticker": "IPIC",
+      "price": 8.34
+    },
+    {
+      "ticker": "TENX",
+      "price": 6.761
+    }
+  ],
+  "328": [
+    {
+      "ticker": "CELP",
+      "price": 7.15
+    },
+    {
+      "ticker": "VSTM",
+      "price": 8.0452
+    }
+  ]
+}

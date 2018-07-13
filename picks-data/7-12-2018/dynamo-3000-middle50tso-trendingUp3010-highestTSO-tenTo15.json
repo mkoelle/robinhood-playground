@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CPE",
+      "price": 11.02
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFN",
+      "price": 10.5
+    },
+    {
+      "ticker": "KTF",
+      "price": 11.026
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCII",
+      "price": 14.78
+    },
+    {
+      "ticker": "PGX",
+      "price": 14.6819
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWHM",
+      "price": 10.12
+    },
+    {
+      "ticker": "MYC",
+      "price": 13.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JHS",
+      "price": 13.4643
+    },
+    {
+      "ticker": "RQI",
+      "price": 12.1866
+    }
+  ]
+}

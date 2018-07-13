@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "KALA",
+      "price": 12.7472
+    },
+    {
+      "ticker": "PDFS",
+      "price": 12.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IMTE",
+      "price": 14.4818
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 13.9
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELVT",
+      "price": 10.245
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.5683
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTGN",
+      "price": 12
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.625
+    }
+  ]
+}

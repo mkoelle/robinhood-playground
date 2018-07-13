@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CLDR",
+      "price": 14.8
+    },
+    {
+      "ticker": "FLEX",
+      "price": 14.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.79
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BOJA",
+      "price": 14.9
+    },
+    {
+      "ticker": "UIS",
+      "price": 14.3375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.6284
+    },
+    {
+      "ticker": "SIEB",
+      "price": 13.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AFI",
+      "price": 14.025
+    },
+    {
+      "ticker": "TCAP",
+      "price": 11.77
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPAR",
+      "price": 15.1
+    },
+    {
+      "ticker": "USO",
+      "price": 14.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UCI",
+      "price": 14.96
+    },
+    {
+      "ticker": "BT",
+      "price": 14.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UCI",
+      "price": 14.9
+    },
+    {
+      "ticker": "BT",
+      "price": 14.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UCI",
+      "price": 14.9
+    },
+    {
+      "ticker": "BT",
+      "price": 14.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UCI",
+      "price": 14.93
+    },
+    {
+      "ticker": "BT",
+      "price": 14.8961
+    }
+  ]
+}

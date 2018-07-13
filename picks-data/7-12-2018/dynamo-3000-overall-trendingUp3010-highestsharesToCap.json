@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "PKD",
+      "price": 0.4236
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.61
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HEB",
+      "price": 0.32
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.424
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HEB",
+      "price": 0.3104
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4239
+    }
+  ],
+  "200": [
+    {
+      "ticker": "APT",
+      "price": 3.4569
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3104
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APT",
+      "price": 3.4569
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3105
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HEB",
+      "price": 0.3101
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4241
+    }
+  ]
+}

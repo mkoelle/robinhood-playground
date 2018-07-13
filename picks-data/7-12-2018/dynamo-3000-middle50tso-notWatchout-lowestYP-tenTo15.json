@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.9766
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 13.65
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCRH",
+      "price": 11.35
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.98
+    },
+    {
+      "ticker": "COTY",
+      "price": 14.095
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOI",
+      "price": 14.27
+    },
+    {
+      "ticker": "MYF",
+      "price": 13.69
+    }
+  ]
+}

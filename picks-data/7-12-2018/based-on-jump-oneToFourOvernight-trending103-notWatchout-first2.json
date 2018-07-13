@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MDLY",
+      "price": 3.8
+    },
+    {
+      "ticker": "CDXC",
+      "price": 4.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UWN",
+      "price": 2.05
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UWN",
+      "price": 2.06
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UWN",
+      "price": 2.04
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.7
+    }
+  ]
+}

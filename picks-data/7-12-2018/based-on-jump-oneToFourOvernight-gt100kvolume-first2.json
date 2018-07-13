@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBOX",
+      "price": 2.3401
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.1549
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2494
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "SID",
+      "price": 2.015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "SID",
+      "price": 2.04
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBOX",
+      "price": 2.3401
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.2494
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "BBOX",
+      "price": 2.16
+    }
+  ]
+}

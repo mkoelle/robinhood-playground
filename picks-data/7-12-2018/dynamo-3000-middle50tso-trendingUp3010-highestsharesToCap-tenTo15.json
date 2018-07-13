@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SSW",
+      "price": 10.05
+    },
+    {
+      "ticker": "JRS",
+      "price": 10.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFN",
+      "price": 10.5
+    },
+    {
+      "ticker": "WMC",
+      "price": 10.685
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PFO",
+      "price": 10.9097
+    },
+    {
+      "ticker": "MITL",
+      "price": 11.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWHM",
+      "price": 10.12
+    },
+    {
+      "ticker": "PHH",
+      "price": 10.87
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNGR",
+      "price": 10.295
+    },
+    {
+      "ticker": "DNP",
+      "price": 10.957
+    }
+  ]
+}

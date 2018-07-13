@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MNGA",
+      "price": 0.3788
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MNGA",
+      "price": 0.352
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.77
+    },
+    {
+      "ticker": "TNTR",
+      "price": 0.194
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.7061
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.3601
+    },
+    {
+      "ticker": "SCYX",
+      "price": 1.735
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACHV",
+      "price": 4.72
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7499
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.3611
+    }
+  ]
+}

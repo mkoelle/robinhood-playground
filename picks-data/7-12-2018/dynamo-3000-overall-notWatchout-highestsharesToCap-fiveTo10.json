@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EMMS",
+      "price": 5.08
+    },
+    {
+      "ticker": "WIT",
+      "price": 5.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WIT",
+      "price": 5.1
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PPR",
+      "price": 5.01
+    },
+    {
+      "ticker": "WIT",
+      "price": 5.085
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASPN",
+      "price": 5.07
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.01
+    }
+  ]
+}

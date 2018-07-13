@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    },
+    {
+      "ticker": "CCXI",
+      "price": 13.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XRM",
+      "price": 13.31
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UIS",
+      "price": 14.3375
+    },
+    {
+      "ticker": "BOJA",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIEB",
+      "price": 13.03
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AFI",
+      "price": 14.025
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.295
+    }
+  ]
+}

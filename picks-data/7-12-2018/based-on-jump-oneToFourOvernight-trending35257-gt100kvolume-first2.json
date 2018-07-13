@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TGA",
+      "price": 3.77
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.3652
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.1549
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.3
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.73
+    }
+  ]
+}

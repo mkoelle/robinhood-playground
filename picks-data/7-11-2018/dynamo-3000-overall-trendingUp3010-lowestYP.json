@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.0652
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6032
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 1.5815
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDGE",
+      "price": 1.05
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.1686
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 1.591
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.045
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6032
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DCIX",
+      "price": 1.595
+    },
+    {
+      "ticker": "EDGE",
+      "price": 1.0352
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BTAI",
+      "price": 12.01
+    },
+    {
+      "ticker": "LCUT",
+      "price": 12.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTAI",
+      "price": 12.2797
+    },
+    {
+      "ticker": "VRA",
+      "price": 13.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BTAI",
+      "price": 12.045
+    },
+    {
+      "ticker": "PRCP",
+      "price": 11.141
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 11.9829
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.4463
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRA",
+      "price": 13.3
+    },
+    {
+      "ticker": "BTAI",
+      "price": 12.4068
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTAI",
+      "price": 12.2882
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.4301
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTAI",
+      "price": 11.98
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.18
+    }
+  ]
+}

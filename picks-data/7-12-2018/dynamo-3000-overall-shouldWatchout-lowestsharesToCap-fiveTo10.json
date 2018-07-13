@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.97
+    },
+    {
+      "ticker": "BKD",
+      "price": 9.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VKTX",
+      "price": 10
+    },
+    {
+      "ticker": "BKD",
+      "price": 9.9588
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BKD",
+      "price": 9.91
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 9.8
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VNET",
+      "price": 9.76
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.845
+    }
+  ]
+}

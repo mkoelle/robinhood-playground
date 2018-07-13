@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SBBP",
+      "price": 5.7
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.279
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBBP",
+      "price": 5.625
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBBP",
+      "price": 5.675
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBBP",
+      "price": 5.525
+    },
+    {
+      "ticker": "DWT",
+      "price": 6.2365
+    }
+  ]
+}

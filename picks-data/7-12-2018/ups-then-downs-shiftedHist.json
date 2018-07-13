@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "AVEO",
+      "price": 2.87
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.2753
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.4413
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.4841
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AVEO",
+      "price": 2.894
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.15
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.44
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVEO",
+      "price": 2.865
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.226
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.6668
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AVEO",
+      "price": 2.9
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.25
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.42
+    }
+  ]
+}

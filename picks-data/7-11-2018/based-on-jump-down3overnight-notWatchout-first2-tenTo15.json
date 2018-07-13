@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 10.23
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 10.3
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 10.4349
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.48
+    }
+  ]
+}

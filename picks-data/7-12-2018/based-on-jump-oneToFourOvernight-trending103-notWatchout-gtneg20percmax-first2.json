@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RIBT",
+      "price": 2.93
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8001
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RIBT",
+      "price": 2.919
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.9266
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIBT",
+      "price": 2.8764
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.895
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIBT",
+      "price": 2.8946
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.8698
+    }
+  ]
+}

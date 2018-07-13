@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CADC",
+      "price": 6.75
+    },
+    {
+      "ticker": "JT",
+      "price": 5.3975
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VHI",
+      "price": 5.09
+    },
+    {
+      "ticker": "MNOV",
+      "price": 8.765
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.1
+    }
+  ],
+  "309": [
+    {
+      "ticker": "VHI",
+      "price": 5.1433
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.975
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.3564
+    }
+  ]
+}

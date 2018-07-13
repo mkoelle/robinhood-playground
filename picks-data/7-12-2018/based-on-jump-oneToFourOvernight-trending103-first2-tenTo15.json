@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKBA",
+      "price": 9.9401
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKBA",
+      "price": 10.18
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKBA",
+      "price": 10.17
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKBA",
+      "price": 10.165
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.56
+    }
+  ]
+}

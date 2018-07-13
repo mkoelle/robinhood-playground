@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 10.28
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.545
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.3725
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.2852
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 14.3
+    },
+    {
+      "ticker": "UVXY",
+      "price": 10.271
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIFS",
+      "price": 14.2943
+    },
+    {
+      "ticker": "KALA",
+      "price": 12.6792
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIFS",
+      "price": 14.5
+    },
+    {
+      "ticker": "KALA",
+      "price": 12.72
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLMD",
+      "price": 10.7
+    },
+    {
+      "ticker": "BHACU",
+      "price": 10.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 10.24
+    },
+    {
+      "ticker": "OPNT",
+      "price": 13.08
+    }
+  ]
+}

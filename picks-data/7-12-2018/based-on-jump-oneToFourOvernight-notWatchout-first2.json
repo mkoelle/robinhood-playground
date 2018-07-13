@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NM",
+      "price": 0.85
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "SID",
+      "price": 2.005
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "SID",
+      "price": 2.015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "SID",
+      "price": 2.04
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 10.055
+    },
+    {
+      "ticker": "SOXS",
+      "price": 11.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 13.1775
+    },
+    {
+      "ticker": "CBIO",
+      "price": 12.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 12.12
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.005
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 12.25
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 12.2559
+    },
+    {
+      "ticker": "DERM",
+      "price": 11.79
+    }
+  ]
+}

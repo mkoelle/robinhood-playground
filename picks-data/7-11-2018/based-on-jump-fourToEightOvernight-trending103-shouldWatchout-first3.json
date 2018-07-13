@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.4117
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.3951
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.4025
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.36
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.4026
+    },
+    {
+      "ticker": "AMPE",
+      "price": 2.39
+    }
+  ]
+}

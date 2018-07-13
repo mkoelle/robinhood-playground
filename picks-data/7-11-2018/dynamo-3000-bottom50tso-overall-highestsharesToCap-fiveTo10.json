@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMSC",
+      "price": 5.2801
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QHC",
+      "price": 5.085
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.162
+    }
+  ],
+  "100": [
+    {
+      "ticker": "QHC",
+      "price": 5.07
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.1101
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRSH",
+      "price": 5.07
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.98
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 5.9906
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.0275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MXC",
+      "price": 5.99
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.005
+    }
+  ]
+}

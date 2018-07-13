@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMT",
+      "price": 14.835
+    },
+    {
+      "ticker": "VLT",
+      "price": 13.4301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.835
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 10.22
+    },
+    {
+      "ticker": "TGNA",
+      "price": 12.305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 10.2778
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.4748
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 10.25
+    },
+    {
+      "ticker": "TGNA",
+      "price": 12.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.14
+    }
+  ]
+}

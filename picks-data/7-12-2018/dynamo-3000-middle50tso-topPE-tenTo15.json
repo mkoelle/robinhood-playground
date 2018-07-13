@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHU",
+      "price": 12.12
+    },
+    {
+      "ticker": "EHIC",
+      "price": 13.02
+    },
+    {
+      "ticker": "JRS",
+      "price": 10.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CHU",
+      "price": 12.11
+    },
+    {
+      "ticker": "RQI",
+      "price": 12.1684
+    },
+    {
+      "ticker": "JDD",
+      "price": 11.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHU",
+      "price": 12.1
+    },
+    {
+      "ticker": "RQI",
+      "price": 12.1562
+    },
+    {
+      "ticker": "CSQ",
+      "price": 12.8864
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSHT",
+      "price": 10.13
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.11
+    },
+    {
+      "ticker": "SIEB",
+      "price": 13.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSHT",
+      "price": 10.13
+    },
+    {
+      "ticker": "IPOA",
+      "price": 10.005
+    },
+    {
+      "ticker": "RQI",
+      "price": 12.1866
+    }
+  ]
+}

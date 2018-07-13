@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "IZEA",
+      "price": 1.67
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IZEA",
+      "price": 1.6
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.75
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.477
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IZEA",
+      "price": 1.82
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.6
+    },
+    {
+      "ticker": "CHFS",
+      "price": 1.6898
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IZEA",
+      "price": 1.9
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.37
+    },
+    {
+      "ticker": "CHFS",
+      "price": 1.71
+    }
+  ]
+}

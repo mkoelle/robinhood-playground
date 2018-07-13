@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RES",
+      "price": 14.77
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.8099
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTTR",
+      "price": 14.71
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.505
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBAY",
+      "price": 13.84
+    },
+    {
+      "ticker": "JKS",
+      "price": 13.8578
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACIU",
+      "price": 14.99
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 15
+    },
+    {
+      "ticker": "CBAY",
+      "price": 13.58
+    }
+  ]
+}

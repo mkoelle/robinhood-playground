@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 0.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3601
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.4368
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYOS",
+      "price": 2.125
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4318
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.147
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYOS",
+      "price": 1.8799
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.3549
+    },
+    {
+      "ticker": "AYTU",
+      "price": 0.2914
+    }
+  ]
+}

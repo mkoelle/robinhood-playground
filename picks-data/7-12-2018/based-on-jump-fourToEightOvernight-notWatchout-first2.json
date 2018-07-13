@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BKYI",
+      "price": 2.4444
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BKYI",
+      "price": 2.502
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BKYI",
+      "price": 2.5
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BKYI",
+      "price": 2.5
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.725
+    }
+  ]
+}

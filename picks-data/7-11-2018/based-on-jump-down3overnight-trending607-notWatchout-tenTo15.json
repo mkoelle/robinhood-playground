@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 10.23
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 10.3
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.855
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 10.4349
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.7828
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 10.096
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.48
+    },
+    {
+      "ticker": "ZF",
+      "price": 10.73
+    }
+  ]
+}

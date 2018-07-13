@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DAC",
+      "price": 2.231
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.1899
+    },
+    {
+      "ticker": "VII",
+      "price": 0.192
+    }
+  ],
+  "242": [
+    {
+      "ticker": "VII",
+      "price": 0.19
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.24
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.65
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BDR",
+      "price": 1.25
+    },
+    {
+      "ticker": "VII",
+      "price": 0.2097
+    },
+    {
+      "ticker": "CLWT",
+      "price": 4.3229
+    }
+  ]
+}

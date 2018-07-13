@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NNVC",
+      "price": 0.44
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNVC",
+      "price": 0.4001
+    },
+    {
+      "ticker": "VJET",
+      "price": 3.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XBIT",
+      "price": 4.68
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.4013
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XBIT",
+      "price": 4.68
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.392
+    }
+  ]
+}

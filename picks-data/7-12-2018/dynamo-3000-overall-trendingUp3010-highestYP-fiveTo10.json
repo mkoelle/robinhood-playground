@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 7.24
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.0537
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENPH",
+      "price": 6.96
+    },
+    {
+      "ticker": "DNR",
+      "price": 5.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.29
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFL",
+      "price": 9.55
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.849
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.09
+    }
+  ]
+}

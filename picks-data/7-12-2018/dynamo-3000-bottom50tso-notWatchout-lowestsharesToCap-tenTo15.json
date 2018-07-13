@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPAR",
+      "price": 15.1
+    },
+    {
+      "ticker": "RES",
+      "price": 14.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNLI",
+      "price": 14.84
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XOG",
+      "price": 14.77
+    },
+    {
+      "ticker": "WHF",
+      "price": 14.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNLI",
+      "price": 14.79
+    },
+    {
+      "ticker": "WHF",
+      "price": 14.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.45
+    },
+    {
+      "ticker": "DNLI",
+      "price": 14.75
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BCRX",
+      "price": 6.29
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.625
+    },
+    {
+      "ticker": "CORI",
+      "price": 8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCRX",
+      "price": 6.2
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.51
+    },
+    {
+      "ticker": "CORI",
+      "price": 7.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCRX",
+      "price": 6.38
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.46
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GWRS",
+      "price": 9.94
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.3003
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.38
+    }
+  ]
+}

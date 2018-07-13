@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VOXX",
+      "price": 5
+    },
+    {
+      "ticker": "ULBI",
+      "price": 8.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VOXX",
+      "price": 5.225
+    },
+    {
+      "ticker": "ULBI",
+      "price": 9.6261
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VOXX",
+      "price": 5.35
+    },
+    {
+      "ticker": "ULBI",
+      "price": 9.9475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VOXX",
+      "price": 5.3788
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.6
+    }
+  ]
+}
