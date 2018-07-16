@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NEOS",
+      "price": 6.5
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.1
+    },
+    {
+      "ticker": "RMBL",
+      "price": 7.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NEOS",
+      "price": 6.643
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.075
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.3075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NEOS",
+      "price": 6.65
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.075
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.195
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NEOS",
+      "price": 6.68
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.15
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.195
+    }
+  ]
+}

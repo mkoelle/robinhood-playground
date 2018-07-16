@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "PKD",
+      "price": 0.3834
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.3
+    },
+    {
+      "ticker": "HIHO",
+      "price": 4.25
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.702
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PKD",
+      "price": 0.3762
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.3
+    },
+    {
+      "ticker": "HIHO",
+      "price": 4.25
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.69
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.7002
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PKD",
+      "price": 0.3762
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.3
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.63
+    },
+    {
+      "ticker": "HIHO",
+      "price": 4.25
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PKD",
+      "price": 0.3758
+    },
+    {
+      "ticker": "EMMS",
+      "price": 4.85
+    },
+    {
+      "ticker": "DXYN",
+      "price": 2.3
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.641
+    },
+    {
+      "ticker": "HIHO",
+      "price": 4.31
+    }
+  ]
+}

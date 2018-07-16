@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "PIXY",
+      "price": 3.7201
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.5396
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.2056
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.6259
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.2002
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PIXY",
+      "price": 3.56
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.67
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.4701
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PIXY",
+      "price": 3.5811
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.5717
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.485
+    }
+  ]
+}

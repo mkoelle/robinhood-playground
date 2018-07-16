@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CCIH",
+      "price": 1.4
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.6289
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.9418
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOGO",
+      "price": 4.94
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4301
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.628
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOGO",
+      "price": 4.68
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.38
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.6268
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOGO",
+      "price": 4.55
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3778
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.6118
+    }
+  ]
+}

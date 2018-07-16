@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IDXG",
+      "price": 0.94
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IDXG",
+      "price": 0.92
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IDXG",
+      "price": 0.92
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDXG",
+      "price": 0.925
+    },
+    {
+      "ticker": "CGEN",
+      "price": 3.225
+    }
+  ]
+}

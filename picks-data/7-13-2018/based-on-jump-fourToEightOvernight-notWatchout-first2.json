@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AUMN",
+      "price": 0.31
+    },
+    {
+      "ticker": "FFHL",
+      "price": 4.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3036
+    },
+    {
+      "ticker": "FFHL",
+      "price": 4.1701
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3037
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.8299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3037
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.75
+    }
+  ]
+}

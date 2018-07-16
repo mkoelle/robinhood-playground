@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "AES",
+      "price": 13.14
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NPV",
+      "price": 12.55
+    },
+    {
+      "ticker": "EIM",
+      "price": 11.8275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCS",
+      "price": 10.205
+    },
+    {
+      "ticker": "PNF",
+      "price": 12.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OCIP",
+      "price": 11.5312
+    },
+    {
+      "ticker": "PHYS",
+      "price": 10.079
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEV",
+      "price": 11.4738
+    },
+    {
+      "ticker": "MUS",
+      "price": 12.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MYI",
+      "price": 12.545
+    },
+    {
+      "ticker": "WMC",
+      "price": 10.725
+    }
+  ]
+}

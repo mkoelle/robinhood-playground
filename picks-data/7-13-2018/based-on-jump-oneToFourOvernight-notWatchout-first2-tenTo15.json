@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CSPI",
+      "price": 10.29
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CSPI",
+      "price": 10.29
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDXS",
+      "price": 14.76
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.29
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AP",
+      "price": 10.25
+    },
+    {
+      "ticker": "CMT",
+      "price": 14.185
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "SSRM",
+      "price": 10.11
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AP",
+      "price": 10.1103
+    },
+    {
+      "ticker": "JRS",
+      "price": 10.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMH",
+      "price": 10.01
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMH",
+      "price": 10.07
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMH",
+      "price": 10.04
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMH",
+      "price": 10.045
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.21
+    }
+  ]
+}

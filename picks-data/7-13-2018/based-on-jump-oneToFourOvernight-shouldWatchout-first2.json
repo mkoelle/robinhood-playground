@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WKHS",
+      "price": 1.58
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WKHS",
+      "price": 1.5413
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.6784
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WKHS",
+      "price": 1.5214
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.6649
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WKHS",
+      "price": 1.51
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.6501
+    }
+  ]
+}

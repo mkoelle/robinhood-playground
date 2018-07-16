@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "FFHL",
+      "price": 4.42
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FFHL",
+      "price": 4.1701
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4301
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FFHL",
+      "price": 3.8299
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.38
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.57
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FFHL",
+      "price": 3.75
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3778
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.4
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2597
+    }
+  ]
+}

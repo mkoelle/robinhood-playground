@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AUMN",
+      "price": 0.31
+    },
+    {
+      "ticker": "FFHL",
+      "price": 4.42
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3036
+    },
+    {
+      "ticker": "FFHL",
+      "price": 4.1701
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3037
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.8299
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3037
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.75
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.93
+    }
+  ]
+}

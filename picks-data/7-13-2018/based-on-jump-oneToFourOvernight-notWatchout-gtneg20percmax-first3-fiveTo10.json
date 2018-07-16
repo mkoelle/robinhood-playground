@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SKIS",
+      "price": 5.5
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.6
+    },
+    {
+      "ticker": "ATAX",
+      "price": 6.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SKIS",
+      "price": 5.5
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.42
+    },
+    {
+      "ticker": "CELP",
+      "price": 7.1854
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SKIS",
+      "price": 5.4783
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.3077
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SKIS",
+      "price": 5.45
+    },
+    {
+      "ticker": "UXIN",
+      "price": 8.198
+    },
+    {
+      "ticker": "CSBR",
+      "price": 6.2
+    }
+  ]
+}

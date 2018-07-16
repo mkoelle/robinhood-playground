@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.16
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.16
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.95
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.106
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.55
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.27
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDXS",
+      "price": 14.76
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.24
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.55
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.21
+    },
+    {
+      "ticker": "TBIO",
+      "price": 13.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDXS",
+      "price": 14.76
+    },
+    {
+      "ticker": "HVBC",
+      "price": 14.97
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.195
+    },
+    {
+      "ticker": "EQFN",
+      "price": 10.55
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.125
+    }
+  ]
+}

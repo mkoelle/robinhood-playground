@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "ALRN",
+      "price": 5.0421
+    },
+    {
+      "ticker": "SN",
+      "price": 5.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ALRN",
+      "price": 5.0421
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SN",
+      "price": 5.0949
+    },
+    {
+      "ticker": "AMSC",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHK",
+      "price": 5.235
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PIXY",
+      "price": 4.9801
+    },
+    {
+      "ticker": "CLWT",
+      "price": 5.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFBG",
+      "price": 5.18
+    },
+    {
+      "ticker": "IFMK",
+      "price": 5.0635
+    }
+  ]
+}

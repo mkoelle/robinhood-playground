@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "BFR",
+      "price": 13.16
+    },
+    {
+      "ticker": "GE",
+      "price": 14.0331
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.91
+    },
+    {
+      "ticker": "BIOC",
+      "price": 10.452
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 14.75
+    },
+    {
+      "ticker": "BAS",
+      "price": 12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 11.785
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 10.3048
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIFS",
+      "price": 14.84
+    },
+    {
+      "ticker": "CBIO",
+      "price": 12.47
+    }
+  ]
+}

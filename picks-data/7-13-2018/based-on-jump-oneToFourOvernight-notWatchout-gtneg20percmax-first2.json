@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MARPS",
+      "price": 4
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STCN",
+      "price": 2.08
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STCN",
+      "price": 2.0254
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STCN",
+      "price": 2.0402
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4
+    }
+  ]
+}

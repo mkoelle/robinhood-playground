@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VSTM",
+      "price": 8.3588
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.1
+    },
+    {
+      "ticker": "RMBL",
+      "price": 7.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSTM",
+      "price": 8.2999
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.075
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.3075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSTM",
+      "price": 8.53
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.075
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.195
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSTM",
+      "price": 8.42
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.15
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.195
+    }
+  ]
+}

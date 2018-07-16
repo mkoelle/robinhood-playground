@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "CRK",
+      "price": 12.24
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRK",
+      "price": 12
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRK",
+      "price": 12
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.62
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.065
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRK",
+      "price": 11.98
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.3075
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13.065
+    }
+  ]
+}

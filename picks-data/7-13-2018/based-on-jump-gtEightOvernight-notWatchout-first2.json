@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ADMA",
+      "price": 4.85
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2089
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADMA",
+      "price": 4.83
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2089
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAVB",
+      "price": 0.2089
+    },
+    {
+      "ticker": "CPRX",
+      "price": 3.435
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADMA",
+      "price": 4.89
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.2079
+    }
+  ]
+}

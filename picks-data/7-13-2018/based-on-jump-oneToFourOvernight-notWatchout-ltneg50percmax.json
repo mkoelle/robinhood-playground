@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.445
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.55
+    },
+    {
+      "ticker": "BSQR",
+      "price": 2.65
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.9737
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4362
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.5
+    },
+    {
+      "ticker": "BSQR",
+      "price": 2.65
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.3801
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.9737
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 1.19
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.436
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.5
+    },
+    {
+      "ticker": "BSQR",
+      "price": 2.65
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.3801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1.18
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.85
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4313
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.57
+    },
+    {
+      "ticker": "BSQR",
+      "price": 2.65
+    }
+  ]
+}

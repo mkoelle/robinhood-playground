@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "SRCI",
+      "price": 11.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "DZSI",
+      "price": 10.106
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GDXS",
+      "price": 14.76
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDXS",
+      "price": 14.76
+    },
+    {
+      "ticker": "HVBC",
+      "price": 14.97
+    }
+  ]
+}

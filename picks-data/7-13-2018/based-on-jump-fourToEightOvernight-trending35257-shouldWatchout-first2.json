@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CCIH",
+      "price": 1.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCIH",
+      "price": 1.4301
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCIH",
+      "price": 1.38
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCIH",
+      "price": 1.3778
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.4
+    }
+  ]
+}

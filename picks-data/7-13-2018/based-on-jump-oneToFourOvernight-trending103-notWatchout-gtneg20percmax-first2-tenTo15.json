@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHSP",
+      "price": 11.23
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SHSP",
+      "price": 11.24
+    },
+    {
+      "ticker": "VALE",
+      "price": 12.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SHSP",
+      "price": 11.195
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.0231
+    }
+  ]
+}

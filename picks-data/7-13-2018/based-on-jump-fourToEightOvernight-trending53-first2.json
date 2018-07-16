@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FFHL",
+      "price": 4.42
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOGO",
+      "price": 4.94
+    },
+    {
+      "ticker": "FFHL",
+      "price": 4.1701
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOGO",
+      "price": 4.68
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.8299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOGO",
+      "price": 4.55
+    },
+    {
+      "ticker": "FFHL",
+      "price": 3.75
+    }
+  ]
+}

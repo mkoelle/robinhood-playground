@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.445
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4362
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 1.19
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.436
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1.18
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.85
+    }
+  ]
+}
