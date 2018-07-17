@@ -102,12 +102,16 @@ const myListJuly3 = [
     'low-float-high-volume-volToAvgPoints-fiveTo10-6'
 ];
 
+const topPercUpJuly16 = [
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10-95',
+    'sudden-drops-last2trend-first1-388',
+];
+
 const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-    'low-float-high-volume-floatPoints-trend15to25-fiveTo10-6',
-    '[tiptop-minCount5]'
+    '[topPercUpJuly16]'
 ];
 
 const cheapestPicksEmailObj = [
@@ -149,6 +153,7 @@ module.exports = {
         realOldSchool,
         twoPicks,
         morePicks,
-        myListJune27
+        myListJune27,
+        topPercUpJuly16
     }
 };
