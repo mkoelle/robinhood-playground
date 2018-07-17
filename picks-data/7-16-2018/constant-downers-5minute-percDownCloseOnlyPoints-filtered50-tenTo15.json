@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACIU",
+      "price": 12.34
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.05
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.6
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ACIU",
+      "price": 12.4
+    },
+    {
+      "ticker": "ATTU",
+      "price": 11.9897
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.4113
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CMTA",
+      "price": 10.96
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.52
+    },
+    {
+      "ticker": "USX",
+      "price": 14.805
+    }
+  ]
+}

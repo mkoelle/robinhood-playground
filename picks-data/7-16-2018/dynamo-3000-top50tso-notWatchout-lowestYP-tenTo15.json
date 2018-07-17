@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 11.702
+    },
+    {
+      "ticker": "FTSI",
+      "price": 12.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.91
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.69
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.639
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.089
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.69
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.0275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.62
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.6555
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.6555
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.07
+    }
+  ]
+}

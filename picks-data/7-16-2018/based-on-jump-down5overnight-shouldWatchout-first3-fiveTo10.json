@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ABIL",
+      "price": 5.42
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.7267
+    },
+    {
+      "ticker": "APOP",
+      "price": 6.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABIL",
+      "price": 5.4
+    },
+    {
+      "ticker": "BIOC",
+      "price": 7.3999
+    },
+    {
+      "ticker": "APOP",
+      "price": 6.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABIL",
+      "price": 4.945
+    },
+    {
+      "ticker": "BIOC",
+      "price": 7.1
+    },
+    {
+      "ticker": "APOP",
+      "price": 7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 6.9939
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.2718
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHSP",
+      "price": 12.15
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.4498
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHSP",
+      "price": 12.39
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 12.341
+    },
+    {
+      "ticker": "NDLS",
+      "price": 13.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NDLS",
+      "price": 12.725
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 12.65
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NDLS",
+      "price": 12.55
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.675
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.48
+    }
+  ]
+}

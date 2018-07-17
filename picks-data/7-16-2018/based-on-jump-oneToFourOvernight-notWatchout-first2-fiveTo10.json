@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.11
+    },
+    {
+      "ticker": "EURN",
+      "price": 8.875
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.02
+    },
+    {
+      "ticker": "CMCL",
+      "price": 8.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 6.12
+    },
+    {
+      "ticker": "CMCL",
+      "price": 8.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GOL",
+      "price": 6.22
+    },
+    {
+      "ticker": "CMCL",
+      "price": 8.5301
+    }
+  ]
+}

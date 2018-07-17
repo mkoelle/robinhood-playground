@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.745
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.9802
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 8.99
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.845
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LFVN",
+      "price": 9.82
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSRI",
+      "price": 7.6
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NWY",
+      "price": 5.01
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.3322
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPK",
+      "price": 6.05
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 8
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.25
+    }
+  ]
+}

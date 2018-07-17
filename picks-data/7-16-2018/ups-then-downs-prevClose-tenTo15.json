@@ -1,0 +1,44 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 10.45
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABUS",
+      "price": 10.82
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.25
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.2756
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ABUS",
+      "price": 10.8
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.24
+    }
+  ],
+  "600": [
+    {
+      "ticker": "ABUS",
+      "price": 10.8
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.28
+    }
+  ]
+}

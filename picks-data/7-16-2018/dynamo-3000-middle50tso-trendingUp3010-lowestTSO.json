@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LC",
+      "price": 4.43
+    },
+    {
+      "ticker": "SNSS",
+      "price": 2.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEPT",
+      "price": 3.16
+    },
+    {
+      "ticker": "CETX",
+      "price": 2.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WYY",
+      "price": 0.5129
+    },
+    {
+      "ticker": "JE",
+      "price": 3.6248
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPST",
+      "price": 1.55
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.3398
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ISSC",
+      "price": 2.96
+    },
+    {
+      "ticker": "INVE",
+      "price": 4.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BIOL",
+      "price": 1.29
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DXLG",
+      "price": 2.2
+    },
+    {
+      "ticker": "CFBK",
+      "price": 2.5531
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NERV",
+      "price": 8.4
+    },
+    {
+      "ticker": "LOAN",
+      "price": 7.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PES",
+      "price": 5.2
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.1674
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PES",
+      "price": 5.125
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PES",
+      "price": 5.25
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.264
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PES",
+      "price": 5.2
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.23
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARQL",
+      "price": 5.35
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.34
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 14.1583
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 14
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LCI",
+      "price": 12.65
+    },
+    {
+      "ticker": "DNLI",
+      "price": 14.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LCI",
+      "price": 12.36
+    },
+    {
+      "ticker": "RCUS",
+      "price": 11.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCI",
+      "price": 12.45
+    },
+    {
+      "ticker": "RCUS",
+      "price": 11.63
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UGP",
+      "price": 10.83
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.569
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCI",
+      "price": 12.55
+    },
+    {
+      "ticker": "RCUS",
+      "price": 11.68
+    }
+  ]
+}

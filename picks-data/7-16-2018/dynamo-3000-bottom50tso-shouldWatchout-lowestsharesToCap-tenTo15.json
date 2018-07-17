@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OSUR",
+      "price": 14.81
+    },
+    {
+      "ticker": "XON",
+      "price": 14.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 14.23
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 11
+    },
+    {
+      "ticker": "TGH",
+      "price": 15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.06
+    },
+    {
+      "ticker": "TGH",
+      "price": 14.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBB",
+      "price": 14.8535
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBB",
+      "price": 14.875
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.805
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBB",
+      "price": 14.8
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.78
+    }
+  ]
+}

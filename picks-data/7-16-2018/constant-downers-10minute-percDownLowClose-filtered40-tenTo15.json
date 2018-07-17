@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BRID",
+      "price": 13.32
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.125
+    },
+    {
+      "ticker": "PBD",
+      "price": 11.69
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SLCT",
+      "price": 13.27
+    },
+    {
+      "ticker": "BRID",
+      "price": 13.37
+    },
+    {
+      "ticker": "MSON",
+      "price": 12.94
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BRID",
+      "price": 13.37
+    },
+    {
+      "ticker": "SIFI",
+      "price": 14.75
+    },
+    {
+      "ticker": "MSON",
+      "price": 13
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IEC",
+      "price": 5.5522
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.4783
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.1674
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.518
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FAT",
+      "price": 6.1401
+    },
+    {
+      "ticker": "MOTS",
+      "price": 7.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MOTS",
+      "price": 7.1747
+    },
+    {
+      "ticker": "VCEL",
+      "price": 9.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOTS",
+      "price": 7.2576
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOTS",
+      "price": 7.185
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOTS",
+      "price": 7.1924
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.085
+    }
+  ]
+}

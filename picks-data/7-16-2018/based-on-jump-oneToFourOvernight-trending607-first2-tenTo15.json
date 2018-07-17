@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GLO",
+      "price": 11.23
+    },
+    {
+      "ticker": "ACIU",
+      "price": 13.065
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLO",
+      "price": 11.22
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLO",
+      "price": 11.2039
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLO",
+      "price": 11.2
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.38
+    }
+  ]
+}

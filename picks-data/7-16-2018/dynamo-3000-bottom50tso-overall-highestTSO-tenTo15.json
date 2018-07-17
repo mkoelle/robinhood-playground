@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TERP",
+      "price": 10.83
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXRX",
+      "price": 12.08
+    },
+    {
+      "ticker": "TGTX",
+      "price": 13.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SBPH",
+      "price": 12.16
+    },
+    {
+      "ticker": "UIS",
+      "price": 14.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 11.489
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GMLP",
+      "price": 14.81
+    },
+    {
+      "ticker": "TPIV",
+      "price": 10.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SBLK",
+      "price": 12.46
+    },
+    {
+      "ticker": "FLWS",
+      "price": 12.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QEP",
+      "price": 12.055
+    },
+    {
+      "ticker": "GMLP",
+      "price": 14.78
+    }
+  ]
+}

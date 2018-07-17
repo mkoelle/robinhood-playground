@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BVSN",
+      "price": 2
+    },
+    {
+      "ticker": "FAX",
+      "price": 4.3613
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "CJJD",
+      "price": 1.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPCB",
+      "price": 1.861
+    },
+    {
+      "ticker": "OPGN",
+      "price": 2.051
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1282
+    },
+    {
+      "ticker": "ROX",
+      "price": 1.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1202
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.927
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.125
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.006
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1127
+    },
+    {
+      "ticker": "AUO",
+      "price": 3.945
+    }
+  ]
+}

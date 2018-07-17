@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARPO",
+      "price": 4.29
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARPO",
+      "price": 4.1198
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARPO",
+      "price": 4.1091
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARPO",
+      "price": 4.1063
+    },
+    {
+      "ticker": "DVD",
+      "price": 2
+    }
+  ]
+}

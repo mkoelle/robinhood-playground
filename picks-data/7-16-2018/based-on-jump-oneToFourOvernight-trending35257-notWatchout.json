@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 1.85
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EBR",
+      "price": 3.968
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.84
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EBR",
+      "price": 4
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.8435
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR",
+      "price": 4.0236
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.83
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.68
+    }
+  ]
+}

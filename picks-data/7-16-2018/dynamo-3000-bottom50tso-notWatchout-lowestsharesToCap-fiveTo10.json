@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMCM",
+      "price": 9.56
+    },
+    {
+      "ticker": "AQN",
+      "price": 9.5346
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMI",
+      "price": 9.44
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMI",
+      "price": 9.31
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FENC",
+      "price": 9.31
+    },
+    {
+      "ticker": "HMI",
+      "price": 9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMN",
+      "price": 9.8
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PHII",
+      "price": 9.3566
+    },
+    {
+      "ticker": "OMN",
+      "price": 9.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PHII",
+      "price": 9.3566
+    },
+    {
+      "ticker": "OMN",
+      "price": 9.7
+    }
+  ]
+}

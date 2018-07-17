@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "XENE",
+      "price": 10.05
+    },
+    {
+      "ticker": "USX",
+      "price": 14.55
+    },
+    {
+      "ticker": "ADAP",
+      "price": 11
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CMTA",
+      "price": 11.3
+    },
+    {
+      "ticker": "CBB",
+      "price": 14.85
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.4113
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CMTA",
+      "price": 10.96
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.2756
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.52
+    }
+  ]
+}

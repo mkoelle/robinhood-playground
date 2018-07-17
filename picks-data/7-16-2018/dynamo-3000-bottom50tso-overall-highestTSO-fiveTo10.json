@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TAX",
+      "price": 8.2
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 8.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DSKE",
+      "price": 9.32
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.5732
+    }
+  ],
+  "100": [
+    {
+      "ticker": "METC",
+      "price": 6.43
+    },
+    {
+      "ticker": "CLF",
+      "price": 8.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CECE",
+      "price": 6.47
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNLO",
+      "price": 8.135
+    },
+    {
+      "ticker": "IOTS",
+      "price": 5.7727
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENPH",
+      "price": 6.73
+    },
+    {
+      "ticker": "VSTM",
+      "price": 8.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WPG",
+      "price": 7.635
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.34
+    }
+  ]
+}

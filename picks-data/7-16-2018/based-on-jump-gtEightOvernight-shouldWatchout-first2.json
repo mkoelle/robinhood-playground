@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GENE",
+      "price": 1.3899
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GENE",
+      "price": 1.5101
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4611
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GENE",
+      "price": 1.7299
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.463
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GENE",
+      "price": 1.9
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4213
+    }
+  ]
+}

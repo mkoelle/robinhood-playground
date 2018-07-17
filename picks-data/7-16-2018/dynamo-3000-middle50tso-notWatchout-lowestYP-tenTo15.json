@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JNUG",
+      "price": 13.21
+    },
+    {
+      "ticker": "RES",
+      "price": 14.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNUG",
+      "price": 13.15
+    },
+    {
+      "ticker": "PAK",
+      "price": 10.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAK",
+      "price": 10.46
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIV",
+      "price": 11.54
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.81
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GE",
+      "price": 13.885
+    },
+    {
+      "ticker": "VIIX",
+      "price": 13.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6862
+    },
+    {
+      "ticker": "TGS",
+      "price": 13.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FBZ",
+      "price": 11.77
+    },
+    {
+      "ticker": "VIV",
+      "price": 11.535
+    }
+  ]
+}

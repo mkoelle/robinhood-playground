@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.745
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.9802
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 8.99
+    },
+    {
+      "ticker": "DS",
+      "price": 7.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INS",
+      "price": 9.379
+    },
+    {
+      "ticker": "DS",
+      "price": 7.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INS",
+      "price": 9.35
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.645
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    },
+    {
+      "ticker": "DS",
+      "price": 7.3064
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VTL",
+      "price": 7.95
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.715
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 8
+    },
+    {
+      "ticker": "VTL",
+      "price": 7.915
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VNET",
+      "price": 9.94
+    },
+    {
+      "ticker": "BRG",
+      "price": 9.07
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.835
+    },
+    {
+      "ticker": "PVG",
+      "price": 8.485
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.83
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 9.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NL",
+      "price": 8.6
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.285
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 9.05
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPI",
+      "price": 9.48
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.2899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 9.5016
+    },
+    {
+      "ticker": "GIFI",
+      "price": 9.625
+    }
+  ]
+}

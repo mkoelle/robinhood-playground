@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 6.7267
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BIOC",
+      "price": 7.3999
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.38
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BIOC",
+      "price": 7.1
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.345
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BIOC",
+      "price": 6.9939
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.34
+    }
+  ]
+}

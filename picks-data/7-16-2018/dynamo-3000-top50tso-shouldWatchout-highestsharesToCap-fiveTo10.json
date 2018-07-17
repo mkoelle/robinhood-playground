@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CODA",
+      "price": 8.13
+    },
+    {
+      "ticker": "CDTX",
+      "price": 5.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SORL",
+      "price": 4.9382
+    },
+    {
+      "ticker": "NAKD",
+      "price": 5.1979
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EMKR",
+      "price": 5.175
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XELA",
+      "price": 5.015
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.19
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NWY",
+      "price": 5.01
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.045
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DXR",
+      "price": 6.2103
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.25
+    },
+    {
+      "ticker": "HOS",
+      "price": 5.25
+    }
+  ]
+}

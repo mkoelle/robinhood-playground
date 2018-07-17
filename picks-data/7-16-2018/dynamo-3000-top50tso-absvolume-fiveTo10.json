@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLCM",
+      "price": 8.02
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MFIN",
+      "price": 5.4702
+    },
+    {
+      "ticker": "IPIC",
+      "price": 7.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVT",
+      "price": 9.6133
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLF",
+      "price": 7.6
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.755
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRD",
+      "price": 9.3322
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.8525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLMT",
+      "price": 7.85
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.9525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DL",
+      "price": 7.29
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.8814
+    }
+  ]
+}

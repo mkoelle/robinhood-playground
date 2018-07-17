@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACIU",
+      "price": 12.34
+    },
+    {
+      "ticker": "CCXI",
+      "price": 12.9702
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.05
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ACIU",
+      "price": 12.4
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.3
+    },
+    {
+      "ticker": "OBSV",
+      "price": 14.96
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LCI",
+      "price": 12.575
+    },
+    {
+      "ticker": "ACIU",
+      "price": 12.53
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.26
+    }
+  ]
+}

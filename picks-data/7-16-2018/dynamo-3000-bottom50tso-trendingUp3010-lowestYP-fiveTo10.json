@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GEMP",
+      "price": 7.9495
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PTGX",
+      "price": 7.28
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GEMP",
+      "price": 7.29
+    },
+    {
+      "ticker": "SEED",
+      "price": 7.885
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEMP",
+      "price": 7.21
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 9.42
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.2262
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INNT",
+      "price": 7.88
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INNT",
+      "price": 8.1
+    },
+    {
+      "ticker": "GEMP",
+      "price": 7.255
+    }
+  ]
+}

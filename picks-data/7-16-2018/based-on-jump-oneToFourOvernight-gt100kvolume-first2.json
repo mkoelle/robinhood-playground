@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "EARS",
+      "price": 0.3049
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CALI",
+      "price": 3.14
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2923
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CALI",
+      "price": 2.9101
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2954
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGC",
+      "price": 1.1772
+    },
+    {
+      "ticker": "CALI",
+      "price": 2.91
+    }
+  ]
+}

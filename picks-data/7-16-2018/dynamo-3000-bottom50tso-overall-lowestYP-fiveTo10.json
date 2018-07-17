@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 9.4614
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.989
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVX",
+      "price": 5.3843
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.6477
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.35
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVX",
+      "price": 5.3
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVX",
+      "price": 5.28
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.135
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVX",
+      "price": 5.26
+    },
+    {
+      "ticker": "INNT",
+      "price": 7.88
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIVX",
+      "price": 5.28
+    },
+    {
+      "ticker": "INNT",
+      "price": 8.1
+    }
+  ]
+}

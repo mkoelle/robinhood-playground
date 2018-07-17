@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EURN",
+      "price": 8.875
+    },
+    {
+      "ticker": "AKTS",
+      "price": 8.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CMCL",
+      "price": 8.6
+    },
+    {
+      "ticker": "EURN",
+      "price": 8.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CMCL",
+      "price": 8.6
+    },
+    {
+      "ticker": "EURN",
+      "price": 8.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CMCL",
+      "price": 8.5301
+    },
+    {
+      "ticker": "EURN",
+      "price": 8.8
+    }
+  ]
+}

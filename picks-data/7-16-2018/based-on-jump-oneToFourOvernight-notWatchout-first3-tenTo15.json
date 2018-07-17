@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GLO",
+      "price": 11.23
+    },
+    {
+      "ticker": "HMTA",
+      "price": 14.5
+    },
+    {
+      "ticker": "MGTX",
+      "price": 10.7501
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLO",
+      "price": 11.22
+    },
+    {
+      "ticker": "HMTA",
+      "price": 14.5
+    },
+    {
+      "ticker": "MGTX",
+      "price": 10.6401
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLO",
+      "price": 11.2039
+    },
+    {
+      "ticker": "HMTA",
+      "price": 14.5
+    },
+    {
+      "ticker": "MGTX",
+      "price": 10.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLO",
+      "price": 11.2
+    },
+    {
+      "ticker": "HMTA",
+      "price": 14.5307
+    },
+    {
+      "ticker": "MGTX",
+      "price": 10.3401
+    }
+  ]
+}

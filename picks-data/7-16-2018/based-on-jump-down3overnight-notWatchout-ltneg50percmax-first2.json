@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CLRB",
+      "price": 0.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLRB",
+      "price": 0.6824
+    },
+    {
+      "ticker": "BXE",
+      "price": 0.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLRB",
+      "price": 0.71
+    },
+    {
+      "ticker": "BXE",
+      "price": 0.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLRB",
+      "price": 0.728
+    },
+    {
+      "ticker": "BXE",
+      "price": 0.95
+    }
+  ]
+}

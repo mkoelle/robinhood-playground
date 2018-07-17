@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "RGSE",
+      "price": 0.37
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1549
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RGSE",
+      "price": 0.3727
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GENE",
+      "price": 1.7299
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.37
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GENE",
+      "price": 1.9
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.355
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1506
+    }
+  ]
+}

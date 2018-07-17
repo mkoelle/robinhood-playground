@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 11.702
+    },
+    {
+      "ticker": "BAS",
+      "price": 11.315
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.91
+    },
+    {
+      "ticker": "CBIO",
+      "price": 12.8956
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 13.4603
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 13.1534
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.639
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 12.83
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.69
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.62
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.6555
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.6555
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.07
+    }
+  ]
+}

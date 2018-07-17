@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "GLO",
+      "price": 11.23
+    },
+    {
+      "ticker": "BBF",
+      "price": 13
+    },
+    {
+      "ticker": "VG",
+      "price": 13.36
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.6691
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLO",
+      "price": 11.22
+    },
+    {
+      "ticker": "BBF",
+      "price": 13
+    },
+    {
+      "ticker": "VG",
+      "price": 13.32
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLO",
+      "price": 11.2039
+    },
+    {
+      "ticker": "BBF",
+      "price": 12.9184
+    },
+    {
+      "ticker": "VG",
+      "price": 13.3099
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.46
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLO",
+      "price": 11.2
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.38
+    },
+    {
+      "ticker": "BBF",
+      "price": 12.9394
+    },
+    {
+      "ticker": "VG",
+      "price": 13.42
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.5312
+    }
+  ]
+}

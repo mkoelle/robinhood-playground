@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PCYO",
+      "price": 10.7
+    },
+    {
+      "ticker": "ZOES",
+      "price": 10.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVLO",
+      "price": 12.88
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VCYT",
+      "price": 10.03
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 11.489
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNGR",
+      "price": 10.26
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FLWS",
+      "price": 12.75
+    },
+    {
+      "ticker": "RNGR",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RNGR",
+      "price": 10.24
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.02
+    }
+  ]
+}

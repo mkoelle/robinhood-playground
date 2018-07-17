@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 11.34
+    },
+    {
+      "ticker": "BWP",
+      "price": 12.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EDI",
+      "price": 12.9937
+    },
+    {
+      "ticker": "BWP",
+      "price": 12.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDI",
+      "price": 12.9809
+    },
+    {
+      "ticker": "NJV",
+      "price": 12.972
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRUE",
+      "price": 11.44
+    },
+    {
+      "ticker": "EDF",
+      "price": 13.5076
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEQ",
+      "price": 10.3207
+    },
+    {
+      "ticker": "ZTR",
+      "price": 11.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.6862
+    },
+    {
+      "ticker": "MUA",
+      "price": 13.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FAM",
+      "price": 10.091
+    },
+    {
+      "ticker": "PFO",
+      "price": 10.9384
+    }
+  ]
+}

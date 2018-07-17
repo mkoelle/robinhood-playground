@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OSUR",
+      "price": 14.81
+    },
+    {
+      "ticker": "BTAI",
+      "price": 11.265
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 14.23
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.715
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 11
+    },
+    {
+      "ticker": "NDLS",
+      "price": 13.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.06
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 12.87
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 10.81
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMTA",
+      "price": 10.8
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.79
+    }
+  ]
+}

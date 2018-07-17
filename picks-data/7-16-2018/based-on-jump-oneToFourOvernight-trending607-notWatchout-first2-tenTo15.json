@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GLO",
+      "price": 11.23
+    },
+    {
+      "ticker": "BBF",
+      "price": 13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLO",
+      "price": 11.22
+    },
+    {
+      "ticker": "BBF",
+      "price": 13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLO",
+      "price": 11.2039
+    },
+    {
+      "ticker": "BBF",
+      "price": 12.9184
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLO",
+      "price": 11.2
+    },
+    {
+      "ticker": "HALL",
+      "price": 10.38
+    }
+  ]
+}

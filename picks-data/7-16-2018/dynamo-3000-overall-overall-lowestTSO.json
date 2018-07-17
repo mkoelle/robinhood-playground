@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BVSN",
+      "price": 2
+    },
+    {
+      "ticker": "AZRX",
+      "price": 2.9544
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPCB",
+      "price": 1.861
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.5341
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1282
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.9202
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1202
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.125
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1127
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.47
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NR",
+      "price": 10.2
+    },
+    {
+      "ticker": "SOGO",
+      "price": 10.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AAC",
+      "price": 10.12
+    },
+    {
+      "ticker": "GRBK",
+      "price": 10.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSRM",
+      "price": 10.19
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSRM",
+      "price": 10.22
+    },
+    {
+      "ticker": "GRBK",
+      "price": 10.175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AKBA",
+      "price": 10.0275
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BCS",
+      "price": 10.32
+    },
+    {
+      "ticker": "TBBK",
+      "price": 10.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AKBA",
+      "price": 10.07
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.345
+    }
+  ]
+}

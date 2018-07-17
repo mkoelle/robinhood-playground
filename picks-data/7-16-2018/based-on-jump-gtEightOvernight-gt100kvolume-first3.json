@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GENE",
+      "price": 1.3899
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.44
+    },
+    {
+      "ticker": "RGSE",
+      "price": 0.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GENE",
+      "price": 1.5101
+    },
+    {
+      "ticker": "TNXP",
+      "price": 4.6169
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4611
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GENE",
+      "price": 1.7299
+    },
+    {
+      "ticker": "TNXP",
+      "price": 4.6
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.463
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GENE",
+      "price": 1.9
+    },
+    {
+      "ticker": "TNXP",
+      "price": 4.44
+    },
+    {
+      "ticker": "ATIS",
+      "price": 0.4213
+    }
+  ]
+}

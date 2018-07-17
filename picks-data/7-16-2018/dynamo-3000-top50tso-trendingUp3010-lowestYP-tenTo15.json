@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBIO",
+      "price": 12.58
+    },
+    {
+      "ticker": "TRUE",
+      "price": 11.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CBIO",
+      "price": 12.8956
+    },
+    {
+      "ticker": "TRUE",
+      "price": 11.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 13.4603
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 13.1534
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 12.83
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TWM",
+      "price": 14.115
+    },
+    {
+      "ticker": "TAYD",
+      "price": 11.2016
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TWM",
+      "price": 14.075
+    },
+    {
+      "ticker": "TAYD",
+      "price": 11.25
+    }
+  ]
+}

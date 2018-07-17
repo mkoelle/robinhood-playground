@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TYO",
+      "price": 14.936
+    },
+    {
+      "ticker": "XOG",
+      "price": 13.9325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTTR",
+      "price": 14.89
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USX",
+      "price": 14.565
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USX",
+      "price": 14.86
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OBSV",
+      "price": 15.0396
+    },
+    {
+      "ticker": "USX",
+      "price": 14.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UMRX",
+      "price": 14.92
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.54
+    }
+  ],
+  "381": [
+    {
+      "ticker": "USX",
+      "price": 14.79
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.49
+    }
+  ]
+}

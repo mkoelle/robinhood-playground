@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IEC",
+      "price": 5.5522
+    },
+    {
+      "ticker": "ADT",
+      "price": 9.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODA",
+      "price": 6.906
+    },
+    {
+      "ticker": "SEA",
+      "price": 9.8105
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODA",
+      "price": 6.18
+    },
+    {
+      "ticker": "ASPU",
+      "price": 7.445
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CODA",
+      "price": 6.01
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.065
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INNT",
+      "price": 9.42
+    },
+    {
+      "ticker": "GAB",
+      "price": 6.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INNT",
+      "price": 7.88
+    },
+    {
+      "ticker": "DUC",
+      "price": 8.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INNT",
+      "price": 8.1
+    },
+    {
+      "ticker": "MSD",
+      "price": 8.905
+    }
+  ]
+}

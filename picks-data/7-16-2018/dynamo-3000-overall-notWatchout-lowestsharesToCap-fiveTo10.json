@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFSW",
+      "price": 9.99
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.8299
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACH",
+      "price": 9.9
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PHII",
+      "price": 9.69
+    },
+    {
+      "ticker": "NR",
+      "price": 9.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PHII",
+      "price": 9.54
+    },
+    {
+      "ticker": "NR",
+      "price": 9.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PHII",
+      "price": 9.544
+    },
+    {
+      "ticker": "NR",
+      "price": 9.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PHII",
+      "price": 9.3566
+    },
+    {
+      "ticker": "NR",
+      "price": 9.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PHII",
+      "price": 9.3566
+    },
+    {
+      "ticker": "NR",
+      "price": 9.9
+    }
+  ]
+}

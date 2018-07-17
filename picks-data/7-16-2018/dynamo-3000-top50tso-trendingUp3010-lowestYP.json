@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AIPT",
+      "price": 1.26
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IPCI",
+      "price": 0.46
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7663
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4606
+    },
+    {
+      "ticker": "AKTX",
+      "price": 2.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4652
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.855
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4699
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.7124
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4698
+    },
+    {
+      "ticker": "OSN",
+      "price": 2.88
+    }
+  ]
+}

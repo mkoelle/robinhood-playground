@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BVSN",
+      "price": 2
+    },
+    {
+      "ticker": "ARC",
+      "price": 1.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BVSN",
+      "price": 2.05
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPCB",
+      "price": 1.861
+    },
+    {
+      "ticker": "CALI",
+      "price": 4.3892
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1282
+    },
+    {
+      "ticker": "CALI",
+      "price": 3.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1202
+    },
+    {
+      "ticker": "CALI",
+      "price": 4.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.125
+    },
+    {
+      "ticker": "PED",
+      "price": 1.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1127
+    },
+    {
+      "ticker": "PED",
+      "price": 1.9101
+    }
+  ]
+}

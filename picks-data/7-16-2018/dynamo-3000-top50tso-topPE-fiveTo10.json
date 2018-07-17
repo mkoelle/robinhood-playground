@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "FPI",
+      "price": 6.45
+    },
+    {
+      "ticker": "CODA",
+      "price": 8.13
+    },
+    {
+      "ticker": "CLAR",
+      "price": 8.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOL",
+      "price": 6.1773
+    },
+    {
+      "ticker": "CLAR",
+      "price": 8.4
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GOL",
+      "price": 6.22
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.175
+    },
+    {
+      "ticker": "YIN",
+      "price": 8.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GOL",
+      "price": 6.43
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.14
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GOL",
+      "price": 6.31
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.25
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.175
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOL",
+      "price": 6.39
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.1634
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GOL",
+      "price": 6.39
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.15
+    },
+    {
+      "ticker": "BPI",
+      "price": 6.8
+    }
+  ]
+}

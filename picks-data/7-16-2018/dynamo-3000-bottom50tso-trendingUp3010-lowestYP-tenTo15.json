@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 14.1583
+    },
+    {
+      "ticker": "FAZ",
+      "price": 10.37
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 14.23
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INNT",
+      "price": 11
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 10.06
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 10.79
+    },
+    {
+      "ticker": "TGNA",
+      "price": 11.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DERM",
+      "price": 10.56
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.69
+    },
+    {
+      "ticker": "SYBX",
+      "price": 11.02
+    }
+  ]
+}

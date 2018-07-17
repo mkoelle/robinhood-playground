@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TSRI",
+      "price": 7.9
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.543
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TSRI",
+      "price": 7.845
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.2101
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APOP",
+      "price": 7.21
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7.555
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPHC",
+      "price": 5.19
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APOP",
+      "price": 7.35
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APOP",
+      "price": 7.349
+    },
+    {
+      "ticker": "OPHC",
+      "price": 5.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPHC",
+      "price": 5.25
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.2537
+    }
+  ]
+}

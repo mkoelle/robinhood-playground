@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ACIU",
+      "price": 12.34
+    },
+    {
+      "ticker": "EIGR",
+      "price": 11.05
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.05
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ACIU",
+      "price": 12.4
+    },
+    {
+      "ticker": "MGTA",
+      "price": 12.495
+    },
+    {
+      "ticker": "CMTA",
+      "price": 11.3
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CMTA",
+      "price": 10.96
+    },
+    {
+      "ticker": "MGTA",
+      "price": 12.69
+    },
+    {
+      "ticker": "CBB",
+      "price": 14.875
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPRO",
+      "price": 12.4
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPRO",
+      "price": 12.101
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPRO",
+      "price": 12.13
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.229
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPRO",
+      "price": 12.27
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.12
+    }
+  ]
+}

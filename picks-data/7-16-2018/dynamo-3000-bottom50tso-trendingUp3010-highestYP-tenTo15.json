@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XENE",
+      "price": 10.5692
+    },
+    {
+      "ticker": "CRK",
+      "price": 11.1212
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XENE",
+      "price": 10.31
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.805
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XENE",
+      "price": 10.2
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XENE",
+      "price": 10.1
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.489
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XENE",
+      "price": 10.2
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHSP",
+      "price": 11.34
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 10.1
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.675
+    }
+  ]
+}

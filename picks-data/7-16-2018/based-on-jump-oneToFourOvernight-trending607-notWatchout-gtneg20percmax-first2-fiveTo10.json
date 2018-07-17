@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKTS",
+      "price": 8.99
+    },
+    {
+      "ticker": "SKIS",
+      "price": 5.543
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKTS",
+      "price": 8.92
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.008
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKTS",
+      "price": 8.78
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKTS",
+      "price": 8.8
+    },
+    {
+      "ticker": "GNE",
+      "price": 6.02
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.8299
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 9.6257
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 9.629
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MAG",
+      "price": 9.9
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PMBC",
+      "price": 9.85
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PMBC",
+      "price": 9.85
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.745
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PMBC",
+      "price": 9.85
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.64
+    }
+  ]
+}

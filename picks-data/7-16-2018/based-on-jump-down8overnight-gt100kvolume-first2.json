@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBOX",
+      "price": 1.9
+    },
+    {
+      "ticker": "PIXY",
+      "price": 4.1254
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBOX",
+      "price": 1.96
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.6824
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBOX",
+      "price": 2.12
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBOX",
+      "price": 2.05
+    },
+    {
+      "ticker": "CLRB",
+      "price": 0.728
+    }
+  ]
+}

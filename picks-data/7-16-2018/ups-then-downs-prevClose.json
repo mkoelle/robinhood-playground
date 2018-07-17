@@ -1,0 +1,114 @@
+{
+  "10": [
+    {
+      "ticker": "KIQ",
+      "price": 0.5625
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.025
+    }
+  ],
+  "50": [
+    {
+      "ticker": "KIQ",
+      "price": 0.5523
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.7648
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.06
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3805
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KIQ",
+      "price": 0.5206
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.68
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.1
+    },
+    {
+      "ticker": "AIPT",
+      "price": 1.2201
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CTXR",
+      "price": 2.6957
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.5429
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.73
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.3578
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.1295
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AWSM",
+      "price": 4.5
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.521
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.7099
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.0981
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.42
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AWSM",
+      "price": 4.54
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.51
+    },
+    {
+      "ticker": "CTXR",
+      "price": 2.65
+    },
+    {
+      "ticker": "YOGA",
+      "price": 1.93
+    },
+    {
+      "ticker": "BVSN",
+      "price": 2.15
+    }
+  ]
+}

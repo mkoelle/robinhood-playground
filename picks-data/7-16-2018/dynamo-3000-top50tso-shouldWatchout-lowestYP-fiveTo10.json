@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 7.4772
+    },
+    {
+      "ticker": "BIOC",
+      "price": 7.139
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 6.91
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.6257
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 6.91
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.629
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 6.755
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 6.8525
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BIOC",
+      "price": 6.9525
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.4536
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BIOC",
+      "price": 6.8814
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.4713
+    }
+  ]
+}

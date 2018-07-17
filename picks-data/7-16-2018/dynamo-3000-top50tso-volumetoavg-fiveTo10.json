@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLCM",
+      "price": 8.02
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.745
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MFIN",
+      "price": 5.4702
+    },
+    {
+      "ticker": "CNTY",
+      "price": 8.8675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVT",
+      "price": 9.6133
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLF",
+      "price": 7.6
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.815
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRD",
+      "price": 9.3322
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLMT",
+      "price": 7.85
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.1634
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DL",
+      "price": 7.29
+    },
+    {
+      "ticker": "EXPR",
+      "price": 9.64
+    }
+  ]
+}

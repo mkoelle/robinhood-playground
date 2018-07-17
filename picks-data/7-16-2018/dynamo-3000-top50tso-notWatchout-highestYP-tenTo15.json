@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SHSP",
+      "price": 12.15
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.33
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHSP",
+      "price": 12.39
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 12.341
+    },
+    {
+      "ticker": "NDLS",
+      "price": 13.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NDLS",
+      "price": 12.725
+    },
+    {
+      "ticker": "LOV",
+      "price": 10.785
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 12.65
+    },
+    {
+      "ticker": "SCWX",
+      "price": 13.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NDLS",
+      "price": 12.55
+    },
+    {
+      "ticker": "RLH",
+      "price": 12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NDLS",
+      "price": 12.4
+    },
+    {
+      "ticker": "RLH",
+      "price": 12.1
+    }
+  ]
+}
