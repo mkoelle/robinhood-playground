@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.35
+    },
+    {
+      "ticker": "PED",
+      "price": 1.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.4665
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.3801
+    },
+    {
+      "ticker": "CBK",
+      "price": 1.0401
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.33
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.6173
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.4447
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.31
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.6281
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SACH",
+      "price": 4.31
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SACH",
+      "price": 4.27
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.2
+    }
+  ]
+}

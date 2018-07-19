@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTP",
+      "price": 0.6842
+    },
+    {
+      "ticker": "OHGI",
+      "price": 0.465
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTIC",
+      "price": 2.505
+    },
+    {
+      "ticker": "IDRA",
+      "price": 0.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTIC",
+      "price": 2.39
+    },
+    {
+      "ticker": "IDRA",
+      "price": 0.8482
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTIC",
+      "price": 2.43
+    },
+    {
+      "ticker": "AVEO",
+      "price": 1.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIC",
+      "price": 2.3
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4554
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIC",
+      "price": 2.2601
+    },
+    {
+      "ticker": "AVEO",
+      "price": 1.955
+    }
+  ]
+}

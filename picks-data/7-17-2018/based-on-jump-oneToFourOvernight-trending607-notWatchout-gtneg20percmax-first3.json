@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.996
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SACH",
+      "price": 4.31
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.2
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SACH",
+      "price": 4.27
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.2
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4335
+    }
+  ]
+}

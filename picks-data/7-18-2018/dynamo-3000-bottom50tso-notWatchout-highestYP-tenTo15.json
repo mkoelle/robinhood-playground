@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 11.15
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 11.35
+    },
+    {
+      "ticker": "CYRX",
+      "price": 14.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 11.2
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 11.28
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.2253
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 11.31
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 11.275
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 11.275
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.31
+    }
+  ]
+}

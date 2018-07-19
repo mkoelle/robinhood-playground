@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AVEO",
+      "price": 2.35
+    },
+    {
+      "ticker": "CAW",
+      "price": 2.4999
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3
+    },
+    {
+      "ticker": "CAW",
+      "price": 2.4502
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVEO",
+      "price": 2.275
+    },
+    {
+      "ticker": "CAW",
+      "price": 2.445
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3708
+    },
+    {
+      "ticker": "CAW",
+      "price": 2.501
+    }
+  ]
+}

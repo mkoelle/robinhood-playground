@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "CFRX",
+      "price": 2.65
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CFRX",
+      "price": 2.7
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 4.8
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.8926
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TMQ",
+      "price": 1.73
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TMQ",
+      "price": 1.71
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TMQ",
+      "price": 1.73
+    },
+    {
+      "ticker": "ADMA",
+      "price": 4.94
+    }
+  ]
+}

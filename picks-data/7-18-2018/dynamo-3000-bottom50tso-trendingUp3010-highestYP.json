@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTBC",
+      "price": 4.7
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTBC",
+      "price": 4.32
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.3773
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTBC",
+      "price": 4.465
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.511
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SLNO",
+      "price": 2.7445
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.4835
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SLNO",
+      "price": 2.743
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.5863
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZOM",
+      "price": 2.14
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.4611
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 3.94
+    },
+    {
+      "ticker": "ZOM",
+      "price": 2.14
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.69
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GORO",
+      "price": 7.245
+    },
+    {
+      "ticker": "SIGA",
+      "price": 7.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.205
+    },
+    {
+      "ticker": "INS",
+      "price": 9.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONDK",
+      "price": 7.82
+    },
+    {
+      "ticker": "ORN",
+      "price": 9.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIGA",
+      "price": 7.1
+    },
+    {
+      "ticker": "PES",
+      "price": 5.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTI",
+      "price": 8.265
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 8.275
+    },
+    {
+      "ticker": "ONDK",
+      "price": 8.145
+    }
+  ]
+}

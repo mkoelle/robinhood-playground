@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.875
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 14.9
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 11.6049
+    },
+    {
+      "ticker": "NDLS",
+      "price": 12.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHSP",
+      "price": 11.68
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTP",
+      "price": 0.6842
+    },
+    {
+      "ticker": "GNC",
+      "price": 3.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IPCI",
+      "price": 0.4
+    },
+    {
+      "ticker": "THM",
+      "price": 0.4751
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTIC",
+      "price": 2.505
+    },
+    {
+      "ticker": "NCTY",
+      "price": 1.033
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTIC",
+      "price": 2.39
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.4254
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTIC",
+      "price": 2.43
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.5863
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTIC",
+      "price": 2.3
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.475
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTIC",
+      "price": 2.2601
+    },
+    {
+      "ticker": "WHLR",
+      "price": 4.38
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NSTG",
+      "price": 14.615
+    },
+    {
+      "ticker": "RES",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDR",
+      "price": 14.99
+    },
+    {
+      "ticker": "GNK",
+      "price": 14.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNK",
+      "price": 14.88
+    },
+    {
+      "ticker": "LNDC",
+      "price": 14.6499
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNK",
+      "price": 14.91
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.83
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNK",
+      "price": 14.86
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.78
+    }
+  ]
+}

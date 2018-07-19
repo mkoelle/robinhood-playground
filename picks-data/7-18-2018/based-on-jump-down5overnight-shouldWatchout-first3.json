@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WIN",
+      "price": 3.615
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.1875
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WIN",
+      "price": 3.7014
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.187
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WIN",
+      "price": 3.68
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.184
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WIN",
+      "price": 3.779
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.184
+    }
+  ]
+}

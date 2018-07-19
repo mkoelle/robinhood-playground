@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UAMY",
+      "price": 0.508
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.43
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.67
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UAMY",
+      "price": 0.5006
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.67
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.4326
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UAMY",
+      "price": 0.5006
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.39
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UAMY",
+      "price": 0.51
+    },
+    {
+      "ticker": "BNSO",
+      "price": 3.67
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.34
+    }
+  ]
+}

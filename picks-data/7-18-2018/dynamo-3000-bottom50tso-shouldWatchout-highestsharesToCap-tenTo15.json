@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.02
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLSD",
+      "price": 10.08
+    },
+    {
+      "ticker": "CMTA",
+      "price": 10.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.13
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DF",
+      "price": 10.365
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.255
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 10.25
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.225
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 10.225
+    },
+    {
+      "ticker": "DF",
+      "price": 10.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSU",
+      "price": 10.055
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.225
+    }
+  ]
+}

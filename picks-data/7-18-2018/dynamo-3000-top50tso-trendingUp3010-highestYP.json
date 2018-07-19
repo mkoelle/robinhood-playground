@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UUU",
+      "price": 1.381
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPST",
+      "price": 1.67
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.565
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPST",
+      "price": 1.7256
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPST",
+      "price": 1.71
+    },
+    {
+      "ticker": "INVE",
+      "price": 4.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPST",
+      "price": 1.725
+    },
+    {
+      "ticker": "INVE",
+      "price": 4.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CPST",
+      "price": 1.74
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.5479
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPST",
+      "price": 1.7434
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.57
+    }
+  ]
+}

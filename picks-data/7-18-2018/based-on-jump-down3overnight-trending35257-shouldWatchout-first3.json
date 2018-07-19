@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    },
+    {
+      "ticker": "PED",
+      "price": 2.3
+    },
+    {
+      "ticker": "PIXY",
+      "price": 3.4501
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    },
+    {
+      "ticker": "PED",
+      "price": 2.43
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4101
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4224
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1055
+    }
+  ]
+}

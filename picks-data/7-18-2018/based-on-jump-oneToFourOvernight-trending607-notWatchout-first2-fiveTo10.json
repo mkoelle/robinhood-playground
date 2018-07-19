@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MESO",
+      "price": 6.84
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.625
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MESO",
+      "price": 6.8
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.625
+    }
+  ]
+}

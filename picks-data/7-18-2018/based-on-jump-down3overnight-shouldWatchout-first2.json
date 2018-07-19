@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WIN",
+      "price": 3.615
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WIN",
+      "price": 3.7014
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WIN",
+      "price": 3.68
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WIN",
+      "price": 3.779
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    }
+  ]
+}

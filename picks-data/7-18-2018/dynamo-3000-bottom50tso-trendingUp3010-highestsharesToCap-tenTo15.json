@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMID",
+      "price": 10.6967
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.835
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PBR",
+      "price": 10.78
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RNGR",
+      "price": 10.4
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGI",
+      "price": 10.575
+    },
+    {
+      "ticker": "RARX",
+      "price": 10.125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RNGR",
+      "price": 10.34
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EIGI",
+      "price": 10.575
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.7
+    }
+  ]
+}

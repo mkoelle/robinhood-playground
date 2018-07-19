@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VSLR",
+      "price": 5.1255
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARQL",
+      "price": 5.11
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.131
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVID",
+      "price": 5.1
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.3699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVID",
+      "price": 5.1
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVID",
+      "price": 5.1473
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.34
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVID",
+      "price": 5.15
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVID",
+      "price": 5.15
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.4
+    }
+  ]
+}

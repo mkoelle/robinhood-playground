@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FPI",
+      "price": 6.31
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    },
+    {
+      "ticker": "ABIL",
+      "price": 5.13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FPI",
+      "price": 6.31
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    },
+    {
+      "ticker": "ABIL",
+      "price": 5.1915
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FPI",
+      "price": 6.27
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.84
+    },
+    {
+      "ticker": "ABIL",
+      "price": 5.1995
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FPI",
+      "price": 6.33
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.8
+    },
+    {
+      "ticker": "ABIL",
+      "price": 5.16
+    }
+  ]
+}

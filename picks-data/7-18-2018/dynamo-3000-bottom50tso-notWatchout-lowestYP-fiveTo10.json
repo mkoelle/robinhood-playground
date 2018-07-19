@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MLNT",
+      "price": 6
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MLNT",
+      "price": 5.9612
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IPIC",
+      "price": 6.41
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTID",
+      "price": 8.3569
+    },
+    {
+      "ticker": "IPIC",
+      "price": 6.3689
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTID",
+      "price": 8.35
+    },
+    {
+      "ticker": "IPIC",
+      "price": 6.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.1024
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRIP",
+      "price": 6.095
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1703
+    }
+  ]
+}

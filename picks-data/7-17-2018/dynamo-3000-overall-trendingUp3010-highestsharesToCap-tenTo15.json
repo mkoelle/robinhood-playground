@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SPNS",
+      "price": 10.12
+    },
+    {
+      "ticker": "MEN",
+      "price": 10.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNET",
+      "price": 10.115
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNET",
+      "price": 10.15
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 10.3
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VNET",
+      "price": 10.4
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.1
+    }
+  ]
+}

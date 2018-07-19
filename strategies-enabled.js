@@ -104,7 +104,6 @@ const myListJuly3 = [
 
 const topPercUpJuly16 = [
     'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10-95',
-    'sudden-drops-last2trend-first1-388',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-6',
     'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-first1-30' // less common
 ];

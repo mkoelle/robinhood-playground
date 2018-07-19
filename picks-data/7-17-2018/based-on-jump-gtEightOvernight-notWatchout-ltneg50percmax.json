@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TRPX",
+      "price": 3.31
+    },
+    {
+      "ticker": "AST",
+      "price": 1.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRPX",
+      "price": 3.35
+    },
+    {
+      "ticker": "AST",
+      "price": 1.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRPX",
+      "price": 3.34
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7289
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRPX",
+      "price": 3.35
+    },
+    {
+      "ticker": "AST",
+      "price": 1.65
+    }
+  ]
+}

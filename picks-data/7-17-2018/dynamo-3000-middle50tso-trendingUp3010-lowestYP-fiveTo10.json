@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SBS",
+      "price": 6.35
+    },
+    {
+      "ticker": "PCK",
+      "price": 8.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PCK",
+      "price": 8.31
+    },
+    {
+      "ticker": "GREK",
+      "price": 9.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ETM",
+      "price": 8.025
+    },
+    {
+      "ticker": "EDD",
+      "price": 6.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPTA",
+      "price": 8.61
+    },
+    {
+      "ticker": "TAC",
+      "price": 5.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TENX",
+      "price": 6.6235
+    },
+    {
+      "ticker": "MVF",
+      "price": 8.81
+    }
+  ]
+}

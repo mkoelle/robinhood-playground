@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CLPR",
+      "price": 10.03
+    },
+    {
+      "ticker": "VNET",
+      "price": 9.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCS",
+      "price": 9.79
+    },
+    {
+      "ticker": "INB",
+      "price": 9.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JHY",
+      "price": 9.86
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.8256
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JHY",
+      "price": 9.86
+    },
+    {
+      "ticker": "INB",
+      "price": 9.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JHY",
+      "price": 9.8878
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.8466
+    }
+  ]
+}

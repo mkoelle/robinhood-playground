@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NSTG",
+      "price": 11.83
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NSTG",
+      "price": 11.885
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.25
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13.7682
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NSTG",
+      "price": 11.9595
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.15
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13.8597
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NSTG",
+      "price": 11.88
+    },
+    {
+      "ticker": "ACIU",
+      "price": 11.1
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14
+    }
+  ]
+}

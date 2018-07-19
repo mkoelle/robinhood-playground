@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VSTM",
+      "price": 8.13
+    },
+    {
+      "ticker": "INFN",
+      "price": 8.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "METC",
+      "price": 6.525
+    },
+    {
+      "ticker": "EGC",
+      "price": 8.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.185
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 9.485
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NCMI",
+      "price": 8.4601
+    },
+    {
+      "ticker": "PVG",
+      "price": 8.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BNED",
+      "price": 5.315
+    },
+    {
+      "ticker": "MACK",
+      "price": 5.24
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FRTA",
+      "price": 7.99
+    },
+    {
+      "ticker": "SHLO",
+      "price": 8.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NVTA",
+      "price": 8.315
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.34
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AKBA",
+      "price": 10.12
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BGCP",
+      "price": 11.0569
+    },
+    {
+      "ticker": "LFC",
+      "price": 12.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.8739
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.649
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.75
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.649
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTSI",
+      "price": 12.23
+    },
+    {
+      "ticker": "TGS",
+      "price": 13.83
+    }
+  ]
+}

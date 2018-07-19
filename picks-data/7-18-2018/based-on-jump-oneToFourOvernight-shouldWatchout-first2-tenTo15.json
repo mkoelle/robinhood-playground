@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CBIO",
+      "price": 12.34
+    },
+    {
+      "ticker": "SPRO",
+      "price": 12.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CBIO",
+      "price": 12.15
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CBIO",
+      "price": 11.64
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CBIO",
+      "price": 11.91
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.7609
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 3
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 2.94
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTIC",
+      "price": 2.95
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIC",
+      "price": 2.92
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.23
+    }
+  ]
+}

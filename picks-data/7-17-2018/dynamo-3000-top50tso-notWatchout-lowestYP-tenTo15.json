@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "JNUG",
+      "price": 13.0002
+    },
+    {
+      "ticker": "INAP",
+      "price": 11.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCI",
+      "price": 13.1
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.425
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LCI",
+      "price": 13.175
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.46
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LCI",
+      "price": 13.075
+    },
+    {
+      "ticker": "AP",
+      "price": 10.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UGP",
+      "price": 11.2
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.125
+    }
+  ]
+}

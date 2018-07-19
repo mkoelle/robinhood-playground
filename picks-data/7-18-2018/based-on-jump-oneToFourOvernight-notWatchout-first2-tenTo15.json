@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BILI",
+      "price": 14.08
+    },
+    {
+      "ticker": "PAK",
+      "price": 10.4028
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 14.14
+    },
+    {
+      "ticker": "PAK",
+      "price": 10.4028
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BILI",
+      "price": 14.6
+    },
+    {
+      "ticker": "PAK",
+      "price": 10.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BILI",
+      "price": 14.7916
+    },
+    {
+      "ticker": "PAK",
+      "price": 10.415
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CBIO",
+      "price": 12.42
+    },
+    {
+      "ticker": "HTZ",
+      "price": 13.925
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NES",
+      "price": 10.97
+    },
+    {
+      "ticker": "CBIO",
+      "price": 12.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NES",
+      "price": 11
+    },
+    {
+      "ticker": "IMTE",
+      "price": 14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMTE",
+      "price": 14.499
+    },
+    {
+      "ticker": "VRNA",
+      "price": 13.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 13.4907
+    },
+    {
+      "ticker": "NES",
+      "price": 11.22
+    }
+  ]
+}

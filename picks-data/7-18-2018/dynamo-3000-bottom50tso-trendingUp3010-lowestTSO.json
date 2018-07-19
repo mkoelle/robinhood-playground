@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BLIN",
+      "price": 1.5399
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.311
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MTBC",
+      "price": 4.32
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4183
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTBC",
+      "price": 4.465
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.511
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTFT",
+      "price": 1.99
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.2827
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTFT",
+      "price": 1.97
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MARA",
+      "price": 1.11
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.974
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MARA",
+      "price": 1.09
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.551
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ATIS",
+      "price": 0.402
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.345
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AWX",
+      "price": 2.33
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.43
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.3485
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BDR",
+      "price": 1.2901
+    },
+    {
+      "ticker": "AWX",
+      "price": 2.34
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.43
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5979
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4799
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6185
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6088
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6447
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4502
+    }
+  ]
+}

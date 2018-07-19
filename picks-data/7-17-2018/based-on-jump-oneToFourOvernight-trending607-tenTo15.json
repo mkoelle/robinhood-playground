@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "RLH",
+      "price": 12.35
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.2025
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RLH",
+      "price": 12.65
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.16
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.6432
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RLH",
+      "price": 12.5209
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.2701
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.6377
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.6432
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RLH",
+      "price": 12.525
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.28
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.523
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.021
+    }
+  ]
+}

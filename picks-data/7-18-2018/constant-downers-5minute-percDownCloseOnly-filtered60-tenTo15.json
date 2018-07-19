@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RCUS",
+      "price": 11.01
+    },
+    {
+      "ticker": "OXFD",
+      "price": 12.82
+    },
+    {
+      "ticker": "CZWI",
+      "price": 14
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FBZ",
+      "price": 12.07
+    },
+    {
+      "ticker": "HMTV",
+      "price": 12.5
+    },
+    {
+      "ticker": "PNTR",
+      "price": 11.82
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PNTR",
+      "price": 11.8
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.05
+    },
+    {
+      "ticker": "PBBI",
+      "price": 12
+    }
+  ]
+}

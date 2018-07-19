@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RIBT",
+      "price": 2.7
+    },
+    {
+      "ticker": "NG",
+      "price": 4.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TYHT",
+      "price": 1.44
+    },
+    {
+      "ticker": "LPTH",
+      "price": 2.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MATR",
+      "price": 2.675
+    },
+    {
+      "ticker": "FCEL",
+      "price": 1.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IGLD",
+      "price": 2.82
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.355
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OSN",
+      "price": 2.95
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.2085
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UONE",
+      "price": 2.395
+    },
+    {
+      "ticker": "DXLG",
+      "price": 2.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLSN",
+      "price": 3.01
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.385
+    }
+  ]
+}

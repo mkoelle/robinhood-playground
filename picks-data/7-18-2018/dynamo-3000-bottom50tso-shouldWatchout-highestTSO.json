@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GNC",
+      "price": 3.2
+    },
+    {
+      "ticker": "NVIV",
+      "price": 2.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODA",
+      "price": 4.614
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NCTY",
+      "price": 1.033
+    },
+    {
+      "ticker": "SPCB",
+      "price": 1.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLNK",
+      "price": 3.4254
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1355
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ANY",
+      "price": 0.4793
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.37
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARDX",
+      "price": 4.475
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2102
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WHLR",
+      "price": 4.38
+    },
+    {
+      "ticker": "ADVM",
+      "price": 4.975
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.74
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UVXY",
+      "price": 9.38
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 9.35
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSSE",
+      "price": 9.61
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UVXY",
+      "price": 9.43
+    },
+    {
+      "ticker": "CSSE",
+      "price": 9.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSSE",
+      "price": 9.63
+    },
+    {
+      "ticker": "PLAB",
+      "price": 8.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRAM",
+      "price": 9.58
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.475
+    }
+  ]
+}

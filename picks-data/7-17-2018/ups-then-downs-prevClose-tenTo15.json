@@ -1,0 +1,37 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "NTRP",
+      "price": 11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 10.1299
+    },
+    {
+      "ticker": "NSTG",
+      "price": 13.92
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.8785
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NSTG",
+      "price": 13.17
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.14
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.95
+    }
+  ]
+}

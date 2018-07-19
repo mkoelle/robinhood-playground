@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.61
+    },
+    {
+      "ticker": "SYBX",
+      "price": 10.99
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.45
+    },
+    {
+      "ticker": "CMTA",
+      "price": 10.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.8701
+    }
+  ]
+}

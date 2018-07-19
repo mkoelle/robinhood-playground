@@ -1,0 +1,68 @@
+{
+  "7": [
+    {
+      "ticker": "IDXG",
+      "price": 1.0235
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.4326
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.82
+    },
+    {
+      "ticker": "PED",
+      "price": 1.8942
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.36
+    }
+  ],
+  "60": [
+    {
+      "ticker": "IDXG",
+      "price": 1.0201
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.34
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.82
+    },
+    {
+      "ticker": "PED",
+      "price": 2.32
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.375
+    }
+  ],
+  "123": [
+    {
+      "ticker": "IDXG",
+      "price": 1.0167
+    },
+    {
+      "ticker": "DARE",
+      "price": 1.2975
+    },
+    {
+      "ticker": "CCCL",
+      "price": 1.87
+    },
+    {
+      "ticker": "PED",
+      "price": 2.87
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.39
+    }
+  ]
+}

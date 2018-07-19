@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "TST",
+      "price": 2.3572
+    },
+    {
+      "ticker": "CVEO",
+      "price": 4.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "URG",
+      "price": 0.6698
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4552
+    }
+  ],
+  "100": [
+    {
+      "ticker": "URG",
+      "price": 0.669
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "URG",
+      "price": 0.6689
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4631
+    }
+  ],
+  "260": [
+    {
+      "ticker": "APT",
+      "price": 3.5035
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRX",
+      "price": 0.4603
+    },
+    {
+      "ticker": "APT",
+      "price": 3.35
+    }
+  ]
+}

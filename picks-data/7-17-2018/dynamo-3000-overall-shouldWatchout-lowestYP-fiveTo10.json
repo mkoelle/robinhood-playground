@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BIOC",
+      "price": 6.9164
+    },
+    {
+      "ticker": "INNT",
+      "price": 7.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RKDA",
+      "price": 7.2001
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RKDA",
+      "price": 7.13
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVX",
+      "price": 5.09
+    },
+    {
+      "ticker": "RKDA",
+      "price": 7.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVX",
+      "price": 5.105
+    },
+    {
+      "ticker": "RKDA",
+      "price": 7.1962
+    }
+  ]
+}

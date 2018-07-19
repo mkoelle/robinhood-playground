@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DPW",
+      "price": 0.6048
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.474
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DPW",
+      "price": 0.632
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4183
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VMIN",
+      "price": 3.31
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.602
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VMIN",
+      "price": 3.31
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5984
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VMIN",
+      "price": 3.294
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.596
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DPW",
+      "price": 0.5656
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DPW",
+      "price": 0.551
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.09
+    }
+  ]
+}

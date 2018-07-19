@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "AVEO",
+      "price": 2.35
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4665
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3751
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVEO",
+      "price": 2.275
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.4001
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3708
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4447
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.37
+    }
+  ]
+}

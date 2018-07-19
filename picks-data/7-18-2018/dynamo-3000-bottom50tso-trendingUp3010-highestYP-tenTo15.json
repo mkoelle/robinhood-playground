@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 11.15
+    },
+    {
+      "ticker": "WAIR",
+      "price": 11.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 11.35
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.3494
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 11.2
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 11.28
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHSP",
+      "price": 11.29
+    },
+    {
+      "ticker": "CLUB",
+      "price": 13.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 11.275
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 11.275
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.15
+    }
+  ]
+}

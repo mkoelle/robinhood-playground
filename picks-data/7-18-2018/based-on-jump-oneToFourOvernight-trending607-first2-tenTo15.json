@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTAI",
+      "price": 11.85
+    },
+    {
+      "ticker": "PBBI",
+      "price": 12.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 11.95
+    },
+    {
+      "ticker": "PBBI",
+      "price": 12.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BTAI",
+      "price": 11.95
+    },
+    {
+      "ticker": "PBBI",
+      "price": 12.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BTAI",
+      "price": 11.91
+    },
+    {
+      "ticker": "PBBI",
+      "price": 12.15
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DERM",
+      "price": 10.61
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SUPV",
+      "price": 11.31
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.31
+    }
+  ]
+}

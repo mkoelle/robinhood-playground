@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTI",
+      "price": 7.9
+    },
+    {
+      "ticker": "ERIC",
+      "price": 8.26
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCM",
+      "price": 8.72
+    },
+    {
+      "ticker": "JYNT",
+      "price": 8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSW",
+      "price": 9.1599
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PHK",
+      "price": 8.55
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GORO",
+      "price": 7.165
+    },
+    {
+      "ticker": "SSW",
+      "price": 9.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    },
+    {
+      "ticker": "GORO",
+      "price": 7.171
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GORO",
+      "price": 7.16
+    },
+    {
+      "ticker": "NE",
+      "price": 6.07
+    }
+  ]
+}

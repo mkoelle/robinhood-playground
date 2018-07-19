@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BLDP",
+      "price": 2.95
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.99
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.23
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BLDP",
+      "price": 2.95
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.99
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.245
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BLDP",
+      "price": 2.93
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.9749
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BLDP",
+      "price": 2.91
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.98
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.25
+    }
+  ]
+}

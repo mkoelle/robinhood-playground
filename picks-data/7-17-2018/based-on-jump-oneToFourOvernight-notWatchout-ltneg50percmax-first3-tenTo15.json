@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.92
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.96
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.743
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.895
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.85
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.8
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.79
+    },
+    {
+      "ticker": "LCI",
+      "price": 13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.7516
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.82
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.082
+    }
+  ]
+}

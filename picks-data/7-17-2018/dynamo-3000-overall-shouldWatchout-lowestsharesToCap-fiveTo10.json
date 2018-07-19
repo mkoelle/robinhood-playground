@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VNET",
+      "price": 9.98
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VIPS",
+      "price": 9.985
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VIPS",
+      "price": 9.9775
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.255
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 9.74
+    },
+    {
+      "ticker": "VIPS",
+      "price": 9.905
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMTA",
+      "price": 10.47
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.81
+    }
+  ]
+}

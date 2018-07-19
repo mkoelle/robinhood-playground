@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CLRB",
+      "price": 10.9575
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLRB",
+      "price": 10.2
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.115
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZYNE",
+      "price": 10.008
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNET",
+      "price": 10.3
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.67
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXPR",
+      "price": 10.02
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABIL",
+      "price": 5.1915
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABIL",
+      "price": 5.15
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.005
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABIL",
+      "price": 5.1613
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADVM",
+      "price": 5.13
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADVM",
+      "price": 5.125
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBL",
+      "price": 5.185
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.21
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBL",
+      "price": 5.175
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.22
+    }
+  ]
+}

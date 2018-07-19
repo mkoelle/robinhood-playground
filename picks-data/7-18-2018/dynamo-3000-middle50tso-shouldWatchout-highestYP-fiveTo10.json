@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 6.7
+    },
+    {
+      "ticker": "LFVN",
+      "price": 9.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCF",
+      "price": 6.21
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFL",
+      "price": 9.185
+    },
+    {
+      "ticker": "APEN",
+      "price": 8.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XPLR",
+      "price": 5.97
+    },
+    {
+      "ticker": "NCMI",
+      "price": 8.4601
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NWY",
+      "price": 5.14
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.97
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELON",
+      "price": 8.2985
+    },
+    {
+      "ticker": "APEN",
+      "price": 8.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ELON",
+      "price": 8.2985
+    },
+    {
+      "ticker": "NVTA",
+      "price": 8.315
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.71
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSPI",
+      "price": 10.523
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.579
+    },
+    {
+      "ticker": "PCYO",
+      "price": 10.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.45
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.31
+    },
+    {
+      "ticker": "PCYO",
+      "price": 10.44
+    }
+  ]
+}

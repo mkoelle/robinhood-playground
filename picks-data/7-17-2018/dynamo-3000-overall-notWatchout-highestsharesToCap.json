@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "EGLT",
+      "price": 0.402
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.448
+    }
+  ],
+  "40": [
+    {
+      "ticker": "URG",
+      "price": 0.6698
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4552
+    }
+  ],
+  "100": [
+    {
+      "ticker": "URG",
+      "price": 0.669
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRX",
+      "price": 0.4631
+    },
+    {
+      "ticker": "URG",
+      "price": 0.6689
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRX",
+      "price": 0.455
+    },
+    {
+      "ticker": "APT",
+      "price": 3.5035
+    }
+  ],
+  "351": [
+    {
+      "ticker": "APT",
+      "price": 3.35
+    },
+    {
+      "ticker": "TRX",
+      "price": 0.4603
+    }
+  ]
+}

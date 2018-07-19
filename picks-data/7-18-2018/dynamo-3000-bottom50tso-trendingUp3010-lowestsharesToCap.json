@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MTBC",
+      "price": 4.7
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CODA",
+      "price": 4.614
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.32
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CODA",
+      "price": 4.5
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.459
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CODA",
+      "price": 4.4835
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.2827
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZSAN",
+      "price": 4.35
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CODA",
+      "price": 4.4611
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.36
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZSAN",
+      "price": 4.355
+    },
+    {
+      "ticker": "ARDX",
+      "price": 4.45
+    }
+  ]
+}

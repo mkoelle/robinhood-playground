@@ -1,0 +1,72 @@
+{
+  "14": [
+    {
+      "ticker": "CMTA",
+      "price": 10.1
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.2105
+    }
+  ],
+  "32": [
+    {
+      "ticker": "NTRP",
+      "price": 10.965
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.86
+    }
+  ],
+  "63": [
+    {
+      "ticker": "CENX",
+      "price": 14.4
+    },
+    {
+      "ticker": "MNTX",
+      "price": 12.34
+    }
+  ],
+  "221": [
+    {
+      "ticker": "INS",
+      "price": 10.1806
+    },
+    {
+      "ticker": "SCWX",
+      "price": 14.51
+    }
+  ],
+  "280": [
+    {
+      "ticker": "TBIO",
+      "price": 13.56
+    },
+    {
+      "ticker": "SBPH",
+      "price": 12.344
+    }
+  ],
+  "328": [
+    {
+      "ticker": "NTRP",
+      "price": 10.26
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.705
+    }
+  ],
+  "388": [
+    {
+      "ticker": "DWCH",
+      "price": 11.4
+    },
+    {
+      "ticker": "SCWX",
+      "price": 14.75
+    }
+  ]
+}

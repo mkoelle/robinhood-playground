@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 2.26
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 2.2899
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UUUU",
+      "price": 2.27
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UUUU",
+      "price": 2.2962
+    },
+    {
+      "ticker": "IMMP",
+      "price": 2.59
+    }
+  ]
+}

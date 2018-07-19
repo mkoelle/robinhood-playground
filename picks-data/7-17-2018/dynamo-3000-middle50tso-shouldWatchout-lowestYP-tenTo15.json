@@ -1,0 +1,48 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.23
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TCAP",
+      "price": 11.79
+    },
+    {
+      "ticker": "UIS",
+      "price": 14.225
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABEO",
+      "price": 14.225
+    },
+    {
+      "ticker": "KIRK",
+      "price": 11.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSU",
+      "price": 10.43
+    },
+    {
+      "ticker": "OXFD",
+      "price": 13.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCXI",
+      "price": 12.6
+    }
+  ]
+}

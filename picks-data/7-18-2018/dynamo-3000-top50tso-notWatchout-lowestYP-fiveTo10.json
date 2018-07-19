@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 6.38
+    },
+    {
+      "ticker": "LAC",
+      "price": 5.045
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRIP",
+      "price": 6.43
+    },
+    {
+      "ticker": "IPIC",
+      "price": 7.3052
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFA",
+      "price": 5.42
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GFA",
+      "price": 5.46
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.603
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GFA",
+      "price": 5.46
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRIL",
+      "price": 5.625
+    },
+    {
+      "ticker": "YIN",
+      "price": 7.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRIL",
+      "price": 5.6
+    },
+    {
+      "ticker": "YIN",
+      "price": 7.99
+    }
+  ]
+}

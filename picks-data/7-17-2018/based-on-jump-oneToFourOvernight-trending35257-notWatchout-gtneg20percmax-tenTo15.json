@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RLH",
+      "price": 12.35
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RLH",
+      "price": 12.65
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.6432
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RLH",
+      "price": 12.5209
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.6432
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RLH",
+      "price": 12.525
+    },
+    {
+      "ticker": "SHSP",
+      "price": 11.021
+    }
+  ]
+}

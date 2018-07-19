@@ -1,0 +1,24 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 11
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.46
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ABUS",
+      "price": 11.125
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.59
+    }
+  ]
+}

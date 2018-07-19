@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ERIC",
+      "price": 8.18
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ERIC",
+      "price": 8.24
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.0734
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLRB",
+      "price": 6.6715
+    },
+    {
+      "ticker": "ERIC",
+      "price": 8.245
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.045
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLRB",
+      "price": 7.0611
+    },
+    {
+      "ticker": "ERIC",
+      "price": 8.28
+    },
+    {
+      "ticker": "NOK",
+      "price": 6.0601
+    }
+  ]
+}

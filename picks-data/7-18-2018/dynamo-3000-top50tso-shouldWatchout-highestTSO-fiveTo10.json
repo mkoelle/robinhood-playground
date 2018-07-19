@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AG",
+      "price": 6.887
+    },
+    {
+      "ticker": "CLBS",
+      "price": 5.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFIL",
+      "price": 8.8902
+    },
+    {
+      "ticker": "CLBS",
+      "price": 5.6504
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MCF",
+      "price": 6.4015
+    },
+    {
+      "ticker": "DEST",
+      "price": 6.07
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFIL",
+      "price": 9.0024
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSBR",
+      "price": 8.1011
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.066
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DFBG",
+      "price": 5.995
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFIL",
+      "price": 9.3252
+    },
+    {
+      "ticker": "CSBR",
+      "price": 8.21
+    }
+  ]
+}

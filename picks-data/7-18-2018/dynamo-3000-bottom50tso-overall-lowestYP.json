@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NVIV",
+      "price": 2.02
+    },
+    {
+      "ticker": "ADOM",
+      "price": 0.67
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OGEN",
+      "price": 0.68
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4523
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RSLS",
+      "price": 1.37
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.6869
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OGEN",
+      "price": 0.6815
+    },
+    {
+      "ticker": "ADOM",
+      "price": 0.6497
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RSLS",
+      "price": 1.3938
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.667
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RSLS",
+      "price": 1.39
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.6611
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RSLS",
+      "price": 1.41
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.665
+    }
+  ]
+}

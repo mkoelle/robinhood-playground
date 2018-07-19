@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RLH",
+      "price": 12.35
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RLH",
+      "price": 12.65
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RLH",
+      "price": 12.5209
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RLH",
+      "price": 12.525
+    },
+    {
+      "ticker": "BHAC",
+      "price": 10.75
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "CERC",
+      "price": 4.32
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.996
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LUNA",
+      "price": 3.563
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.735
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.0882
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ODP",
+      "price": 2.745
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.11
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LINK",
+      "price": 4.4264
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1199
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LINK",
+      "price": 4.25
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1214
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GROW",
+      "price": 2.01
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.12
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.16
+    }
+  ]
+}

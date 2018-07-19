@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 3
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 2.94
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTIC",
+      "price": 2.95
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIC",
+      "price": 2.92
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ATXI",
+      "price": 4.14
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.5
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATXI",
+      "price": 4.14
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.495
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATXI",
+      "price": 4.14
+    },
+    {
+      "ticker": "AMS",
+      "price": 2.842
+    },
+    {
+      "ticker": "EXFO",
+      "price": 3.445
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATXI",
+      "price": 4.1457
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.72
+    },
+    {
+      "ticker": "AMS",
+      "price": 2.9
+    }
+  ]
+}

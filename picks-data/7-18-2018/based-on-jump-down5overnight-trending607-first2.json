@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    },
+    {
+      "ticker": "PED",
+      "price": 2.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    },
+    {
+      "ticker": "PED",
+      "price": 2.43
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4101
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4224
+    }
+  ]
+}

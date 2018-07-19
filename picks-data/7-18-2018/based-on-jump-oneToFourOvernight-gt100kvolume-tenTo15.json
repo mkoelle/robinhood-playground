@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "CBIO",
+      "price": 12.34
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CBIO",
+      "price": 12.15
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.14
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CBIO",
+      "price": 11.64
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.6
+    },
+    {
+      "ticker": "ENDP",
+      "price": 10.94
+    },
+    {
+      "ticker": "HTZ",
+      "price": 13.44
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CBIO",
+      "price": 11.91
+    },
+    {
+      "ticker": "BILI",
+      "price": 14.7916
+    },
+    {
+      "ticker": "ENDP",
+      "price": 11.01
+    },
+    {
+      "ticker": "HTZ",
+      "price": 13.55
+    },
+    {
+      "ticker": "VALE",
+      "price": 13.34
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CZZ",
+      "price": 8.02
+    },
+    {
+      "ticker": "CCLP",
+      "price": 5.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TZA",
+      "price": 8.63
+    },
+    {
+      "ticker": "CCLP",
+      "price": 5.4173
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TZA",
+      "price": 8.65
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.88
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HIMX",
+      "price": 7.87
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PIRS",
+      "price": 5.6
+    },
+    {
+      "ticker": "HIMX",
+      "price": 7.885
+    }
+  ]
+}

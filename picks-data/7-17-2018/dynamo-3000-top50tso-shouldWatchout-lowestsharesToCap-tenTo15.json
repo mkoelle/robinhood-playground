@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NSTG",
+      "price": 14.615
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.56
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDR",
+      "price": 14.99
+    },
+    {
+      "ticker": "CENX",
+      "price": 14.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CENX",
+      "price": 14.745
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CENX",
+      "price": 14.83
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CENX",
+      "price": 14.78
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.4
+    }
+  ]
+}

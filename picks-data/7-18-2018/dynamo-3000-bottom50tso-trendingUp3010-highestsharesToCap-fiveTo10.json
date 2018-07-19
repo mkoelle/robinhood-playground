@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRAX",
+      "price": 5.16
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.245
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NWY",
+      "price": 5.005
+    },
+    {
+      "ticker": "REPH",
+      "price": 5.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZIXI",
+      "price": 5.445
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PIRS",
+      "price": 5.42
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PIRS",
+      "price": 5.39
+    },
+    {
+      "ticker": "SRAX",
+      "price": 5.2195
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PIRS",
+      "price": 5.42
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PIRS",
+      "price": 5.4
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.42
+    }
+  ]
+}

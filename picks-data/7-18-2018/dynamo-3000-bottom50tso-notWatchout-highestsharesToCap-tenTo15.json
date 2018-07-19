@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INAP",
+      "price": 10.3796
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.255
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ORBC",
+      "price": 10.1
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.195
+    },
+    {
+      "ticker": "BBGI",
+      "price": 10.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BSTI",
+      "price": 10.42
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ORBC",
+      "price": 9.99
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.575
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BSTI",
+      "price": 10.4025
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRVS",
+      "price": 10.02
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.385
+    }
+  ]
+}

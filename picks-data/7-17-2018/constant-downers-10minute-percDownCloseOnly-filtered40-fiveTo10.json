@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NEXT",
+      "price": 6.29
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.4227
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.858
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NEXT",
+      "price": 6.3
+    },
+    {
+      "ticker": "EAST",
+      "price": 7.85
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.14
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ATOM",
+      "price": 5.5
+    },
+    {
+      "ticker": "ESXB",
+      "price": 9.8
+    },
+    {
+      "ticker": "SVBI",
+      "price": 8.5475
+    }
+  ]
+}

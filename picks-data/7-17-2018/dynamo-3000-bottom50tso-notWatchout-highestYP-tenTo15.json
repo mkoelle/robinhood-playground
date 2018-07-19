@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 10.8
+    },
+    {
+      "ticker": "RLH",
+      "price": 12.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHSP",
+      "price": 11.4264
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.8947
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SHSP",
+      "price": 11.31
+    },
+    {
+      "ticker": "LOV",
+      "price": 10.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SHSP",
+      "price": 11.44
+    },
+    {
+      "ticker": "OFG",
+      "price": 14.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NDLS",
+      "price": 12.25
+    },
+    {
+      "ticker": "OFG",
+      "price": 15
+    }
+  ]
+}

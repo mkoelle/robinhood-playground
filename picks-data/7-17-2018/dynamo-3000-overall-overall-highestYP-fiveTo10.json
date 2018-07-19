@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 6.6999
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 5.7913
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 5.91
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DXR",
+      "price": 6.27
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DXR",
+      "price": 6.04
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.05
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MACK",
+      "price": 5.22
+    },
+    {
+      "ticker": "SND",
+      "price": 5.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCF",
+      "price": 6.21
+    },
+    {
+      "ticker": "METC",
+      "price": 6.525
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMEX",
+      "price": 7.95
+    },
+    {
+      "ticker": "APEN",
+      "price": 8.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMSC",
+      "price": 5.05
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NWY",
+      "price": 5.14
+    },
+    {
+      "ticker": "MACK",
+      "price": 5.24
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BNED",
+      "price": 5.33
+    },
+    {
+      "ticker": "ELMD",
+      "price": 5.485
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BNED",
+      "price": 5.34
+    },
+    {
+      "ticker": "SND",
+      "price": 5.485
+    }
+  ]
+}

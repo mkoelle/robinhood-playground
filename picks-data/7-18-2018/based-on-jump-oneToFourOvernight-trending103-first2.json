@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INPX",
+      "price": 0.1688
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLOW",
+      "price": 0.215
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1657
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLOW",
+      "price": 0.2011
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.165
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLOW",
+      "price": 0.205
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1684
+    }
+  ]
+}

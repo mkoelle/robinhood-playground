@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMRH",
+      "price": 2.0688
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRH",
+      "price": 2.3101
+    },
+    {
+      "ticker": "GBR",
+      "price": 3.4654
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMRH",
+      "price": 2.3389
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMRH",
+      "price": 2.11
+    },
+    {
+      "ticker": "GBR",
+      "price": 4.095
+    }
+  ]
+}

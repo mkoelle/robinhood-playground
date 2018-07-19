@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 3
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.6
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.29
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 2.94
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.22
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTIC",
+      "price": 2.95
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.2
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIC",
+      "price": 2.92
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.23
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.7
+    }
+  ]
+}

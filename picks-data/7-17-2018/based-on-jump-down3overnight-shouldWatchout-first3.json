@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.4101
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.4665
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3751
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.4001
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.235
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.4447
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.37
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.2365
+    }
+  ]
+}

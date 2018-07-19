@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.5979
+    },
+    {
+      "ticker": "CPAH",
+      "price": 3.4401
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6185
+    },
+    {
+      "ticker": "CPAH",
+      "price": 4.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6088
+    },
+    {
+      "ticker": "CPAH",
+      "price": 4.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6447
+    },
+    {
+      "ticker": "CPAH",
+      "price": 4.37
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.46
+    }
+  ]
+}

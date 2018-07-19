@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10.102
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NORW",
+      "price": 14.0976
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.0996
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GXG",
+      "price": 10.59
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GXG",
+      "price": 10.65
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.2147
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GXG",
+      "price": 10.67
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.2122
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GXG",
+      "price": 10.67
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GXG",
+      "price": 10.6825
+    },
+    {
+      "ticker": "NORW",
+      "price": 14.205
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.4665
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.3801
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.4447
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.31
+    }
+  ]
+}

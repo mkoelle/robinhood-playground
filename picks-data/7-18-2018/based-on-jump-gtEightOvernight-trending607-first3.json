@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPAH",
+      "price": 3.4401
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.6699
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPAH",
+      "price": 4.07
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.66
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPAH",
+      "price": 4.78
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPAH",
+      "price": 4.37
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.46
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 9.05
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 9.19
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.43
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LONE",
+      "price": 9.52
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.405
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LONE",
+      "price": 9.59
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LONE",
+      "price": 9.9
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.405
+    }
+  ]
+}

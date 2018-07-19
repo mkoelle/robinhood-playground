@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LWAY",
+      "price": 4.3
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WYY",
+      "price": 0.52
+    },
+    {
+      "ticker": "LWAY",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WYY",
+      "price": 0.5226
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WYY",
+      "price": 0.515
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.73
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SYN",
+      "price": 0.212
+    },
+    {
+      "ticker": "MYO",
+      "price": 2.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WMLP",
+      "price": 1.8299
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2225
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WMLP",
+      "price": 1.8299
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2225
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 1.79
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.2154
+    }
+  ]
+}

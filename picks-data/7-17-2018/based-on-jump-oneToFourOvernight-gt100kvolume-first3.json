@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "GERN",
+      "price": 3.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GERN",
+      "price": 3.579
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.76
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2783
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GERN",
+      "price": 3.4838
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5673
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GERN",
+      "price": 3.4916
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.545
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.54
+    }
+  ]
+}

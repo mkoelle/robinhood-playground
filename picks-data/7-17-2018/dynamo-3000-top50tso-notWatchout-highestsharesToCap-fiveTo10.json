@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HBM",
+      "price": 5.25
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGLE",
+      "price": 5.43
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PES",
+      "price": 5.3
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BKS",
+      "price": 5.5
+    },
+    {
+      "ticker": "CSBR",
+      "price": 7.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSBR",
+      "price": 7.3
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.7154
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JILL",
+      "price": 8.4275
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVTA",
+      "price": 8.28
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APEN",
+      "price": 8.03
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TTOO",
+      "price": 7.05
+    },
+    {
+      "ticker": "XPLR",
+      "price": 5.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRD.A",
+      "price": 8.405
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EXTR",
+      "price": 8.605
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.405
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRD.A",
+      "price": 8.415
+    },
+    {
+      "ticker": "DEPO",
+      "price": 8.2
+    }
+  ]
+}

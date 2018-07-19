@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WWR",
+      "price": 0.429
+    },
+    {
+      "ticker": "STON",
+      "price": 4.2601
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CXDC",
+      "price": 3.845
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.6215
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRML",
+      "price": 0.66
+    },
+    {
+      "ticker": "HL",
+      "price": 3.554
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRML",
+      "price": 0.7
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRML",
+      "price": 0.6915
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRML",
+      "price": 0.701
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3207
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRML",
+      "price": 0.71
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3301
+    }
+  ]
+}

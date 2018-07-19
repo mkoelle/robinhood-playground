@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FPI",
+      "price": 6.31
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FPI",
+      "price": 6.31
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FPI",
+      "price": 6.27
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FPI",
+      "price": 6.33
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.8
+    }
+  ]
+}

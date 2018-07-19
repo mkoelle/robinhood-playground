@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "INNT",
+      "price": 7.8
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BIOC",
+      "price": 6.62
+    },
+    {
+      "ticker": "INNT",
+      "price": 7.6871
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BIOC",
+      "price": 6.52
+    },
+    {
+      "ticker": "INNT",
+      "price": 7.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVX",
+      "price": 5.09
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.231
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LIVX",
+      "price": 5.105
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.4
+    }
+  ]
+}

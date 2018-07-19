@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "AVEO",
+      "price": 2.35
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.35
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.145
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4665
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3751
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.3801
+    },
+    {
+      "ticker": "PED",
+      "price": 1.8923
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVEO",
+      "price": 2.275
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4601
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.4001
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.33
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVEO",
+      "price": 2.3708
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4447
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.37
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.2365
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.31
+    }
+  ]
+}

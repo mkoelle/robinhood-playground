@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 6.66
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.282
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 6.67
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.2875
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IPIC",
+      "price": 8.07
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IPIC",
+      "price": 8.07
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.9875
+    }
+  ]
+}

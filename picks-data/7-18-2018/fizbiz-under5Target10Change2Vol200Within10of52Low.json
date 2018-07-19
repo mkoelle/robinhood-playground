@@ -1,0 +1,44 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "HL",
+      "price": 3.53
+    },
+    {
+      "ticker": "GOGO",
+      "price": 3.8633
+    }
+  ],
+  "120": [
+    {
+      "ticker": "HL",
+      "price": 3.54
+    },
+    {
+      "ticker": "KLDX",
+      "price": 2.41
+    }
+  ],
+  "180": [
+    {
+      "ticker": "HL",
+      "price": 3.505
+    },
+    {
+      "ticker": "KLDX",
+      "price": 2.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "HL",
+      "price": 3.445
+    },
+    {
+      "ticker": "JCP",
+      "price": 2.4301
+    }
+  ]
+}

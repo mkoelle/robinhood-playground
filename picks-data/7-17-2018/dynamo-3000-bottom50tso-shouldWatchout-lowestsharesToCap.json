@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "IFMK",
+      "price": 4.06
+    },
+    {
+      "ticker": "IMDZ",
+      "price": 4.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAKD",
+      "price": 4.51
+    },
+    {
+      "ticker": "IFMK",
+      "price": 4.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.04
+    },
+    {
+      "ticker": "IFMK",
+      "price": 4.201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCPH",
+      "price": 4.85
+    },
+    {
+      "ticker": "TGA",
+      "price": 3.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALRN",
+      "price": 4.64
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CODA",
+      "price": 4.55
+    },
+    {
+      "ticker": "ASNS",
+      "price": 3.13
+    }
+  ]
+}

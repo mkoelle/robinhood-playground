@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TIVO",
+      "price": 12.8
+    },
+    {
+      "ticker": "FLWS",
+      "price": 12.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CUE",
+      "price": 11.641
+    },
+    {
+      "ticker": "REI",
+      "price": 12.755
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TBIO",
+      "price": 13
+    },
+    {
+      "ticker": "DRH",
+      "price": 12.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRCP",
+      "price": 11.53
+    },
+    {
+      "ticker": "FTSI",
+      "price": 12.0543
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDNT",
+      "price": 14.4
+    },
+    {
+      "ticker": "MBTF",
+      "price": 11.1
+    }
+  ]
+}

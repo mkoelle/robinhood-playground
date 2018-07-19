@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PCTI",
+      "price": 6.12
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.25
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.3
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TNAV",
+      "price": 5.4
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.25
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.36
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TSRI",
+      "price": 7.105
+    },
+    {
+      "ticker": "MGIC",
+      "price": 8.25
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.445
+    }
+  ]
+}

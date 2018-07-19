@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FTR",
+      "price": 5.04
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.08
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 5.7913
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 5.91
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.2699
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DXR",
+      "price": 6.27
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 6.05
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.41
+    }
+  ]
+}

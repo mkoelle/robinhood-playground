@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WTI",
+      "price": 7.85
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NE",
+      "price": 6.16
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARQL",
+      "price": 5.08
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.295
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARQL",
+      "price": 5.095
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARQL",
+      "price": 5.185
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.075
+    }
+  ]
+}

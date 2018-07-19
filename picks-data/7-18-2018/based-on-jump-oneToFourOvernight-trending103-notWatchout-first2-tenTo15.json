@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMID",
+      "price": 10.65
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMID",
+      "price": 10.7
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.1445
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMID",
+      "price": 10.85
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.1533
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMID",
+      "price": 10.9379
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.25
+    }
+  ]
+}

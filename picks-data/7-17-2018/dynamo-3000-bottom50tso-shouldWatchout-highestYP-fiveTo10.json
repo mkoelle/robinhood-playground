@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 6.6999
+    },
+    {
+      "ticker": "CASI",
+      "price": 7.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DEST",
+      "price": 5.8
+    },
+    {
+      "ticker": "MCF",
+      "price": 5.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CASI",
+      "price": 7.31
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CASI",
+      "price": 7.34
+    },
+    {
+      "ticker": "DEST",
+      "price": 5.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TPIV",
+      "price": 9.81
+    },
+    {
+      "ticker": "PGNX",
+      "price": 8.1199
+    }
+  ]
+}

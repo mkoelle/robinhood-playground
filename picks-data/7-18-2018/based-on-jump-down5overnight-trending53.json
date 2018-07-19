@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 3
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.5
+    },
+    {
+      "ticker": "PED",
+      "price": 2.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 2.94
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.4717
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.22
+    },
+    {
+      "ticker": "PED",
+      "price": 2.43
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTIC",
+      "price": 2.95
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.47
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.2
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4101
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTIC",
+      "price": 2.92
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.3727
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.23
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4224
+    }
+  ]
+}

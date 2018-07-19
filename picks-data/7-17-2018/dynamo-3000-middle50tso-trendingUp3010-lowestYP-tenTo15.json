@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LIVE",
+      "price": 13
+    },
+    {
+      "ticker": "MCA",
+      "price": 13.385
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MYF",
+      "price": 13.65
+    },
+    {
+      "ticker": "EVV",
+      "price": 12.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DM",
+      "price": 13.8739
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.649
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSPI",
+      "price": 10.649
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.3121
+    }
+  ],
+  "351": [
+    {
+      "ticker": "COTY",
+      "price": 14.235
+    },
+    {
+      "ticker": "BWP",
+      "price": 12.06
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABEV",
+      "price": 4.9346
+    },
+    {
+      "ticker": "ENZ",
+      "price": 4.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HBIO",
+      "price": 4.95
+    },
+    {
+      "ticker": "KMPH",
+      "price": 4.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBIO",
+      "price": 4.925
+    },
+    {
+      "ticker": "KMPH",
+      "price": 4.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KMPH",
+      "price": 4.8
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.885
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KMPH",
+      "price": 4.55
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.8797
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KMPH",
+      "price": 4.65
+    },
+    {
+      "ticker": "ABEV",
+      "price": 4.875
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KMPH",
+      "price": 4.65
+    },
+    {
+      "ticker": "LAC",
+      "price": 4.9915
+    }
+  ]
+}

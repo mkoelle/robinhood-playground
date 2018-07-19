@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRC",
+      "price": 8.125
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GGT",
+      "price": 9.07
+    },
+    {
+      "ticker": "WETF",
+      "price": 9.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CO",
+      "price": 8.03
+    },
+    {
+      "ticker": "JPS",
+      "price": 8.8696
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HYB",
+      "price": 8.4032
+    },
+    {
+      "ticker": "SBI",
+      "price": 8.6699
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GUT",
+      "price": 5.86
+    },
+    {
+      "ticker": "DMF",
+      "price": 8.085
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KMM",
+      "price": 8.86
+    },
+    {
+      "ticker": "NCV",
+      "price": 7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECF",
+      "price": 9.59
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.18
+    }
+  ]
+}

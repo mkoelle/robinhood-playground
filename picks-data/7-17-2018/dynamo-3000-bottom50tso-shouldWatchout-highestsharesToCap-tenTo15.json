@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    },
+    {
+      "ticker": "PBR",
+      "price": 10.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLRB",
+      "price": 10.2
+    },
+    {
+      "ticker": "CMTA",
+      "price": 10.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.45
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.319
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    },
+    {
+      "ticker": "CLSD",
+      "price": 10.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELVT",
+      "price": 10.06
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.4
+    }
+  ]
+}
