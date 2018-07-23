@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VIV",
+      "price": 11.91
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.2
+    },
+    {
+      "ticker": "EWZS",
+      "price": 13.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIV",
+      "price": 11.84
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.17
+    },
+    {
+      "ticker": "EWZS",
+      "price": 13.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIV",
+      "price": 11.815
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.215
+    },
+    {
+      "ticker": "EWZS",
+      "price": 13.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIV",
+      "price": 11.794
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.221
+    },
+    {
+      "ticker": "EWZS",
+      "price": 13.81
+    }
+  ]
+}

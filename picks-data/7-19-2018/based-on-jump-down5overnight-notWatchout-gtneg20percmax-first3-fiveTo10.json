@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ONDK",
+      "price": 7.645
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONDK",
+      "price": 7.6345
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.6157
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONDK",
+      "price": 7.73
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.665
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ONDK",
+      "price": 7.68
+    },
+    {
+      "ticker": "CTG",
+      "price": 6.68
+    }
+  ]
+}

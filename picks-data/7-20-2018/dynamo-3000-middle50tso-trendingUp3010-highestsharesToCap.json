@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GENE",
+      "price": 1.312
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.5717
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CANF",
+      "price": 1.265
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.595
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EMX",
+      "price": 1.0951
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.5739
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.1879
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4441
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JONE",
+      "price": 0.378
+    },
+    {
+      "ticker": "CANF",
+      "price": 1.2599
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEI",
+      "price": 0.446
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.0905
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3213
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.0905
+    }
+  ]
+}

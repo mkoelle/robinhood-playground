@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SID",
+      "price": 2.12
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.115
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    },
+    {
+      "ticker": "USAS",
+      "price": 2.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SID",
+      "price": 2.14
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.687
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SID",
+      "price": 2.13
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4364
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.4
+    }
+  ]
+}

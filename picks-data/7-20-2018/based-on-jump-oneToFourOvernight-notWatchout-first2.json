@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SID",
+      "price": 2.12
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.115
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SID",
+      "price": 2.14
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SID",
+      "price": 2.13
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4364
+    }
+  ]
+}

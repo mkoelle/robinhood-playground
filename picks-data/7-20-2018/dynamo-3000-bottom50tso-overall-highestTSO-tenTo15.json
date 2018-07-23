@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EIGI",
+      "price": 10.45
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HTZ",
+      "price": 13.83
+    },
+    {
+      "ticker": "TBIO",
+      "price": 14.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WSR",
+      "price": 12.69
+    },
+    {
+      "ticker": "OXLC",
+      "price": 11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DDR",
+      "price": 13.835
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRA",
+      "price": 13.74
+    },
+    {
+      "ticker": "MDRX",
+      "price": 11.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDHL",
+      "price": 10.19
+    },
+    {
+      "ticker": "EVLO",
+      "price": 14.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYRS",
+      "price": 11.78
+    },
+    {
+      "ticker": "MNTX",
+      "price": 12.285
+    }
+  ]
+}

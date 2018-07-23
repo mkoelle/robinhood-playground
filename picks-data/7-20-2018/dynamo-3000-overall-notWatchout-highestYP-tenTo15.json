@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10.88
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 11.85
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 11.75
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 11.7441
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOV",
+      "price": 11.9399
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOV",
+      "price": 11.98
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOV",
+      "price": 12.0001
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.625
+    }
+  ]
+}

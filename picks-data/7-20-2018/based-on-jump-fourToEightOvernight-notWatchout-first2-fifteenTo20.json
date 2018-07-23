@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AZUL",
+      "price": 19.73
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AZUL",
+      "price": 19.71
+    },
+    {
+      "ticker": "OFG",
+      "price": 15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AZUL",
+      "price": 19.6
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AZUL",
+      "price": 19.6186
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.85
+    }
+  ]
+}

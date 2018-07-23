@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 16.31
+    },
+    {
+      "ticker": "MERC",
+      "price": 17.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENBL",
+      "price": 18.5831
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENBL",
+      "price": 18.24
+    },
+    {
+      "ticker": "SE",
+      "price": 15.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENBL",
+      "price": 17.97
+    },
+    {
+      "ticker": "RYAM",
+      "price": 17.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENBL",
+      "price": 17.98
+    },
+    {
+      "ticker": "RYAM",
+      "price": 17.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENBL",
+      "price": 17.91
+    },
+    {
+      "ticker": "RYAM",
+      "price": 17.235
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RYAM",
+      "price": 17.035
+    },
+    {
+      "ticker": "ENBL",
+      "price": 17.88
+    }
+  ]
+}

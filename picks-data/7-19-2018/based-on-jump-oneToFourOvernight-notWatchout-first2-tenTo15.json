@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SMM",
+      "price": 10.3999
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMM",
+      "price": 10.3999
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMM",
+      "price": 10.42
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.715
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SMM",
+      "price": 10.4
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.665
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 9.6554
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABEV",
+      "price": 5.03
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.639
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABEV",
+      "price": 5.035
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.31
+    },
+    {
+      "ticker": "AXTI",
+      "price": 9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABEV",
+      "price": 5.045
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.32
+    },
+    {
+      "ticker": "TKC",
+      "price": 6.14
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "FPI",
+      "price": 6.6368
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.7933
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.2418
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPI",
+      "price": 6.46
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.76
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.2146
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPI",
+      "price": 6.43
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.6541
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 6.42
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.6
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPI",
+      "price": 6.4032
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.555
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPI",
+      "price": 6.5017
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.5534
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTWK",
+      "price": 5.65
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.5
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.53
+    }
+  ]
+}

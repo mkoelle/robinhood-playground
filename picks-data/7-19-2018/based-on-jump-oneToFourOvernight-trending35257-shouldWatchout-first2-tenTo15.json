@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NES",
+      "price": 11.0101
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NES",
+      "price": 11.065
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NES",
+      "price": 10.97
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NES",
+      "price": 10.97
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.075
+    }
+  ]
+}

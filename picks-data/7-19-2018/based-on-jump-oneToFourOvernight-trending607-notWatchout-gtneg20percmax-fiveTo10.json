@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRO",
+      "price": 5.48
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRO",
+      "price": 5.435
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.4505
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.4505
+    }
+  ]
+}

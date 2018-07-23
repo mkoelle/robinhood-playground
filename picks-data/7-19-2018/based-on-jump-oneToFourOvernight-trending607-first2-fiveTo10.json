@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.435
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    }
+  ]
+}

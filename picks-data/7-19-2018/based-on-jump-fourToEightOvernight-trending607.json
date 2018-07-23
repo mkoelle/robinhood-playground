@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MEET",
+      "price": 4.57
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MEET",
+      "price": 4.6
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4295
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MEET",
+      "price": 4.595
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4202
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MEET",
+      "price": 4.54
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    }
+  ]
+}

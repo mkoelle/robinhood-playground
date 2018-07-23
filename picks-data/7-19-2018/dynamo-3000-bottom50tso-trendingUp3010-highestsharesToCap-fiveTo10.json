@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "ENIC",
+      "price": 5.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "YGYI",
+      "price": 5.0338
+    },
+    {
+      "ticker": "ENIC",
+      "price": 5.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENIC",
+      "price": 5.11
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ENIC",
+      "price": 5.13
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENIC",
+      "price": 5.11
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.551
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENIC",
+      "price": 5.115
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.6099
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WSCI",
+      "price": 5.5
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.49
+    }
+  ]
+}

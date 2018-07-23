@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMRH",
+      "price": 1.4
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRH",
+      "price": 1.32
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.8321
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMRH",
+      "price": 1.35
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.448
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMRH",
+      "price": 1.33
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.5886
+    }
+  ]
+}

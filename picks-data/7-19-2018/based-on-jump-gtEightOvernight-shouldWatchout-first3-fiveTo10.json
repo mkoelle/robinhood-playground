@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RKDA",
+      "price": 7.92
+    },
+    {
+      "ticker": "TTS",
+      "price": 9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RKDA",
+      "price": 7.9599
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RKDA",
+      "price": 7.98
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.325
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RKDA",
+      "price": 7.68
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.075
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENPH",
+      "price": 7.09
+    },
+    {
+      "ticker": "CSBR",
+      "price": 8.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFL",
+      "price": 9.71
+    },
+    {
+      "ticker": "ENPH",
+      "price": 7.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.13
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 6.08
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.8147
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 6.0571
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 5.76
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.92
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MXC",
+      "price": 5.92
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.79
+    }
+  ]
+}

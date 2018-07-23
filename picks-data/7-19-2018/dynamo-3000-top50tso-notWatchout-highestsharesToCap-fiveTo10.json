@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SWN",
+      "price": 5.325
+    },
+    {
+      "ticker": "PES",
+      "price": 5.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SWN",
+      "price": 5.305
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.17
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBIO",
+      "price": 5.2
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBIO",
+      "price": 5.225
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SWN",
+      "price": 5.355
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SWN",
+      "price": 5.365
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SWN",
+      "price": 5.36
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.45
+    }
+  ]
+}

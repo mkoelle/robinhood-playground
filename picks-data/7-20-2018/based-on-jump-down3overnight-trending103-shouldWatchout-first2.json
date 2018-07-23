@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EYEG",
+      "price": 0.59
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EYEG",
+      "price": 0.59
+    },
+    {
+      "ticker": "LINK",
+      "price": 3.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTN",
+      "price": 4.448
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.6104
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTN",
+      "price": 4.5886
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1802
+    }
+  ]
+}

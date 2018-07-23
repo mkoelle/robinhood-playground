@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRVS",
+      "price": 11.05
+    },
+    {
+      "ticker": "EPM",
+      "price": 11.075
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DWCH",
+      "price": 13.25
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.8748
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 13.9737
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.0099
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "FLWS",
+      "price": 13.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLF",
+      "price": 10.13
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.165
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.05
+    },
+    {
+      "ticker": "FLWS",
+      "price": 13.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FLWS",
+      "price": 13.4
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.135
+    }
+  ]
+}

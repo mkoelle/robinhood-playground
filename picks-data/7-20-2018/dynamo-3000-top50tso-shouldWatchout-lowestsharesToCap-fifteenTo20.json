@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EOLS",
+      "price": 19.67
+    },
+    {
+      "ticker": "SIEN",
+      "price": 19.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NMIH",
+      "price": 19.7
+    },
+    {
+      "ticker": "VYGR",
+      "price": 19.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NMIH",
+      "price": 19.8
+    },
+    {
+      "ticker": "VYGR",
+      "price": 19.435
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFBI",
+      "price": 19.83
+    },
+    {
+      "ticker": "CYBE",
+      "price": 19.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NMIH",
+      "price": 19.875
+    },
+    {
+      "ticker": "CYBE",
+      "price": 19.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFBI",
+      "price": 19.96
+    },
+    {
+      "ticker": "NMIH",
+      "price": 19.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PFBI",
+      "price": 19.9
+    },
+    {
+      "ticker": "VYGR",
+      "price": 18.73
+    }
+  ]
+}

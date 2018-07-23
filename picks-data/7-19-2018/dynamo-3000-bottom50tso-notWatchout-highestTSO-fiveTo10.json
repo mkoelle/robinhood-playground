@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ROSE",
+      "price": 8.9
+    },
+    {
+      "ticker": "GLUU",
+      "price": 6.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNTY",
+      "price": 8.44
+    },
+    {
+      "ticker": "MLNT",
+      "price": 6.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CMFN",
+      "price": 8.8003
+    },
+    {
+      "ticker": "BVXV",
+      "price": 6.367
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FBP",
+      "price": 7.82
+    },
+    {
+      "ticker": "ASC",
+      "price": 7.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BCRX",
+      "price": 6.08
+    },
+    {
+      "ticker": "SMDD",
+      "price": 8.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENIC",
+      "price": 5.115
+    },
+    {
+      "ticker": "AINV",
+      "price": 5.855
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPIX",
+      "price": 6.11
+    },
+    {
+      "ticker": "UFAB",
+      "price": 8.25
+    }
+  ]
+}

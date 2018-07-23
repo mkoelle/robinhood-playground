@@ -1,0 +1,70 @@
+{
+  "2": [
+    {
+      "ticker": "OBE",
+      "price": 1.0718
+    }
+  ],
+  "12": [
+    {
+      "ticker": "OBE",
+      "price": 1.08
+    }
+  ],
+  "75": [
+    {
+      "ticker": "SFUN",
+      "price": 3.495
+    },
+    {
+      "ticker": "NG",
+      "price": 4.495
+    }
+  ],
+  "120": [
+    {
+      "ticker": "RIGL",
+      "price": 2.865
+    },
+    {
+      "ticker": "NG",
+      "price": 4.49
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.495
+    }
+  ],
+  "180": [
+    {
+      "ticker": "RIGL",
+      "price": 2.885
+    },
+    {
+      "ticker": "NG",
+      "price": 4.545
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.495
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RIGL",
+      "price": 2.98
+    },
+    {
+      "ticker": "NG",
+      "price": 4.53
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.18
+    },
+    {
+      "ticker": "HK",
+      "price": 3.9
+    }
+  ]
+}

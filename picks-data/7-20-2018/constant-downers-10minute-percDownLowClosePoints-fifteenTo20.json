@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "DO",
+      "price": 18.34
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.6
+    },
+    {
+      "ticker": "UNIT",
+      "price": 18.1
+    }
+  ],
+  "242": [
+    {
+      "ticker": "COOL",
+      "price": 19.42
+    },
+    {
+      "ticker": "ENBL",
+      "price": 17.9852
+    },
+    {
+      "ticker": "UNIT",
+      "price": 17.771
+    }
+  ],
+  "309": [
+    {
+      "ticker": "UNIT",
+      "price": 17.311
+    },
+    {
+      "ticker": "RYAM",
+      "price": 17.33
+    },
+    {
+      "ticker": "ENBL",
+      "price": 17.95
+    }
+  ]
+}

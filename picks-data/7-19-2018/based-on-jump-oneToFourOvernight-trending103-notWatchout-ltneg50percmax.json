@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.4012
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.7901
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.4099
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.4012
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.4017
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.83
+    }
+  ]
+}

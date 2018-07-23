@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABEV",
+      "price": 5.03
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.254
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MCF",
+      "price": 6.38
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DEST",
+      "price": 5.8501
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.2375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SGBX",
+      "price": 5.3999
+    },
+    {
+      "ticker": "SFS",
+      "price": 5.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CODA",
+      "price": 5.02
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.3999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 5.76
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.3899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MXC",
+      "price": 5.92
+    },
+    {
+      "ticker": "CODA",
+      "price": 5
+    }
+  ]
+}

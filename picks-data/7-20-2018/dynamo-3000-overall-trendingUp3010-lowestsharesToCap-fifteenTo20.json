@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HTLD",
+      "price": 20.04
+    },
+    {
+      "ticker": "CBMG",
+      "price": 19.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOOD",
+      "price": 19.85
+    },
+    {
+      "ticker": "CNO",
+      "price": 19.82
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CEFS",
+      "price": 19.9442
+    },
+    {
+      "ticker": "GOOD",
+      "price": 19.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDUC",
+      "price": 19.55
+    },
+    {
+      "ticker": "CEFS",
+      "price": 19.9861
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EDUC",
+      "price": 19.6
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EDUC",
+      "price": 19.75
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EDUC",
+      "price": 19.7
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.87
+    }
+  ]
+}

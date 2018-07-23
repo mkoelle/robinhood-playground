@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IOVA",
+      "price": 14.925
+    },
+    {
+      "ticker": "ABEO",
+      "price": 14.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PBR.A",
+      "price": 10.135
+    },
+    {
+      "ticker": "ALNA",
+      "price": 11.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XENE",
+      "price": 10.3
+    },
+    {
+      "ticker": "TGTX",
+      "price": 12.175
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 10.82
+    },
+    {
+      "ticker": "VNET",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR.A",
+      "price": 10.21
+    },
+    {
+      "ticker": "NLS",
+      "price": 14.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIPS",
+      "price": 10.05
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NLS",
+      "price": 14.525
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.175
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 14.24
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.165
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 10.82
+    },
+    {
+      "ticker": "DWCH",
+      "price": 13.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BAS",
+      "price": 10.67
+    },
+    {
+      "ticker": "IMRN",
+      "price": 11.4275
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.3
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.2534
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.2325
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRCP",
+      "price": 10.11
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.2801
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 11.07
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.3
+    }
+  ]
+}

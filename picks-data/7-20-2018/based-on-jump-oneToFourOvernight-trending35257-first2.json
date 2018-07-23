@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2801
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.16
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.285
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 10.85
+    },
+    {
+      "ticker": "BB",
+      "price": 10.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 10.94
+    },
+    {
+      "ticker": "BB",
+      "price": 10.4934
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 11.11
+    },
+    {
+      "ticker": "BB",
+      "price": 10.465
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 11.235
+    },
+    {
+      "ticker": "BB",
+      "price": 10.496
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.58
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MESO",
+      "price": 6.69
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.57
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPL",
+      "price": 9.615
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPL",
+      "price": 9.605
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 9.5731
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.39
+    }
+  ]
+}

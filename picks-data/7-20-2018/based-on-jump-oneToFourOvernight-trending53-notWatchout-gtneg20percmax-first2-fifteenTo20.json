@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VRCA",
+      "price": 18.74
+    },
+    {
+      "ticker": "ENBL",
+      "price": 19.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VRCA",
+      "price": 18.9
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VRCA",
+      "price": 18.45
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.5701
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VRCA",
+      "price": 18.45
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.73
+    }
+  ]
+}

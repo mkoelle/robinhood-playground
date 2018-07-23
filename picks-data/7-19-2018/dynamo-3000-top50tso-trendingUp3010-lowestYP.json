@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PAVM",
+      "price": 1.43
+    },
+    {
+      "ticker": "TWMC",
+      "price": 1.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMRH",
+      "price": 1.5428
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.4318
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAVM",
+      "price": 1.48
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.822
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PAVM",
+      "price": 1.4599
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.8399
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRKR",
+      "price": 0.8488
+    },
+    {
+      "ticker": "NK",
+      "price": 3.23
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PAVM",
+      "price": 1.47
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.1251
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAVM",
+      "price": 1.47
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.13
+    }
+  ]
+}

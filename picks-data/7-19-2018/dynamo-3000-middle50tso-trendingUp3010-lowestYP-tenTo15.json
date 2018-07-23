@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SWCH",
+      "price": 13.49
+    },
+    {
+      "ticker": "MFL",
+      "price": 12.9151
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KTF",
+      "price": 11.0462
+    },
+    {
+      "ticker": "MFL",
+      "price": 12.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KTF",
+      "price": 11.048
+    },
+    {
+      "ticker": "MFL",
+      "price": 12.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYF",
+      "price": 13.68
+    },
+    {
+      "ticker": "EIA",
+      "price": 10.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KTF",
+      "price": 11.0599
+    },
+    {
+      "ticker": "EIA",
+      "price": 10.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 10.54
+    },
+    {
+      "ticker": "MYF",
+      "price": 13.69
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MYF",
+      "price": 13.69
+    },
+    {
+      "ticker": "EIO",
+      "price": 11.581
+    }
+  ]
+}

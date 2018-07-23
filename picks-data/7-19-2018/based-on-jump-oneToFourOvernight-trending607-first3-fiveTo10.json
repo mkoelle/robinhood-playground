@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.435
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.1
+    }
+  ]
+}

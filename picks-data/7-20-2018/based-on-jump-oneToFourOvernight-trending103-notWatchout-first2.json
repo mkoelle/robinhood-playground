@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATEC",
+      "price": 2.9
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATEC",
+      "price": 2.9
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATEC",
+      "price": 2.91
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNUS",
+      "price": 2.6062
+    },
+    {
+      "ticker": "ATEC",
+      "price": 2.8762
+    }
+  ]
+}

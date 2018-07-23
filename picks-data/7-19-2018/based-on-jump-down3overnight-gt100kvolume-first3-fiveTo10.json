@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ONDK",
+      "price": 7.645
+    },
+    {
+      "ticker": "USLV",
+      "price": 7.6646
+    },
+    {
+      "ticker": "AU",
+      "price": 8.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONDK",
+      "price": 7.6345
+    },
+    {
+      "ticker": "USLV",
+      "price": 7.715
+    },
+    {
+      "ticker": "AU",
+      "price": 8.105
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONDK",
+      "price": 7.73
+    },
+    {
+      "ticker": "USLV",
+      "price": 7.7
+    },
+    {
+      "ticker": "AU",
+      "price": 8.085
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRSN",
+      "price": 10.1101
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.68
+    },
+    {
+      "ticker": "USLV",
+      "price": 7.66
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BB",
+      "price": 10.56
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BB",
+      "price": 10.4934
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UBCP",
+      "price": 13.55
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UBCP",
+      "price": 13.55
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.251
+    }
+  ]
+}

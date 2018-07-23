@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HIHO",
+      "price": 4.25
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HIHO",
+      "price": 4.28
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AWSM",
+      "price": 4.45
+    },
+    {
+      "ticker": "STON",
+      "price": 3.6573
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICD",
+      "price": 3.77
+    },
+    {
+      "ticker": "STON",
+      "price": 3.7016
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ICD",
+      "price": 3.83
+    },
+    {
+      "ticker": "STON",
+      "price": 3.67
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AWSM",
+      "price": 4.41
+    },
+    {
+      "ticker": "STON",
+      "price": 3.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STON",
+      "price": 3.62
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.42
+    }
+  ]
+}

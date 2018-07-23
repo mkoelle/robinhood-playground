@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IIJI",
+      "price": 9.8
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESXB",
+      "price": 9.8
+    },
+    {
+      "ticker": "VRAY",
+      "price": 9.385
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOCA",
+      "price": 9.43
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.425
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRAY",
+      "price": 9.67
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRAY",
+      "price": 9.75
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRAY",
+      "price": 9.635
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRAY",
+      "price": 9.65
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.25
+    }
+  ]
+}

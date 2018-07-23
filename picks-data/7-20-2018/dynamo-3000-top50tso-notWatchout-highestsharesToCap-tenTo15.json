@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.285
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ULBI",
+      "price": 10.1952
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 10.15
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.33
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLF",
+      "price": 10.13
+    },
+    {
+      "ticker": "NTP",
+      "price": 10.269
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NTP",
+      "price": 10.2
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTP",
+      "price": 10.2
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.24
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "ENBL",
+      "price": 19.09
+    },
+    {
+      "ticker": "INFY",
+      "price": 20.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "FLN",
+      "price": 19.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "FLN",
+      "price": 19.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "FLN",
+      "price": 19.11
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FTD",
+      "price": 3.68
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FTD",
+      "price": 3.67
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FTD",
+      "price": 3.7675
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FTD",
+      "price": 3.97
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    }
+  ]
+}

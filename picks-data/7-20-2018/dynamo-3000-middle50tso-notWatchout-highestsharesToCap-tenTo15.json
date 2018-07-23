@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JFR",
+      "price": 10.24
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.3275
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LDF",
+      "price": 10.2672
+    },
+    {
+      "ticker": "JFR",
+      "price": 10.2399
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAK",
+      "price": 10.4281
+    },
+    {
+      "ticker": "RMT",
+      "price": 10.476
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSHT",
+      "price": 10.16
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSHT",
+      "price": 10.16
+    },
+    {
+      "ticker": "LOR",
+      "price": 10.3773
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LCA",
+      "price": 10.1
+    },
+    {
+      "ticker": "GSHT",
+      "price": 10.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LDF",
+      "price": 10.26
+    },
+    {
+      "ticker": "LCA",
+      "price": 10.1
+    }
+  ]
+}

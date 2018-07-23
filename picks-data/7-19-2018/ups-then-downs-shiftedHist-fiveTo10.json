@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "ICLK",
+      "price": 6.575
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SRAX",
+      "price": 5.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SRAX",
+      "price": 5.4745
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.59
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SRAX",
+      "price": 5.5
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.69
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SRAX",
+      "price": 5.55
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.79
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SRAX",
+      "price": 5.55
+    },
+    {
+      "ticker": "ICLK",
+      "price": 6.79
+    }
+  ]
+}

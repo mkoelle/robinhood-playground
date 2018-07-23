@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.56
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.912
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRO",
+      "price": 5.48
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.56
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.912
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.985
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRO",
+      "price": 5.435
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.4505
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.912
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRO",
+      "price": 5.47
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.03
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.4505
+    },
+    {
+      "ticker": "CATS",
+      "price": 6.904
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.0094
+    }
+  ]
+}

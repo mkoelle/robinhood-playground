@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "SEED",
+      "price": 9.01
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FRD",
+      "price": 9.2714
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.8
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.254
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FRD",
+      "price": 9.3604
+    },
+    {
+      "ticker": "SEED",
+      "price": 9.18
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.254
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FRD",
+      "price": 9.27
+    },
+    {
+      "ticker": "SEED",
+      "price": 9.08
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.23
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.225
+    }
+  ]
+}

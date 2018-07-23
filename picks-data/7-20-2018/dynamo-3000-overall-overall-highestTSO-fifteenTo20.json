@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GLMD",
+      "price": 15.64
+    },
+    {
+      "ticker": "VYGR",
+      "price": 18.765
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDXS",
+      "price": 16.4
+    },
+    {
+      "ticker": "IOVA",
+      "price": 15.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACIU",
+      "price": 15.03
+    },
+    {
+      "ticker": "VYGR",
+      "price": 19.435
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IOVA",
+      "price": 15.65
+    },
+    {
+      "ticker": "VYGR",
+      "price": 18.88
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 15.68
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.575
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACIU",
+      "price": 16.03
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ACIU",
+      "price": 16.15
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.67
+    }
+  ]
+}

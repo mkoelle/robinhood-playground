@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.33
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.32
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.92
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.29
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.8699
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 8.09
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.31
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.8743
+    }
+  ]
+}

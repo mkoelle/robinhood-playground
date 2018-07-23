@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 3.27
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1115
+    },
+    {
+      "ticker": "ZOM",
+      "price": 2.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.3899
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.108
+    },
+    {
+      "ticker": "ZOM",
+      "price": 2.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.2314
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1011
+    },
+    {
+      "ticker": "ZOM",
+      "price": 2.33
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.13
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1034
+    },
+    {
+      "ticker": "BHTG",
+      "price": 3.599
+    }
+  ]
+}

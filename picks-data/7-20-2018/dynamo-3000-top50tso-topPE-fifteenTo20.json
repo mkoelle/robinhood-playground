@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "MTRX",
+      "price": 19.75
+    },
+    {
+      "ticker": "PRMW",
+      "price": 18.1
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.6801
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ITCB",
+      "price": 15.2
+    },
+    {
+      "ticker": "HALO",
+      "price": 18.17
+    },
+    {
+      "ticker": "SLP",
+      "price": 17.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVNW",
+      "price": 15.95
+    },
+    {
+      "ticker": "CIVI",
+      "price": 16.6
+    },
+    {
+      "ticker": "PSAU",
+      "price": 17.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARA",
+      "price": 15.915
+    },
+    {
+      "ticker": "CYBE",
+      "price": 19.4
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARA",
+      "price": 15.88
+    },
+    {
+      "ticker": "CYBE",
+      "price": 19.4
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.18
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARA",
+      "price": 15.94
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.22
+    },
+    {
+      "ticker": "ICCH",
+      "price": 15.546
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARA",
+      "price": 15.915
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.18
+    },
+    {
+      "ticker": "ICCH",
+      "price": 15.546
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RIOT",
+      "price": 5.9499
+    },
+    {
+      "ticker": "BIOC",
+      "price": 6.8141
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 7.3998
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.0437
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIOT",
+      "price": 5.9999
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.045
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIOT",
+      "price": 6.0049
+    },
+    {
+      "ticker": "BIOC",
+      "price": 7.0248
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIOT",
+      "price": 6.14
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIOT",
+      "price": 6.0846
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RIOT",
+      "price": 6.07
+    },
+    {
+      "ticker": "RDVT",
+      "price": 8.01
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BOJA",
+      "price": 14.8
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSH",
+      "price": 14.11
+    },
+    {
+      "ticker": "DDR",
+      "price": 13.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 14.75
+    },
+    {
+      "ticker": "BRS",
+      "price": 13.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 14.72
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WATT",
+      "price": 14.92
+    },
+    {
+      "ticker": "ELF",
+      "price": 14.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WATT",
+      "price": 14.61
+    },
+    {
+      "ticker": "ELF",
+      "price": 14.86
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WATT",
+      "price": 14.5052
+    },
+    {
+      "ticker": "NGVC",
+      "price": 14.64
+    }
+  ]
+}

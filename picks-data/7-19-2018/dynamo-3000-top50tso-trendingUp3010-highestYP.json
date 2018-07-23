@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UUU",
+      "price": 1.38
+    },
+    {
+      "ticker": "PED",
+      "price": 2.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UUU",
+      "price": 1.38
+    },
+    {
+      "ticker": "FNJN",
+      "price": 4.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVLV",
+      "price": 1.63
+    },
+    {
+      "ticker": "PED",
+      "price": 2.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LEJU",
+      "price": 1.85
+    },
+    {
+      "ticker": "MARPS",
+      "price": 4.1124
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PED",
+      "price": 2.7889
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LEJU",
+      "price": 2.02
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LEJU",
+      "price": 2.03
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.85
+    }
+  ]
+}

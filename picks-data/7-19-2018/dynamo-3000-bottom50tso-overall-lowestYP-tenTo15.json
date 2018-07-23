@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 11.37
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.35
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPNT",
+      "price": 14.65
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SUPV",
+      "price": 11.33
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.505
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIFS",
+      "price": 14.8895
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIFS",
+      "price": 14.86
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.24
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIFS",
+      "price": 14.86
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.56
+    }
+  ]
+}

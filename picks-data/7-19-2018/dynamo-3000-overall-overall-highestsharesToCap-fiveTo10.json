@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "IVAC",
+      "price": 5.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 6.1584
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MXC",
+      "price": 6.224
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.1502
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 6.12
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.1878
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 6.2199
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MXC",
+      "price": 6.2
+    },
+    {
+      "ticker": "DXR",
+      "price": 6.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DXR",
+      "price": 6.11
+    },
+    {
+      "ticker": "MXC",
+      "price": 6.2
+    }
+  ]
+}

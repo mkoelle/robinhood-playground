@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "SWCH",
+      "price": 13.495
+    },
+    {
+      "ticker": "NES",
+      "price": 11.0101
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.75
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SWCH",
+      "price": 13.495
+    },
+    {
+      "ticker": "NES",
+      "price": 11.065
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.7205
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SWCH",
+      "price": 13.5
+    },
+    {
+      "ticker": "NES",
+      "price": 10.97
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.125
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.675
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SWCH",
+      "price": 13.58
+    },
+    {
+      "ticker": "NES",
+      "price": 10.97
+    },
+    {
+      "ticker": "WAIR",
+      "price": 12.075
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.55
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.24
+    }
+  ]
+}

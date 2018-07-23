@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PESI",
+      "price": 4.4
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RMTI",
+      "price": 4.69
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RMTI",
+      "price": 4.67
+    },
+    {
+      "ticker": "EBR",
+      "price": 4.6801
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMTI",
+      "price": 4.7
+    },
+    {
+      "ticker": "PESI",
+      "price": 4.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RMTI",
+      "price": 4.7284
+    },
+    {
+      "ticker": "EMMS",
+      "price": 4.81
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SALM",
+      "price": 4.85
+    },
+    {
+      "ticker": "EMMS",
+      "price": 4.8135
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EMMS",
+      "price": 4.8135
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.6
+    }
+  ]
+}

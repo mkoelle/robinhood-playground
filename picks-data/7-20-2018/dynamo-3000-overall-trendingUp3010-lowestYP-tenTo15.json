@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.74
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SVXY",
+      "price": 13.77
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.79
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.885
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.86
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SVXY",
+      "price": 13.845
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SVXY",
+      "price": 13.75
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SVXY",
+      "price": 13.785
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.87
+    }
+  ]
+}

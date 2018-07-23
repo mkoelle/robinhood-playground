@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LLNW",
+      "price": 5
+    },
+    {
+      "ticker": "RESN",
+      "price": 5.04
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LLNW",
+      "price": 5.189
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.3913
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSLT",
+      "price": 5.33
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.2201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSLT",
+      "price": 5.5309
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSLT",
+      "price": 5.4
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.4499
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLNW",
+      "price": 5.12
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.4
+    }
+  ]
+}

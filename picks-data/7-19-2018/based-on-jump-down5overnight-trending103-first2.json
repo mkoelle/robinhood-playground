@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NURO",
+      "price": 1.311
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4099
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NURO",
+      "price": 1.32
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4141
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NURO",
+      "price": 1.3039
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4059
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NURO",
+      "price": 1.31
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.405
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OVID",
+      "price": 9.541
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MRAM",
+      "price": 9.81
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.225
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZYNE",
+      "price": 7.63
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TPIV",
+      "price": 9.46
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TPIV",
+      "price": 9.33
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFVN",
+      "price": 9.9
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 9.97
+    },
+    {
+      "ticker": "TPIV",
+      "price": 9.3
+    }
+  ]
+}

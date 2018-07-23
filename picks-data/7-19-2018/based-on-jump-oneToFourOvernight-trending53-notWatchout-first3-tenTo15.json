@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMLP",
+      "price": 10.75
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.7
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMLP",
+      "price": 10.74
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.73
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.5586
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMLP",
+      "price": 10.715
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.7121
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.5201
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMLP",
+      "price": 10.665
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.69
+    },
+    {
+      "ticker": "CEM",
+      "price": 14.4979
+    }
+  ]
+}

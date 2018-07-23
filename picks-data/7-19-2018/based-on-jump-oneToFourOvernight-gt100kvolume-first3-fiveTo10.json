@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LPL",
+      "price": 9.33
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.48
+    },
+    {
+      "ticker": "AMZA",
+      "price": 7.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPL",
+      "price": 9.32
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.4266
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPL",
+      "price": 9.29
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.3916
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 9.31
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.4852
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.265
+    }
+  ]
+}

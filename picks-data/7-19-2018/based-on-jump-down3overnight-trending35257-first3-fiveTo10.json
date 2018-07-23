@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SNDE",
+      "price": 5.34
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.645
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.465
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNDE",
+      "price": 5.34
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.6345
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNDE",
+      "price": 5.34
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.73
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.515
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNDE",
+      "price": 5.34
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.68
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.44
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTIC",
+      "price": 2.4
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.0601
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTIC",
+      "price": 2.4
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.055
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MEET",
+      "price": 4.595
+    },
+    {
+      "ticker": "CTIC",
+      "price": 2.3801
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MEET",
+      "price": 4.54
+    },
+    {
+      "ticker": "CTIC",
+      "price": 2.415
+    }
+  ]
+}

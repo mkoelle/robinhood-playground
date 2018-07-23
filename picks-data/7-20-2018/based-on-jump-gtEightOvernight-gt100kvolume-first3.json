@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SAEX",
+      "price": 2.22
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.8993
+    },
+    {
+      "ticker": "RWLK",
+      "price": 0.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAEX",
+      "price": 2.42
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAEX",
+      "price": 2.33
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.79
+    },
+    {
+      "ticker": "RWLK",
+      "price": 0.8389
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAEX",
+      "price": 2.23
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.706
+    },
+    {
+      "ticker": "RWLK",
+      "price": 0.8199
+    }
+  ]
+}

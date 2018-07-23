@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.2
+    }
+  ]
+}

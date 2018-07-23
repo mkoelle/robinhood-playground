@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GTE",
+      "price": 3.49
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GTE",
+      "price": 3.475
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.32
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GTE",
+      "price": 3.485
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.337
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GMO",
+      "price": 0.4364
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.5
+    }
+  ]
+}

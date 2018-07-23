@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLPR",
+      "price": 10.08
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLPR",
+      "price": 10.16
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLPR",
+      "price": 10.2505
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.3627
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLPR",
+      "price": 10.26
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLPR",
+      "price": 10.25
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCS",
+      "price": 10
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.2425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLPR",
+      "price": 10.25
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.25
+    }
+  ]
+}

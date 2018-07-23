@@ -12,7 +12,8 @@ const executeStrategy = async (Robinhood, strategyFn, min, ratioToSpend, strateg
     let pricePerms = {
         under5: [0, 5],
         fiveTo10: [5, 10],
-        tenTo15: [10, 15]
+        tenTo15: [10, 15],
+        fifteenTo20: [15, 20]
     };
 
     if (pricePermFilter) {

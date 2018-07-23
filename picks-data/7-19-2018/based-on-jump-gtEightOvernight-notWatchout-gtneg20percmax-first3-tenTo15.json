@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DWCH",
+      "price": 13.1
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DWCH",
+      "price": 13.025
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DWCH",
+      "price": 13.5511
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DWCH",
+      "price": 13.2
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.9
+    }
+  ]
+}

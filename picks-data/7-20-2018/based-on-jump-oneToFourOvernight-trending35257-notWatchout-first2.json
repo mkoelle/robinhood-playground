@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 2.36
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GGB",
+      "price": 4.205
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GGB",
+      "price": 4.265
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GGB",
+      "price": 4.2665
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.9
+    }
+  ]
+}

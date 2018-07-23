@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MESO",
+      "price": 6.69
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.57
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CATS",
+      "price": 7.2848
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.69
+    },
+    {
+      "ticker": "NRT",
+      "price": 7.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CATS",
+      "price": 7.306
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.6558
+    },
+    {
+      "ticker": "NRT",
+      "price": 7.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CATS",
+      "price": 7.306
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.6897
+    },
+    {
+      "ticker": "NRT",
+      "price": 7.99
+    }
+  ]
+}

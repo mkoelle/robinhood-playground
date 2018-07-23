@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IMTE",
+      "price": 13.668
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.1
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMTE",
+      "price": 13.668
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.2
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMTE",
+      "price": 13.668
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.3254
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMTE",
+      "price": 14
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.27
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.58
+    }
+  ]
+}

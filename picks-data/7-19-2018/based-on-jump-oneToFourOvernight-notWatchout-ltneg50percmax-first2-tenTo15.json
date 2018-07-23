@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LCI",
+      "price": 12.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.6078
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LCI",
+      "price": 12.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LCI",
+      "price": 12.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LCI",
+      "price": 12.65
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.62
+    }
+  ]
+}

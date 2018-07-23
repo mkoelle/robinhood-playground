@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.45
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.5153
+    },
+    {
+      "ticker": "MRCC",
+      "price": 13.92
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.09
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.58
+    },
+    {
+      "ticker": "MRCC",
+      "price": 13.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.14
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.43
+    },
+    {
+      "ticker": "MRCC",
+      "price": 13.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.2
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.3825
+    },
+    {
+      "ticker": "MRCC",
+      "price": 13.75
+    }
+  ]
+}

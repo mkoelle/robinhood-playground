@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.665
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.6301
+    },
+    {
+      "ticker": "RFIL",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "YGYI",
+      "price": 5.001
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.665
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.64
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FLGT",
+      "price": 5.1
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.6174
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.6799
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FLGT",
+      "price": 5.1
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.6174
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.64
+    },
+    {
+      "ticker": "RFIL",
+      "price": 8.9
+    }
+  ]
+}

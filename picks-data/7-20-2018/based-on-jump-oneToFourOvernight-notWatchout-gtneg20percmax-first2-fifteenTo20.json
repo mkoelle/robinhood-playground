@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TMV",
+      "price": 19.05
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TMV",
+      "price": 19.12
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "USX",
+      "price": 15.08
+    },
+    {
+      "ticker": "TMV",
+      "price": 19.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "USX",
+      "price": 15.08
+    },
+    {
+      "ticker": "TMV",
+      "price": 19.15
+    }
+  ]
+}

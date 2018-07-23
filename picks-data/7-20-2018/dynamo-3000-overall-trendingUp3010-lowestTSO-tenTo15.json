@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 14.24
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 10.45
+    },
+    {
+      "ticker": "YRIV",
+      "price": 12.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LONE",
+      "price": 10.23
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.7733
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRIV",
+      "price": 11.3
+    },
+    {
+      "ticker": "EVLO",
+      "price": 14.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRIV",
+      "price": 11.2325
+    },
+    {
+      "ticker": "PAH",
+      "price": 12.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRIV",
+      "price": 11.3799
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRIV",
+      "price": 11.07
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.68
+    }
+  ]
+}

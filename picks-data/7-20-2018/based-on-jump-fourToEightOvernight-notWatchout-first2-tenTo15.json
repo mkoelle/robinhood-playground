@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VIV",
+      "price": 11.91
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIV",
+      "price": 11.84
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.17
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIV",
+      "price": 11.815
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.215
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIV",
+      "price": 11.794
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.221
+    }
+  ]
+}

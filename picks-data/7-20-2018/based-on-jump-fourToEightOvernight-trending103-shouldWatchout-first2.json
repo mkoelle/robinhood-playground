@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 3.27
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.3899
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.2314
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.526
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.13
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.526
+    }
+  ]
+}

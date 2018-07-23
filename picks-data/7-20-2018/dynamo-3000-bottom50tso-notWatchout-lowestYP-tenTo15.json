@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 11.45
+    },
+    {
+      "ticker": "ACH",
+      "price": 10.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 11.3
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.42
+    },
+    {
+      "ticker": "GE",
+      "price": 13.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 10.34
+    },
+    {
+      "ticker": "GE",
+      "price": 13.0799
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 10.36
+    },
+    {
+      "ticker": "GE",
+      "price": 13.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 10.3
+    },
+    {
+      "ticker": "LX",
+      "price": 10.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LCI",
+      "price": 12.375
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.1799
+    }
+  ]
+}

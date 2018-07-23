@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KNSA",
+      "price": 15.49
+    },
+    {
+      "ticker": "CSTE",
+      "price": 16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WATT",
+      "price": 15.29
+    },
+    {
+      "ticker": "VECO",
+      "price": 15.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WATT",
+      "price": 14.985
+    },
+    {
+      "ticker": "IMMR",
+      "price": 15.3302
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELF",
+      "price": 15.0215
+    },
+    {
+      "ticker": "IMMR",
+      "price": 15.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMMR",
+      "price": 15.235
+    },
+    {
+      "ticker": "AMC",
+      "price": 16.075
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMMR",
+      "price": 15.2
+    },
+    {
+      "ticker": "TITN",
+      "price": 15.43
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMMR",
+      "price": 15.175
+    },
+    {
+      "ticker": "TITN",
+      "price": 15.41
+    }
+  ]
+}

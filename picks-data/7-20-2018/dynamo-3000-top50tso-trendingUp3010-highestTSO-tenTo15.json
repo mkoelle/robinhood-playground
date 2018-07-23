@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVRA",
+      "price": 12.89
+    },
+    {
+      "ticker": "VNET",
+      "price": 11.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DWCH",
+      "price": 13.25
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.77
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWCH",
+      "price": 12.95
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SEED",
+      "price": 10.2534
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SEED",
+      "price": 10.57
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SEED",
+      "price": 10.2801
+    },
+    {
+      "ticker": "EXPI",
+      "price": 13.94
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SEED",
+      "price": 10.3
+    },
+    {
+      "ticker": "RFL",
+      "price": 10.11
+    }
+  ]
+}

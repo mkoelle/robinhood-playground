@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IDSY",
+      "price": 5.93
+    },
+    {
+      "ticker": "HQCL",
+      "price": 5.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRT",
+      "price": 5.2129
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.3913
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSLT",
+      "price": 5.33
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.2201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSLT",
+      "price": 5.45
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.1658
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSLT",
+      "price": 5.5309
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRT",
+      "price": 5.4499
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TRT",
+      "price": 5.4655
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.4
+    }
+  ]
+}

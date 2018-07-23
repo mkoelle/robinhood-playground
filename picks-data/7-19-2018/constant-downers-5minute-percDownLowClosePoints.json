@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SMIT",
+      "price": 3.18
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.108
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.165
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SMIT",
+      "price": 3.0211
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1087
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.16
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SMIT",
+      "price": 3.098
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1602
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1084
+    }
+  ]
+}

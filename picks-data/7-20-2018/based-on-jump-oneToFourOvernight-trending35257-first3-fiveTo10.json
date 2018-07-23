@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MCF",
+      "price": 6.42
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.309
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MCF",
+      "price": 6.44
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.265
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.615
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCF",
+      "price": 6.45
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.31
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.605
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCF",
+      "price": 6.422
+    },
+    {
+      "ticker": "BRFS",
+      "price": 6.32
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.5731
+    }
+  ]
+}

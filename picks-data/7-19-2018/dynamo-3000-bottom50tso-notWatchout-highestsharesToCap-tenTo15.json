@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACH",
+      "price": 10.01
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.22
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 10.19
+    },
+    {
+      "ticker": "LTM",
+      "price": 10.355
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 10.23
+    },
+    {
+      "ticker": "MVO",
+      "price": 10.7214
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VIAV",
+      "price": 10.32
+    },
+    {
+      "ticker": "RNET",
+      "price": 10.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BSTI",
+      "price": 10.22
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MNI",
+      "price": 10.17
+    },
+    {
+      "ticker": "VIAV",
+      "price": 10.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIAV",
+      "price": 10.27
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.26
+    }
+  ]
+}

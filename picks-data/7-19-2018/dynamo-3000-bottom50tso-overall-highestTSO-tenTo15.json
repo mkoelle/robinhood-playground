@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XNET",
+      "price": 11.8
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RDHL",
+      "price": 10.6603
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BSTI",
+      "price": 10.23
+    },
+    {
+      "ticker": "GEOS",
+      "price": 14.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SBLK",
+      "price": 12.86
+    },
+    {
+      "ticker": "MDRX",
+      "price": 11.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BSTI",
+      "price": 10.22
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRK",
+      "price": 11.34
+    },
+    {
+      "ticker": "MTR",
+      "price": 14.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VALE",
+      "price": 12.88
+    },
+    {
+      "ticker": "REDU",
+      "price": 12.78
+    }
+  ]
+}

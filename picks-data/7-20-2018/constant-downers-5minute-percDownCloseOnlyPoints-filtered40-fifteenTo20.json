@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "JP",
+      "price": 17.19
+    },
+    {
+      "ticker": "ACU",
+      "price": 19.7601
+    },
+    {
+      "ticker": "MIXT",
+      "price": 17.625
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PCOM",
+      "price": 16.175
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.5
+    },
+    {
+      "ticker": "TMF",
+      "price": 19.04
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PCOM",
+      "price": 16.21
+    },
+    {
+      "ticker": "TMF",
+      "price": 18.97
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.3
+    }
+  ]
+}

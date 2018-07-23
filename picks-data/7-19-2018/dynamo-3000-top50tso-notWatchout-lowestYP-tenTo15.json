@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JNUG",
+      "price": 12.68
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JKS",
+      "price": 13.7298
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.04
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCUS",
+      "price": 11.89
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 10.64
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.8965
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 10.6
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.754
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 10.67
+    },
+    {
+      "ticker": "RCUS",
+      "price": 12.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 10.66
+    },
+    {
+      "ticker": "RCUS",
+      "price": 12.09
+    }
+  ]
+}

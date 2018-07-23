@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EEP",
+      "price": 11.39
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EEP",
+      "price": 11.37
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EEP",
+      "price": 11.3
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EEP",
+      "price": 11.255
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.64
+    }
+  ]
+}

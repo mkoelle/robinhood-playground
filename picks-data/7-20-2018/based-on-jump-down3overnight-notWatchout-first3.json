@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SAUC",
+      "price": 0.97
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    },
+    {
+      "ticker": "IMI",
+      "price": 1.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAUC",
+      "price": 0.9799
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    },
+    {
+      "ticker": "TRT",
+      "price": 4.851
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 0.98
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.6201
+    },
+    {
+      "ticker": "OESX",
+      "price": 1.02
+    }
+  ]
+}

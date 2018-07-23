@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LEJU",
+      "price": 1.86
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABAC",
+      "price": 2.2246
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.1054
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABAC",
+      "price": 2.25
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "STAF",
+      "price": 3.0601
+    },
+    {
+      "ticker": "ABAC",
+      "price": 2.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABAC",
+      "price": 2.225
+    },
+    {
+      "ticker": "STAF",
+      "price": 3.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "STAF",
+      "price": 2.915
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.4082
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STAF",
+      "price": 2.92
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.407
+    }
+  ]
+}

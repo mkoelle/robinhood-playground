@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OPNT",
+      "price": 15.5
+    },
+    {
+      "ticker": "FPRX",
+      "price": 17.1095
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NYRT",
+      "price": 18
+    },
+    {
+      "ticker": "CIFS",
+      "price": 15.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NYRT",
+      "price": 18.01
+    },
+    {
+      "ticker": "VERI",
+      "price": 17.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NYRT",
+      "price": 18.1
+    },
+    {
+      "ticker": "VERI",
+      "price": 16.9375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYRT",
+      "price": 18.12
+    },
+    {
+      "ticker": "VERI",
+      "price": 16.86
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYRT",
+      "price": 18.13
+    },
+    {
+      "ticker": "VERI",
+      "price": 16.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYRT",
+      "price": 18.12
+    },
+    {
+      "ticker": "VERI",
+      "price": 16.74
+    }
+  ]
+}

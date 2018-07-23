@@ -1,0 +1,74 @@
+{
+  "10": [
+    {
+      "ticker": "OASM",
+      "price": 1.6
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.06
+    },
+    {
+      "ticker": "TST",
+      "price": 2.39
+    }
+  ],
+  "50": [
+    {
+      "ticker": "OASM",
+      "price": 1.67
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.04
+    },
+    {
+      "ticker": "TST",
+      "price": 2.361
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALIM",
+      "price": 1.07
+    },
+    {
+      "ticker": "TST",
+      "price": 2.35
+    }
+  ],
+  "300": [
+    {
+      "ticker": "ALIM",
+      "price": 1.085
+    },
+    {
+      "ticker": "TST",
+      "price": 2.35
+    }
+  ],
+  "380": [
+    {
+      "ticker": "INPX",
+      "price": 0.163
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.1
+    }
+  ],
+  "600": [
+    {
+      "ticker": "INPX",
+      "price": 0.164
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.09
+    },
+    {
+      "ticker": "TST",
+      "price": 2.35
+    }
+  ]
+}

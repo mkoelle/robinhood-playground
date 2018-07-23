@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBIO",
+      "price": 10.9
+    },
+    {
+      "ticker": "NES",
+      "price": 11.065
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 10.55
+    },
+    {
+      "ticker": "CBIO",
+      "price": 11.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPNT",
+      "price": 14.65
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRTK",
+      "price": 10.505
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CIFS",
+      "price": 14.8895
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.595
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CIFS",
+      "price": 14.86
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.375
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIFS",
+      "price": 14.86
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.56
+    }
+  ]
+}

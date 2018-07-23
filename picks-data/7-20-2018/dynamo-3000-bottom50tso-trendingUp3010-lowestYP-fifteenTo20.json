@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 16.31
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VECO",
+      "price": 15.45
+    },
+    {
+      "ticker": "DM",
+      "price": 16.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TSU",
+      "price": 17.24
+    },
+    {
+      "ticker": "SD",
+      "price": 17.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACAD",
+      "price": 16.845
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACAD",
+      "price": 16.66
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.9186
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AZUL",
+      "price": 19.04
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AZUL",
+      "price": 19.1
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.79
+    }
+  ]
+}

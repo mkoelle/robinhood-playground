@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "TMV",
+      "price": 19.05
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.74
+    },
+    {
+      "ticker": "EVER",
+      "price": 17.83
+    },
+    {
+      "ticker": "ENBL",
+      "price": 19.09
+    },
+    {
+      "ticker": "INFY",
+      "price": 20.04
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TMV",
+      "price": 19.12
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.9
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "EVER",
+      "price": 17.56
+    },
+    {
+      "ticker": "FLN",
+      "price": 19.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "USX",
+      "price": 15.08
+    },
+    {
+      "ticker": "TMV",
+      "price": 19.08
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.45
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "EVER",
+      "price": 17.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "USX",
+      "price": 15.08
+    },
+    {
+      "ticker": "TMV",
+      "price": 19.15
+    },
+    {
+      "ticker": "VRCA",
+      "price": 18.45
+    },
+    {
+      "ticker": "BHV",
+      "price": 17.04
+    },
+    {
+      "ticker": "DLBS",
+      "price": 19.391
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BB",
+      "price": 10.56
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BB",
+      "price": 10.4934
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BB",
+      "price": 10.465
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BB",
+      "price": 10.496
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    }
+  ]
+}

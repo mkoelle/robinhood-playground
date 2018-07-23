@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ECOR",
+      "price": 15.52
+    },
+    {
+      "ticker": "VIVO",
+      "price": 15.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NUAN",
+      "price": 15.31
+    },
+    {
+      "ticker": "FNWB",
+      "price": 15.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FNWB",
+      "price": 15.39
+    },
+    {
+      "ticker": "BZH",
+      "price": 15.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNK",
+      "price": 15.13
+    },
+    {
+      "ticker": "BZH",
+      "price": 15.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNK",
+      "price": 15.2
+    },
+    {
+      "ticker": "BZH",
+      "price": 15.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GNK",
+      "price": 15.06
+    },
+    {
+      "ticker": "BZH",
+      "price": 15.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNK",
+      "price": 15.03
+    },
+    {
+      "ticker": "BZH",
+      "price": 15.165
+    }
+  ]
+}

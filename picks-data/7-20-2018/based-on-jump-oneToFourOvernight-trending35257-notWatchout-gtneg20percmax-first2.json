@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 2.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 2.32
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UUUU",
+      "price": 2.337
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.655
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UUUU",
+      "price": 2.307
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.655
+    }
+  ]
+}

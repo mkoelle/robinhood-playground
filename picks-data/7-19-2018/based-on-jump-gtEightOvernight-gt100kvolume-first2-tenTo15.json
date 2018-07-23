@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ACIU",
+      "price": 13.5
+    },
+    {
+      "ticker": "DWCH",
+      "price": 13.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACIU",
+      "price": 13.42
+    },
+    {
+      "ticker": "DWCH",
+      "price": 13.025
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACIU",
+      "price": 13.205
+    },
+    {
+      "ticker": "DWCH",
+      "price": 13.5511
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACIU",
+      "price": 13.1
+    },
+    {
+      "ticker": "DWCH",
+      "price": 13.2
+    }
+  ]
+}

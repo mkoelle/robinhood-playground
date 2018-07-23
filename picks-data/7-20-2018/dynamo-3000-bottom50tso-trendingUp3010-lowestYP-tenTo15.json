@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SWCH",
+      "price": 13.44
+    },
+    {
+      "ticker": "FET",
+      "price": 12.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSH",
+      "price": 14.11
+    },
+    {
+      "ticker": "YRIV",
+      "price": 12.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSH",
+      "price": 13.8
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.7733
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 10.73
+    },
+    {
+      "ticker": "NSH",
+      "price": 13.775
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSH",
+      "price": 13.775
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.2325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSH",
+      "price": 13.725
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.3799
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSH",
+      "price": 13.725
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.07
+    }
+  ]
+}

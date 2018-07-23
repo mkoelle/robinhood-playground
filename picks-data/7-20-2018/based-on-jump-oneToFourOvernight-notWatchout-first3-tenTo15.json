@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BB",
+      "price": 10.56
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.49
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BB",
+      "price": 10.4934
+    },
+    {
+      "ticker": "SUPV",
+      "price": 11.45
+    },
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UBCP",
+      "price": 13.55
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.27
+    },
+    {
+      "ticker": "BB",
+      "price": 10.465
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UBCP",
+      "price": 13.55
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.251
+    },
+    {
+      "ticker": "BB",
+      "price": 10.496
+    }
+  ]
+}

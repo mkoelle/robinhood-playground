@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABCD",
+      "price": 12.2
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HTZ",
+      "price": 13.83
+    },
+    {
+      "ticker": "MRSN",
+      "price": 10.8333
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EROS",
+      "price": 13.36
+    },
+    {
+      "ticker": "DDR",
+      "price": 13.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DDR",
+      "price": 13.835
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 10.4
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDHL",
+      "price": 10.19
+    },
+    {
+      "ticker": "SYRS",
+      "price": 11.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYRS",
+      "price": 11.78
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.1038
+    }
+  ]
+}

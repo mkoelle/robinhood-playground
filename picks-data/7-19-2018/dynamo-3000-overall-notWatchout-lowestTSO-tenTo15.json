@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AOI",
+      "price": 14.25
+    },
+    {
+      "ticker": "SURF",
+      "price": 14.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MGTA",
+      "price": 13.711
+    },
+    {
+      "ticker": "AOI",
+      "price": 14.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWCH",
+      "price": 12.6
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DWCH",
+      "price": 12.5
+    },
+    {
+      "ticker": "HCLP",
+      "price": 11.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPFH",
+      "price": 14.93
+    },
+    {
+      "ticker": "DWCH",
+      "price": 12.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RECN",
+      "price": 14.2
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RECN",
+      "price": 14.2
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.8
+    }
+  ]
+}

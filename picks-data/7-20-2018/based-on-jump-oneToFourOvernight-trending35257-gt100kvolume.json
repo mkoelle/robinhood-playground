@@ -1,0 +1,45 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "GGB",
+      "price": 4.205
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GGB",
+      "price": 4.265
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.56
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GGB",
+      "price": 4.2665
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.5152
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.465
+    },
+    {
+      "ticker": "WFT",
+      "price": 3.44
+    }
+  ]
+}

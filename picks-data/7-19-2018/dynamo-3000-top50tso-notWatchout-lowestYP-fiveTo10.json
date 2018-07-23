@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FINZ",
+      "price": 7.5398
+    },
+    {
+      "ticker": "OR",
+      "price": 9.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPKE",
+      "price": 9.15
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFA",
+      "price": 5.761
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPKE",
+      "price": 9.45
+    },
+    {
+      "ticker": "GFA",
+      "price": 5.805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPKE",
+      "price": 9.375
+    },
+    {
+      "ticker": "GFA",
+      "price": 5.8431
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPIC",
+      "price": 7.0325
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPKE",
+      "price": 9.25
+    },
+    {
+      "ticker": "IPIC",
+      "price": 7.13
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3241
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.3413
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRX",
+      "price": 0.4303
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3869
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WWR",
+      "price": 0.3904
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.4412
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2311
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.443
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPHI",
+      "price": 0.234
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3932
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGEN",
+      "price": 2.12
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.238
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRML",
+      "price": 0.668
+    },
+    {
+      "ticker": "AGEN",
+      "price": 2.11
+    }
+  ]
+}

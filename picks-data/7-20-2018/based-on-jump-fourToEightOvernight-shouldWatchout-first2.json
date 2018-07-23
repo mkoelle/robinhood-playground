@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "STAF",
+      "price": 3.27
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1115
+    }
+  ],
+  "5": [
+    {
+      "ticker": "STAF",
+      "price": 3.3899
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.108
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.2314
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1011
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.13
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1034
+    }
+  ]
+}

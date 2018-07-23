@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TBIO",
+      "price": 14.24
+    },
+    {
+      "ticker": "GE",
+      "price": 13.2749
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IIJI",
+      "price": 10.2
+    },
+    {
+      "ticker": "LONE",
+      "price": 10.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LONE",
+      "price": 10.23
+    },
+    {
+      "ticker": "EVLO",
+      "price": 14.01
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVLO",
+      "price": 14.32
+    },
+    {
+      "ticker": "CRVS",
+      "price": 10.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAH",
+      "price": 12.02
+    },
+    {
+      "ticker": "RUN",
+      "price": 14.5999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PRCP",
+      "price": 10.11
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SURF",
+      "price": 12.96
+    },
+    {
+      "ticker": "PAH",
+      "price": 11.68
+    }
+  ]
+}

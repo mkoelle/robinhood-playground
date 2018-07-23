@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 11.7
+    },
+    {
+      "ticker": "VNET",
+      "price": 11.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XENE",
+      "price": 10.4
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XENE",
+      "price": 10.3
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 11.7441
+    },
+    {
+      "ticker": "VNET",
+      "price": 11.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XENE",
+      "price": 10.4
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.9399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 10.05
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 10.11
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.0001
+    }
+  ]
+}

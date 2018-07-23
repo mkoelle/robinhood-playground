@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "ENBL",
+      "price": 19.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.69
+    },
+    {
+      "ticker": "YEXT",
+      "price": 19.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.5701
+    },
+    {
+      "ticker": "YEXT",
+      "price": 19.16
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "ENBL",
+      "price": 18.73
+    },
+    {
+      "ticker": "YEXT",
+      "price": 19.3
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "10": [
+    {
+      "ticker": "PRPO",
+      "price": 0.408
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.56
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.5358
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.168
+    }
+  ],
+  "50": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4046
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.6228
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.171
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.5451
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4066
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1581
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    }
+  ],
+  "300": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4277
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.58
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1602
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.5454
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.06
+    }
+  ],
+  "380": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4201
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.5805
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1609
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.54
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.04
+    }
+  ],
+  "600": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4201
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.5805
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1609
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.54
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.04
+    }
+  ]
+}

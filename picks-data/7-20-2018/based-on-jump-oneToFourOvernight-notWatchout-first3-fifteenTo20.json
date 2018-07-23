@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "TEO",
+      "price": 20.47
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BRF",
+      "price": 19.61
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.33
+    },
+    {
+      "ticker": "TMV",
+      "price": 19.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.41
+    },
+    {
+      "ticker": "USX",
+      "price": 15.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BRF",
+      "price": 19.79
+    },
+    {
+      "ticker": "TSU",
+      "price": 17.29
+    },
+    {
+      "ticker": "USX",
+      "price": 15.08
+    }
+  ]
+}

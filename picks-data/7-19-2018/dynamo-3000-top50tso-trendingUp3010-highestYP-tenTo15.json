@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10.95
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.7754
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 11.005
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LONE",
+      "price": 11.01
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LONE",
+      "price": 10.9501
+    },
+    {
+      "ticker": "INS",
+      "price": 11.259
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LONE",
+      "price": 10.9338
+    },
+    {
+      "ticker": "INS",
+      "price": 11.2146
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.92
+    },
+    {
+      "ticker": "KIN",
+      "price": 12.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.92
+    },
+    {
+      "ticker": "KIN",
+      "price": 12.85
+    }
+  ]
+}

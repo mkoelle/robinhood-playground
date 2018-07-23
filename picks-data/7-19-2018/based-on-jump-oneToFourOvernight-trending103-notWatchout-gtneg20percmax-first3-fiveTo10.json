@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DSE",
+      "price": 5.9
+    },
+    {
+      "ticker": "GER",
+      "price": 6.55
+    },
+    {
+      "ticker": "GMZ",
+      "price": 9.4969
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DSE",
+      "price": 5.92
+    },
+    {
+      "ticker": "GER",
+      "price": 6.54
+    },
+    {
+      "ticker": "GMZ",
+      "price": 9.527
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DSE",
+      "price": 5.8699
+    },
+    {
+      "ticker": "GER",
+      "price": 6.54
+    },
+    {
+      "ticker": "GMZ",
+      "price": 9.4778
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSE",
+      "price": 5.8743
+    },
+    {
+      "ticker": "GER",
+      "price": 6.5
+    },
+    {
+      "ticker": "GMZ",
+      "price": 9.44
+    }
+  ]
+}

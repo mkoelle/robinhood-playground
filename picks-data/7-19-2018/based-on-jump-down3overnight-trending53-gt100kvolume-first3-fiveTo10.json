@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "ONDK",
+      "price": 7.645
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.185
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ONDK",
+      "price": 7.6345
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.185
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ONDK",
+      "price": 7.73
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MRSN",
+      "price": 10.1101
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.68
+    },
+    {
+      "ticker": "BSBR",
+      "price": 8.19
+    }
+  ]
+}

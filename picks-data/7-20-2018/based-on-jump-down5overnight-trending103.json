@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "SAUC",
+      "price": 0.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAUC",
+      "price": 0.9799
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 0.98
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.448
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1
+    },
+    {
+      "ticker": "NTN",
+      "price": 4.5886
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.1802
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.5153
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.58
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.43
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.3254
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.3825
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.27
+    }
+  ]
+}

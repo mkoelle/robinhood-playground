@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UUU",
+      "price": 1.38
+    },
+    {
+      "ticker": "MYO",
+      "price": 2.722
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UUU",
+      "price": 1.38
+    },
+    {
+      "ticker": "MYO",
+      "price": 2.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGY",
+      "price": 3.1089
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ISR",
+      "price": 0.5551
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERC",
+      "price": 4.65
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.375
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EYPT",
+      "price": 2.49
+    },
+    {
+      "ticker": "LEJU",
+      "price": 2.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERC",
+      "price": 4.62
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.48
+    }
+  ]
+}

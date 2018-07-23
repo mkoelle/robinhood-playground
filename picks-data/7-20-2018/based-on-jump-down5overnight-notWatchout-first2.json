@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SAUC",
+      "price": 0.97
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAUC",
+      "price": 0.9799
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 0.98
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1
+    },
+    {
+      "ticker": "MBOT",
+      "price": 0.6201
+    }
+  ]
+}

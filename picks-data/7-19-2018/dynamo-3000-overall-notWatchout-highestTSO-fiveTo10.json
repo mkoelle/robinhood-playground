@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ONDK",
+      "price": 7.64
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.495
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ONDK",
+      "price": 7.69
+    },
+    {
+      "ticker": "PES",
+      "price": 5.375
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ONDK",
+      "price": 7.71
+    },
+    {
+      "ticker": "SIGA",
+      "price": 7.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IPIC",
+      "price": 7.5052
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IPIC",
+      "price": 6.782
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IPIC",
+      "price": 7.0325
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IPIC",
+      "price": 7.13
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.69
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMLP",
+      "price": 10.75
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMLP",
+      "price": 10.74
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMLP",
+      "price": 10.715
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.7121
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMLP",
+      "price": 10.665
+    },
+    {
+      "ticker": "CTR",
+      "price": 11.69
+    }
+  ]
+}

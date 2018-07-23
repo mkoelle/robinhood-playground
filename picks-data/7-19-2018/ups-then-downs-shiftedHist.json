@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "MARA",
+      "price": 1.12
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.835
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AMRH",
+      "price": 1.5101
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.1273
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.859
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARA",
+      "price": 1.1068
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8496
+    }
+  ],
+  "300": [
+    {
+      "ticker": "MARA",
+      "price": 1.1308
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.8404
+    }
+  ],
+  "380": [
+    {
+      "ticker": "MARA",
+      "price": 1.14
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.84
+    }
+  ],
+  "600": [
+    {
+      "ticker": "MARA",
+      "price": 1.14
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.84
+    }
+  ]
+}

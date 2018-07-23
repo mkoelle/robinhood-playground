@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OVID",
+      "price": 9.541
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCLR",
+      "price": 8.71
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MCF",
+      "price": 6.2375
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCF",
+      "price": 6.1796
+    },
+    {
+      "ticker": "NVTA",
+      "price": 8.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MCF",
+      "price": 6.1801
+    },
+    {
+      "ticker": "CODA",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MCF",
+      "price": 6.0472
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLGN",
+      "price": 5.4
+    },
+    {
+      "ticker": "MCF",
+      "price": 6.16
+    }
+  ]
+}

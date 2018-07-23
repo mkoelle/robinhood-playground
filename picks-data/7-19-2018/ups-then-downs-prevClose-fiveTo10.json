@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "RFIL",
+      "price": 8.9
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.51
+    },
+    {
+      "ticker": "ONDK",
+      "price": 7.73
+    }
+  ],
+  "50": [
+    {
+      "ticker": "RFIL",
+      "price": 8.8
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFIL",
+      "price": 8.5
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.49
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.652
+    }
+  ],
+  "300": [
+    {
+      "ticker": "RFIL",
+      "price": 8.45
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.535
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.74
+    }
+  ],
+  "380": [
+    {
+      "ticker": "RFIL",
+      "price": 8.9
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.56
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.81
+    }
+  ],
+  "600": [
+    {
+      "ticker": "RFIL",
+      "price": 8.9
+    },
+    {
+      "ticker": "GOL",
+      "price": 6.56
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.81
+    }
+  ]
+}

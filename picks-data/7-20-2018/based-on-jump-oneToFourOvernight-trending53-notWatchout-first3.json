@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.77
+    },
+    {
+      "ticker": "GNMX",
+      "price": 0.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.77
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.1148
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.77
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNUS",
+      "price": 2.6062
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.5
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.73
+    }
+  ]
+}

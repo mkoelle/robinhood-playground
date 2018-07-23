@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OPNT",
+      "price": 15.5
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 15.09
+    },
+    {
+      "ticker": "YRD",
+      "price": 19.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VERI",
+      "price": 17.22
+    },
+    {
+      "ticker": "YRD",
+      "price": 19.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GASX",
+      "price": 16.9153
+    },
+    {
+      "ticker": "YRD",
+      "price": 20
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GASX",
+      "price": 16.77
+    },
+    {
+      "ticker": "CASA",
+      "price": 15.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MFGP",
+      "price": 16.71
+    },
+    {
+      "ticker": "RES",
+      "price": 15.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GASX",
+      "price": 16.8
+    },
+    {
+      "ticker": "YRD",
+      "price": 19.945
+    }
+  ]
+}

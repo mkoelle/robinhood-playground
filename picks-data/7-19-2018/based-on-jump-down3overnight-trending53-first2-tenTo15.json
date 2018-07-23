@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MRSN",
+      "price": 10.7
+    },
+    {
+      "ticker": "LX",
+      "price": 11.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MRSN",
+      "price": 10.48
+    },
+    {
+      "ticker": "LX",
+      "price": 11.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MRSN",
+      "price": 10.5
+    },
+    {
+      "ticker": "LX",
+      "price": 11.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TACT",
+      "price": 11.1997
+    },
+    {
+      "ticker": "LX",
+      "price": 11.26
+    }
+  ]
+}

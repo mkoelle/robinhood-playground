@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CMT",
+      "price": 13.3301
+    },
+    {
+      "ticker": "DRIV",
+      "price": 14.8404
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.4455
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CMT",
+      "price": 13.51
+    },
+    {
+      "ticker": "PLLL",
+      "price": 14.5
+    },
+    {
+      "ticker": "KEN",
+      "price": 14.9958
+    }
+  ],
+  "309": [
+    {
+      "ticker": "PLLL",
+      "price": 14.5
+    },
+    {
+      "ticker": "APB",
+      "price": 13.3382
+    },
+    {
+      "ticker": "KEN",
+      "price": 14.9958
+    }
+  ]
+}

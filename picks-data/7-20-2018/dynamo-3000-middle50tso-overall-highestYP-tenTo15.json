@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10.88
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XRM",
+      "price": 13.31
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABCD",
+      "price": 12.225
+    },
+    {
+      "ticker": "MITL",
+      "price": 11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XRM",
+      "price": 13.305
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XRM",
+      "price": 13.3
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.24
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XRM",
+      "price": 13.32
+    },
+    {
+      "ticker": "ADES",
+      "price": 11.34
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCII",
+      "price": 14.725
+    },
+    {
+      "ticker": "CHY",
+      "price": 12.97
+    }
+  ]
+}

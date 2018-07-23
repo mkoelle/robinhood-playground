@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 11.165
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XENE",
+      "price": 10.4
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.3254
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XENE",
+      "price": 10.3
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.2029
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 11.7441
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XENE",
+      "price": 10.4
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.9399
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RFL",
+      "price": 10.05
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RFL",
+      "price": 10.11
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.0001
+    }
+  ]
+}

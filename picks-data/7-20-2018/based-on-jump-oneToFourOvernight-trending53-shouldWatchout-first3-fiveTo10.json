@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SEED",
+      "price": 9.01
+    },
+    {
+      "ticker": "AKAO",
+      "price": 7.4564
+    },
+    {
+      "ticker": "TTS",
+      "price": 9.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SEED",
+      "price": 8.8
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.71
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.254
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SEED",
+      "price": 9.18
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.66
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.254
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SEED",
+      "price": 9.08
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.69
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.23
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4099
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4141
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4059
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.511
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PRPO",
+      "price": 0.405
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.558
+    }
+  ]
+}

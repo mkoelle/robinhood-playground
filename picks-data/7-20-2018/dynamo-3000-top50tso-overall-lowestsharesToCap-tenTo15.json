@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IOVA",
+      "price": 14.925
+    },
+    {
+      "ticker": "MPW",
+      "price": 14.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "LKSD",
+      "price": 14.859
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 14.92
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "LKSD",
+      "price": 14.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ITCB",
+      "price": 14.94
+    },
+    {
+      "ticker": "SCWX",
+      "price": 15.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITCB",
+      "price": 14.94
+    },
+    {
+      "ticker": "XON",
+      "price": 14.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SCWX",
+      "price": 15.11
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.925
+    }
+  ]
+}

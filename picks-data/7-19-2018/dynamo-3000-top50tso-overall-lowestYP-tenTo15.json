@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.97
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 15.04
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.9499
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRSN",
+      "price": 10.36
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.202
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PLSE",
+      "price": 14.09
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INAP",
+      "price": 10.6
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.754
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 13.81
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 10.66
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.26
+    }
+  ]
+}

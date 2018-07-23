@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.5
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.2801
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.15
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.28
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1699
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALJJ",
+      "price": 2.16
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.285
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.1467
+    }
+  ]
+}

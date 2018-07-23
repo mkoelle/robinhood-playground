@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IVAC",
+      "price": 5.05
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.51
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GEMP",
+      "price": 8.04
+    },
+    {
+      "ticker": "IVAC",
+      "price": 5.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IVAC",
+      "price": 5.05
+    },
+    {
+      "ticker": "GEMP",
+      "price": 8.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REPH",
+      "price": 5.7
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.6029
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPH",
+      "price": 5.71
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "REPH",
+      "price": 5.7201
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.8563
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REPH",
+      "price": 5.72
+    },
+    {
+      "ticker": "SEED",
+      "price": 8.855
+    }
+  ]
+}

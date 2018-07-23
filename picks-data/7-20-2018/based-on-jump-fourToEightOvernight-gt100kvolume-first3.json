@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1115
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HMNY",
+      "price": 0.108
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4116
+    }
+  ],
+  "16": [
+    {
+      "ticker": "STAF",
+      "price": 3.2314
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1011
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.0901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "STAF",
+      "price": 3.13
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1034
+    },
+    {
+      "ticker": "CIG",
+      "price": 2.095
+    }
+  ]
+}

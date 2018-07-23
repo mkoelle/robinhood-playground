@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "AMLP",
+      "price": 10.75
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.6078
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMLP",
+      "price": 10.74
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMLP",
+      "price": 10.715
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.24
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMLP",
+      "price": 10.665
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.24
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.62
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.285
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.22
+    },
+    {
+      "ticker": "RES",
+      "price": 14.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACH",
+      "price": 10.3
+    },
+    {
+      "ticker": "RES",
+      "price": 14.935
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.98
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEPU",
+      "price": 10.68
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CEPU",
+      "price": 10.89
+    },
+    {
+      "ticker": "DB",
+      "price": 12.055
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.245
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.1
+    }
+  ]
+}

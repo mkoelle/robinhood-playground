@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SMIT",
+      "price": 3.4751
+    },
+    {
+      "ticker": "GNMX",
+      "price": 0.9801
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SMIT",
+      "price": 3.39
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.0299
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SMIT",
+      "price": 3.3999
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.0005
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SMIT",
+      "price": 3.2401
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1
+    }
+  ]
+}

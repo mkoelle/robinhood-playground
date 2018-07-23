@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MPW",
+      "price": 14.31
+    },
+    {
+      "ticker": "RDNT",
+      "price": 14.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "SCWX",
+      "price": 14.9099
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "RES",
+      "price": 14.935
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "SCWX",
+      "price": 14.8925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ITCB",
+      "price": 14.94
+    },
+    {
+      "ticker": "SCWX",
+      "price": 15.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITCB",
+      "price": 14.94
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SCWX",
+      "price": 15.11
+    },
+    {
+      "ticker": "AZRE",
+      "price": 14.5
+    }
+  ]
+}

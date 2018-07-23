@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FTD",
+      "price": 3.68
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3.11
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.1903
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FTD",
+      "price": 3.67
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.1998
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FTD",
+      "price": 3.7675
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.2008
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FTD",
+      "price": 3.97
+    },
+    {
+      "ticker": "DLPN",
+      "price": 3
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.21
+    }
+  ]
+}

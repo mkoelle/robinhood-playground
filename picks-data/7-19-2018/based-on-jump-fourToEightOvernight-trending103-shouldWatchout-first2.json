@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.4295
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.4202
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.851
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.75
+    }
+  ]
+}

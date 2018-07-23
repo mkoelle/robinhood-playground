@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HTLD",
+      "price": 20.04
+    },
+    {
+      "ticker": "EEX",
+      "price": 19.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RIV",
+      "price": 19.52
+    },
+    {
+      "ticker": "NGE",
+      "price": 19.8417
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIV",
+      "price": 19.52
+    },
+    {
+      "ticker": "NGE",
+      "price": 19.8326
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIV",
+      "price": 19.11
+    },
+    {
+      "ticker": "ACU",
+      "price": 19.5501
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIV",
+      "price": 19.2999
+    },
+    {
+      "ticker": "ACU",
+      "price": 19.5501
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIV",
+      "price": 19.365
+    },
+    {
+      "ticker": "SGC",
+      "price": 19.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RIV",
+      "price": 19.3
+    },
+    {
+      "ticker": "SGC",
+      "price": 19.81
+    }
+  ]
+}

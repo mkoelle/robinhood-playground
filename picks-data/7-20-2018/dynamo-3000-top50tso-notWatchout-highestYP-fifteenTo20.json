@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FNKO",
+      "price": 17.4448
+    },
+    {
+      "ticker": "CROX",
+      "price": 18.02
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 17.359
+    },
+    {
+      "ticker": "CDXS",
+      "price": 16.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 17.44
+    },
+    {
+      "ticker": "CDXS",
+      "price": 16.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECYT",
+      "price": 17.5
+    },
+    {
+      "ticker": "CDXS",
+      "price": 16.125
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDXS",
+      "price": 16
+    },
+    {
+      "ticker": "KRYS",
+      "price": 18.3525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECYT",
+      "price": 17.4
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.725
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDXS",
+      "price": 15.85
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.775
+    }
+  ]
+}

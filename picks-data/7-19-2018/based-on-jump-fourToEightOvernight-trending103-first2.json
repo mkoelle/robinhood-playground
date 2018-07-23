@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "URG",
+      "price": 0.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.4295
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7099
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.4202
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7153
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.42
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7058
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATTU",
+      "price": 12.59
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.5153
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATTU",
+      "price": 12.5
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATTU",
+      "price": 12.53
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.3825
+    }
+  ]
+}

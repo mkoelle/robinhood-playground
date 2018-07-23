@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AZUL",
+      "price": 19.73
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.45
+    },
+    {
+      "ticker": "RWT",
+      "price": 17.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AZUL",
+      "price": 19.71
+    },
+    {
+      "ticker": "OFG",
+      "price": 15
+    },
+    {
+      "ticker": "RWT",
+      "price": 17.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AZUL",
+      "price": 19.6
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.35
+    },
+    {
+      "ticker": "RWT",
+      "price": 17.295
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AZUL",
+      "price": 19.6186
+    },
+    {
+      "ticker": "OFG",
+      "price": 15.85
+    },
+    {
+      "ticker": "RWT",
+      "price": 17.205
+    }
+  ]
+}

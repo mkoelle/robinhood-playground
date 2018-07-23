@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BCOM",
+      "price": 8.15
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCOM",
+      "price": 8.15
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.985
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCOM",
+      "price": 8.15
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.02
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCOM",
+      "price": 8.15
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.0094
+    }
+  ]
+}

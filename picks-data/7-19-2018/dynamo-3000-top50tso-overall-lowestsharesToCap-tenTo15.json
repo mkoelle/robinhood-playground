@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MRSN",
+      "price": 10.37
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTA",
+      "price": 15.04
+    },
+    {
+      "ticker": "GME",
+      "price": 14.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRSN",
+      "price": 10.36
+    },
+    {
+      "ticker": "GME",
+      "price": 14.964
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MRSN",
+      "price": 11.649
+    },
+    {
+      "ticker": "XON",
+      "price": 14.8
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRSN",
+      "price": 11.3147
+    },
+    {
+      "ticker": "GME",
+      "price": 14.89
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRSN",
+      "price": 11.26
+    },
+    {
+      "ticker": "FRBA",
+      "price": 14.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRSN",
+      "price": 11.26
+    },
+    {
+      "ticker": "GME",
+      "price": 14.92
+    }
+  ]
+}
