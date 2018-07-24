@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 10.0575
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LDF",
+      "price": 10.4637
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LDF",
+      "price": 10.46
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LDF",
+      "price": 10.45
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LDF",
+      "price": 10.45
+    },
+    {
+      "ticker": "MNI",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LDF",
+      "price": 10.44
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.415
+    }
+  ]
+}

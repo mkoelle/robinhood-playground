@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GNK",
+      "price": 15.08
+    },
+    {
+      "ticker": "VNM",
+      "price": 15.775
+    },
+    {
+      "ticker": "PARR",
+      "price": 16.99
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MIXT",
+      "price": 17.285
+    },
+    {
+      "ticker": "USAT",
+      "price": 15.075
+    },
+    {
+      "ticker": "CYRX",
+      "price": 15.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MIXT",
+      "price": 17
+    },
+    {
+      "ticker": "CYRX",
+      "price": 15.67
+    },
+    {
+      "ticker": "GFF",
+      "price": 18.25
+    }
+  ]
+}

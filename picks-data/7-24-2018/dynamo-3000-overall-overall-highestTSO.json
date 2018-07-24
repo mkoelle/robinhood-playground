@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CUR",
+      "price": 1.3199
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.189
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 4.79
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLIN",
+      "price": 1.9756
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.4321
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AWX",
+      "price": 2.71
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AWX",
+      "price": 2.85
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.2775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AWX",
+      "price": 3.05
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.019
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AWX",
+      "price": 3.17
+    },
+    {
+      "ticker": "UAVS",
+      "price": 2.09
+    }
+  ]
+}

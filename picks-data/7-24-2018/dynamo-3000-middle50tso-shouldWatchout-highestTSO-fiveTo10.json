@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XPLR",
+      "price": 5.98
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NCMI",
+      "price": 8.325
+    },
+    {
+      "ticker": "XELA",
+      "price": 4.9918
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATOM",
+      "price": 5.78
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.1489
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CECE",
+      "price": 6.72
+    },
+    {
+      "ticker": "RNGR",
+      "price": 9.585
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGC",
+      "price": 8.95
+    },
+    {
+      "ticker": "IRIX",
+      "price": 7.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INFN",
+      "price": 9.06
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.515
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPR",
+      "price": 9.695
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.51
+    }
+  ]
+}

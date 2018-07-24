@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GST",
+      "price": 0.156
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.284
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GST",
+      "price": 0.1562
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GST",
+      "price": 0.1523
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GST",
+      "price": 0.1501
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.2675
+    }
+  ]
+}

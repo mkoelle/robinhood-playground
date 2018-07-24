@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ORN",
+      "price": 9.0673
+    },
+    {
+      "ticker": "WTI",
+      "price": 9.0587
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ULBI",
+      "price": 9.95
+    },
+    {
+      "ticker": "VRAY",
+      "price": 9.875
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 9.96
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TTS",
+      "price": 9
+    },
+    {
+      "ticker": "FBP",
+      "price": 8.345
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFIL",
+      "price": 9.275
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBP",
+      "price": 8.34
+    },
+    {
+      "ticker": "BPI",
+      "price": 7.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TTS",
+      "price": 8.875
+    },
+    {
+      "ticker": "FRAN",
+      "price": 8
+    }
+  ]
+}

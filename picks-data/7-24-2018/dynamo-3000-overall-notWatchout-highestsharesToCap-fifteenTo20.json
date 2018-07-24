@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 15.35
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CGO",
+      "price": 15.011
+    },
+    {
+      "ticker": "RUN",
+      "price": 15.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGAN",
+      "price": 15.3
+    },
+    {
+      "ticker": "UCI",
+      "price": 15.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CGO",
+      "price": 15.11
+    },
+    {
+      "ticker": "UCI",
+      "price": 15.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CGO",
+      "price": 15
+    },
+    {
+      "ticker": "UCI",
+      "price": 15.0499
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UCI",
+      "price": 15.0244
+    },
+    {
+      "ticker": "UCIB",
+      "price": 15.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UCI",
+      "price": 15.0244
+    },
+    {
+      "ticker": "UCIB",
+      "price": 15.12
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GLMD",
+      "price": 15.39
+    },
+    {
+      "ticker": "GMLP",
+      "price": 15.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLMD",
+      "price": 15.41
+    },
+    {
+      "ticker": "GMLP",
+      "price": 15.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.3218
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.4401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.3354
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.312
+    }
+  ]
+}

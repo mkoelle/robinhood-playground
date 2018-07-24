@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VIPS",
+      "price": 10.02
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 10.4
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.075
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 10.8
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.0625
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 10.4759
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 10.5
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAX",
+      "price": 10.5
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAX",
+      "price": 10.5
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.025
+    }
+  ]
+}

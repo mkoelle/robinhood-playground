@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPK",
+      "price": 14
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NEO",
+      "price": 14.16
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.025
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NEO",
+      "price": 14.2115
+    },
+    {
+      "ticker": "GPK",
+      "price": 14.0025
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NEO",
+      "price": 14.2
+    },
+    {
+      "ticker": "GPK",
+      "price": 14
+    }
+  ]
+}

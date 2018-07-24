@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.39
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3218
+    },
+    {
+      "ticker": "SID",
+      "price": 2.297
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.9716
+    }
+  ],
+  "16": [
+    {
+      "ticker": "THM",
+      "price": 0.5381
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.31
+    },
+    {
+      "ticker": "SID",
+      "price": 2.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "THM",
+      "price": 0.52
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.31
+    },
+    {
+      "ticker": "SID",
+      "price": 2.31
+    }
+  ]
+}

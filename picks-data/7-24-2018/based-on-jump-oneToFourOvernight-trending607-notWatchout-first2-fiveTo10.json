@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBVA",
+      "price": 7.1985
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBVA",
+      "price": 7.185
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.095
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBVA",
+      "price": 7.195
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.115
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.16
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.18
+    }
+  ]
+}

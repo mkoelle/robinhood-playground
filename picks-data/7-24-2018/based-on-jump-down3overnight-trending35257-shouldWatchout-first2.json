@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CUR",
+      "price": 1.284
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.5958
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CUR",
+      "price": 1.27
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.6767
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CUR",
+      "price": 1.27
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CUR",
+      "price": 1.2675
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.76
+    }
+  ]
+}

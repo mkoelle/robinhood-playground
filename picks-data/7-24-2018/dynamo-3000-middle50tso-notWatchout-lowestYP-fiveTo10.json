@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USLV",
+      "price": 8.1242
+    },
+    {
+      "ticker": "FAZ",
+      "price": 9.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SHNY",
+      "price": 6.7345
+    },
+    {
+      "ticker": "ELP",
+      "price": 5.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TSQ",
+      "price": 6.4
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.215
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 9.1
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.7315
+    }
+  ],
+  "260": [
+    {
+      "ticker": "USLV",
+      "price": 8
+    },
+    {
+      "ticker": "CEL",
+      "price": 5.7315
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLNY",
+      "price": 5.97
+    },
+    {
+      "ticker": "DLNG",
+      "price": 7.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLNY",
+      "price": 5.97
+    },
+    {
+      "ticker": "DLNG",
+      "price": 7.8208
+    }
+  ]
+}

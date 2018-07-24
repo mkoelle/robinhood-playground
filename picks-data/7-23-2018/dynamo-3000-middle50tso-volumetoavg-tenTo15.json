@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BEL",
+      "price": 11.3
+    },
+    {
+      "ticker": "DNP",
+      "price": 10.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FORM",
+      "price": 13.875
+    },
+    {
+      "ticker": "KSM",
+      "price": 10.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFI",
+      "price": 12.54
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BHAC",
+      "price": 10.74
+    },
+    {
+      "ticker": "WSR",
+      "price": 12.7127
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WIA",
+      "price": 11.31
+    },
+    {
+      "ticker": "VTA",
+      "price": 11.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDEM",
+      "price": 14.1805
+    },
+    {
+      "ticker": "MYJ",
+      "price": 13.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRIV",
+      "price": 14.7534
+    },
+    {
+      "ticker": "NTC",
+      "price": 11.7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACH",
+      "price": 11.25
+    },
+    {
+      "ticker": "DFRG",
+      "price": 11.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNLI",
+      "price": 13.58
+    },
+    {
+      "ticker": "VNTR",
+      "price": 14.83
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.04
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.7798
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTSI",
+      "price": 11.42
+    },
+    {
+      "ticker": "DNLI",
+      "price": 13.1357
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTSI",
+      "price": 11.385
+    },
+    {
+      "ticker": "DNLI",
+      "price": 13.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTSI",
+      "price": 11.615
+    },
+    {
+      "ticker": "VNTR",
+      "price": 14.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTSI",
+      "price": 11.62
+    },
+    {
+      "ticker": "DNLI",
+      "price": 13.5
+    }
+  ]
+}

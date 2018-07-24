@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NCMI",
+      "price": 8.42
+    },
+    {
+      "ticker": "ETM",
+      "price": 8.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSM",
+      "price": 8.18
+    },
+    {
+      "ticker": "ATOM",
+      "price": 5.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CVON",
+      "price": 9.41
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IRIX",
+      "price": 7.39
+    },
+    {
+      "ticker": "HCHC",
+      "price": 6.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSUM",
+      "price": 6.5
+    },
+    {
+      "ticker": "NEOS",
+      "price": 6.0671
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HX",
+      "price": 8.95
+    },
+    {
+      "ticker": "HZN",
+      "price": 5.47
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MHLD",
+      "price": 8.3
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.045
+    }
+  ]
+}

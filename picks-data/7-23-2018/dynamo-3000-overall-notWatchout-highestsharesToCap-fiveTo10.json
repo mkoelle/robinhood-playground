@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ANH",
+      "price": 5.0028
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NMR",
+      "price": 5.02
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.035
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NMR",
+      "price": 5.015
+    },
+    {
+      "ticker": "GGN",
+      "price": 5.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NMR",
+      "price": 5.0115
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XSPL",
+      "price": 6.7
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XSPL",
+      "price": 6.5468
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.015
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XSPL",
+      "price": 6.4
+    },
+    {
+      "ticker": "NMR",
+      "price": 5.015
+    }
+  ]
+}

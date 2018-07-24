@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LAND",
+      "price": 11.5219
+    },
+    {
+      "ticker": "THW",
+      "price": 13.2917
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TWI",
+      "price": 10.2
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.2774
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KTOS",
+      "price": 12.78
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.7798
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMTA",
+      "price": 10.49
+    },
+    {
+      "ticker": "XNET",
+      "price": 11.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.01
+    },
+    {
+      "ticker": "MTLS",
+      "price": 12.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JAX",
+      "price": 11.05
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBIO",
+      "price": 10.23
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.265
+    }
+  ]
+}

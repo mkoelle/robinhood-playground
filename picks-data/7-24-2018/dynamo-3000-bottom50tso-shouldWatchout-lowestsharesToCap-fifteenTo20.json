@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RUSS",
+      "price": 18.07
+    },
+    {
+      "ticker": "CYBE",
+      "price": 19.1269
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UA",
+      "price": 19.55
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UA",
+      "price": 19.285
+    },
+    {
+      "ticker": "VYGR",
+      "price": 19.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 19.149
+    },
+    {
+      "ticker": "SSYS",
+      "price": 19.635
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 19.23
+    },
+    {
+      "ticker": "SSYS",
+      "price": 19.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 19.57
+    },
+    {
+      "ticker": "FIXX",
+      "price": 19.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSYS",
+      "price": 19.48
+    },
+    {
+      "ticker": "FIXX",
+      "price": 19.97
+    }
+  ]
+}

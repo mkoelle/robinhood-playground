@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 9.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXTI",
+      "price": 8.525
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.085
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.955
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MUFG",
+      "price": 6.175
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.475
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    }
+  ]
+}

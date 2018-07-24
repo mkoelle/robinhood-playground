@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SGMA",
+      "price": 6.44
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGMA",
+      "price": 6.78
+    },
+    {
+      "ticker": "BBGI",
+      "price": 9.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGMA",
+      "price": 6.78
+    },
+    {
+      "ticker": "BBGI",
+      "price": 9.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGMA",
+      "price": 6.895
+    },
+    {
+      "ticker": "BBGI",
+      "price": 9.15
+    }
+  ]
+}

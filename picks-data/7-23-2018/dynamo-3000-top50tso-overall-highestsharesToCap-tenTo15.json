@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ELVT",
+      "price": 10.215
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VIPS",
+      "price": 10.16
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LFVN",
+      "price": 10.03
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRAY",
+      "price": 10.01
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.053
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LFVN",
+      "price": 10.25
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.2216
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFVN",
+      "price": 10.25
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.9684
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 10.18
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.915
+    }
+  ]
+}

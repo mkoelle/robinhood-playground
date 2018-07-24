@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GST",
+      "price": 0.14
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.589
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.505
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GST",
+      "price": 0.1305
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.3424
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.6101
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GST",
+      "price": 0.1268
+    },
+    {
+      "ticker": "TIK",
+      "price": 2.349
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.6589
+    }
+  ]
+}

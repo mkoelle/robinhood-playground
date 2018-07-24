@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "JAX",
+      "price": 11.15
+    },
+    {
+      "ticker": "AIRG",
+      "price": 10.59
+    },
+    {
+      "ticker": "PBD",
+      "price": 12
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OVID",
+      "price": 10.242
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "AFI",
+      "price": 13.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RLH",
+      "price": 11.75
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.34
+    }
+  ]
+}

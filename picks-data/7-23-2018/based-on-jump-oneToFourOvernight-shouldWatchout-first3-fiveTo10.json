@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AXTI",
+      "price": 9.15
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.74
+    },
+    {
+      "ticker": "LIVX",
+      "price": 5.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXTI",
+      "price": 8.8
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.74
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXTI",
+      "price": 8.525
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.74
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXTI",
+      "price": 8.475
+    },
+    {
+      "ticker": "NVUS",
+      "price": 6.74
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.4
+    }
+  ]
+}

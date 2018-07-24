@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "REPL",
+      "price": 14.75
+    },
+    {
+      "ticker": "SIVR",
+      "price": 15.0162
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OSBC",
+      "price": 15.075
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "USX",
+      "price": 15.015
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "USX",
+      "price": 15.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 15.075
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 15.15
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MSON",
+      "price": 15.0742
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ]
+}

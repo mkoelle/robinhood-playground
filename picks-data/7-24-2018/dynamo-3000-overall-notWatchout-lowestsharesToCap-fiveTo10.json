@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 9.9
+    },
+    {
+      "ticker": "FAZ",
+      "price": 9.81
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MLPY",
+      "price": 6.6358
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.8847
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FAZ",
+      "price": 9.76
+    },
+    {
+      "ticker": "RCS",
+      "price": 9.7516
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.6294
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.896
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.6294
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.9548
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.53
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.7911
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.53
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.75
+    }
+  ]
+}

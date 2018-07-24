@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SPKE",
+      "price": 9.05
+    },
+    {
+      "ticker": "TRIL",
+      "price": 5.4863
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRIP",
+      "price": 5.853
+    },
+    {
+      "ticker": "SPKE",
+      "price": 9.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 5.89
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLNT",
+      "price": 5.525
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLNT",
+      "price": 5.5
+    },
+    {
+      "ticker": "INAP",
+      "price": 9.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INAP",
+      "price": 9.7911
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.458
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INAP",
+      "price": 9.75
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.44
+    }
+  ]
+}

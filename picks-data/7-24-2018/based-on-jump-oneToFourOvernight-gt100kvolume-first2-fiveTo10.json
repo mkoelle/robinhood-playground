@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INFN",
+      "price": 9.43
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INFN",
+      "price": 9.8401
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRYS",
+      "price": 5.13
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.685
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRYS",
+      "price": 5.14
+    },
+    {
+      "ticker": "INFN",
+      "price": 9.25
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IDSY",
+      "price": 7
+    },
+    {
+      "ticker": "AWSM",
+      "price": 5.2147
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "KFFB",
+      "price": 8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 5.2
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 5.1952
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 5.15
+    },
+    {
+      "ticker": "RIOT",
+      "price": 8.32
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 5.2805
+    },
+    {
+      "ticker": "RIOT",
+      "price": 8.1801
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 5.22
+    },
+    {
+      "ticker": "RIOT",
+      "price": 8.45
+    }
+  ]
+}

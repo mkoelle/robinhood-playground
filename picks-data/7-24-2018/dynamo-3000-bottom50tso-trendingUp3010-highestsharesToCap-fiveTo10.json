@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SORL",
+      "price": 4.899
+    },
+    {
+      "ticker": "VHI",
+      "price": 5.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SRAX",
+      "price": 5.3933
+    },
+    {
+      "ticker": "TRT",
+      "price": 5.151
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDMO",
+      "price": 5.605
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRXC",
+      "price": 5.1585
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRXC",
+      "price": 5.0799
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.155
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRXC",
+      "price": 5.105
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.165
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ITI",
+      "price": 5.12
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.059
+    }
+  ]
+}

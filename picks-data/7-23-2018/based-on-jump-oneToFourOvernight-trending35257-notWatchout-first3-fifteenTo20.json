@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CCT",
+      "price": 16.95
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.45
+    },
+    {
+      "ticker": "OFG",
+      "price": 16.075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCT",
+      "price": 16.94
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.575
+    },
+    {
+      "ticker": "OFG",
+      "price": 16.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCT",
+      "price": 16.8834
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.728
+    },
+    {
+      "ticker": "OFG",
+      "price": 16.175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCT",
+      "price": 16.8632
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.725
+    },
+    {
+      "ticker": "OFG",
+      "price": 16.181
+    }
+  ]
+}

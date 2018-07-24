@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPG",
+      "price": 8.12
+    },
+    {
+      "ticker": "CHW",
+      "price": 9.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADT",
+      "price": 9.465
+    },
+    {
+      "ticker": "AHT",
+      "price": 8.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VHI",
+      "price": 5.29
+    },
+    {
+      "ticker": "BRAC",
+      "price": 9.823
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MCN",
+      "price": 7.6641
+    },
+    {
+      "ticker": "IRIX",
+      "price": 7.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AOD",
+      "price": 8.8201
+    },
+    {
+      "ticker": "VOC",
+      "price": 6.325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GOL",
+      "price": 7.36
+    },
+    {
+      "ticker": "CEN",
+      "price": 9.32
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MHLD",
+      "price": 8.3
+    },
+    {
+      "ticker": "NCV",
+      "price": 7.05
+    }
+  ]
+}

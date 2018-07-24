@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VVUS",
+      "price": 0.7302
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.5515
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPMX",
+      "price": 0.23
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EYEG",
+      "price": 0.589
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDR",
+      "price": 1.9137
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.9742
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ENG",
+      "price": 1.31
+    },
+    {
+      "ticker": "CLIR",
+      "price": 1.9857
+    }
+  ],
+  "351": [
+    {
+      "ticker": "URG",
+      "price": 0.7326
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DGSE",
+      "price": 0.75
+    },
+    {
+      "ticker": "KGJI",
+      "price": 1.25
+    }
+  ]
+}

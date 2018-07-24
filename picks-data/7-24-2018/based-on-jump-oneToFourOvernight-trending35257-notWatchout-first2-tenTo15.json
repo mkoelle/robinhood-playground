@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 13.2498
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KIN",
+      "price": 13.1
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.574
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.574
+    }
+  ]
+}

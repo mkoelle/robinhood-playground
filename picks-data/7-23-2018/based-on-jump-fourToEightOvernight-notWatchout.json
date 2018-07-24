@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "VRML",
+      "price": 0.6847
+    },
+    {
+      "ticker": "PME",
+      "price": 2.69
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.48
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.8898
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VRML",
+      "price": 0.6885
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.32
+    },
+    {
+      "ticker": "PME",
+      "price": 2.69
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.48
+    },
+    {
+      "ticker": "SCON",
+      "price": 0.8989
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLM",
+      "price": 0.9
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.6885
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.32
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.16
+    },
+    {
+      "ticker": "PME",
+      "price": 2.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLM",
+      "price": 0.8784
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.68
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.303
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.16
+    },
+    {
+      "ticker": "PME",
+      "price": 2.56
+    }
+  ]
+}

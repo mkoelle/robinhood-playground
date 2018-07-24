@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 1.01
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.167
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TOPS",
+      "price": 1.0588
+    },
+    {
+      "ticker": "INPX",
+      "price": 0.1645
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOPS",
+      "price": 1.02
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.4321
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1022
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0248
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOPS",
+      "price": 1.0166
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TOPS",
+      "price": 1.021
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.201
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TOPS",
+      "price": 1.02
+    },
+    {
+      "ticker": "LMFA",
+      "price": 0.3985
+    }
+  ]
+}

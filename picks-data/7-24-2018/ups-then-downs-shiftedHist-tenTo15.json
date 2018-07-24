@@ -1,0 +1,30 @@
+{
+  "10": [
+    {
+      "ticker": "SCWX",
+      "price": 13.925
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.731
+    }
+  ],
+  "50": [
+    {
+      "ticker": "MGTA",
+      "price": 14.2125
+    }
+  ],
+  "200": [],
+  "300": [],
+  "380": [
+    {
+      "ticker": "SCWX",
+      "price": 13.87
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.18
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 13.2498
+    },
+    {
+      "ticker": "VEDL",
+      "price": 12.52
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.435
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INXX",
+      "price": 12.72
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.1
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.385
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INXX",
+      "price": 12.72
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "CNHI",
+      "price": 10.36
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INXX",
+      "price": 12.72
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "VEDL",
+      "price": 12.62
+    }
+  ]
+}

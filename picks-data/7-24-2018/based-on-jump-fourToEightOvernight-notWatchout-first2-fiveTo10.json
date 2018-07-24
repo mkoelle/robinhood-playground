@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ORMP",
+      "price": 5.8399
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.688
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ORMP",
+      "price": 5.69
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ORMP",
+      "price": 5.6504
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ORMP",
+      "price": 5.6
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.9577
+    }
+  ]
+}

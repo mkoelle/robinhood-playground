@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRYS",
+      "price": 5.1401
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.899
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRYS",
+      "price": 5.11
+    },
+    {
+      "ticker": "APVO",
+      "price": 5.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 5.2
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 5.1952
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 5.15
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.005
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 5.2805
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 5.22
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.02
+    }
+  ]
+}

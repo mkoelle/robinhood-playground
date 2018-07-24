@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTTR",
+      "price": 15.28
+    },
+    {
+      "ticker": "GNK",
+      "price": 15.26
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTTR",
+      "price": 15.03
+    },
+    {
+      "ticker": "GTN",
+      "price": 15.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GTN",
+      "price": 15.075
+    },
+    {
+      "ticker": "DVAX",
+      "price": 14.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMSWA",
+      "price": 15.12
+    },
+    {
+      "ticker": "CYRX",
+      "price": 15.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMSWA",
+      "price": 15.015
+    },
+    {
+      "ticker": "CDXS",
+      "price": 15.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDXS",
+      "price": 15.25
+    },
+    {
+      "ticker": "CYRX",
+      "price": 15.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDXS",
+      "price": 15.2
+    },
+    {
+      "ticker": "CASA",
+      "price": 15.325
+    }
+  ]
+}

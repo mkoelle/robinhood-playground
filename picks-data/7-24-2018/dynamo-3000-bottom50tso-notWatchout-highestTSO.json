@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BDSI",
+      "price": 2.85
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LINC",
+      "price": 1.65
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.375
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FBIO",
+      "price": 2.51
+    },
+    {
+      "ticker": "DAG",
+      "price": 2.321
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AZRX",
+      "price": 2.4866
+    },
+    {
+      "ticker": "VBIV",
+      "price": 2.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VBIV",
+      "price": 2.44
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIBT",
+      "price": 2.27
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RESN",
+      "price": 4.7199
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.966
+    }
+  ]
+}

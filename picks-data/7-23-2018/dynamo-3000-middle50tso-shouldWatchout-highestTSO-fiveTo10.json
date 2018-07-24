@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPI",
+      "price": 9.59
+    },
+    {
+      "ticker": "SNDX",
+      "price": 7.5225
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLRB",
+      "price": 6.6324
+    },
+    {
+      "ticker": "BPI",
+      "price": 7.5899
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DAKT",
+      "price": 8.385
+    },
+    {
+      "ticker": "DEPO",
+      "price": 8.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IRIX",
+      "price": 7.345
+    },
+    {
+      "ticker": "APOP",
+      "price": 7.284
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XPLR",
+      "price": 5.975
+    },
+    {
+      "ticker": "GNMK",
+      "price": 6.765
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NOK",
+      "price": 5.96
+    },
+    {
+      "ticker": "LBY",
+      "price": 7.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSM",
+      "price": 7.98
+    },
+    {
+      "ticker": "XTNT",
+      "price": 6.09
+    }
+  ]
+}

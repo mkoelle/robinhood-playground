@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MDCA",
+      "price": 5.05
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXC",
+      "price": 5.767
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.0999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SND",
+      "price": 5.065
+    },
+    {
+      "ticker": "IDT",
+      "price": 5.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MXC",
+      "price": 5.8188
+    },
+    {
+      "ticker": "SND",
+      "price": 5.09
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MXC",
+      "price": 5.829
+    },
+    {
+      "ticker": "SND",
+      "price": 5.085
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XSPL",
+      "price": 6.5468
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XSPL",
+      "price": 6.4
+    },
+    {
+      "ticker": "MXC",
+      "price": 5.79
+    }
+  ]
+}

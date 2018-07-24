@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LOMA",
+      "price": 10.48
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WATT",
+      "price": 13.81
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ELF",
+      "price": 14.0999
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELF",
+      "price": 14.04
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.135
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 10.1899
+    },
+    {
+      "ticker": "ELF",
+      "price": 13.71
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.5057
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBIO",
+      "price": 10.23
+    },
+    {
+      "ticker": "BAS",
+      "price": 10.22
+    }
+  ]
+}

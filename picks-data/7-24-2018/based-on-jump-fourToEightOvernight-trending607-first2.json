@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FORD",
+      "price": 1.94
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.297
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SID",
+      "price": 2.32
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.9401
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SID",
+      "price": 2.31
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.95
+    }
+  ]
+}

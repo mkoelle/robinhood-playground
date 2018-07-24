@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GPRO",
+      "price": 6.101
+    },
+    {
+      "ticker": "SGMA",
+      "price": 6.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MLNT",
+      "price": 5.85
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.5301
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FAT",
+      "price": 6.5301
+    },
+    {
+      "ticker": "CO",
+      "price": 8.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ORMP",
+      "price": 5.57
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.5301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ORMP",
+      "price": 5.45
+    },
+    {
+      "ticker": "FAT",
+      "price": 6.5301
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLNT",
+      "price": 5.65
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLNT",
+      "price": 5.7
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.5158
+    }
+  ]
+}

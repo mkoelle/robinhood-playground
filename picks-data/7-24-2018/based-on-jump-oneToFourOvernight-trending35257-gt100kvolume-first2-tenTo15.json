@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 11.02
+    },
+    {
+      "ticker": "PBR",
+      "price": 11.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.945
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.425
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.95
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 11.215
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.48
+    }
+  ]
+}

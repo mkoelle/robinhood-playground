@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.735
+    },
+    {
+      "ticker": "SB",
+      "price": 3.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.75
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.7226
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.735
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.47
+    }
+  ]
+}

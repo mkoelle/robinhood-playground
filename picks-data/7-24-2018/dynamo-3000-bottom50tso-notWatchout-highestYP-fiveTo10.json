@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCON",
+      "price": 8.4
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VTL",
+      "price": 8.3
+    },
+    {
+      "ticker": "RCM",
+      "price": 9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.51
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 8.31
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCM",
+      "price": 8.76
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RCM",
+      "price": 8.75
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCM",
+      "price": 8.81
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.6
+    }
+  ]
+}

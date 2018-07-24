@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.54
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.1735
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRR",
+      "price": 9.59
+    },
+    {
+      "ticker": "RFIL",
+      "price": 8.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RFIL",
+      "price": 8.9
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRCW",
+      "price": 9.95
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRCW",
+      "price": 9.85
+    },
+    {
+      "ticker": "XENE",
+      "price": 9.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XENE",
+      "price": 9.725
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XENE",
+      "price": 9.65
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.3
+    }
+  ]
+}

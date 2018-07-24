@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "QSII",
+      "price": 20.11
+    },
+    {
+      "ticker": "FTAI",
+      "price": 18.62
+    },
+    {
+      "ticker": "CIVI",
+      "price": 16.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PCMI",
+      "price": 16.85
+    },
+    {
+      "ticker": "PRMW",
+      "price": 17.55
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.5401
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PCMI",
+      "price": 16.6
+    },
+    {
+      "ticker": "PRMW",
+      "price": 17.52
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PCMI",
+      "price": 16.2
+    },
+    {
+      "ticker": "PRMW",
+      "price": 17.31
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PCMI",
+      "price": 16.5
+    },
+    {
+      "ticker": "PRMW",
+      "price": 17.245
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PCMI",
+      "price": 16.3
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.2564
+    },
+    {
+      "ticker": "TZOO",
+      "price": 19.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PCMI",
+      "price": 16.45
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.209
+    },
+    {
+      "ticker": "TZOO",
+      "price": 18.9
+    }
+  ]
+}

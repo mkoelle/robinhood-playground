@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FORD",
+      "price": 1.939
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FORD",
+      "price": 1.87
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FORD",
+      "price": 1.89
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    },
+    {
+      "ticker": "OCX",
+      "price": 3.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FORD",
+      "price": 1.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.05
+    },
+    {
+      "ticker": "TTNP",
+      "price": 0.96
+    }
+  ]
+}

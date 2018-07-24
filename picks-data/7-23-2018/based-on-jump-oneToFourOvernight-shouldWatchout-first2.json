@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SAUC",
+      "price": 1.05
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.939
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SAUC",
+      "price": 1.0373
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SAUC",
+      "price": 1.025
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SAUC",
+      "price": 1.04
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.93
+    }
+  ]
+}

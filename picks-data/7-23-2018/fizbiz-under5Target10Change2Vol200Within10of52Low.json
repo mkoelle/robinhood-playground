@@ -1,0 +1,44 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "HL",
+      "price": 3.32
+    }
+  ],
+  "120": [
+    {
+      "ticker": "HL",
+      "price": 3.37
+    }
+  ],
+  "180": [
+    {
+      "ticker": "HL",
+      "price": 3.38
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.245
+    }
+  ],
+  "380": [
+    {
+      "ticker": "HL",
+      "price": 3.385
+    },
+    {
+      "ticker": "MFG",
+      "price": 3.525
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    },
+    {
+      "ticker": "SBGL",
+      "price": 2.24
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AOBC",
+      "price": 10.47
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.749
+    },
+    {
+      "ticker": "KALA",
+      "price": 13.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYBX",
+      "price": 11.12
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 10.74
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 10.8
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBIO",
+      "price": 10.56
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.5599
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBIO",
+      "price": 10.72
+    },
+    {
+      "ticker": "CORT",
+      "price": 13.38
+    }
+  ]
+}

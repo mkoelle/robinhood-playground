@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LLNW",
+      "price": 5.1786
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LLNW",
+      "price": 5.14
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.465
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LLNW",
+      "price": 5.085
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.495
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.5
+    }
+  ]
+}

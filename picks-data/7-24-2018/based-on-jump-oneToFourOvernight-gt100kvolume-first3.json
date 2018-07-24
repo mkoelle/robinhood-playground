@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.095
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRN",
+      "price": 2.875
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.0944
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.7191
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ANW",
+      "price": 1.564
+    },
+    {
+      "ticker": "IDRA",
+      "price": 0.92
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ANW",
+      "price": 1.5625
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.15
+    },
+    {
+      "ticker": "IDRA",
+      "price": 0.9054
+    }
+  ]
+}

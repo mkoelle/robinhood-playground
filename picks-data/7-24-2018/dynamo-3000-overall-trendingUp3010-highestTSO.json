@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CUR",
+      "price": 1.3199
+    },
+    {
+      "ticker": "ALN",
+      "price": 0.189
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 4.79
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GROW",
+      "price": 2.2042
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GROW",
+      "price": 2.2418
+    },
+    {
+      "ticker": "NXTD",
+      "price": 1.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GROW",
+      "price": 2.2775
+    },
+    {
+      "ticker": "NXTD",
+      "price": 1.9602
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GROW",
+      "price": 2.23
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GROW",
+      "price": 2.27
+    },
+    {
+      "ticker": "DDE",
+      "price": 3.0999
+    }
+  ]
+}

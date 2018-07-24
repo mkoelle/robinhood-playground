@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SE",
+      "price": 15.02
+    },
+    {
+      "ticker": "PUMP",
+      "price": 15.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USX",
+      "price": 14.69
+    },
+    {
+      "ticker": "SE",
+      "price": 14.64
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USX",
+      "price": 14.3
+    },
+    {
+      "ticker": "GLMD",
+      "price": 14.804
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DVAX",
+      "price": 14
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.6971
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CYRX",
+      "price": 15
+    },
+    {
+      "ticker": "DVAX",
+      "price": 14.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DVAX",
+      "price": 14.55
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.855
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CYRX",
+      "price": 14.94
+    },
+    {
+      "ticker": "DVAX",
+      "price": 14.35
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MUFG",
+      "price": 6.15
+    },
+    {
+      "ticker": "AXTI",
+      "price": 9.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MUFG",
+      "price": 6.155
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MUFG",
+      "price": 6.185
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.525
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MUFG",
+      "price": 6.175
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.475
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EGLT",
+      "price": 0.36
+    },
+    {
+      "ticker": "LINC",
+      "price": 1.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EGLT",
+      "price": 0.363
+    },
+    {
+      "ticker": "LINC",
+      "price": 1.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EGLT",
+      "price": 0.363
+    },
+    {
+      "ticker": "LINC",
+      "price": 1.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TIS",
+      "price": 4.3881
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.215
+    }
+  ]
+}

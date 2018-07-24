@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPK",
+      "price": 14
+    },
+    {
+      "ticker": "FRBA",
+      "price": 14.9599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPK",
+      "price": 14.025
+    },
+    {
+      "ticker": "FRBA",
+      "price": 14.9599
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPK",
+      "price": 14.0025
+    },
+    {
+      "ticker": "FRBA",
+      "price": 14.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPK",
+      "price": 14
+    },
+    {
+      "ticker": "FRBA",
+      "price": 14.7
+    }
+  ]
+}

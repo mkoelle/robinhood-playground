@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EYEG",
+      "price": 0.7
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5248
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.55
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EYEG",
+      "price": 0.6419
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.555
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EYEG",
+      "price": 0.625
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5562
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5068
+    }
+  ]
+}

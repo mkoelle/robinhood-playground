@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.95
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.1
+    },
+    {
+      "ticker": "BVN",
+      "price": 12.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.44
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 13.43
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.19
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IKNX",
+      "price": 10.2665
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.415
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.2665
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IKNX",
+      "price": 10.2665
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.4
+    },
+    {
+      "ticker": "JMBA",
+      "price": 11.275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.2665
+    },
+    {
+      "ticker": "LIND",
+      "price": 13.435
+    }
+  ]
+}

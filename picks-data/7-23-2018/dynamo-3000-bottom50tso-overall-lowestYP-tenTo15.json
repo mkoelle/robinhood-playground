@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBIO",
+      "price": 10.29
+    },
+    {
+      "ticker": "PRTK",
+      "price": 10.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 10.405
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPNT",
+      "price": 14.9176
+    },
+    {
+      "ticker": "LCI",
+      "price": 11.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPNT",
+      "price": 14.9
+    },
+    {
+      "ticker": "LOMA",
+      "price": 10.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPNT",
+      "price": 14.8999
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPNT",
+      "price": 14.7
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.1652
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPNT",
+      "price": 14.7
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.18
+    }
+  ]
+}

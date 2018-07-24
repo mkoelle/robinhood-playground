@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "KIN",
+      "price": 13.2498
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.61
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.02
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.85
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KIN",
+      "price": 13.1
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.61
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.945
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.84
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.865
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.574
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.95
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.8
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.4473
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.574
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.215
+    },
+    {
+      "ticker": "SXC",
+      "price": 13.87
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.4473
+    }
+  ]
+}

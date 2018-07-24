@@ -1,0 +1,64 @@
+{
+  "10": [
+    {
+      "ticker": "TMQ",
+      "price": 1.78
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SNGX",
+      "price": 1.2
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.4501
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.244
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNGX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.84
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.32
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SNGX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.84
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.34
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SNGX",
+      "price": 1.15
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.83
+    },
+    {
+      "ticker": "NETS",
+      "price": 2.35
+    }
+  ]
+}

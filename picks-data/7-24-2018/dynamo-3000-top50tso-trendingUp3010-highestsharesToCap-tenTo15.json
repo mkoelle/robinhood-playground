@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSRM",
+      "price": 10.34
+    },
+    {
+      "ticker": "VCYT",
+      "price": 11.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SSRM",
+      "price": 10.395
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSRM",
+      "price": 10.365
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.515
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SSRM",
+      "price": 10.38
+    },
+    {
+      "ticker": "LTM",
+      "price": 10.96
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SSRM",
+      "price": 10.42
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSRM",
+      "price": 10.415
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.515
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 5.905
+    },
+    {
+      "ticker": "AWSM",
+      "price": 5.2147
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRIP",
+      "price": 5.853
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.725
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRIP",
+      "price": 5.89
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRIP",
+      "price": 5.95
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 5.9729
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.8392
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRIP",
+      "price": 6.005
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.8392
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRIP",
+      "price": 6.005
+    },
+    {
+      "ticker": "WTID",
+      "price": 7.94
+    }
+  ]
+}

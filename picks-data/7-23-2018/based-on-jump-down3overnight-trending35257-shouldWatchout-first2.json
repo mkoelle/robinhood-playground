@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RWLK",
+      "price": 1.12
+    },
+    {
+      "ticker": "SMIT",
+      "price": 3.0251
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RWLK",
+      "price": 1.008
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.9658
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RWLK",
+      "price": 1.0164
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RWLK",
+      "price": 0.9999
+    },
+    {
+      "ticker": "SMIT",
+      "price": 3.0999
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HUSA",
+      "price": 0.244
+    },
+    {
+      "ticker": "AXON",
+      "price": 2.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NEPT",
+      "price": 2.83
+    },
+    {
+      "ticker": "REED",
+      "price": 2.7287
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYSZ",
+      "price": 0.862
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DPW",
+      "price": 0.5627
+    },
+    {
+      "ticker": "EGI",
+      "price": 0.4451
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNC",
+      "price": 3.225
+    },
+    {
+      "ticker": "CNET",
+      "price": 2.2727
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AQMS",
+      "price": 3.05
+    },
+    {
+      "ticker": "MVIS",
+      "price": 1.0248
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNC",
+      "price": 3.215
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.5365
+    }
+  ]
+}

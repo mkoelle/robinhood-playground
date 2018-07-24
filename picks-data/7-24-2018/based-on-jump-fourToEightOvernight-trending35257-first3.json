@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GGB",
+      "price": 4.46
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GGB",
+      "price": 4.47
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.1127
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GGB",
+      "price": 4.485
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.1618
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GGB",
+      "price": 4.49
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.22
+    }
+  ]
+}

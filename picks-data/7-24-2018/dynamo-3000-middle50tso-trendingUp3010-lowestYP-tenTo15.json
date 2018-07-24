@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BB",
+      "price": 10.375
+    },
+    {
+      "ticker": "NYCB",
+      "price": 11.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BFY",
+      "price": 12.8706
+    },
+    {
+      "ticker": "MUA",
+      "price": 13.2594
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VGI",
+      "price": 13.6779
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVE",
+      "price": 12.891
+    },
+    {
+      "ticker": "NMT",
+      "price": 12.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.891
+    },
+    {
+      "ticker": "EDF",
+      "price": 13.54
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBZ",
+      "price": 12.5741
+    },
+    {
+      "ticker": "ENX",
+      "price": 11.19
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FBZ",
+      "price": 12.5741
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.2905
+    }
+  ]
+}

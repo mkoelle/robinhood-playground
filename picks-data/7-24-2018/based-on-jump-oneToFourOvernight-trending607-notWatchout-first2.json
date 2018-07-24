@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EBR",
+      "price": 4.64
+    },
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EBR",
+      "price": 4.6525
+    },
+    {
+      "ticker": "BRN",
+      "price": 1.9415
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EBR",
+      "price": 4.66
+    },
+    {
+      "ticker": "BRN",
+      "price": 1.951
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR",
+      "price": 4.67
+    },
+    {
+      "ticker": "BRN",
+      "price": 1.9524
+    }
+  ]
+}

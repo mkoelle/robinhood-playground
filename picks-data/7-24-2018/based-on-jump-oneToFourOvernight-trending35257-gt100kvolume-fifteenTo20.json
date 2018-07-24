@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FNKO",
+      "price": 18.7387
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FNKO",
+      "price": 18.26
+    },
+    {
+      "ticker": "UBS",
+      "price": 15.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FNKO",
+      "price": 18.335
+    },
+    {
+      "ticker": "UBS",
+      "price": 15.965
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FNKO",
+      "price": 18.3
+    },
+    {
+      "ticker": "UBS",
+      "price": 15.945
+    },
+    {
+      "ticker": "CS",
+      "price": 15.72
+    }
+  ]
+}

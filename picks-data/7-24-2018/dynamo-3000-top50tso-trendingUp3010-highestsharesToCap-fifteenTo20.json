@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 15.165
+    },
+    {
+      "ticker": "GLMD",
+      "price": 15.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGAN",
+      "price": 15.7752
+    },
+    {
+      "ticker": "MSON",
+      "price": 15.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MSON",
+      "price": 15.95
+    },
+    {
+      "ticker": "NCSM",
+      "price": 15.465
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GDXS",
+      "price": 15.44
+    },
+    {
+      "ticker": "MSON",
+      "price": 16.005
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GDXS",
+      "price": 15.44
+    },
+    {
+      "ticker": "MSON",
+      "price": 16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GDXS",
+      "price": 15.44
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GDXS",
+      "price": 15.44
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.69
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "32": [
+    {
+      "ticker": "CNST",
+      "price": 10.99
+    },
+    {
+      "ticker": "ONE",
+      "price": 10.74
+    }
+  ],
+  "63": [
+    {
+      "ticker": "EXPI",
+      "price": 13.95
+    },
+    {
+      "ticker": "IOVA",
+      "price": 14.05
+    }
+  ],
+  "221": [
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12
+    }
+  ],
+  "280": [
+    {
+      "ticker": "PRCP",
+      "price": 10.6
+    },
+    {
+      "ticker": "CMT",
+      "price": 13.2
+    }
+  ],
+  "328": [
+    {
+      "ticker": "IMTE",
+      "price": 12.07
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.8512
+    }
+  ],
+  "388": [
+    {
+      "ticker": "NES",
+      "price": 10.682
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.22
+    }
+  ]
+}

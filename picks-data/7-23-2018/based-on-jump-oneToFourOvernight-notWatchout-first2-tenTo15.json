@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "NTGN",
+      "price": 11.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "NTGN",
+      "price": 10.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "NTGN",
+      "price": 10.8498
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "NTGN",
+      "price": 10.86
+    }
+  ]
+}

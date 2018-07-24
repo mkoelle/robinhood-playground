@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MUFG",
+      "price": 6.15
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.1786
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MUFG",
+      "price": 6.155
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.14
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MUFG",
+      "price": 6.185
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.085
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MUFG",
+      "price": 6.175
+    },
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    }
+  ]
+}

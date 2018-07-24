@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FNKO",
+      "price": 18.7387
+    },
+    {
+      "ticker": "KRYS",
+      "price": 18.26
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FNKO",
+      "price": 18.26
+    },
+    {
+      "ticker": "KRYS",
+      "price": 18.26
+    },
+    {
+      "ticker": "BATT",
+      "price": 17.1299
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FNKO",
+      "price": 18.335
+    },
+    {
+      "ticker": "KRYS",
+      "price": 18.26
+    },
+    {
+      "ticker": "BATT",
+      "price": 17.1299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FNKO",
+      "price": 18.3
+    },
+    {
+      "ticker": "KRYS",
+      "price": 18.01
+    },
+    {
+      "ticker": "BATT",
+      "price": 17.1299
+    }
+  ]
+}

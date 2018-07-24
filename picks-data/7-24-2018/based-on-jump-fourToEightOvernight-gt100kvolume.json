@@ -1,0 +1,53 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "DPW",
+      "price": 0.598
+    },
+    {
+      "ticker": "SID",
+      "price": 2.297
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPW",
+      "price": 0.575
+    },
+    {
+      "ticker": "SID",
+      "price": 2.32
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.485
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DPW",
+      "price": 0.565
+    },
+    {
+      "ticker": "SID",
+      "price": 2.31
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.18
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.49
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.22
+    }
+  ]
+}

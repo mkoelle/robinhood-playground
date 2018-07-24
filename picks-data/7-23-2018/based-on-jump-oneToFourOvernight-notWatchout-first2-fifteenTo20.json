@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MAT",
+      "price": 16.33
+    },
+    {
+      "ticker": "FTSV",
+      "price": 16.1217
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MAT",
+      "price": 16.42
+    },
+    {
+      "ticker": "FTSV",
+      "price": 15.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MAT",
+      "price": 16.76
+    },
+    {
+      "ticker": "FTSV",
+      "price": 15.8589
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MAT",
+      "price": 16.58
+    },
+    {
+      "ticker": "FTSV",
+      "price": 16.215
+    }
+  ]
+}

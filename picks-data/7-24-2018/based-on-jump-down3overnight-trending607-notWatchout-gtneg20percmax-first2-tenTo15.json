@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GPK",
+      "price": 14
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.1244
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPK",
+      "price": 14.025
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.3438
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPK",
+      "price": 14.0025
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPK",
+      "price": 14
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.275
+    }
+  ]
+}

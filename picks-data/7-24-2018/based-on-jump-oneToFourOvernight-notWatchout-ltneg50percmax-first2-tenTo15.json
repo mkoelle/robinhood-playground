@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SUPV",
+      "price": 11.52
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SUPV",
+      "price": 11.6
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SUPV",
+      "price": 11.645
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SUPV",
+      "price": 11.6298
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.46
+    }
+  ]
+}

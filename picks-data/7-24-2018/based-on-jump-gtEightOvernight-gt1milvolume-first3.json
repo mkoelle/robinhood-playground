@@ -1,0 +1,41 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "EYEG",
+      "price": 0.75
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EYEG",
+      "price": 0.7331
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.46
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EYEG",
+      "price": 0.708
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.4707
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0401
+    }
+  ]
+}

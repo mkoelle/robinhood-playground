@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESTE",
+      "price": 9.68
+    },
+    {
+      "ticker": "P",
+      "price": 8.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SRAX",
+      "price": 5.3933
+    },
+    {
+      "ticker": "ATEN",
+      "price": 7.115
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.51
+    },
+    {
+      "ticker": "EMKR",
+      "price": 5.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZYNE",
+      "price": 7.7782
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HIMX",
+      "price": 7.33
+    },
+    {
+      "ticker": "KEYW",
+      "price": 8.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KALV",
+      "price": 8.099
+    },
+    {
+      "ticker": "AVDL",
+      "price": 6.56
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GNPX",
+      "price": 7.3
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.6
+    }
+  ]
+}

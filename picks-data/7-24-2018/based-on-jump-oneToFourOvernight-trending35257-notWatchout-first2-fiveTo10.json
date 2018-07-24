@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GOL",
+      "price": 7.32
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.1985
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GOL",
+      "price": 7.351
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.185
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GOL",
+      "price": 7.355
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.195
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.16
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.39
+    }
+  ]
+}

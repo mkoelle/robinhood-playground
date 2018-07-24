@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GCI",
+      "price": 10.17
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.61
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GCI",
+      "price": 10.26
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLF",
+      "price": 10.875
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRAY",
+      "price": 10.01
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.053
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLF",
+      "price": 11.2216
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLF",
+      "price": 10.9684
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLF",
+      "price": 10.915
+    },
+    {
+      "ticker": "CLPR",
+      "price": 10.34
+    }
+  ]
+}

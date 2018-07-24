@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IVAC",
+      "price": 4.85
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.881
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CODA",
+      "price": 4.925
+    },
+    {
+      "ticker": "SBBP",
+      "price": 4.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CODA",
+      "price": 4.94
+    },
+    {
+      "ticker": "IVAC",
+      "price": 4.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CODA",
+      "price": 4.94
+    },
+    {
+      "ticker": "FLGT",
+      "price": 4.9473
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CODA",
+      "price": 4.93
+    },
+    {
+      "ticker": "FLGT",
+      "price": 4.9473
+    }
+  ]
+}

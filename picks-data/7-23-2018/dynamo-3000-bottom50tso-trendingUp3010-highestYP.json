@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "URG",
+      "price": 0.72
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MICT",
+      "price": 1.4801
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.275
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LLNW",
+      "price": 4.93
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLNW",
+      "price": 4.995
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LLNW",
+      "price": 4.98
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LLNW",
+      "price": 4.96
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LLNW",
+      "price": 4.955
+    },
+    {
+      "ticker": "PED",
+      "price": 2.4399
+    }
+  ]
+}

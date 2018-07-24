@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ORMP",
+      "price": 5.8937
+    },
+    {
+      "ticker": "TOCA",
+      "price": 9.3799
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TOCA",
+      "price": 9.81
+    },
+    {
+      "ticker": "SALT",
+      "price": 7.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MOTS",
+      "price": 7.85
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PIRS",
+      "price": 6.21
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.633
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VSLR",
+      "price": 5.73
+    },
+    {
+      "ticker": "PIRS",
+      "price": 6.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VSLR",
+      "price": 5.8227
+    },
+    {
+      "ticker": "PIRS",
+      "price": 6.41
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PIRS",
+      "price": 6.405
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.8
+    }
+  ]
+}

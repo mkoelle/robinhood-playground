@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SRAX",
+      "price": 5.56
+    },
+    {
+      "ticker": "CSBR",
+      "price": 8.895
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDMO",
+      "price": 6.3999
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MOTS",
+      "price": 7.85
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PIRS",
+      "price": 6.21
+    },
+    {
+      "ticker": "DHCP",
+      "price": 6.9173
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PIRS",
+      "price": 6.19
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.11
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PIRS",
+      "price": 6.41
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PIRS",
+      "price": 6.405
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.06
+    }
+  ]
+}

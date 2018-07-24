@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.0527
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.9
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.9
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALIM",
+      "price": 1.05
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.885
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.528
+    }
+  ]
+}

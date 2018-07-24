@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KALA",
+      "price": 12.8036
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KALA",
+      "price": 12.5
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KALA",
+      "price": 13.02
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KALA",
+      "price": 13.09
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.01
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "TAX",
+      "price": 9.4
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.1787
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAX",
+      "price": 9.575
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAX",
+      "price": 9.8
+    },
+    {
+      "ticker": "NETE",
+      "price": 8.0502
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NETE",
+      "price": 7.9
+    }
+  ]
+}

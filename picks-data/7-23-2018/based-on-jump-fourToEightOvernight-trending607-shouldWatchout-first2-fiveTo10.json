@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASLN",
+      "price": 8.25
+    },
+    {
+      "ticker": "DFBG",
+      "price": 6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASLN",
+      "price": 8.25
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASLN",
+      "price": 8.25
+    },
+    {
+      "ticker": "DFBG",
+      "price": 5.9999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASLN",
+      "price": 8.25
+    },
+    {
+      "ticker": "DFBG",
+      "price": 6.025
+    }
+  ]
+}

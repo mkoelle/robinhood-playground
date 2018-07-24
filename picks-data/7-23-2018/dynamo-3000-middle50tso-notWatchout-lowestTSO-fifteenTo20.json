@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NNBR",
+      "price": 19.2
+    },
+    {
+      "ticker": "DBB",
+      "price": 16.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PMT",
+      "price": 18.76
+    },
+    {
+      "ticker": "GPMT",
+      "price": 18.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIM",
+      "price": 18.87
+    },
+    {
+      "ticker": "TRCB",
+      "price": 18.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWSA",
+      "price": 15.285
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLXT",
+      "price": 17.67
+    },
+    {
+      "ticker": "EFC",
+      "price": 16.142
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ELOX",
+      "price": 16.27
+    },
+    {
+      "ticker": "SMLP",
+      "price": 16.5245
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AGNC",
+      "price": 19.12
+    },
+    {
+      "ticker": "MTGE",
+      "price": 19.725
+    }
+  ]
+}

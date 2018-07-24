@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CKPT",
+      "price": 2.8
+    },
+    {
+      "ticker": "MICR",
+      "price": 3.451
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.9419
+    }
+  ],
+  "242": [
+    {
+      "ticker": "APPS",
+      "price": 1.3735
+    },
+    {
+      "ticker": "AUTO",
+      "price": 3.81
+    },
+    {
+      "ticker": "XBIO",
+      "price": 3.34
+    }
+  ],
+  "309": [
+    {
+      "ticker": "KMPH",
+      "price": 4.1
+    },
+    {
+      "ticker": "AST",
+      "price": 1.65
+    },
+    {
+      "ticker": "CLWT",
+      "price": 4.2248
+    }
+  ]
+}

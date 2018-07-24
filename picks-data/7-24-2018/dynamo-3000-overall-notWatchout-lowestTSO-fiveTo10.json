@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCON",
+      "price": 8.4
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HLX",
+      "price": 9.08
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HLX",
+      "price": 8.94
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCON",
+      "price": 7.74
+    },
+    {
+      "ticker": "HLX",
+      "price": 8.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCON",
+      "price": 7.8996
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.155
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCON",
+      "price": 7.3509
+    },
+    {
+      "ticker": "MGTX",
+      "price": 9.411
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SCON",
+      "price": 7.15
+    },
+    {
+      "ticker": "MGTX",
+      "price": 9.4688
+    }
+  ]
+}

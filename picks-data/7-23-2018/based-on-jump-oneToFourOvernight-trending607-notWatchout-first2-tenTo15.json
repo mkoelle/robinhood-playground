@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.2293
+    }
+  ]
+}

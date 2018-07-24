@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "OCC",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OCC",
+      "price": 3.6
+    },
+    {
+      "ticker": "WIT",
+      "price": 4.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OCC",
+      "price": 3.8
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4103
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.5301
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OCC",
+      "price": 3.75
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.4305
+    },
+    {
+      "ticker": "AIRI",
+      "price": 1.5301
+    }
+  ]
+}

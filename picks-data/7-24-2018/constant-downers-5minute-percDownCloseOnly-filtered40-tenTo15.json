@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MVO",
+      "price": 11
+    },
+    {
+      "ticker": "PRCP",
+      "price": 10.59
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.2
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLFD",
+      "price": 11.35
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "BCRH",
+      "price": 11.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.85
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.8
+    }
+  ]
+}

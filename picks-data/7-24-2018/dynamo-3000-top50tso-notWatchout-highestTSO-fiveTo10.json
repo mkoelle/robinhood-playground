@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IDSY",
+      "price": 7
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.9999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "CWBR",
+      "price": 6.0469
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "CWBR",
+      "price": 5.9501
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "YIN",
+      "price": 8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "TNAV",
+      "price": 6
+    }
+  ]
+}

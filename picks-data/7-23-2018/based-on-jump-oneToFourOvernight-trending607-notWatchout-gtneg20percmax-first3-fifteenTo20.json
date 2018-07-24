@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FTSV",
+      "price": 16.1217
+    },
+    {
+      "ticker": "CCT",
+      "price": 16.95
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FTSV",
+      "price": 15.96
+    },
+    {
+      "ticker": "CCT",
+      "price": 16.94
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.575
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FTSV",
+      "price": 15.8589
+    },
+    {
+      "ticker": "CCT",
+      "price": 16.8834
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.728
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FTSV",
+      "price": 16.215
+    },
+    {
+      "ticker": "CCT",
+      "price": 16.8632
+    },
+    {
+      "ticker": "ONB",
+      "price": 19.725
+    }
+  ]
+}

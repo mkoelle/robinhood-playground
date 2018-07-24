@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.0527
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALIM",
+      "price": 1.05
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.885
+    }
+  ]
+}

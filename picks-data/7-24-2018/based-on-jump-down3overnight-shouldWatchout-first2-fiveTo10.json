@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBGI",
+      "price": 7.35
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.9654
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBGI",
+      "price": 7.5
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBGI",
+      "price": 7.5
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBGI",
+      "price": 7.45
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.65
+    }
+  ]
+}

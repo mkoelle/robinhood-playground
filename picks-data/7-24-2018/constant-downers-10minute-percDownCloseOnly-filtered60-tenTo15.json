@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BTAI",
+      "price": 10.2
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.15
+    },
+    {
+      "ticker": "MCBC",
+      "price": 12.55
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OVID",
+      "price": 10.242
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.1
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RLH",
+      "price": 11.75
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.8
+    }
+  ]
+}

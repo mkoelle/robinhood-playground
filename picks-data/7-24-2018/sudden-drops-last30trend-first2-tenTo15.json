@@ -1,0 +1,42 @@
+{
+  "221": [
+    {
+      "ticker": "DDD",
+      "price": 13.88
+    },
+    {
+      "ticker": "DVAX",
+      "price": 14.1
+    }
+  ],
+  "280": [
+    {
+      "ticker": "DDD",
+      "price": 13.665
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.35
+    }
+  ],
+  "328": [
+    {
+      "ticker": "IMTE",
+      "price": 12.07
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.8512
+    }
+  ],
+  "388": [
+    {
+      "ticker": "NES",
+      "price": 10.682
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.181
+    }
+  ]
+}

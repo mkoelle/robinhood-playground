@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BATT",
+      "price": 17.1299
+    },
+    {
+      "ticker": "CIVI",
+      "price": 16.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KRYS",
+      "price": 18.0244
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACIU",
+      "price": 15.3
+    },
+    {
+      "ticker": "PCMI",
+      "price": 16.6
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 19.149
+    },
+    {
+      "ticker": "SVU",
+      "price": 19.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 19.23
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 17.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NITE",
+      "price": 18
+    },
+    {
+      "ticker": "FEYE",
+      "price": 16.445
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NITE",
+      "price": 18.42
+    },
+    {
+      "ticker": "AMD",
+      "price": 16.209
+    }
+  ]
+}

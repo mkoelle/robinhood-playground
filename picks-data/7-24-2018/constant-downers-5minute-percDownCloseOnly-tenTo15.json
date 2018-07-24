@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRCP",
+      "price": 10.59
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.15
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.55
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLFD",
+      "price": 11.35
+    },
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.85
+    },
+    {
+      "ticker": "WNEB",
+      "price": 11.125
+    }
+  ]
+}

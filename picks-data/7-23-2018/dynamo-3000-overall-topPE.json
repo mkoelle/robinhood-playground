@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "LUNA",
+      "price": 3.61
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.52
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.065
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LUNA",
+      "price": 3.52
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.69
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.5216
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LUNA",
+      "price": 3.5168
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.7
+    },
+    {
+      "ticker": "CERC",
+      "price": 4.5899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMED",
+      "price": 3.66
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.47
+    },
+    {
+      "ticker": "SDPI",
+      "price": 1.6956
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGEN",
+      "price": 3.4254
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.66
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.5197
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TGEN",
+      "price": 3.38
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6412
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.5096
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGEN",
+      "price": 3.38
+    },
+    {
+      "ticker": "SMED",
+      "price": 3.6
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.52
+    }
+  ]
+}

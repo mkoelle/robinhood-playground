@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ITI",
+      "price": 5.3
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATOM",
+      "price": 5.78
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.955
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VHI",
+      "price": 5.29
+    },
+    {
+      "ticker": "ATOM",
+      "price": 5.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LGL",
+      "price": 5.3135
+    },
+    {
+      "ticker": "AGC",
+      "price": 5.6238
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VOC",
+      "price": 6.325
+    },
+    {
+      "ticker": "GAB",
+      "price": 6.395
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGC",
+      "price": 5.62
+    },
+    {
+      "ticker": "HCHC",
+      "price": 6.08
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DX",
+      "price": 6.41
+    },
+    {
+      "ticker": "GSUM",
+      "price": 6.51
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "BTAI",
+      "price": 10.2
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.15
+    },
+    {
+      "ticker": "PBD",
+      "price": 12
+    }
+  ],
+  "242": [
+    {
+      "ticker": "OTEL",
+      "price": 14.9
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.242
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.1
+    }
+  ],
+  "309": [
+    {
+      "ticker": "KVHI",
+      "price": 12.35
+    },
+    {
+      "ticker": "RLH",
+      "price": 11.75
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.8
+    }
+  ]
+}

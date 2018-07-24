@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRTK",
+      "price": 10.5
+    },
+    {
+      "ticker": "RES",
+      "price": 14.51
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRTK",
+      "price": 10.405
+    },
+    {
+      "ticker": "RES",
+      "price": 14.16
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RES",
+      "price": 14.115
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.43
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.16
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RES",
+      "price": 14.45
+    },
+    {
+      "ticker": "XON",
+      "price": 14.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RES",
+      "price": 14.255
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RES",
+      "price": 14.245
+    },
+    {
+      "ticker": "CLFD",
+      "price": 11.4
+    }
+  ]
+}

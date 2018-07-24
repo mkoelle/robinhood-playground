@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ULBI",
+      "price": 9.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.9999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PZN",
+      "price": 9.245
+    },
+    {
+      "ticker": "BBGI",
+      "price": 7.4758
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRV",
+      "price": 9.97
+    },
+    {
+      "ticker": "AAC",
+      "price": 9.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 9.28
+    },
+    {
+      "ticker": "DZSI",
+      "price": 9.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDHL",
+      "price": 9.97
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.5548
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ESXB",
+      "price": 9.75
+    },
+    {
+      "ticker": "DRV",
+      "price": 9.98
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESXB",
+      "price": 9.75
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.26
+    }
+  ]
+}

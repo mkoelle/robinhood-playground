@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.01
+    }
+  ]
+}

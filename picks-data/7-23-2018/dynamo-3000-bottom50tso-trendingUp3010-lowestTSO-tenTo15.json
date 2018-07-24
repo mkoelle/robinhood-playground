@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KIN",
+      "price": 13.25
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.74
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RES",
+      "price": 14.16
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RES",
+      "price": 14.115
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KIN",
+      "price": 13.15
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCWX",
+      "price": 13.99
+    },
+    {
+      "ticker": "MTLS",
+      "price": 13.36
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCWX",
+      "price": 13.8452
+    },
+    {
+      "ticker": "KIN",
+      "price": 12.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SCWX",
+      "price": 13.79
+    },
+    {
+      "ticker": "KIN",
+      "price": 12.959
+    }
+  ]
+}

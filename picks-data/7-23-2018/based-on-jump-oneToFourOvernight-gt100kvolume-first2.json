@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MNGA",
+      "price": 0.2849
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MNGA",
+      "price": 0.2743
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MNGA",
+      "price": 0.272
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.4465
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MNGA",
+      "price": 0.273
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.444
+    }
+  ]
+}

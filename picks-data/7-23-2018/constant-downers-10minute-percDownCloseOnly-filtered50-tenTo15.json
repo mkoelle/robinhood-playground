@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AFI",
+      "price": 13.81
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.25
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.37
+    }
+  ],
+  "242": [
+    {
+      "ticker": "LCUT",
+      "price": 12.9
+    },
+    {
+      "ticker": "AFI",
+      "price": 13.815
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.18
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HALL",
+      "price": 10.77
+    },
+    {
+      "ticker": "LCUT",
+      "price": 12.75
+    },
+    {
+      "ticker": "LAKE",
+      "price": 13.25
+    }
+  ]
+}

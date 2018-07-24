@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SIEB",
+      "price": 15.165
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.275
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGH",
+      "price": 15.15
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SRRK",
+      "price": 15.25
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.11
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SRRK",
+      "price": 15.28
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.22
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TGH",
+      "price": 15.05
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRRK",
+      "price": 15.1125
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGH",
+      "price": 15.1
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.69
+    }
+  ]
+}

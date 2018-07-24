@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DCIX",
+      "price": 1.71
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.0932
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DCIX",
+      "price": 1.65
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.0952
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DCIX",
+      "price": 1.6049
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.5929
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OGEN",
+      "price": 0.582
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.32
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OGEN",
+      "price": 0.58
+    },
+    {
+      "ticker": "ICON",
+      "price": 0.62
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.093
+    },
+    {
+      "ticker": "ADOM",
+      "price": 0.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.088
+    },
+    {
+      "ticker": "ADOM",
+      "price": 0.7071
+    }
+  ]
+}

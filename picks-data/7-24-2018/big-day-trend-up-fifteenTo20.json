@@ -1,0 +1,37 @@
+{
+  "10": [],
+  "35": [
+    {
+      "ticker": "OI",
+      "price": 18.05
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.65
+    },
+    {
+      "ticker": "MIXT",
+      "price": 17.574
+    }
+  ],
+  "90": [
+    {
+      "ticker": "OI",
+      "price": 18.48
+    },
+    {
+      "ticker": "MIXT",
+      "price": 17.61
+    }
+  ],
+  "223": [
+    {
+      "ticker": "OI",
+      "price": 18.95
+    },
+    {
+      "ticker": "SPLP",
+      "price": 16.85
+    }
+  ]
+}

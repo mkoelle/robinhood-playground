@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SUPV",
+      "price": 11.52
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.36
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.5366
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SUPV",
+      "price": 11.6
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.41
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SUPV",
+      "price": 11.645
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.41
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SUPV",
+      "price": 11.6298
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.46
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.66
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LAKE",
+      "price": 13.4
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.37
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.7973
+    }
+  ],
+  "242": [
+    {
+      "ticker": "FBZ",
+      "price": 12.32
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    },
+    {
+      "ticker": "LMB",
+      "price": 11.18
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LIVE",
+      "price": 13.12
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.32
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.25
+    }
+  ]
+}

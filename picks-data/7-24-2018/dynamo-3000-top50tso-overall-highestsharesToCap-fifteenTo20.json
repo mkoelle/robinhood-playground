@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "REPL",
+      "price": 15.1
+    },
+    {
+      "ticker": "AHH",
+      "price": 14.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RUN",
+      "price": 15.05
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.7752
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SRRK",
+      "price": 15.25
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.202
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTES",
+      "price": 15.3012
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GTES",
+      "price": 15.27
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.0362
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GTES",
+      "price": 15.31
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.025
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GTES",
+      "price": 15.325
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.01
+    }
+  ]
+}

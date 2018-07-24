@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RIOT",
+      "price": 6.4
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.6673
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RIOT",
+      "price": 6.1
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RIOT",
+      "price": 6.2
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.27
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RIOT",
+      "price": 6.16
+    },
+    {
+      "ticker": "LPTX",
+      "price": 8.34
+    }
+  ]
+}

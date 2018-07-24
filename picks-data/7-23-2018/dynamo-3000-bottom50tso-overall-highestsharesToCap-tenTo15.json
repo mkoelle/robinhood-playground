@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CNST",
+      "price": 11.45
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "REPL",
+      "price": 14.5
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REPL",
+      "price": 14.45
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.225
+    }
+  ],
+  "200": [
+    {
+      "ticker": "REPL",
+      "price": 14.59
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REPL",
+      "price": 14.7598
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.005
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.1652
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "REPL",
+      "price": 15
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.18
+    }
+  ]
+}

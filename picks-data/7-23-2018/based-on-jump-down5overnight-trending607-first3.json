@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RWLK",
+      "price": 1.12
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RWLK",
+      "price": 1.008
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RWLK",
+      "price": 1.0164
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RWLK",
+      "price": 0.9999
+    },
+    {
+      "ticker": "OCC",
+      "price": 3.75
+    }
+  ]
+}

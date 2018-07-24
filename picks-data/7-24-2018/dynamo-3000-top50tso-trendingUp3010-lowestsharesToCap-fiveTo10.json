@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTS",
+      "price": 8.95
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.77
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMKR",
+      "price": 8.935
+    },
+    {
+      "ticker": "NVTA",
+      "price": 8.8198
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AUDC",
+      "price": 8.8216
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.36
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DEPO",
+      "price": 8.38
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LPL",
+      "price": 9.79
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPL",
+      "price": 9.76
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPL",
+      "price": 9.775
+    },
+    {
+      "ticker": "AUDC",
+      "price": 8.98
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TECS",
+      "price": 19.7988
+    },
+    {
+      "ticker": "QSII",
+      "price": 20.11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TECS",
+      "price": 19.5862
+    },
+    {
+      "ticker": "VNCE",
+      "price": 19.455
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TECS",
+      "price": 20
+    },
+    {
+      "ticker": "FLO",
+      "price": 19.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTLD",
+      "price": 19.83
+    },
+    {
+      "ticker": "COLL",
+      "price": 19.69
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HTLD",
+      "price": 19.94
+    },
+    {
+      "ticker": "COLL",
+      "price": 19.625
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HTLD",
+      "price": 19.565
+    },
+    {
+      "ticker": "COLL",
+      "price": 19.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HTLD",
+      "price": 19.785
+    },
+    {
+      "ticker": "COLL",
+      "price": 19.59
+    }
+  ]
+}

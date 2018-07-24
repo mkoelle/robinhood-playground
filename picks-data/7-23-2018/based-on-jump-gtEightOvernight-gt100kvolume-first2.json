@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BRN",
+      "price": 2.1775
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DDE",
+      "price": 2.99
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DDE",
+      "price": 3.1237
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.1299
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DDE",
+      "price": 3.1742
+    },
+    {
+      "ticker": "BRN",
+      "price": 2.1499
+    }
+  ]
+}

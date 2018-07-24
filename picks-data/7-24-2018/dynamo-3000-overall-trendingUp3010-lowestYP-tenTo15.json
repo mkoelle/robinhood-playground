@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SWCH",
+      "price": 13.285
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.115
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SWCH",
+      "price": 13.2
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.015
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SWCH",
+      "price": 13.2402
+    },
+    {
+      "ticker": "LIVE",
+      "price": 13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LIVE",
+      "price": 12.891
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.891
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SWCH",
+      "price": 13.18
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LIVE",
+      "price": 12.84
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.245
+    }
+  ]
+}

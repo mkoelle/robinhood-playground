@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LLNW",
+      "price": 4.9
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.8501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SORL",
+      "price": 4.9101
+    },
+    {
+      "ticker": "CDR",
+      "price": 4.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SORL",
+      "price": 4.9279
+    },
+    {
+      "ticker": "FLGT",
+      "price": 4.875
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOBL",
+      "price": 4.925
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.96
+    }
+  ]
+}

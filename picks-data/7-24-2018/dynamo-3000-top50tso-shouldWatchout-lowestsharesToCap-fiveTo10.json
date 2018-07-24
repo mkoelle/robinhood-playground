@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BBGI",
+      "price": 7.4
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.575
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BBGI",
+      "price": 7.4758
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UVXY",
+      "price": 9.3
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 9.28
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RDHL",
+      "price": 9.97
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.5548
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 9.49
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UVXY",
+      "price": 9.26
+    },
+    {
+      "ticker": "AFH",
+      "price": 8.75
+    }
+  ]
+}

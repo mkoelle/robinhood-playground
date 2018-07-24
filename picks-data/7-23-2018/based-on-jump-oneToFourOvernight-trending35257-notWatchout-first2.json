@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.115
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ALIM",
+      "price": 1.05
+    },
+    {
+      "ticker": "ATHX",
+      "price": 2.0925
+    }
+  ]
+}

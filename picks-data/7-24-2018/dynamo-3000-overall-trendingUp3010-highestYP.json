@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 4.5517
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.5029
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 4.79
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NOG",
+      "price": 3.48
+    },
+    {
+      "ticker": "EGY",
+      "price": 3.135
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NOG",
+      "price": 3.41
+    },
+    {
+      "ticker": "EGY",
+      "price": 3.091
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NOG",
+      "price": 3.43
+    },
+    {
+      "ticker": "EGY",
+      "price": 3.0999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NOG",
+      "price": 3.42
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOG",
+      "price": 3.395
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.63
+    }
+  ]
+}

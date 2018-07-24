@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "CPHC",
+      "price": 15.25
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.28
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.205
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PME",
+      "price": 2.69
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLDP",
+      "price": 3.1035
+    },
+    {
+      "ticker": "XBIT",
+      "price": 4.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UUUU",
+      "price": 2.635
+    },
+    {
+      "ticker": "GNMX",
+      "price": 0.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MARPS",
+      "price": 4.1124
+    },
+    {
+      "ticker": "GNMX",
+      "price": 0.978
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LITB",
+      "price": 2.07
+    },
+    {
+      "ticker": "GNMX",
+      "price": 0.978
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UUUU",
+      "price": 2.665
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UUUU",
+      "price": 2.655
+    },
+    {
+      "ticker": "DAC",
+      "price": 1.725
+    }
+  ]
+}

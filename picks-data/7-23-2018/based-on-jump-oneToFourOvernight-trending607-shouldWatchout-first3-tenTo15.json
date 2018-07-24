@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VKTX",
+      "price": 11.37
+    },
+    {
+      "ticker": "ACMR",
+      "price": 12.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VKTX",
+      "price": 11.08
+    },
+    {
+      "ticker": "ACMR",
+      "price": 12.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VKTX",
+      "price": 10.99
+    },
+    {
+      "ticker": "ACMR",
+      "price": 12.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VKTX",
+      "price": 11.01
+    },
+    {
+      "ticker": "ACMR",
+      "price": 12.95
+    }
+  ]
+}

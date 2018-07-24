@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UA",
+      "price": 19.68
+    },
+    {
+      "ticker": "VYGR",
+      "price": 19.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NITE",
+      "price": 19.93
+    },
+    {
+      "ticker": "PFBI",
+      "price": 19.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EOLS",
+      "price": 19.68
+    },
+    {
+      "ticker": "NITE",
+      "price": 19.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BLFS",
+      "price": 19.149
+    },
+    {
+      "ticker": "SSYS",
+      "price": 19.635
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 19.23
+    },
+    {
+      "ticker": "SSYS",
+      "price": 19.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 19.57
+    },
+    {
+      "ticker": "FIXX",
+      "price": 19.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SSYS",
+      "price": 19.48
+    },
+    {
+      "ticker": "FIXX",
+      "price": 19.97
+    }
+  ]
+}

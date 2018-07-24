@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TWI",
+      "price": 10.25
+    },
+    {
+      "ticker": "DF",
+      "price": 9.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IIJI",
+      "price": 10.001
+    },
+    {
+      "ticker": "VIPS",
+      "price": 10.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VIPS",
+      "price": 9.995
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.123
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTAI",
+      "price": 10.01
+    },
+    {
+      "ticker": "EIGI",
+      "price": 10.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGI",
+      "price": 10.025
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OVID",
+      "price": 10.23
+    },
+    {
+      "ticker": "AOBC",
+      "price": 10.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OVID",
+      "price": 10.17
+    },
+    {
+      "ticker": "BAS",
+      "price": 10.22
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.555
+    },
+    {
+      "ticker": "CGO",
+      "price": 14.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.545
+    },
+    {
+      "ticker": "CGO",
+      "price": 14.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.3732
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.5527
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.3501
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.5499
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTSV",
+      "price": 16.4966
+    },
+    {
+      "ticker": "ARWR",
+      "price": 17.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTSV",
+      "price": 16.53
+    },
+    {
+      "ticker": "ARWR",
+      "price": 17.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 16.92
+    },
+    {
+      "ticker": "GTXI",
+      "price": 18.635
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTXI",
+      "price": 18.61
+    },
+    {
+      "ticker": "MSON",
+      "price": 16.005
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CCT",
+      "price": 16.71
+    },
+    {
+      "ticker": "MSON",
+      "price": 16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CCT",
+      "price": 16.77
+    },
+    {
+      "ticker": "GTXI",
+      "price": 18.61
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CCT",
+      "price": 16.88
+    },
+    {
+      "ticker": "GTXI",
+      "price": 18.69
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 17.28
+    },
+    {
+      "ticker": "ACAD",
+      "price": 16.61
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TTMI",
+      "price": 17.8
+    },
+    {
+      "ticker": "GLYC",
+      "price": 17.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMI",
+      "price": 17.87
+    },
+    {
+      "ticker": "ARWR",
+      "price": 16.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NCSM",
+      "price": 15.41
+    },
+    {
+      "ticker": "GLYC",
+      "price": 17.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCSM",
+      "price": 15.46
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARNC",
+      "price": 19.285
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.83
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSTE",
+      "price": 16.1
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.905
+    }
+  ]
+}

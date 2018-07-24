@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "APLS",
+      "price": 18.4
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.7801
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APLS",
+      "price": 18.25
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "APLS",
+      "price": 18.24
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "APLS",
+      "price": 18.25
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.8001
+    }
+  ]
+}

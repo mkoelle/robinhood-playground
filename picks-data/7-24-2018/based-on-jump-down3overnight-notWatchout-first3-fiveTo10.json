@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "TKC",
+      "price": 5.83
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TKC",
+      "price": 5.85
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.55
+    },
+    {
+      "ticker": "ASPN",
+      "price": 4.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TKC",
+      "price": 5.84
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.55
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TKC",
+      "price": 5.855
+    },
+    {
+      "ticker": "CNFR",
+      "price": 6.925
+    },
+    {
+      "ticker": "FINZ",
+      "price": 7.04
+    }
+  ]
+}

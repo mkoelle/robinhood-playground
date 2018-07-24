@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFL",
+      "price": 10.12
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "QNST",
+      "price": 14.01
+    },
+    {
+      "ticker": "GFN",
+      "price": 14.025
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AFIN",
+      "price": 13.7936
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFIN",
+      "price": 14.4077
+    },
+    {
+      "ticker": "XENE",
+      "price": 10.2485
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AFIN",
+      "price": 14.15
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AFIN",
+      "price": 14.19
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AFIN",
+      "price": 14.14
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.19
+    }
+  ]
+}

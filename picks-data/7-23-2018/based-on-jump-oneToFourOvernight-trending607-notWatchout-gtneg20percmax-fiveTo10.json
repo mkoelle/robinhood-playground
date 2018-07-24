@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "LLNW",
+      "price": 5.1786
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.48
+    },
+    {
+      "ticker": "WTI",
+      "price": 9.0494
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.21
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LLNW",
+      "price": 5.14
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.465
+    },
+    {
+      "ticker": "WTI",
+      "price": 9.02
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.21
+    },
+    {
+      "ticker": "GER",
+      "price": 6.486
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LLNW",
+      "price": 5.085
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.495
+    },
+    {
+      "ticker": "WTI",
+      "price": 8.955
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.21
+    },
+    {
+      "ticker": "GER",
+      "price": 6.486
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LLNW",
+      "price": 5.1
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.5
+    },
+    {
+      "ticker": "WTI",
+      "price": 9.01
+    },
+    {
+      "ticker": "CATS",
+      "price": 7.2848
+    },
+    {
+      "ticker": "GER",
+      "price": 6.47
+    }
+  ]
+}

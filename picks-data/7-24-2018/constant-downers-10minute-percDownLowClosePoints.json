@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GST",
+      "price": 0.14
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.29
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GST",
+      "price": 0.1305
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.6419
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.41
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GST",
+      "price": 0.1268
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.625
+    },
+    {
+      "ticker": "STAF",
+      "price": 2.42
+    }
+  ]
+}

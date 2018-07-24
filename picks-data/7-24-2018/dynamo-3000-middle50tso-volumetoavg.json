@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CLDX",
+      "price": 0.5098
+    },
+    {
+      "ticker": "CODA",
+      "price": 4.9875
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FBIO",
+      "price": 2.62
+    },
+    {
+      "ticker": "ANH",
+      "price": 4.964
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OTIC",
+      "price": 3.725
+    },
+    {
+      "ticker": "NSPR",
+      "price": 0.2299
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMMT",
+      "price": 2.5708
+    },
+    {
+      "ticker": "HBP",
+      "price": 4.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EKSO",
+      "price": 1.9582
+    },
+    {
+      "ticker": "NVFY",
+      "price": 1.79
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SORL",
+      "price": 4.99
+    },
+    {
+      "ticker": "TNK",
+      "price": 1.02
+    }
+  ],
+  "381": [
+    {
+      "ticker": "STRM",
+      "price": 1.4
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.2027
+    }
+  ]
+}

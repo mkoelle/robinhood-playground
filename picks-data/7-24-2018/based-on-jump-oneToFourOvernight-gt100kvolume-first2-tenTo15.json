@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNHI",
+      "price": 10.435
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNHI",
+      "price": 10.385
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.945
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 10.36
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNHI",
+      "price": 10.35
+    },
+    {
+      "ticker": "CLF",
+      "price": 11.215
+    }
+  ]
+}

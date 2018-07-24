@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EEX",
+      "price": 19.87
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MYOV",
+      "price": 19.64
+    },
+    {
+      "ticker": "FTGC",
+      "price": 19.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EDUC",
+      "price": 19.8271
+    },
+    {
+      "ticker": "MYOV",
+      "price": 19.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MYOV",
+      "price": 19.64
+    },
+    {
+      "ticker": "MMD",
+      "price": 19.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PEO",
+      "price": 19.7534
+    },
+    {
+      "ticker": "DAR",
+      "price": 19.865
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BSCP",
+      "price": 19.75
+    },
+    {
+      "ticker": "PFXF",
+      "price": 19.64
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BSCP",
+      "price": 19.7501
+    },
+    {
+      "ticker": "MTGE",
+      "price": 19.725
+    }
+  ]
+}

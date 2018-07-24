@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "CPHC",
+      "price": 15.25
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.29
+    },
+    {
+      "ticker": "USO",
+      "price": 14.3351
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLF",
+      "price": 10.315
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.28
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.12
+    },
+    {
+      "ticker": "USO",
+      "price": 14.3446
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLF",
+      "price": 10.28
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.28
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.11
+    },
+    {
+      "ticker": "USO",
+      "price": 14.3546
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLF",
+      "price": 10.45
+    },
+    {
+      "ticker": "UBCP",
+      "price": 13.45
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.205
+    },
+    {
+      "ticker": "DBO",
+      "price": 12.14
+    },
+    {
+      "ticker": "USO",
+      "price": 14.38
+    }
+  ]
+}

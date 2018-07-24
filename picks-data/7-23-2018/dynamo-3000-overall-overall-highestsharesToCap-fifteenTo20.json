@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "REPL",
+      "price": 14.75
+    },
+    {
+      "ticker": "AFTY",
+      "price": 15.175
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFTY",
+      "price": 15.116
+    },
+    {
+      "ticker": "TYO",
+      "price": 15.14
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "LCNB",
+      "price": 19.0284
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RECN",
+      "price": 15.075
+    },
+    {
+      "ticker": "LCNB",
+      "price": 19.0836
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 15.075
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 15.15
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MSON",
+      "price": 15.0742
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.125
+    }
+  ]
+}

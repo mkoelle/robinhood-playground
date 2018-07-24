@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSAT",
+      "price": 0.445
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMEI",
+      "price": 2.18
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALIM",
+      "price": 1.079
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3813
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KMPH",
+      "price": 4.5
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIBT",
+      "price": 2.45
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNN",
+      "price": 0.465
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JMEI",
+      "price": 2.17
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.31
+    }
+  ]
+}

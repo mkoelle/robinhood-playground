@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "USAT",
+      "price": 15.15
+    },
+    {
+      "ticker": "PUMP",
+      "price": 15.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SIEB",
+      "price": 15.0225
+    },
+    {
+      "ticker": "VECO",
+      "price": 15.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 15.125
+    },
+    {
+      "ticker": "DVAX",
+      "price": 15.119
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PUMP",
+      "price": 15.16
+    },
+    {
+      "ticker": "DVAX",
+      "price": 15.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PUMP",
+      "price": 15.215
+    },
+    {
+      "ticker": "DVAX",
+      "price": 15.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PUMP",
+      "price": 15.019
+    },
+    {
+      "ticker": "ACY",
+      "price": 15.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PUMP",
+      "price": 14.99
+    },
+    {
+      "ticker": "SSBI",
+      "price": 15.405
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SECO",
+      "price": 11.74
+    },
+    {
+      "ticker": "SIEB",
+      "price": 14.92
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SECO",
+      "price": 11.4
+    },
+    {
+      "ticker": "HTZ",
+      "price": 13.755
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WATT",
+      "price": 13.255
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.34
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRNA",
+      "price": 11.84
+    },
+    {
+      "ticker": "WATT",
+      "price": 13.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRNA",
+      "price": 11.84
+    },
+    {
+      "ticker": "SGMO",
+      "price": 14.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGMO",
+      "price": 14.425
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGMO",
+      "price": 14.4
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.7
+    }
+  ]
+}

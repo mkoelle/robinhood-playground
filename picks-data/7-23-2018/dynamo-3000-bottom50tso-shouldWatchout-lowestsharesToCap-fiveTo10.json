@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UVXY",
+      "price": 9.5399
+    },
+    {
+      "ticker": "BKD",
+      "price": 9.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INOV",
+      "price": 9.95
+    },
+    {
+      "ticker": "MRAM",
+      "price": 9.028
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRAM",
+      "price": 8.96
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.445
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MRAM",
+      "price": 9.06
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MRAM",
+      "price": 9.16
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.425
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRAM",
+      "price": 9.1
+    },
+    {
+      "ticker": "KEYW",
+      "price": 8.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "KEYW",
+      "price": 8.79
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.475
+    }
+  ]
+}

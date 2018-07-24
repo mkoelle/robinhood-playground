@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 10
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SCON",
+      "price": 10.6
+    },
+    {
+      "ticker": "AAC",
+      "price": 10.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LDF",
+      "price": 10.4637
+    },
+    {
+      "ticker": "TLI",
+      "price": 10.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AP",
+      "price": 10.025
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.0323
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVU",
+      "price": 10.0323
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CVU",
+      "price": 10.09
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CVU",
+      "price": 10.1
+    },
+    {
+      "ticker": "LDF",
+      "price": 10.44
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 6.87
+    },
+    {
+      "ticker": "AKS",
+      "price": 5.1995
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ENPH",
+      "price": 6.83
+    },
+    {
+      "ticker": "AKS",
+      "price": 5.305
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.095
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ENPH",
+      "price": 6.79
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.195
+    },
+    {
+      "ticker": "AKS",
+      "price": 5.22
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ENPH",
+      "price": 6.86
+    },
+    {
+      "ticker": "BBVA",
+      "price": 7.18
+    },
+    {
+      "ticker": "AKS",
+      "price": 5.315
+    }
+  ]
+}

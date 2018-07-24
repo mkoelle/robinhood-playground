@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "AXTI",
+      "price": 9.15
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AXTI",
+      "price": 8.8
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.52
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.2899
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AXTI",
+      "price": 8.525
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.52
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.297
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXTI",
+      "price": 8.475
+    },
+    {
+      "ticker": "NEXT",
+      "price": 6.52
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.345
+    }
+  ]
+}

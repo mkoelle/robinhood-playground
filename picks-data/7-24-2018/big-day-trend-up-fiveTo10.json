@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "CWBR",
+      "price": 6.19
+    },
+    {
+      "ticker": "IDSY",
+      "price": 7
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.79
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.78
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CWBR",
+      "price": 6.11
+    },
+    {
+      "ticker": "IDSY",
+      "price": 6.82
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.9
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.57
+    },
+    {
+      "ticker": "YIN",
+      "price": 8.06
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CWBR",
+      "price": 6.11
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.95
+    },
+    {
+      "ticker": "FOMX",
+      "price": 5.905
+    },
+    {
+      "ticker": "XSPL",
+      "price": 6.57
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.87
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CWBR",
+      "price": 6
+    },
+    {
+      "ticker": "YIN",
+      "price": 7.99
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.975
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.9
+    },
+    {
+      "ticker": "NTWK",
+      "price": 5.65
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GNK",
+      "price": 15.08
+    },
+    {
+      "ticker": "VNM",
+      "price": 15.775
+    },
+    {
+      "ticker": "PARR",
+      "price": 16.99
+    }
+  ],
+  "242": [
+    {
+      "ticker": "XES",
+      "price": 16.28
+    },
+    {
+      "ticker": "TMF",
+      "price": 18.331
+    },
+    {
+      "ticker": "MIXT",
+      "price": 17.285
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NCS",
+      "price": 16.225
+    },
+    {
+      "ticker": "DM",
+      "price": 16.15
+    },
+    {
+      "ticker": "MIXT",
+      "price": 17
+    }
+  ]
+}

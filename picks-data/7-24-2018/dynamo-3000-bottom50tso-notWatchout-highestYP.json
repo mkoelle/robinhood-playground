@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RIBT",
+      "price": 2.3922
+    },
+    {
+      "ticker": "BDSI",
+      "price": 2.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RIBT",
+      "price": 2.3198
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIBT",
+      "price": 2.32
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.529
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BTX",
+      "price": 2.435
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATHX",
+      "price": 1.975
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5081
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIBT",
+      "price": 2.27
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.97
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RIBT",
+      "price": 2.25
+    },
+    {
+      "ticker": "ATHX",
+      "price": 1.966
+    }
+  ]
+}

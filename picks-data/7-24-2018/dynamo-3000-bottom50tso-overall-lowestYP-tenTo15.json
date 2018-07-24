@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LOMA",
+      "price": 10.48
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WATT",
+      "price": 13.81
+    },
+    {
+      "ticker": "DNLI",
+      "price": 13.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 10.04
+    },
+    {
+      "ticker": "ELF",
+      "price": 14.0999
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTSI",
+      "price": 11.42
+    },
+    {
+      "ticker": "DNLI",
+      "price": 13.1357
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 10.1899
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.385
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 12.5057
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.295
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBIO",
+      "price": 10.23
+    },
+    {
+      "ticker": "BAS",
+      "price": 10.22
+    }
+  ]
+}

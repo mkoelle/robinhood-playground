@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FORD",
+      "price": 1.939
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FORD",
+      "price": 1.87
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FORD",
+      "price": 1.89
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FORD",
+      "price": 1.93
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.05
+    }
+  ]
+}

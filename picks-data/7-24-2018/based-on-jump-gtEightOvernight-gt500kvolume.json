@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "EYEG",
+      "price": 0.84
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.36
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0299
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EYEG",
+      "price": 0.75
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.54
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EYEG",
+      "price": 0.7331
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.46
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EYEG",
+      "price": 0.708
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5036
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.4707
+    },
+    {
+      "ticker": "TOPS",
+      "price": 1.0401
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.945
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AKRX",
+      "price": 17.38
+    },
+    {
+      "ticker": "GLYC",
+      "price": 16.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGP",
+      "price": 16.364
+    },
+    {
+      "ticker": "GLYC",
+      "price": 16.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLYC",
+      "price": 16.67
+    },
+    {
+      "ticker": "WDR",
+      "price": 19.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLYC",
+      "price": 16.76
+    },
+    {
+      "ticker": "WDR",
+      "price": 19.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLYC",
+      "price": 16.78
+    },
+    {
+      "ticker": "FLEX",
+      "price": 15.255
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AZUL",
+      "price": 19.43
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AZUL",
+      "price": 19.455
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16.65
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PRCP",
+      "price": 10.59
+    },
+    {
+      "ticker": "JAX",
+      "price": 11.15
+    },
+    {
+      "ticker": "PBD",
+      "price": 12
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CLFD",
+      "price": 11.35
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.242
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.1
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RLH",
+      "price": 11.75
+    },
+    {
+      "ticker": "IMTE",
+      "price": 13
+    },
+    {
+      "ticker": "DGICA",
+      "price": 13.8
+    }
+  ]
+}

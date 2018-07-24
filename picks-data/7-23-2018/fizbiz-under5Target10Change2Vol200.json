@@ -1,0 +1,88 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "BTX",
+      "price": 2.49
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.88
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.095
+    },
+    {
+      "ticker": "HL",
+      "price": 3.32
+    }
+  ],
+  "120": [
+    {
+      "ticker": "BTX",
+      "price": 2.6
+    },
+    {
+      "ticker": "PPDF",
+      "price": 4.37
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.9
+    },
+    {
+      "ticker": "HL",
+      "price": 3.3648
+    },
+    {
+      "ticker": "LC",
+      "price": 4.43
+    }
+  ],
+  "180": [
+    {
+      "ticker": "CYH",
+      "price": 3.0469
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.61
+    },
+    {
+      "ticker": "PPDF",
+      "price": 4.31
+    },
+    {
+      "ticker": "CLNE",
+      "price": 2.885
+    },
+    {
+      "ticker": "HL",
+      "price": 3.38
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CYH",
+      "price": 3.095
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.62
+    },
+    {
+      "ticker": "HL",
+      "price": 3.385
+    },
+    {
+      "ticker": "LC",
+      "price": 4.485
+    },
+    {
+      "ticker": "MFG",
+      "price": 3.525
+    }
+  ]
+}

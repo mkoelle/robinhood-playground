@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "SCWX",
+      "price": 14.35
+    }
+  ],
+  "50": [
+    {
+      "ticker": "SCWX",
+      "price": 14.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCWX",
+      "price": 14.23
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.31
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.745
+    }
+  ],
+  "300": [
+    {
+      "ticker": "SCWX",
+      "price": 13.89
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.0572
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SCWX",
+      "price": 13.93
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.215
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.8
+    }
+  ],
+  "600": [
+    {
+      "ticker": "SCWX",
+      "price": 13.83
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.11
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.78
+    }
+  ]
+}

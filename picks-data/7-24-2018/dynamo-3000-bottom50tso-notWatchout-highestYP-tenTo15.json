@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRNA",
+      "price": 12.889
+    },
+    {
+      "ticker": "NDLS",
+      "price": 11.175
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATTU",
+      "price": 12.6
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 14.855
+    },
+    {
+      "ticker": "FLWS",
+      "price": 13.825
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAT",
+      "price": 14.375
+    },
+    {
+      "ticker": "KIN",
+      "price": 13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 11.125
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 10.8
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.325
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 10.875
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.375
+    }
+  ]
+}

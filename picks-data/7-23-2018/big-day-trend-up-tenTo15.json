@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "JAG",
+      "price": 13.9
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.135
+    },
+    {
+      "ticker": "MGTX",
+      "price": 10.425
+    }
+  ],
+  "35": [
+    {
+      "ticker": "JAG",
+      "price": 13.895
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.696
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.48
+    },
+    {
+      "ticker": "LX",
+      "price": 10.5895
+    }
+  ],
+  "90": [
+    {
+      "ticker": "JAG",
+      "price": 13.91
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.9
+    },
+    {
+      "ticker": "LX",
+      "price": 10.87
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.75
+    },
+    {
+      "ticker": "INS",
+      "price": 10.5374
+    }
+  ],
+  "223": [
+    {
+      "ticker": "LX",
+      "price": 11.695
+    },
+    {
+      "ticker": "JAG",
+      "price": 14
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.9
+    },
+    {
+      "ticker": "INS",
+      "price": 10.6597
+    },
+    {
+      "ticker": "SURF",
+      "price": 13.82
+    }
+  ]
+}

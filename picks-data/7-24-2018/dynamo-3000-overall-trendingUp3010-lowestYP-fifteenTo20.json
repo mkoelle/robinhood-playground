@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMI",
+      "price": 17.7
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.335
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DM",
+      "price": 16.2
+    },
+    {
+      "ticker": "KEN",
+      "price": 15.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMI",
+      "price": 17.87
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DM",
+      "price": 16.125
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.845
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DM",
+      "price": 16.175
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DM",
+      "price": 16.2
+    },
+    {
+      "ticker": "AKRX",
+      "price": 16.9699
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DM",
+      "price": 16.125
+    },
+    {
+      "ticker": "AKRX",
+      "price": 16.995
+    }
+  ]
+}
