@@ -84,5 +84,27 @@
       "ticker": "SGOC",
       "price": 1.139
     }
+  ],
+  "600": [
+    {
+      "ticker": "ARLZ",
+      "price": 0.3634
+    },
+    {
+      "ticker": "SGOC",
+      "price": 1.1
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.72
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.54
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.4
+    }
   ]
 }

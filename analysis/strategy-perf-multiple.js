@@ -53,7 +53,23 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         stratObj[day] = dayStrats;
     }
 
-    const allStrategies = stratObj[days[0]]['next-day-9'].map(obj => obj.strategyName);
+    console.log('loaded strats into memory');
+
+    // const allStrategies = stratObj[days[0]]['next-day-9'].map(obj => obj.strategyName);
+
+    const allStrategies = (() => {
+        const stratNames = [];
+        Object.keys(stratObj).forEach(date => {
+            Object.keys(stratObj[date]).forEach(timeKey => {
+                const strats = stratObj[date][timeKey];
+                strats.forEach(strat => {
+                    stratNames.push(strat.strategyName);
+                });
+            });
+        });
+        return [...new Set(stratNames)];
+    })();
+    console.log('num strategies', allStrategies.length);
     // const allStrategies = [
     //     'constant-risers-5minute-percUpHighClosePoints-lowovernightjumps-100',
     //     'based-on-jump-down3overnight-trending35257-notWatchout-first1-fiveTo10-30',

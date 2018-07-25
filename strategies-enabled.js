@@ -112,7 +112,7 @@ const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-    '[topPercUpJuly16]'
+    'based-on-jump-down5overnight-notWatchout-gtneg20percmax-first1-fiveTo10-0'
 ];
 
 const cheapestPicksEmailObj = [
