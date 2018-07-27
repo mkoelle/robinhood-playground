@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "MARA",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AGRX",
+      "price": 0.34
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.3166
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AGRX",
+      "price": 0.342
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.43
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AGRX",
+      "price": 0.3322
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.455
+    }
+  ]
+}

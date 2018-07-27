@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EIGI",
+      "price": 9.45
+    },
+    {
+      "ticker": "CALX",
+      "price": 7.1695
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXU",
+      "price": 6.14
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGI",
+      "price": 9.1
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 8.0201
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.0501
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 7.08
+    },
+    {
+      "ticker": "CBIO",
+      "price": 9.97
+    }
+  ]
+}

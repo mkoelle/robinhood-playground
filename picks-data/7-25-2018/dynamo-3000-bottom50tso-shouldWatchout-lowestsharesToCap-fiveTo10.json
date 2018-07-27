@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 9.8601
+    },
+    {
+      "ticker": "RDHL",
+      "price": 10
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FATE",
+      "price": 9.53
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TWI",
+      "price": 9.91
+    },
+    {
+      "ticker": "AOBC",
+      "price": 9.845
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWI",
+      "price": 9.955
+    },
+    {
+      "ticker": "AOBC",
+      "price": 9.7841
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 9.9435
+    },
+    {
+      "ticker": "LFVN",
+      "price": 9.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LFVN",
+      "price": 9.82
+    },
+    {
+      "ticker": "AOBC",
+      "price": 9.795
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFVN",
+      "price": 9.78
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.29
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AWX",
+      "price": 3.29
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.4622
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AWX",
+      "price": 3.1284
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UUUU",
+      "price": 2.55
+    },
+    {
+      "ticker": "AWX",
+      "price": 3.77
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UUUU",
+      "price": 2.51
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UUUU",
+      "price": 2.51
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UUUU",
+      "price": 2.496
+    },
+    {
+      "ticker": "UAN",
+      "price": 3.59
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UUUU",
+      "price": 2.5
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.6562
+    }
+  ]
+}

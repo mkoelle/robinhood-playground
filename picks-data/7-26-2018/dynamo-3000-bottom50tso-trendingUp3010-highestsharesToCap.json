@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "IPAS",
+      "price": 0.3799
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.6148
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.3372
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EYEG",
+      "price": 0.5385
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.7462
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EYEG",
+      "price": 0.512
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.598
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EYEG",
+      "price": 0.5194
+    },
+    {
+      "ticker": "TOPS",
+      "price": 0.98
+    }
+  ]
+}

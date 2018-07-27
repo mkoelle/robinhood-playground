@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RELL",
+      "price": 10.3989
+    },
+    {
+      "ticker": "BSTI",
+      "price": 10.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RELL",
+      "price": 10.3116
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMGN",
+      "price": 9.9742
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMGN",
+      "price": 10.05
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMGN",
+      "price": 10.06
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.165
+    }
+  ]
+}

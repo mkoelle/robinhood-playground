@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MAT",
+      "price": 15.285
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.8
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.83
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.77
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.06
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.77
+    }
+  ]
+}

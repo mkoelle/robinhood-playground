@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "I",
+      "price": 19.3
+    },
+    {
+      "ticker": "UA",
+      "price": 19.2816
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PCMI",
+      "price": 16.275
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIEB",
+      "price": 15.4
+    },
+    {
+      "ticker": "PCMI",
+      "price": 16.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTXI",
+      "price": 18.11
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GTXI",
+      "price": 17.47
+    },
+    {
+      "ticker": "PCMI",
+      "price": 16.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GTXI",
+      "price": 17.52
+    },
+    {
+      "ticker": "PCMI",
+      "price": 15.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GTXI",
+      "price": 17.65
+    },
+    {
+      "ticker": "PCMI",
+      "price": 15.8
+    }
+  ]
+}

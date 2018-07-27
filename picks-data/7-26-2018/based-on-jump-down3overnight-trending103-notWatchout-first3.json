@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NMR",
+      "price": 4.75
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SFUN",
+      "price": 3.44
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.8
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.4232
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SFUN",
+      "price": 3.5
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.8015
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SFUN",
+      "price": 3.54
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.81
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.45
+    }
+  ]
+}

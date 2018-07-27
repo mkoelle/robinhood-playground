@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAII",
+      "price": 10.16
+    },
+    {
+      "ticker": "ENDP",
+      "price": 11.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GOAU",
+      "price": 12.59
+    },
+    {
+      "ticker": "REDU",
+      "price": 13.1665
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVRA",
+      "price": 12.8
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.04
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BSTI",
+      "price": 10.55
+    },
+    {
+      "ticker": "CPE",
+      "price": 11.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNET",
+      "price": 11.05
+    },
+    {
+      "ticker": "SSFN",
+      "price": 10.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSIQ",
+      "price": 13.3015
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAH",
+      "price": 12.275
+    },
+    {
+      "ticker": "FLWS",
+      "price": 14.375
+    }
+  ]
+}

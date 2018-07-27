@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EGLE",
+      "price": 5.72
+    },
+    {
+      "ticker": "XONE",
+      "price": 7.36
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PHK",
+      "price": 8.67
+    },
+    {
+      "ticker": "NCV",
+      "price": 7.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AOD",
+      "price": 8.89
+    },
+    {
+      "ticker": "INB",
+      "price": 9.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMI",
+      "price": 9.77
+    },
+    {
+      "ticker": "ICLN",
+      "price": 9.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIM",
+      "price": 9.86
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.74
+    }
+  ]
+}

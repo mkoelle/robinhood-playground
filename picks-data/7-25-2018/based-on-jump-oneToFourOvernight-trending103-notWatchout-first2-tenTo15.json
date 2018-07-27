@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LX",
+      "price": 12.04
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LX",
+      "price": 12.01
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.12
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LX",
+      "price": 12.1
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.045
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LX",
+      "price": 12.22
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.005
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ACBI",
+      "price": 17.3828
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.125
+    },
+    {
+      "ticker": "MYFW",
+      "price": 18.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACBI",
+      "price": 18.55
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "IIIV",
+      "price": 16.33
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACBI",
+      "price": 18.8
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "EEX",
+      "price": 19.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACBI",
+      "price": 19.2
+    },
+    {
+      "ticker": "KIM",
+      "price": 16.99
+    },
+    {
+      "ticker": "EEX",
+      "price": 19.815
+    }
+  ]
+}

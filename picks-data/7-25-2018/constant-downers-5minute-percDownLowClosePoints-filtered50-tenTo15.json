@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SURF",
+      "price": 11.99
+    },
+    {
+      "ticker": "AFI",
+      "price": 12.95
+    },
+    {
+      "ticker": "USX",
+      "price": 13.77
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CBB",
+      "price": 12.675
+    },
+    {
+      "ticker": "REV",
+      "price": 14.5
+    },
+    {
+      "ticker": "CNST",
+      "price": 10.91
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CBB",
+      "price": 12.8
+    },
+    {
+      "ticker": "CUE",
+      "price": 11.16
+    },
+    {
+      "ticker": "CNST",
+      "price": 10.89
+    }
+  ]
+}

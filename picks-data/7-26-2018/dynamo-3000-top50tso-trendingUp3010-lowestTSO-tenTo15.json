@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FLWS",
+      "price": 14.475
+    },
+    {
+      "ticker": "RMBS",
+      "price": 13.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLF",
+      "price": 10.575
+    },
+    {
+      "ticker": "TAX",
+      "price": 10.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOCO",
+      "price": 11.9281
+    },
+    {
+      "ticker": "PSDO",
+      "price": 13.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RYI",
+      "price": 12.625
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 14.54
+    },
+    {
+      "ticker": "HABT",
+      "price": 10.95
+    }
+  ]
+}

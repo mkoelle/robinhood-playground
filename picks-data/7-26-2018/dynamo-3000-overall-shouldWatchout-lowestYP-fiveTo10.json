@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RKDA",
+      "price": 7.09
+    },
+    {
+      "ticker": "INNT",
+      "price": 7.1828
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVX",
+      "price": 5.51
+    },
+    {
+      "ticker": "RKDA",
+      "price": 7.067
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.51
+    },
+    {
+      "ticker": "RKDA",
+      "price": 7.111
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 8.0201
+    },
+    {
+      "ticker": "LIVX",
+      "price": 5.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 7.08
+    },
+    {
+      "ticker": "LIVX",
+      "price": 5.4101
+    }
+  ]
+}

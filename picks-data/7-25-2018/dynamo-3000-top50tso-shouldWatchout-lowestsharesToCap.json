@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AGTC",
+      "price": 4.2
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "APVO",
+      "price": 4.91
+    },
+    {
+      "ticker": "PPDF",
+      "price": 4.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "APVO",
+      "price": 4.98
+    },
+    {
+      "ticker": "PPDF",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PPDF",
+      "price": 4.92
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PPDF",
+      "price": 4.89
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.39
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PPDF",
+      "price": 4.94
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PPDF",
+      "price": 4.93
+    },
+    {
+      "ticker": "TRVG",
+      "price": 4.37
+    }
+  ]
+}

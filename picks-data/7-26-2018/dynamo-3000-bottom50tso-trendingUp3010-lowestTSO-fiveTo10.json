@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LXU",
+      "price": 6.75
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.5249
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXU",
+      "price": 6.14
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.335
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDE",
+      "price": 7.4
+    },
+    {
+      "ticker": "LXU",
+      "price": 6.5556
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CDE",
+      "price": 7.325
+    },
+    {
+      "ticker": "LXU",
+      "price": 6.64
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDE",
+      "price": 7.3125
+    },
+    {
+      "ticker": "DHCP",
+      "price": 5.7908
+    }
+  ]
+}

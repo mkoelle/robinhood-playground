@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "TST",
+      "price": 2.38
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.29
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.99
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.605
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "TST",
+      "price": 2.39
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.24
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.97
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.85
+    },
+    {
+      "ticker": "TST",
+      "price": 2.38
+    },
+    {
+      "ticker": "BTE",
+      "price": 3.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.95
+    },
+    {
+      "ticker": "WTT",
+      "price": 2.0398
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.9
+    },
+    {
+      "ticker": "TST",
+      "price": 2.38
+    }
+  ]
+}

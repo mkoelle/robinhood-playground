@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ABEV",
+      "price": 5.27
+    },
+    {
+      "ticker": "WPG",
+      "price": 8.02
+    },
+    {
+      "ticker": "ESV",
+      "price": 6.71
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABEV",
+      "price": 5.28
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.83
+    },
+    {
+      "ticker": "TKC",
+      "price": 6.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABEV",
+      "price": 5.225
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.86
+    },
+    {
+      "ticker": "TKC",
+      "price": 6.4693
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABEV",
+      "price": 5.25
+    },
+    {
+      "ticker": "FEIM",
+      "price": 7.79
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.93
+    }
+  ]
+}

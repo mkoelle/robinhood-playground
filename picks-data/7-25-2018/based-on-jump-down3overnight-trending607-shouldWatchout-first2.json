@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MARA",
+      "price": 1.35
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARA",
+      "price": 1.3166
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MARA",
+      "price": 1.33
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MARA",
+      "price": 1.3362
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.44
+    }
+  ]
+}

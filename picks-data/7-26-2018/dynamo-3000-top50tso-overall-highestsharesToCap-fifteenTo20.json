@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AFTY",
+      "price": 15.27
+    },
+    {
+      "ticker": "GNK",
+      "price": 15.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "COWN",
+      "price": 15.1
+    },
+    {
+      "ticker": "VNTR",
+      "price": 15.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VECO",
+      "price": 15
+    },
+    {
+      "ticker": "REV",
+      "price": 15.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "COWN",
+      "price": 14.95
+    },
+    {
+      "ticker": "REV",
+      "price": 15.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COWN",
+      "price": 15.05
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.675
+    }
+  ]
+}

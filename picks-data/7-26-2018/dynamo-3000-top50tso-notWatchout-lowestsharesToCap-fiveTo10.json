@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SLVP",
+      "price": 9.7495
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRGX",
+      "price": 9.5
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRR",
+      "price": 9.87
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNOV",
+      "price": 9.72
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MITK",
+      "price": 9.705
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.7
+    }
+  ]
+}

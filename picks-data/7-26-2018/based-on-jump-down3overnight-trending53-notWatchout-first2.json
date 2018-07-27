@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SFUN",
+      "price": 3.44
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SFUN",
+      "price": 3.5
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3541
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SFUN",
+      "price": 3.54
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.359
+    }
+  ]
+}

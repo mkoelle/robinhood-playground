@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AI",
+      "price": 10.4001
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SMM",
+      "price": 10.44
+    },
+    {
+      "ticker": "TEI",
+      "price": 10.5935
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOR",
+      "price": 10.5299
+    },
+    {
+      "ticker": "TEI",
+      "price": 10.595
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLPR",
+      "price": 10.36
+    },
+    {
+      "ticker": "RGT",
+      "price": 10.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NLY",
+      "price": 10.49
+    },
+    {
+      "ticker": "FPL",
+      "price": 10.7864
+    }
+  ]
+}

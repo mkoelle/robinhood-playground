@@ -1,0 +1,75 @@
+{
+  "4": [
+    {
+      "ticker": "SNAP",
+      "price": 13.01
+    },
+    {
+      "ticker": "LKSD",
+      "price": 14.16
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.55
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.125
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEP",
+      "price": 10.8999
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.12
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.055
+    },
+    {
+      "ticker": "CLDR",
+      "price": 14.52
+    },
+    {
+      "ticker": "LOMA",
+      "price": 11.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SWCH",
+      "price": 13.43
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.465
+    },
+    {
+      "ticker": "FLEX",
+      "price": 14.92
+    },
+    {
+      "ticker": "JNP",
+      "price": 11.4729
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.63
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.7747
+    }
+  ]
+}

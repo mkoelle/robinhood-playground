@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "LXU",
+      "price": 6.935
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.63
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LXU",
+      "price": 6.65
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.45
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LXU",
+      "price": 6.4611
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.4362
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LXU",
+      "price": 6.2
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.4399
+    }
+  ]
+}

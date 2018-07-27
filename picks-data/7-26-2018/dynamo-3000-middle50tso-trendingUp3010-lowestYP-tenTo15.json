@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DB",
+      "price": 12.305
+    },
+    {
+      "ticker": "AI",
+      "price": 10.4001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOMA",
+      "price": 11.01
+    },
+    {
+      "ticker": "EEP",
+      "price": 10.8999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SWCH",
+      "price": 13.43
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NYH",
+      "price": 10.81
+    },
+    {
+      "ticker": "BOE",
+      "price": 11.1901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CHU",
+      "price": 12.33
+    },
+    {
+      "ticker": "NYH",
+      "price": 10.81
+    }
+  ]
+}

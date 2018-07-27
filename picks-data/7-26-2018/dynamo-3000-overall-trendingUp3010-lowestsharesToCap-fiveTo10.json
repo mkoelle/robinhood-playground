@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.985
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.735
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 10.24
+    },
+    {
+      "ticker": "JHY",
+      "price": 9.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JHY",
+      "price": 9.86
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.87
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7322
+    },
+    {
+      "ticker": "JHY",
+      "price": 9.8771
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7322
+    },
+    {
+      "ticker": "PFSW",
+      "price": 9.98
+    }
+  ]
+}

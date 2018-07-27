@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TORC",
+      "price": 18.8801
+    },
+    {
+      "ticker": "AVX",
+      "price": 19.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TORC",
+      "price": 16.515
+    },
+    {
+      "ticker": "AVX",
+      "price": 19.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TORC",
+      "price": 15.825
+    },
+    {
+      "ticker": "AVX",
+      "price": 19.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TORC",
+      "price": 15.4399
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.08
+    }
+  ]
+}

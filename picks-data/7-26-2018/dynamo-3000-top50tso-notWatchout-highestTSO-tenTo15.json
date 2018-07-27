@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RELL",
+      "price": 10.3989
+    },
+    {
+      "ticker": "CCJ",
+      "price": 11.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CCJ",
+      "price": 11.5
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.3116
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CCJ",
+      "price": 11.515
+    },
+    {
+      "ticker": "RES",
+      "price": 14.235
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLF",
+      "price": 10.85
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNET",
+      "price": 12.05
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.165
+    }
+  ]
+}

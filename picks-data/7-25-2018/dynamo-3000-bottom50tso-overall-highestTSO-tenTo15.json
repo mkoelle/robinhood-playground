@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRK",
+      "price": 10.98
+    },
+    {
+      "ticker": "FAN",
+      "price": 12.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AQ",
+      "price": 13.08
+    },
+    {
+      "ticker": "CENX",
+      "price": 13.0945
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 14.485
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRBA",
+      "price": 14.47
+    },
+    {
+      "ticker": "DRH",
+      "price": 11.875
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MNTX",
+      "price": 12.02
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PLSE",
+      "price": 13.785
+    },
+    {
+      "ticker": "EZPW",
+      "price": 12.175
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ISBC",
+      "price": 12.4
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.5
+    }
+  ]
+}

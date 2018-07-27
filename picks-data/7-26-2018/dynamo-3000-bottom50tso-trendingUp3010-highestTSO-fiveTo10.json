@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TEDU",
+      "price": 8.45
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.5687
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMBO",
+      "price": 6.8
+    },
+    {
+      "ticker": "CSBR",
+      "price": 8.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGLE",
+      "price": 5.62
+    },
+    {
+      "ticker": "CSBR",
+      "price": 9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BBD",
+      "price": 8.12
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 5.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BBD",
+      "price": 8.135
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 5.1
+    }
+  ]
+}

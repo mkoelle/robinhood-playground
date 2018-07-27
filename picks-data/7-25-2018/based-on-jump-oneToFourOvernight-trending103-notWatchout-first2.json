@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.9
+    }
+  ]
+}

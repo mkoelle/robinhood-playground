@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AUMN",
+      "price": 0.3
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAVB",
+      "price": 0.1842
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.2821
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAVB",
+      "price": 0.1799
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2376
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAVB",
+      "price": 0.1766
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.249
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAVB",
+      "price": 0.1751
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.246
+    }
+  ]
+}

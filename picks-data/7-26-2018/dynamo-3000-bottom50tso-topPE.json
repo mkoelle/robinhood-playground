@@ -1,0 +1,56 @@
+{
+  "4": [
+    {
+      "ticker": "CERC",
+      "price": 4.555
+    },
+    {
+      "ticker": "FENG",
+      "price": 4.05
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.005
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAOP",
+      "price": 1.5
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.0001
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERC",
+      "price": 4.5001
+    },
+    {
+      "ticker": "TAOP",
+      "price": 1.401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.5
+    },
+    {
+      "ticker": "GROW",
+      "price": 2.01
+    },
+    {
+      "ticker": "TAOP",
+      "price": 1.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAOP",
+      "price": 1.36
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CLF",
+      "price": 10.5
+    },
+    {
+      "ticker": "EWZS",
+      "price": 14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HCLP",
+      "price": 14.6
+    },
+    {
+      "ticker": "CEPU",
+      "price": 11.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AFIN",
+      "price": 13.8
+    },
+    {
+      "ticker": "ENDP",
+      "price": 12.065
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR",
+      "price": 11.63
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.669
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 11.65
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.669
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WTI",
+      "price": 8.0651
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 7.76
+    },
+    {
+      "ticker": "ADMA",
+      "price": 5.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 5.8475
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.595
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADMA",
+      "price": 5.84
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADMA",
+      "price": 5.8
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.88
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NLST",
+      "price": 0.1635
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.9658
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1629
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.162
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1491
+    }
+  ]
+}

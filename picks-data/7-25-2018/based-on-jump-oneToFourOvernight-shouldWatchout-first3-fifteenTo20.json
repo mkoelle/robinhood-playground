@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKRX",
+      "price": 17.44
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.89
+    },
+    {
+      "ticker": "TRNC",
+      "price": 16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKRX",
+      "price": 17.68
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.85
+    },
+    {
+      "ticker": "TRNC",
+      "price": 15.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKRX",
+      "price": 17.71
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.85
+    },
+    {
+      "ticker": "TRNC",
+      "price": 15.8286
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKRX",
+      "price": 17.9
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.81
+    },
+    {
+      "ticker": "CMCT",
+      "price": 15.345
+    }
+  ]
+}

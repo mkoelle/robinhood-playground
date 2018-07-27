@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SLD",
+      "price": 16.45
+    },
+    {
+      "ticker": "CVA",
+      "price": 16.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SXCP",
+      "price": 16.75
+    },
+    {
+      "ticker": "GFF",
+      "price": 18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMPH",
+      "price": 17.5
+    },
+    {
+      "ticker": "EAF",
+      "price": 19.73
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OSBC",
+      "price": 15.45
+    },
+    {
+      "ticker": "FNSR",
+      "price": 17.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COWN",
+      "price": 15.05
+    },
+    {
+      "ticker": "FCF",
+      "price": 17.61
+    }
+  ]
+}

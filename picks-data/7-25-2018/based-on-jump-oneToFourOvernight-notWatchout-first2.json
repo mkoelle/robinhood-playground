@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.385
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.888
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.385
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.3798
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.3703
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    }
+  ]
+}

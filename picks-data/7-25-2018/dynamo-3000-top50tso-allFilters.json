@@ -1,0 +1,108 @@
+{
+  "4": [
+    {
+      "ticker": "KOPN",
+      "price": 3.1
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.46
+    },
+    {
+      "ticker": "STCN",
+      "price": 2.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "STCN",
+      "price": 2.09
+    },
+    {
+      "ticker": "CDXC",
+      "price": 4.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BCLI",
+      "price": 4.42
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.58
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2249
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GRPN",
+      "price": 4.985
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.58
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TMQ",
+      "price": 1.9399
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.6051
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2476
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EMX",
+      "price": 1.219
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.6
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.96
+    },
+    {
+      "ticker": "NK",
+      "price": 3.525
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.6201
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHMA",
+      "price": 1.6
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9799
+    },
+    {
+      "ticker": "NK",
+      "price": 3.56
+    },
+    {
+      "ticker": "GSV",
+      "price": 1.63
+    }
+  ]
+}

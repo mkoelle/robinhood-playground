@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RES",
+      "price": 14
+    },
+    {
+      "ticker": "BZH",
+      "price": 13.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JKS",
+      "price": 14.19
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LCI",
+      "price": 12.85
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LCI",
+      "price": 12.725
+    },
+    {
+      "ticker": "RES",
+      "price": 14.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LCI",
+      "price": 12.6
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.13
+    }
+  ]
+}

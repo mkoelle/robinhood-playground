@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "OCUL",
+      "price": 5.68
+    },
+    {
+      "ticker": "EGLE",
+      "price": 5.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PPT",
+      "price": 5.207
+    },
+    {
+      "ticker": "EOD",
+      "price": 5.5136
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INTT",
+      "price": 7.35
+    },
+    {
+      "ticker": "ALLT",
+      "price": 5.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LEO",
+      "price": 7.69
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIM",
+      "price": 9.86
+    },
+    {
+      "ticker": "FPAC",
+      "price": 9.74
+    }
+  ]
+}

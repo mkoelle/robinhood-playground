@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VRAY",
+      "price": 11.16
+    },
+    {
+      "ticker": "NTRP",
+      "price": 9.935
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VRAY",
+      "price": 12.47
+    },
+    {
+      "ticker": "FRD",
+      "price": 10.0901
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 13.1
+    },
+    {
+      "ticker": "FRD",
+      "price": 10.248
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 13.1401
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TORC",
+      "price": 14.07
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TORC",
+      "price": 14.52
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 13.415
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.09
+    }
+  ]
+}

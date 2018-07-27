@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SCOR",
+      "price": 20.55
+    },
+    {
+      "ticker": "GMLP",
+      "price": 15.829
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACAD",
+      "price": 16.13
+    },
+    {
+      "ticker": "GLYC",
+      "price": 15.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGH",
+      "price": 15.05
+    },
+    {
+      "ticker": "OMI",
+      "price": 17.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RUSS",
+      "price": 18.04
+    },
+    {
+      "ticker": "BBBY",
+      "price": 18.9034
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWO",
+      "price": 15.595
+    },
+    {
+      "ticker": "OSUR",
+      "price": 16.92
+    }
+  ]
+}

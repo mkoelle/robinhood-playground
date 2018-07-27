@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CVM",
+      "price": 0.92
+    },
+    {
+      "ticker": "MDGS",
+      "price": 3.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CVM",
+      "price": 0.9055
+    },
+    {
+      "ticker": "MDGS",
+      "price": 3.43
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CVM",
+      "price": 0.9043
+    },
+    {
+      "ticker": "MDGS",
+      "price": 3.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CVM",
+      "price": 0.8935
+    },
+    {
+      "ticker": "MDGS",
+      "price": 3.4
+    }
+  ]
+}

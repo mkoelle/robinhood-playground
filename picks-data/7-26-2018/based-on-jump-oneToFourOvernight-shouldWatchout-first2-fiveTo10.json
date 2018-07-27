@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.659
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    }
+  ]
+}

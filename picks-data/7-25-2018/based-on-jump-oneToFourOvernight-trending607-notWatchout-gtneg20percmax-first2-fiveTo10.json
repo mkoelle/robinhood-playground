@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "VSLR",
+      "price": 5.8212
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VSLR",
+      "price": 5.75
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.09
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VSLR",
+      "price": 5.7805
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VSLR",
+      "price": 5.725
+    },
+    {
+      "ticker": "HPR",
+      "price": 7.1
+    }
+  ]
+}

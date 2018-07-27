@@ -1,0 +1,66 @@
+{
+  "10": [
+    {
+      "ticker": "TRXC",
+      "price": 5.1869
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.8
+    },
+    {
+      "ticker": "PIRS",
+      "price": 6.285
+    }
+  ],
+  "50": [
+    {
+      "ticker": "TRXC",
+      "price": 5.29
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.8462
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRXC",
+      "price": 5.4361
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.905
+    }
+  ],
+  "300": [
+    {
+      "ticker": "TRXC",
+      "price": 5.32
+    },
+    {
+      "ticker": "CADC",
+      "price": 7
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TRXC",
+      "price": 5.355
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.0598
+    }
+  ],
+  "600": [
+    {
+      "ticker": "TRXC",
+      "price": 5.34
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.95
+    }
+  ]
+}

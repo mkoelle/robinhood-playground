@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EMX",
+      "price": 1.2276
+    },
+    {
+      "ticker": "MUX",
+      "price": 2.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TST",
+      "price": 2.425
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.355
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TST",
+      "price": 2.425
+    },
+    {
+      "ticker": "GTE",
+      "price": 3.365
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVEO",
+      "price": 4.1599
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8075
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 4.16
+    },
+    {
+      "ticker": "GTIM",
+      "price": 4.25
+    }
+  ]
+}

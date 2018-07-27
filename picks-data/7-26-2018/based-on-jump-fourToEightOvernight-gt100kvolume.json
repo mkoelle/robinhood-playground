@@ -1,0 +1,37 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "GNC",
+      "price": 3.57
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNC",
+      "price": 3.48
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3618
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNC",
+      "price": 3.27
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3568
+    },
+    {
+      "ticker": "PKD",
+      "price": 0.345
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.69
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.455
+    }
+  ]
+}

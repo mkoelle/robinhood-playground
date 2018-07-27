@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 16.97
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 17.18
+    },
+    {
+      "ticker": "VNCE",
+      "price": 19.57
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 17.06
+    },
+    {
+      "ticker": "VNCE",
+      "price": 19.94
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNCE",
+      "price": 19.88
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.1979
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGAN",
+      "price": 15.15
+    },
+    {
+      "ticker": "PAR",
+      "price": 18.835
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EGAN",
+      "price": 14.9795
+    },
+    {
+      "ticker": "ACIU",
+      "price": 16.38
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VNCE",
+      "price": 20.29
+    },
+    {
+      "ticker": "ACIU",
+      "price": 16.48
+    }
+  ]
+}

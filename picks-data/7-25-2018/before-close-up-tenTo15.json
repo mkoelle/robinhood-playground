@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "SEED",
+      "price": 10.4012
+    },
+    {
+      "ticker": "LX",
+      "price": 12.54
+    },
+    {
+      "ticker": "SUPV",
+      "price": 12.8
+    },
+    {
+      "ticker": "HCLP",
+      "price": 14.725
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.615
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SUPV",
+      "price": 13.025
+    },
+    {
+      "ticker": "SEED",
+      "price": 10.44
+    },
+    {
+      "ticker": "LX",
+      "price": 12.61
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.65
+    },
+    {
+      "ticker": "HCLP",
+      "price": 14.75
+    }
+  ]
+}

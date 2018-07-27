@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WEAT",
+      "price": 6.68
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.8212
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WEAT",
+      "price": 6.64
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WEAT",
+      "price": 6.64
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.7805
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WEAT",
+      "price": 6.72
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.725
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IDXG",
+      "price": 1.08
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IDXG",
+      "price": 1.06
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IDXG",
+      "price": 1.05
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDXG",
+      "price": 1.05
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    }
+  ]
+}

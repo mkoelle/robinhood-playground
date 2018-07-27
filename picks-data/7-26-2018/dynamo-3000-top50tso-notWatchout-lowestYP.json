@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    },
+    {
+      "ticker": "NGD",
+      "price": 1.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.412
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AWSM",
+      "price": 4.27
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AWSM",
+      "price": 4.2106
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3793
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WWR",
+      "price": 0.379
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.399
+    }
+  ]
+}

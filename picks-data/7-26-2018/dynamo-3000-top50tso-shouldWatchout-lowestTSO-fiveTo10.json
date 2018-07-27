@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MHLD",
+      "price": 8.4
+    },
+    {
+      "ticker": "ALDX",
+      "price": 7.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HZN",
+      "price": 5.39
+    },
+    {
+      "ticker": "MCF",
+      "price": 5.68
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBI",
+      "price": 8.945
+    },
+    {
+      "ticker": "CALX",
+      "price": 7.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMBL",
+      "price": 6.05
+    },
+    {
+      "ticker": "CALX",
+      "price": 7.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CALX",
+      "price": 7.35
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.07
+    }
+  ]
+}

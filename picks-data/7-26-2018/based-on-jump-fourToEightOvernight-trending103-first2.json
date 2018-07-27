@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GNC",
+      "price": 3.46
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.483
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GNC",
+      "price": 3.57
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.483
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GNC",
+      "price": 3.48
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.4602
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GNC",
+      "price": 3.27
+    },
+    {
+      "ticker": "GLBS",
+      "price": 0.48
+    }
+  ]
+}

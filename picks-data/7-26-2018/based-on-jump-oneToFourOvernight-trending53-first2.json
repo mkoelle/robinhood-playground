@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OASM",
+      "price": 2.44
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OASM",
+      "price": 2.474
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OASM",
+      "price": 2.43
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2351
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OASM",
+      "price": 2.35
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.249
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SEED",
+      "price": 9.4211
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.7546
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 8.05
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTI",
+      "price": 8.001
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 7.985
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.425
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTI",
+      "price": 7.915
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTI",
+      "price": 7.775
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WTI",
+      "price": 7.71
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.19
+    }
+  ]
+}

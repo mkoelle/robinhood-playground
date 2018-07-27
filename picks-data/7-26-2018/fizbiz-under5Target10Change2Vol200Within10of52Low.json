@@ -1,0 +1,45 @@
+{
+  "2": [],
+  "75": [
+    {
+      "ticker": "FTR",
+      "price": 4.965
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.455
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.36
+    }
+  ],
+  "120": [
+    {
+      "ticker": "GERN",
+      "price": 3.4645
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.355
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.51
+    }
+  ],
+  "180": [
+    {
+      "ticker": "GERN",
+      "price": 3.4
+    },
+    {
+      "ticker": "STNG",
+      "price": 2.365
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.51
+    }
+  ]
+}

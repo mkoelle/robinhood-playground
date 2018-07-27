@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DCIX",
+      "price": 1.75
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.2969
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPEX",
+      "price": 1.09
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPEX",
+      "price": 1.1
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.4974
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASTC",
+      "price": 3.53
+    },
+    {
+      "ticker": "ARC",
+      "price": 2.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASTC",
+      "price": 3.48
+    },
+    {
+      "ticker": "ARC",
+      "price": 2.37
+    }
+  ]
+}

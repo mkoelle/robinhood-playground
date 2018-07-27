@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TGI",
+      "price": 19.5
+    },
+    {
+      "ticker": "HFBC",
+      "price": 16.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TGI",
+      "price": 19.7
+    },
+    {
+      "ticker": "ARA",
+      "price": 17.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGI",
+      "price": 19.85
+    },
+    {
+      "ticker": "ARA",
+      "price": 17.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGI",
+      "price": 19.7
+    },
+    {
+      "ticker": "ARA",
+      "price": 17.13
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "LX",
+      "price": 12.04
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.06
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.3
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.52
+    },
+    {
+      "ticker": "HILO",
+      "price": 14.7911
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LX",
+      "price": 12.01
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.12
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.04
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.44
+    },
+    {
+      "ticker": "HILO",
+      "price": 14.7911
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LX",
+      "price": 12.1
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.045
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.425
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.0203
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LX",
+      "price": 12.22
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.005
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.415
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.01
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.9595
+    }
+  ]
+}

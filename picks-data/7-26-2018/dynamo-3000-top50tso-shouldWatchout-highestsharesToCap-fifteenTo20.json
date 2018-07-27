@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "HPE",
+      "price": 15.71
+    },
+    {
+      "ticker": "TLYS",
+      "price": 16.065
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 15.4236
+    },
+    {
+      "ticker": "TITN",
+      "price": 15.24
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VECO",
+      "price": 15
+    },
+    {
+      "ticker": "NGVC",
+      "price": 15.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMCT",
+      "price": 15.35
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HCLP",
+      "price": 15.675
+    },
+    {
+      "ticker": "UCTT",
+      "price": 15.01
+    }
+  ]
+}

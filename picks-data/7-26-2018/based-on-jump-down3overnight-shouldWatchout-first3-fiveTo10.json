@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 5.3099
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.64
+    },
+    {
+      "ticker": "RMBL",
+      "price": 6.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.2899
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.6075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.32
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.535
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.34
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.565
+    }
+  ]
+}

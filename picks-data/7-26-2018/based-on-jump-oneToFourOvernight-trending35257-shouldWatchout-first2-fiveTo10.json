@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 5.5
+    },
+    {
+      "ticker": "WHLR",
+      "price": 5.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 5.71
+    },
+    {
+      "ticker": "WHLR",
+      "price": 5.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 5.1476
+    },
+    {
+      "ticker": "WHLR",
+      "price": 5.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 5.3
+    },
+    {
+      "ticker": "WHLR",
+      "price": 5.36
+    }
+  ]
+}

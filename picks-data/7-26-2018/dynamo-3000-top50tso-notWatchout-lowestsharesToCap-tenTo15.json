@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GME",
+      "price": 14.9705
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GME",
+      "price": 14.78
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GME",
+      "price": 14.945
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WBAI",
+      "price": 14.85
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WBAI",
+      "price": 14.88
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.895
+    }
+  ]
+}

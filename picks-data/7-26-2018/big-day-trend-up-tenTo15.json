@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "CCJ",
+      "price": 11.79
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.23
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.8
+    },
+    {
+      "ticker": "URA",
+      "price": 13.35
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CCJ",
+      "price": 11.48
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.11
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.75
+    },
+    {
+      "ticker": "RES",
+      "price": 14.065
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.45
+    }
+  ],
+  "90": [
+    {
+      "ticker": "CCJ",
+      "price": 11.53
+    },
+    {
+      "ticker": "RES",
+      "price": 14.275
+    },
+    {
+      "ticker": "INAP",
+      "price": 10.38
+    },
+    {
+      "ticker": "SPOK",
+      "price": 14.725
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.55
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CCJ",
+      "price": 11.27
+    },
+    {
+      "ticker": "URA",
+      "price": 13.35
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.4
+    },
+    {
+      "ticker": "RES",
+      "price": 14.095
+    },
+    {
+      "ticker": "RNET",
+      "price": 11.5
+    }
+  ]
+}

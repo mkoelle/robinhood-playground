@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GLYC",
+      "price": 14.105
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.68
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.6037
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLYC",
+      "price": 14.97
+    },
+    {
+      "ticker": "VCYT",
+      "price": 11.3
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.375
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VCYT",
+      "price": 11.44
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.5
+    },
+    {
+      "ticker": "DBD",
+      "price": 10.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VCYT",
+      "price": 11.28
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.463
+    },
+    {
+      "ticker": "DBD",
+      "price": 10.875
+    }
+  ]
+}

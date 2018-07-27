@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BSBR",
+      "price": 9.67
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BSBR",
+      "price": 9.665
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BSBR",
+      "price": 9.7075
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BSBR",
+      "price": 9.68
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.8
+    }
+  ]
+}

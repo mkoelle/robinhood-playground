@@ -1,0 +1,52 @@
+{
+  "2": [],
+  "12": [],
+  "75": [
+    {
+      "ticker": "NG",
+      "price": 4.54
+    }
+  ],
+  "120": [
+    {
+      "ticker": "NG",
+      "price": 4.5501
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.595
+    }
+  ],
+  "180": [
+    {
+      "ticker": "SFUN",
+      "price": 3.63
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.25
+    }
+  ],
+  "380": [
+    {
+      "ticker": "SFUN",
+      "price": 3.645
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.235
+    },
+    {
+      "ticker": "EXK",
+      "price": 2.98
+    },
+    {
+      "ticker": "JMEI",
+      "price": 2.17
+    },
+    {
+      "ticker": "PLUG",
+      "price": 1.95
+    }
+  ]
+}

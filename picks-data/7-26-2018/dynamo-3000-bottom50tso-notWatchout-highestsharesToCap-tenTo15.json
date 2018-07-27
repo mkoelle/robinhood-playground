@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "VCEL",
+      "price": 10.4
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRVS",
+      "price": 10.355
+    },
+    {
+      "ticker": "SILJ",
+      "price": 10.3653
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRVS",
+      "price": 10.38
+    },
+    {
+      "ticker": "SILJ",
+      "price": 10.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRVS",
+      "price": 10.12
+    },
+    {
+      "ticker": "VCEL",
+      "price": 10.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VCEL",
+      "price": 10.25
+    },
+    {
+      "ticker": "NDLS",
+      "price": 10.55
+    }
+  ]
+}

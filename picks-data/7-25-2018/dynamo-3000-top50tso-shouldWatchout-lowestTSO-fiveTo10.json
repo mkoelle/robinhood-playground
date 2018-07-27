@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AG",
+      "price": 6.66
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.88
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 5.32
+    },
+    {
+      "ticker": "VLRS",
+      "price": 7.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LXU",
+      "price": 7.69
+    },
+    {
+      "ticker": "BVX",
+      "price": 5.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LXU",
+      "price": 7.77
+    },
+    {
+      "ticker": "NPTN",
+      "price": 6.3899
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MTEM",
+      "price": 5.1399
+    },
+    {
+      "ticker": "GNMK",
+      "price": 6.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRYS",
+      "price": 5.175
+    },
+    {
+      "ticker": "GNMK",
+      "price": 6.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRYS",
+      "price": 5.17
+    },
+    {
+      "ticker": "MTBC",
+      "price": 5.13
+    }
+  ]
+}

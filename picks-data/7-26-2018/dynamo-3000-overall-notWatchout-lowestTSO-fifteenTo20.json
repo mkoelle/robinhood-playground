@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ACBI",
+      "price": 18.55
+    },
+    {
+      "ticker": "ATTU",
+      "price": 16.0473
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GAIA",
+      "price": 19.9
+    },
+    {
+      "ticker": "MSON",
+      "price": 16.85
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DOMO",
+      "price": 18.4
+    },
+    {
+      "ticker": "GAIA",
+      "price": 19.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GAIA",
+      "price": 19.6
+    },
+    {
+      "ticker": "DOMO",
+      "price": 18.43
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYNY",
+      "price": 15.65
+    },
+    {
+      "ticker": "DOMO",
+      "price": 18.61
+    }
+  ]
+}

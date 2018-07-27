@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PAR",
+      "price": 18.59
+    },
+    {
+      "ticker": "PCMI",
+      "price": 19.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PCMI",
+      "price": 19.87
+    },
+    {
+      "ticker": "NGVC",
+      "price": 15.4236
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 17.26
+    },
+    {
+      "ticker": "PCMI",
+      "price": 19.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 17.2
+    },
+    {
+      "ticker": "PCMI",
+      "price": 19.925
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 17.29
+    },
+    {
+      "ticker": "SDRL",
+      "price": 19.99
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TST",
+      "price": 2.469
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.987
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TST",
+      "price": 2.425
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TST",
+      "price": 2.425
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TST",
+      "price": 2.45
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9861
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TST",
+      "price": 2.45
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9802
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TAOP",
+      "price": 1.56
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAOP",
+      "price": 1.61
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.6161
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAOP",
+      "price": 1.6
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAOP",
+      "price": 1.4998
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.8
+    }
+  ]
+}

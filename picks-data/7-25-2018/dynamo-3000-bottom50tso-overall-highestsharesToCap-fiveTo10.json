@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABEV",
+      "price": 5.025
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MDCA",
+      "price": 5.075
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.0999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MDCA",
+      "price": 5.025
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.093
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LLEX",
+      "price": 5.24
+    },
+    {
+      "ticker": "HZN",
+      "price": 5.315
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "HZN",
+      "price": 5.31
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "HZN",
+      "price": 5.32
+    }
+  ]
+}

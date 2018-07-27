@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDNA",
+      "price": 12.41
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRK",
+      "price": 10.95
+    },
+    {
+      "ticker": "ACMR",
+      "price": 13.3808
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACMR",
+      "price": 13.27
+    },
+    {
+      "ticker": "CRK",
+      "price": 10.621
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRK",
+      "price": 10.61
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.38
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRK",
+      "price": 10.505
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRK",
+      "price": 10.29
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRK",
+      "price": 10.3
+    },
+    {
+      "ticker": "ESND",
+      "price": 13.5
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "LPL",
+      "price": 9.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPL",
+      "price": 9.03
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPL",
+      "price": 8.97
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 8.965
+    },
+    {
+      "ticker": "TNAV",
+      "price": 5.833
+    }
+  ]
+}

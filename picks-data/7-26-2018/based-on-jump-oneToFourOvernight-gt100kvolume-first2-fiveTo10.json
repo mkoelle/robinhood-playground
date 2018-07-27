@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "ABEV",
+      "price": 5.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABEV",
+      "price": 5.28
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.4041
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABEV",
+      "price": 5.225
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.385
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABEV",
+      "price": 5.25
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.4116
+    }
+  ]
+}

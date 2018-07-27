@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RAD",
+      "price": 1.89
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AFMD",
+      "price": 1.799
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CYH",
+      "price": 3.18
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.8301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GEN",
+      "price": 1.52
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SALM",
+      "price": 4.65
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.42
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NGD",
+      "price": 1.46
+    },
+    {
+      "ticker": "FFHL",
+      "price": 2.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGD",
+      "price": 1.51
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    }
+  ]
+}

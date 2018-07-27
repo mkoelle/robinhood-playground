@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ACBI",
+      "price": 17.3828
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.125
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACBI",
+      "price": 18.55
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACBI",
+      "price": 18.8
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ACBI",
+      "price": 19.2
+    },
+    {
+      "ticker": "KIM",
+      "price": 16.99
+    }
+  ]
+}

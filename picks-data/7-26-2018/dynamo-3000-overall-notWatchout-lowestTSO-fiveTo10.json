@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EIGI",
+      "price": 9.45
+    },
+    {
+      "ticker": "LXU",
+      "price": 6.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXU",
+      "price": 6.14
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.335
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EIGI",
+      "price": 9.1
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EIGI",
+      "price": 9.15
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EIGI",
+      "price": 9.1
+    },
+    {
+      "ticker": "CHRA",
+      "price": 7.9629
+    }
+  ]
+}

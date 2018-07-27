@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAII",
+      "price": 10.16
+    },
+    {
+      "ticker": "ENDP",
+      "price": 11.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DDD",
+      "price": 14.235
+    },
+    {
+      "ticker": "GOAU",
+      "price": 12.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OXFD",
+      "price": 12.115
+    },
+    {
+      "ticker": "SVRA",
+      "price": 12.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGL",
+      "price": 12.575
+    },
+    {
+      "ticker": "NGVC",
+      "price": 14.83
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RNET",
+      "price": 11.05
+    },
+    {
+      "ticker": "SSFN",
+      "price": 10.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSIQ",
+      "price": 13.3015
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAH",
+      "price": 12.275
+    },
+    {
+      "ticker": "FLWS",
+      "price": 14.375
+    }
+  ]
+}

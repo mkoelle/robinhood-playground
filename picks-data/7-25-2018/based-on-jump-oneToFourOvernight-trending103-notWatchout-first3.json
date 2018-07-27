@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.99
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.99
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.85
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.97
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.9
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.97
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SCON",
+      "price": 2.94
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.194
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCON",
+      "price": 3.02
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.2198
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCON",
+      "price": 2.965
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SCON",
+      "price": 3.14
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.3
+    }
+  ]
+}

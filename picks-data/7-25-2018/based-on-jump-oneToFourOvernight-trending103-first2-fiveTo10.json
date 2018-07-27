@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBD",
+      "price": 8.41
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBD",
+      "price": 8.39
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBD",
+      "price": 8.415
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBD",
+      "price": 8.34
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.73
+    }
+  ]
+}

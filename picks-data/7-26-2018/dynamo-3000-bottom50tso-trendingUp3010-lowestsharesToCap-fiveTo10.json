@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TEDU",
+      "price": 8.45
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.5249
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFSW",
+      "price": 10.24
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSBR",
+      "price": 9
+    },
+    {
+      "ticker": "GRF",
+      "price": 8.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BBD",
+      "price": 8.12
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BBD",
+      "price": 8.135
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.3125
+    }
+  ]
+}

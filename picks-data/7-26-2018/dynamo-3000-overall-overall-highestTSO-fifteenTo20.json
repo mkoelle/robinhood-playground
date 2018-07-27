@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ROIC",
+      "price": 19.1
+    },
+    {
+      "ticker": "MAT",
+      "price": 15.595
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ROIC",
+      "price": 19.115
+    },
+    {
+      "ticker": "PCMI",
+      "price": 19.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ROIC",
+      "price": 19.03
+    },
+    {
+      "ticker": "PCMI",
+      "price": 19.975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MPX",
+      "price": 18.78
+    },
+    {
+      "ticker": "ROIC",
+      "price": 18.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MPX",
+      "price": 19.15
+    },
+    {
+      "ticker": "ROIC",
+      "price": 18.79
+    }
+  ]
+}

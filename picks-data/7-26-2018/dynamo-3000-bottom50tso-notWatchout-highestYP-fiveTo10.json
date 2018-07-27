@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SIGA",
+      "price": 7.48
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.32
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LONE",
+      "price": 9.24
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.76
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 6.8
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.3701
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 7.55
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.5784
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WTI",
+      "price": 7.4849
+    },
+    {
+      "ticker": "GORO",
+      "price": 6.6
+    }
+  ]
+}

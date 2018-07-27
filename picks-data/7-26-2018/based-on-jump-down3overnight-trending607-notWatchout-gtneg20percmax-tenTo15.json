@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "ROAD",
+      "price": 12.465
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ROAD",
+      "price": 12.46
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ROAD",
+      "price": 12.63
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.475
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.9201
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ROAD",
+      "price": 12.485
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.455
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.11
+    }
+  ]
+}

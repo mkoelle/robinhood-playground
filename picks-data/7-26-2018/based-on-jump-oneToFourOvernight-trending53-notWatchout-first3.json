@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.76
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2351
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.6
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4901
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.249
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.49
+    }
+  ]
+}

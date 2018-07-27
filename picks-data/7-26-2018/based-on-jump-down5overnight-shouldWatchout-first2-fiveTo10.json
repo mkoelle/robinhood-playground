@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BIOC",
+      "price": 5.3099
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.2899
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.32
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLGN",
+      "price": 5.93
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.34
+    }
+  ]
+}

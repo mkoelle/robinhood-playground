@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "JAKK",
+      "price": 2.45
+    },
+    {
+      "ticker": "AWRE",
+      "price": 3.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCN",
+      "price": 3.6301
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.0999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OCN",
+      "price": 3.97
+    },
+    {
+      "ticker": "TAOP",
+      "price": 1.401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAOP",
+      "price": 1.35
+    },
+    {
+      "ticker": "HYRE",
+      "price": 2.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HYRE",
+      "price": 2.839
+    },
+    {
+      "ticker": "TAOP",
+      "price": 1.36
+    }
+  ]
+}

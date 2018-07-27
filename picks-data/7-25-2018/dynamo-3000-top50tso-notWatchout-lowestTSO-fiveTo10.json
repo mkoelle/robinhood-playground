@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TK",
+      "price": 6.795
+    },
+    {
+      "ticker": "IAE",
+      "price": 9.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGMA",
+      "price": 7.14
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CWBR",
+      "price": 5.8801
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 7.72
+    },
+    {
+      "ticker": "SIGA",
+      "price": 7.465
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SIGA",
+      "price": 7.4899
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIGA",
+      "price": 7.465
+    },
+    {
+      "ticker": "BTN",
+      "price": 5.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CMCL",
+      "price": 8.95
+    },
+    {
+      "ticker": "RCM",
+      "price": 9.06
+    }
+  ]
+}

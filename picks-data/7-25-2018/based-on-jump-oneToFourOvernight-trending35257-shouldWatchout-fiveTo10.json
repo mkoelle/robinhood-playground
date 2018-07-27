@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SRT",
+      "price": 7.483
+    },
+    {
+      "ticker": "AMBO",
+      "price": 7.1027
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRT",
+      "price": 7.61
+    },
+    {
+      "ticker": "VLRS",
+      "price": 6.94
+    },
+    {
+      "ticker": "AMBO",
+      "price": 7.1027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRT",
+      "price": 7.81
+    },
+    {
+      "ticker": "VLRS",
+      "price": 6.99
+    },
+    {
+      "ticker": "AMBO",
+      "price": 7.36
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRT",
+      "price": 7.69
+    },
+    {
+      "ticker": "VLRS",
+      "price": 7.04
+    },
+    {
+      "ticker": "AMBO",
+      "price": 7.1212
+    }
+  ]
+}

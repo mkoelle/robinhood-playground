@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "ATTU",
+      "price": 16.0473
+    },
+    {
+      "ticker": "HTLD",
+      "price": 19.17
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MSON",
+      "price": 16.85
+    },
+    {
+      "ticker": "SC",
+      "price": 19.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MSON",
+      "price": 16.85
+    },
+    {
+      "ticker": "YPF",
+      "price": 16.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MSON",
+      "price": 16.85
+    },
+    {
+      "ticker": "AQST",
+      "price": 15.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MSON",
+      "price": 16.95
+    },
+    {
+      "ticker": "AQST",
+      "price": 15.5
+    }
+  ]
+}

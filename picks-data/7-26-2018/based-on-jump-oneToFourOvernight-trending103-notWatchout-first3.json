@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "IDXG",
+      "price": 1.08
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.76
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IDXG",
+      "price": 1.06
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.499
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IDXG",
+      "price": 1.05
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.6
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IDXG",
+      "price": 1.05
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.43
+    }
+  ]
+}

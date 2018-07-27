@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AWX",
+      "price": 3.449
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AWX",
+      "price": 3.37
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWX",
+      "price": 3.126
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWX",
+      "price": 3.11
+    },
+    {
+      "ticker": "SMIT",
+      "price": 2.65
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CERC",
+      "price": 4.555
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.74
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AWX",
+      "price": 4.13
+    },
+    {
+      "ticker": "LEJU",
+      "price": 1.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERC",
+      "price": 4.5001
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERC",
+      "price": 4.5
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EYPT",
+      "price": 2.32
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.95
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NGD",
+      "price": 1.46
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.37
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.3887
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3541
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGD",
+      "price": 1.51
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.412
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.359
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "10": [
+    {
+      "ticker": "EGAN",
+      "price": 15.251
+    }
+  ],
+  "35": [
+    {
+      "ticker": "STML",
+      "price": 16.55
+    },
+    {
+      "ticker": "ELOX",
+      "price": 15.92
+    }
+  ],
+  "90": [
+    {
+      "ticker": "STML",
+      "price": 16.525
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.2001
+    },
+    {
+      "ticker": "ELOX",
+      "price": 15.9
+    },
+    {
+      "ticker": "KEN",
+      "price": 16
+    }
+  ],
+  "223": [
+    {
+      "ticker": "UMRX",
+      "price": 15.05
+    },
+    {
+      "ticker": "ELOX",
+      "price": 15.97
+    },
+    {
+      "ticker": "SXCP",
+      "price": 16.45
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.3
+    },
+    {
+      "ticker": "HDP",
+      "price": 19.99
+    }
+  ]
+}

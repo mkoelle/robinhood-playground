@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRMD",
+      "price": 0.355
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2276
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLX",
+      "price": 0.509
+    },
+    {
+      "ticker": "CGIX",
+      "price": 0.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPMX",
+      "price": 0.2151
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3665
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONS",
+      "price": 0.87
+    },
+    {
+      "ticker": "KGJI",
+      "price": 1.2401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ONS",
+      "price": 0.87
+    },
+    {
+      "ticker": "AVEO",
+      "price": 2.285
+    }
+  ]
+}

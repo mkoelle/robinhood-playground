@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "FOF",
+      "price": 13.3
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.13
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FOF",
+      "price": 13.04
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.75
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FOF",
+      "price": 13.0203
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.75
+    },
+    {
+      "ticker": "MVO",
+      "price": 11.08
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FOF",
+      "price": 13.01
+    },
+    {
+      "ticker": "LFGR",
+      "price": 11.75
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.6
+    }
+  ]
+}

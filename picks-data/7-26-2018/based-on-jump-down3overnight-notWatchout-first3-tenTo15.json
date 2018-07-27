@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 10.12
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    },
+    {
+      "ticker": "MAT",
+      "price": 15.285
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.77
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.9549
+    }
+  ]
+}

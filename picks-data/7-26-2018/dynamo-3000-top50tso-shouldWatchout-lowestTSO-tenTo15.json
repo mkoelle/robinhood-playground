@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "WATT",
+      "price": 14.24
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 10.8
+    },
+    {
+      "ticker": "DNOW",
+      "price": 14.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PLSE",
+      "price": 14
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DBD",
+      "price": 11.05
+    },
+    {
+      "ticker": "BRS",
+      "price": 14.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 14.54
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.035
+    }
+  ]
+}

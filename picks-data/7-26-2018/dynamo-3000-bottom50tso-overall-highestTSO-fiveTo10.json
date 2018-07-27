@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CALX",
+      "price": 7.1695
+    },
+    {
+      "ticker": "SEA",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TNAV",
+      "price": 5.75
+    },
+    {
+      "ticker": "HIL",
+      "price": 5.675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGLE",
+      "price": 5.62
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.3701
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CADC",
+      "price": 7.0501
+    },
+    {
+      "ticker": "LLEX",
+      "price": 5.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 9.97
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.135
+    }
+  ]
+}

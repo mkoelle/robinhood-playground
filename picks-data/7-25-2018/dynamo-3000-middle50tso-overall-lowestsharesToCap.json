@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRXC",
+      "price": 5.01
+    },
+    {
+      "ticker": "WHLR",
+      "price": 4.9997
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SORL",
+      "price": 4.95
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.795
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ADMA",
+      "price": 4.93
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOBL",
+      "price": 4.9695
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    },
+    {
+      "ticker": "ANH",
+      "price": 4.945
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADMA",
+      "price": 4.915
+    },
+    {
+      "ticker": "TRIB",
+      "price": 4.85
+    }
+  ]
+}

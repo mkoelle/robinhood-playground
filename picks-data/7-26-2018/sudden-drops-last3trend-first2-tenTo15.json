@@ -1,0 +1,42 @@
+{
+  "32": [
+    {
+      "ticker": "BPI",
+      "price": 10.88
+    },
+    {
+      "ticker": "ACIU",
+      "price": 13.37
+    }
+  ],
+  "63": [
+    {
+      "ticker": "HMNY",
+      "price": 11.3
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.55
+    }
+  ],
+  "221": [
+    {
+      "ticker": "ZYME",
+      "price": 12.76
+    },
+    {
+      "ticker": "TBIO",
+      "price": 14.005
+    }
+  ],
+  "280": [
+    {
+      "ticker": "SVVC",
+      "price": 13.76
+    },
+    {
+      "ticker": "RCUS",
+      "price": 11.46
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NEW",
+      "price": 19.5
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPRX",
+      "price": 16.1
+    },
+    {
+      "ticker": "TROX",
+      "price": 18.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPRX",
+      "price": 16.29
+    },
+    {
+      "ticker": "ACAD",
+      "price": 16.38
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPRX",
+      "price": 16.03
+    },
+    {
+      "ticker": "REVG",
+      "price": 16.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPRX",
+      "price": 16.03
+    },
+    {
+      "ticker": "UCTT",
+      "price": 15.01
+    }
+  ]
+}

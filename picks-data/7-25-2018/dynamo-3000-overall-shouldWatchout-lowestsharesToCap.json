@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRXC",
+      "price": 5.01
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ADVM",
+      "price": 5.025
+    },
+    {
+      "ticker": "DRYS",
+      "price": 4.96
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LYTS",
+      "price": 4.8575
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.025
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    },
+    {
+      "ticker": "LYTS",
+      "price": 4.91
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LYTS",
+      "price": 4.89
+    },
+    {
+      "ticker": "XELA",
+      "price": 4.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LYTS",
+      "price": 4.91
+    },
+    {
+      "ticker": "XELA",
+      "price": 4.85
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LYTS",
+      "price": 4.92
+    },
+    {
+      "ticker": "XELA",
+      "price": 4.87
+    }
+  ]
+}

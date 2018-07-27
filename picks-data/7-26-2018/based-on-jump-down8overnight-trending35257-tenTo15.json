@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "ACIU",
+      "price": 14.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACIU",
+      "price": 14.005
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACIU",
+      "price": 13.4
+    }
+  ]
+}

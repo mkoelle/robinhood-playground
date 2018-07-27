@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "EYEG",
+      "price": 0.5921
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.2969
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPEX",
+      "price": 1.09
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.51
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPEX",
+      "price": 1.1
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WMIH",
+      "price": 1.53
+    },
+    {
+      "ticker": "CYCC",
+      "price": 1.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "REFR",
+      "price": 0.92
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.53
+    }
+  ]
+}

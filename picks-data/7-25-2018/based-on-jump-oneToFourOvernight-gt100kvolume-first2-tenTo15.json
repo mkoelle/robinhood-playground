@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ITUB",
+      "price": 12.52
+    },
+    {
+      "ticker": "JNUG",
+      "price": 13.0738
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ITUB",
+      "price": 12.44
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ITUB",
+      "price": 12.425
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LX",
+      "price": 12.22
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.415
+    }
+  ]
+}

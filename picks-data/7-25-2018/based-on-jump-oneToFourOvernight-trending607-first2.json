@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 2.97
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9991
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9501
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4837
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9742
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.485
+    }
+  ]
+}

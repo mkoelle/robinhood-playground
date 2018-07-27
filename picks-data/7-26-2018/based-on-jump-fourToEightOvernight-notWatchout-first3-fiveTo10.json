@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ADMA",
+      "price": 5.47
+    },
+    {
+      "ticker": "MGTX",
+      "price": 8.64
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ADMA",
+      "price": 5.5222
+    },
+    {
+      "ticker": "MGTX",
+      "price": 8.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ADMA",
+      "price": 5.6299
+    },
+    {
+      "ticker": "MGTX",
+      "price": 8.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ADMA",
+      "price": 5.84
+    },
+    {
+      "ticker": "MGTX",
+      "price": 8.1
+    }
+  ]
+}

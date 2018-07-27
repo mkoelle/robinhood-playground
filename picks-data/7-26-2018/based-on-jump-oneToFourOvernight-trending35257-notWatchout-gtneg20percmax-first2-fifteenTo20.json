@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DAR",
+      "price": 20.16
+    },
+    {
+      "ticker": "MSON",
+      "price": 17.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MSON",
+      "price": 17.15
+    },
+    {
+      "ticker": "GF",
+      "price": 19.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MSON",
+      "price": 17.15
+    },
+    {
+      "ticker": "GF",
+      "price": 19.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MSON",
+      "price": 16.9448
+    },
+    {
+      "ticker": "GF",
+      "price": 19.11
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TOPS",
+      "price": 1.05
+    },
+    {
+      "ticker": "RSLS",
+      "price": 1.2399
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CEI",
+      "price": 0.36
+    },
+    {
+      "ticker": "GST",
+      "price": 0.0986
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CEI",
+      "price": 0.3585
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.2898
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOPS",
+      "price": 1.0151
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.3574
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TOPS",
+      "price": 0.98
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.35
+    }
+  ]
+}

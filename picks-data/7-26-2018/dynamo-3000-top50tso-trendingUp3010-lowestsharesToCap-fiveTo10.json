@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MNOV",
+      "price": 9.66
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 9.48
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRR",
+      "price": 9.87
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNOV",
+      "price": 9.72
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RFL",
+      "price": 9.74
+    },
+    {
+      "ticker": "MITK",
+      "price": 9.705
+    }
+  ]
+}

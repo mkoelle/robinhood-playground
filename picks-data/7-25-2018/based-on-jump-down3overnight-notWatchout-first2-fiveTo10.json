@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LPL",
+      "price": 9.02
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LPL",
+      "price": 9.03
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPL",
+      "price": 8.97
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPL",
+      "price": 8.965
+    },
+    {
+      "ticker": "FRO",
+      "price": 5.18
+    }
+  ]
+}

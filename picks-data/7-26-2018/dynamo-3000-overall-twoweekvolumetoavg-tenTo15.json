@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TORC",
+      "price": 13.0476
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.3989
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACIU",
+      "price": 13.141
+    },
+    {
+      "ticker": "BPI",
+      "price": 10.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACIU",
+      "price": 12.36
+    },
+    {
+      "ticker": "BPI",
+      "price": 11.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACIU",
+      "price": 11.87
+    },
+    {
+      "ticker": "BPI",
+      "price": 12.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ACIU",
+      "price": 11.99
+    },
+    {
+      "ticker": "BPI",
+      "price": 11.6
+    }
+  ]
+}

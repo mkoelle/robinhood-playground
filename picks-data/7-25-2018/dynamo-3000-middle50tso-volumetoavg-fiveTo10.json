@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EXTR",
+      "price": 8.74
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.075
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CAMT",
+      "price": 8.07
+    },
+    {
+      "ticker": "CUZ",
+      "price": 9.335
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IHIT",
+      "price": 9.8326
+    },
+    {
+      "ticker": "BKT",
+      "price": 5.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TSI",
+      "price": 5.53
+    },
+    {
+      "ticker": "SNR",
+      "price": 7.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDSY",
+      "price": 6.64
+    },
+    {
+      "ticker": "NIM",
+      "price": 9.8171
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEA",
+      "price": 9.5881
+    },
+    {
+      "ticker": "EHT",
+      "price": 9.555
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSL",
+      "price": 6.18
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 8.5405
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AOI",
+      "price": 14.6
+    },
+    {
+      "ticker": "ECOR",
+      "price": 14.51
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AOI",
+      "price": 14.6
+    },
+    {
+      "ticker": "UMRX",
+      "price": 14.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UMRX",
+      "price": 14.56
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.51
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XOG",
+      "price": 14.82
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.53
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMRX",
+      "price": 14.67
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XOG",
+      "price": 14.55
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.6201
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WBAI",
+      "price": 14.58
+    },
+    {
+      "ticker": "BKN",
+      "price": 14.04
+    }
+  ]
+}

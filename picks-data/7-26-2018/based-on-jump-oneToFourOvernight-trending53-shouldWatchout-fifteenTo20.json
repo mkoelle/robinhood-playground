@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SRRK",
+      "price": 15.86
+    },
+    {
+      "ticker": "ATNX",
+      "price": 19.82
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRRK",
+      "price": 15.4295
+    },
+    {
+      "ticker": "ATNX",
+      "price": 20.5
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.725
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRRK",
+      "price": 15.4295
+    },
+    {
+      "ticker": "WSC",
+      "price": 17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRRK",
+      "price": 15.62
+    },
+    {
+      "ticker": "WSC",
+      "price": 17.275
+    }
+  ]
+}

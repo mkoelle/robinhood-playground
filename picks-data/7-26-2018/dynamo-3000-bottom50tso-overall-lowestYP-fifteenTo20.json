@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CASA",
+      "price": 15.16
+    },
+    {
+      "ticker": "CYOU",
+      "price": 15.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VERI",
+      "price": 16.45
+    },
+    {
+      "ticker": "CASA",
+      "price": 15.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SCO",
+      "price": 15.82
+    },
+    {
+      "ticker": "SDOW",
+      "price": 16.0455
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SCO",
+      "price": 15.91
+    },
+    {
+      "ticker": "CASA",
+      "price": 15.37
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCO",
+      "price": 15.8801
+    },
+    {
+      "ticker": "CASA",
+      "price": 15.325
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 15.01
+    },
+    {
+      "ticker": "EGAN",
+      "price": 14.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMF",
+      "price": 15.02
+    },
+    {
+      "ticker": "TREC",
+      "price": 15.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DPG",
+      "price": 15.0883
+    },
+    {
+      "ticker": "TREC",
+      "price": 15.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DPG",
+      "price": 15.0703
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DPG",
+      "price": 15.07
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.675
+    }
+  ]
+}

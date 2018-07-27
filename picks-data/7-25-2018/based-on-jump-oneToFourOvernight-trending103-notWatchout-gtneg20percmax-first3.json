@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "SB",
+      "price": 3.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "SB",
+      "price": 3.425
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.86
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "SB",
+      "price": 3.425
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.87
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "SB",
+      "price": 3.435
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.87
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RECN",
+      "price": 15.175
+    },
+    {
+      "ticker": "KNSA",
+      "price": 15.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NVTR",
+      "price": 15.85
+    },
+    {
+      "ticker": "KNSA",
+      "price": 15.9395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMMR",
+      "price": 15.05
+    },
+    {
+      "ticker": "NVTR",
+      "price": 15.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMMR",
+      "price": 15.17
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMMR",
+      "price": 15.13
+    },
+    {
+      "ticker": "RECN",
+      "price": 15.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RECN",
+      "price": 15.35
+    },
+    {
+      "ticker": "NVTR",
+      "price": 16.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RECN",
+      "price": 15.45
+    },
+    {
+      "ticker": "TLYS",
+      "price": 15.515
+    }
+  ]
+}

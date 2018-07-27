@@ -1,0 +1,32 @@
+{
+  "10": [
+    {
+      "ticker": "DYY",
+      "price": 2.8212
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.55
+    }
+  ],
+  "50": [
+    {
+      "ticker": "DYY",
+      "price": 2.75
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DYY",
+      "price": 2.8
+    },
+    {
+      "ticker": "ATAI",
+      "price": 4.35
+    }
+  ]
+}

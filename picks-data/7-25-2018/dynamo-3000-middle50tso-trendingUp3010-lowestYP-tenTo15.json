@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZOES",
+      "price": 10.5
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SWCH",
+      "price": 13.38
+    },
+    {
+      "ticker": "BT",
+      "price": 14.625
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYF",
+      "price": 13.68
+    },
+    {
+      "ticker": "BFRA",
+      "price": 13.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSPI",
+      "price": 10.54
+    },
+    {
+      "ticker": "BT",
+      "price": 14.62
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSPI",
+      "price": 10.54
+    },
+    {
+      "ticker": "EVM",
+      "price": 10.31
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 10.54
+    },
+    {
+      "ticker": "BB",
+      "price": 10.305
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYH",
+      "price": 10.81
+    },
+    {
+      "ticker": "FSD",
+      "price": 14.6475
+    }
+  ]
+}

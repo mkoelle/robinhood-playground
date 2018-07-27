@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 15.01
+    },
+    {
+      "ticker": "HBAN",
+      "price": 15.295
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMF",
+      "price": 15.02
+    },
+    {
+      "ticker": "ZMLP",
+      "price": 15.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TYO",
+      "price": 15.18
+    },
+    {
+      "ticker": "IDE",
+      "price": 15.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BGR",
+      "price": 15.51
+    },
+    {
+      "ticker": "JGH",
+      "price": 15.4794
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDE",
+      "price": 15.25
+    },
+    {
+      "ticker": "BGR",
+      "price": 15.5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LX",
+      "price": 12.04
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.06
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LX",
+      "price": 12.01
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.12
+    },
+    {
+      "ticker": "FOF",
+      "price": 13.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LX",
+      "price": 12.1
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.045
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.425
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LX",
+      "price": 12.22
+    },
+    {
+      "ticker": "UGP",
+      "price": 12.005
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.415
+    }
+  ]
+}

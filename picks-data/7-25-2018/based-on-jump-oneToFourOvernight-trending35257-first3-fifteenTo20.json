@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FCF",
+      "price": 16.81
+    },
+    {
+      "ticker": "GYLD",
+      "price": 17.5759
+    },
+    {
+      "ticker": "MSON",
+      "price": 15.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCF",
+      "price": 16.84
+    },
+    {
+      "ticker": "GYLD",
+      "price": 17.56
+    },
+    {
+      "ticker": "GLU",
+      "price": 18.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCF",
+      "price": 17
+    },
+    {
+      "ticker": "ASEA",
+      "price": 16.09
+    },
+    {
+      "ticker": "GYLD",
+      "price": 17.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCF",
+      "price": 17.09
+    },
+    {
+      "ticker": "ASEA",
+      "price": 16.09
+    },
+    {
+      "ticker": "GYLD",
+      "price": 17.59
+    }
+  ]
+}

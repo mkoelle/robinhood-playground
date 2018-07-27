@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NNDM",
+      "price": 2
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.15
+    },
+    {
+      "ticker": "SANW",
+      "price": 3.05
+    }
+  ],
+  "242": [
+    {
+      "ticker": "AQB",
+      "price": 2.9
+    },
+    {
+      "ticker": "TAT",
+      "price": 1.15
+    },
+    {
+      "ticker": "ISNS",
+      "price": 4.45
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DCAR",
+      "price": 1.249
+    },
+    {
+      "ticker": "CLRO",
+      "price": 3.2
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.3
+    }
+  ]
+}

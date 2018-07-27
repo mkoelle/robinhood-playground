@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "GMLP",
+      "price": 15.829
+    },
+    {
+      "ticker": "OI",
+      "price": 18.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GMLP",
+      "price": 15.8
+    },
+    {
+      "ticker": "CEFL",
+      "price": 15.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMI",
+      "price": 17.66
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JHI",
+      "price": 16.23
+    },
+    {
+      "ticker": "OSUR",
+      "price": 16.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JHI",
+      "price": 16.23
+    },
+    {
+      "ticker": "OSUR",
+      "price": 16.92
+    }
+  ]
+}

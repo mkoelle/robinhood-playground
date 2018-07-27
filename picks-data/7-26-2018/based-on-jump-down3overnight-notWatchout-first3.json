@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NGD",
+      "price": 1.46
+    },
+    {
+      "ticker": "FFHL",
+      "price": 2.55
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.41
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.3887
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGD",
+      "price": 1.51
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.412
+    }
+  ]
+}

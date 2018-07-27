@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TORC",
+      "price": 16
+    },
+    {
+      "ticker": "EGAN",
+      "price": 15.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 14.6
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 14.93
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 15.3701
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATTU",
+      "price": 15.5
+    },
+    {
+      "ticker": "RUN",
+      "price": 15.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATTU",
+      "price": 15.65
+    },
+    {
+      "ticker": "EMF",
+      "price": 15.0099
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATTU",
+      "price": 15.89
+    },
+    {
+      "ticker": "EMF",
+      "price": 15.05
+    }
+  ]
+}

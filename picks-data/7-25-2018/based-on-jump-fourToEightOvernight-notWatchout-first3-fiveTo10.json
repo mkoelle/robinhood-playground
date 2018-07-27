@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BSBR",
+      "price": 9.67
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BSBR",
+      "price": 9.665
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.4601
+    },
+    {
+      "ticker": "ROSE",
+      "price": 9.1589
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BSBR",
+      "price": 9.7075
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.32
+    },
+    {
+      "ticker": "ROSE",
+      "price": 9.1589
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BSBR",
+      "price": 9.68
+    },
+    {
+      "ticker": "CMRE",
+      "price": 7.08
+    },
+    {
+      "ticker": "ROSE",
+      "price": 9
+    }
+  ]
+}

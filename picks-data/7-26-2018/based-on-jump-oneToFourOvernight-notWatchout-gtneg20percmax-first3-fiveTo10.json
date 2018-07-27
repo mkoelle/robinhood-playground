@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 8.02
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.83
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.86
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.93
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.6
+    }
+  ]
+}

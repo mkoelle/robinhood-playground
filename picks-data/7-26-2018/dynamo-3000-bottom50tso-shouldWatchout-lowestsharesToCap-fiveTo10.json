@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "RDHL",
+      "price": 9.87
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OVID",
+      "price": 9.77
+    },
+    {
+      "ticker": "HX",
+      "price": 9.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OVID",
+      "price": 9.78
+    },
+    {
+      "ticker": "HX",
+      "price": 9.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 9.98
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 9.97
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.75
+    }
+  ]
+}

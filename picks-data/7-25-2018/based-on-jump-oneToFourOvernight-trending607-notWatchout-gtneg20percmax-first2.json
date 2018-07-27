@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNR",
+      "price": 4.605
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.557
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    },
+    {
+      "ticker": "URG",
+      "price": 0.721
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWSM",
+      "price": 4.579
+    },
+    {
+      "ticker": "URG",
+      "price": 0.7201
+    }
+  ]
+}

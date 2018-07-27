@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NEW",
+      "price": 19.5
+    },
+    {
+      "ticker": "NMIH",
+      "price": 20.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NITE",
+      "price": 19.67
+    },
+    {
+      "ticker": "TROX",
+      "price": 18.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NITE",
+      "price": 19.62
+    },
+    {
+      "ticker": "ICHR",
+      "price": 19.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NITE",
+      "price": 19.45
+    },
+    {
+      "ticker": "VYGR",
+      "price": 18.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NITE",
+      "price": 19.55
+    },
+    {
+      "ticker": "ICHR",
+      "price": 19.265
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.25
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2351
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.249
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.62
+    }
+  ]
+}

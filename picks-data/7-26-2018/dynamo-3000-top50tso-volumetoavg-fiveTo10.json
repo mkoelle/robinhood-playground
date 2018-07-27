@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MHLD",
+      "price": 8.4
+    },
+    {
+      "ticker": "ENPH",
+      "price": 6.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HZN",
+      "price": 5.39
+    },
+    {
+      "ticker": "TTS",
+      "price": 8.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBI",
+      "price": 8.945
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RMBL",
+      "price": 6.05
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.1175
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CALX",
+      "price": 7.35
+    },
+    {
+      "ticker": "GNMK",
+      "price": 6.55
+    }
+  ]
+}

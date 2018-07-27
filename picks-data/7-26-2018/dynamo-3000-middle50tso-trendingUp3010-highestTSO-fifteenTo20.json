@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TMV",
+      "price": 19.95
+    },
+    {
+      "ticker": "IVR",
+      "price": 16.11
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMF",
+      "price": 15.02
+    },
+    {
+      "ticker": "MCI",
+      "price": 15.372
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TMST",
+      "price": 18.235
+    },
+    {
+      "ticker": "ANGI",
+      "price": 17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DINT",
+      "price": 19.59
+    },
+    {
+      "ticker": "QAT",
+      "price": 17.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KOL",
+      "price": 16.33
+    },
+    {
+      "ticker": "FMNB",
+      "price": 16.44
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "QCLN",
+      "price": 20.02
+    },
+    {
+      "ticker": "AGNC",
+      "price": 19.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NWPX",
+      "price": 19.15
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.455
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ONB",
+      "price": 19.775
+    },
+    {
+      "ticker": "WNC",
+      "price": 19.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TGI",
+      "price": 19.8736
+    },
+    {
+      "ticker": "NWPX",
+      "price": 19.545
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNXM",
+      "price": 20.0254
+    },
+    {
+      "ticker": "ROIC",
+      "price": 18.79
+    }
+  ]
+}

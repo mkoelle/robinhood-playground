@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "AEF",
+      "price": 6.9
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.53
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AEF",
+      "price": 7.12
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.45
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.27
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AEF",
+      "price": 7.1286
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.4362
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AEF",
+      "price": 7.1315
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.4399
+    }
+  ]
+}

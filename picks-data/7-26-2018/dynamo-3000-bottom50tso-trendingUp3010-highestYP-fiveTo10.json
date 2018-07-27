@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MTBC",
+      "price": 5.11
+    },
+    {
+      "ticker": "SIGA",
+      "price": 7.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSBR",
+      "price": 8.9
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSBR",
+      "price": 9
+    },
+    {
+      "ticker": "AMBO",
+      "price": 6.8943
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DFBG",
+      "price": 6.12
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DFBG",
+      "price": 6.14
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.43
+    }
+  ]
+}

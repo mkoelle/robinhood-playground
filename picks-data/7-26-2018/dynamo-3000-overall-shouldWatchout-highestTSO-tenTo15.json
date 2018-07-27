@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPI",
+      "price": 11.0158
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPI",
+      "price": 10.79
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.2597
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPI",
+      "price": 11.55
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 12.02
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.785
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPI",
+      "price": 11.6
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.65
+    }
+  ]
+}

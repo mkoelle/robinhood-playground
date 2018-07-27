@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "CNHI",
+      "price": 11.34
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.27
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CNHI",
+      "price": 11.37
+    },
+    {
+      "ticker": "COWN",
+      "price": 14.95
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.63
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 11.395
+    },
+    {
+      "ticker": "COWN",
+      "price": 14.85
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.63
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.415
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CNHI",
+      "price": 11.41
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.75
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.29
+    }
+  ]
+}

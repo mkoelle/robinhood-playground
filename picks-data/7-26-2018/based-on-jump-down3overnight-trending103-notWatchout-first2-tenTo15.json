@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.465
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.485
+    }
+  ]
+}

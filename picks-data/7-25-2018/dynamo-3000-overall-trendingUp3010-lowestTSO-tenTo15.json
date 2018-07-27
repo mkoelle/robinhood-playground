@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GLYC",
+      "price": 14.5
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.64
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOV",
+      "price": 11.786
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SLM",
+      "price": 11.44
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CNSL",
+      "price": 12.25
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNSL",
+      "price": 12.265
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.315
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SLM",
+      "price": 11.175
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SLM",
+      "price": 11.24
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.58
+    }
+  ]
+}

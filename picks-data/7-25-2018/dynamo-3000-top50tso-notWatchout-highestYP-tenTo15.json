@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFIN",
+      "price": 14.1323
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.1973
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 11.1393
+    },
+    {
+      "ticker": "VRAY",
+      "price": 12.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AFIN",
+      "price": 14.25
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.4381
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFIN",
+      "price": 14.18
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 11.7
+    },
+    {
+      "ticker": "VRAY",
+      "price": 12.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 11.7
+    },
+    {
+      "ticker": "VRAY",
+      "price": 12.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 11.625
+    },
+    {
+      "ticker": "ENDP",
+      "price": 12.03
+    }
+  ]
+}

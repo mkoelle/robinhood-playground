@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPI",
+      "price": 11.0158
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPI",
+      "price": 10.79
+    },
+    {
+      "ticker": "EXPR",
+      "price": 10.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPI",
+      "price": 11.55
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.37
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 12.02
+    },
+    {
+      "ticker": "LFVN",
+      "price": 9.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPI",
+      "price": 11.6
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.25
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "FIT",
+      "price": 5.9799
+    },
+    {
+      "ticker": "FGB",
+      "price": 6.2501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CMFN",
+      "price": 8.8539
+    },
+    {
+      "ticker": "PZN",
+      "price": 9.23
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ORN",
+      "price": 9.305
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.43
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NERV",
+      "price": 8.525
+    },
+    {
+      "ticker": "ORN",
+      "price": 9.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MITK",
+      "price": 9.705
+    },
+    {
+      "ticker": "BDD",
+      "price": 7.4
+    }
+  ]
+}

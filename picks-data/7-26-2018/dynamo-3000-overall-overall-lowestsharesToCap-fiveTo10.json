@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 9.9586
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.02
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.475
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 9.86
+    },
+    {
+      "ticker": "EIGI",
+      "price": 9.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7322
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.7322
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.84
+    }
+  ]
+}

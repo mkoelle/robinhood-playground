@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BB",
+      "price": 10.27
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BB",
+      "price": 10.12
+    },
+    {
+      "ticker": "VNET",
+      "price": 10.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNET",
+      "price": 10.13
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SLM",
+      "price": 11.5
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMBA",
+      "price": 10.91
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.315
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SLM",
+      "price": 11.175
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.63
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LFGR",
+      "price": 11.5
+    },
+    {
+      "ticker": "SLM",
+      "price": 11.24
+    }
+  ]
+}

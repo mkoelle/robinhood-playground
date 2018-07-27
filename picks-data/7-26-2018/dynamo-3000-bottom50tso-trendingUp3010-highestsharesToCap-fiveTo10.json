@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MTBC",
+      "price": 5.11
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.181
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WHLR",
+      "price": 5.24
+    },
+    {
+      "ticker": "EBR.B",
+      "price": 5.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.1
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EBR.B",
+      "price": 5.1
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ]
+}

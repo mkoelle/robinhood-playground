@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "NMR",
+      "price": 4.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AWSM",
+      "price": 4.41
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.8
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.8106
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.8015
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "NMR",
+      "price": 4.81
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.79
+    }
+  ]
+}

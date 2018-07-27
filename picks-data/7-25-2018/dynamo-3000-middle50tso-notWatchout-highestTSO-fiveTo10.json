@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HIMX",
+      "price": 7.32
+    },
+    {
+      "ticker": "BSMX",
+      "price": 8.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CYS",
+      "price": 7.36
+    },
+    {
+      "ticker": "XONE",
+      "price": 7.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JPC",
+      "price": 9.3282
+    },
+    {
+      "ticker": "GFA",
+      "price": 6.52
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OIA",
+      "price": 7.6528
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GREK",
+      "price": 9.155
+    },
+    {
+      "ticker": "AUPH",
+      "price": 5.8064
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IAF",
+      "price": 6.16
+    },
+    {
+      "ticker": "PCF",
+      "price": 9.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EDGW",
+      "price": 5.19
+    },
+    {
+      "ticker": "EAD",
+      "price": 7.9
+    }
+  ]
+}

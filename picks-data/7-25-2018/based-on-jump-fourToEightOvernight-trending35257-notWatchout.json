@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.512
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.4994
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.5133
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.4577
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.5195
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.4576
+    },
+    {
+      "ticker": "AMS",
+      "price": 3.1842
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.515
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.47
+    },
+    {
+      "ticker": "AMS",
+      "price": 3.216
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EYEG",
+      "price": 0.5928
+    },
+    {
+      "ticker": "SPEX",
+      "price": 1.068
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MYSZ",
+      "price": 0.9253
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.4601
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MYSZ",
+      "price": 0.9295
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.239
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMRH",
+      "price": 1.3799
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MYSZ",
+      "price": 0.92
+    },
+    {
+      "ticker": "CUR",
+      "price": 1.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRMD",
+      "price": 0.333
+    },
+    {
+      "ticker": "AMRH",
+      "price": 1.401
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRMD",
+      "price": 0.325
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.9
+    }
+  ]
+}

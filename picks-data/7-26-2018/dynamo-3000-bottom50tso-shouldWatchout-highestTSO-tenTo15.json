@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "TGTX",
+      "price": 11.75
+    },
+    {
+      "ticker": "GLYC",
+      "price": 14.915
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSTG",
+      "price": 12.02
+    },
+    {
+      "ticker": "OXFD",
+      "price": 12.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CBIO",
+      "price": 10.065
+    },
+    {
+      "ticker": "CLCT",
+      "price": 13.6853
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYBX",
+      "price": 10.89
+    },
+    {
+      "ticker": "PBR",
+      "price": 11.63
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PBR",
+      "price": 11.65
+    },
+    {
+      "ticker": "OPNT",
+      "price": 14.2519
+    }
+  ]
+}

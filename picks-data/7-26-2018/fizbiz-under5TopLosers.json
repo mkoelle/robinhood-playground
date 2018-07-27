@@ -1,0 +1,68 @@
+{
+  "75": [
+    {
+      "ticker": "MOSY",
+      "price": 1.2071
+    },
+    {
+      "ticker": "SCON",
+      "price": 2.95
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.73
+    },
+    {
+      "ticker": "NGD",
+      "price": 1.545
+    },
+    {
+      "ticker": "ABIL",
+      "price": 3.8842
+    }
+  ],
+  "120": [
+    {
+      "ticker": "MOSY",
+      "price": 1.23
+    },
+    {
+      "ticker": "SCON",
+      "price": 3.05
+    },
+    {
+      "ticker": "NGD",
+      "price": 1.52
+    },
+    {
+      "ticker": "ABIL",
+      "price": 3.812
+    },
+    {
+      "ticker": "VVPR",
+      "price": 1.56
+    }
+  ],
+  "180": [
+    {
+      "ticker": "MOSY",
+      "price": 1.19
+    },
+    {
+      "ticker": "SCON",
+      "price": 3.1223
+    },
+    {
+      "ticker": "NGD",
+      "price": 1.495
+    },
+    {
+      "ticker": "LLIT",
+      "price": 1.6501
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.9101
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FCAU",
+      "price": 17.44
+    },
+    {
+      "ticker": "TZOO",
+      "price": 15.205
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCAU",
+      "price": 17.35
+    },
+    {
+      "ticker": "TZOO",
+      "price": 13.611
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCAU",
+      "price": 17.32
+    },
+    {
+      "ticker": "AXL",
+      "price": 14.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCAU",
+      "price": 17.135
+    },
+    {
+      "ticker": "ARL",
+      "price": 18.01
+    }
+  ]
+}

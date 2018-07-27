@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MOSY",
+      "price": 1.16
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.263
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GST",
+      "price": 0.0986
+    },
+    {
+      "ticker": "RWLK",
+      "price": 0.9147
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GST",
+      "price": 0.0961
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GST",
+      "price": 0.093
+    },
+    {
+      "ticker": "SGLB",
+      "price": 0.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABIL",
+      "price": 3.7563
+    },
+    {
+      "ticker": "LLIT",
+      "price": 1.7
+    }
+  ]
+}

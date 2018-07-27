@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ABEV",
+      "price": 5.27
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.659
+    },
+    {
+      "ticker": "WPG",
+      "price": 8.02
+    },
+    {
+      "ticker": "NFEC",
+      "price": 5.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABEV",
+      "price": 5.28
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.67
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.83
+    },
+    {
+      "ticker": "RRD",
+      "price": 5.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABEV",
+      "price": 5.225
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.7062
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABEV",
+      "price": 5.25
+    },
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.72
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.93
+    }
+  ]
+}

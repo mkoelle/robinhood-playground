@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AWX",
+      "price": 3.449
+    },
+    {
+      "ticker": "OASM",
+      "price": 2.42
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.5601
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AWX",
+      "price": 3.37
+    },
+    {
+      "ticker": "OASM",
+      "price": 2.5047
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.4428
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWX",
+      "price": 3.126
+    },
+    {
+      "ticker": "OASM",
+      "price": 2.4872
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.431
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWX",
+      "price": 3.11
+    },
+    {
+      "ticker": "OASM",
+      "price": 2.4052
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.4516
+    }
+  ]
+}

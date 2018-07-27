@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "ACBI",
+      "price": 17.3828
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.125
+    },
+    {
+      "ticker": "DAN",
+      "price": 20.08
+    },
+    {
+      "ticker": "BIS",
+      "price": 16.9114
+    },
+    {
+      "ticker": "TGI",
+      "price": 19.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ACBI",
+      "price": 18.55
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "BIS",
+      "price": 17.04
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.3624
+    },
+    {
+      "ticker": "TGI",
+      "price": 19.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ACBI",
+      "price": 18.8
+    },
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "BIS",
+      "price": 17.04
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.5
+    },
+    {
+      "ticker": "TGI",
+      "price": 19.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NYNY",
+      "price": 17.11
+    },
+    {
+      "ticker": "ACBI",
+      "price": 19.2
+    },
+    {
+      "ticker": "KIM",
+      "price": 16.99
+    },
+    {
+      "ticker": "BIS",
+      "price": 17.0801
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.3
+    }
+  ]
+}

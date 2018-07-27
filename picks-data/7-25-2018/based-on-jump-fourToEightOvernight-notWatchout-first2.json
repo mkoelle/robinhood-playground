@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PLX",
+      "price": 0.512
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PLX",
+      "price": 0.5133
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.5484
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PLX",
+      "price": 0.5195
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.556
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PLX",
+      "price": 0.515
+    },
+    {
+      "ticker": "SANW",
+      "price": 3.2337
+    }
+  ]
+}

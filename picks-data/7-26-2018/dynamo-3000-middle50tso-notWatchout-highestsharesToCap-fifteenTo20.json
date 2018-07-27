@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 15.01
+    },
+    {
+      "ticker": "HBAN",
+      "price": 15.295
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMF",
+      "price": 15.02
+    },
+    {
+      "ticker": "CYRX",
+      "price": 15.2
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TYO",
+      "price": 15.18
+    },
+    {
+      "ticker": "IDE",
+      "price": 15.28
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWSA",
+      "price": 15.18
+    },
+    {
+      "ticker": "BGR",
+      "price": 15.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMSWA",
+      "price": 15.0987
+    },
+    {
+      "ticker": "NWSA",
+      "price": 15.16
+    }
+  ]
+}

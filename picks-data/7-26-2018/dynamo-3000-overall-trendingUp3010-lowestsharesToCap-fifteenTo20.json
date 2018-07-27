@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SC",
+      "price": 19.99
+    },
+    {
+      "ticker": "MCRN",
+      "price": 19.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SC",
+      "price": 19.825
+    },
+    {
+      "ticker": "MCRN",
+      "price": 19.31
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MHH",
+      "price": 19.28
+    },
+    {
+      "ticker": "SC",
+      "price": 19.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MHH",
+      "price": 19.435
+    },
+    {
+      "ticker": "SC",
+      "price": 19.75
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MHH",
+      "price": 19.65
+    },
+    {
+      "ticker": "SC",
+      "price": 19.5
+    }
+  ]
+}

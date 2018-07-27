@@ -1,0 +1,53 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "AWSM",
+      "price": 4.41
+    },
+    {
+      "ticker": "SB",
+      "price": 3.21
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.8106
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "SB",
+      "price": 3.16
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.8
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4857
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AWSM",
+      "price": 4.42
+    },
+    {
+      "ticker": "SB",
+      "price": 3.2
+    },
+    {
+      "ticker": "UMC",
+      "price": 2.79
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.5
+    }
+  ]
+}

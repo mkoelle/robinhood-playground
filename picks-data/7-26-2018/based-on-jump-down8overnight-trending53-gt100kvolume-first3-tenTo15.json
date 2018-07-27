@@ -1,0 +1,34 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 10.12
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    }
+  ]
+}

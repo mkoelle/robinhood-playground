@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.605
+    },
+    {
+      "ticker": "ARTX",
+      "price": 3.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WYY",
+      "price": 0.545
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WYY",
+      "price": 0.545
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WYY",
+      "price": 0.5414
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.579
+    },
+    {
+      "ticker": "TUES",
+      "price": 2.9
+    }
+  ]
+}

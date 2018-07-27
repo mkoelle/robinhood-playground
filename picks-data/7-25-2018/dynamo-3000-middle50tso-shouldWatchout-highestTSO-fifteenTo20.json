@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TWO",
+      "price": 15.57
+    },
+    {
+      "ticker": "BBBY",
+      "price": 19.07
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPRX",
+      "price": 16.26
+    },
+    {
+      "ticker": "GTXI",
+      "price": 18.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RUSS",
+      "price": 18.48
+    },
+    {
+      "ticker": "NCSM",
+      "price": 15.57
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HRTG",
+      "price": 17.24
+    },
+    {
+      "ticker": "NCSM",
+      "price": 15.56
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWO",
+      "price": 15.61
+    },
+    {
+      "ticker": "NYRT",
+      "price": 18.09
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NMIH",
+      "price": 19.775
+    },
+    {
+      "ticker": "NYRT",
+      "price": 18.11
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 15.72
+    },
+    {
+      "ticker": "GHG",
+      "price": 16.615
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.659
+    },
+    {
+      "ticker": "AXTI",
+      "price": 8.155
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.67
+    },
+    {
+      "ticker": "AXTI",
+      "price": 7.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.7062
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CADC",
+      "price": 7.25
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.54
+    },
+    {
+      "ticker": "FPI",
+      "price": 6.72
+    }
+  ]
+}

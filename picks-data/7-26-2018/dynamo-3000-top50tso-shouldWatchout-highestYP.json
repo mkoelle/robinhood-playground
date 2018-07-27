@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NEPT",
+      "price": 3.25
+    },
+    {
+      "ticker": "EVLV",
+      "price": 1.53
+    }
+  ],
+  "40": [
+    {
+      "ticker": "REED",
+      "price": 2.75
+    },
+    {
+      "ticker": "PED",
+      "price": 2.3147
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVE",
+      "price": 4.78
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INVE",
+      "price": 4.8
+    },
+    {
+      "ticker": "KOSS",
+      "price": 2.889
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INVE",
+      "price": 4.8
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.5
+    }
+  ]
+}

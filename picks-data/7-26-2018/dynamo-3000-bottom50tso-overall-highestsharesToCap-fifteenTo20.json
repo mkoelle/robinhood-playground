@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AHH",
+      "price": 15.16
+    },
+    {
+      "ticker": "GTN",
+      "price": 15.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JCE",
+      "price": 15.22
+    },
+    {
+      "ticker": "GNK",
+      "price": 15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OBSV",
+      "price": 15.09
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNK",
+      "price": 15.04
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.435
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SRRK",
+      "price": 15.46
+    },
+    {
+      "ticker": "AXL",
+      "price": 15.315
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "SLD",
+      "price": 16.45
+    },
+    {
+      "ticker": "AGNC",
+      "price": 19.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SXCP",
+      "price": 16.75
+    },
+    {
+      "ticker": "FUNC",
+      "price": 19.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMPH",
+      "price": 17.5
+    },
+    {
+      "ticker": "REVG",
+      "price": 16.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OSBC",
+      "price": 15.45
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COWN",
+      "price": 15.05
+    },
+    {
+      "ticker": "FPRX",
+      "price": 16.03
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "AOBC",
+      "price": 10.01
+    },
+    {
+      "ticker": "DF",
+      "price": 9.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 9.48
+    },
+    {
+      "ticker": "CHS",
+      "price": 9.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FATE",
+      "price": 9.55
+    },
+    {
+      "ticker": "EXTR",
+      "price": 8.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RFIL",
+      "price": 9.8266
+    },
+    {
+      "ticker": "KEYW",
+      "price": 8.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LFVN",
+      "price": 9.9662
+    },
+    {
+      "ticker": "RFL",
+      "price": 9.74
+    }
+  ]
+}

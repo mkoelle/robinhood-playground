@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MGI",
+      "price": 6.63
+    },
+    {
+      "ticker": "EGC",
+      "price": 9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGC",
+      "price": 8.985
+    },
+    {
+      "ticker": "QBAK",
+      "price": 7.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALPN",
+      "price": 8.1606
+    },
+    {
+      "ticker": "IID",
+      "price": 6.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVV",
+      "price": 7.3965
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.77
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMI",
+      "price": 9.7833
+    },
+    {
+      "ticker": "DMF",
+      "price": 8.13
+    }
+  ]
+}

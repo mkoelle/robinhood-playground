@@ -1,0 +1,42 @@
+{
+  "32": [
+    {
+      "ticker": "GST",
+      "price": 0.09
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.27
+    }
+  ],
+  "63": [
+    {
+      "ticker": "IMNP",
+      "price": 0.1118
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.175
+    }
+  ],
+  "221": [
+    {
+      "ticker": "CARV",
+      "price": 3.75
+    },
+    {
+      "ticker": "ONTX",
+      "price": 0.4383
+    }
+  ],
+  "280": [
+    {
+      "ticker": "GLBS",
+      "price": 0.4301
+    },
+    {
+      "ticker": "APTO",
+      "price": 2.751
+    }
+  ]
+}

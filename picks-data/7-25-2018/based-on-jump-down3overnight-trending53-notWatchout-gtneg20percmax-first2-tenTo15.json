@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAVI",
+      "price": 13.67
+    },
+    {
+      "ticker": "CWBC",
+      "price": 12.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAVI",
+      "price": 13.575
+    },
+    {
+      "ticker": "CWBC",
+      "price": 12.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAVI",
+      "price": 13.58
+    },
+    {
+      "ticker": "CWBC",
+      "price": 12.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AXL",
+      "price": 14.795
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.435
+    }
+  ]
+}

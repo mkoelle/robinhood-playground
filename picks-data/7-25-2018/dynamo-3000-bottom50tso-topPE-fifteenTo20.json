@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "DO",
+      "price": 18.335
+    },
+    {
+      "ticker": "PTEN",
+      "price": 16.19
+    },
+    {
+      "ticker": "ARA",
+      "price": 16.71
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AVX",
+      "price": 18.83
+    },
+    {
+      "ticker": "DO",
+      "price": 18.33
+    },
+    {
+      "ticker": "PTEN",
+      "price": 16.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVX",
+      "price": 18.97
+    },
+    {
+      "ticker": "PCMI",
+      "price": 16.4
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AVX",
+      "price": 18.75
+    },
+    {
+      "ticker": "PTEN",
+      "price": 15.975
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVX",
+      "price": 18.72
+    },
+    {
+      "ticker": "PCMI",
+      "price": 16.15
+    },
+    {
+      "ticker": "CYBE",
+      "price": 18.3
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AVX",
+      "price": 18.62
+    },
+    {
+      "ticker": "PCMI",
+      "price": 15.975
+    },
+    {
+      "ticker": "PCOM",
+      "price": 15.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVX",
+      "price": 18.69
+    },
+    {
+      "ticker": "PCMI",
+      "price": 15.8
+    },
+    {
+      "ticker": "PROV",
+      "price": 18.5
+    }
+  ]
+}

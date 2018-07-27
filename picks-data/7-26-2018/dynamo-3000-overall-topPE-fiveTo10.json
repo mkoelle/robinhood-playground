@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FPI",
+      "price": 6.67
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.24
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPI",
+      "price": 6.7199
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.2
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.3938
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPI",
+      "price": 6.795
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.28
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPI",
+      "price": 6.82
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.18
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPI",
+      "price": 6.745
+    },
+    {
+      "ticker": "CRON",
+      "price": 6.1619
+    },
+    {
+      "ticker": "ELVT",
+      "price": 9.3738
+    }
+  ]
+}

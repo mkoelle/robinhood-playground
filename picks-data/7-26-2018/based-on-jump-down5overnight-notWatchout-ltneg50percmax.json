@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "NGD",
+      "price": 1.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.37
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NGD",
+      "price": 1.505
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.3887
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NGD",
+      "price": 1.51
+    },
+    {
+      "ticker": "NNVC",
+      "price": 0.412
+    }
+  ]
+}

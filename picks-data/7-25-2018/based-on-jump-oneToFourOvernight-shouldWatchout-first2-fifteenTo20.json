@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKRX",
+      "price": 17.44
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKRX",
+      "price": 17.68
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKRX",
+      "price": 17.71
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKRX",
+      "price": 17.9
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.81
+    }
+  ]
+}

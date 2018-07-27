@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KIM",
+      "price": 17.125
+    },
+    {
+      "ticker": "DAR",
+      "price": 20.16
+    },
+    {
+      "ticker": "HFBC",
+      "price": 16.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "HFBC",
+      "price": 16.51
+    },
+    {
+      "ticker": "AMRB",
+      "price": 15.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KIM",
+      "price": 17.1
+    },
+    {
+      "ticker": "HFBC",
+      "price": 16.51
+    },
+    {
+      "ticker": "AMRB",
+      "price": 15.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KIM",
+      "price": 16.99
+    },
+    {
+      "ticker": "HFBC",
+      "price": 16.51
+    },
+    {
+      "ticker": "AMRB",
+      "price": 15.95
+    }
+  ]
+}

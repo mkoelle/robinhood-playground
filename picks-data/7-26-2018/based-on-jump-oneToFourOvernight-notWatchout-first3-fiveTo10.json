@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ABEV",
+      "price": 5.27
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABEV",
+      "price": 5.28
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.496
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABEV",
+      "price": 5.225
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABEV",
+      "price": 5.25
+    },
+    {
+      "ticker": "FEIM",
+      "price": 7.79
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    }
+  ]
+}

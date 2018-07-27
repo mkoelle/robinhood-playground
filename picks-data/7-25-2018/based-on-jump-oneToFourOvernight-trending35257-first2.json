@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 2.97
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9991
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9501
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9742
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    }
+  ]
+}

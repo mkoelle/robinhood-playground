@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MHH",
+      "price": 18.2799
+    },
+    {
+      "ticker": "AVX",
+      "price": 19.86
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MHH",
+      "price": 19.56
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MHH",
+      "price": 19.3821
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MHH",
+      "price": 19.77
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.3701
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MHH",
+      "price": 19.92
+    },
+    {
+      "ticker": "MSON",
+      "price": 17.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATTU",
+      "price": 15.65
+    },
+    {
+      "ticker": "MHH",
+      "price": 19.645
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MHH",
+      "price": 19.6964
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.89
+    }
+  ]
+}

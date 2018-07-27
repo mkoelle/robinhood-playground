@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MOSY",
+      "price": 1.16
+    },
+    {
+      "ticker": "ASTC",
+      "price": 3.54
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GST",
+      "price": 0.0986
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GST",
+      "price": 0.0961
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.8301
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GST",
+      "price": 0.093
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABIL",
+      "price": 3.7563
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.42
+    }
+  ]
+}

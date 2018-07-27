@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LTBR",
+      "price": 0.94
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3726
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LTBR",
+      "price": 0.94
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.4232
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2376
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.2506
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVFM",
+      "price": 2.28
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.249
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPHI",
+      "price": 0.246
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.28
+    }
+  ]
+}

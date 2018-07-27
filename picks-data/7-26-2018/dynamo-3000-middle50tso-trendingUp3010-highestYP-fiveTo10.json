@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CAMT",
+      "price": 8.2129
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DEPO",
+      "price": 8.351
+    },
+    {
+      "ticker": "PHK",
+      "price": 8.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BVX",
+      "price": 5.1896
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ELON",
+      "price": 8.3152
+    },
+    {
+      "ticker": "ASG",
+      "price": 6.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASG",
+      "price": 6.8389
+    },
+    {
+      "ticker": "VSI",
+      "price": 7.8
+    }
+  ]
+}

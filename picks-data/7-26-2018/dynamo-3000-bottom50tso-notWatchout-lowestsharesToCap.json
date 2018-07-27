@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NMR",
+      "price": 4.78
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.649
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCN",
+      "price": 3.6301
+    },
+    {
+      "ticker": "AWRE",
+      "price": 3.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DSX",
+      "price": 4.54
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DSX",
+      "price": 4.485
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.84
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CELH",
+      "price": 4.43
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.48
+    }
+  ]
+}

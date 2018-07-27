@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 15.01
+    },
+    {
+      "ticker": "AHH",
+      "price": 15.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "COWN",
+      "price": 15.1
+    },
+    {
+      "ticker": "TGH",
+      "price": 15.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VECO",
+      "price": 15
+    },
+    {
+      "ticker": "DPG",
+      "price": 15.0883
+    }
+  ],
+  "200": [
+    {
+      "ticker": "COWN",
+      "price": 14.95
+    },
+    {
+      "ticker": "DPG",
+      "price": 15.0703
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COWN",
+      "price": 15.05
+    },
+    {
+      "ticker": "DPG",
+      "price": 15.07
+    }
+  ]
+}

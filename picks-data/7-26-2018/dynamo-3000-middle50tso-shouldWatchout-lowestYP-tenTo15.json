@@ -1,0 +1,39 @@
+{
+  "4": [
+    {
+      "ticker": "PRTA",
+      "price": 14.125
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOMA",
+      "price": 11.01
+    },
+    {
+      "ticker": "PLSE",
+      "price": 14.055
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 14.63
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.43
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.7747
+    }
+  ]
+}

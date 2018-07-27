@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.985
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.735
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCS",
+      "price": 9.9201
+    },
+    {
+      "ticker": "ECF",
+      "price": 9.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JRS",
+      "price": 9.97
+    },
+    {
+      "ticker": "INB",
+      "price": 9.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVU",
+      "price": 9.9799
+    },
+    {
+      "ticker": "JRS",
+      "price": 9.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVU",
+      "price": 9.9779
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.7833
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "DEA",
+      "price": 19.44
+    },
+    {
+      "ticker": "CEW",
+      "price": 18.778
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CPER",
+      "price": 17.702
+    },
+    {
+      "ticker": "SNLN",
+      "price": 18.185
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMU",
+      "price": 17.5
+    },
+    {
+      "ticker": "GPMT",
+      "price": 18.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SSG",
+      "price": 15.35
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SHO",
+      "price": 16.49
+    },
+    {
+      "ticker": "PTY",
+      "price": 17.983
+    }
+  ]
+}

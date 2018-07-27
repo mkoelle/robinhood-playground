@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MTBC",
+      "price": 5.11
+    },
+    {
+      "ticker": "DRYS",
+      "price": 5.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELGX",
+      "price": 5.05
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LGCY",
+      "price": 5.04
+    },
+    {
+      "ticker": "ADVM",
+      "price": 5.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPK",
+      "price": 5.1875
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.42
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPK",
+      "price": 5.1
+    },
+    {
+      "ticker": "PFNX",
+      "price": 5.41
+    }
+  ]
+}

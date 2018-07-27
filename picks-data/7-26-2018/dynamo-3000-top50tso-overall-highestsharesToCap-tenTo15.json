@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "BPI",
+      "price": 11.0158
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.3989
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BPI",
+      "price": 10.79
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.3116
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BPI",
+      "price": 11.55
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.9742
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BPI",
+      "price": 12.02
+    },
+    {
+      "ticker": "LFVN",
+      "price": 9.97
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPI",
+      "price": 11.6
+    },
+    {
+      "ticker": "IMGN",
+      "price": 10.06
+    }
+  ]
+}

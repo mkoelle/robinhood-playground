@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "WWR",
+      "price": 0.385
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.888
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.7
+    },
+    {
+      "ticker": "AUMN",
+      "price": 0.3153
+    },
+    {
+      "ticker": "AWRE",
+      "price": 4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WWR",
+      "price": 0.385
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.888
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.545
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WWR",
+      "price": 0.3798
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1999
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3046
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.888
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WWR",
+      "price": 0.3703
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1998
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3046
+    },
+    {
+      "ticker": "ONS",
+      "price": 0.888
+    }
+  ]
+}

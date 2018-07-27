@@ -1,0 +1,39 @@
+{
+  "4": [
+    {
+      "ticker": "CIFS",
+      "price": 14.55
+    },
+    {
+      "ticker": "PRTA",
+      "price": 14.125
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLDR",
+      "price": 14.52
+    },
+    {
+      "ticker": "DDR",
+      "price": 14.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FLEX",
+      "price": 14.92
+    },
+    {
+      "ticker": "CIFS",
+      "price": 14.63
+    }
+  ],
+  "200": [],
+  "260": [
+    {
+      "ticker": "LIVE",
+      "price": 12.7747
+    }
+  ]
+}

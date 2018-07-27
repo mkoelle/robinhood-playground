@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 10.12
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.465
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.63
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.9201
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ROAD",
+      "price": 12.485
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.11
+    }
+  ]
+}

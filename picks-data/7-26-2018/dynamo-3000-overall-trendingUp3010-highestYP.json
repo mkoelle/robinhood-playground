@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 3.405
+    },
+    {
+      "ticker": "TST",
+      "price": 2.469
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGY",
+      "price": 3.16
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NOG",
+      "price": 3.385
+    },
+    {
+      "ticker": "EGY",
+      "price": 3.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EGY",
+      "price": 3.19
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EGY",
+      "price": 3.195
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.356
+    }
+  ]
+}

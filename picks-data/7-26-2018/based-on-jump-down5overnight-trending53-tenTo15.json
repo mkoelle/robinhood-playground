@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 10.12
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.88
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.58
+    },
+    {
+      "ticker": "ACIU",
+      "price": 14.8
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACIU",
+      "price": 14.005
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACIU",
+      "price": 13.4
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.77
+    }
+  ]
+}

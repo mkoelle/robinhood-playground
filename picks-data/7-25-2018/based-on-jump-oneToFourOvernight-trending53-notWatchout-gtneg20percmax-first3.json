@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TST",
+      "price": 2.38
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.605
+    },
+    {
+      "ticker": "ARPO",
+      "price": 4.23
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TST",
+      "price": 2.39
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.557
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "TST",
+      "price": 2.38
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.545
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "TST",
+      "price": 2.38
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.54
+    }
+  ]
+}

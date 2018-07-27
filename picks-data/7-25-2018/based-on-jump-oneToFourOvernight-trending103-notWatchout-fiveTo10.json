@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "BBD",
+      "price": 8.41
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.62
+    },
+    {
+      "ticker": "SBS",
+      "price": 7.02
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.045
+    },
+    {
+      "ticker": "BBDO",
+      "price": 7.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBD",
+      "price": 8.39
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.67
+    },
+    {
+      "ticker": "SBS",
+      "price": 7.02
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.027
+    },
+    {
+      "ticker": "BBDO",
+      "price": 7.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBD",
+      "price": 8.415
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.68
+    },
+    {
+      "ticker": "SBS",
+      "price": 7.005
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.04
+    },
+    {
+      "ticker": "BBDO",
+      "price": 7.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBD",
+      "price": 8.34
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.73
+    },
+    {
+      "ticker": "SBS",
+      "price": 6.9584
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.005
+    },
+    {
+      "ticker": "BBDO",
+      "price": 7.55
+    }
+  ]
+}

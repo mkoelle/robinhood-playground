@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "MARA",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MARA",
+      "price": 1.3166
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SFUN",
+      "price": 3.43
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.9355
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.33
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.6069
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SFUN",
+      "price": 3.455
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.9211
+    },
+    {
+      "ticker": "MARA",
+      "price": 1.3362
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.6196
+    }
+  ]
+}

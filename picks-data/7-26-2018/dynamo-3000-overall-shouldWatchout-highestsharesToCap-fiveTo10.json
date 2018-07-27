@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "PPDF",
+      "price": 4.9
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMSC",
+      "price": 5.0887
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.026
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTR",
+      "price": 5.065
+    },
+    {
+      "ticker": "MTEM",
+      "price": 5.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTR",
+      "price": 5.06
+    },
+    {
+      "ticker": "FLGT",
+      "price": 5.2295
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AWX",
+      "price": 5.331
+    },
+    {
+      "ticker": "FTR",
+      "price": 5.06
+    }
+  ]
+}

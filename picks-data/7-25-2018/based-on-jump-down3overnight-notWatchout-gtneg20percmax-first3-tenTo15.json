@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FNB",
+      "price": 12.7
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.67
+    },
+    {
+      "ticker": "CWBC",
+      "price": 12.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FNB",
+      "price": 12.8
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.575
+    },
+    {
+      "ticker": "CWBC",
+      "price": 12.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TZOO",
+      "price": 13.1001
+    },
+    {
+      "ticker": "FNB",
+      "price": 12.815
+    },
+    {
+      "ticker": "NAVI",
+      "price": 13.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TZOO",
+      "price": 13.3
+    },
+    {
+      "ticker": "FNB",
+      "price": 12.79
+    },
+    {
+      "ticker": "AXL",
+      "price": 14.795
+    }
+  ]
+}

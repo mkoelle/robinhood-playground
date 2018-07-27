@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CROX",
+      "price": 17.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CROX",
+      "price": 18.32
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.68
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CROX",
+      "price": 18.28
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CROX",
+      "price": 18.2
+    },
+    {
+      "ticker": "AKRX",
+      "price": 17.9
+    }
+  ]
+}

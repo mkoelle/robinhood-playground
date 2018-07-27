@@ -1,0 +1,45 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "BBD",
+      "price": 8.39
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBD",
+      "price": 8.415
+    },
+    {
+      "ticker": "USLV",
+      "price": 8.17
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.04
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBD",
+      "price": 8.34
+    },
+    {
+      "ticker": "USLV",
+      "price": 8.14
+    },
+    {
+      "ticker": "AG",
+      "price": 6.62
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.005
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABEV",
+      "price": 5.025
+    },
+    {
+      "ticker": "NIHD",
+      "price": 5.0502
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VSLR",
+      "price": 5.7
+    },
+    {
+      "ticker": "ABDC",
+      "price": 6.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NWY",
+      "price": 5.37
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NWY",
+      "price": 5.35
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SGBX",
+      "price": 5.15
+    },
+    {
+      "ticker": "NWY",
+      "price": 5.195
+    }
+  ]
+}

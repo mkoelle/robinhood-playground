@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 8.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.83
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGBX",
+      "price": 5.34
+    },
+    {
+      "ticker": "WPG",
+      "price": 7.93
+    }
+  ]
+}

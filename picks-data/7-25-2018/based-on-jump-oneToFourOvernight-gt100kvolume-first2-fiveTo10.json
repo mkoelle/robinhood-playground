@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UVXY",
+      "price": 9.34
+    },
+    {
+      "ticker": "SIRI",
+      "price": 7.1601
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBD",
+      "price": 8.39
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBD",
+      "price": 8.415
+    },
+    {
+      "ticker": "USLV",
+      "price": 8.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBD",
+      "price": 8.34
+    },
+    {
+      "ticker": "USLV",
+      "price": 8.14
+    }
+  ]
+}

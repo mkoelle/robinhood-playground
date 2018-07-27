@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 2.97
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.51
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1635
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9991
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.5
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.3448
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9501
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.4837
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.3448
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 2.9742
+    },
+    {
+      "ticker": "PULM",
+      "price": 0.485
+    },
+    {
+      "ticker": "SGRP",
+      "price": 1.33
+    }
+  ]
+}

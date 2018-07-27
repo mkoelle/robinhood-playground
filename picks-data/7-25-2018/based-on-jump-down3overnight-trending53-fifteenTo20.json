@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FCAU",
+      "price": 17.44
+    },
+    {
+      "ticker": "AXL",
+      "price": 15.17
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FCAU",
+      "price": 17.35
+    },
+    {
+      "ticker": "AXL",
+      "price": 15.02
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.53
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FCAU",
+      "price": 17.32
+    },
+    {
+      "ticker": "AXL",
+      "price": 14.98
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FCAU",
+      "price": 17.135
+    },
+    {
+      "ticker": "ARL",
+      "price": 18.01
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.48
+    }
+  ]
+}

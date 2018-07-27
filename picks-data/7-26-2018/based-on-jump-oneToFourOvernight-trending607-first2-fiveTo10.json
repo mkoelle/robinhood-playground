@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NFEC",
+      "price": 5.5
+    },
+    {
+      "ticker": "FBP",
+      "price": 8.305
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NFEC",
+      "price": 5.71
+    },
+    {
+      "ticker": "FBP",
+      "price": 8.365
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NFEC",
+      "price": 5.1476
+    },
+    {
+      "ticker": "FBP",
+      "price": 8.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NFEC",
+      "price": 5.3
+    },
+    {
+      "ticker": "FBP",
+      "price": 8.345
+    }
+  ]
+}

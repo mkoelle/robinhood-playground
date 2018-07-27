@@ -1,0 +1,66 @@
+{
+  "0": [
+    {
+      "ticker": "TAOP",
+      "price": 1.56
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TAOP",
+      "price": 1.61
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.6161
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3656
+    },
+    {
+      "ticker": "GST",
+      "price": 0.108
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TAOP",
+      "price": 1.6
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.47
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3494
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1055
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TAOP",
+      "price": 1.4998
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.8
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.3528
+    },
+    {
+      "ticker": "GST",
+      "price": 0.0919
+    }
+  ]
+}

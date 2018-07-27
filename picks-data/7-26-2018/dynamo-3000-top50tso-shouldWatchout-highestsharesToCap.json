@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "LODE",
+      "price": 0.2141
+    },
+    {
+      "ticker": "ARLZ",
+      "price": 0.3154
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OHRP",
+      "price": 0.1979
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.2098
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XSPA",
+      "price": 0.2601
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3375
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALN",
+      "price": 0.1902
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.2603
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLOW",
+      "price": 0.18
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.268
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MXL",
+      "price": 17.17
+    },
+    {
+      "ticker": "BBRC",
+      "price": 17.9874
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OMI",
+      "price": 17.79
+    },
+    {
+      "ticker": "ARNC",
+      "price": 19.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OMI",
+      "price": 17.48
+    },
+    {
+      "ticker": "ARNC",
+      "price": 19.035
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMI",
+      "price": 17.37
+    },
+    {
+      "ticker": "WNC",
+      "price": 18.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMI",
+      "price": 17.431
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ADTN",
+      "price": 16.025
+    },
+    {
+      "ticker": "WNC",
+      "price": 18.89
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OMI",
+      "price": 17.595
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16
+    }
+  ]
+}

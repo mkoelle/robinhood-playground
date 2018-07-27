@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GST",
+      "price": 0.1111
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.379
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.66
+    }
+  ],
+  "242": [
+    {
+      "ticker": "GST",
+      "price": 0.1054
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.2201
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.4999
+    }
+  ],
+  "309": [
+    {
+      "ticker": "GST",
+      "price": 0.105
+    },
+    {
+      "ticker": "CODX",
+      "price": 3.501
+    },
+    {
+      "ticker": "BLNK",
+      "price": 3.4072
+    }
+  ]
+}

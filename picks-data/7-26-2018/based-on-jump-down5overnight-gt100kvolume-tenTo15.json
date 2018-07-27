@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "QEP",
+      "price": 10.12
+    },
+    {
+      "ticker": "MAT",
+      "price": 15.285
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.785
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.87
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QEP",
+      "price": 10.84
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.6873
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.93
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QEP",
+      "price": 10.64
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.7699
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QEP",
+      "price": 10.595
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.5
+    },
+    {
+      "ticker": "DDD",
+      "price": 13.06
+    },
+    {
+      "ticker": "VCYT",
+      "price": 10.77
+    }
+  ]
+}

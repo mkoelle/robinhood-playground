@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NEWM",
+      "price": 18.58
+    },
+    {
+      "ticker": "CODI",
+      "price": 17.675
+    },
+    {
+      "ticker": "DEA",
+      "price": 19.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIVI",
+      "price": 16.325
+    },
+    {
+      "ticker": "DOC",
+      "price": 15.855
+    },
+    {
+      "ticker": "HONE",
+      "price": 18.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNSR",
+      "price": 19.9765
+    },
+    {
+      "ticker": "PDM",
+      "price": 19.59
+    },
+    {
+      "ticker": "NSSC",
+      "price": 16.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARA",
+      "price": 17.17
+    },
+    {
+      "ticker": "SONA",
+      "price": 17.1628
+    },
+    {
+      "ticker": "OSUR",
+      "price": 16.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OSUR",
+      "price": 16.92
+    },
+    {
+      "ticker": "HONE",
+      "price": 18.92
+    },
+    {
+      "ticker": "CSTR",
+      "price": 18.96
+    }
+  ]
+}

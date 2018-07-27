@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BTE",
+      "price": 3.29
+    },
+    {
+      "ticker": "HMY",
+      "price": 1.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EMX",
+      "price": 1.17
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.975
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EMX",
+      "price": 1.15
+    },
+    {
+      "ticker": "AWSM",
+      "price": 4.579
+    }
+  ]
+}

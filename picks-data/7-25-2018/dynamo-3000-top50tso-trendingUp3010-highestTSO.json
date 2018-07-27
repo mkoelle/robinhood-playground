@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OASM",
+      "price": 2.71
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.403
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OASM",
+      "price": 2.428
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OASM",
+      "price": 2.5
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OASM",
+      "price": 2.39
+    },
+    {
+      "ticker": "EYPT",
+      "price": 2.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DCIX",
+      "price": 1.8465
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OASM",
+      "price": 2.2553
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AWX",
+      "price": 4.12
+    },
+    {
+      "ticker": "OASM",
+      "price": 2.24
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "LINK",
+      "price": 4.51
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.01
+    }
+  ],
+  "50": [
+    {
+      "ticker": "LINK",
+      "price": 4.51
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.65
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3.02
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LINK",
+      "price": 4.43
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.7
+    },
+    {
+      "ticker": "RIGL",
+      "price": 3
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CKPT",
+      "price": 2.79
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.648
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.7
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CKPT",
+      "price": 2.8
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.5834
+    },
+    {
+      "ticker": "ADXS",
+      "price": 1.51
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.7
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CKPT",
+      "price": 2.85
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.43
+    },
+    {
+      "ticker": "KOSS",
+      "price": 2.65
+    },
+    {
+      "ticker": "BKTI",
+      "price": 3.7
+    }
+  ]
+}

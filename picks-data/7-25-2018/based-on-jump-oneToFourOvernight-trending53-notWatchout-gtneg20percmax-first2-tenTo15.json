@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FOF",
+      "price": 13.3
+    },
+    {
+      "ticker": "HILO",
+      "price": 14.7911
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FOF",
+      "price": 13.04
+    },
+    {
+      "ticker": "HILO",
+      "price": 14.7911
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FOF",
+      "price": 13.0203
+    },
+    {
+      "ticker": "CVU",
+      "price": 10.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FOF",
+      "price": 13.01
+    },
+    {
+      "ticker": "CVU",
+      "price": 9.9595
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "4": [
+    {
+      "ticker": "MOSY",
+      "price": 1.16
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.74
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCN",
+      "price": 3.6301
+    },
+    {
+      "ticker": "AWX",
+      "price": 4.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AWX",
+      "price": 4.37
+    },
+    {
+      "ticker": "OCN",
+      "price": 3.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAOP",
+      "price": 1.35
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.1999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MOSY",
+      "price": 1.1699
+    },
+    {
+      "ticker": "TAOP",
+      "price": 1.36
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TAOP",
+      "price": 1.56
+    },
+    {
+      "ticker": "CETV",
+      "price": 3.9
+    },
+    {
+      "ticker": "NEPT",
+      "price": 3.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SFUN",
+      "price": 3.55
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.495
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SFUN",
+      "price": 3.65
+    },
+    {
+      "ticker": "LINK",
+      "price": 4.82
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SFUN",
+      "price": 3.65
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.98
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.675
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LINK",
+      "price": 4.662
+    },
+    {
+      "ticker": "RCMT",
+      "price": 4.86
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.706
+    }
+  ]
+}
