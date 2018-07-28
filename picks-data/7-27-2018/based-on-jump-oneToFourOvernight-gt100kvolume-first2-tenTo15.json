@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BILI",
+      "price": 12.99
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.365
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 12.8699
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FLEX",
+      "price": 14.86
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.8163
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FLEX",
+      "price": 14.88
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.52
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ABEV",
+      "price": 5.385
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.55
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IBN",
+      "price": 8.645
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.365
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IBN",
+      "price": 8.555
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.405
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.56
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IBN",
+      "price": 8.56
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.44
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.325
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TACO",
+      "price": 13.0068
+    },
+    {
+      "ticker": "ERYP",
+      "price": 10.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TACO",
+      "price": 13.25
+    },
+    {
+      "ticker": "FRD",
+      "price": 10.06
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMTE",
+      "price": 11.25
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMTE",
+      "price": 11.25
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.85
+    }
+  ]
+}

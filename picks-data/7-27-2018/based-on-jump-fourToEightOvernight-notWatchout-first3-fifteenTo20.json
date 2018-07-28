@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CHRS",
+      "price": 18.6
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.25
+    },
+    {
+      "ticker": "BT",
+      "price": 15.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHRS",
+      "price": 18.05
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.55
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHRS",
+      "price": 18.15
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.3
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHRS",
+      "price": 18
+    },
+    {
+      "ticker": "SAH",
+      "price": 18.25
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.775
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "RGLS",
+      "price": 0.285
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.3861
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GST",
+      "price": 0.1152
+    },
+    {
+      "ticker": "RGLS",
+      "price": 0.29
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GST",
+      "price": 0.138
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GST",
+      "price": 0.17
+    },
+    {
+      "ticker": "HUSA",
+      "price": 0.2375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GST",
+      "price": 0.1572
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.2106
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GST",
+      "price": 0.1262
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.202
+    }
+  ]
+}

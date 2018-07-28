@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMC",
+      "price": 15.9
+    },
+    {
+      "ticker": "WSC",
+      "price": 17.07
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMC",
+      "price": 15.9
+    },
+    {
+      "ticker": "WSC",
+      "price": 17
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMC",
+      "price": 15.9
+    },
+    {
+      "ticker": "WSC",
+      "price": 17.025
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMC",
+      "price": 15.775
+    },
+    {
+      "ticker": "WSC",
+      "price": 17.025
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.475
+    }
+  ]
+}

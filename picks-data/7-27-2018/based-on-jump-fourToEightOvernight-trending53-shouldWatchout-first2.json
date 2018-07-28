@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 3.12
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 3.11
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.31
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 3.07
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 3.095
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.05
+    }
+  ]
+}

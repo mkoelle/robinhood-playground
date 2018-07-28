@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TMST",
+      "price": 17.16
+    },
+    {
+      "ticker": "ENLK",
+      "price": 15.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TMST",
+      "price": 16.96
+    },
+    {
+      "ticker": "ENLK",
+      "price": 15.78
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TMST",
+      "price": 16.34
+    },
+    {
+      "ticker": "ENLK",
+      "price": 15.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TMST",
+      "price": 16.55
+    },
+    {
+      "ticker": "ENLK",
+      "price": 15.78
+    }
+  ]
+}

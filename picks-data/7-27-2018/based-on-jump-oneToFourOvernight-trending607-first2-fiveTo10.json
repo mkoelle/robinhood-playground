@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.525
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LIVX",
+      "price": 5.52
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.13
+    }
+  ]
+}

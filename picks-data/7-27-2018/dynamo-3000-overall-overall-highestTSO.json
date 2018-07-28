@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "BSPM",
+      "price": 2.8899
+    },
+    {
+      "ticker": "TNXP",
+      "price": 0.999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TNXP",
+      "price": 1.39
+    },
+    {
+      "ticker": "CHKE",
+      "price": 0.5599
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TNXP",
+      "price": 1.2747
+    },
+    {
+      "ticker": "GST",
+      "price": 0.138
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GST",
+      "price": 0.17
+    },
+    {
+      "ticker": "TNXP",
+      "price": 1.407
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TNXP",
+      "price": 1.36
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1572
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TNXP",
+      "price": 1.31
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1262
+    }
+  ]
+}

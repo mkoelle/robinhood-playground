@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IPCI",
+      "price": 0.32
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7317
+    },
+    {
+      "ticker": "AST",
+      "price": 1.6
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CXDC",
+      "price": 3.7
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3205
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CXDC",
+      "price": 3.6272
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.75
+    },
+    {
+      "ticker": "IPCI",
+      "price": 0.3161
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "MERC",
+      "price": 16
+    },
+    {
+      "ticker": "TMST",
+      "price": 17.16
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MERC",
+      "price": 16.1
+    },
+    {
+      "ticker": "TMST",
+      "price": 16.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MERC",
+      "price": 16.45
+    },
+    {
+      "ticker": "TMST",
+      "price": 16.34
+    },
+    {
+      "ticker": "HTBK",
+      "price": 16.05
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MERC",
+      "price": 16.6717
+    },
+    {
+      "ticker": "TMST",
+      "price": 16.55
+    },
+    {
+      "ticker": "HTBK",
+      "price": 16.2
+    }
+  ]
+}

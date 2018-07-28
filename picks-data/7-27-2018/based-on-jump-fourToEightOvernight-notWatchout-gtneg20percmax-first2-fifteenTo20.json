@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CHRS",
+      "price": 18.6
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHRS",
+      "price": 18.05
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHRS",
+      "price": 18.15
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.575
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CHRS",
+      "price": 18
+    },
+    {
+      "ticker": "CVA",
+      "price": 17.775
+    }
+  ]
+}

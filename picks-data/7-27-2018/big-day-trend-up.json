@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "TNXP",
+      "price": 1.1199
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.1477
+    },
+    {
+      "ticker": "OBCI",
+      "price": 3.72
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.985
+    }
+  ],
+  "35": [
+    {
+      "ticker": "TNXP",
+      "price": 1.336
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.25
+    },
+    {
+      "ticker": "HYRE",
+      "price": 3.6
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.4088
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.01
+    }
+  ],
+  "90": [
+    {
+      "ticker": "TNXP",
+      "price": 1.2746
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.69
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.07
+    },
+    {
+      "ticker": "HYRE",
+      "price": 3.5715
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3649
+    }
+  ],
+  "223": [
+    {
+      "ticker": "TNXP",
+      "price": 1.3537
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.483
+    },
+    {
+      "ticker": "EVOL",
+      "price": 2.7
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.08
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3649
+    }
+  ]
+}

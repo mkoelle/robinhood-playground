@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.365
+    },
+    {
+      "ticker": "MMV",
+      "price": 12.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BFR",
+      "price": 14.66
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BFR",
+      "price": 14.7
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BFR",
+      "price": 14.9
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.7299
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.75
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "VLRX",
+      "price": 1.5922
+    },
+    {
+      "ticker": "RAD",
+      "price": 1.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.49
+    },
+    {
+      "ticker": "FORD",
+      "price": 2.07
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IDXG",
+      "price": 1.18
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FORD",
+      "price": 2.096
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5297
+    },
+    {
+      "ticker": "FORD",
+      "price": 2.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5072
+    },
+    {
+      "ticker": "FORD",
+      "price": 2.07
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "ACH",
+      "price": 11.18
+    },
+    {
+      "ticker": "RES",
+      "price": 14.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.46
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.55
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.955
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.46
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.85
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.93
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.49
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "7": [
+    {
+      "ticker": "XXII",
+      "price": 2.4941
+    },
+    {
+      "ticker": "LC",
+      "price": 4.2158
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.49
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.67
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.34
+    }
+  ],
+  "60": [
+    {
+      "ticker": "XXII",
+      "price": 2.485
+    },
+    {
+      "ticker": "LC",
+      "price": 4.125
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.31
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.525
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.27
+    }
+  ],
+  "123": [
+    {
+      "ticker": "XXII",
+      "price": 2.495
+    },
+    {
+      "ticker": "LC",
+      "price": 4.0699
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.19
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.485
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.22
+    }
+  ],
+  "263": [
+    {
+      "ticker": "XXII",
+      "price": 2.43
+    },
+    {
+      "ticker": "LC",
+      "price": 4.0774
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.28
+    },
+    {
+      "ticker": "ASNA",
+      "price": 3.46
+    },
+    {
+      "ticker": "CBL",
+      "price": 5.225
+    }
+  ]
+}

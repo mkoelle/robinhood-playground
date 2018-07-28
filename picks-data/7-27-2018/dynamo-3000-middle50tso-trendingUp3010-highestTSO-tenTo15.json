@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "EEP",
+      "price": 11.06
+    },
+    {
+      "ticker": "BOE",
+      "price": 11.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EFR",
+      "price": 14.35
+    },
+    {
+      "ticker": "BXMX",
+      "price": 14.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PHD",
+      "price": 11.1099
+    },
+    {
+      "ticker": "PFL",
+      "price": 12.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SRV",
+      "price": 11.89
+    },
+    {
+      "ticker": "AJX",
+      "price": 13.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLBZ",
+      "price": 12.35
+    },
+    {
+      "ticker": "MBTF",
+      "price": 11.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NXQ",
+      "price": 13.7
+    },
+    {
+      "ticker": "GLO",
+      "price": 11.22
+    }
+  ]
+}

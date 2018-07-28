@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "BKYI",
+      "price": 2.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.55
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.6425
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.29
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.6
+    },
+    {
+      "ticker": "BKYI",
+      "price": 2.29
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "VECO",
+      "price": 15.325
+    },
+    {
+      "ticker": "HPE",
+      "price": 15.83
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ESND",
+      "price": 15.23
+    },
+    {
+      "ticker": "VECO",
+      "price": 15.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESND",
+      "price": 15.0039
+    },
+    {
+      "ticker": "UCTT",
+      "price": 15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ESND",
+      "price": 15.37
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ESND",
+      "price": 15.415
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ESND",
+      "price": 15.49
+    },
+    {
+      "ticker": "TRNC",
+      "price": 15.85
+    }
+  ]
+}

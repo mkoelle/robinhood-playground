@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "OMI",
+      "price": 17.593
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SNNA",
+      "price": 15.68
+    },
+    {
+      "ticker": "ADTN",
+      "price": 16.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SNNA",
+      "price": 15.24
+    },
+    {
+      "ticker": "PFBI",
+      "price": 19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AQST",
+      "price": 15.28
+    },
+    {
+      "ticker": "ARA",
+      "price": 16.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRD",
+      "price": 19.96
+    },
+    {
+      "ticker": "AQST",
+      "price": 15.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRD",
+      "price": 19.55
+    },
+    {
+      "ticker": "SXCP",
+      "price": 15.8
+    }
+  ]
+}

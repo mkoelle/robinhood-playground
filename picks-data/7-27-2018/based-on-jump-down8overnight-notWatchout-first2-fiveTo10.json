@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMID",
+      "price": 8.6
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMID",
+      "price": 7.25
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMID",
+      "price": 7.125
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.45
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMID",
+      "price": 6.875
+    },
+    {
+      "ticker": "BCOV",
+      "price": 8.5
+    }
+  ]
+}

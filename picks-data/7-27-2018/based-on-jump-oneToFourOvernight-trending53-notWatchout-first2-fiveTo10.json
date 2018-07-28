@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.645
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASX",
+      "price": 5.015
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.13
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OPK",
+      "price": 4.9915
+    },
+    {
+      "ticker": "AKS",
+      "price": 5.24
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKS",
+      "price": 5.25
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.645
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMGN",
+      "price": 9.78
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.8439
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GEMP",
+      "price": 7.65
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.35
+    }
+  ]
+}

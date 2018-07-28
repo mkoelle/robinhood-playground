@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.398
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.02
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.3908
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.39
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.93
+    }
+  ]
+}

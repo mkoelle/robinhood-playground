@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CRMD",
+      "price": 0.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TTPH",
+      "price": 3.08
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TTPH",
+      "price": 3.015
+    },
+    {
+      "ticker": "GST",
+      "price": 0.115
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TTPH",
+      "price": 2.89
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1145
+    }
+  ]
+}

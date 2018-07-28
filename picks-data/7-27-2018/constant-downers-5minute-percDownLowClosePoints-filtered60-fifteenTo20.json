@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CDLX",
+      "price": 19.3
+    },
+    {
+      "ticker": "OSPN",
+      "price": 19.7
+    },
+    {
+      "ticker": "HZO",
+      "price": 18.85
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CHRS",
+      "price": 17.57
+    },
+    {
+      "ticker": "OSPN",
+      "price": 18.75
+    },
+    {
+      "ticker": "DCOM",
+      "price": 17.95
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OSPN",
+      "price": 18.55
+    },
+    {
+      "ticker": "CHRS",
+      "price": 17.65
+    },
+    {
+      "ticker": "DCOM",
+      "price": 17.95
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "NLST",
+      "price": 0.145
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYN",
+      "price": 0.1783
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.2548
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MNGA",
+      "price": 0.2502
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.2899
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INPX",
+      "price": 0.1279
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.2543
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INPX",
+      "price": 0.1369
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.282
+    }
+  ],
+  "351": [
+    {
+      "ticker": "INPX",
+      "price": 0.1336
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.247
+    }
+  ]
+}

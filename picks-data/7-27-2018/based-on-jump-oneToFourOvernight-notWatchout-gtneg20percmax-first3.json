@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2776
+    },
+    {
+      "ticker": "TST",
+      "price": 2.4742
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2584
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.2
+    },
+    {
+      "ticker": "TST",
+      "price": 2.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRCH",
+      "price": 1.35
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "TST",
+      "price": 2.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRCH",
+      "price": 1.3464
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "FELP",
+      "price": 3.8
+    }
+  ]
+}

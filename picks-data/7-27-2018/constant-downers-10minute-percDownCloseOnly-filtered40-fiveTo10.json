@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MDCA",
+      "price": 5.225
+    },
+    {
+      "ticker": "IEC",
+      "price": 5.3926
+    },
+    {
+      "ticker": "ROSE",
+      "price": 8.7052
+    }
+  ],
+  "242": [
+    {
+      "ticker": "UNAM",
+      "price": 6.8
+    },
+    {
+      "ticker": "PCYG",
+      "price": 7.8
+    },
+    {
+      "ticker": "PMBC",
+      "price": 9.75
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NATR",
+      "price": 8.3
+    },
+    {
+      "ticker": "LIVX",
+      "price": 5
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5
+    }
+  ]
+}

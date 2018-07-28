@@ -1,0 +1,41 @@
+{
+  "10": [],
+  "50": [
+    {
+      "ticker": "MGI",
+      "price": 6.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 5.47
+    },
+    {
+      "ticker": "MTBC",
+      "price": 5.0298
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.67
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NIHD",
+      "price": 5.44
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.98
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.89
+    },
+    {
+      "ticker": "MGI",
+      "price": 6.66
+    }
+  ]
+}

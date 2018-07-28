@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ASX",
+      "price": 4.865
+    },
+    {
+      "ticker": "TST",
+      "price": 2.4742
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SID",
+      "price": 2.355
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SID",
+      "price": 2.35
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SID",
+      "price": 2.36
+    },
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MITK",
+      "price": 9.325
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.115
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MITK",
+      "price": 9.15
+    },
+    {
+      "ticker": "SWN",
+      "price": 5.04
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MITK",
+      "price": 8.95
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.66
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MITK",
+      "price": 8.6808
+    },
+    {
+      "ticker": "AGRO",
+      "price": 8.7575
+    }
+  ]
+}

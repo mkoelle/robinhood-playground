@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "RUN",
+      "price": 15.4
+    },
+    {
+      "ticker": "ATTU",
+      "price": 15.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HCLP",
+      "price": 16.4
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATTU",
+      "price": 15.93
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.145
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 16.06
+    },
+    {
+      "ticker": "OOMA",
+      "price": 15.825
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTSV",
+      "price": 16.505
+    },
+    {
+      "ticker": "CCT",
+      "price": 17.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATTU",
+      "price": 16.03
+    },
+    {
+      "ticker": "ESND",
+      "price": 15.49
+    }
+  ]
+}

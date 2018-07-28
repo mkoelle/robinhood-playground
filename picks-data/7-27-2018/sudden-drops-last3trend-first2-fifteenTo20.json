@@ -1,0 +1,52 @@
+{
+  "32": [
+    {
+      "ticker": "CSTR",
+      "price": 18.63
+    },
+    {
+      "ticker": "VRCA",
+      "price": 17.905
+    }
+  ],
+  "63": [
+    {
+      "ticker": "CAPL",
+      "price": 17.755
+    },
+    {
+      "ticker": "CHRS",
+      "price": 17.649
+    }
+  ],
+  "221": [
+    {
+      "ticker": "KZR",
+      "price": 15.55
+    },
+    {
+      "ticker": "ELOX",
+      "price": 15.64
+    }
+  ],
+  "280": [
+    {
+      "ticker": "EIDX",
+      "price": 18.1413
+    },
+    {
+      "ticker": "FIXX",
+      "price": 18.42
+    }
+  ],
+  "328": [
+    {
+      "ticker": "NITE",
+      "price": 17.83
+    },
+    {
+      "ticker": "GTXI",
+      "price": 17.205
+    }
+  ]
+}

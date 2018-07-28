@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AKS",
+      "price": 5.24
+    },
+    {
+      "ticker": "VSTM",
+      "price": 8.08
+    },
+    {
+      "ticker": "VLRS",
+      "price": 7.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKS",
+      "price": 5.25
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.94
+    },
+    {
+      "ticker": "VLRS",
+      "price": 7.531
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKS",
+      "price": 5.21
+    },
+    {
+      "ticker": "BTAI",
+      "price": 9.5005
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKS",
+      "price": 5.205
+    },
+    {
+      "ticker": "BTAI",
+      "price": 9.5005
+    },
+    {
+      "ticker": "VSTM",
+      "price": 7.87
+    }
+  ]
+}

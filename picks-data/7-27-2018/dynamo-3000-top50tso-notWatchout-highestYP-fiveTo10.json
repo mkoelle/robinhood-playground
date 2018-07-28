@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "LONE",
+      "price": 9.75
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.42
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HBIO",
+      "price": 5.55
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.5375
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MJCO",
+      "price": 7.758
+    },
+    {
+      "ticker": "HBIO",
+      "price": 5.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBIO",
+      "price": 5.55
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.7275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HBIO",
+      "price": 5.4
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.6001
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HBIO",
+      "price": 5.675
+    },
+    {
+      "ticker": "MJCO",
+      "price": 7.6
+    }
+  ]
+}

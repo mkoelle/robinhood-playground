@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "FRD",
+      "price": 10.06
+    },
+    {
+      "ticker": "VKTX",
+      "price": 11.58
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TORC",
+      "price": 13.06
+    },
+    {
+      "ticker": "CRR",
+      "price": 10.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LX",
+      "price": 12.8688
+    },
+    {
+      "ticker": "TORC",
+      "price": 12.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LX",
+      "price": 12.81
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 11.425
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TORC",
+      "price": 14.64
+    },
+    {
+      "ticker": "TBIO",
+      "price": 14.37
+    }
+  ]
+}

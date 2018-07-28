@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BAS",
+      "price": 10.66
+    },
+    {
+      "ticker": "LOMA",
+      "price": 11.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 10.08
+    },
+    {
+      "ticker": "BAS",
+      "price": 10.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BAS",
+      "price": 10.83
+    },
+    {
+      "ticker": "LOMA",
+      "price": 11.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BAS",
+      "price": 11.0404
+    },
+    {
+      "ticker": "LOMA",
+      "price": 11.3
+    }
+  ]
+}

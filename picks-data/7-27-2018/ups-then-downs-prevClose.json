@@ -1,0 +1,78 @@
+{
+  "10": [
+    {
+      "ticker": "NFEC",
+      "price": 4.64
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.6437
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.52
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.65
+    }
+  ],
+  "50": [
+    {
+      "ticker": "OASM",
+      "price": 1.6289
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.97
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.42
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.64
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OASM",
+      "price": 1.602
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.85
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.065
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.555
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NFEC",
+      "price": 4.3801
+    },
+    {
+      "ticker": "OASM",
+      "price": 1.6125
+    },
+    {
+      "ticker": "MDXG",
+      "price": 4.1501
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.5725
+    },
+    {
+      "ticker": "MTBC",
+      "price": 4.93
+    }
+  ]
+}

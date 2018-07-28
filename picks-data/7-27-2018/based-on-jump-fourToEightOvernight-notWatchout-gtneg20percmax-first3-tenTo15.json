@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DGII",
+      "price": 13.75
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.68
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DGII",
+      "price": 14
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.655
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGII",
+      "price": 13.9
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.69
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGII",
+      "price": 14
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.69
+    }
+  ]
+}

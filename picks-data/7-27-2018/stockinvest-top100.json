@@ -1,0 +1,42 @@
+{
+  "7": [
+    {
+      "ticker": "UUUU",
+      "price": 2.82
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4.07
+    }
+  ],
+  "60": [
+    {
+      "ticker": "UUUU",
+      "price": 2.715
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.935
+    }
+  ],
+  "123": [
+    {
+      "ticker": "UUUU",
+      "price": 2.7689
+    },
+    {
+      "ticker": "CRNT",
+      "price": 3.8132
+    }
+  ],
+  "263": [
+    {
+      "ticker": "UUUU",
+      "price": 2.76
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4
+    }
+  ]
+}

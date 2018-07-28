@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "DGII",
+      "price": 13.2
+    },
+    {
+      "ticker": "DFRG",
+      "price": 11
+    }
+  ],
+  "242": [
+    {
+      "ticker": "DFRG",
+      "price": 10.45
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.525
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.44
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DFRG",
+      "price": 10.3
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.65
+    },
+    {
+      "ticker": "PSO",
+      "price": 12.46
+    }
+  ]
+}

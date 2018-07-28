@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 3.12
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 3.11
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.444
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 3.07
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.4378
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5053
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 3.095
+    },
+    {
+      "ticker": "KZIA",
+      "price": 4
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.4586
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.53
+    }
+  ]
+}

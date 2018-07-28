@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "IMI",
+      "price": 1.64
+    },
+    {
+      "ticker": "AXAS",
+      "price": 2.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INFU",
+      "price": 3.25
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INFU",
+      "price": 3.1499
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.3675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INFU",
+      "price": 3.1499
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INFU",
+      "price": 3.1499
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.3929
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RIBT",
+      "price": 2.47
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.1499
+    }
+  ]
+}

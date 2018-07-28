@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2776
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TRCH",
+      "price": 1.2584
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TRCH",
+      "price": 1.35
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TRCH",
+      "price": 1.3464
+    },
+    {
+      "ticker": "DNN",
+      "price": 0.4939
+    }
+  ]
+}

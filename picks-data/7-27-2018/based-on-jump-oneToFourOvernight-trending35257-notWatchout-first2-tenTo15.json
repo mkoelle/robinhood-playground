@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.365
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BFR",
+      "price": 14.66
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BFR",
+      "price": 14.7
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BFR",
+      "price": 14.9
+    },
+    {
+      "ticker": "FBZ",
+      "price": 12.7299
+    }
+  ]
+}

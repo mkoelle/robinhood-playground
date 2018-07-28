@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "DAIO",
+      "price": 5.795
+    },
+    {
+      "ticker": "GNPX",
+      "price": 6.515
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.4528
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DAIO",
+      "price": 5.75
+    },
+    {
+      "ticker": "GNPX",
+      "price": 5.945
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.3699
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.705
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DAIO",
+      "price": 5.58
+    },
+    {
+      "ticker": "GNPX",
+      "price": 5.28
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.33
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DAIO",
+      "price": 5.46
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.21
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.8
+    }
+  ]
+}

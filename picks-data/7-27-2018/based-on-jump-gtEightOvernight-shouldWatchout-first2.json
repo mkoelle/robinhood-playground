@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PKD",
+      "price": 5.567
+    },
+    {
+      "ticker": "BSPM",
+      "price": 2.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BSPM",
+      "price": 2.95
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.4699
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BSPM",
+      "price": 2.61
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.4601
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BSPM",
+      "price": 2.71
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.4599
+    }
+  ]
+}

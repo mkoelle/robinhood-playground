@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "BPI",
+      "price": 12.341
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.69
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 12.45
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 11.65
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.09
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 10
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 10.8
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 10.62
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.03
+    }
+  ]
+}

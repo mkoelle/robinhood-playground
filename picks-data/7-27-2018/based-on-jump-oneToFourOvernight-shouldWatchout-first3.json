@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SPI",
+      "price": 0.41
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.02
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.2813
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SPI",
+      "price": 0.398
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.02
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.2813
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SPI",
+      "price": 0.3908
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.99
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.2813
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SPI",
+      "price": 0.39
+    },
+    {
+      "ticker": "SUNW",
+      "price": 0.93
+    },
+    {
+      "ticker": "XSPA",
+      "price": 0.265
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BILI",
+      "price": 12.99
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.365
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.9599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BILI",
+      "price": 12.8699
+    },
+    {
+      "ticker": "IMGN",
+      "price": 9.78
+    },
+    {
+      "ticker": "VALE",
+      "price": 14.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FLEX",
+      "price": 14.86
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.8163
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FLEX",
+      "price": 14.88
+    },
+    {
+      "ticker": "BILI",
+      "price": 12.52
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.64
+    }
+  ]
+}

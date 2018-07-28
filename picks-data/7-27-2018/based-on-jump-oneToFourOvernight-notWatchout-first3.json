@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AUY",
+      "price": 2.85
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.865
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.2776
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AUY",
+      "price": 2.935
+    },
+    {
+      "ticker": "SID",
+      "price": 2.355
+    },
+    {
+      "ticker": "ASX",
+      "price": 4.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EBR",
+      "price": 4.56
+    },
+    {
+      "ticker": "AUY",
+      "price": 2.965
+    },
+    {
+      "ticker": "SID",
+      "price": 2.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EBR",
+      "price": 4.5568
+    },
+    {
+      "ticker": "AUY",
+      "price": 3.0006
+    },
+    {
+      "ticker": "SID",
+      "price": 2.36
+    }
+  ]
+}

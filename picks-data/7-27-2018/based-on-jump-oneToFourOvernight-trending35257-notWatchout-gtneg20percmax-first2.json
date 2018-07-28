@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TST",
+      "price": 2.4742
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.79
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UONEK",
+      "price": 2.2
+    },
+    {
+      "ticker": "TST",
+      "price": 2.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "TST",
+      "price": 2.47
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UONEK",
+      "price": 2.15
+    },
+    {
+      "ticker": "TST",
+      "price": 2.4733
+    }
+  ]
+}

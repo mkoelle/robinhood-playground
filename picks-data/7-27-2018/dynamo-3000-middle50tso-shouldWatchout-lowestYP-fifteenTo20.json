@@ -1,0 +1,62 @@
+{
+  "4": [
+    {
+      "ticker": "APLS",
+      "price": 16.91
+    },
+    {
+      "ticker": "CNX",
+      "price": 16.89
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XPER",
+      "price": 16.1
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NYRT",
+      "price": 18.04
+    },
+    {
+      "ticker": "NEW",
+      "price": 18.925
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GMLP",
+      "price": 16.14
+    },
+    {
+      "ticker": "SPUN",
+      "price": 19.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMI",
+      "price": 17.44
+    },
+    {
+      "ticker": "BBBY",
+      "price": 18.815
+    }
+  ],
+  "351": [
+    {
+      "ticker": "REVG",
+      "price": 16.63
+    },
+    {
+      "ticker": "CNCE",
+      "price": 16.11
+    }
+  ]
+}

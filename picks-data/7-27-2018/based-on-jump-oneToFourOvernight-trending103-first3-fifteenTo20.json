@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CY",
+      "price": 18.14
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.06
+    },
+    {
+      "ticker": "GPMT",
+      "price": 19.225
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CY",
+      "price": 18.32
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.2024
+    },
+    {
+      "ticker": "GPMT",
+      "price": 19.105
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMD",
+      "price": 19.55
+    },
+    {
+      "ticker": "CY",
+      "price": 18.5
+    },
+    {
+      "ticker": "GPMT",
+      "price": 19.155
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CY",
+      "price": 18.04
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.3099
+    },
+    {
+      "ticker": "GPMT",
+      "price": 19.155
+    }
+  ]
+}

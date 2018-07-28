@@ -1,0 +1,62 @@
+{
+  "0": [
+    {
+      "ticker": "AMPE",
+      "price": 3.12
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.31
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.43
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMPE",
+      "price": 3.11
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.31
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.444
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMPE",
+      "price": 3.07
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.12
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.4378
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMPE",
+      "price": 3.095
+    },
+    {
+      "ticker": "YECO",
+      "price": 2.05
+    },
+    {
+      "ticker": "KZIA",
+      "price": 4
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.4586
+    }
+  ]
+}

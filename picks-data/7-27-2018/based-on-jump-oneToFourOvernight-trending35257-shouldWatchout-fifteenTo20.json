@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WSC",
+      "price": 17.07
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.8
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WSC",
+      "price": 17
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WSC",
+      "price": 17.025
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WSC",
+      "price": 17.025
+    },
+    {
+      "ticker": "HCLP",
+      "price": 16.475
+    }
+  ]
+}

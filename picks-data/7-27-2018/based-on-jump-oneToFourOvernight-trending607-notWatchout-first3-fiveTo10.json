@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.525
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.5
+    },
+    {
+      "ticker": "BBD",
+      "price": 8.18
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DLNG",
+      "price": 8.05
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.68
+    },
+    {
+      "ticker": "BSBR",
+      "price": 9.589
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DLNG",
+      "price": 8.13
+    },
+    {
+      "ticker": "BBDO",
+      "price": 7.501
+    },
+    {
+      "ticker": "MNOV",
+      "price": 9.76
+    }
+  ]
+}

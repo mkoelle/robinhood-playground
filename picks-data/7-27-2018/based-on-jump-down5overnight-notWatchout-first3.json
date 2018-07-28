@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "TNXP",
+      "price": 0.9789
+    },
+    {
+      "ticker": "CFRX",
+      "price": 2.01
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TNXP",
+      "price": 0.99
+    },
+    {
+      "ticker": "SXE",
+      "price": 1.0854
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNXP",
+      "price": 1.07
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.9102
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.9294
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNXP",
+      "price": 1.41
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.9322
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.96
+    }
+  ]
+}

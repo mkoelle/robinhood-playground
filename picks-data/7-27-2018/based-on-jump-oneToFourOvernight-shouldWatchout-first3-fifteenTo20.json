@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HZO",
+      "price": 19.425
+    },
+    {
+      "ticker": "FLEX",
+      "price": 15.15
+    },
+    {
+      "ticker": "MFGP",
+      "price": 17.31
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HZO",
+      "price": 18.95
+    },
+    {
+      "ticker": "FLEX",
+      "price": 15.145
+    },
+    {
+      "ticker": "MFGP",
+      "price": 17.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HZO",
+      "price": 19.05
+    },
+    {
+      "ticker": "MFGP",
+      "price": 17.28
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HZO",
+      "price": 19.4716
+    },
+    {
+      "ticker": "MFGP",
+      "price": 17.2425
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.775
+    }
+  ]
+}

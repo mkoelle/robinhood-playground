@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INTX",
+      "price": 1.76
+    },
+    {
+      "ticker": "IGLD",
+      "price": 2.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2522
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.76
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2491
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2649
+    },
+    {
+      "ticker": "INTX",
+      "price": 1.76
+    }
+  ]
+}

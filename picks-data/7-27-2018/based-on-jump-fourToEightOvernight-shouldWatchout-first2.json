@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LMFA",
+      "price": 0.399
+    },
+    {
+      "ticker": "TTPH",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LMFA",
+      "price": 0.3882
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LMFA",
+      "price": 0.3882
+    },
+    {
+      "ticker": "TTPH",
+      "price": 3.015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LMFA",
+      "price": 0.3718
+    },
+    {
+      "ticker": "TTPH",
+      "price": 2.89
+    }
+  ]
+}

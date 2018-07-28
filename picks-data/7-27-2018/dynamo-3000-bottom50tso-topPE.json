@@ -1,0 +1,86 @@
+{
+  "4": [
+    {
+      "ticker": "HGSH",
+      "price": 1.5401
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.84
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CLD",
+      "price": 2.73
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.7976
+    },
+    {
+      "ticker": "DCIX",
+      "price": 1.6281
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GROW",
+      "price": 1.8699
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.905
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SFUN",
+      "price": 3.22
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.81
+    },
+    {
+      "ticker": "ESNC",
+      "price": 0.3522
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SFUN",
+      "price": 3.225
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.845
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.73
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GROW",
+      "price": 1.8332
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.19
+    },
+    {
+      "ticker": "SIFY",
+      "price": 1.69
+    }
+  ]
+}
