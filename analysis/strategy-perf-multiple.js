@@ -188,10 +188,10 @@ module.exports = async (Robinhood, daysBack = NUM_DAYS, ...strategies) => {
                     .map(a => a.maxUp)
                     .filter(trend => Math.abs(trend) < 50)
             ),
-            numErrors: withErrors.length,
+            // numErrors: withErrors.length,
             count: withoutErrors.length,
             // breakdowns: breakdownStats
-            daysDown,
+            daysDown: daysDown.length,
             // maxs: withoutErrors.map(a => a.maxUp)
             // dates: withoutErrors.map(a => a.date)
         };
@@ -228,21 +228,22 @@ module.exports = async (Robinhood, daysBack = NUM_DAYS, ...strategies) => {
     const topThirdCount = ({ count }) => count > daysBack * 2 / 3;
 
     return {
-        all: createBreakdown({ minPercUp: 0 }),
-        consistent: createBreakdown({
-            minPercUp: 0.98,
-            filterFn: topThirdCount,
+        all: createBreakdown({
+            minPercUp: 0
         }),
+        consistent: createBreakdown({
+            minPercUp: 1,
+        })
         creme: createBreakdown({        // top third count
             filterFn: topThirdCount,
         }),
         moderates: createBreakdown({
-            minPercUp: 0.92,
+            minPercUp: 0.90,
             filterFn: ({ count }) =>    // middle third count
                 count <= daysBack * 2 / 3
                 && count > daysBack / 3,
             // dont take count into consideration
-            // scoreFn: ({ percUp, avgMax }) => percUp * avgMax
+            scoreFn: ({ percUp, avgMax }) => percUp * avgMax
         }),
         occasionals: createBreakdown({  // bottom third count
             filterFn: ({ count }) => count <= daysBack / 3

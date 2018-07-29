@@ -108,6 +108,35 @@ const topPercUpJuly16 = [
     'based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-first1-30' // less common
 ];
 
+
+// multi days
+
+const creme = [
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
+    ''
+]
+
+const moderates = [
+    'low-float-high-volume-floatPoints-trend10to15-384',
+    ''
+]
+
+const occasionals = [
+    'based-on-jump-gtEightOvernight-notWatchout-first1-tenTo15-0',
+    'based-on-jump-down3overnight-trending53-notWatchout-gtneg20percmax-first1-30',
+    'low-float-high-volume-volTo2WeekPoints-trend15to25-fiveTo10-95',   // count 6
+    'low-float-high-volume-floatPoints-trendgt10-384',
+    'low-float-high-volume-twoWeekVolToAvgPoints-trend15to25-fiveTo10-95'   // count 6
+]
+
+const keepAnEyeOn = [
+    'low-float-high-volume-volToAvgPoints-trenddown3to5-fifteenTo20-95',
+    'dynamo-3000-bottom50tso-onlyWatchout-lowestYP-200',
+    ''
+]
+
+
+
 const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25

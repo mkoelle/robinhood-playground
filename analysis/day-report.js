@@ -16,14 +16,14 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
 
 module.exports = async (Robinhood) => {
 
-    let files = await fs.readdir('./daily-transactions');
+    let files = await fs.readdir('./json/daily-transactions');
 
     let sortedFiles = files.sort((a, b) => {
         return new Date(a.split('.')[0]) - new Date(b.split('.')[0]);
     });
     console.log(sortedFiles);
     const mostRecentDay = sortedFiles[sortedFiles.length - 1];
-    const todayFile = `./daily-transactions/${mostRecentDay}`;
+    const todayFile = `./json/daily-transactions/${mostRecentDay}`;
     const todayTransactions = await jsonMgr.get(todayFile) || [];
 
     const tickerLookups = {};
