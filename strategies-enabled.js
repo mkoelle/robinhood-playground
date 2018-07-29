@@ -163,7 +163,8 @@ const forPurchase = [
 const cheapestPicksEmailObj = [
     ['And', 're', 'wzouza@', 'gm', 'ail.com'],
     ['ViperKi', 'ller847', '@a', 'ol.com'],
-    ['Versa', 'cecoffin', 's@gmail.com']
+    ['Versa', 'cecoffin', 's@gmail.com'],
+    ['K.e', '.ode', 'll@gm', 'ail.com']
 ]
     .map(val => val.join(''))
     .reduce((acc, val) => ({
