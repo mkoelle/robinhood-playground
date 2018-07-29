@@ -19,7 +19,7 @@ module.exports = async (Robinhood) => {
     };
 
 
-    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-3-10 11:06:43 (+276).json');
+    // let trend = require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/json/stock-data/2018-3-10 11:06:43 (+276).json');
     let trend = await getTrendAndSave(Robinhood);
 
 
@@ -29,7 +29,7 @@ module.exports = async (Robinhood) => {
 
     cheapBuys = await addOvernightJump(Robinhood, cheapBuys);
 
-    // var allTickers = require('../stock-data/allStocks');
+    // var allTickers = require('../json/stock-data/allStocks');
     // allTickers = allTickers
     //     .filter(stock => stock.tradeable)
     //     .map(stock => stock.symbol);

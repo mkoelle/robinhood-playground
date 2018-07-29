@@ -31,7 +31,7 @@ const predictForDays = async (days, filterFn) => {
     const stratPerfsTrend = {};
     // console.log(allDays);
     for (let file of days) {
-        const obj = await jsonMgr.get(`./strat-perfs/${file}`);
+        const obj = await jsonMgr.get(`./json/strat-perfs/${file}`);
         // console.log(strategyName);
         // console.log(file);
         if (!obj['next-day-9']) continue;
@@ -110,7 +110,7 @@ module.exports = {
     predictForDays,
     predictCurrent: async (numDays, filterFn, skipYesterday) => {
         console.log('predict current', numDays);
-        let allDays = await fs.readdir(`./strat-perfs`);
+        let allDays = await fs.readdir(`./json/strat-perfs`);
         if (skipYesterday) allDays.pop();
         const forDays = numDays ? allDays.slice(0 - numDays) : allDays;
         const prediction = await predictForDays(forDays, filterFn);

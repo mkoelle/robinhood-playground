@@ -38,7 +38,7 @@ module.exports = async (Robinhood, daysBack = NUM_DAYS, ...strategies) => {
     console.log('strategies', strategies);
 
     const paramTrue = val => val && val.toString() === 'true';
-    let files = await fs.readdir('./strat-perfs');
+    let files = await fs.readdir('./json/strat-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
@@ -50,7 +50,7 @@ module.exports = async (Robinhood, daysBack = NUM_DAYS, ...strategies) => {
     const stratResults = new HashTable();
     const stratObj = {};
     for (let day of days) {
-        const dayStrats = await jsonMgr.get(`./strat-perfs/${day}.json`);
+        const dayStrats = await jsonMgr.get(`./json/strat-perfs/${day}.json`);
         stratObj[day] = dayStrats;
     }
 

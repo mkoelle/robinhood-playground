@@ -8,7 +8,7 @@ const saveJSON = async (fileName, obj) => {
 const getAllTickers = async (Robinhood) => {
     console.log('getting all tickers...');
     const allResults = await recursiveUrl(Robinhood, 'https://api.robinhood.com/instruments/');
-    await saveJSON('./stock-data/allStocks.json', allResults);
+    await saveJSON('./json/stock-data/allStocks.json', allResults);
     return allResults;
 };
 

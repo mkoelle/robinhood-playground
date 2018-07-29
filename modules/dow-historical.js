@@ -17,7 +17,7 @@ const trendFilter = async (Robinhood, trend) => {
 
     let returnArr = await addOvernightJump(Robinhood, trend);
 
-    // var allTickers = require('../stock-data/allStocks');
+    // var allTickers = require('../json/stock-data/allStocks');
     // allTickers = allTickers
     //     .filter(stock => stock.tradeable)
     //     .map(stock => stock.symbol);

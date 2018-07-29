@@ -1,4 +1,4 @@
-const allStocks = require('../stock-data/allStocks');
+const allStocks = require('../json/stock-data/allStocks');
 
 const filterByTradeable = stocks => {
     const areTradeable = [];

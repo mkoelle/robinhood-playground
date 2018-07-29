@@ -20,10 +20,10 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
 
     console.log('recording', strategy, 'strategy');
     const dateStr = (new Date()).toLocaleDateString().split('/').join('-');
-    const fileLocation = `./picks-data/${dateStr}/${strategy}.json`;
+    const fileLocation = `./json/picks-data/${dateStr}/${strategy}.json`;
     // create day directory if needed
-    if (!(await fs.exists(`./picks-data/${dateStr}`))) {
-        await fs.mkdir(`./picks-data/${dateStr}`);
+    if (!(await fs.exists(`./json/picks-data/${dateStr}`))) {
+        await fs.mkdir(`./json/picks-data/${dateStr}`);
     }
 
     // console.log('getting prices', picks);

@@ -24,7 +24,7 @@ const mostPicked = {
             run: [8, 19, 55, 183, 236, 307, 387],
             fn: async (Robinhood, min) => {
 
-                let strategies = await fs.readdir('./picks-data');
+                let strategies = await fs.readdir('./json/picks-data');
                 // console.log(folders);
 
                 let sortedFolders = strategies.sort((a, b) => {
@@ -33,7 +33,7 @@ const mostPicked = {
 
                 const recentDay = sortedFolders[0];
 
-                let files = await fs.readdir(`./picks-data/${recentDay}`);
+                let files = await fs.readdir(`./json/picks-data/${recentDay}`);
                 console.log(recentDay, files);
 
                 let tickerLookups = {};
@@ -44,7 +44,7 @@ const mostPicked = {
                 // load data from picks-data and keep track of tickers to lookup
                 for (let file of files) {
                     const strategyName = file.split('.')[0];
-                    const obj = await jsonMgr.get(`./picks-data/${recentDay}/${file}`);
+                    const obj = await jsonMgr.get(`./json/picks-data/${recentDay}/${file}`);
                     Object.keys(obj).forEach(key => {
 
                         const picks = obj[key];

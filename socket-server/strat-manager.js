@@ -102,7 +102,7 @@ const stratManager = {
         const isWeekday = day >= 1 && day <= 5;
         const dateStr = formatDate(now);
 
-        const hasPicksData = await fs.exists(`./picks-data/${dateStr}`);
+        const hasPicksData = await fs.exists(`./json/picks-data/${dateStr}`);
         if (!isWeekday || hasPicksData) {
             // from most recent day (weekend will get friday)
             await this.initPicks();
@@ -116,7 +116,7 @@ const stratManager = {
         console.log('init picks')
         const picks = [];
 
-        let folders = await fs.readdir('./picks-data');
+        let folders = await fs.readdir('./json/picks-data');
         let sortedFolders = folders.sort((a, b) => {
             return new Date(a) - new Date(b);
         });
@@ -124,10 +124,10 @@ const stratManager = {
         const mostRecentDay = sortedFolders[sortedFolders.length - 1];
         console.log('mostRecentDay', mostRecentDay);
         this.curDate = mostRecentDay;
-        let files = await fs.readdir(`./picks-data/${mostRecentDay}`);
+        let files = await fs.readdir(`./json/picks-data/${mostRecentDay}`);
         for (let file of files) {
             const strategyName = file.split('.')[0];
-            const obj = await jsonMgr.get(`./picks-data/${mostRecentDay}/${file}`);
+            const obj = await jsonMgr.get(`./json/picks-data/${mostRecentDay}/${file}`);
             for (let min of Object.keys(obj)) {
                 // for each strategy run
                 picks.push({
@@ -193,7 +193,7 @@ const stratManager = {
             return `${strat.avgTrend} ${strat.pm}`;
         }).join('\n');
         await sendEmail(`robinhood-playground: 24hr report for ${this.curDate}`, emailFormatted);
-        await jsonMgr.save(`./pm-perfs/${this.curDate}.json`, strategyReport);
+        await jsonMgr.save(`./json/pm-perfs/${this.curDate}.json`, strategyReport);
         console.log('send and updated strategy report')
     },
     async createAndSaveNewPredictionModels(todayPMpath) {
@@ -206,7 +206,7 @@ const stratManager = {
     async refreshPredictionModels() {
         console.log('refreshing prediction models');
         // set predictionmodels
-        const todayPMpath = `./prediction-models/${this.curDate}.json`;
+        const todayPMpath = `./json/prediction-models/${this.curDate}.json`;
         try {
             var foundDayPMs = await jsonMgr.get(todayPMpath);
         } catch (e) { }

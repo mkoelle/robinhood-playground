@@ -29,16 +29,16 @@ const sellAllOlderThanTwoDays = require('./app-actions/sell-all-older-than-two-d
 
     require('./socket-server');
     // console.log(await getUpStreak(Robinhood, 'AAPL', 3));
-    // await up10days.trendFilter(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-22 12:53:02 (+380*).json'));
+    // await up10days.trendFilter(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/json/stock-data/2018-1-22 12:53:02 (+380*).json'));
 
-    // console.log(await getPennyStocks(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/stock-data/2018-1-23 13:04:23 (+391).json')));
+    // console.log(await getPennyStocks(Robinhood, require('/Users/johnmurphy/Development/my-stuff/robinhood-playground/json/stock-data/2018-1-23 13:04:23 (+391).json')));
     // await logPortfolioValue(Robinhood);
     // does the list of stocks need updating?
 
     // const detailed = await detailedNonZero(Robinhood);
     // console.log(detailed);
     try {
-        allTickers = require('./stock-data/allStocks');
+        allTickers = require('./json/stock-data/allStocks');
         // throw new Error();
     } catch (e) {
         allTickers = await getAllTickers(Robinhood);

@@ -3,7 +3,7 @@ const jsonMgr = require('../utils/json-mgr');
 
 module.exports = async (Robinhood, daysBack = 1) => {
 
-    let folders = await fs.readdir('./picks-data');
+    let folders = await fs.readdir('./json/picks-data');
 
     let sortedFolders = folders.sort((a, b) => {
         return new Date(a) - new Date(b);
@@ -16,7 +16,7 @@ module.exports = async (Robinhood, daysBack = 1) => {
 
     console.log('dayOfInterest', dayOfInterest);
 
-    let picks = await fs.readdir(`./picks-data/${dayOfInterest}`);
+    let picks = await fs.readdir(`./json/picks-data/${dayOfInterest}`);
 
     const stocksRoundup = {};
     const picksOfInterest = picks.filter(pick => [
@@ -25,7 +25,7 @@ module.exports = async (Robinhood, daysBack = 1) => {
     ].every(strat => !pick.includes(strat)));
     for (let strategy of picksOfInterest) {
         console.log('strat', strategy);
-        const json = await jsonMgr.get(`./picks-data/${dayOfInterest}/${strategy}`);
+        const json = await jsonMgr.get(`./json/picks-data/${dayOfInterest}/${strategy}`);
         console.log(json);
         Object.keys(json).filter(runMin => runMin < 100).forEach(runMin => {
             const picksArr = json[runMin];

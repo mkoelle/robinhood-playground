@@ -23,7 +23,7 @@ module.exports = async (
     //     console.log(output);
     // }
 
-    let files = await fs.readdir('./pm-perfs');
+    let files = await fs.readdir('./json/pm-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
@@ -68,7 +68,7 @@ module.exports = async (
             const topCombo = output[0].pmList;
             // console.log('Recommended combo: ', topCombo);
             const nextDay = toBacktest[index + 1] || lastDay;
-            const nextDayPmPerfs = await jsonMgr.get(`./pm-perfs/${nextDay}.json`);
+            const nextDayPmPerfs = await jsonMgr.get(`./json/pm-perfs/${nextDay}.json`);
             // console.log('nextDay', nextDay);
             const followingDayTrends = topCombo.map(pm => {
                 const foundPerf = nextDayPmPerfs.find(pmObj => pmObj.pm === pm);

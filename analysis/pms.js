@@ -4,7 +4,7 @@ const avgArray = require('../utils/avg-array');
 
 module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
 
-    let files = await fs.readdir('./pm-perfs');
+    let files = await fs.readdir('./json/pm-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
@@ -17,7 +17,7 @@ module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
 
     const pmCache = {};
     for (let file of filesOfInterest) {
-        const json = await jsonMgr.get(`./pm-perfs/${file}.json`);
+        const json = await jsonMgr.get(`./json/pm-perfs/${file}.json`);
         json.forEach(({ pm, avgTrend }) => {
             pmCache[pm] = (pmCache[pm] || []).concat(
                 Number(avgTrend.slice(0, -1))

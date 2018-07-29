@@ -37,7 +37,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     console.log('mincount', minCount);
 
     const paramTrue = val => val && val.toString() === 'true';
-    let files = await fs.readdir('./strat-perfs');
+    let files = await fs.readdir('./json/strat-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
@@ -50,7 +50,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
     const stratResults = new HashTable();
     for (let day of threeMostRecent) {
 
-        const dayStrats = await jsonMgr.get(`./strat-perfs/${day}.json`);
+        const dayStrats = await jsonMgr.get(`./json/strat-perfs/${day}.json`);
         Object.keys(dayStrats).forEach(period => {
 
             const sellMin = Number(period.substring(period.lastIndexOf('-') + 1));

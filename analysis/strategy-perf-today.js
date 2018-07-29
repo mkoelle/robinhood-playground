@@ -5,7 +5,7 @@ const login = require('../rh-actions/login');
 const { analyzeDay } = require('../app-actions/record-strat-perfs');
 
 module.exports = async (Robinhood) => {
-    let folders = await fs.readdir('./picks-data');
+    let folders = await fs.readdir('./json/picks-data');
 
     let sortedFolders = folders.sort((a, b) => {
         return new Date(a) - new Date(b);

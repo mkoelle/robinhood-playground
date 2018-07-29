@@ -35,7 +35,7 @@ const lookupTickers = async (Robinhood, tickersToLookup, includeAfterHours) => {
 
 const analyzeDay = async (Robinhood, day) => {
 
-    let files = await fs.readdir(`./picks-data/${day}`);
+    let files = await fs.readdir(`./json/picks-data/${day}`);
     console.log(`analyzing ${day}: ${files.length} files`);
 
     let tickerLookups = {};
@@ -44,7 +44,7 @@ const analyzeDay = async (Robinhood, day) => {
     // load data from picks-data and keep track of tickers to lookup
     for (let file of files) {
         const strategyName = file.split('.')[0];
-        const obj = await jsonMgr.get(`./picks-data/${day}/${file}`);
+        const obj = await jsonMgr.get(`./json/picks-data/${day}/${file}`);
         // console.log(strategyName);
         // console.log(obj);
 
@@ -106,7 +106,7 @@ module.exports = {
 
         // console.log('running record')
         // console.log(Robinhood, min);
-        let folders = await fs.readdir('./picks-data');
+        let folders = await fs.readdir('./json/picks-data');
         // console.log(folders);
 
         let sortedFolders = folders.sort((a, b) => {
@@ -135,9 +135,9 @@ module.exports = {
             }
             const analyzed = await analyzeDay(Robinhood, pastDayDate);
 
-            const curStratPerfs = await jsonMgr.get(`./strat-perfs/${pastDayDate}.json`) || {};
+            const curStratPerfs = await jsonMgr.get(`./json/strat-perfs/${pastDayDate}.json`) || {};
             curStratPerfs[`${key}-${min}`] = analyzed;
-            await jsonMgr.save(`./strat-perfs/${pastDayDate}.json`, curStratPerfs);
+            await jsonMgr.save(`./json/strat-perfs/${pastDayDate}.json`, curStratPerfs);
             console.log(key, 'saved strat-perf');
         }
 

@@ -7,11 +7,11 @@ module.exports = async Robinhood => {
 
     // all picks to object
     
-    let allDays = await fs.readdir(`./strat-perfs`);
+    let allDays = await fs.readdir(`./json/strat-perfs`);
 
     const getTrendsForFile = async file => {
         const stratPerfsTrend = {};
-        const obj = await jsonMgr.get(`./strat-perfs/${file}`);
+        const obj = await jsonMgr.get(`./json/strat-perfs/${file}`);
         if (!obj['next-day-9']) return null;
         obj['next-day-9'].forEach(({ strategyName, avgTrend }) => {
             stratPerfsTrend[strategyName] = avgTrend;
@@ -25,7 +25,7 @@ module.exports = async Robinhood => {
         const stratPerfsTrend = {};
         // console.log(allDays);
         for (let file of days) {
-            const obj = await jsonMgr.get(`./strat-perfs/${file}`);
+            const obj = await jsonMgr.get(`./json/strat-perfs/${file}`);
             // console.log(strategyName);
             // console.log(file);
             if (!obj['next-day-9']) continue;

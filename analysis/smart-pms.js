@@ -35,7 +35,7 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
     console.log('daysBack', daysBack);
     console.log('numChunks', numChunks);
     console.log('ignoreDays', ignoreDays);
-    let files = await fs.readdir('./pm-perfs');
+    let files = await fs.readdir('./json/pm-perfs');
 
     let sortedFiles = files
         .map(f => f.split('.')[0])
@@ -50,7 +50,7 @@ module.exports = async (Robinhood, daysBack = 5, numChunks = 3, ignoreDays = 0) 
     //-
     const pmCache = {};
     for (let file of filesOfInterest) {
-        const json = await jsonMgr.get(`./pm-perfs/${file}.json`);
+        const json = await jsonMgr.get(`./json/pm-perfs/${file}.json`);
         // console.log(json, 'heyyyy');
         json.forEach(({ pm, avgTrend }) => {
             // if (!(pm.endsWith('sortedByAvgTrend-first1') || pm.endsWith('sortedByPercUp-first1'))) return;
