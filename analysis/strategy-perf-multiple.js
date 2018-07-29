@@ -12,6 +12,8 @@ const strategyPerfToday = require('./strategy-perf-today');
 
 let Robinhood;
 
+const keyOrder = ['next-day-9', 'next-day-85', 'next-day-230', 'next-day-330', 'second-day-9', 'third-day-9', 'fourth-day-9'];
+
 class HashTable {
     constructor() {
         this.hashes = {};
@@ -31,10 +33,9 @@ class HashTable {
     }
 }
 
-module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount = 0, ignoreYesterday, maxCount = Number.POSITIVE_INFINITY) => {
-    console.log('includeToday', includeToday);
+module.exports = async (Robinhood, daysBack = NUM_DAYS, ...strategies) => {
     console.log('days back', daysBack);
-    console.log('mincount', minCount);
+    console.log('strategies', strategies);
 
     const paramTrue = val => val && val.toString() === 'true';
     let files = await fs.readdir('./strat-perfs');
@@ -57,7 +58,7 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
 
     // const allStrategies = stratObj[days[0]]['next-day-9'].map(obj => obj.strategyName);
 
-    const allStrategies = (() => {
+    const allStrategies = strategies.length ? strategies : (() => {
         const stratNames = [];
         Object.keys(stratObj).forEach(date => {
             Object.keys(stratObj[date]).forEach(timeKey => {
@@ -111,12 +112,27 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         const sorted = foundTrends.sort((a, b) => b.avgTrend - a.avgTrend);
         const trends = foundTrends.map(trend => trend.avgTrend);
 
-        const winnerTime = sorted[0].key;
+        const {
+            key: winnerTime,
+            avgTrend: maxUp,
+            picks
+        } = sorted[0];
+
+        // if (maxUp > 50) {
+        //     console.log('found big one')
+        //     console.log(sorted[0], date);
+        // }
+
         const stats = {
             didGoUp: trends.some(trend => trend > 0),
-            maxUp: sorted[0].avgTrend,
+            maxUp,
             winnerTime,
-            date
+            date,
+            picks,
+            breakdowns: sorted.reduce((acc, { key, avgTrend }) => ({
+                ...acc,
+                [key]: avgTrend
+            }), {})
         };
 
         return stats;
@@ -136,10 +152,33 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
         const withErrors = analyzed
             .filter(value => value.notEnoughError);
 
+
         // console.log('num errors', withErrors.length);
 
         const withoutErrors = analyzed
             .filter(value => !value.notEnoughError);
+        //
+        const daysDown = withoutErrors
+            .filter(v => !v.didGoUp)
+            // .map(v => v.date);
+
+        // const breakdownRoundup = withoutErrors.reduce((acc, obj) => {
+        //     const { breakdowns } = obj;
+        //     Object.keys(breakdowns).forEach(key => {
+        //         acc[key] = (acc[key] || []).concat(breakdowns[key]);
+        //     });
+        //     return acc;
+        // }, {});
+        //
+        // const breakdownStats = {};
+        // keyOrder.forEach(key => {
+        //     if (!breakdownRoundup[key]) return;
+        //     const filteredVals = breakdownRoundup[key].filter(t => Math.abs(t) < 50);
+        //     breakdownStats[key] = {
+        //         avg: avgArray(filteredVals),
+        //         percUp: filteredVals.filter(a => a > 0).length / filteredVals.length
+        //     }
+        // });
 
         const roundup = {
             strategy,
@@ -147,10 +186,13 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
             avgMax: avgArray(
                 withoutErrors
                     .map(a => a.maxUp)
-                    .filter(trend => trend < 100)
+                    .filter(trend => Math.abs(trend) < 50)
             ),
             numErrors: withErrors.length,
             count: withoutErrors.length,
+            // breakdowns: breakdownStats
+            daysDown,
+            // maxs: withoutErrors.map(a => a.maxUp)
             // dates: withoutErrors.map(a => a.date)
         };
 
@@ -166,8 +208,45 @@ module.exports = async (Robinhood, includeToday, daysBack = NUM_DAYS, minCount =
 
     });
 
-    return allRoundup
-        .filter(r => r.count > 10)
-        .sort((a, b) => b.percUp - a.percUp);
+
+    const createBreakdown = ({
+        minPercUp = 0.95,
+        scoreFn = ({ percUp, avgMax, count }) => percUp * avgMax * count,
+        filterFn = () => true
+    }) => {
+        const filtered = allRoundup
+            .filter(({ percUp }) => percUp > minPercUp)
+            .filter(filterFn);
+        const withScore = filtered.map(obj => ({
+            ...obj,
+            score: scoreFn(obj)
+        }));
+        const sorted = withScore.sort((a, b) => b.score - a.score);
+        return sorted;
+    };
+
+    const topThirdCount = ({ count }) => count > daysBack * 2 / 3;
+
+    return {
+        all: createBreakdown({ minPercUp: 0 }),
+        consistent: createBreakdown({
+            minPercUp: 0.98,
+            filterFn: topThirdCount,
+        }),
+        creme: createBreakdown({        // top third count
+            filterFn: topThirdCount,
+        }),
+        moderates: createBreakdown({
+            minPercUp: 0.92,
+            filterFn: ({ count }) =>    // middle third count
+                count <= daysBack * 2 / 3
+                && count > daysBack / 3,
+            // dont take count into consideration
+            // scoreFn: ({ percUp, avgMax }) => percUp * avgMax
+        }),
+        occasionals: createBreakdown({  // bottom third count
+            filterFn: ({ count }) => count <= daysBack / 3
+        }),
+    };
 
 };
