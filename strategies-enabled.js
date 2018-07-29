@@ -156,7 +156,7 @@ const forPurchase = [
     // short sell / buy put option / sell call option:
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276'
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
     ...occasionals
 ];
 
