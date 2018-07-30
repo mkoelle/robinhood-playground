@@ -136,18 +136,19 @@ const moderates = [
 const occasionals = [
     'based-on-jump-gtEightOvernight-notWatchout-first1-tenTo15-0',
     'based-on-jump-down3overnight-trending53-notWatchout-gtneg20percmax-first1-30',
-    'low-float-high-volume-floatPoints-trendgt10-384',
+    'low-float-high-volume-floatPoints-trendgt10-384',  // can we buy 384 strats?
 ];
 
 const occasionalLowCount = [
     'low-float-high-volume-volTo2WeekPoints-trend15to25-fiveTo10-95',   // count 6
     'low-float-high-volume-twoWeekVolToAvgPoints-trend15to25-fiveTo10-95'   // count 6
-]
+    'sudden-drops-last3trend-filter10-221'
+];
 
 const keepAnEyeOn = [
-    'low-float-high-volume-volToAvgPoints-trenddown3to5-fifteenTo20-95',
-    'dynamo-3000-bottom50tso-onlyWatchout-lowestYP-200',
-    'sudden-drops-last3trend-filter10-221'
+    'dynamo-3000-bottom50tso-onlyWatchout-lowestYP-200',    // idk why i am including this
+    'low-float-high-volume-volToAvgPoints-trenddown3to5-fifteenTo20-95',    // new
+    'dynamo-3000-overall-onlyWatchout-highestTSO-tenTo15-100'
 ];
 
 
@@ -157,7 +158,10 @@ const forPurchase = [
     // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
     // constant-risers-10minute-percUpHighClose-highovernightjumps-198
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
+    'sudden-drops-last3trend-filter10-221',
     ...occasionals
+    ...moderates
 ];
 
 const cheapestPicksEmailObj = [
