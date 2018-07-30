@@ -1,4 +1,4 @@
-const analyzeDay = (strategyName, stratPerf, date) => {
+const analyzeDay = ({ strategyName, stratPerf, date }) => {
 
     const foundTrends = [];
     Object.keys(stratPerf)

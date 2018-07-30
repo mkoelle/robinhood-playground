@@ -1,7 +1,7 @@
 module.exports = allRoundup => {
 
     const createBreakdown = ({
-        minPercUp = 0.95,
+        minPercUp = 0,
         scoreFn = ({ percUp, avgMax, count }) => percUp * avgMax * count,
         filterFn = () => true
     }) => {
@@ -13,33 +13,34 @@ module.exports = allRoundup => {
             score: scoreFn(obj)
         }));
         const sorted = withScore.sort((a, b) => b.score - a.score);
-        return sorted;
+        return minPercUp === 0 ? sorted : sorted.slice(0, 15);
     };
 
-    const topThirdCount = ({ count }) => count > daysBack * 2 / 3;
-
+    const maxCount = Math.max(...allRound.map(o => o.count));
+    console.log(maxCount, 'maxCount');
+    
     return {
         all: createBreakdown({
             minPercUp: 0
         }),
         consistent: createBreakdown({
-            minPercUp: 1,
             // top 3 quarters
-            filterFn: ({ count }) => count >= daysBack / 4
+            filterFn: ({ count }) => count >= maxCount / 4,
+            scoreFn: ({ count, percUp }) => (100 + count) * percUp
         }),
         creme: createBreakdown({        // top third count
-            filterFn: topThirdCount,
+            filterFn: ({ count }) => count > maxCount * 2 / 3,
         }),
         moderates: createBreakdown({
             minPercUp: 0.90,
             filterFn: ({ count }) =>    // middle third count
-                count <= daysBack * 2 / 3
-                && count > daysBack / 3,
+                count <= maxCount * 2 / 3
+                && count > maxCount / 3,
             // dont take count into consideration
             scoreFn: ({ percUp, avgMax }) => percUp * avgMax
         }),
         occasionals: createBreakdown({  // bottom third count
-            filterFn: ({ count }) => count <= daysBack / 3
+            filterFn: ({ count }) => count <= maxCount / 3
         }),
     };
 

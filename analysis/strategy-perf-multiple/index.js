@@ -1,14 +1,18 @@
 
-const init = require('./init');
+const initStratPerfs = require('./init-strat-perfs');
 const calcUniqStrategies = require('./calc-uniq-strategies');
 const analyzeStrategy = require('./analyze-strategy');
 const generateBreakdowns = require('./generate-breakdowns');
 
 module.exports = async (Robinhood, daysBack = 2, ...strategies) => {
     console.log('days back', daysBack);
-    console.log('strategies', strategies);
 
-    const { days, stratObj } = await init(daysBack);
+    const suppliedStrategies = strategies.length;
+    if (suppliedStrategies) {
+        console.log('strategies', strategies);
+    }
+
+    const { days, stratObj } = await initStratPerfs(daysBack);
     const allStrategies = strategies.length ? strategies : calcUniqStrategies(stratObj);
 
     console.log('num strategies', allStrategies.length);
@@ -19,13 +23,17 @@ module.exports = async (Robinhood, daysBack = 2, ...strategies) => {
     // ];
 
     const allRoundup = allStrategies.map((strategyName, index) => {
-        const strategyAnalysis = analyzeStrategy(strategyName, stratObj);
+        const strategyAnalysis = analyzeStrategy({
+            strategyName,
+            stratObj,
+            detailed: suppliedStrategies
+        });
         if (index % 50 === 0) {
             console.log(index, '/', allStrategies.length);
         }
         return strategyAnalysis;
     });
 
-    return generateBreakdowns(allRoundup);
+    return suppliedStrategies ? allRoundup : generateBreakdowns(allRoundup);
 
 };
