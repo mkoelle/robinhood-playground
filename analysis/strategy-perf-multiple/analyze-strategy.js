@@ -66,6 +66,7 @@ const analyzeStrategy = ({
 
             return {
                 daysDown: daysDown,
+                bigDays: withoutErrors.filter(v => v.maxUp > 50),
                 breakdowns: breakdownStats,
                 maxs: withoutErrors.map(a => a.maxUp),
                 // hundredResult: withoutErrors.reduce((acc, obj) => {

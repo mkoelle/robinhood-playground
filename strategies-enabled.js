@@ -141,7 +141,7 @@ const occasionals = [
 
 const occasionalLowCount = [
     'low-float-high-volume-volTo2WeekPoints-trend15to25-fiveTo10-95',   // count 6
-    'low-float-high-volume-twoWeekVolToAvgPoints-trend15to25-fiveTo10-95'   // count 6
+    'low-float-high-volume-twoWeekVolToAvgPoints-trend15to25-fiveTo10-95',   // count 6
     'sudden-drops-last3trend-filter10-221'
 ];
 
@@ -160,7 +160,7 @@ const forPurchase = [
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
     'sudden-drops-last3trend-filter10-221',
-    ...occasionals
+    ...occasionals,
     ...moderates
 ];
 
