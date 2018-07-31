@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "DB",
+      "price": 12.74
+    },
+    {
+      "ticker": "USO",
+      "price": 14.62
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DB",
+      "price": 12.79
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.345
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.12
+    },
+    {
+      "ticker": "USO",
+      "price": 14.6275
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 12.79
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.425
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.15
+    },
+    {
+      "ticker": "USO",
+      "price": 14.63
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 12.75
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.085
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.39
+    },
+    {
+      "ticker": "OAS",
+      "price": 12.231
+    },
+    {
+      "ticker": "USO",
+      "price": 14.571
+    }
+  ]
+}

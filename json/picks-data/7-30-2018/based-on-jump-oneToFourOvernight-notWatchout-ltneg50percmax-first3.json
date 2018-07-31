@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NEON",
+      "price": 0.373
+    },
+    {
+      "ticker": "HK",
+      "price": 4.06
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SBGL",
+      "price": 2.405
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.17
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBGL",
+      "price": 2.405
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3501
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1657
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBGL",
+      "price": 2.405
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3691
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1665
+    }
+  ]
+}

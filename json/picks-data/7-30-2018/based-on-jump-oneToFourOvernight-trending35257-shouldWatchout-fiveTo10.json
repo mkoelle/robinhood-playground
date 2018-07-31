@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SND",
+      "price": 5.83
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SND",
+      "price": 5.85
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SND",
+      "price": 5.88
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SND",
+      "price": 5.83
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.7
+    }
+  ]
+}

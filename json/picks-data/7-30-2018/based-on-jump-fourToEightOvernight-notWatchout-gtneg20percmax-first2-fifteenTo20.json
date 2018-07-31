@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ARLP",
+      "price": 19.4032
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARLP",
+      "price": 19.599
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARLP",
+      "price": 19.55
+    },
+    {
+      "ticker": "CRCM",
+      "price": 18.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ARLP",
+      "price": 19.4
+    },
+    {
+      "ticker": "CRCM",
+      "price": 18.0001
+    }
+  ]
+}

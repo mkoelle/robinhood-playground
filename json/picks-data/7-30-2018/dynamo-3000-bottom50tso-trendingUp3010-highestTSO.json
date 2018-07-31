@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AIPT",
+      "price": 1.1425
+    },
+    {
+      "ticker": "AAV",
+      "price": 3.61
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BSPM",
+      "price": 2.17
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.382
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRPO",
+      "price": 0.3897
+    },
+    {
+      "ticker": "DGLY",
+      "price": 2.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CPHI",
+      "price": 0.2551
+    },
+    {
+      "ticker": "CCIH",
+      "price": 1.2331
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATIS",
+      "price": 0.3909
+    },
+    {
+      "ticker": "PED",
+      "price": 2.395
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PED",
+      "price": 2.34
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PED",
+      "price": 2.3669
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.42
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OGEN",
+      "price": 0.55
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VMIN",
+      "price": 3.23
+    },
+    {
+      "ticker": "WIN",
+      "price": 3.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMMA",
+      "price": 0.2007
+    },
+    {
+      "ticker": "VMIN",
+      "price": 3.23
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMMA",
+      "price": 0.1999
+    },
+    {
+      "ticker": "GEVO",
+      "price": 3.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AYTU",
+      "price": 0.2879
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.14
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DCIX",
+      "price": 1.55
+    },
+    {
+      "ticker": "ZSAN",
+      "price": 4.2164
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EDGE",
+      "price": 0.93
+    },
+    {
+      "ticker": "OHRP",
+      "price": 0.1864
+    }
+  ]
+}

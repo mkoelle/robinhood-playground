@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FULT",
+      "price": 17.475
+    },
+    {
+      "ticker": "FXN",
+      "price": 17.1399
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RYAM",
+      "price": 17.5
+    },
+    {
+      "ticker": "MTRX",
+      "price": 19.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTY",
+      "price": 15.625
+    },
+    {
+      "ticker": "AMX",
+      "price": 17.355
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SMHD",
+      "price": 19.106
+    },
+    {
+      "ticker": "PMT",
+      "price": 19.26
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BGG",
+      "price": 17.29
+    },
+    {
+      "ticker": "PQG",
+      "price": 17.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "KIM",
+      "price": 16.3
+    },
+    {
+      "ticker": "ECYT",
+      "price": 15.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNWB",
+      "price": 16.15
+    },
+    {
+      "ticker": "WDR",
+      "price": 19.36
+    }
+  ]
+}

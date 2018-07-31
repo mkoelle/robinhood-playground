@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TPC",
+      "price": 18.5945
+    },
+    {
+      "ticker": "YPF",
+      "price": 16.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GASX",
+      "price": 17.4204
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GASX",
+      "price": 17.2989
+    },
+    {
+      "ticker": "AZUL",
+      "price": 20
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SWIR",
+      "price": 16.275
+    },
+    {
+      "ticker": "AZUL",
+      "price": 19.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GASX",
+      "price": 17.26
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GASX",
+      "price": 17.13
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.1428
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GASX",
+      "price": 17.3601
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.1
+    }
+  ]
+}

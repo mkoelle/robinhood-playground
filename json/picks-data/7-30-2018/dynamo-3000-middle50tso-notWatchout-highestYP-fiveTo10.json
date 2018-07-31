@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CERS",
+      "price": 7.25
+    },
+    {
+      "ticker": "VSLR",
+      "price": 5.717
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOA",
+      "price": 6.7077
+    },
+    {
+      "ticker": "DS",
+      "price": 6.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FRSH",
+      "price": 5.5094
+    },
+    {
+      "ticker": "IRT",
+      "price": 9.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CMCL",
+      "price": 9.07
+    },
+    {
+      "ticker": "PHK",
+      "price": 8.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FBP",
+      "price": 8.3475
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.5263
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LONE",
+      "price": 9.29
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LONE",
+      "price": 9.32
+    },
+    {
+      "ticker": "CMCL",
+      "price": 9.08
+    }
+  ]
+}

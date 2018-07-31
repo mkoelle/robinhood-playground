@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMD",
+      "price": 19.515
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMD",
+      "price": 19.576
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.81
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMD",
+      "price": 19.43
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMD",
+      "price": 19.705
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    }
+  ]
+}

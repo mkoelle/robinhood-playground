@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CBK",
+      "price": 1.02
+    },
+    {
+      "ticker": "LWAY",
+      "price": 3.87
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.34
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RNN",
+      "price": 1.3779
+    },
+    {
+      "ticker": "CBK",
+      "price": 0.9873
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.54
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CBK",
+      "price": 0.99
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.56
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.3835
+    }
+  ]
+}

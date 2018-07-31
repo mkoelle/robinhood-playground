@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 1.155
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.9719
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3307
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 1.05
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.26
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.6985
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.919
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.3173
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.6816
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KBR",
+      "price": 19.95
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KBR",
+      "price": 19.96
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.65
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KBR",
+      "price": 20.0225
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KBR",
+      "price": 19.69
+    },
+    {
+      "ticker": "NSM",
+      "price": 19.45
+    }
+  ]
+}

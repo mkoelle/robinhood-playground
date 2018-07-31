@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MHH",
+      "price": 19.31
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MHH",
+      "price": 19.6401
+    },
+    {
+      "ticker": "ESND",
+      "price": 17.0692
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATTU",
+      "price": 16.25
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 16.23
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.28
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATTU",
+      "price": 16.27
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.905
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATTU",
+      "price": 16.245
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESND",
+      "price": 16.39
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15.82
+    }
+  ]
+}

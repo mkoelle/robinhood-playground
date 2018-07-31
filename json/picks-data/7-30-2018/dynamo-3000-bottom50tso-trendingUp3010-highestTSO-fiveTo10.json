@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.95
+    },
+    {
+      "ticker": "CZZ",
+      "price": 8.34
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRR",
+      "price": 9.74
+    },
+    {
+      "ticker": "ASG",
+      "price": 6.871
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSBR",
+      "price": 8.5
+    },
+    {
+      "ticker": "NFEC",
+      "price": 5.129
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NFEC",
+      "price": 5.0956
+    },
+    {
+      "ticker": "TRXC",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADMA",
+      "price": 6.35
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HQCL",
+      "price": 6.24
+    },
+    {
+      "ticker": "RIOT",
+      "price": 7.28
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRR",
+      "price": 9.5299
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.19
+    }
+  ]
+}

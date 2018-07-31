@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DSPG",
+      "price": 13.25
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DSPG",
+      "price": 12.875
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DSPG",
+      "price": 12.7
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSPG",
+      "price": 12.3
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    }
+  ]
+}

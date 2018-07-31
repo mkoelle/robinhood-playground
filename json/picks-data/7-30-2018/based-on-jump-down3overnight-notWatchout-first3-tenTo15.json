@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "SNNA",
+      "price": 13.21
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.1364
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SNNA",
+      "price": 15.25
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.64
+    },
+    {
+      "ticker": "CYOU",
+      "price": 12.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BILI",
+      "price": 11.7101
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.59
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BILI",
+      "price": 11.8327
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.72
+    },
+    {
+      "ticker": "NYNY",
+      "price": 14.05
+    }
+  ]
+}

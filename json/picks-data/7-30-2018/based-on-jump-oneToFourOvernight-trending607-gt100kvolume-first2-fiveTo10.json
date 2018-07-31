@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "IBN",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IBN",
+      "price": 8.97
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IBN",
+      "price": 8.93
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IBN",
+      "price": 8.89
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.34
+    }
+  ]
+}

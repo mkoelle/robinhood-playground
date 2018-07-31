@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGAN",
+      "price": 13.55
+    },
+    {
+      "ticker": "CEMI",
+      "price": 11.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GFN",
+      "price": 13.2
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.955
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GFN",
+      "price": 13.25
+    },
+    {
+      "ticker": "CTSO",
+      "price": 11.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 11.45
+    },
+    {
+      "ticker": "RUN",
+      "price": 13.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GFN",
+      "price": 13.3
+    },
+    {
+      "ticker": "INS",
+      "price": 10.295
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GFN",
+      "price": 13.25
+    },
+    {
+      "ticker": "INS",
+      "price": 10.285
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GFN",
+      "price": 13.25
+    },
+    {
+      "ticker": "INS",
+      "price": 10.285
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 9.01
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 9.68
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 9.405
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 9.07
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.47
+    }
+  ]
+}

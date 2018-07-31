@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WMIH",
+      "price": 1.53
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TST",
+      "price": 2.39
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TST",
+      "price": 2.3962
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.89
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TST",
+      "price": 2.35
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.9
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TST",
+      "price": 2.29
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.58
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNR",
+      "price": 4.64
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DNR",
+      "price": 4.68
+    },
+    {
+      "ticker": "TMQ",
+      "price": 1.91
+    }
+  ]
+}

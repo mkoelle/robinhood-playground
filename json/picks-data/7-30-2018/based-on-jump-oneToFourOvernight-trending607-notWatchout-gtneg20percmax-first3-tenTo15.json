@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RELL",
+      "price": 10.06
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.778
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.345
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.425
+    },
+    {
+      "ticker": "USO",
+      "price": 14.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.39
+    },
+    {
+      "ticker": "USO",
+      "price": 14.571
+    }
+  ]
+}

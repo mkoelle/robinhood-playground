@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.32
+    },
+    {
+      "ticker": "CSLT",
+      "price": 5.05
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.24
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDLP",
+      "price": 3.35
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.29
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDLP",
+      "price": 3.38
+    },
+    {
+      "ticker": "OBCI",
+      "price": 3.4
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    },
+    {
+      "ticker": "AWSM",
+      "price": 3.9
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDLP",
+      "price": 3.43
+    },
+    {
+      "ticker": "OBCI",
+      "price": 3.4
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    },
+    {
+      "ticker": "AWSM",
+      "price": 3.99
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.7
+    }
+  ]
+}

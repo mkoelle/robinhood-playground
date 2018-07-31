@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DM",
+      "price": 15.35
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 15.765
+    }
+  ],
+  "40": [
+    {
+      "ticker": "YRD",
+      "price": 17.12
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.4204
+    }
+  ],
+  "100": [
+    {
+      "ticker": "YRD",
+      "price": 16.68
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.2989
+    }
+  ],
+  "200": [
+    {
+      "ticker": "YRD",
+      "price": 17.0705
+    },
+    {
+      "ticker": "DOMO",
+      "price": 16.03
+    }
+  ],
+  "260": [
+    {
+      "ticker": "YRD",
+      "price": 17.42
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRD",
+      "price": 18.21
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.13
+    }
+  ],
+  "381": [
+    {
+      "ticker": "YRD",
+      "price": 18.02
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.3601
+    }
+  ]
+}

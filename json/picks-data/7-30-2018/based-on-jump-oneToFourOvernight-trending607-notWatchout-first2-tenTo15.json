@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RELL",
+      "price": 10.06
+    },
+    {
+      "ticker": "DB",
+      "price": 12.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    },
+    {
+      "ticker": "DB",
+      "price": 12.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 12.79
+    },
+    {
+      "ticker": "KT",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 12.75
+    },
+    {
+      "ticker": "KT",
+      "price": 13.465
+    }
+  ]
+}

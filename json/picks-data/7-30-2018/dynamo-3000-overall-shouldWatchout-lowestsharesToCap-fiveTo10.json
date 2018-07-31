@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SYRS",
+      "price": 9.65
+    },
+    {
+      "ticker": "VIPS",
+      "price": 9.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SYRS",
+      "price": 9.78
+    },
+    {
+      "ticker": "VIPS",
+      "price": 9.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYRS",
+      "price": 9.88
+    },
+    {
+      "ticker": "VIPS",
+      "price": 9.745
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VKTX",
+      "price": 9.69
+    },
+    {
+      "ticker": "AWX",
+      "price": 8.2439
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 9.716
+    },
+    {
+      "ticker": "AWX",
+      "price": 7.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VKTX",
+      "price": 10.0101
+    },
+    {
+      "ticker": "AWX",
+      "price": 6.965
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VKTX",
+      "price": 9.81
+    },
+    {
+      "ticker": "AWX",
+      "price": 6.43
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DB",
+      "price": 12.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DB",
+      "price": 12.79
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.335
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 12.79
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.365
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.58
+    },
+    {
+      "ticker": "HLX",
+      "price": 10.355
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 12.75
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.385
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.7
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.715
+    },
+    {
+      "ticker": "ITUB",
+      "price": 12.54
+    }
+  ]
+}

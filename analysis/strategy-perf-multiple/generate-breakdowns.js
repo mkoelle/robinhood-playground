@@ -16,9 +16,9 @@ module.exports = allRoundup => {
         return minPercUp === 0 ? sorted : sorted.slice(0, 15);
     };
 
-    const maxCount = Math.max(...allRound.map(o => o.count));
+    const maxCount = Math.max(...allRoundup.map(o => o.count));
     console.log(maxCount, 'maxCount');
-    
+
     return {
         all: createBreakdown({
             minPercUp: 0

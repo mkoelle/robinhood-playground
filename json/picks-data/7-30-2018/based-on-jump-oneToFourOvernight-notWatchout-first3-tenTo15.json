@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PAK",
+      "price": 11.62
+    },
+    {
+      "ticker": "DSPG",
+      "price": 13.25
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.06
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PAK",
+      "price": 11.6
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.875
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PAK",
+      "price": 11.598
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.7
+    },
+    {
+      "ticker": "ECOR",
+      "price": 14.0099
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PAK",
+      "price": 11.51
+    },
+    {
+      "ticker": "DSPG",
+      "price": 12.3
+    },
+    {
+      "ticker": "ECOR",
+      "price": 14
+    }
+  ]
+}

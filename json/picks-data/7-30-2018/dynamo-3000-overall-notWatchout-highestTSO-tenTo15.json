@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HMG",
+      "price": 14.5223
+    },
+    {
+      "ticker": "JAG",
+      "price": 14.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BILI",
+      "price": 11.76
+    },
+    {
+      "ticker": "AOI",
+      "price": 14.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AOI",
+      "price": 14.9
+    },
+    {
+      "ticker": "BILI",
+      "price": 11.6211
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNNA",
+      "price": 14.91
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SNNA",
+      "price": 14.96
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VIIX",
+      "price": 13.75
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VIIX",
+      "price": 13.66
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.44
+    }
+  ]
+}

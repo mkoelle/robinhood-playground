@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RES",
+      "price": 15.07
+    },
+    {
+      "ticker": "FLWS",
+      "price": 14.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACP",
+      "price": 14.01
+    },
+    {
+      "ticker": "FRA",
+      "price": 13.78
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DPG",
+      "price": 14.9
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NUO",
+      "price": 13.88
+    },
+    {
+      "ticker": "MUH",
+      "price": 13.82
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HILO",
+      "price": 14.81
+    },
+    {
+      "ticker": "EFT",
+      "price": 14.6064
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NUO",
+      "price": 13.885
+    },
+    {
+      "ticker": "EDI",
+      "price": 13.565
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDEM",
+      "price": 14.63
+    },
+    {
+      "ticker": "NZF",
+      "price": 14.41
+    }
+  ]
+}

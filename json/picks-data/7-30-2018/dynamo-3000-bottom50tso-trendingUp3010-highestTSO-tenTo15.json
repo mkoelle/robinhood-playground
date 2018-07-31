@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JMF",
+      "price": 10.76
+    },
+    {
+      "ticker": "TEI",
+      "price": 10.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SSRM",
+      "price": 10.26
+    },
+    {
+      "ticker": "SNMP",
+      "price": 11.5825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LAUR",
+      "price": 14.98
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LAUR",
+      "price": 14.83
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GEOS",
+      "price": 14.155
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 12.87
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ZEAL",
+      "price": 14.4704
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SUPV",
+      "price": 13.205
+    },
+    {
+      "ticker": "DRNA",
+      "price": 12.445
+    }
+  ]
+}

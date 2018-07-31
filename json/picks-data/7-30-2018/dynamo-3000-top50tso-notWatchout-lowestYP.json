@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGLT",
+      "price": 0.31
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GNMX",
+      "price": 1.09
+    },
+    {
+      "ticker": "CPRX",
+      "price": 2.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WWR",
+      "price": 0.365
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FFHL",
+      "price": 2.75
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.265
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FFHL",
+      "price": 2.68
+    },
+    {
+      "ticker": "SFUN",
+      "price": 3.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AGEN",
+      "price": 1.86
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.58
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5401
+    },
+    {
+      "ticker": "AGEN",
+      "price": 1.87
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SOGO",
+      "price": 9.01
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOGO",
+      "price": 9.68
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOGO",
+      "price": 9.405
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.52
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.91
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOGO",
+      "price": 9.07
+    },
+    {
+      "ticker": "BCOM",
+      "price": 7.47
+    },
+    {
+      "ticker": "DRIP",
+      "price": 5.91
+    }
+  ]
+}

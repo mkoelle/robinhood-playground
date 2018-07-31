@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ICL",
+      "price": 4.86
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDS",
+      "price": 3.645
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PDS",
+      "price": 3.6223
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDS",
+      "price": 3.605
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.83
+    }
+  ]
+}

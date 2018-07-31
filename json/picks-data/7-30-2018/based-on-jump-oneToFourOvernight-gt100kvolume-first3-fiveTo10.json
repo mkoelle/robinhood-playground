@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NOK",
+      "price": 5.57
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NOK",
+      "price": 5.525
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.97
+    },
+    {
+      "ticker": "NE",
+      "price": 5.835
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NOK",
+      "price": 5.53
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.02
+    },
+    {
+      "ticker": "IBN",
+      "price": 8.93
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMR",
+      "price": 6.22
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.515
+    },
+    {
+      "ticker": "WTI",
+      "price": 7.095
+    }
+  ]
+}

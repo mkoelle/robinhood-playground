@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.32
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDLP",
+      "price": 3.35
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDLP",
+      "price": 3.38
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.4928
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDLP",
+      "price": 3.43
+    },
+    {
+      "ticker": "KIQ",
+      "price": 0.4915
+    }
+  ]
+}

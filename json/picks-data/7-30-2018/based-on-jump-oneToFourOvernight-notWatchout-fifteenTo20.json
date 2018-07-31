@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "MYE",
+      "price": 19
+    },
+    {
+      "ticker": "TRK",
+      "price": 17.46
+    },
+    {
+      "ticker": "AMD",
+      "price": 19.515
+    },
+    {
+      "ticker": "HTBK",
+      "price": 16.08
+    },
+    {
+      "ticker": "DO",
+      "price": 19.39
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MYE",
+      "price": 19
+    },
+    {
+      "ticker": "TRK",
+      "price": 17.44
+    },
+    {
+      "ticker": "SAH",
+      "price": 19.5
+    },
+    {
+      "ticker": "KRYS",
+      "price": 16.97
+    },
+    {
+      "ticker": "KEG",
+      "price": 17.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MYE",
+      "price": 19
+    },
+    {
+      "ticker": "TRK",
+      "price": 17.44
+    },
+    {
+      "ticker": "SAH",
+      "price": 19.5
+    },
+    {
+      "ticker": "KRYS",
+      "price": 16.97
+    },
+    {
+      "ticker": "KEG",
+      "price": 17.335
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MYE",
+      "price": 19.125
+    },
+    {
+      "ticker": "TRK",
+      "price": 17.02
+    },
+    {
+      "ticker": "SCC",
+      "price": 19.115
+    },
+    {
+      "ticker": "SAH",
+      "price": 19.45
+    },
+    {
+      "ticker": "KRYS",
+      "price": 17.034
+    }
+  ]
+}

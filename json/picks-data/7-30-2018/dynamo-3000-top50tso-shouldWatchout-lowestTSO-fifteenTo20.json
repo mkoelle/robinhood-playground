@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TTMI",
+      "price": 17.41
+    },
+    {
+      "ticker": "VYGR",
+      "price": 18.19
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RECN",
+      "price": 15.6
+    },
+    {
+      "ticker": "RDN",
+      "price": 18.905
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDN",
+      "price": 18.925
+    },
+    {
+      "ticker": "SCOR",
+      "price": 19.895
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AKRX",
+      "price": 18.45
+    },
+    {
+      "ticker": "RDN",
+      "price": 18.93
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NCSM",
+      "price": 15.9
+    },
+    {
+      "ticker": "CMCT",
+      "price": 15.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CMCT",
+      "price": 15.43
+    },
+    {
+      "ticker": "ESIO",
+      "price": 17.805
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RUSS",
+      "price": 17.75
+    },
+    {
+      "ticker": "ESIO",
+      "price": 17.885
+    }
+  ]
+}

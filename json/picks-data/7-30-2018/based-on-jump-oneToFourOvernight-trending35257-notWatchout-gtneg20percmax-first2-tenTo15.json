@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ABR",
+      "price": 11.265
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABR",
+      "price": 11.245
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.665
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABR",
+      "price": 11.26
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.665
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABR",
+      "price": 11.3101
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.655
+    }
+  ]
+}

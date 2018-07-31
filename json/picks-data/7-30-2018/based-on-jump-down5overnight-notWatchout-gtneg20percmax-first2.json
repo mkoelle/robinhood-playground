@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "SDLP",
+      "price": 3.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SDLP",
+      "price": 3.35
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SDLP",
+      "price": 3.38
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SDLP",
+      "price": 3.43
+    },
+    {
+      "ticker": "MIND",
+      "price": 3.67
+    }
+  ]
+}

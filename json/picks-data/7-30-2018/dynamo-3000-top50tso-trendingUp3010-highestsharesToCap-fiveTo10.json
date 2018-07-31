@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMV",
+      "price": 5.1
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPWH",
+      "price": 5.18
+    },
+    {
+      "ticker": "IMV",
+      "price": 5.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPWH",
+      "price": 5.2
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDCA",
+      "price": 5.3336
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AVID",
+      "price": 5.6
+    },
+    {
+      "ticker": "CPIX",
+      "price": 6.25
+    }
+  ]
+}

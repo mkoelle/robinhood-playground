@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MNOV",
+      "price": 9.6
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPG",
+      "price": 8.51
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMI",
+      "price": 9.92
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMI",
+      "price": 9.76
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMI",
+      "price": 9.86
+    },
+    {
+      "ticker": "MHLD",
+      "price": 8.675
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMI",
+      "price": 9.99
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMI",
+      "price": 9.94
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.77
+    }
+  ]
+}

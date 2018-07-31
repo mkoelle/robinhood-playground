@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CHKE",
+      "price": 0.43
+    },
+    {
+      "ticker": "HAIR",
+      "price": 2.81
+    },
+    {
+      "ticker": "BLIN",
+      "price": 1.33
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SDR",
+      "price": 1.26
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.49
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.9
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SDR",
+      "price": 1.3173
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.37
+    },
+    {
+      "ticker": "SDT",
+      "price": 1.4517
+    }
+  ]
+}

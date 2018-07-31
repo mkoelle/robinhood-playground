@@ -137,6 +137,8 @@ const occasionals = [
     'based-on-jump-gtEightOvernight-notWatchout-first1-tenTo15-0',
     'based-on-jump-down3overnight-trending53-notWatchout-gtneg20percmax-first1-30',
     'low-float-high-volume-floatPoints-trendgt10-384',  // can we buy 384 strats?
+    'low-float-high-volume-absVolPoints-trend15to25-shouldWatchout-fiveTo10-384',
+    'low-float-high-volume-volTo2WeekPoints-trenddown7to10-notWatchout-tenTo15-384',
 ];
 
 const occasionalLowCount = [
@@ -168,7 +170,10 @@ const cheapestPicksEmailObj = [
     ['And', 're', 'wzouza@', 'gm', 'ail.com'],
     ['ViperKi', 'ller847', '@a', 'ol.com'],
     ['Versa', 'cecoffin', 's@gmail.com'],
-    ['K.e', '.ode', 'll@gm', 'ail.com']
+    ['K.e', '.ode', 'll@gm', 'ail.com'],
+    ['sambar', 'jon@g', 'ma', 'il.com'],
+    ['Jhar', 'din47491@gma', 'il.com'],
+    ['bxcap', 'one@gma', 'il.com']
 ]
     .map(val => val.join(''))
     .reduce((acc, val) => ({

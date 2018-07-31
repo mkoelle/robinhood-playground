@@ -1,0 +1,34 @@
+{
+  "10": [],
+  "50": [],
+  "200": [
+    {
+      "ticker": "AWX",
+      "price": 8.2701
+    },
+    {
+      "ticker": "QD",
+      "price": 7.76
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AWX",
+      "price": 7.65
+    },
+    {
+      "ticker": "QD",
+      "price": 7.86
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AWX",
+      "price": 6.4
+    },
+    {
+      "ticker": "QD",
+      "price": 7.59
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LPG",
+      "price": 8.49
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LPG",
+      "price": 8.51
+    },
+    {
+      "ticker": "NIHD",
+      "price": 5.59
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NVUS",
+      "price": 7.7738
+    },
+    {
+      "ticker": "LPG",
+      "price": 8.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LPG",
+      "price": 8.59
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CPIX",
+      "price": 6.57
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.76
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LPG",
+      "price": 8.59
+    },
+    {
+      "ticker": "AVID",
+      "price": 5.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LPG",
+      "price": 8.61
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.94
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ANY",
+      "price": 0.3307
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.63
+    },
+    {
+      "ticker": "SDR",
+      "price": 1.5612
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SDR",
+      "price": 1.26
+    },
+    {
+      "ticker": "NFEC",
+      "price": 3.895
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3712
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SDR",
+      "price": 1.3173
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.1035
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.37
+    }
+  ]
+}

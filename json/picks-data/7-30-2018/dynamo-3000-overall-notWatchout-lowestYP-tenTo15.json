@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CYOU",
+      "price": 12.9118
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCI",
+      "price": 12.75
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.18
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.675
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SOXS",
+      "price": 10.31
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SOXS",
+      "price": 10
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOXS",
+      "price": 10.13
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.225
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOXS",
+      "price": 10.21
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.225
+    }
+  ]
+}

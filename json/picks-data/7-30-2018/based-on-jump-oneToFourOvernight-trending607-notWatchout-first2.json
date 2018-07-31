@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNN",
+      "price": 0.5001
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.373
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNN",
+      "price": 0.5075
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5099
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNN",
+      "price": 0.5002
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNN",
+      "price": 0.5002
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5074
+    }
+  ]
+}

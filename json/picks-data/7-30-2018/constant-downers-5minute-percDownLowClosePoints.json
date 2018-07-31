@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 1.155
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3789
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.7601
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 1.05
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.6985
+    },
+    {
+      "ticker": "ATNM",
+      "price": 0.637
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.919
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.6816
+    },
+    {
+      "ticker": "IFMK",
+      "price": 2.57
+    }
+  ]
+}

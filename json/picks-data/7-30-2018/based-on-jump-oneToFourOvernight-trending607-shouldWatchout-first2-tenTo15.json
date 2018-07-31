@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BPI",
+      "price": 12.8526
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BPI",
+      "price": 13.01
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.005
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPI",
+      "price": 12.99
+    },
+    {
+      "ticker": "SECO",
+      "price": 12
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPI",
+      "price": 13
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.91
+    }
+  ]
+}

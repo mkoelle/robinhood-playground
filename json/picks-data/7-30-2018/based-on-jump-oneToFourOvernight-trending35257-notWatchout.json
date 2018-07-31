@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "DGLY",
+      "price": 2.65
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.86
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.2
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.51
+    },
+    {
+      "ticker": "ARTX",
+      "price": 4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DGLY",
+      "price": 2.55
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5099
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.645
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.51
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DGLY",
+      "price": 2.52
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.6223
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.54
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DGLY",
+      "price": 2.52
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5074
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.605
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.83
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.51
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 5.4
+    },
+    {
+      "ticker": "WEAT",
+      "price": 6.877
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SIGA",
+      "price": 7.51
+    },
+    {
+      "ticker": "SPWH",
+      "price": 5.18
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPWH",
+      "price": 5.2
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MHLD",
+      "price": 8.7
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MHLD",
+      "price": 8.675
+    },
+    {
+      "ticker": "ESV",
+      "price": 7.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDCA",
+      "price": 5.325
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESV",
+      "price": 7.4
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.77
+    }
+  ]
+}

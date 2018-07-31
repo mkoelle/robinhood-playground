@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UBX",
+      "price": 14.665
+    },
+    {
+      "ticker": "HLX",
+      "price": 10.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UBX",
+      "price": 14.705
+    },
+    {
+      "ticker": "DRV",
+      "price": 10.21
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UBX",
+      "price": 14.5
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UVXY",
+      "price": 10.07
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NDLS",
+      "price": 10.25
+    },
+    {
+      "ticker": "ALNA",
+      "price": 10.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UVXY",
+      "price": 10.0725
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.648
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSSE",
+      "price": 10.5
+    },
+    {
+      "ticker": "OVID",
+      "price": 10.05
+    }
+  ]
+}

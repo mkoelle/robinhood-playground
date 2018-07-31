@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GMLP",
+      "price": 16.04
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.875
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GMLP",
+      "price": 16.1759
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.725
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GMLP",
+      "price": 16.111
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GMLP",
+      "price": 16.16
+    },
+    {
+      "ticker": "WSC",
+      "price": 16.825
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ROSE",
+      "price": 8.85
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ROSE",
+      "price": 8.85
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.3799
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ROSE",
+      "price": 8.8999
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ROSE",
+      "price": 8.85
+    },
+    {
+      "ticker": "CAMT",
+      "price": 8.4699
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    }
+  ]
+}

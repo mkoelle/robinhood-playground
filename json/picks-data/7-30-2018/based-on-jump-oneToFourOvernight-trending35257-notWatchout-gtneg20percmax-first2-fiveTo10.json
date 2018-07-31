@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.33
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.3799
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CAMT",
+      "price": 8.49
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.41
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CAMT",
+      "price": 8.4699
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.385
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "7": [
+    {
+      "ticker": "IDXG",
+      "price": 1.15
+    },
+    {
+      "ticker": "FORD",
+      "price": 2.15
+    },
+    {
+      "ticker": "HLIT",
+      "price": 4.5
+    },
+    {
+      "ticker": "PER",
+      "price": 2.8
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.1768
+    }
+  ],
+  "60": [
+    {
+      "ticker": "IDXG",
+      "price": 1.12
+    },
+    {
+      "ticker": "FORD",
+      "price": 2.13
+    },
+    {
+      "ticker": "HLIT",
+      "price": 4.65
+    },
+    {
+      "ticker": "PER",
+      "price": 2.8601
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.0608
+    }
+  ],
+  "123": [
+    {
+      "ticker": "IDXG",
+      "price": 1.11
+    },
+    {
+      "ticker": "FORD",
+      "price": 1.99
+    },
+    {
+      "ticker": "HLIT",
+      "price": 4.8
+    },
+    {
+      "ticker": "PER",
+      "price": 2.862
+    },
+    {
+      "ticker": "SORL",
+      "price": 5.079
+    }
+  ]
+}

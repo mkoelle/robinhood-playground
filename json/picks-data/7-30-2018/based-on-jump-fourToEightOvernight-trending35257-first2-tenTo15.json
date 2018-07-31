@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CLFD",
+      "price": 13
+    },
+    {
+      "ticker": "HABT",
+      "price": 12.15
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CLFD",
+      "price": 13.1149
+    },
+    {
+      "ticker": "HABT",
+      "price": 12.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CLFD",
+      "price": 13.05
+    },
+    {
+      "ticker": "HABT",
+      "price": 12.142
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CLFD",
+      "price": 12.8013
+    },
+    {
+      "ticker": "HABT",
+      "price": 12.3
+    }
+  ]
+}

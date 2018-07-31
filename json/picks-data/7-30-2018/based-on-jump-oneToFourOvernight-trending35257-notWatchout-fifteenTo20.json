@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "AMD",
+      "price": 19.515
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.3
+    },
+    {
+      "ticker": "CS",
+      "price": 15.91
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.36
+    },
+    {
+      "ticker": "KN",
+      "price": 17.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMD",
+      "price": 19.576
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.81
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.11
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    },
+    {
+      "ticker": "CS",
+      "price": 15.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMD",
+      "price": 19.43
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.22
+    },
+    {
+      "ticker": "CS",
+      "price": 15.9301
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMD",
+      "price": 19.705
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.305
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    },
+    {
+      "ticker": "CS",
+      "price": 15.925
+    }
+  ]
+}

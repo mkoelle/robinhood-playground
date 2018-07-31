@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.73
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMRS",
+      "price": 6.82
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 7.365
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.645
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 7.21
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMRS",
+      "price": 6.62
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.245
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMRS",
+      "price": 6.62
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMRS",
+      "price": 6.63
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.17
+    }
+  ]
+}

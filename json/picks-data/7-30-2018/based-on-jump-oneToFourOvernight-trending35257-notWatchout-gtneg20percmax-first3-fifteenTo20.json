@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMD",
+      "price": 19.515
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.36
+    },
+    {
+      "ticker": "KN",
+      "price": 17.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMD",
+      "price": 19.576
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.81
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMD",
+      "price": 19.43
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMD",
+      "price": 19.705
+    },
+    {
+      "ticker": "AZRE",
+      "price": 15.76
+    },
+    {
+      "ticker": "FTXG",
+      "price": 19.84
+    }
+  ]
+}

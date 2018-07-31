@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TWMC",
+      "price": 0.96
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.55
+    },
+    {
+      "ticker": "SPI",
+      "price": 0.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TWMC",
+      "price": 0.96
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5499
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.5687
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LODE",
+      "price": 0.2024
+    },
+    {
+      "ticker": "TWMC",
+      "price": 0.96
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5488
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LODE",
+      "price": 0.2
+    },
+    {
+      "ticker": "TWMC",
+      "price": 0.96
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5488
+    }
+  ]
+}

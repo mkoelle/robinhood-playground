@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HMNY",
+      "price": 1.3
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3711
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 1.27
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.5551
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 1.23
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.7799
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 1.16
+    },
+    {
+      "ticker": "SHLD",
+      "price": 1.78
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 1.01
+    },
+    {
+      "ticker": "EYEG",
+      "price": 0.549
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.845
+    },
+    {
+      "ticker": "LKM",
+      "price": 1.055
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.805
+    },
+    {
+      "ticker": "AAME",
+      "price": 2.35
+    }
+  ]
+}

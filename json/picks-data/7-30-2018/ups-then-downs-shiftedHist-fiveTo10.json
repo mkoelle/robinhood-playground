@@ -1,0 +1,52 @@
+{
+  "10": [
+    {
+      "ticker": "CRR",
+      "price": 9.975
+    }
+  ],
+  "50": [
+    {
+      "ticker": "NIHD",
+      "price": 5.58
+    },
+    {
+      "ticker": "PKD",
+      "price": 5.12
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.82
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 5.57
+    }
+  ],
+  "300": [
+    {
+      "ticker": "NIHD",
+      "price": 5.58
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.7447
+    },
+    {
+      "ticker": "CRR",
+      "price": 9.81
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NIHD",
+      "price": 5.43
+    },
+    {
+      "ticker": "FRD",
+      "price": 9.7701
+    }
+  ]
+}

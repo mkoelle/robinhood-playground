@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RDHL",
+      "price": 9.76
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EIGR",
+      "price": 10.05
+    },
+    {
+      "ticker": "AWX",
+      "price": 14.11
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRTK",
+      "price": 10.045
+    },
+    {
+      "ticker": "AWX",
+      "price": 13.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "XNET",
+      "price": 10.525
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.41
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XNET",
+      "price": 10.615
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.215
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XNET",
+      "price": 10.55
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XNET",
+      "price": 10.5499
+    },
+    {
+      "ticker": "MRSN",
+      "price": 11.22
+    }
+  ]
+}

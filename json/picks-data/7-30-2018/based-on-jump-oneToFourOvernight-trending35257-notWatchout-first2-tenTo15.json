@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PAK",
+      "price": 11.62
+    },
+    {
+      "ticker": "DB",
+      "price": 12.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PAK",
+      "price": 11.6
+    },
+    {
+      "ticker": "DB",
+      "price": 12.79
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PAK",
+      "price": 11.598
+    },
+    {
+      "ticker": "DB",
+      "price": 12.79
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PAK",
+      "price": 11.51
+    },
+    {
+      "ticker": "DB",
+      "price": 12.75
+    }
+  ]
+}

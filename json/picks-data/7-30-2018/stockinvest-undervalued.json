@@ -1,0 +1,44 @@
+{
+  "7": [
+    {
+      "ticker": "ANH",
+      "price": 4.989
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.75
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.48
+    }
+  ],
+  "60": [
+    {
+      "ticker": "ANH",
+      "price": 5.0251
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.76
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.5693
+    }
+  ],
+  "123": [
+    {
+      "ticker": "ANH",
+      "price": 5.0444
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.79
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.55
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BPI",
+      "price": 12.8526
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.09
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BPI",
+      "price": 13.01
+    },
+    {
+      "ticker": "SECO",
+      "price": 12.005
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPI",
+      "price": 12.99
+    },
+    {
+      "ticker": "SECO",
+      "price": 12
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.73
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPI",
+      "price": 13
+    },
+    {
+      "ticker": "SECO",
+      "price": 11.91
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.7
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PAK",
+      "price": 11.62
+    },
+    {
+      "ticker": "BPI",
+      "price": 12.8526
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PAK",
+      "price": 11.6
+    },
+    {
+      "ticker": "BPI",
+      "price": 13.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PAK",
+      "price": 11.598
+    },
+    {
+      "ticker": "BPI",
+      "price": 12.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PAK",
+      "price": 11.51
+    },
+    {
+      "ticker": "BPI",
+      "price": 13
+    }
+  ]
+}

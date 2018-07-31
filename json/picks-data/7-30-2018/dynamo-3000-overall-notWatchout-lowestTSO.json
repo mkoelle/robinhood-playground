@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "JAKK",
+      "price": 2.2577
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.48
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4634
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EGLT",
+      "price": 0.2703
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.425
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDR",
+      "price": 1.3922
+    },
+    {
+      "ticker": "CSLT",
+      "price": 4.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDR",
+      "price": 1.263
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.2801
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDR",
+      "price": 1.3276
+    },
+    {
+      "ticker": "WMIH",
+      "price": 1.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SDR",
+      "price": 1.3234
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.758
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 3.29
+    },
+    {
+      "ticker": "DDE",
+      "price": 3.0241
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 3.3742
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.632
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NOG",
+      "price": 3.395
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.7235
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NOG",
+      "price": 3.415
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.7251
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NOG",
+      "price": 3.385
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.6951
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CORV",
+      "price": 4.56
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.6672
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NOG",
+      "price": 3.4
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.5701
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AWX",
+      "price": 18.56
+    },
+    {
+      "ticker": "MYFW",
+      "price": 19.85
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRCM",
+      "price": 18.01
+    },
+    {
+      "ticker": "YRD",
+      "price": 17.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CRCM",
+      "price": 18.059
+    },
+    {
+      "ticker": "YRD",
+      "price": 16.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRCM",
+      "price": 17.48
+    },
+    {
+      "ticker": "PI",
+      "price": 20.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRCM",
+      "price": 17.48
+    },
+    {
+      "ticker": "MYFW",
+      "price": 17.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRCM",
+      "price": 17.255
+    },
+    {
+      "ticker": "BLFS",
+      "price": 17.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CRCM",
+      "price": 17.32
+    },
+    {
+      "ticker": "BLMN",
+      "price": 19.525
+    }
+  ]
+}

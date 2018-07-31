@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 1.93
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.86
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDS",
+      "price": 3.645
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.8227
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PDS",
+      "price": 3.6223
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.8862
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.8587
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDS",
+      "price": 3.605
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.1389
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.83
+    }
+  ]
+}

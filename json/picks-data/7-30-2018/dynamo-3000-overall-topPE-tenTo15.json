@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "GME",
+      "price": 14.94
+    },
+    {
+      "ticker": "NVGS",
+      "price": 12.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.82
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.63
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.82
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.5013
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.91
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LIND",
+      "price": 12.901
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.73
+    },
+    {
+      "ticker": "GME",
+      "price": 14.735
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.9
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JNP",
+      "price": 11.45
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.88
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.76
+    }
+  ]
+}

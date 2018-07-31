@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "DSPG",
+      "price": 13.25
+    },
+    {
+      "ticker": "RELL",
+      "price": 10.06
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.778
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.16
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DSPG",
+      "price": 12.875
+    },
+    {
+      "ticker": "RELL",
+      "price": 9.98
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.11
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.345
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DSPG",
+      "price": 12.7
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.09
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.425
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSPG",
+      "price": 12.3
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.6
+    },
+    {
+      "ticker": "CVE",
+      "price": 10.085
+    },
+    {
+      "ticker": "RIG",
+      "price": 13.39
+    },
+    {
+      "ticker": "RDC",
+      "price": 14.705
+    }
+  ]
+}

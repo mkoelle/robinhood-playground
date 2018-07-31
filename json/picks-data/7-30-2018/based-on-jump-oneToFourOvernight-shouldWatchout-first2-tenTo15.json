@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BPI",
+      "price": 12.8526
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BPI",
+      "price": 13.01
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.175
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BPI",
+      "price": 12.99
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BPI",
+      "price": 13
+    },
+    {
+      "ticker": "NGL",
+      "price": 12.05
+    }
+  ]
+}

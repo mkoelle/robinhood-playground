@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SRAX",
+      "price": 5.84
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SRAX",
+      "price": 4.8495
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6.47
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SRAX",
+      "price": 5
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SRAX",
+      "price": 5.01
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6
+    }
+  ]
+}

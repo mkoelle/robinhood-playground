@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "DNN",
+      "price": 0.5001
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.373
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.93
+    },
+    {
+      "ticker": "ICL",
+      "price": 4.86
+    },
+    {
+      "ticker": "AEY",
+      "price": 1.51
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNN",
+      "price": 0.5075
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5099
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.645
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.8227
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNN",
+      "price": 0.5002
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.51
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.6223
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3501
+    },
+    {
+      "ticker": "TAIT",
+      "price": 1.8862
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNN",
+      "price": 0.5002
+    },
+    {
+      "ticker": "PLX",
+      "price": 0.5074
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.605
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3691
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.1389
+    }
+  ]
+}
