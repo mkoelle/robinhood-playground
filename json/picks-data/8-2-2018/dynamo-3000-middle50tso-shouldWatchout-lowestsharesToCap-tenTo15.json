@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XON",
+      "price": 14.41
+    },
+    {
+      "ticker": "CLDR",
+      "price": 13.91
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XON",
+      "price": 14.475
+    },
+    {
+      "ticker": "FLEX",
+      "price": 13.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XON",
+      "price": 14.51
+    },
+    {
+      "ticker": "GLMD",
+      "price": 13.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ECOM",
+      "price": 13.8
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CLCT",
+      "price": 13.43
+    },
+    {
+      "ticker": "TACO",
+      "price": 12.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FLEX",
+      "price": 13.87
+    },
+    {
+      "ticker": "YRIV",
+      "price": 11.74
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EXPI",
+      "price": 14.3795
+    },
+    {
+      "ticker": "FLEX",
+      "price": 13.916
+    }
+  ]
+}

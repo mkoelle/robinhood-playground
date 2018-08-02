@@ -1,0 +1,44 @@
+{
+  "10": [
+    {
+      "ticker": "GST",
+      "price": 0.1661
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.063
+    }
+  ],
+  "50": [
+    {
+      "ticker": "GST",
+      "price": 0.1641
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.075
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GST",
+      "price": 0.156
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.38
+    }
+  ],
+  "300": [
+    {
+      "ticker": "GST",
+      "price": 0.1549
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GST",
+      "price": 0.1555
+    }
+  ]
+}

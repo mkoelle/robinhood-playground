@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARQL",
+      "price": 5.6582
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EMMS",
+      "price": 5.1701
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.715
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HLIT",
+      "price": 5.25
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBM",
+      "price": 5.025
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.1465
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HBM",
+      "price": 4.975
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.26
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EMMS",
+      "price": 5.0696
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.29
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HBM",
+      "price": 5.025
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.0696
+    }
+  ]
+}

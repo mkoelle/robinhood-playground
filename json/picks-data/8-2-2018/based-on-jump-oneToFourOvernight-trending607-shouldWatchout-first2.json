@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CRMD",
+      "price": 0.561
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.365
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRMD",
+      "price": 0.577
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRMD",
+      "price": 0.552
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5575
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.362
+    }
+  ]
+}

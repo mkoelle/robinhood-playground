@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WTI",
+      "price": 7.28
+    },
+    {
+      "ticker": "HLIT",
+      "price": 5.1499
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WTI",
+      "price": 7.2
+    },
+    {
+      "ticker": "HLIT",
+      "price": 4.975
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WTI",
+      "price": 7.12
+    },
+    {
+      "ticker": "HLIT",
+      "price": 5.025
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WTI",
+      "price": 7.43
+    },
+    {
+      "ticker": "HLIT",
+      "price": 5.025
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ICL",
+      "price": 5.2
+    },
+    {
+      "ticker": "FRSH",
+      "price": 5.315
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WHLR",
+      "price": 5.08
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABEV",
+      "price": 5.1
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.245
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BGY",
+      "price": 5.82
+    },
+    {
+      "ticker": "MUFG",
+      "price": 6.305
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PPT",
+      "price": 5.255
+    },
+    {
+      "ticker": "DZZ",
+      "price": 6.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PPT",
+      "price": 5.24
+    },
+    {
+      "ticker": "BGY",
+      "price": 5.8137
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RBS",
+      "price": 6.63
+    },
+    {
+      "ticker": "EDD",
+      "price": 6.9166
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NR",
+      "price": 10.6
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 10.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEP",
+      "price": 11.29
+    },
+    {
+      "ticker": "KT",
+      "price": 13.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENDP",
+      "price": 12.07
+    },
+    {
+      "ticker": "BPI",
+      "price": 12.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWM",
+      "price": 14.04
+    },
+    {
+      "ticker": "BPI",
+      "price": 12.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BPI",
+      "price": 12.945
+    },
+    {
+      "ticker": "CEPU",
+      "price": 11.445
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HCLP",
+      "price": 14.2
+    },
+    {
+      "ticker": "INS",
+      "price": 10.515
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WOW",
+      "price": 10.76
+    },
+    {
+      "ticker": "HCLP",
+      "price": 14.225
+    }
+  ]
+}

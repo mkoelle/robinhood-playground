@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.7426
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.59
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.18
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.5375
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.13
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.5375
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.1313
+    },
+    {
+      "ticker": "JMP",
+      "price": 5.43
+    }
+  ]
+}

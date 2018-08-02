@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.7426
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.49
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.55
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.28
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.2601
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.1313
+    }
+  ]
+}

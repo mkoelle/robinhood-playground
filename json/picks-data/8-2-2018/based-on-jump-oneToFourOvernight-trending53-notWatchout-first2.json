@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "JTPY",
+      "price": 1.75
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 3.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JTPY",
+      "price": 1.75
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JTPY",
+      "price": 1.75
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "JTPY",
+      "price": 1.75
+    }
+  ]
+}

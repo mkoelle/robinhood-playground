@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HX",
+      "price": 8.99
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.92
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.2751
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CNST",
+      "price": 9.88
+    },
+    {
+      "ticker": "MGEN",
+      "price": 6.45
+    },
+    {
+      "ticker": "HX",
+      "price": 8.88
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LOOP",
+      "price": 9.685
+    },
+    {
+      "ticker": "APOP",
+      "price": 5.6447
+    },
+    {
+      "ticker": "TOUR",
+      "price": 7.14
+    }
+  ]
+}

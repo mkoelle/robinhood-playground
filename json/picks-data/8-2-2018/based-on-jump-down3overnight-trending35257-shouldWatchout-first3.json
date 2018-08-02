@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "DHXM",
+      "price": 2
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.72
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.72
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.271
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DHXM",
+      "price": 2.2
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.72
+    },
+    {
+      "ticker": "YOGA",
+      "price": 1.8992
+    }
+  ]
+}

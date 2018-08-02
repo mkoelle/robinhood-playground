@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 2.3
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.561
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.365
+    },
+    {
+      "ticker": "SHOS",
+      "price": 2.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 2.277
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.577
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.4801
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.36
+    },
+    {
+      "ticker": "SHOS",
+      "price": 2.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.552
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.485
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.35
+    },
+    {
+      "ticker": "SHOS",
+      "price": 2.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5575
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    },
+    {
+      "ticker": "DVD",
+      "price": 2.125
+    }
+  ]
+}

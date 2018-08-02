@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MDR",
+      "price": 19.72
+    },
+    {
+      "ticker": "DNOW",
+      "price": 15.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CISN",
+      "price": 15.58
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15.27
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CISN",
+      "price": 15.65
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15.165
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMH",
+      "price": 15.27
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SCO",
+      "price": 16.058
+    },
+    {
+      "ticker": "ITCB",
+      "price": 15.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SCO",
+      "price": 16.14
+    },
+    {
+      "ticker": "ITCB",
+      "price": 15.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SCO",
+      "price": 16.119
+    },
+    {
+      "ticker": "ITCB",
+      "price": 15.48
+    }
+  ]
+}

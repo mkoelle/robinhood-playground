@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DRIP",
+      "price": 6.33
+    },
+    {
+      "ticker": "VLRS",
+      "price": 7.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SND",
+      "price": 5.819
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SND",
+      "price": 5.775
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CLGN",
+      "price": 6.15
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RELV",
+      "price": 5.1548
+    },
+    {
+      "ticker": "CLGN",
+      "price": 6.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RELV",
+      "price": 5.1044
+    },
+    {
+      "ticker": "CLGN",
+      "price": 5.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CLGN",
+      "price": 6.04
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.61
+    }
+  ]
+}

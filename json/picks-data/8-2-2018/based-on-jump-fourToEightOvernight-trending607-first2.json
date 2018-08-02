@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CASM",
+      "price": 2.19
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CASM",
+      "price": 2.2
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CASM",
+      "price": 2.12
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.8142
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CASM",
+      "price": 2.145
+    },
+    {
+      "ticker": "CTHR",
+      "price": 1.11
+    }
+  ]
+}

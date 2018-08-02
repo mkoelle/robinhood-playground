@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FPRX",
+      "price": 14.95
+    },
+    {
+      "ticker": "VECO",
+      "price": 13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VECO",
+      "price": 12.175
+    },
+    {
+      "ticker": "CBB",
+      "price": 13.225
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VECO",
+      "price": 11.875
+    },
+    {
+      "ticker": "ELF",
+      "price": 14.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CBIO",
+      "price": 10.08
+    },
+    {
+      "ticker": "VECO",
+      "price": 11.975
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CBIO",
+      "price": 10.08
+    },
+    {
+      "ticker": "VECO",
+      "price": 12.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPNT",
+      "price": 14.7
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPNT",
+      "price": 14.7001
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.39
+    }
+  ]
+}

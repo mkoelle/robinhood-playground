@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LBRT",
+      "price": 20
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DVHL",
+      "price": 19.95
+    },
+    {
+      "ticker": "NYLD",
+      "price": 18.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LBRT",
+      "price": 19.74
+    },
+    {
+      "ticker": "DVHL",
+      "price": 19.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DVHL",
+      "price": 19.95
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.8
+    }
+  ]
+}

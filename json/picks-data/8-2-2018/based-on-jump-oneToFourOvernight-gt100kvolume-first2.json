@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.365
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 3.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.36
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MEET",
+      "price": 4.222
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.552
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MEET",
+      "price": 4.23
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5575
+    }
+  ]
+}

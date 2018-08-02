@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 2.3
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    },
+    {
+      "ticker": "JTPY",
+      "price": 1.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 2.277
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.5148
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1635
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.6534
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.1699
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.6534
+    }
+  ]
+}

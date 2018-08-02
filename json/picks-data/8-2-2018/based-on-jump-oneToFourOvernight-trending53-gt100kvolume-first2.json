@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ZNGA",
+      "price": 3.97
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    },
+    {
+      "ticker": "GST",
+      "price": 0.165
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ZNGA",
+      "price": 4
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    },
+    {
+      "ticker": "GST",
+      "price": 0.157
+    }
+  ]
+}

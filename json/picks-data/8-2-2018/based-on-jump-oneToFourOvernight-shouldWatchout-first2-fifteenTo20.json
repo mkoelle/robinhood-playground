@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RUSS",
+      "price": 18.1753
+    },
+    {
+      "ticker": "FTNW",
+      "price": 16.415
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RUSS",
+      "price": 18.19
+    },
+    {
+      "ticker": "FTNW",
+      "price": 16.74
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RUSS",
+      "price": 18.14
+    },
+    {
+      "ticker": "FTNW",
+      "price": 16.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RUSS",
+      "price": 18.14
+    },
+    {
+      "ticker": "FTNW",
+      "price": 16.5
+    }
+  ]
+}

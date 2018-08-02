@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LNTH",
+      "price": 13.55
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LNTH",
+      "price": 13.1
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LNTH",
+      "price": 13.1
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.29
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LNTH",
+      "price": 13.3
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.67
+    }
+  ]
+}

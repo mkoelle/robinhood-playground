@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CCRN",
+      "price": 7.7105
+    },
+    {
+      "ticker": "MRNS",
+      "price": 6.025
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CCRN",
+      "price": 7.9675
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.6375
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CCRN",
+      "price": 8.15
+    },
+    {
+      "ticker": "MRNS",
+      "price": 6.06
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCRN",
+      "price": 8.3657
+    },
+    {
+      "ticker": "MRNS",
+      "price": 5.85
+    }
+  ]
+}

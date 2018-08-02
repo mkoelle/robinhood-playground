@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "DHXM",
+      "price": 2
+    },
+    {
+      "ticker": "FPAY",
+      "price": 3.72
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRD",
+      "price": 4.88
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRD",
+      "price": 4.94
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRD",
+      "price": 4.89
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.2
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    }
+  ]
+}

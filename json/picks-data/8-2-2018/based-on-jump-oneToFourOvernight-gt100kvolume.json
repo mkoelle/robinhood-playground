@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.365
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 3.97
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.36
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    },
+    {
+      "ticker": "GST",
+      "price": 0.165
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.795
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MEET",
+      "price": 4.222
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.552
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.35
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MEET",
+      "price": 4.23
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5575
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.362
+    },
+    {
+      "ticker": "ZNGA",
+      "price": 4.01
+    },
+    {
+      "ticker": "GST",
+      "price": 0.157
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INOV",
+      "price": 12
+    },
+    {
+      "ticker": "HRZN",
+      "price": 10.8999
+    }
+  ],
+  "40": [
+    {
+      "ticker": "KALV",
+      "price": 10.2
+    },
+    {
+      "ticker": "NR",
+      "price": 10.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KALV",
+      "price": 10.45
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KALV",
+      "price": 10.428
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KALV",
+      "price": 10.4552
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCS",
+      "price": 10.109
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCS",
+      "price": 10.0262
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.45
+    }
+  ]
+}

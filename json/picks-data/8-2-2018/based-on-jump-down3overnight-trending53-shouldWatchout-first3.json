@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SYN",
+      "price": 0.1578
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SYN",
+      "price": 0.1359
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SYN",
+      "price": 0.1403
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SYN",
+      "price": 0.141
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ]
+}

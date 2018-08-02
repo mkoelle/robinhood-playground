@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VECO",
+      "price": 13
+    },
+    {
+      "ticker": "INOV",
+      "price": 12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INOV",
+      "price": 12.725
+    },
+    {
+      "ticker": "VECO",
+      "price": 12.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 12.7
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 12.5
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 12.5
+    },
+    {
+      "ticker": "VECO",
+      "price": 12.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YRCW",
+      "price": 10.06
+    },
+    {
+      "ticker": "SECO",
+      "price": 13.44
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SECO",
+      "price": 13.6
+    },
+    {
+      "ticker": "NGVC",
+      "price": 13.46
+    }
+  ]
+}

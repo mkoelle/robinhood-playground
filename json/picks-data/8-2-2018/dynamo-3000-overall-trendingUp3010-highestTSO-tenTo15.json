@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INOV",
+      "price": 12
+    },
+    {
+      "ticker": "WSR",
+      "price": 12.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INOV",
+      "price": 12.725
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.6951
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INOV",
+      "price": 12.7
+    },
+    {
+      "ticker": "LBY",
+      "price": 11.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INOV",
+      "price": 12.5
+    },
+    {
+      "ticker": "ERA",
+      "price": 14.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INOV",
+      "price": 12.5
+    },
+    {
+      "ticker": "SECO",
+      "price": 13.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SECO",
+      "price": 13.44
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SECO",
+      "price": 13.6
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.325
+    }
+  ]
+}

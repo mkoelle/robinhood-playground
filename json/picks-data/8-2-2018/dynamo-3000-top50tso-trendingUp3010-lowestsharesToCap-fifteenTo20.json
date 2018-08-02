@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PMT",
+      "price": 19.15
+    },
+    {
+      "ticker": "OMI",
+      "price": 18.3364
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLP",
+      "price": 19.7499
+    },
+    {
+      "ticker": "PAR",
+      "price": 19.19
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RF",
+      "price": 19.01
+    },
+    {
+      "ticker": "AMJL",
+      "price": 19.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMJL",
+      "price": 19.67
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AMJL",
+      "price": 20
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AMJL",
+      "price": 19.84
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.735
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AMJL",
+      "price": 19.83
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.78
+    }
+  ]
+}

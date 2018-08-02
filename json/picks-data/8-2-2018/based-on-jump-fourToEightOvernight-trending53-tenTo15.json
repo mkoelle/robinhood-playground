@@ -1,0 +1,74 @@
+{
+  "0": [
+    {
+      "ticker": "DNLI",
+      "price": 13.89
+    },
+    {
+      "ticker": "INOV",
+      "price": 11.9
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNLI",
+      "price": 13.8
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.0885
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.45
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNLI",
+      "price": 14.195
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.55
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    },
+    {
+      "ticker": "BGCP",
+      "price": 10.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNLI",
+      "price": 13.81
+    },
+    {
+      "ticker": "INOV",
+      "price": 12.525
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11
+    }
+  ]
+}

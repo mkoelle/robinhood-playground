@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HYGS",
+      "price": 5.7
+    },
+    {
+      "ticker": "DWSN",
+      "price": 7.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DWSN",
+      "price": 6.615
+    },
+    {
+      "ticker": "HYGS",
+      "price": 5.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DWSN",
+      "price": 6.5
+    },
+    {
+      "ticker": "HYGS",
+      "price": 5.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DWSN",
+      "price": 6.35
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DWSN",
+      "price": 6.23
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.41
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DWSN",
+      "price": 6.26
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.37
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DWSN",
+      "price": 6.37
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.46
+    }
+  ]
+}

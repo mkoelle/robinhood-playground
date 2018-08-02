@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMRN",
+      "price": 2.74
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GST",
+      "price": 0.165
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.795
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GST",
+      "price": 0.1695
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GST",
+      "price": 0.157
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.8701
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.73
+    }
+  ]
+}

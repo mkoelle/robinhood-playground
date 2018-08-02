@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.7426
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.9336
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.84
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.635
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.645
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.2601
+    }
+  ]
+}

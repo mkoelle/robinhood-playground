@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACER",
+      "price": 20.5
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVH",
+      "price": 19.925
+    },
+    {
+      "ticker": "EDUC",
+      "price": 18.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ALDR",
+      "price": 19.05
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.71
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGNX",
+      "price": 19.255
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.59
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 18.85
+    },
+    {
+      "ticker": "OMI",
+      "price": 18.3518
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRUS",
+      "price": 19.5
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRUS",
+      "price": 19.68
+    },
+    {
+      "ticker": "MGNX",
+      "price": 19.24
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTRE",
+      "price": 17.25
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.77
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRE",
+      "price": 17
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.71
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRE",
+      "price": 17.0101
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.605
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRE",
+      "price": 17.19
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.56
+    }
+  ]
+}

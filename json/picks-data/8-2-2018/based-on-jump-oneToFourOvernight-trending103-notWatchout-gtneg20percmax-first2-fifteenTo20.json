@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTRE",
+      "price": 17.25
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRE",
+      "price": 17
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRE",
+      "price": 17.0101
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.335
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRE",
+      "price": 17.19
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.3875
+    }
+  ]
+}

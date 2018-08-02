@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ERA",
+      "price": 13.22
+    },
+    {
+      "ticker": "LIND",
+      "price": 13
+    },
+    {
+      "ticker": "DB",
+      "price": 12.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ERA",
+      "price": 13.22
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.96
+    },
+    {
+      "ticker": "DB",
+      "price": 12.46
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBH",
+      "price": 14.6201
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.5744
+    },
+    {
+      "ticker": "LIND",
+      "price": 12.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBH",
+      "price": 14.295
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.5744
+    },
+    {
+      "ticker": "LIND",
+      "price": 13
+    }
+  ]
+}

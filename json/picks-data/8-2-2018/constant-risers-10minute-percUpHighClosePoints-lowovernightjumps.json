@@ -1,0 +1,44 @@
+{
+  "40": [
+    {
+      "ticker": "HLTH",
+      "price": 1
+    }
+  ],
+  "80": [
+    {
+      "ticker": "HLTH",
+      "price": 0.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AVP",
+      "price": 1.575
+    }
+  ],
+  "140": [
+    {
+      "ticker": "AVP",
+      "price": 1.65
+    }
+  ],
+  "198": [
+    {
+      "ticker": "AVP",
+      "price": 1.67
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AVP",
+      "price": 1.7285
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AVP",
+      "price": 1.74
+    }
+  ]
+}

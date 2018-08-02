@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTSV",
+      "price": 15.75
+    },
+    {
+      "ticker": "CCT",
+      "price": 17.0434
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SIJ",
+      "price": 15.595
+    },
+    {
+      "ticker": "FTSV",
+      "price": 15.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIJ",
+      "price": 15.58
+    },
+    {
+      "ticker": "FTSV",
+      "price": 16.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTSV",
+      "price": 16.1
+    },
+    {
+      "ticker": "AIQ",
+      "price": 15.13
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTSV",
+      "price": 16.2
+    },
+    {
+      "ticker": "AIQ",
+      "price": 15.1388
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIJ",
+      "price": 15.45
+    },
+    {
+      "ticker": "AIQ",
+      "price": 15.1388
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIJ",
+      "price": 15.45
+    },
+    {
+      "ticker": "AIQ",
+      "price": 15.1388
+    }
+  ]
+}

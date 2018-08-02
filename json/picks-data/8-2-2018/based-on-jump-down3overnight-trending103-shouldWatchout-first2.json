@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DHXM",
+      "price": 2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DHXM",
+      "price": 2.2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    }
+  ]
+}

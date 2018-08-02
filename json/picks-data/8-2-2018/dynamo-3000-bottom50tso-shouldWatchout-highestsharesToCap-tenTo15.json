@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EIGR",
+      "price": 10.1
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XNET",
+      "price": 10.14
+    },
+    {
+      "ticker": "EEQ",
+      "price": 10.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMTE",
+      "price": 11.01
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.14
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.675
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.8
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PRPO",
+      "price": 0.464
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PRPO",
+      "price": 0.47
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4402
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.84
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AYTU",
+      "price": 0.28
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4401
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AYTU",
+      "price": 0.28
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.4599
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AYTU",
+      "price": 0.2775
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.45
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPO",
+      "price": 0.4496
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.645
+    }
+  ]
+}

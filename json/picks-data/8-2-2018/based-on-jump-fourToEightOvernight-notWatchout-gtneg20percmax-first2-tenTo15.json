@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RYI",
+      "price": 11.575
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RYI",
+      "price": 11.09
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RYI",
+      "price": 10.85
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RYI",
+      "price": 10.9
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    }
+  ]
+}

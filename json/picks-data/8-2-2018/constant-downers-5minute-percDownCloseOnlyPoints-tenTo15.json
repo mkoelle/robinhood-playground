@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "WATT",
+      "price": 10.6001
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.75
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.255
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WATT",
+      "price": 11.41
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.22
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.67
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LKSD",
+      "price": 12.04
+    },
+    {
+      "ticker": "WATT",
+      "price": 12.135
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.5
+    }
+  ]
+}

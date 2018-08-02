@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IHT",
+      "price": 2.1364
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.86
+    },
+    {
+      "ticker": "PKD",
+      "price": 4.3101
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NSYS",
+      "price": 4.4063
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.9792
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.71
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.62
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.97
+    }
+  ]
+}

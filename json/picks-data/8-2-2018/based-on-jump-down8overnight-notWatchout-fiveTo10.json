@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AAC",
+      "price": 8.71
+    },
+    {
+      "ticker": "SHNY",
+      "price": 5.81
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AAC",
+      "price": 7.9
+    },
+    {
+      "ticker": "SHNY",
+      "price": 6.749
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AAC",
+      "price": 8.1
+    },
+    {
+      "ticker": "SHNY",
+      "price": 6.749
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AAC",
+      "price": 8.2943
+    },
+    {
+      "ticker": "SHNY",
+      "price": 6.749
+    }
+  ]
+}

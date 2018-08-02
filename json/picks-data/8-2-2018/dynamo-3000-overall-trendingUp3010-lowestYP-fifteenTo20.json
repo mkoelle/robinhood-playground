@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SCO",
+      "price": 16.9201
+    },
+    {
+      "ticker": "TGI",
+      "price": 19.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SCO",
+      "price": 16.59
+    },
+    {
+      "ticker": "GASX",
+      "price": 18.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NYRT",
+      "price": 18.3
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.44
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NYRT",
+      "price": 18.3
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.0002
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYRT",
+      "price": 18.325
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.38
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GASX",
+      "price": 17.58
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYRT",
+      "price": 18.27
+    },
+    {
+      "ticker": "GASX",
+      "price": 17.36
+    }
+  ]
+}

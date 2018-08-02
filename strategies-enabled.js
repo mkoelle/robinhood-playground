@@ -212,7 +212,7 @@ module.exports = {
             ...moderates,
             ...occasionals,
             ...occasionalLowCount,
-            ...keepAnEyeOn
+            ...keepAnEyeOn,
             ...allShorts
         ],
         ...cheapestPicksEmailObj
@@ -241,7 +241,9 @@ module.exports = {
         occasionalLowCount,
         keepAnEyeOn,
 
-
+        shorting,
+        secondaryShorting,
+        secondaryLowCountShorting,
         allShorts
     }
 };

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TREC",
+      "price": 14.05
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.9
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLRE",
+      "price": 14.575
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLRE",
+      "price": 14.4
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLRE",
+      "price": 14.375
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMRX",
+      "price": 14.98
+    },
+    {
+      "ticker": "GLRE",
+      "price": 13.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UMRX",
+      "price": 14.9
+    },
+    {
+      "ticker": "GLRE",
+      "price": 13.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UMRX",
+      "price": 14.87
+    },
+    {
+      "ticker": "GLRE",
+      "price": 13.775
+    }
+  ]
+}

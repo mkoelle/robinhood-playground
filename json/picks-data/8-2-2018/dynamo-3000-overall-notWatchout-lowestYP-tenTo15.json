@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.28
+    },
+    {
+      "ticker": "NYNY",
+      "price": 13.4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.12
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.06
+    },
+    {
+      "ticker": "LCI",
+      "price": 12.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.6144
+    },
+    {
+      "ticker": "NYNY",
+      "price": 13.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.46
+    },
+    {
+      "ticker": "NYNY",
+      "price": 12.65
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYNY",
+      "price": 12.8822
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYNY",
+      "price": 12.55
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.46
+    }
+  ]
+}

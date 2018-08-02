@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UGP",
+      "price": 11.29
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SOXS",
+      "price": 10.12
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SOXS",
+      "price": 10.06
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.915
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.6144
+    },
+    {
+      "ticker": "CSS",
+      "price": 13.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.46
+    },
+    {
+      "ticker": "CSS",
+      "price": 13.695
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.5
+    },
+    {
+      "ticker": "CSS",
+      "price": 13.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYNY",
+      "price": 12.55
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 12.46
+    }
+  ]
+}

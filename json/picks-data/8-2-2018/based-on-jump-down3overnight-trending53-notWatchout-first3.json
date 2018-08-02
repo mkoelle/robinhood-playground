@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "BKEP",
+      "price": 2.9
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "BKEP",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.1
+    }
+  ]
+}

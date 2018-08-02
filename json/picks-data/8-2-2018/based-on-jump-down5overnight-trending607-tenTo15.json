@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "LKSD",
+      "price": 13.98
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LKSD",
+      "price": 13.7
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SBH",
+      "price": 14.6201
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.29
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.5744
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SBH",
+      "price": 14.295
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.67
+    },
+    {
+      "ticker": "ERA",
+      "price": 13.5744
+    }
+  ]
+}

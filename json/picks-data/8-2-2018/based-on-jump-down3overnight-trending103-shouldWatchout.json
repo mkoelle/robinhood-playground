@@ -1,0 +1,82 @@
+{
+  "0": [
+    {
+      "ticker": "DHXM",
+      "price": 2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    },
+    {
+      "ticker": "RXII",
+      "price": 1.77
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    },
+    {
+      "ticker": "RXII",
+      "price": 1.8086
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DHXM",
+      "price": 2.15
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    },
+    {
+      "ticker": "RXII",
+      "price": 1.73
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.271
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DHXM",
+      "price": 2.2
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.5
+    },
+    {
+      "ticker": "RXII",
+      "price": 1.6825
+    },
+    {
+      "ticker": "BDR",
+      "price": 1.271
+    },
+    {
+      "ticker": "UONE",
+      "price": 2.3
+    }
+  ]
+}

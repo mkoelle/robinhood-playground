@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CENX",
+      "price": 13.46
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CENX",
+      "price": 13.3
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CENX",
+      "price": 13.2
+    },
+    {
+      "ticker": "FORM",
+      "price": 13.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CENX",
+      "price": 13.115
+    },
+    {
+      "ticker": "FORM",
+      "price": 14.25
+    }
+  ]
+}

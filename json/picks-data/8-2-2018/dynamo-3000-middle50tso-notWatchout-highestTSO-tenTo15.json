@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DVAX",
+      "price": 13.3
+    },
+    {
+      "ticker": "MITL",
+      "price": 10.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LXRX",
+      "price": 11.07
+    },
+    {
+      "ticker": "IIM",
+      "price": 14.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PNI",
+      "price": 10.89
+    },
+    {
+      "ticker": "NQP",
+      "price": 12.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCS",
+      "price": 10.08
+    },
+    {
+      "ticker": "VNTR",
+      "price": 13.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HIE",
+      "price": 12.37
+    },
+    {
+      "ticker": "EVG",
+      "price": 12.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EIA",
+      "price": 10.76
+    },
+    {
+      "ticker": "VEDL",
+      "price": 12.48
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RCII",
+      "price": 14.805
+    },
+    {
+      "ticker": "EIV",
+      "price": 11.89
+    }
+  ]
+}

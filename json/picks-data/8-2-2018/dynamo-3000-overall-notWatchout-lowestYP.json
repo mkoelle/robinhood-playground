@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EVFM",
+      "price": 2.13
+    },
+    {
+      "ticker": "AWSM",
+      "price": 3.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVFM",
+      "price": 2.15
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVFM",
+      "price": 2.12
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8553
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EVFM",
+      "price": 2.05
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EVFM",
+      "price": 1.8
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8516
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EVFM",
+      "price": 1.8489
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8526
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EVFM",
+      "price": 1.8588
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8664
+    }
+  ]
+}

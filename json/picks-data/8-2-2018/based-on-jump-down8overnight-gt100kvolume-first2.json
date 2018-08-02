@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1861
+    }
+  ],
+  "5": [
+    {
+      "ticker": "APRN",
+      "price": 1.95
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1632
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RSLS",
+      "price": 0.5493
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1403
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RSLS",
+      "price": 0.56
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.141
+    }
+  ]
+}

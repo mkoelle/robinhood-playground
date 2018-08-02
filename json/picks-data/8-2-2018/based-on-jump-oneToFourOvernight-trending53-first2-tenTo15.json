@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CENX",
+      "price": 13.46
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "CENX",
+      "price": 13.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "CENX",
+      "price": 13.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "CENX",
+      "price": 13.115
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 2.3
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.895
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 2.277
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.4801
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.485
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.95
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    }
+  ]
+}

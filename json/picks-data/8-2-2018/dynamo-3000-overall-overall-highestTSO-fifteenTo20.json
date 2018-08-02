@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "REV",
+      "price": 15.6
+    },
+    {
+      "ticker": "GHG",
+      "price": 16.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPAR",
+      "price": 15.4
+    },
+    {
+      "ticker": "GTES",
+      "price": 16.93
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SPAR",
+      "price": 15.8
+    },
+    {
+      "ticker": "GTES",
+      "price": 17.27
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    },
+    {
+      "ticker": "EOLS",
+      "price": 19.72
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    },
+    {
+      "ticker": "EOLS",
+      "price": 19.28
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    },
+    {
+      "ticker": "GTES",
+      "price": 18.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    },
+    {
+      "ticker": "GTES",
+      "price": 17.98
+    }
+  ]
+}

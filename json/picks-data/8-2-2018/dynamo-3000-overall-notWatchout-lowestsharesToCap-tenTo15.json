@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NWSA",
+      "price": 14.92
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SBH",
+      "price": 14.105
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SBH",
+      "price": 13.89
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.5544
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SBH",
+      "price": 14.155
+    },
+    {
+      "ticker": "VRCA",
+      "price": 14.3699
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SBH",
+      "price": 14.08
+    },
+    {
+      "ticker": "VRCA",
+      "price": 14.2313
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SBH",
+      "price": 14.19
+    },
+    {
+      "ticker": "VRCA",
+      "price": 14.715
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SBH",
+      "price": 14.105
+    },
+    {
+      "ticker": "VRCA",
+      "price": 14.63
+    }
+  ]
+}

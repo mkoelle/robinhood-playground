@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPVG",
+      "price": 13.91
+    },
+    {
+      "ticker": "CSSE",
+      "price": 11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPVG",
+      "price": 13.87
+    },
+    {
+      "ticker": "CSSE",
+      "price": 11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPVG",
+      "price": 13.78
+    },
+    {
+      "ticker": "CSSE",
+      "price": 11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPVG",
+      "price": 13.7722
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.571
+    }
+  ]
+}

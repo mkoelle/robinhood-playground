@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACER",
+      "price": 20.5
+    },
+    {
+      "ticker": "DNOW",
+      "price": 15.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEX",
+      "price": 17.05
+    },
+    {
+      "ticker": "AMJL",
+      "price": 17.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EEX",
+      "price": 16.64
+    },
+    {
+      "ticker": "NEWM",
+      "price": 16.361
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEX",
+      "price": 16.38
+    },
+    {
+      "ticker": "XERS",
+      "price": 17.2
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEX",
+      "price": 16.865
+    },
+    {
+      "ticker": "GFF",
+      "price": 17.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEX",
+      "price": 16.29
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EEX",
+      "price": 16.415
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.68
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "ICL",
+      "price": 5.18
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.365
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JMP",
+      "price": 5.5375
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.19
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.3886
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JMP",
+      "price": 5.5375
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.2
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.38
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JMP",
+      "price": 5.43
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.2201
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.209
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ICL",
+      "price": 5.2
+    },
+    {
+      "ticker": "ARQL",
+      "price": 5.6582
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HLIT",
+      "price": 5.175
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.1701
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HLIT",
+      "price": 5.25
+    },
+    {
+      "ticker": "EMMS",
+      "price": 5.08
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HLIT",
+      "price": 5.25
+    },
+    {
+      "ticker": "HBM",
+      "price": 5.025
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HLIT",
+      "price": 5.15
+    },
+    {
+      "ticker": "HBM",
+      "price": 4.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HLIT",
+      "price": 5.25
+    },
+    {
+      "ticker": "RCMT",
+      "price": 5.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HLIT",
+      "price": 5.275
+    },
+    {
+      "ticker": "OCSL",
+      "price": 5.005
+    }
+  ]
+}

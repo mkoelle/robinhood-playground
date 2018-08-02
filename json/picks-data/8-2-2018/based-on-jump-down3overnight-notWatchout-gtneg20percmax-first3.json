@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.051
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.14
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCHX",
+      "price": 2.96
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.084
+    }
+  ]
+}

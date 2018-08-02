@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GHG",
+      "price": 16.03
+    },
+    {
+      "ticker": "TROX",
+      "price": 18.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RECN",
+      "price": 16.475
+    },
+    {
+      "ticker": "APLS",
+      "price": 17.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TLYS",
+      "price": 15.59
+    },
+    {
+      "ticker": "HZO",
+      "price": 19.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EOLS",
+      "price": 19.72
+    },
+    {
+      "ticker": "CNCE",
+      "price": 17.04
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EOLS",
+      "price": 19.28
+    },
+    {
+      "ticker": "CNCE",
+      "price": 17.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CNCE",
+      "price": 17.4
+    },
+    {
+      "ticker": "TLYS",
+      "price": 15.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNCE",
+      "price": 17.51
+    },
+    {
+      "ticker": "SGRY",
+      "price": 15.775
+    }
+  ]
+}

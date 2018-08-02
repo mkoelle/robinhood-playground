@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NWSA",
+      "price": 14.92
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.839
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZBIO",
+      "price": 14.65
+    },
+    {
+      "ticker": "TCPC",
+      "price": 14.81
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCII",
+      "price": 14.77
+    },
+    {
+      "ticker": "GME",
+      "price": 14.6975
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDEM",
+      "price": 14.3988
+    },
+    {
+      "ticker": "FSD",
+      "price": 14.5073
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TCPC",
+      "price": 14.83
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.3988
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCPC",
+      "price": 14.83
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.3988
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCPC",
+      "price": 14.84
+    },
+    {
+      "ticker": "RCII",
+      "price": 14.805
+    }
+  ]
+}

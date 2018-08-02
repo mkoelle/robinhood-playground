@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACER",
+      "price": 20.5
+    },
+    {
+      "ticker": "REV",
+      "price": 15.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEX",
+      "price": 17.05
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EEX",
+      "price": 16.64
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EEX",
+      "price": 16.38
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "EEX",
+      "price": 16.865
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EEX",
+      "price": 16.29
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EEX",
+      "price": 16.415
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    }
+  ]
+}

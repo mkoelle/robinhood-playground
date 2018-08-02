@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CECO",
+      "price": 16.6978
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.45
+    },
+    {
+      "ticker": "PDM",
+      "price": 19.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IO",
+      "price": 19.5
+    },
+    {
+      "ticker": "DFIN",
+      "price": 19.98
+    },
+    {
+      "ticker": "CECO",
+      "price": 15.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IO",
+      "price": 19.6
+    },
+    {
+      "ticker": "DFIN",
+      "price": 19.445
+    },
+    {
+      "ticker": "CECO",
+      "price": 16.31
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IO",
+      "price": 18.75
+    },
+    {
+      "ticker": "DFIN",
+      "price": 19.14
+    },
+    {
+      "ticker": "CECO",
+      "price": 16.68
+    }
+  ]
+}

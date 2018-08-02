@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HLX",
+      "price": 9.595
+    },
+    {
+      "ticker": "CRVS",
+      "price": 9.31
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HHS",
+      "price": 9.67
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.44
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HHS",
+      "price": 9.86
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MVO",
+      "price": 9.9495
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.8995
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LOOP",
+      "price": 9.76
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.8163
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MVO",
+      "price": 10.0828
+    },
+    {
+      "ticker": "LOOP",
+      "price": 9.81
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOOP",
+      "price": 9.61
+    },
+    {
+      "ticker": "SOXS",
+      "price": 9.76
+    }
+  ]
+}

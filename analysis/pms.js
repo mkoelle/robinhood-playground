@@ -29,7 +29,7 @@ module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
 
     const pmAnalysis = {};
     Object.keys(pmCache).forEach(key => {
-        const trends = pmCache[key];
+        const trends = pmCache[key].filter(t => Math.abs(t) < 50);
         pmAnalysis[key] = {
             avgTrend: avgArray(trends),
             percUp: trends.filter(t => t > 0).length / trends.length,
@@ -49,8 +49,9 @@ module.exports = async (Robinhood, daysBack = 5, minCount = 5) => {
             ...pmAnalysis[pm]
         }))
         .sort((a, b) => b.avgTrend - a.avgTrend)
+        .sort((a, b) => b.percUp - a.percUp)
         // .filter(t => t.hundredResult > 110)
-        // .filter(t => t.trends.length >= minCount)// && t.trends.every(a => a > -1));
+        .filter(t => t.trends.length >= minCount)// && t.trends.every(a => a > -1));
     console.log(JSON.stringify(sortedArray, null, 2));
 
 

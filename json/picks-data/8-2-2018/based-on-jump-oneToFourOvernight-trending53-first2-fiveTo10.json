@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.7426
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.49
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.28
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NICK",
+      "price": 9.5978
+    },
+    {
+      "ticker": "MNLO",
+      "price": 8.2601
+    }
+  ]
+}

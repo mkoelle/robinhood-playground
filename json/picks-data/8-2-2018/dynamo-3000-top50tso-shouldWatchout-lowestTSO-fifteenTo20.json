@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMI",
+      "price": 18.3364
+    },
+    {
+      "ticker": "ACAD",
+      "price": 15.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PAR",
+      "price": 19.19
+    },
+    {
+      "ticker": "LL",
+      "price": 19.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UAA",
+      "price": 19.385
+    },
+    {
+      "ticker": "TGH",
+      "price": 16.201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GTXI",
+      "price": 17.3
+    },
+    {
+      "ticker": "SWIR",
+      "price": 16.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CRCM",
+      "price": 18.88
+    },
+    {
+      "ticker": "SLP",
+      "price": 18.6783
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRCM",
+      "price": 18.89
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HZO",
+      "price": 19.075
+    },
+    {
+      "ticker": "UA",
+      "price": 18.185
+    }
+  ]
+}

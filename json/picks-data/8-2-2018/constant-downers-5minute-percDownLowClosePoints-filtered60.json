@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "OBLN",
+      "price": 1.49
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.1503
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.675
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SAEX",
+      "price": 1.01
+    },
+    {
+      "ticker": "NAKD",
+      "price": 4.5521
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.446
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CRIS",
+      "price": 1.62
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1319
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.03
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TAC",
+      "price": 5.65
+    },
+    {
+      "ticker": "BKCC",
+      "price": 6.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TRXC",
+      "price": 5.37
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.92
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VHI",
+      "price": 5.11
+    },
+    {
+      "ticker": "SNDE",
+      "price": 5.6063
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SNDE",
+      "price": 5.6063
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.035
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRIP",
+      "price": 6.015
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.2
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASPN",
+      "price": 5.11
+    },
+    {
+      "ticker": "NIHD",
+      "price": 6.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRIP",
+      "price": 6.045
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.21
+    }
+  ]
+}

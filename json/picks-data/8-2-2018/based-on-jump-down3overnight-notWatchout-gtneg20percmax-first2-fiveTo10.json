@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ULBI",
+      "price": 9.5
+    },
+    {
+      "ticker": "BSMX",
+      "price": 8.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ULBI",
+      "price": 9.9475
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.42
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ULBI",
+      "price": 9.95
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ULBI",
+      "price": 9.95
+    },
+    {
+      "ticker": "PRCP",
+      "price": 9.6
+    }
+  ]
+}

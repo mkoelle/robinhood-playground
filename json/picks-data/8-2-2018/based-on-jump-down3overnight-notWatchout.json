@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.335
+    },
+    {
+      "ticker": "FVE",
+      "price": 1.25
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRD",
+      "price": 4.88
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRD",
+      "price": 4.94
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.5101
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRD",
+      "price": 4.89
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.96
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    },
+    {
+      "ticker": "ATXI",
+      "price": 3.5101
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    }
+  ]
+}

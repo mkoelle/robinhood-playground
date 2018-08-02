@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SOXS",
+      "price": 10.41
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOXS",
+      "price": 10.26
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOXS",
+      "price": 10.3
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.1366
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOXS",
+      "price": 10.15
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.05
+    }
+  ]
+}

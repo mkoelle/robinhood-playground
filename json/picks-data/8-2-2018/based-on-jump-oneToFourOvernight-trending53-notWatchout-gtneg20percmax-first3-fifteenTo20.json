@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CTRE",
+      "price": 17.25
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.77
+    },
+    {
+      "ticker": "EUM",
+      "price": 18.985
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRE",
+      "price": 17
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.71
+    },
+    {
+      "ticker": "EUM",
+      "price": 18.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRE",
+      "price": 17.0101
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.605
+    },
+    {
+      "ticker": "EUM",
+      "price": 18.92
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRE",
+      "price": 17.19
+    },
+    {
+      "ticker": "CISN",
+      "price": 15.56
+    },
+    {
+      "ticker": "EUM",
+      "price": 18.93
+    }
+  ]
+}

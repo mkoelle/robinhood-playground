@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CTRV",
+      "price": 0.789
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.54
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.29
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRV",
+      "price": 0.75
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.535
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2849
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRV",
+      "price": 0.83
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5122
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2821
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRV",
+      "price": 0.8026
+    },
+    {
+      "ticker": "CDTI",
+      "price": 0.5122
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.272
+    }
+  ]
+}

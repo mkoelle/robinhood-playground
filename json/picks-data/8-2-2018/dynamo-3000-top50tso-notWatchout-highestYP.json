@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMMP",
+      "price": 2.52
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.68
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LRAD",
+      "price": 2.79
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.4343
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LRAD",
+      "price": 2.8299
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LTRX",
+      "price": 3.3
+    },
+    {
+      "ticker": "URG",
+      "price": 0.807
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LTRX",
+      "price": 3.295
+    },
+    {
+      "ticker": "URG",
+      "price": 0.8084
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LTRX",
+      "price": 3.316
+    },
+    {
+      "ticker": "UEC",
+      "price": 1.74
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LTRX",
+      "price": 3.35
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.97
+    }
+  ]
+}

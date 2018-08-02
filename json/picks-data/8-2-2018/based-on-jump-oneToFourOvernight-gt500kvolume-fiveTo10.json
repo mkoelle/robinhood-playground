@@ -1,0 +1,45 @@
+{
+  "0": [],
+  "5": [
+    {
+      "ticker": "FIT",
+      "price": 5.84
+    },
+    {
+      "ticker": "DFRG",
+      "price": 8.825
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FIT",
+      "price": 5.635
+    },
+    {
+      "ticker": "DFRG",
+      "price": 8.7501
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.13
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FIT",
+      "price": 5.645
+    },
+    {
+      "ticker": "DFRG",
+      "price": 8.95
+    },
+    {
+      "ticker": "BCRX",
+      "price": 6.1893
+    },
+    {
+      "ticker": "TZA",
+      "price": 8.935
+    }
+  ]
+}

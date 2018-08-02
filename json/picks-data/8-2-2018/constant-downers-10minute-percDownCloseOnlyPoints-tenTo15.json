@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "WATT",
+      "price": 10.6001
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.237
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.75
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WATT",
+      "price": 11.41
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.7
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.67
+    }
+  ],
+  "309": [
+    {
+      "ticker": "BSIG",
+      "price": 12.5
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.5
+    },
+    {
+      "ticker": "WATT",
+      "price": 12.135
+    }
+  ]
+}

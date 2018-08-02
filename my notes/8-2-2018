@@ -1,0 +1,10 @@
+node --max_old_space_size=8000 run analysis/strategy-perf-multiple 52
+
+low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-6
+"firstGreen": {
+  "percUp": 0.8421052631578947,
+  "avgTrend": 4.637631578947369,
+  "hundredResult": 473.3874995939809,
+  "percHitPlayout": 0.8461538461538461,
+  "percHitsPositive": 1
+}

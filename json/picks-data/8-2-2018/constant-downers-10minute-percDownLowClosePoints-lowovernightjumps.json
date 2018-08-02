@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1286
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1381
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.5529
+    }
+  ],
+  "242": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1449
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.265
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1349
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HMNY",
+      "price": 0.14
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.295
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1319
+    }
+  ]
+}

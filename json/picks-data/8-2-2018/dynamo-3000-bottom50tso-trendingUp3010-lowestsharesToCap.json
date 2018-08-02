@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CORV",
+      "price": 4.71
+    },
+    {
+      "ticker": "IVTY",
+      "price": 4.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSYS",
+      "price": 4.7463
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.775
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSYS",
+      "price": 4.7001
+    },
+    {
+      "ticker": "EMKR",
+      "price": 4.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSYS",
+      "price": 4.37
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3115
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.2601
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSYS",
+      "price": 4.5801
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.78
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSYS",
+      "price": 4.51
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.82
+    }
+  ]
+}

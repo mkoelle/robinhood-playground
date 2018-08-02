@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "XOG",
+      "price": 14.92
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNOW",
+      "price": 16.705
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DNOW",
+      "price": 16.71
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.32
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNOW",
+      "price": 16.86
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.4503
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 16.92
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.495
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DNOW",
+      "price": 16.78
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.96
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UIS",
+      "price": 15.15
+    },
+    {
+      "ticker": "DNOW",
+      "price": 16.83
+    }
+  ]
+}

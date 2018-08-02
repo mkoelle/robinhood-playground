@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGY",
+      "price": 2.95
+    },
+    {
+      "ticker": "DDE",
+      "price": 3.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 3.675
+    },
+    {
+      "ticker": "GNW",
+      "price": 4.635
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVE",
+      "price": 4.9999
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.67
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRNT",
+      "price": 4.04
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.8359
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CASM",
+      "price": 2.18
+    },
+    {
+      "ticker": "TEUM",
+      "price": 2.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TMQ",
+      "price": 1.9101
+    },
+    {
+      "ticker": "NSU",
+      "price": 3.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TMQ",
+      "price": 1.915
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4.02
+    }
+  ]
+}

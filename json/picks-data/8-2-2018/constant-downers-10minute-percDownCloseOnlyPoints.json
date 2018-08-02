@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "IHT",
+      "price": 2.1364
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1617
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1286
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NSYS",
+      "price": 4.4063
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.9792
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1449
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.14
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.97
+    }
+  ]
+}

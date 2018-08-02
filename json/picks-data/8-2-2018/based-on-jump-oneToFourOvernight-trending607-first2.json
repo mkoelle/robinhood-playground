@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 2.3
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.561
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 2.277
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.577
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.552
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    }
+  ]
+}

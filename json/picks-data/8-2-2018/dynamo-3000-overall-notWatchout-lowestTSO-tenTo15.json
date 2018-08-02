@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RYI",
+      "price": 11.1
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RYI",
+      "price": 11.025
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRCA",
+      "price": 14.3699
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RYI",
+      "price": 10.55
+    },
+    {
+      "ticker": "VRCA",
+      "price": 14.2313
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RYI",
+      "price": 10.6
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RYI",
+      "price": 10.75
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.025
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.335
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRD",
+      "price": 4.88
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRD",
+      "price": 4.94
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.63
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRD",
+      "price": 4.89
+    },
+    {
+      "ticker": "MCHX",
+      "price": 2.96
+    },
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    }
+  ]
+}

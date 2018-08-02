@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "KMPH",
+      "price": 4.4757
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.74
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KMPH",
+      "price": 4.45
+    },
+    {
+      "ticker": "AMRN",
+      "price": 2.795
+    },
+    {
+      "ticker": "EVOK",
+      "price": 2.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KMPH",
+      "price": 4.5
+    },
+    {
+      "ticker": "CAAS",
+      "price": 4.2915
+    },
+    {
+      "ticker": "MDLY",
+      "price": 3.7925
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DVD",
+      "price": 2.125
+    },
+    {
+      "ticker": "KMPH",
+      "price": 4.4
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.2999
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENDP",
+      "price": 12.28
+    },
+    {
+      "ticker": "CDXS",
+      "price": 14.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "VG",
+      "price": 13.419
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTSO",
+      "price": 12.7
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 12.75
+    },
+    {
+      "ticker": "EGAN",
+      "price": 13.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 12.155
+    },
+    {
+      "ticker": "CTSO",
+      "price": 13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 12.321
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.775
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 12.375
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.85
+    }
+  ]
+}

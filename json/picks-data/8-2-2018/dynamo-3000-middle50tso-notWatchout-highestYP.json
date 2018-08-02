@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GTE",
+      "price": 3.33
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.9938
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARTX",
+      "price": 3.84
+    },
+    {
+      "ticker": "GGB",
+      "price": 4.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EMX",
+      "price": 1.27
+    },
+    {
+      "ticker": "DSWL",
+      "price": 3.479
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRNT",
+      "price": 4.04
+    },
+    {
+      "ticker": "STKS",
+      "price": 2.8359
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVEO",
+      "price": 3.755
+    },
+    {
+      "ticker": "MARPS",
+      "price": 3.879
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TMQ",
+      "price": 1.9101
+    },
+    {
+      "ticker": "ROYT",
+      "price": 2.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TMQ",
+      "price": 1.915
+    },
+    {
+      "ticker": "CRNT",
+      "price": 4.02
+    }
+  ]
+}

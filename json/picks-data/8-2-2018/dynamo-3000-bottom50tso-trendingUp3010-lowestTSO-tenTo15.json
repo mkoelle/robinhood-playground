@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    },
+    {
+      "ticker": "HABT",
+      "price": 14.44
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RARX",
+      "price": 10.16
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RARX",
+      "price": 10.18
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TREC",
+      "price": 13.15
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TREC",
+      "price": 13.05
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TREC",
+      "price": 13.025
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ]
+}

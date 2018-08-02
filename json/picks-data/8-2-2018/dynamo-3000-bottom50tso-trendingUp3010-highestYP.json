@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CORV",
+      "price": 4.71
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5538
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KCAP",
+      "price": 3.1999
+    },
+    {
+      "ticker": "HSON",
+      "price": 1.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HSON",
+      "price": 1.66
+    },
+    {
+      "ticker": "VHI",
+      "price": 4.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KCAP",
+      "price": 3.101
+    },
+    {
+      "ticker": "HSON",
+      "price": 1.64
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VHI",
+      "price": 4.78
+    },
+    {
+      "ticker": "KZIA",
+      "price": 3.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HSON",
+      "price": 1.645
+    },
+    {
+      "ticker": "KZIA",
+      "price": 3.54
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MDR",
+      "price": 19.72
+    },
+    {
+      "ticker": "DNOW",
+      "price": 15.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPAR",
+      "price": 15.4
+    },
+    {
+      "ticker": "DNOW",
+      "price": 16.705
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HABT",
+      "price": 15.25
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    },
+    {
+      "ticker": "DNOW",
+      "price": 16.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPAR",
+      "price": 15.85
+    },
+    {
+      "ticker": "DNOW",
+      "price": 16.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    },
+    {
+      "ticker": "BEDU",
+      "price": 15.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HABT",
+      "price": 15.275
+    },
+    {
+      "ticker": "SPAR",
+      "price": 15.65
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DERM",
+      "price": 10.1298
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCS",
+      "price": 10.03
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RCS",
+      "price": 10.041
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RCS",
+      "price": 10.08
+    },
+    {
+      "ticker": "SEA",
+      "price": 10.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPA",
+      "price": 10.0499
+    },
+    {
+      "ticker": "RCS",
+      "price": 10.0711
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TCS",
+      "price": 10.109
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.01
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TCS",
+      "price": 10.0262
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.06
+    }
+  ]
+}

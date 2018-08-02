@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ENDP",
+      "price": 12.28
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.5501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CTSO",
+      "price": 12.7
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CTSO",
+      "price": 12.75
+    },
+    {
+      "ticker": "LBY",
+      "price": 11.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 12.155
+    },
+    {
+      "ticker": "CTSO",
+      "price": 13
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 14.6675
+    },
+    {
+      "ticker": "ABUS",
+      "price": 12.321
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 14.58
+    },
+    {
+      "ticker": "ABUS",
+      "price": 12.375
+    }
+  ]
+}

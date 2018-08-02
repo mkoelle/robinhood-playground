@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRIS",
+      "price": 1.87
+    },
+    {
+      "ticker": "PRPO",
+      "price": 0.464
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NSYS",
+      "price": 4.7463
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.79
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NSYS",
+      "price": 4.7001
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.505
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSYS",
+      "price": 4.37
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3115
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.705
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSYS",
+      "price": 4.5801
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.6599
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSYS",
+      "price": 4.51
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.645
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1286
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1381
+    },
+    {
+      "ticker": "SAEX",
+      "price": 1.0448
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NSYS",
+      "price": 4.4063
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1449
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.265
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.14
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.62
+    }
+  ]
+}

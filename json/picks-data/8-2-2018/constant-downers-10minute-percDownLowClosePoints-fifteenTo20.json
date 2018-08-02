@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EEX",
+      "price": 17.245
+    },
+    {
+      "ticker": "NEWM",
+      "price": 16.18
+    },
+    {
+      "ticker": "CECO",
+      "price": 16.79
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EEX",
+      "price": 16.6162
+    },
+    {
+      "ticker": "NEWM",
+      "price": 16.24
+    },
+    {
+      "ticker": "TROX",
+      "price": 16.94
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EEX",
+      "price": 16.51
+    },
+    {
+      "ticker": "TROX",
+      "price": 16.6678
+    },
+    {
+      "ticker": "NEWM",
+      "price": 16.325
+    }
+  ]
+}

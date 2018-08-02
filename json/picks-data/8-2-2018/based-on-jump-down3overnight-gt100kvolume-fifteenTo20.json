@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SBH",
+      "price": 15
+    },
+    {
+      "ticker": "PPC",
+      "price": 17.11
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CECO",
+      "price": 15.85
+    },
+    {
+      "ticker": "AR",
+      "price": 19.185
+    },
+    {
+      "ticker": "PPC",
+      "price": 16.9631
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CECO",
+      "price": 16.31
+    },
+    {
+      "ticker": "AR",
+      "price": 19.04
+    },
+    {
+      "ticker": "PPC",
+      "price": 16.795
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IO",
+      "price": 18.75
+    },
+    {
+      "ticker": "CECO",
+      "price": 16.68
+    },
+    {
+      "ticker": "AR",
+      "price": 19.025
+    },
+    {
+      "ticker": "PPC",
+      "price": 16.74
+    }
+  ]
+}

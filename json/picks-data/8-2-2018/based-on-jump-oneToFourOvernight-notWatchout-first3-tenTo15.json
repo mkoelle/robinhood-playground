@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "VIIX",
+      "price": 13.68
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.25
+    }
+  ],
+  "5": [
+    {
+      "ticker": "VIIX",
+      "price": 13.66
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VIIX",
+      "price": 13.59
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VIIX",
+      "price": 13.57
+    },
+    {
+      "ticker": "DPK",
+      "price": 12.59
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.625
+    }
+  ]
+}

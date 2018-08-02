@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IRT",
+      "price": 10.2
+    },
+    {
+      "ticker": "UGP",
+      "price": 11.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IRT",
+      "price": 10.15
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IRT",
+      "price": 10.12
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IRT",
+      "price": 10.07
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IRT",
+      "price": 10.07
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VCEL",
+      "price": 10.05
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.17
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VCEL",
+      "price": 10.125
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.22
+    }
+  ]
+}

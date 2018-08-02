@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "INOV",
+      "price": 11.9
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.02
+    }
+  ],
+  "5": [
+    {
+      "ticker": "INOV",
+      "price": 12.0885
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "INOV",
+      "price": 12.55
+    },
+    {
+      "ticker": "BGCP",
+      "price": 10.96
+    }
+  ],
+  "30": [
+    {
+      "ticker": "INOV",
+      "price": 12.525
+    },
+    {
+      "ticker": "BGCP",
+      "price": 11
+    }
+  ]
+}

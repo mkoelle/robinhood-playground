@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CPIX",
+      "price": 5.92
+    },
+    {
+      "ticker": "OMEX",
+      "price": 7.2751
+    },
+    {
+      "ticker": "BLCM",
+      "price": 6.005
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SCX",
+      "price": 6.35
+    },
+    {
+      "ticker": "PDEX",
+      "price": 6.25
+    },
+    {
+      "ticker": "NICK",
+      "price": 9.48
+    }
+  ],
+  "309": [
+    {
+      "ticker": "RBCN",
+      "price": 8.22
+    },
+    {
+      "ticker": "NL",
+      "price": 8.6
+    },
+    {
+      "ticker": "NICK",
+      "price": 9.48
+    }
+  ]
+}

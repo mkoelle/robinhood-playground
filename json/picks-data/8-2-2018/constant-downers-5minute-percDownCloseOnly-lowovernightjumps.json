@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ASM",
+      "price": 1.1
+    },
+    {
+      "ticker": "ZN",
+      "price": 2.71
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.39
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ASM",
+      "price": 1.1
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.42
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.265
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ATXI",
+      "price": 3.1601
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.0935
+    },
+    {
+      "ticker": "RVLT",
+      "price": 3.425
+    }
+  ]
+}

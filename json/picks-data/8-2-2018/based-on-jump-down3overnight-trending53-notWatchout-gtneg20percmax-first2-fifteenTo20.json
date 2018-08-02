@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CECO",
+      "price": 16.6978
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CECO",
+      "price": 15.85
+    },
+    {
+      "ticker": "PDM",
+      "price": 19.94
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CECO",
+      "price": 16.31
+    },
+    {
+      "ticker": "PDM",
+      "price": 19.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CECO",
+      "price": 16.68
+    },
+    {
+      "ticker": "PDM",
+      "price": 19.865
+    }
+  ]
+}

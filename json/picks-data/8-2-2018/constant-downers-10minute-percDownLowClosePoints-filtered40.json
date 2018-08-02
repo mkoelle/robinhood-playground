@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CDTI",
+      "price": 0.5127
+    },
+    {
+      "ticker": "HSON",
+      "price": 1.64
+    },
+    {
+      "ticker": "FLKS",
+      "price": 0.76
+    }
+  ],
+  "242": [
+    {
+      "ticker": "XBIO",
+      "price": 2.971
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.28
+    },
+    {
+      "ticker": "IZEA",
+      "price": 1.31
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MYOS",
+      "price": 1.26
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.15
+    },
+    {
+      "ticker": "FBIO",
+      "price": 2.1
+    }
+  ]
+}

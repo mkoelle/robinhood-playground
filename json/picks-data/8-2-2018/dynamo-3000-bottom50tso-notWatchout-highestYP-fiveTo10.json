@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRS",
+      "price": 6.9
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.237
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HLX",
+      "price": 9.44
+    },
+    {
+      "ticker": "NERV",
+      "price": 8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ADMA",
+      "price": 6.29
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 7.015
+    },
+    {
+      "ticker": "HLX",
+      "price": 9.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ADMA",
+      "price": 6.2
+    },
+    {
+      "ticker": "NOA",
+      "price": 7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WTI",
+      "price": 7.035
+    },
+    {
+      "ticker": "NOA",
+      "price": 6.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ADMA",
+      "price": 6.21
+    },
+    {
+      "ticker": "NOA",
+      "price": 7
+    }
+  ]
+}

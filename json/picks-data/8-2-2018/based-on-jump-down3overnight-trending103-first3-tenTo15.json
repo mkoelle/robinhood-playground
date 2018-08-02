@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LNTH",
+      "price": 13.55
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.98
+    },
+    {
+      "ticker": "EPZM",
+      "price": 12.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LNTH",
+      "price": 13.1
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.7
+    },
+    {
+      "ticker": "TREC",
+      "price": 14.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LNTH",
+      "price": 13.1
+    },
+    {
+      "ticker": "LKSD",
+      "price": 13.29
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LNTH",
+      "price": 13.3
+    },
+    {
+      "ticker": "LKSD",
+      "price": 12.67
+    },
+    {
+      "ticker": "TREC",
+      "price": 13.6
+    }
+  ]
+}

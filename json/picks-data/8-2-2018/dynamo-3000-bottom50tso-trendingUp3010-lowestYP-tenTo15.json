@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EPZM",
+      "price": 11.2
+    },
+    {
+      "ticker": "CHU",
+      "price": 12.14
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GLRE",
+      "price": 14.575
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLRE",
+      "price": 14.4
+    },
+    {
+      "ticker": "PLLL",
+      "price": 13.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWM",
+      "price": 14.04
+    },
+    {
+      "ticker": "GLRE",
+      "price": 14.375
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLRE",
+      "price": 13.9
+    },
+    {
+      "ticker": "TWM",
+      "price": 13.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 10.455
+    },
+    {
+      "ticker": "GLRE",
+      "price": 13.825
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NES",
+      "price": 10.8
+    },
+    {
+      "ticker": "GLRE",
+      "price": 13.775
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.335
+    },
+    {
+      "ticker": "LTRX",
+      "price": 2.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    },
+    {
+      "ticker": "LTRX",
+      "price": 3.051
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.11
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.02
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    },
+    {
+      "ticker": "LEU",
+      "price": 3.03
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.1
+    },
+    {
+      "ticker": "UQM",
+      "price": 0.999
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3581
+    }
+  ]
+}

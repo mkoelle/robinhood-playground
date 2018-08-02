@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TWM",
+      "price": 14.3094
+    },
+    {
+      "ticker": "XON",
+      "price": 14.41
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XON",
+      "price": 14.475
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.71
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MFD",
+      "price": 11.113
+    },
+    {
+      "ticker": "XON",
+      "price": 14.51
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INXX",
+      "price": 13
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.3988
+    }
+  ],
+  "260": [
+    {
+      "ticker": "INXX",
+      "price": 13.03
+    },
+    {
+      "ticker": "SDEM",
+      "price": 14.3988
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VEDL",
+      "price": 12.48
+    },
+    {
+      "ticker": "INXX",
+      "price": 13.0249
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DB",
+      "price": 12.525
+    },
+    {
+      "ticker": "MFD",
+      "price": 11.1325
+    }
+  ]
+}

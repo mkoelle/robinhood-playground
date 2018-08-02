@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "IHT",
+      "price": 2.3776
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IHT",
+      "price": 2.525
+    },
+    {
+      "ticker": "MOC",
+      "price": 2
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.43
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.027
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IHT",
+      "price": 2.4401
+    },
+    {
+      "ticker": "MOC",
+      "price": 1.86
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.48
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.03
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IHT",
+      "price": 2.09
+    },
+    {
+      "ticker": "MOC",
+      "price": 1.98
+    },
+    {
+      "ticker": "QTRH",
+      "price": 1.45
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.03
+    },
+    {
+      "ticker": "RUBI",
+      "price": 3.205
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DNLI",
+      "price": 13.89
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DNLI",
+      "price": 13.8
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DNLI",
+      "price": 14.195
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DNLI",
+      "price": 13.81
+    },
+    {
+      "ticker": "USAT",
+      "price": 14.8
+    }
+  ]
+}

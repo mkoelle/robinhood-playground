@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACER",
+      "price": 20.5
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.73
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVH",
+      "price": 19.925
+    },
+    {
+      "ticker": "EDUC",
+      "price": 18.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KBR",
+      "price": 19.985
+    },
+    {
+      "ticker": "TLRD",
+      "price": 19.985
+    }
+  ],
+  "200": [
+    {
+      "ticker": "EDUC",
+      "price": 19.95
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KBR",
+      "price": 19.99
+    },
+    {
+      "ticker": "MTEX",
+      "price": 19.9
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MRUS",
+      "price": 19.5
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MRUS",
+      "price": 19.68
+    },
+    {
+      "ticker": "EDUC",
+      "price": 19.95
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EIGR",
+      "price": 10.1
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IRT",
+      "price": 10.15
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMTE",
+      "price": 11.01
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "IRT",
+      "price": 10.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "VCEL",
+      "price": 10.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "IMTE",
+      "price": 11
+    },
+    {
+      "ticker": "VCEL",
+      "price": 10.125
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "0": [
+    {
+      "ticker": "CTRE",
+      "price": 17.25
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.75
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.605
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTRE",
+      "price": 17
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.29
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.96
+    },
+    {
+      "ticker": "AMU",
+      "price": 17.854
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTRE",
+      "price": 17.0101
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.335
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.9
+    },
+    {
+      "ticker": "AMU",
+      "price": 17.854
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTRE",
+      "price": 17.19
+    },
+    {
+      "ticker": "TVPT",
+      "price": 19.3875
+    },
+    {
+      "ticker": "TSLX",
+      "price": 19.8
+    },
+    {
+      "ticker": "AMU",
+      "price": 17.9
+    }
+  ]
+}

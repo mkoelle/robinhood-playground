@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NEON",
+      "price": 0.335
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.09
+    },
+    {
+      "ticker": "HK",
+      "price": 3.58
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AVP",
+      "price": 1.455
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.35
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.13
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AVP",
+      "price": 1.46
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.1461
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AVP",
+      "price": 1.49
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3581
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.1302
+    }
+  ]
+}

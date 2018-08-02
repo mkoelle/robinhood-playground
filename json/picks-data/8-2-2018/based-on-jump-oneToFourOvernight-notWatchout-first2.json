@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TURN",
+      "price": 2.3
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TURN",
+      "price": 2.277
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.5148
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    },
+    {
+      "ticker": "CPSH",
+      "price": 1.6534
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CCCL",
+      "price": 1.64
+    },
+    {
+      "ticker": "TURN",
+      "price": 2.26
+    }
+  ]
+}
