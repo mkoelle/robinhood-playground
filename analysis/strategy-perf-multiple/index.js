@@ -7,7 +7,7 @@ const generateBreakdowns = require('./generate-breakdowns');
 module.exports = async (Robinhood, daysBack = 2, ...strategies) => {
     console.log('days back', daysBack);
 
-    const suppliedStrategies = strategies.length && false;
+    const suppliedStrategies = strategies.length;
     if (suppliedStrategies) {
         console.log('strategies', strategies);
     }

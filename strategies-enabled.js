@@ -8,6 +8,28 @@ const shorting = [
 ];
 
 
+const secondaryShorting = [
+    'based-on-jump-gtEightOvernight-gt500kvolume-first1-5',
+    'constant-risers-5minute-percUpHighClosePoints-140',
+    'based-on-jump-gtEightOvernight-gt1milvolume-first1-0',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trendgt30-shouldWatchout-95',
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt20-shouldWatchout-25',
+];
+
+const secondaryLowCountShorting = [
+    'low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt40-150',
+    'based-on-jump-gtEightOvernight-trending53-notWatchout-first1-fiveTo10-5',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt20-tenTo15-150',
+    'low-float-high-volume-floatPoints-trenddowngt20-tenTo15-150',
+    'low-float-high-volume-floatTimesabsVolPoints-trendgt30-fiveTo10-384'
+];
+
+const allShorts = [
+    ...shorting,
+    ...secondaryShorting,
+    ...secondaryLowCountShorting
+];
+
 //////////////////////
 
 
@@ -126,6 +148,7 @@ const topPercUpJuly16 = [
 
 const creme = [
     'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-150', //limit6Down12Up
     'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-150',
 ];
 
@@ -152,7 +175,6 @@ const keepAnEyeOn = [
     'low-float-high-volume-volToAvgPoints-trenddown3to5-fifteenTo20-95',    // new
     'dynamo-3000-overall-onlyWatchout-highestTSO-tenTo15-100'
 ];
-
 
 
 const forPurchase = [
@@ -191,6 +213,7 @@ module.exports = {
             ...occasionals,
             ...occasionalLowCount,
             ...keepAnEyeOn
+            ...allShorts
         ],
         ...cheapestPicksEmailObj
     },
@@ -219,6 +242,6 @@ module.exports = {
         keepAnEyeOn,
 
 
-        shorting
+        allShorts
     }
 };
