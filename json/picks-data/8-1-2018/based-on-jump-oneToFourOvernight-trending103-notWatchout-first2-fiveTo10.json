@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TKC",
+      "price": 6.7
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.605
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TKC",
+      "price": 6.67
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.61
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TKC",
+      "price": 6.66
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TKC",
+      "price": 6.64
+    },
+    {
+      "ticker": "LPL",
+      "price": 9.61
+    }
+  ]
+}

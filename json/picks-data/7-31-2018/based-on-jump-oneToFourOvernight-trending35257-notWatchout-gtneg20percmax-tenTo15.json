@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BCS",
+      "price": 10.455
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BCS",
+      "price": 10.465
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BCS",
+      "price": 10.445
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BCS",
+      "price": 10.43
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.4
+    }
+  ]
+}

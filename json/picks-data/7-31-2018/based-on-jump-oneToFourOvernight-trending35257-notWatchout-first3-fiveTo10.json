@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "WEAT",
+      "price": 7.01
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.66
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.92
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WEAT",
+      "price": 7.028
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.659
+    },
+    {
+      "ticker": "AMKR",
+      "price": 9.285
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WEAT",
+      "price": 6.98
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.6444
+    },
+    {
+      "ticker": "AMKR",
+      "price": 9.23
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WEAT",
+      "price": 6.975
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.6366
+    },
+    {
+      "ticker": "AMKR",
+      "price": 8.9522
+    }
+  ]
+}

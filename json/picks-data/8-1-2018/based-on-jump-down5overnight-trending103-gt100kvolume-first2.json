@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ABIO",
+      "price": 0.7542
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.365
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ABIO",
+      "price": 0.745
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.365
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ABIO",
+      "price": 0.681
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ABIO",
+      "price": 0.71
+    },
+    {
+      "ticker": "GERN",
+      "price": 3.51
+    }
+  ]
+}

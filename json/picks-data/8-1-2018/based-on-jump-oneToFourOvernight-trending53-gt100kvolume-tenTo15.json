@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CZR",
+      "price": 10.975
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CZR",
+      "price": 11.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 11.8
+    },
+    {
+      "ticker": "CZR",
+      "price": 11.025
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGMO",
+      "price": 13.75
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.81
+    },
+    {
+      "ticker": "CZR",
+      "price": 11.025
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ACAD",
+      "price": 14.95
+    },
+    {
+      "ticker": "NGVC",
+      "price": 13.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPRX",
+      "price": 14.74
+    },
+    {
+      "ticker": "TORC",
+      "price": 14.56
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 14.71
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPRX",
+      "price": 14.95
+    },
+    {
+      "ticker": "TORC",
+      "price": 14.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPRX",
+      "price": 14.8
+    },
+    {
+      "ticker": "TORC",
+      "price": 14.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPRX",
+      "price": 14.86
+    },
+    {
+      "ticker": "SGRY",
+      "price": 14.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SIEB",
+      "price": 14.71
+    },
+    {
+      "ticker": "FPRX",
+      "price": 14.85
+    }
+  ]
+}

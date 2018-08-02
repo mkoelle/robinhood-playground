@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "LL",
+      "price": 19.37
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LL",
+      "price": 19.125
+    },
+    {
+      "ticker": "I",
+      "price": 20.36
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LL",
+      "price": 19.59
+    },
+    {
+      "ticker": "I",
+      "price": 19.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LL",
+      "price": 19.89
+    },
+    {
+      "ticker": "I",
+      "price": 19.58
+    }
+  ]
+}

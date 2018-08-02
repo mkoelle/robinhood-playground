@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESND",
+      "price": 16.43
+    },
+    {
+      "ticker": "LTRPA",
+      "price": 16.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FTSV",
+      "price": 16.585
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SIJ",
+      "price": 15.21
+    },
+    {
+      "ticker": "ESND",
+      "price": 16.19
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SIJ",
+      "price": 15.21
+    },
+    {
+      "ticker": "KN",
+      "price": 17.35
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SAMG",
+      "price": 17.35
+    },
+    {
+      "ticker": "FXN",
+      "price": 16.8772
+    }
+  ],
+  "351": [
+    {
+      "ticker": "AIQ",
+      "price": 15.0298
+    },
+    {
+      "ticker": "PRMW",
+      "price": 17.505
+    }
+  ],
+  "381": [
+    {
+      "ticker": "AIQ",
+      "price": 15.0298
+    },
+    {
+      "ticker": "PAR",
+      "price": 19.09
+    }
+  ]
+}

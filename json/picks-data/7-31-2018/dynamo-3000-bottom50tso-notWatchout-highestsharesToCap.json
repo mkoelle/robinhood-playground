@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QTRH",
+      "price": 1.11
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.06
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BXE",
+      "price": 0.9097
+    },
+    {
+      "ticker": "ALIM",
+      "price": 1.0707
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BXE",
+      "price": 0.9052
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.0173
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AST",
+      "price": 1.7
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.0999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IDXG",
+      "price": 1.0385
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.163
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WYY",
+      "price": 0.5127
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WYY",
+      "price": 0.5226
+    },
+    {
+      "ticker": "CBLI",
+      "price": 2.341
+    }
+  ]
+}

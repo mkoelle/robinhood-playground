@@ -5,7 +5,7 @@ const getMultipleHistoricals = require('../app-actions/get-multiple-historicals'
 const executeStrategy = require('../app-actions/execute-strategy');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 const getTrend = require('../utils/get-trend');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 
 const mapLimit = require('promise-map-limit');
 

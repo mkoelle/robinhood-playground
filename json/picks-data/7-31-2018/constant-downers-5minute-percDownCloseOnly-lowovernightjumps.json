@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "PES",
+      "price": 3.8
+    },
+    {
+      "ticker": "AWX",
+      "price": 3.9081
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.705
+    }
+  ],
+  "242": [
+    {
+      "ticker": "PES",
+      "price": 3.725
+    },
+    {
+      "ticker": "AKS",
+      "price": 4.655
+    },
+    {
+      "ticker": "CSLT",
+      "price": 3.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "AKS",
+      "price": 4.645
+    },
+    {
+      "ticker": "PES",
+      "price": 3.5
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.5663
+    }
+  ]
+}

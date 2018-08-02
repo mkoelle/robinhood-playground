@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESTE",
+      "price": 9.65
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.35
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TAX",
+      "price": 9.125
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.8801
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TAX",
+      "price": 9.105
+    },
+    {
+      "ticker": "DERM",
+      "price": 9.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TAX",
+      "price": 9.2
+    },
+    {
+      "ticker": "AUDC",
+      "price": 9.945
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TAX",
+      "price": 9.15
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.99
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TAX",
+      "price": 9.125
+    },
+    {
+      "ticker": "ACIU",
+      "price": 9.93
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TAX",
+      "price": 9.175
+    },
+    {
+      "ticker": "LFVN",
+      "price": 9.92
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HEB",
+      "price": 0.3068
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.2921
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.2922
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.296
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    }
+  ]
+}

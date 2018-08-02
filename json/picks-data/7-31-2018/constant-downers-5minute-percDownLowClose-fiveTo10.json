@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "HX",
+      "price": 9.62
+    },
+    {
+      "ticker": "OVID",
+      "price": 9.985
+    },
+    {
+      "ticker": "LPTX",
+      "price": 7.65
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CART",
+      "price": 8.44
+    },
+    {
+      "ticker": "CADC",
+      "price": 6.3
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.0411
+    }
+  ],
+  "309": [
+    {
+      "ticker": "DL",
+      "price": 7.35
+    },
+    {
+      "ticker": "ASPN",
+      "price": 5.03
+    },
+    {
+      "ticker": "CRD.A",
+      "price": 8.38
+    }
+  ]
+}

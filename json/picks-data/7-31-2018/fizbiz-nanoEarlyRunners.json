@@ -1,0 +1,88 @@
+{
+  "2": [
+    {
+      "ticker": "TNXP",
+      "price": 1.18
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.814
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.08
+    }
+  ],
+  "12": [
+    {
+      "ticker": "TNXP",
+      "price": 1.2
+    },
+    {
+      "ticker": "LIFE",
+      "price": 0.8001
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.07
+    }
+  ],
+  "75": [
+    {
+      "ticker": "EGLT",
+      "price": 0.2833
+    },
+    {
+      "ticker": "CAPR",
+      "price": 1.17
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.6031
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.16
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.05
+    }
+  ],
+  "120": [
+    {
+      "ticker": "EGLT",
+      "price": 0.278
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.6024
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.16
+    },
+    {
+      "ticker": "TNXP",
+      "price": 1.08
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.324
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NAVB",
+      "price": 0.159
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.5889
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.336
+    }
+  ]
+}

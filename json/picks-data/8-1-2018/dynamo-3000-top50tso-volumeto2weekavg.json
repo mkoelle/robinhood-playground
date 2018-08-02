@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTR",
+      "price": 4.67
+    },
+    {
+      "ticker": "RENN",
+      "price": 2.03
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASM",
+      "price": 1.13
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3411
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LPCN",
+      "price": 1.4
+    },
+    {
+      "ticker": "GROW",
+      "price": 1.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PRAN",
+      "price": 2.12
+    },
+    {
+      "ticker": "SES",
+      "price": 2.65
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMV",
+      "price": 4.9
+    },
+    {
+      "ticker": "SNGX",
+      "price": 1.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CLWT",
+      "price": 4.0234
+    },
+    {
+      "ticker": "DPW",
+      "price": 0.4498
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PESI",
+      "price": 4.65
+    },
+    {
+      "ticker": "DMPI",
+      "price": 0.5426
+    }
+  ]
+}

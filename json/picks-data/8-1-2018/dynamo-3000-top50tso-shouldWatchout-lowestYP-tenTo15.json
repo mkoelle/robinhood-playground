@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CIFS",
+      "price": 14.258
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.7
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.74
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CIFS",
+      "price": 14.37
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.74
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UCTT",
+      "price": 13.86
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DERM",
+      "price": 10.03
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UCTT",
+      "price": 14.035
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.66
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DERM",
+      "price": 10.16
+    },
+    {
+      "ticker": "UCTT",
+      "price": 14.11
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "AAC",
+      "price": 10.14
+    },
+    {
+      "ticker": "LTM",
+      "price": 11.2
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CSTE",
+      "price": 14.45
+    },
+    {
+      "ticker": "TWI",
+      "price": 10.015
+    },
+    {
+      "ticker": "SPRO",
+      "price": 11.09
+    }
+  ],
+  "309": [
+    {
+      "ticker": "CSTE",
+      "price": 14.4
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.14
+    },
+    {
+      "ticker": "QUOT",
+      "price": 12.6
+    }
+  ]
+}

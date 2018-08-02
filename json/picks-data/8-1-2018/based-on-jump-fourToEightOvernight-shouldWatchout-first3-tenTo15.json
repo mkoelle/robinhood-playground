@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "TBIO",
+      "price": 11.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UIS",
+      "price": 13.95
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UIS",
+      "price": 14.55
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.0001
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UIS",
+      "price": 14.8499
+    },
+    {
+      "ticker": "TBIO",
+      "price": 10.9205
+    }
+  ]
+}

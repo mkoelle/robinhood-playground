@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.609
+    },
+    {
+      "ticker": "TST",
+      "price": 2.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.58
+    },
+    {
+      "ticker": "TST",
+      "price": 2.3399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICL",
+      "price": 4.98
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.5863
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.58
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.5
+    }
+  ]
+}

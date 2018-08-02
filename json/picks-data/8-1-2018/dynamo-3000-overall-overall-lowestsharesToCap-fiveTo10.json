@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DBD",
+      "price": 8
+    },
+    {
+      "ticker": "TAX",
+      "price": 8.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DBD",
+      "price": 7.475
+    },
+    {
+      "ticker": "BAS",
+      "price": 8.91
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DBD",
+      "price": 7.55
+    },
+    {
+      "ticker": "BAS",
+      "price": 9.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPY",
+      "price": 6.75
+    },
+    {
+      "ticker": "DBD",
+      "price": 7.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPY",
+      "price": 6.75
+    },
+    {
+      "ticker": "DBD",
+      "price": 7.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPY",
+      "price": 6.75
+    },
+    {
+      "ticker": "DBD",
+      "price": 7.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPY",
+      "price": 6.75
+    },
+    {
+      "ticker": "DBD",
+      "price": 7.0001
+    }
+  ]
+}

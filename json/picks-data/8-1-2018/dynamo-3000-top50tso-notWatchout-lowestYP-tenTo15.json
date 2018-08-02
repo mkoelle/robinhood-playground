@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SOXS",
+      "price": 10.0199
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CYOU",
+      "price": 13.86
+    },
+    {
+      "ticker": "VNTR",
+      "price": 13.665
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CYOU",
+      "price": 14.28
+    },
+    {
+      "ticker": "VNTR",
+      "price": 13.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CYOU",
+      "price": 13.86
+    },
+    {
+      "ticker": "VNTR",
+      "price": 13.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VNTR",
+      "price": 13.8
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VNTR",
+      "price": 13.873
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.5275
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VNTR",
+      "price": 13.5
+    },
+    {
+      "ticker": "AKBA",
+      "price": 10.48
+    }
+  ]
+}

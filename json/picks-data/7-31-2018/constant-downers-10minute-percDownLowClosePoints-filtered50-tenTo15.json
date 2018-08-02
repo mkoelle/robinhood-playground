@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 10.41
+    },
+    {
+      "ticker": "MPO",
+      "price": 12.84
+    },
+    {
+      "ticker": "PAK",
+      "price": 11.405
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TBIO",
+      "price": 11.25
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.525
+    },
+    {
+      "ticker": "RYI",
+      "price": 11.625
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TBIO",
+      "price": 11.5
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.5
+    },
+    {
+      "ticker": "BEDU",
+      "price": 14.84
+    }
+  ]
+}

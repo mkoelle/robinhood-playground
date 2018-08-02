@@ -1,5 +1,5 @@
 const jsonMgr = require('../utils/json-mgr');
-// const avgArray = require('../utils/avg-array');
+// const { avgArray } = require('../utils/array-math');
 
 // const scrapeYahooPrice = require('../app-actions/scrape-yahoo-price');
 const lookup = require('../utils/lookup');

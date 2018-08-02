@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ATHX",
+      "price": 1.95
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3068
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ATHX",
+      "price": 1.95
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.2921
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ATHX",
+      "price": 1.94
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.2922
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ATHX",
+      "price": 1.93
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.296
+    }
+  ]
+}

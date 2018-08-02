@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "TORC",
+      "price": 13.6899
+    },
+    {
+      "ticker": "AFTY",
+      "price": 14.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TORC",
+      "price": 13.53
+    },
+    {
+      "ticker": "NES",
+      "price": 10.6501
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.021
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TORC",
+      "price": 13.65
+    },
+    {
+      "ticker": "NES",
+      "price": 10.6501
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.0325
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TORC",
+      "price": 13.67
+    },
+    {
+      "ticker": "NES",
+      "price": 11.0601
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.07
+    }
+  ]
+}

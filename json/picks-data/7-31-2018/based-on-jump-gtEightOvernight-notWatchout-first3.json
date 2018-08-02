@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "HYRE",
+      "price": 3.72
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HYRE",
+      "price": 3.8219
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7438
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6169
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HYRE",
+      "price": 3.8826
+    },
+    {
+      "ticker": "AST",
+      "price": 1.7
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.61
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HYRE",
+      "price": 3.8999
+    },
+    {
+      "ticker": "AST",
+      "price": 1.65
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.62
+    }
+  ]
+}

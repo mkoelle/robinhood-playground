@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WTTR",
+      "price": 14.62
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.79
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTTR",
+      "price": 14.58
+    },
+    {
+      "ticker": "XOG",
+      "price": 14.89
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WTTR",
+      "price": 14.86
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TORC",
+      "price": 13.0376
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.93
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TORC",
+      "price": 13.03
+    },
+    {
+      "ticker": "SOI",
+      "price": 14.94
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TLYS",
+      "price": 14.94
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.005
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TLYS",
+      "price": 14.88
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.42
+    }
+  ]
+}

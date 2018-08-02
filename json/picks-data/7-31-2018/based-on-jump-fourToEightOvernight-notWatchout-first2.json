@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HL",
+      "price": 3.3
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.585
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HL",
+      "price": 3.2373
+    },
+    {
+      "ticker": "SB",
+      "price": 3.41
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HL",
+      "price": 3.19
+    },
+    {
+      "ticker": "SB",
+      "price": 3.3824
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HL",
+      "price": 3.17
+    },
+    {
+      "ticker": "SB",
+      "price": 3.35
+    }
+  ]
+}

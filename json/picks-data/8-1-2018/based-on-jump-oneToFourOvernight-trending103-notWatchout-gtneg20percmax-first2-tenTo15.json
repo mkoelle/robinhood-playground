@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PNI",
+      "price": 10.9783
+    },
+    {
+      "ticker": "FF",
+      "price": 13.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PNI",
+      "price": 10.9783
+    },
+    {
+      "ticker": "FF",
+      "price": 13.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IOR",
+      "price": 13.2499
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.99
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.2499
+    }
+  ]
+}

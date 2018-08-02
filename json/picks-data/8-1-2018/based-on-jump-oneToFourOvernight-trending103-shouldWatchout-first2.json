@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CORV",
+      "price": 4.89
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARCI",
+      "price": 0.69
+    },
+    {
+      "ticker": "ACST",
+      "price": 0.5962
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CORV",
+      "price": 4.83
+    },
+    {
+      "ticker": "ARCI",
+      "price": 0.68
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSS",
+      "price": 1.525
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.86
+    }
+  ]
+}

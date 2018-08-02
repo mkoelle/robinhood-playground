@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AST",
+      "price": 1.7438
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6169
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AST",
+      "price": 1.7
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.61
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.7599
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AST",
+      "price": 1.65
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.62
+    },
+    {
+      "ticker": "NVLN",
+      "price": 3.7599
+    }
+  ]
+}

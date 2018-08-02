@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TTM",
+      "price": 19.27
+    },
+    {
+      "ticker": "GPRE",
+      "price": 17.65
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TTM",
+      "price": 19.295
+    },
+    {
+      "ticker": "GPRE",
+      "price": 17.675
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TTM",
+      "price": 19.27
+    },
+    {
+      "ticker": "GPRE",
+      "price": 17.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TTM",
+      "price": 19.15
+    },
+    {
+      "ticker": "GPRE",
+      "price": 17.4
+    }
+  ]
+}

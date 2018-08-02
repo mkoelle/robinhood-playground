@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSSE",
+      "price": 11
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TBIO",
+      "price": 11.2003
+    },
+    {
+      "ticker": "PLSE",
+      "price": 12.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CSSE",
+      "price": 10.41
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.205
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TBIO",
+      "price": 11
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TBIO",
+      "price": 11.389
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.51
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TBIO",
+      "price": 11.17
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.5147
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TBIO",
+      "price": 11.14
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.5
+    }
+  ]
+}

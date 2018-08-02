@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "EXPI",
+      "price": 14.03
+    },
+    {
+      "ticker": "ONE",
+      "price": 10.06
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.41
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ONE",
+      "price": 10.03
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.2
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.7
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ONE",
+      "price": 10.16
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.18
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.6468
+    }
+  ]
+}

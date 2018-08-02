@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SVXY",
+      "price": 13.84
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.39
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVE",
+      "price": 12.39
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOMA",
+      "price": 11.2124
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.39
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RES",
+      "price": 14.6
+    },
+    {
+      "ticker": "VIV",
+      "price": 11.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPRX",
+      "price": 14.9
+    },
+    {
+      "ticker": "CORT",
+      "price": 13.015
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SQQQ",
+      "price": 13.01
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPRX",
+      "price": 14.91
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.5001
+    }
+  ]
+}

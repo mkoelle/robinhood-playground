@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 10.375
+    },
+    {
+      "ticker": "AES",
+      "price": 13.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MDRX",
+      "price": 12.44
+    },
+    {
+      "ticker": "GLRE",
+      "price": 14.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECA",
+      "price": 13.9
+    },
+    {
+      "ticker": "MDRX",
+      "price": 12.48
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AES",
+      "price": 13.525
+    },
+    {
+      "ticker": "AFIN",
+      "price": 14.772
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEPU",
+      "price": 11.6558
+    },
+    {
+      "ticker": "AES",
+      "price": 13.525
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ECA",
+      "price": 13.97
+    },
+    {
+      "ticker": "FRAC",
+      "price": 13.94
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECA",
+      "price": 14.055
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.99
+    }
+  ]
+}

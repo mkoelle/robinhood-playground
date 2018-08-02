@@ -6,7 +6,7 @@ const cTable = require('console.table');
 const fs = require('mz/fs');
 const { analyzeDay } = require('../app-actions/record-strat-perfs');
 const jsonMgr = require('../utils/json-mgr');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 
 const strategyPerfToday = require('./strategy-perf-today');
 

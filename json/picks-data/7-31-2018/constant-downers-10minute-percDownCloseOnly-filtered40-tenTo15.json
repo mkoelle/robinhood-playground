@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSPI",
+      "price": 11.2447
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.45
+    },
+    {
+      "ticker": "MCBC",
+      "price": 12.18
+    }
+  ],
+  "242": [
+    {
+      "ticker": "WSTG",
+      "price": 13.65
+    },
+    {
+      "ticker": "PGAL",
+      "price": 13
+    },
+    {
+      "ticker": "TRMT",
+      "price": 13
+    }
+  ],
+  "309": [
+    {
+      "ticker": "WSTG",
+      "price": 13.65
+    },
+    {
+      "ticker": "TRMT",
+      "price": 13
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 14.94
+    }
+  ]
+}

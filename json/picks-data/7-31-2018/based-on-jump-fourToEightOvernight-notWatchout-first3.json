@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "HL",
+      "price": 3.3
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.585
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HL",
+      "price": 3.2373
+    },
+    {
+      "ticker": "SB",
+      "price": 3.41
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HL",
+      "price": 3.19
+    },
+    {
+      "ticker": "SB",
+      "price": 3.3824
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.58
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HL",
+      "price": 3.17
+    },
+    {
+      "ticker": "SB",
+      "price": 3.35
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.6099
+    }
+  ]
+}

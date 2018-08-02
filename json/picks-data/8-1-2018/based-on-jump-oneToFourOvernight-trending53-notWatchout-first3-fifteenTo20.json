@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SCO",
+      "price": 16.771
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.84
+    },
+    {
+      "ticker": "NSSC",
+      "price": 15.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCO",
+      "price": 16.74
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.625
+    },
+    {
+      "ticker": "TMHC",
+      "price": 19.304
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCO",
+      "price": 16.78
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.67
+    },
+    {
+      "ticker": "TMHC",
+      "price": 19.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SCO",
+      "price": 16.77
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.9
+    },
+    {
+      "ticker": "TMHC",
+      "price": 19.28
+    }
+  ]
+}

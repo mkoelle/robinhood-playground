@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HPE",
+      "price": 15.52
+    },
+    {
+      "ticker": "EGHT",
+      "price": 20.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACER",
+      "price": 19.45
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.84
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RDN",
+      "price": 19.32
+    },
+    {
+      "ticker": "QTNA",
+      "price": 16.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NVTR",
+      "price": 15.655
+    },
+    {
+      "ticker": "SRRK",
+      "price": 16.02
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALDR",
+      "price": 18.575
+    },
+    {
+      "ticker": "CRCM",
+      "price": 18.02
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LL",
+      "price": 19.255
+    },
+    {
+      "ticker": "CRCM",
+      "price": 17.99
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VYGR",
+      "price": 18.79
+    },
+    {
+      "ticker": "XPER",
+      "price": 16.65
+    }
+  ]
+}

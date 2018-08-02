@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GBR",
+      "price": 2.45
+    },
+    {
+      "ticker": "SALM",
+      "price": 4.9
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.333
+    }
+  ],
+  "242": [
+    {
+      "ticker": "JMU",
+      "price": 1.96
+    },
+    {
+      "ticker": "MYND",
+      "price": 1.47
+    },
+    {
+      "ticker": "SCON",
+      "price": 2.63
+    }
+  ],
+  "309": [
+    {
+      "ticker": "JMU",
+      "price": 1.84
+    },
+    {
+      "ticker": "SXE",
+      "price": 0.5925
+    },
+    {
+      "ticker": "SCON",
+      "price": 2.61
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "VLRX",
+      "price": 1.5
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.2859
+    },
+    {
+      "ticker": "SCON",
+      "price": 2.5
+    }
+  ],
+  "242": [
+    {
+      "ticker": "JMU",
+      "price": 1.45
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.2784
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "JMU",
+      "price": 1.3951
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.403
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.2798
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "UBCP",
+      "price": 13.7
+    },
+    {
+      "ticker": "SE",
+      "price": 13.75
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.48
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.455
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.09
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.865
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.49
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.465
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.16
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.845
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.49
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.445
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.7625
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.62
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.43
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.06
+    }
+  ]
+}

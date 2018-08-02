@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "APRI",
+      "price": 0.333
+    },
+    {
+      "ticker": "BSPM",
+      "price": 1.851
+    },
+    {
+      "ticker": "ISR",
+      "price": 0.622
+    }
+  ],
+  "242": [
+    {
+      "ticker": "JMU",
+      "price": 1.96
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.765
+    },
+    {
+      "ticker": "SRAX",
+      "price": 4.45
+    }
+  ],
+  "309": [
+    {
+      "ticker": "JMU",
+      "price": 1.84
+    },
+    {
+      "ticker": "APRI",
+      "price": 0.3058
+    },
+    {
+      "ticker": "MYSZ",
+      "price": 0.76
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HLIT",
+      "price": 4.3
+    },
+    {
+      "ticker": "PES",
+      "price": 4.3598
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HLIT",
+      "price": 4.3
+    },
+    {
+      "ticker": "PES",
+      "price": 3.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HLIT",
+      "price": 4.325
+    },
+    {
+      "ticker": "PES",
+      "price": 3.775
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HLIT",
+      "price": 4.35
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.0999
+    }
+  ],
+  "260": [
+    {
+      "ticker": "IMI",
+      "price": 1.56
+    },
+    {
+      "ticker": "TRCH",
+      "price": 1.163
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TRCH",
+      "price": 1.1574
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5127
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SALM",
+      "price": 4.95
+    },
+    {
+      "ticker": "WYY",
+      "price": 0.5226
+    }
+  ]
+}

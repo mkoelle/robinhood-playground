@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DB",
+      "price": 13.16
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.455
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.725
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DB",
+      "price": 13.14
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.465
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.77
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 13.11
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.445
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 13.1
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.47
+    },
+    {
+      "ticker": "BCS",
+      "price": 10.43
+    }
+  ]
+}

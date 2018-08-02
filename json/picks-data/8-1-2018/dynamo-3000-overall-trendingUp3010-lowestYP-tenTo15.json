@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 13.45
+    },
+    {
+      "ticker": "BAS",
+      "price": 9.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SUPV",
+      "price": 13.25
+    },
+    {
+      "ticker": "NES",
+      "price": 11.0601
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SUPV",
+      "price": 13.29
+    },
+    {
+      "ticker": "NES",
+      "price": 11.5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 11.4252
+    },
+    {
+      "ticker": "GE",
+      "price": 13.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SUPV",
+      "price": 13.5
+    },
+    {
+      "ticker": "NES",
+      "price": 11.4252
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 13.55
+    },
+    {
+      "ticker": "ACH",
+      "price": 11.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NES",
+      "price": 10.85
+    },
+    {
+      "ticker": "SUPV",
+      "price": 13.595
+    }
+  ]
+}

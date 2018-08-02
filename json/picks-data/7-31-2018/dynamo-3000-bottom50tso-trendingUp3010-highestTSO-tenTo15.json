@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NORW",
+      "price": 14.59
+    },
+    {
+      "ticker": "ABR",
+      "price": 11.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PBR",
+      "price": 11.52
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.8
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SRCI",
+      "price": 11.31
+    },
+    {
+      "ticker": "CSPI",
+      "price": 11.2447
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HTGC",
+      "price": 13.4499
+    },
+    {
+      "ticker": "PAH",
+      "price": 12.275
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BFR",
+      "price": 13.745
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.21
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ITUB",
+      "price": 11.97
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RES",
+      "price": 14.81
+    },
+    {
+      "ticker": "TWM",
+      "price": 14.185
+    }
+  ]
+}

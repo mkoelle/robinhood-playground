@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FTSV",
+      "price": 16.86
+    },
+    {
+      "ticker": "IRDM",
+      "price": 18.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ATTU",
+      "price": 16.57
+    },
+    {
+      "ticker": "CHRS",
+      "price": 18.575
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ATTU",
+      "price": 16.97
+    },
+    {
+      "ticker": "FNKO",
+      "price": 17.41
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ATTU",
+      "price": 16.9005
+    },
+    {
+      "ticker": "FNKO",
+      "price": 17.48
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATTU",
+      "price": 16.945
+    },
+    {
+      "ticker": "FNKO",
+      "price": 17.44
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ATTU",
+      "price": 16.85
+    },
+    {
+      "ticker": "FNKO",
+      "price": 17.39
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATTU",
+      "price": 16.88
+    },
+    {
+      "ticker": "FNKO",
+      "price": 17.56
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRNT",
+      "price": 4
+    },
+    {
+      "ticker": "DNR",
+      "price": 4.4025
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PER",
+      "price": 2.8943
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMTX",
+      "price": 2.47
+    },
+    {
+      "ticker": "DSX",
+      "price": 4.42
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNR",
+      "price": 4.385
+    },
+    {
+      "ticker": "PDS",
+      "price": 3.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TMQ",
+      "price": 1.8999
+    },
+    {
+      "ticker": "INSG",
+      "price": 1.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HLIT",
+      "price": 4.6
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TURN",
+      "price": 2.22
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.445
+    }
+  ]
+}

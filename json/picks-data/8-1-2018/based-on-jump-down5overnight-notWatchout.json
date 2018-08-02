@@ -1,0 +1,46 @@
+{
+  "0": [
+    {
+      "ticker": "IMV",
+      "price": 4.71
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.3955
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMV",
+      "price": 4.71
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.44
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMV",
+      "price": 4.71
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.325
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BXE",
+      "price": 0.9
+    },
+    {
+      "ticker": "IMV",
+      "price": 4.71
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.265
+    }
+  ]
+}

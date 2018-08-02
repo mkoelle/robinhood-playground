@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRCM",
+      "price": 17.87
+    },
+    {
+      "ticker": "ATUS",
+      "price": 16.695
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UMRX",
+      "price": 17.14
+    },
+    {
+      "ticker": "LMLP",
+      "price": 17.946
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LMLP",
+      "price": 17.91
+    },
+    {
+      "ticker": "UMRX",
+      "price": 17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMC",
+      "price": 16.65
+    },
+    {
+      "ticker": "UMRX",
+      "price": 17.18
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KZR",
+      "price": 16.655
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.91
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 19.29
+    },
+    {
+      "ticker": "LMLP",
+      "price": 17.9748
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 19
+    },
+    {
+      "ticker": "LMLP",
+      "price": 17.9663
+    }
+  ]
+}

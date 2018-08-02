@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMC",
+      "price": 16.1
+    },
+    {
+      "ticker": "TGH",
+      "price": 16.15
+    },
+    {
+      "ticker": "CY",
+      "price": 17.935
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMC",
+      "price": 15.7
+    },
+    {
+      "ticker": "SRRK",
+      "price": 16.5
+    },
+    {
+      "ticker": "TGH",
+      "price": 16.075
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMC",
+      "price": 15.57
+    },
+    {
+      "ticker": "SRRK",
+      "price": 16.66
+    },
+    {
+      "ticker": "TGH",
+      "price": 16.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMC",
+      "price": 15.8
+    },
+    {
+      "ticker": "SRRK",
+      "price": 16.66
+    },
+    {
+      "ticker": "TGH",
+      "price": 16.2
+    }
+  ]
+}

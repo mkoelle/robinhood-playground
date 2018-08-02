@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "QTRH",
+      "price": 1.14
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.07
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QTRH",
+      "price": 1.12
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.07
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.96
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QTRH",
+      "price": 1.11
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.058
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.88
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QTRH",
+      "price": 1.1035
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.0602
+    },
+    {
+      "ticker": "UUUU",
+      "price": 2.91
+    }
+  ]
+}

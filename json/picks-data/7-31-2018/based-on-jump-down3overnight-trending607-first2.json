@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NEON",
+      "price": 0.34
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.6629
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKS",
+      "price": 4.84
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.34
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKS",
+      "price": 4.84
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.3571
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKS",
+      "price": 4.695
+    },
+    {
+      "ticker": "NEON",
+      "price": 0.36
+    }
+  ]
+}

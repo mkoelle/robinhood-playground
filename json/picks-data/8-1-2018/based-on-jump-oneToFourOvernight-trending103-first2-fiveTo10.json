@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TKC",
+      "price": 6.7
+    },
+    {
+      "ticker": "PBI",
+      "price": 8.93
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TKC",
+      "price": 6.67
+    },
+    {
+      "ticker": "PBI",
+      "price": 8.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TKC",
+      "price": 6.66
+    },
+    {
+      "ticker": "PBI",
+      "price": 8.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TKC",
+      "price": 6.64
+    },
+    {
+      "ticker": "PBI",
+      "price": 8.28
+    }
+  ]
+}

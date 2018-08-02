@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SGRY",
+      "price": 15
+    },
+    {
+      "ticker": "HPE",
+      "price": 15.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LKSD",
+      "price": 15.79
+    },
+    {
+      "ticker": "FTNW",
+      "price": 17.0101
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LKSD",
+      "price": 15.6
+    },
+    {
+      "ticker": "QTNA",
+      "price": 16.22
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTNW",
+      "price": 17.35
+    },
+    {
+      "ticker": "CNCE",
+      "price": 16.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CNCE",
+      "price": 16.27
+    },
+    {
+      "ticker": "SRRK",
+      "price": 16.465
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACAD",
+      "price": 15.37
+    },
+    {
+      "ticker": "CNCE",
+      "price": 16.2695
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 15.15
+    },
+    {
+      "ticker": "ACAD",
+      "price": 15.36
+    }
+  ]
+}

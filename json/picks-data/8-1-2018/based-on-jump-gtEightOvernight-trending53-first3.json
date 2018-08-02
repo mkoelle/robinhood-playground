@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "RXII",
+      "price": 2.22
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6729
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1832
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RXII",
+      "price": 2.02
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6625
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1779
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RXII",
+      "price": 2.13
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.6286
+    },
+    {
+      "ticker": "GST",
+      "price": 0.1832
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RXII",
+      "price": 2.1485
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.611
+    },
+    {
+      "ticker": "GST",
+      "price": 0.18
+    }
+  ]
+}

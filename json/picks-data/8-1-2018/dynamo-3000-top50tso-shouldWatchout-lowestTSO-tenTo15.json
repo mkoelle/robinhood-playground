@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 10.375
+    },
+    {
+      "ticker": "ELF",
+      "price": 14.325
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NLS",
+      "price": 13.95
+    },
+    {
+      "ticker": "GLMD",
+      "price": 13.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "XNET",
+      "price": 10.65
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.9
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.72
+    },
+    {
+      "ticker": "NSTG",
+      "price": 11.81
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLYC",
+      "price": 14.93
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.775
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYRS",
+      "price": 10.28
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABCD",
+      "price": 12.12
+    },
+    {
+      "ticker": "SWCH",
+      "price": 13.32
+    }
+  ]
+}

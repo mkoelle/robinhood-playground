@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "BRX",
+      "price": 17.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SOI",
+      "price": 15.47
+    },
+    {
+      "ticker": "BRX",
+      "price": 17.295
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SOI",
+      "price": 15.64
+    },
+    {
+      "ticker": "BRX",
+      "price": 17.2875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SOI",
+      "price": 15.23
+    },
+    {
+      "ticker": "KRYS",
+      "price": 16.46
+    }
+  ]
+}

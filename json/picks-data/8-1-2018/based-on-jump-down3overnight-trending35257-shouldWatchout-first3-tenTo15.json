@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "TORC",
+      "price": 13.6899
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TORC",
+      "price": 13.53
+    },
+    {
+      "ticker": "FET",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TORC",
+      "price": 13.65
+    },
+    {
+      "ticker": "FET",
+      "price": 12.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TORC",
+      "price": 13.67
+    },
+    {
+      "ticker": "FET",
+      "price": 12.625
+    }
+  ]
+}

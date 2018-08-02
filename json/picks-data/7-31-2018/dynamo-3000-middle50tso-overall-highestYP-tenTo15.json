@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RCII",
+      "price": 14.755
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.6605
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RCII",
+      "price": 14.77
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.635
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLF",
+      "price": 10.66
+    },
+    {
+      "ticker": "AFSI",
+      "price": 14.635
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    },
+    {
+      "ticker": "FRD",
+      "price": 10.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRNA",
+      "price": 12.495
+    },
+    {
+      "ticker": "USAT",
+      "price": 13.455
+    }
+  ],
+  "351": [
+    {
+      "ticker": "EPM",
+      "price": 10.725
+    },
+    {
+      "ticker": "EROS",
+      "price": 13.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ERA",
+      "price": 14.09
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.05
+    }
+  ]
+}

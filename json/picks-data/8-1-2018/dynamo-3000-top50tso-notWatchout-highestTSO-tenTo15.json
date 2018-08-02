@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QUOT",
+      "price": 13.05
+    },
+    {
+      "ticker": "BCRH",
+      "price": 10.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TPRE",
+      "price": 14.05
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TPRE",
+      "price": 13.85
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RPAI",
+      "price": 12.38
+    },
+    {
+      "ticker": "SE",
+      "price": 14.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RPAI",
+      "price": 12.415
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RPAI",
+      "price": 12.49
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.787
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RPAI",
+      "price": 12.59
+    },
+    {
+      "ticker": "ABUS",
+      "price": 11.825
+    }
+  ]
+}

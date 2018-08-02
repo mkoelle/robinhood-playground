@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 14.7501
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 14.45
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.5899
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 12.9105
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.17
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.64
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "XRM",
+      "price": 13.3659
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 13.3
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.545
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 13.41
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.55
+    }
+  ]
+}

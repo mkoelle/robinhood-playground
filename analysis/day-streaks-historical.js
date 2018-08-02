@@ -6,7 +6,7 @@ const mapLimit = require('promise-map-limit');
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 const getUpStreak = require('../app-actions/get-up-streak');
 const getTrendAndSave = require('../app-actions/get-trend-and-save');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const getTrend = require('../utils/get-trend');
 
 

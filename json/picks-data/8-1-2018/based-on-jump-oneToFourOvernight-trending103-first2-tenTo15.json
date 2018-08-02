@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CNHI",
+      "price": 11.895
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KALV",
+      "price": 9.95
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.87
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LBY",
+      "price": 9.95
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.8
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.81
+    }
+  ]
+}

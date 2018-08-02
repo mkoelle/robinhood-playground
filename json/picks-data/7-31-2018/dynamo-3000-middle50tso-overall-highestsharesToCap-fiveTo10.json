@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASX",
+      "price": 5.045
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.445
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SGBX",
+      "price": 5.101
+    },
+    {
+      "ticker": "EOD",
+      "price": 5.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NRO",
+      "price": 5.1499
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.465
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TRIL",
+      "price": 5.05
+    },
+    {
+      "ticker": "ANH",
+      "price": 5.06
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WSCI",
+      "price": 5.486
+    },
+    {
+      "ticker": "AGI",
+      "price": 5.47
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WSCI",
+      "price": 5.54
+    },
+    {
+      "ticker": "AGC",
+      "price": 5.6
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GGN",
+      "price": 5.08
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.2
+    }
+  ]
+}

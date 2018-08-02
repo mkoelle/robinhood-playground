@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZIXI",
+      "price": 4.99
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.0725
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BAS",
+      "price": 8.91
+    },
+    {
+      "ticker": "GORO",
+      "price": 5.7
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GORO",
+      "price": 5.6
+    },
+    {
+      "ticker": "BAS",
+      "price": 9.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CZR",
+      "price": 9.65
+    },
+    {
+      "ticker": "BAS",
+      "price": 8.68
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BAS",
+      "price": 8.44
+    },
+    {
+      "ticker": "GORO",
+      "price": 5.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BAS",
+      "price": 8.26
+    },
+    {
+      "ticker": "GORO",
+      "price": 5.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BAS",
+      "price": 8.28
+    },
+    {
+      "ticker": "GORO",
+      "price": 5.32
+    }
+  ]
+}

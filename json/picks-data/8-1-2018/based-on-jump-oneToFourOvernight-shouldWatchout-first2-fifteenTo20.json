@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVTR",
+      "price": 15.99
+    },
+    {
+      "ticker": "ACER",
+      "price": 18.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVTR",
+      "price": 16.32
+    },
+    {
+      "ticker": "ACER",
+      "price": 19.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVTR",
+      "price": 16.45
+    },
+    {
+      "ticker": "ACER",
+      "price": 19.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVTR",
+      "price": 16.33
+    },
+    {
+      "ticker": "ACER",
+      "price": 20
+    }
+  ]
+}

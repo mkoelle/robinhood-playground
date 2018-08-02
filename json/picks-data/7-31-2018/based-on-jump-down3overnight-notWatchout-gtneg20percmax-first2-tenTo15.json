@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DENN",
+      "price": 15.11
+    },
+    {
+      "ticker": "RMBS",
+      "price": 12.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DENN",
+      "price": 14.26
+    },
+    {
+      "ticker": "ACCO",
+      "price": 11.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DENN",
+      "price": 14.14
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.175
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DENN",
+      "price": 14.12
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.375
+    }
+  ]
+}

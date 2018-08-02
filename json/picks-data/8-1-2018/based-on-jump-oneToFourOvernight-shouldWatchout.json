@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "REED",
+      "price": 2.65
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3429
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.283
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.275
+    },
+    {
+      "ticker": "SHIP",
+      "price": 0.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "REED",
+      "price": 2.65
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3429
+    },
+    {
+      "ticker": "ANFI",
+      "price": 1.87
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.54
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.2848
+    }
+  ],
+  "16": [
+    {
+      "ticker": "REED",
+      "price": 2.6
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.34
+    },
+    {
+      "ticker": "ANFI",
+      "price": 1.85
+    },
+    {
+      "ticker": "OCX",
+      "price": 2.54
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.285
+    }
+  ],
+  "30": [
+    {
+      "ticker": "REED",
+      "price": 2.6
+    },
+    {
+      "ticker": "ANY",
+      "price": 0.3489
+    },
+    {
+      "ticker": "ANFI",
+      "price": 1.86
+    },
+    {
+      "ticker": "DSS",
+      "price": 1.525
+    },
+    {
+      "ticker": "MTNB",
+      "price": 0.3669
+    }
+  ]
+}

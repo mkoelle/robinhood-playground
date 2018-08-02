@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "HEB",
+      "price": 0.3068
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.2921
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.2922
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.92
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.296
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.2737
+    }
+  ]
+}

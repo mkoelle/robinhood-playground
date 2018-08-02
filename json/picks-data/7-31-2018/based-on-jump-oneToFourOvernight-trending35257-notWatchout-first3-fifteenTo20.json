@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CS",
+      "price": 16.26
+    },
+    {
+      "ticker": "NNBR",
+      "price": 19.975
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.52
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CS",
+      "price": 16.26
+    },
+    {
+      "ticker": "NNBR",
+      "price": 20.15
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.52
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CS",
+      "price": 16.2685
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.515
+    },
+    {
+      "ticker": "QAT",
+      "price": 17.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CS",
+      "price": 16.21
+    },
+    {
+      "ticker": "UBS",
+      "price": 16.4742
+    },
+    {
+      "ticker": "QAT",
+      "price": 17.83
+    }
+  ]
+}

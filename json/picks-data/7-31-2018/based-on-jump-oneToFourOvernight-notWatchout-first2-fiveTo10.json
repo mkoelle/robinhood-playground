@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RBBN",
+      "price": 7.39
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.29
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RBBN",
+      "price": 7.35
+    },
+    {
+      "ticker": "AGLE",
+      "price": 8.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RBBN",
+      "price": 7.33
+    },
+    {
+      "ticker": "CHRA",
+      "price": 7.7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RBBN",
+      "price": 7.05
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.75
+    }
+  ]
+}

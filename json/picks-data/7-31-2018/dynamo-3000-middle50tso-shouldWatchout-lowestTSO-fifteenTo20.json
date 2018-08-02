@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TWO",
+      "price": 15.5399
+    },
+    {
+      "ticker": "LL",
+      "price": 19.21
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MXL",
+      "price": 17.12
+    },
+    {
+      "ticker": "NYRT",
+      "price": 18.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HPE",
+      "price": 15.48
+    },
+    {
+      "ticker": "TWO",
+      "price": 15.6446
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFBI",
+      "price": 18.69
+    },
+    {
+      "ticker": "TWO",
+      "price": 15.67
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYRT",
+      "price": 18.37
+    },
+    {
+      "ticker": "VSTO",
+      "price": 16.065
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYRT",
+      "price": 18.4
+    },
+    {
+      "ticker": "TTMI",
+      "price": 17.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NCSM",
+      "price": 15.86
+    },
+    {
+      "ticker": "TTMI",
+      "price": 17.37
+    }
+  ]
+}

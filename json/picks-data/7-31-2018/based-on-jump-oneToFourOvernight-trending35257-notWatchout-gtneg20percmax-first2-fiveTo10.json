@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "WEAT",
+      "price": 7.01
+    },
+    {
+      "ticker": "FEIM",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "WEAT",
+      "price": 7.028
+    },
+    {
+      "ticker": "FEIM",
+      "price": 8.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "WEAT",
+      "price": 6.98
+    },
+    {
+      "ticker": "FEIM",
+      "price": 8.2
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WEAT",
+      "price": 6.975
+    },
+    {
+      "ticker": "FEIM",
+      "price": 8.13
+    }
+  ]
+}

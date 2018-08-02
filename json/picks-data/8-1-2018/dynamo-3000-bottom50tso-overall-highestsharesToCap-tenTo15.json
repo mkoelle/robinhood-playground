@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BTAI",
+      "price": 10.14
+    },
+    {
+      "ticker": "TERP",
+      "price": 10.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTAI",
+      "price": 10.1395
+    },
+    {
+      "ticker": "TERP",
+      "price": 10.09
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BTAI",
+      "price": 10.1101
+    },
+    {
+      "ticker": "TERP",
+      "price": 10.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VCEL",
+      "price": 10.2
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.36
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VCEL",
+      "price": 10.25
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.335
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTAI",
+      "price": 10.15
+    },
+    {
+      "ticker": "VCEL",
+      "price": 10.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.19
+    },
+    {
+      "ticker": "GCI",
+      "price": 10.31
+    }
+  ]
+}

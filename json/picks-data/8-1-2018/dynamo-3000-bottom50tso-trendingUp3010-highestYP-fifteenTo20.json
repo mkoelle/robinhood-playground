@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CHRS",
+      "price": 19
+    },
+    {
+      "ticker": "OFG",
+      "price": 16.775
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SDRL",
+      "price": 19.87
+    },
+    {
+      "ticker": "CHRS",
+      "price": 18.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHRS",
+      "price": 18.75
+    },
+    {
+      "ticker": "CROX",
+      "price": 17.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CHRS",
+      "price": 18.475
+    },
+    {
+      "ticker": "CROX",
+      "price": 17.58
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ATTU",
+      "price": 16.36
+    },
+    {
+      "ticker": "CHRS",
+      "price": 18.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CHRS",
+      "price": 18.625
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.18
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CHRS",
+      "price": 18.65
+    },
+    {
+      "ticker": "KEG",
+      "price": 15.871
+    }
+  ]
+}

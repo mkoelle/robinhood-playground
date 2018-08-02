@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "HEB",
+      "price": 0.3068
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.6
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8771
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HEB",
+      "price": 0.2921
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.56
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.6
+    },
+    {
+      "ticker": "LAC",
+      "price": 3.7008
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.8771
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HEB",
+      "price": 0.2922
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.92
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.5572
+    },
+    {
+      "ticker": "OXBR",
+      "price": 1.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HEB",
+      "price": 0.296
+    },
+    {
+      "ticker": "CHMA",
+      "price": 1.5
+    },
+    {
+      "ticker": "TYHT",
+      "price": 1.2737
+    },
+    {
+      "ticker": "TGB",
+      "price": 0.9152
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.5572
+    }
+  ]
+}

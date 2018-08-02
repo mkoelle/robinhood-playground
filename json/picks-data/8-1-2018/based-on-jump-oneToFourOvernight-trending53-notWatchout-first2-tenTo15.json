@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPRE",
+      "price": 13.1
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.895
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPRE",
+      "price": 13.65
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPRE",
+      "price": 13.6
+    },
+    {
+      "ticker": "ZEAL",
+      "price": 14.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPRE",
+      "price": 13.7
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    }
+  ]
+}

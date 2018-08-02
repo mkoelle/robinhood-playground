@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AKRX",
+      "price": 18.84
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AKRX",
+      "price": 18.46
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.275
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AKRX",
+      "price": 18.31
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.125
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AKRX",
+      "price": 18.555
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.05
+    }
+  ]
+}

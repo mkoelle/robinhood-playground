@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "BTAI",
+      "price": 10.14
+    },
+    {
+      "ticker": "SGMO",
+      "price": 13.8
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.54
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BTAI",
+      "price": 10.084
+    },
+    {
+      "ticker": "SGMO",
+      "price": 13.83
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.63
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SGMO",
+      "price": 13.85
+    },
+    {
+      "ticker": "LBY",
+      "price": 9.95
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.63
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SGMO",
+      "price": 13.75
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.7
+    }
+  ]
+}

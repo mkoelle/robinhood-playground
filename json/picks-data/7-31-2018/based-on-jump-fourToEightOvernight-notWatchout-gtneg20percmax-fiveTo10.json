@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CART",
+      "price": 8.95
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CART",
+      "price": 8.44
+    },
+    {
+      "ticker": "CCNI",
+      "price": 6.0342
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CART",
+      "price": 8.44
+    },
+    {
+      "ticker": "CCNI",
+      "price": 6.0342
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CART",
+      "price": 8.44
+    },
+    {
+      "ticker": "CCNI",
+      "price": 6.031
+    }
+  ]
+}

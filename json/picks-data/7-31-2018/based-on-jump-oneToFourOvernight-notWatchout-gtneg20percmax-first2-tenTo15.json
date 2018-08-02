@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UBCP",
+      "price": 13.7
+    },
+    {
+      "ticker": "SE",
+      "price": 13.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.865
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.845
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.7625
+    }
+  ]
+}

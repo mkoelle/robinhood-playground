@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TPRE",
+      "price": 13.1
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.44
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPRE",
+      "price": 13.65
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.48
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPRE",
+      "price": 13.6
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.269
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPRE",
+      "price": 13.7
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.25
+    }
+  ]
+}

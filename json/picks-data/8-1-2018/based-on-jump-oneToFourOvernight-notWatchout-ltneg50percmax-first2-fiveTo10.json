@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DRIP",
+      "price": 6.1231
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DRIP",
+      "price": 6.22
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.4
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DRIP",
+      "price": 6.255
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.4
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DRIP",
+      "price": 6.28
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.41
+    }
+  ]
+}

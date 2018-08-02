@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 10.41
+    },
+    {
+      "ticker": "LX",
+      "price": 12.33
+    },
+    {
+      "ticker": "ALNA",
+      "price": 10.62
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ACCO",
+      "price": 12.525
+    },
+    {
+      "ticker": "NYNY",
+      "price": 14.1752
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.25
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ACCO",
+      "price": 12.5
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.5
+    },
+    {
+      "ticker": "GAIN",
+      "price": 11.37
+    }
+  ]
+}

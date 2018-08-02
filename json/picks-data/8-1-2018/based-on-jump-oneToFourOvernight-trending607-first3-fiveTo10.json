@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "TKC",
+      "price": 6.7
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "LBY",
+      "price": 9.6681
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TKC",
+      "price": 6.67
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "LBY",
+      "price": 9.85
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TKC",
+      "price": 6.66
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TKC",
+      "price": 6.64
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "LBY",
+      "price": 9.95
+    }
+  ]
+}

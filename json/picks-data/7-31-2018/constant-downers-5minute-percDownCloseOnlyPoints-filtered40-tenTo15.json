@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LX",
+      "price": 12.33
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.41
+    },
+    {
+      "ticker": "ELOX",
+      "price": 14.86
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EXPI",
+      "price": 14.2
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.525
+    },
+    {
+      "ticker": "NLS",
+      "price": 14.025
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EXPI",
+      "price": 14.18
+    },
+    {
+      "ticker": "ACCO",
+      "price": 12.5
+    },
+    {
+      "ticker": "NLS",
+      "price": 14.175
+    }
+  ]
+}

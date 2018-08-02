@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DBD",
+      "price": 11
+    },
+    {
+      "ticker": "CENX",
+      "price": 12.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FPRX",
+      "price": 14.74
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.2553
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IMTE",
+      "price": 10.2294
+    },
+    {
+      "ticker": "PLSE",
+      "price": 12.9435
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FPRX",
+      "price": 14.95
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FPRX",
+      "price": 14.8
+    },
+    {
+      "ticker": "PLSE",
+      "price": 12.84
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FPRX",
+      "price": 14.86
+    },
+    {
+      "ticker": "PLSE",
+      "price": 12.7727
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FPRX",
+      "price": 14.85
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.27
+    }
+  ]
+}

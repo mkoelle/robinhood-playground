@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFIN",
+      "price": 14.95
+    },
+    {
+      "ticker": "ENDP",
+      "price": 12.395
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENDP",
+      "price": 12.39
+    },
+    {
+      "ticker": "NTRP",
+      "price": 10.35
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VRAY",
+      "price": 12.21
+    },
+    {
+      "ticker": "MBI",
+      "price": 10.35
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VRAY",
+      "price": 12.1658
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.3301
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VRAY",
+      "price": 11.955
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "VRAY",
+      "price": 11.945
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.35
+    }
+  ],
+  "381": [
+    {
+      "ticker": "VRAY",
+      "price": 11.895
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.4187
+    }
+  ]
+}

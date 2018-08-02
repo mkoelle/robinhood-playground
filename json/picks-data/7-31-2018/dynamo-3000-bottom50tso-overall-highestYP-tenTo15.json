@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "QNST",
+      "price": 13.72
+    },
+    {
+      "ticker": "ABUS",
+      "price": 10.75
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ECYT",
+      "price": 15.045
+    },
+    {
+      "ticker": "EXPI",
+      "price": 13.9
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ECYT",
+      "price": 14
+    },
+    {
+      "ticker": "LOV",
+      "price": 11.355
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LOV",
+      "price": 11.4426
+    },
+    {
+      "ticker": "QNST",
+      "price": 13.49
+    }
+  ],
+  "260": [
+    {
+      "ticker": "QNST",
+      "price": 13.29
+    },
+    {
+      "ticker": "ZFGN",
+      "price": 10.12
+    }
+  ],
+  "351": [
+    {
+      "ticker": "QNST",
+      "price": 13.275
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "QNST",
+      "price": 13.23
+    },
+    {
+      "ticker": "EXPI",
+      "price": 14.28
+    }
+  ]
+}

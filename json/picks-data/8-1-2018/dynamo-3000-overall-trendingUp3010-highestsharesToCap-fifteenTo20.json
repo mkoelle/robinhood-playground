@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PGP",
+      "price": 15.4159
+    },
+    {
+      "ticker": "HCLP",
+      "price": 15.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "UBX",
+      "price": 15.015
+    },
+    {
+      "ticker": "JCE",
+      "price": 15.4111
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLRE",
+      "price": 15.2
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.06
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLRE",
+      "price": 15.1
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLRE",
+      "price": 15.3
+    },
+    {
+      "ticker": "XOG",
+      "price": 15.27
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLRE",
+      "price": 15.225
+    },
+    {
+      "ticker": "MLPC",
+      "price": 15.1355
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLRE",
+      "price": 15.3
+    },
+    {
+      "ticker": "UBX",
+      "price": 15.31
+    }
+  ]
+}

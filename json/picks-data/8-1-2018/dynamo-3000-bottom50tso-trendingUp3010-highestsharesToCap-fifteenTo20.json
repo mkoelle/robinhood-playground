@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HCLP",
+      "price": 15.15
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HCLP",
+      "price": 15.3
+    },
+    {
+      "ticker": "TLYS",
+      "price": 15.39
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VSTO",
+      "price": 15.85
+    },
+    {
+      "ticker": "BOTJ",
+      "price": 16.501
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TLYS",
+      "price": 15.11
+    },
+    {
+      "ticker": "VSTO",
+      "price": 15.575
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HCLP",
+      "price": 15
+    },
+    {
+      "ticker": "TLYS",
+      "price": 15.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HCLP",
+      "price": 15.18
+    },
+    {
+      "ticker": "VSTO",
+      "price": 15.68
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SOI",
+      "price": 15.155
+    },
+    {
+      "ticker": "VSTO",
+      "price": 15.745
+    }
+  ]
+}

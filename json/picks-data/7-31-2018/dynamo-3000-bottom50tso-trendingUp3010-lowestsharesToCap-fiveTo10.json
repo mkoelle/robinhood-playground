@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CAMT",
+      "price": 8.25
+    },
+    {
+      "ticker": "AVAL",
+      "price": 7.96
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DRV",
+      "price": 9.51
+    },
+    {
+      "ticker": "SPN",
+      "price": 9.53
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRV",
+      "price": 9.4304
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DRV",
+      "price": 9.37
+    },
+    {
+      "ticker": "LPI",
+      "price": 9.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DRV",
+      "price": 9.42
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.56
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DRV",
+      "price": 9.43
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DRV",
+      "price": 9.51
+    },
+    {
+      "ticker": "HMI",
+      "price": 9.3
+    }
+  ]
+}

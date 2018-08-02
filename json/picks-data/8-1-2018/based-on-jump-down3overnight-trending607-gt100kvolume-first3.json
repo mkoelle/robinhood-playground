@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "CEI",
+      "price": 0.339
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7542
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.3955
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CEI",
+      "price": 0.355
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5416
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.745
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CEI",
+      "price": 0.3503
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.56
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.681
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CEI",
+      "price": 0.3385
+    },
+    {
+      "ticker": "CRMD",
+      "price": 0.5598
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.71
+    }
+  ]
+}

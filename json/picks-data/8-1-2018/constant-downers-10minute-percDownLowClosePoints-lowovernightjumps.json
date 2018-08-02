@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "NLNK",
+      "price": 3
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7293
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1269
+    }
+  ],
+  "242": [
+    {
+      "ticker": "NLNK",
+      "price": 3.04
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7187
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.125
+    }
+  ],
+  "309": [
+    {
+      "ticker": "NLNK",
+      "price": 3.105
+    },
+    {
+      "ticker": "NLST",
+      "price": 0.1251
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7197
+    }
+  ]
+}

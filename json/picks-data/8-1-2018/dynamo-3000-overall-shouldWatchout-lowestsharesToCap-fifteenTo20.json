@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "KBR",
+      "price": 19.95
+    },
+    {
+      "ticker": "UAA",
+      "price": 19.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SCOR",
+      "price": 19.98
+    },
+    {
+      "ticker": "KBR",
+      "price": 20
+    }
+  ],
+  "100": [
+    {
+      "ticker": "EVH",
+      "price": 19.705
+    },
+    {
+      "ticker": "TLRD",
+      "price": 19.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MGNX",
+      "price": 19.95
+    },
+    {
+      "ticker": "EVH",
+      "price": 19.725
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MGNX",
+      "price": 19.965
+    },
+    {
+      "ticker": "EVH",
+      "price": 20.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MGNX",
+      "price": 19.87
+    },
+    {
+      "ticker": "TLRD",
+      "price": 19.995
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MGNX",
+      "price": 19.59
+    },
+    {
+      "ticker": "TLRD",
+      "price": 19.8901
+    }
+  ]
+}

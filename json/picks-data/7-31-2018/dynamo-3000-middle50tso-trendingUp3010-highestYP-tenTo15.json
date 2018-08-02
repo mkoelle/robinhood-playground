@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "DBO",
+      "price": 12.27
+    },
+    {
+      "ticker": "AES",
+      "price": 13.29
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PFN",
+      "price": 10.67
+    },
+    {
+      "ticker": "JTA",
+      "price": 13.595
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MSP",
+      "price": 11.89
+    },
+    {
+      "ticker": "AMLP",
+      "price": 10.805
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FRD",
+      "price": 10.14
+    },
+    {
+      "ticker": "MIE",
+      "price": 10.615
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ERF",
+      "price": 13.03
+    },
+    {
+      "ticker": "ERH",
+      "price": 12.4802
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OXLC",
+      "price": 11.14
+    },
+    {
+      "ticker": "SRV",
+      "price": 12.1409
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ERA",
+      "price": 14.09
+    },
+    {
+      "ticker": "ERF",
+      "price": 13.05
+    }
+  ]
+}

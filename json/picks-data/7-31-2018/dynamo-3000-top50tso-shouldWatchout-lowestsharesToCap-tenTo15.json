@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VECO",
+      "price": 14.5
+    },
+    {
+      "ticker": "INVA",
+      "price": 14.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CIFS",
+      "price": 14.64
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.5
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INVA",
+      "price": 14.33
+    },
+    {
+      "ticker": "XON",
+      "price": 14.4835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VECO",
+      "price": 14.75
+    },
+    {
+      "ticker": "XON",
+      "price": 14.57
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 14.92
+    },
+    {
+      "ticker": "VECO",
+      "price": 14.7
+    }
+  ],
+  "351": [
+    {
+      "ticker": "XON",
+      "price": 14.6
+    },
+    {
+      "ticker": "VERI",
+      "price": 14.82
+    }
+  ],
+  "381": [
+    {
+      "ticker": "XON",
+      "price": 14.635
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.55
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "ENPH",
+      "price": 5.91
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DWT",
+      "price": 6.87
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DWT",
+      "price": 6.87
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DWT",
+      "price": 6.905
+    },
+    {
+      "ticker": "ENPH",
+      "price": 5.975
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "75": [
+    {
+      "ticker": "JMU",
+      "price": 1.45
+    },
+    {
+      "ticker": "NLNK",
+      "price": 3
+    },
+    {
+      "ticker": "NAKD",
+      "price": 5.109
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.9601
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.94
+    }
+  ],
+  "120": [
+    {
+      "ticker": "JMU",
+      "price": 1.42
+    },
+    {
+      "ticker": "NLNK",
+      "price": 3.0625
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.9289
+    },
+    {
+      "ticker": "SEII",
+      "price": 2.65
+    },
+    {
+      "ticker": "HJLI",
+      "price": 2.79
+    }
+  ],
+  "180": [
+    {
+      "ticker": "JMU",
+      "price": 1.44
+    },
+    {
+      "ticker": "ATLC",
+      "price": 1.91
+    },
+    {
+      "ticker": "NLNK",
+      "price": 3.05
+    },
+    {
+      "ticker": "FTFT",
+      "price": 1.4015
+    },
+    {
+      "ticker": "SEII",
+      "price": 2.66
+    }
+  ]
+}

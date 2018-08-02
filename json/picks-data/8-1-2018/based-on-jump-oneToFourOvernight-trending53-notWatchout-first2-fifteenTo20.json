@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SCO",
+      "price": 16.771
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SCO",
+      "price": 16.74
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.625
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SCO",
+      "price": 16.78
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.67
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SCO",
+      "price": 16.77
+    },
+    {
+      "ticker": "JCAP",
+      "price": 18.9
+    }
+  ]
+}

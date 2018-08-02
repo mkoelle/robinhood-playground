@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LCI",
+      "price": 12.55
+    },
+    {
+      "ticker": "JNUG",
+      "price": 12.2345
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LCI",
+      "price": 12.55
+    },
+    {
+      "ticker": "NYNY",
+      "price": 13.6
+    }
+  ],
+  "100": [
+    {
+      "ticker": "JNUG",
+      "price": 12.1594
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NYNY",
+      "price": 13.5
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.435
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYNY",
+      "price": 13.45
+    },
+    {
+      "ticker": "BFR",
+      "price": 13.42
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYNY",
+      "price": 13
+    },
+    {
+      "ticker": "DM",
+      "price": 14.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYNY",
+      "price": 13.35
+    },
+    {
+      "ticker": "DM",
+      "price": 14.8
+    }
+  ]
+}

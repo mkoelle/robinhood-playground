@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GALT",
+      "price": 5.075
+    },
+    {
+      "ticker": "SPWH",
+      "price": 4.99
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVX",
+      "price": 5.14
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.06
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.09
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.0317
+    }
+  ],
+  "200": [
+    {
+      "ticker": "BIOC",
+      "price": 5.048
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.01
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 5.055
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.0439
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSYS",
+      "price": 5.3
+    },
+    {
+      "ticker": "FTR",
+      "price": 5.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NSYS",
+      "price": 5.26
+    },
+    {
+      "ticker": "FTR",
+      "price": 5.12
+    }
+  ]
+}

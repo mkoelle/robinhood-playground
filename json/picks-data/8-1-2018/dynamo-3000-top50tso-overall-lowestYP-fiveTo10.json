@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INNT",
+      "price": 5.2985
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LIVX",
+      "price": 5.14
+    },
+    {
+      "ticker": "INNT",
+      "price": 5.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIVX",
+      "price": 5.09
+    },
+    {
+      "ticker": "INNT",
+      "price": 5.31
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INNT",
+      "price": 5.28
+    },
+    {
+      "ticker": "BIOC",
+      "price": 5.048
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BIOC",
+      "price": 5.0439
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RKDA",
+      "price": 6.61
+    },
+    {
+      "ticker": "BIOC",
+      "price": 4.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MNLO",
+      "price": 8.19
+    },
+    {
+      "ticker": "DXR",
+      "price": 5.6
+    }
+  ]
+}

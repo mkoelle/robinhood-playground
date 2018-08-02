@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OMI",
+      "price": 18.59
+    },
+    {
+      "ticker": "SCIN",
+      "price": 18.072
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SRRK",
+      "price": 16.715
+    },
+    {
+      "ticker": "KRG",
+      "price": 16.86
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CAPL",
+      "price": 18
+    },
+    {
+      "ticker": "GLRE",
+      "price": 15.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OMI",
+      "price": 18.85
+    },
+    {
+      "ticker": "GLRE",
+      "price": 15.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SRRK",
+      "price": 16.465
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLRE",
+      "price": 15.225
+    },
+    {
+      "ticker": "GMLP",
+      "price": 16.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CAPL",
+      "price": 18.115
+    },
+    {
+      "ticker": "GLRE",
+      "price": 15.3
+    }
+  ]
+}

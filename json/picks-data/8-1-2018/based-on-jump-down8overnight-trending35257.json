@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CRMD",
+      "price": 0.55
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.7542
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5416
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.745
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRMD",
+      "price": 0.56
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.681
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5598
+    },
+    {
+      "ticker": "ABIO",
+      "price": 0.71
+    }
+  ]
+}

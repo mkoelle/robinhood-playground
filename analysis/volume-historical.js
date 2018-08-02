@@ -7,7 +7,7 @@ let Robinhood;
 
 const addOvernightJump = require('../app-actions/add-overnight-jump');
 const getUpStreak = require('../app-actions/get-up-streak');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const getTrend = require('../utils/get-trend');
 
 const getHistorical = async ticker => {

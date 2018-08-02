@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASX",
+      "price": 5.045
+    },
+    {
+      "ticker": "SAN",
+      "price": 5.66
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BKCC",
+      "price": 6
+    },
+    {
+      "ticker": "GIM",
+      "price": 6.225
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BKCC",
+      "price": 6
+    },
+    {
+      "ticker": "SRT",
+      "price": 7.56
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ANH",
+      "price": 5.06
+    },
+    {
+      "ticker": "S",
+      "price": 5.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRSH",
+      "price": 5.58
+    },
+    {
+      "ticker": "DSE",
+      "price": 5.9633
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DSE",
+      "price": 5.9557
+    },
+    {
+      "ticker": "IRR",
+      "price": 6.6132
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GGN",
+      "price": 5.08
+    },
+    {
+      "ticker": "IRR",
+      "price": 6.63
+    }
+  ]
+}

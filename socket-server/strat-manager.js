@@ -11,7 +11,7 @@ const getMyRecs = require('../pms/my-recs');
 const getTipTop = require('../pms/tip-top');
 
 const getTrend = require('../utils/get-trend');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const sendEmail = require('../utils/send-email');
 
 const formatDate = date => date.toLocaleDateString().split('/').join('-');

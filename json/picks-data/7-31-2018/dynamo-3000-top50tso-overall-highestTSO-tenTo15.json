@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MBI",
+      "price": 10.05
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.13
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WBAI",
+      "price": 14.01
+    },
+    {
+      "ticker": "MGTA",
+      "price": 14.3756
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WBAI",
+      "price": 14.1
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.9105
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MBI",
+      "price": 10.425
+    },
+    {
+      "ticker": "LNTH",
+      "price": 14.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SPNE",
+      "price": 13.45
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 13.3
+    },
+    {
+      "ticker": "SPNE",
+      "price": 13.525
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SPNE",
+      "price": 13.93
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.41
+    }
+  ]
+}

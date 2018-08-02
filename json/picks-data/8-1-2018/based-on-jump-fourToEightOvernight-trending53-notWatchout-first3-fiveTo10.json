@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "GLUU",
+      "price": 6.0025
+    },
+    {
+      "ticker": "FSP",
+      "price": 9.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLUU",
+      "price": 6.23
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.8
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GLUU",
+      "price": 6.1966
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.86
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1399
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GLUU",
+      "price": 6.16
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.85
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1476
+    }
+  ]
+}

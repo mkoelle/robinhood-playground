@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SHIP",
+      "price": 0.96
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.89
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHIP",
+      "price": 0.96
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.01
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SHIP",
+      "price": 0.9003
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SHIP",
+      "price": 0.9321
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.86
+    }
+  ]
+}

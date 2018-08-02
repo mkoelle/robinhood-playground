@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "TORC",
+      "price": 13.6899
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TORC",
+      "price": 13.53
+    },
+    {
+      "ticker": "NES",
+      "price": 10.6501
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.475
+    },
+    {
+      "ticker": "BAS",
+      "price": 9.3587
+    },
+    {
+      "ticker": "FET",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TORC",
+      "price": 13.65
+    },
+    {
+      "ticker": "NES",
+      "price": 10.6501
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 12.85
+    },
+    {
+      "ticker": "FET",
+      "price": 12.5
+    },
+    {
+      "ticker": "NLS",
+      "price": 13.85
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TORC",
+      "price": 13.67
+    },
+    {
+      "ticker": "NES",
+      "price": 11.0601
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 13.4
+    },
+    {
+      "ticker": "FET",
+      "price": 12.625
+    },
+    {
+      "ticker": "NLS",
+      "price": 13.975
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "4": [
+    {
+      "ticker": "SNGX",
+      "price": 1.15
+    },
+    {
+      "ticker": "IDSA",
+      "price": 1.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5923
+    },
+    {
+      "ticker": "TIS",
+      "price": 4.605
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.255
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSAT",
+      "price": 0.603
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.2502
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.3514
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.0855
+    },
+    {
+      "ticker": "EFOI",
+      "price": 2.1636
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5824
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.301
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.42
+    },
+    {
+      "ticker": "CPHI",
+      "price": 0.255
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5414
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.301
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.32
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.0876
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5375
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.2563
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.3299
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSAT",
+      "price": 0.5478
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.26
+    },
+    {
+      "ticker": "XIN",
+      "price": 4.32
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "10": [
+    {
+      "ticker": "SOI",
+      "price": 14.99
+    },
+    {
+      "ticker": "LBRT",
+      "price": 19.115
+    }
+  ],
+  "50": [
+    {
+      "ticker": "UMRX",
+      "price": 16.195
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMRX",
+      "price": 15.46
+    }
+  ],
+  "300": [
+    {
+      "ticker": "UMRX",
+      "price": 15.25
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.145
+    }
+  ],
+  "380": [
+    {
+      "ticker": "UMRX",
+      "price": 15.55
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.14
+    }
+  ],
+  "600": [
+    {
+      "ticker": "UMRX",
+      "price": 15.51
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.16
+    }
+  ]
+}

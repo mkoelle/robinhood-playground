@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "QUOT",
+      "price": 12.45
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 13.45
+    },
+    {
+      "ticker": "TORC",
+      "price": 13.335
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ZAGG",
+      "price": 13.4
+    },
+    {
+      "ticker": "QUOT",
+      "price": 12.575
+    },
+    {
+      "ticker": "TORC",
+      "price": 12.995
+    }
+  ],
+  "309": [
+    {
+      "ticker": "QUOT",
+      "price": 12.6
+    },
+    {
+      "ticker": "TORC",
+      "price": 12.91
+    }
+  ]
+}

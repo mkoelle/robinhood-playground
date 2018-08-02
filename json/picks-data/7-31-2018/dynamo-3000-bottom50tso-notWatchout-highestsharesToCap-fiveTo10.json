@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SALM",
+      "price": 5.295
+    },
+    {
+      "ticker": "MFV",
+      "price": 5.4525
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SALM",
+      "price": 5.1697
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.325
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNE",
+      "price": 5.2001
+    },
+    {
+      "ticker": "JT",
+      "price": 5.13
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GNE",
+      "price": 5.17
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GNE",
+      "price": 5.15
+    },
+    {
+      "ticker": "SALM",
+      "price": 5.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABEV",
+      "price": 5.105
+    },
+    {
+      "ticker": "TXMD",
+      "price": 5.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TXMD",
+      "price": 5.2
+    },
+    {
+      "ticker": "ORMP",
+      "price": 5.3697
+    }
+  ]
+}

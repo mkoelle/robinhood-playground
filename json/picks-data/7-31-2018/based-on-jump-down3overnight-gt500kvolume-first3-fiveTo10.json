@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "AKS",
+      "price": 4.745
+    },
+    {
+      "ticker": "UVXY",
+      "price": 9.56
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.96
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UVXY",
+      "price": 9.5573
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.9384
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UVXY",
+      "price": 9.57
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.7599
+    },
+    {
+      "ticker": "LSCC",
+      "price": 7.484
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UVXY",
+      "price": 9.6
+    },
+    {
+      "ticker": "PGNX",
+      "price": 7.73
+    },
+    {
+      "ticker": "LSCC",
+      "price": 7.43
+    }
+  ]
+}

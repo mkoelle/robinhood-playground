@@ -1,0 +1,90 @@
+{
+  "0": [
+    {
+      "ticker": "TPRE",
+      "price": 13.1
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.44
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.55
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.77
+    },
+    {
+      "ticker": "PNTR",
+      "price": 11.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPRE",
+      "price": 13.65
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.48
+    },
+    {
+      "ticker": "COE",
+      "price": 10.099
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.55
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPRE",
+      "price": 13.6
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.269
+    },
+    {
+      "ticker": "COE",
+      "price": 10.099
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.55
+    },
+    {
+      "ticker": "ZEAL",
+      "price": 14.76
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPRE",
+      "price": 13.7
+    },
+    {
+      "ticker": "CLS",
+      "price": 12.25
+    },
+    {
+      "ticker": "COE",
+      "price": 10.099
+    },
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "EEI",
+      "price": 13.6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAKD",
+      "price": 4.8399
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.94
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NAKD",
+      "price": 4.95
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DRYS",
+      "price": 4.95
+    },
+    {
+      "ticker": "MDCA",
+      "price": 5
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SPWH",
+      "price": 4.89
+    },
+    {
+      "ticker": "SORL",
+      "price": 4.92
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDCA",
+      "price": 5
+    },
+    {
+      "ticker": "SPWH",
+      "price": 4.93
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PFNX",
+      "price": 4.99
+    },
+    {
+      "ticker": "MDCA",
+      "price": 4.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDCA",
+      "price": 4.925
+    },
+    {
+      "ticker": "SPWH",
+      "price": 4.9
+    }
+  ]
+}

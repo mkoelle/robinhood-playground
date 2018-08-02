@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BPK",
+      "price": 15.02
+    },
+    {
+      "ticker": "GOV",
+      "price": 15.01
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMSWA",
+      "price": 15.02
+    },
+    {
+      "ticker": "QTRX",
+      "price": 15.045
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLRE",
+      "price": 15.2
+    },
+    {
+      "ticker": "REPL",
+      "price": 15.26
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLRE",
+      "price": 15.1
+    },
+    {
+      "ticker": "CYRX",
+      "price": 14.95
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLRE",
+      "price": 15.3
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 15.01
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLRE",
+      "price": 15.225
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 15.09
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLRE",
+      "price": 15.3
+    },
+    {
+      "ticker": "LAUR",
+      "price": 15.01
+    }
+  ]
+}

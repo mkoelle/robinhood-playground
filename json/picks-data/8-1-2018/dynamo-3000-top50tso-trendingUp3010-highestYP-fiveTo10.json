@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 6.677
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 6.979
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.765
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 6.78
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.92
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 6.9
+    },
+    {
+      "ticker": "ELON",
+      "price": 8.6027
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 6.865
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.92
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 7.054
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.9499
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 6.805
+    },
+    {
+      "ticker": "KONE",
+      "price": 7.9499
+    }
+  ]
+}

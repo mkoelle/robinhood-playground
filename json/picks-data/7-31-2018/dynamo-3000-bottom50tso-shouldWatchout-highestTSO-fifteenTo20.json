@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OSUR",
+      "price": 16.6
+    },
+    {
+      "ticker": "EVH",
+      "price": 19.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NCSM",
+      "price": 15.63
+    },
+    {
+      "ticker": "PAR",
+      "price": 18.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "I",
+      "price": 19.29
+    },
+    {
+      "ticker": "GMLP",
+      "price": 16.16
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HCLP",
+      "price": 15.475
+    },
+    {
+      "ticker": "SIEB",
+      "price": 15.27
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRNC",
+      "price": 16.15
+    },
+    {
+      "ticker": "EOLS",
+      "price": 18.985
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SIEB",
+      "price": 15.3
+    },
+    {
+      "ticker": "AKRX",
+      "price": 18.555
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CNCE",
+      "price": 15.97
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.19
+    }
+  ]
+}

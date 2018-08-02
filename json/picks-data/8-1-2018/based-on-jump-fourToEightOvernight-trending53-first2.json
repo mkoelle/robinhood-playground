@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CDTI",
+      "price": 0.56
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.4505
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNVC",
+      "price": 0.415
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.6533
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNVC",
+      "price": 0.415
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNVC",
+      "price": 0.393
+    },
+    {
+      "ticker": "YGYI",
+      "price": 4.4331
+    }
+  ]
+}

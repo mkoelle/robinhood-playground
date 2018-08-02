@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MSL",
+      "price": 13.8
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.32
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QUOT",
+      "price": 12.9
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.9
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.385
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QUOT",
+      "price": 13
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.8
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QUOT",
+      "price": 12.625
+    },
+    {
+      "ticker": "MSL",
+      "price": 13.8
+    },
+    {
+      "ticker": "RPAI",
+      "price": 12.345
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ARWR",
+      "price": 14.7501
+    },
+    {
+      "ticker": "VKTX",
+      "price": 9.93
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ARWR",
+      "price": 14.45
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.98
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 12.9105
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.64
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 14.68
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 13.3
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 13.41
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.55
+    }
+  ]
+}

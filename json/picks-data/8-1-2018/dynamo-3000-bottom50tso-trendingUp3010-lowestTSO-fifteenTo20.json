@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMC",
+      "price": 15.9
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.12
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AMC",
+      "price": 15.65
+    },
+    {
+      "ticker": "CHRS",
+      "price": 18.75
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AMC",
+      "price": 15.55
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15.6633
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UMRX",
+      "price": 15.46
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.85
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UMRX",
+      "price": 15.18
+    },
+    {
+      "ticker": "GPX",
+      "price": 18.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UMRX",
+      "price": 15.49
+    },
+    {
+      "ticker": "GPX",
+      "price": 18.05
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UMRX",
+      "price": 15.5
+    },
+    {
+      "ticker": "GPX",
+      "price": 18.15
+    }
+  ]
+}

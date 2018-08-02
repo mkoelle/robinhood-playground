@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "VNTR",
+      "price": 14.435
+    },
+    {
+      "ticker": "LMLP",
+      "price": 16.56
+    },
+    {
+      "ticker": "TTM",
+      "price": 18.85
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LMLP",
+      "price": 16.56
+    },
+    {
+      "ticker": "TTM",
+      "price": 18.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VNTR",
+      "price": 14.96
+    },
+    {
+      "ticker": "LMLP",
+      "price": 17.59
+    },
+    {
+      "ticker": "TTM",
+      "price": 18.25
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VNTR",
+      "price": 15.21
+    },
+    {
+      "ticker": "LMLP",
+      "price": 17.928
+    },
+    {
+      "ticker": "TTM",
+      "price": 18.41
+    }
+  ]
+}

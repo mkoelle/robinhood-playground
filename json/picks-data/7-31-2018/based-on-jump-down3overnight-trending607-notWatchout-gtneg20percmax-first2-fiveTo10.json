@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NVUS",
+      "price": 7.24
+    },
+    {
+      "ticker": "LSCC",
+      "price": 7.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "LSCC",
+      "price": 7.598
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LSCC",
+      "price": 7.484
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.24
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVUS",
+      "price": 7.8534
+    },
+    {
+      "ticker": "LSCC",
+      "price": 7.43
+    }
+  ]
+}

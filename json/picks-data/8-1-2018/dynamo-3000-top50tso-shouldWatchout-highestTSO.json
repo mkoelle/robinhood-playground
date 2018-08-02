@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RXII",
+      "price": 2
+    },
+    {
+      "ticker": "PRKR",
+      "price": 0.7072
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CRMD",
+      "price": 0.589
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DHXM",
+      "price": 2.1697
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.7172
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NSYS",
+      "price": 4.3994
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.325
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NSYS",
+      "price": 4.4501
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRIS",
+      "price": 1.85
+    },
+    {
+      "ticker": "DHXM",
+      "price": 2.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PRPO",
+      "price": 0.51
+    },
+    {
+      "ticker": "CRIS",
+      "price": 1.94
+    }
+  ]
+}

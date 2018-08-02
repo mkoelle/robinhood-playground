@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CHK",
+      "price": 4.3955
+    },
+    {
+      "ticker": "HBM",
+      "price": 4.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CHK",
+      "price": 4.44
+    },
+    {
+      "ticker": "HBM",
+      "price": 4.875
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CHK",
+      "price": 4.325
+    },
+    {
+      "ticker": "HBM",
+      "price": 4.8756
+    },
+    {
+      "ticker": "ASM",
+      "price": 1.1434
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BXE",
+      "price": 0.9
+    },
+    {
+      "ticker": "CHK",
+      "price": 4.265
+    },
+    {
+      "ticker": "HBM",
+      "price": 4.93
+    }
+  ]
+}

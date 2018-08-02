@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.93
+    },
+    {
+      "ticker": "EIGR",
+      "price": 10.005
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FRD",
+      "price": 10.1366
+    },
+    {
+      "ticker": "CMTA",
+      "price": 10.01
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYRS",
+      "price": 10.06
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CSU",
+      "price": 10.08
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.07
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BTAI",
+      "price": 10.015
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.355
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BTAI",
+      "price": 10.1399
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.115
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTAI",
+      "price": 10.15
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.13
+    }
+  ]
+}

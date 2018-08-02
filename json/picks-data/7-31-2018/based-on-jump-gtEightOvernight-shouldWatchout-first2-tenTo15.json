@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "CSSE",
+      "price": 10.548
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EXPI",
+      "price": 14.6
+    },
+    {
+      "ticker": "CSSE",
+      "price": 11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EXPI",
+      "price": 14.2303
+    },
+    {
+      "ticker": "CSSE",
+      "price": 11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EXPI",
+      "price": 13.91
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.5
+    }
+  ]
+}

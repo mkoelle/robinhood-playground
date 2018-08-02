@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NAK",
+      "price": 0.639
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NAK",
+      "price": 0.6472
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.745
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NAK",
+      "price": 0.6364
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NAK",
+      "price": 0.63
+    },
+    {
+      "ticker": "NOG",
+      "price": 3.7375
+    }
+  ]
+}

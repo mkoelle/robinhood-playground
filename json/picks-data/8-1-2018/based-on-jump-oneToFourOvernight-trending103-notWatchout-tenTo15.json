@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "CNHI",
+      "price": 11.895
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.9783
+    },
+    {
+      "ticker": "FF",
+      "price": 13.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.84
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KALV",
+      "price": 9.95
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.87
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.9783
+    },
+    {
+      "ticker": "FF",
+      "price": 13.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CNHI",
+      "price": 11.8
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.2499
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.99
+    },
+    {
+      "ticker": "FF",
+      "price": 13.9
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.8999
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GDP",
+      "price": 12.93
+    },
+    {
+      "ticker": "CNHI",
+      "price": 11.81
+    },
+    {
+      "ticker": "IOR",
+      "price": 13.2499
+    },
+    {
+      "ticker": "PNI",
+      "price": 10.9396
+    },
+    {
+      "ticker": "LOOP",
+      "price": 11.8999
+    }
+  ]
+}

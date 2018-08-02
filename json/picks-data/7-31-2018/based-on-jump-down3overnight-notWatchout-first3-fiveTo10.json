@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DFRG",
+      "price": 8.5
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.03
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.24
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DFRG",
+      "price": 8.6
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8
+    },
+    {
+      "ticker": "LSCC",
+      "price": 7.598
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HBP",
+      "price": 4.97
+    },
+    {
+      "ticker": "DFRG",
+      "price": 8.6
+    },
+    {
+      "ticker": "SMFG",
+      "price": 7.995
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DFRG",
+      "price": 8.65
+    },
+    {
+      "ticker": "SMFG",
+      "price": 7.9964
+    },
+    {
+      "ticker": "NVUS",
+      "price": 7.8534
+    }
+  ]
+}

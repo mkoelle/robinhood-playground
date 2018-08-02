@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIS",
+      "price": 4.96
+    },
+    {
+      "ticker": "NIHD",
+      "price": 6.677
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 6.979
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.517
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 6.78
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.33
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 6.9
+    },
+    {
+      "ticker": "GOL",
+      "price": 7.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 5.055
+    },
+    {
+      "ticker": "NIHD",
+      "price": 6.865
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 5.075
+    },
+    {
+      "ticker": "NIHD",
+      "price": 7.054
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 5.12
+    },
+    {
+      "ticker": "NIHD",
+      "price": 6.805
+    }
+  ]
+}

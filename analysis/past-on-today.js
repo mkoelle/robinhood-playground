@@ -3,7 +3,7 @@
 
 const stratPerfOverall = require('./strategy-perf-overall');
 const stratPerfToday = require('./strategy-perf-today');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const strategiesEnabled = require('../strategies-enabled');
 
 module.exports = async (Robinhood) => {

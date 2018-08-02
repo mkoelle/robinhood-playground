@@ -1,7 +1,7 @@
 // watchout if stock has flutuated more than 15% in 24 hours in the last 3 months
 
 const getTrend = require('../utils/get-trend');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 
 const shouldWatchout = async (Robinhood, ticker) => {
     // console.log('evaluating risk ...', ticker);

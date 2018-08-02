@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MARK",
+      "price": 3.45
+    },
+    {
+      "ticker": "INFI",
+      "price": 1.735
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HUSA",
+      "price": 0.2402
+    },
+    {
+      "ticker": "GNCA",
+      "price": 0.6359
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VTGN",
+      "price": 1.2226
+    },
+    {
+      "ticker": "AHPI",
+      "price": 2.3548
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RUBI",
+      "price": 2.97
+    },
+    {
+      "ticker": "SCPH",
+      "price": 4.66
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OMED",
+      "price": 2.07
+    },
+    {
+      "ticker": "CATB",
+      "price": 0.68
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLOW",
+      "price": 0.1808
+    },
+    {
+      "ticker": "RENN",
+      "price": 2.06
+    }
+  ],
+  "381": [
+    {
+      "ticker": "EPE",
+      "price": 2.165
+    },
+    {
+      "ticker": "OPGN",
+      "price": 1.882
+    }
+  ]
+}

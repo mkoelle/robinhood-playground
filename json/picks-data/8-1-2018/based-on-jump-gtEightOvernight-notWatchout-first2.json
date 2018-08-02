@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6729
+    },
+    {
+      "ticker": "DTEA",
+      "price": 2.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6625
+    },
+    {
+      "ticker": "DTEA",
+      "price": 2.9
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GSAT",
+      "price": 0.6286
+    },
+    {
+      "ticker": "DTEA",
+      "price": 2.9
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GSAT",
+      "price": 0.611
+    },
+    {
+      "ticker": "DTEA",
+      "price": 2.9
+    }
+  ]
+}

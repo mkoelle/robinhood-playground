@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NOG",
+      "price": 3.76
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.98
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NOG",
+      "price": 3.735
+    },
+    {
+      "ticker": "MICT",
+      "price": 1.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLPH",
+      "price": 2.605
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.779
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NFEC",
+      "price": 4.4
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.4885
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NFEC",
+      "price": 4.3584
+    },
+    {
+      "ticker": "MEIP",
+      "price": 3.82
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NFEC",
+      "price": 4.35
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NFEC",
+      "price": 4.36
+    },
+    {
+      "ticker": "BLPH",
+      "price": 2.53
+    }
+  ]
+}

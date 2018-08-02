@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 10.375
+    },
+    {
+      "ticker": "FLWS",
+      "price": 14.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDNA",
+      "price": 13.89
+    },
+    {
+      "ticker": "VRAY",
+      "price": 12.2524
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 14.112
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AFIN",
+      "price": 14.772
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDNA",
+      "price": 14.25
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.275
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 14.54
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 14.48
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.86
+    }
+  ]
+}

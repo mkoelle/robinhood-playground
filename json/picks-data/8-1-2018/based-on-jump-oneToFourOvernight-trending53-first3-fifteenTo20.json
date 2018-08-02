@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NVTR",
+      "price": 15.99
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.771
+    },
+    {
+      "ticker": "AMC",
+      "price": 16.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NVTR",
+      "price": 16.32
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.74
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NVTR",
+      "price": 16.45
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.78
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.57
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NVTR",
+      "price": 16.33
+    },
+    {
+      "ticker": "SCO",
+      "price": 16.77
+    },
+    {
+      "ticker": "AMC",
+      "price": 15.8
+    }
+  ]
+}

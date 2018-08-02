@@ -1,7 +1,7 @@
 const brain = require('brain.js');
 const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 
 module.exports = async Robinhood => {
 

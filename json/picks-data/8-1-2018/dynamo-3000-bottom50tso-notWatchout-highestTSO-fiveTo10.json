@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRR",
+      "price": 9.19
+    },
+    {
+      "ticker": "IAG",
+      "price": 5.46
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CDE",
+      "price": 6.83
+    },
+    {
+      "ticker": "MESO",
+      "price": 7.012
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CLAR",
+      "price": 8.85
+    },
+    {
+      "ticker": "CRVS",
+      "price": 9.62
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WTI",
+      "price": 6.59
+    },
+    {
+      "ticker": "MLNT",
+      "price": 5.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AVID",
+      "price": 5.405
+    },
+    {
+      "ticker": "BBW",
+      "price": 7.85
+    }
+  ],
+  "351": [
+    {
+      "ticker": "YIN",
+      "price": 7.17
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.16
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ULBI",
+      "price": 9.725
+    },
+    {
+      "ticker": "EDGW",
+      "price": 5.16
+    }
+  ]
+}

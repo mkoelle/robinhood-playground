@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RBBN",
+      "price": 7.39
+    },
+    {
+      "ticker": "FCO",
+      "price": 8.1075
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RBBN",
+      "price": 7.35
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RBBN",
+      "price": 7.33
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RBBN",
+      "price": 7.05
+    },
+    {
+      "ticker": "PFIN",
+      "price": 8.75
+    }
+  ]
+}

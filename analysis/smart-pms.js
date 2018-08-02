@@ -2,7 +2,7 @@
 // using pm-perfs
 const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const Combinatorics = require('js-combinatorics');
 
 const excuseDays = [

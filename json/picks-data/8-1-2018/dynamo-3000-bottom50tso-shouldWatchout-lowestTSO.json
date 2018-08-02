@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HMNY",
+      "price": 0.355
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.268
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2883
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HMNY",
+      "price": 0.25
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2649
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HMNY",
+      "price": 0.25
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.3986
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2399
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.3902
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HMNY",
+      "price": 0.2197
+    },
+    {
+      "ticker": "JMU",
+      "price": 1.36
+    }
+  ]
+}

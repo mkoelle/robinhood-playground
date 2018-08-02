@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TEO",
+      "price": 20.18
+    },
+    {
+      "ticker": "NNBR",
+      "price": 20.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "VNCE",
+      "price": 18.97
+    },
+    {
+      "ticker": "BANC",
+      "price": 19.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "VNCE",
+      "price": 18.435
+    },
+    {
+      "ticker": "LBAI",
+      "price": 19.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "VNCE",
+      "price": 18.339
+    },
+    {
+      "ticker": "LBAI",
+      "price": 19.45
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ODT",
+      "price": 19.7575
+    },
+    {
+      "ticker": "VNCE",
+      "price": 17.975
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MHH",
+      "price": 19.94
+    },
+    {
+      "ticker": "ODT",
+      "price": 19.5
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MHH",
+      "price": 19.9899
+    },
+    {
+      "ticker": "ODT",
+      "price": 19.96
+    }
+  ]
+}

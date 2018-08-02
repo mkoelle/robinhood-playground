@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "RBBN",
+      "price": 7.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RBBN",
+      "price": 7.24
+    },
+    {
+      "ticker": "LGL",
+      "price": 6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RBBN",
+      "price": 7.01
+    },
+    {
+      "ticker": "LGL",
+      "price": 5.72
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RBBN",
+      "price": 7.0099
+    },
+    {
+      "ticker": "LGL",
+      "price": 5.76
+    }
+  ]
+}

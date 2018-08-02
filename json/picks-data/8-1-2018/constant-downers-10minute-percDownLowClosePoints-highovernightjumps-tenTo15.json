@@ -1,0 +1,40 @@
+{
+  "77": [
+    {
+      "ticker": "TBIO",
+      "price": 11.814
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.95
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TBIO",
+      "price": 11.38
+    },
+    {
+      "ticker": "LNDC",
+      "price": 13.65
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.4
+    }
+  ],
+  "309": [
+    {
+      "ticker": "LNDC",
+      "price": 13.475
+    },
+    {
+      "ticker": "TBIO",
+      "price": 11.45
+    },
+    {
+      "ticker": "TACT",
+      "price": 11.4
+    }
+  ]
+}

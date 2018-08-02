@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "NOA",
+      "price": 6.9
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.26
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NOA",
+      "price": 6.9
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.242
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1399
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NOA",
+      "price": 6.95
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.27
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1399
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NOA",
+      "price": 6.9086
+    },
+    {
+      "ticker": "DWT",
+      "price": 7.2638
+    },
+    {
+      "ticker": "WTID",
+      "price": 8.1476
+    }
+  ]
+}

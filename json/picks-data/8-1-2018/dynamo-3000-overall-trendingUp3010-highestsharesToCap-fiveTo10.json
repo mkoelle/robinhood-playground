@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIS",
+      "price": 4.96
+    },
+    {
+      "ticker": "ABEV",
+      "price": 5.16
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASX",
+      "price": 5.005
+    },
+    {
+      "ticker": "XELA",
+      "price": 5.03
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ICL",
+      "price": 5.025
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.055
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ICL",
+      "price": 5.0376
+    },
+    {
+      "ticker": "ASX",
+      "price": 5.0338
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 5.055
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 5.075
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.0901
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 5.12
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.085
+    }
+  ]
+}

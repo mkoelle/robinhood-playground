@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CRCM",
+      "price": 17.87
+    },
+    {
+      "ticker": "SIEN",
+      "price": 19.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 18.08
+    },
+    {
+      "ticker": "CRCM",
+      "price": 18.145
+    }
+  ],
+  "100": [
+    {
+      "ticker": "BLFS",
+      "price": 18.661
+    },
+    {
+      "ticker": "AMC",
+      "price": 16.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMC",
+      "price": 16.65
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.79
+    }
+  ],
+  "260": [
+    {
+      "ticker": "BLFS",
+      "price": 18.91
+    },
+    {
+      "ticker": "AMC",
+      "price": 16.55
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BLFS",
+      "price": 19.29
+    },
+    {
+      "ticker": "CSTE",
+      "price": 15.7
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BLFS",
+      "price": 19
+    },
+    {
+      "ticker": "CSTE",
+      "price": 15.75
+    }
+  ]
+}

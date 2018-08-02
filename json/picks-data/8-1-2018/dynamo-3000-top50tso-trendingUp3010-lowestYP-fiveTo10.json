@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TIS",
+      "price": 4.96
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DLNG",
+      "price": 8.517
+    },
+    {
+      "ticker": "TAX",
+      "price": 9.125
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GOL",
+      "price": 7.33
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GOL",
+      "price": 7.3
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.71
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FTR",
+      "price": 5.055
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.8821
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FTR",
+      "price": 5.075
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FTR",
+      "price": 5.12
+    },
+    {
+      "ticker": "DLNG",
+      "price": 8.8901
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UBCP",
+      "price": 13.7
+    },
+    {
+      "ticker": "SE",
+      "price": 13.75
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.48
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.865
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.49
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.845
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.49
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UBCP",
+      "price": 13.65
+    },
+    {
+      "ticker": "SE",
+      "price": 13.7625
+    },
+    {
+      "ticker": "SPNE",
+      "price": 12.62
+    }
+  ]
+}

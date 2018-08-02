@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "DB",
+      "price": 13.16
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.45
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DB",
+      "price": 13.14
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.45
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 13.11
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.1
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 13.1
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.1
+    },
+    {
+      "ticker": "KIN",
+      "price": 13.4
+    }
+  ]
+}

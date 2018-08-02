@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CRON",
+      "price": 6.15
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.1231
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CRON",
+      "price": 6.11
+    },
+    {
+      "ticker": "DRIP",
+      "price": 6.22
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CRON",
+      "price": 6.1
+    },
+    {
+      "ticker": "MUFG",
+      "price": 6.2899
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CRON",
+      "price": 6.02
+    },
+    {
+      "ticker": "MUFG",
+      "price": 6.29
+    }
+  ]
+}

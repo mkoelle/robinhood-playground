@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ATLC",
+      "price": 2.98
+    },
+    {
+      "ticker": "RGLS",
+      "price": 0.28
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HMNY",
+      "price": 0.895
+    },
+    {
+      "ticker": "HBP",
+      "price": 4.37
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HBP",
+      "price": 4.62
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.779
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HBP",
+      "price": 4.52
+    },
+    {
+      "ticker": "RGLS",
+      "price": 0.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HBP",
+      "price": 4.5
+    },
+    {
+      "ticker": "RGLS",
+      "price": 0.29
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HBP",
+      "price": 4.635
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.385
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CEI",
+      "price": 0.4133
+    },
+    {
+      "ticker": "HBP",
+      "price": 4.62
+    }
+  ]
+}

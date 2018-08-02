@@ -1,0 +1,46 @@
+{
+  "10": [
+    {
+      "ticker": "AMD",
+      "price": 18.46
+    },
+    {
+      "ticker": "I",
+      "price": 19.724
+    }
+  ],
+  "50": [
+    {
+      "ticker": "AMD",
+      "price": 18.85
+    },
+    {
+      "ticker": "I",
+      "price": 19.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AMD",
+      "price": 18.685
+    }
+  ],
+  "300": [
+    {
+      "ticker": "AMD",
+      "price": 18.535
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AMD",
+      "price": 18.48
+    }
+  ],
+  "600": [
+    {
+      "ticker": "AMD",
+      "price": 18.48
+    }
+  ]
+}

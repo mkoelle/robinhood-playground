@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PFNX",
+      "price": 5.125
+    },
+    {
+      "ticker": "ALLT",
+      "price": 5.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ASX",
+      "price": 5.005
+    },
+    {
+      "ticker": "GNE",
+      "price": 5.1724
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ENIC",
+      "price": 5.23
+    },
+    {
+      "ticker": "NOK",
+      "price": 5.45
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PFNX",
+      "price": 5.07
+    },
+    {
+      "ticker": "PPT",
+      "price": 5.255
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TRIL",
+      "price": 5.25
+    },
+    {
+      "ticker": "ENIC",
+      "price": 5.22
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ENIC",
+      "price": 5.215
+    },
+    {
+      "ticker": "IRET",
+      "price": 5.425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FRO",
+      "price": 5.07
+    },
+    {
+      "ticker": "ENIC",
+      "price": 5.2
+    }
+  ]
+}

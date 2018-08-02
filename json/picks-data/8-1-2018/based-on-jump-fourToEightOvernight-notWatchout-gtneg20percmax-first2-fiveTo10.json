@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NOA",
+      "price": 6.9
+    },
+    {
+      "ticker": "FSP",
+      "price": 9.22
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NOA",
+      "price": 6.9
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NOA",
+      "price": 6.95
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.86
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NOA",
+      "price": 6.9086
+    },
+    {
+      "ticker": "FSP",
+      "price": 8.85
+    }
+  ]
+}

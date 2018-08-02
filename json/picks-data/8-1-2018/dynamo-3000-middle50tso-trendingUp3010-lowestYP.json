@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NAK",
+      "price": 0.6
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.5562
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JRJC",
+      "price": 1.98
+    },
+    {
+      "ticker": "AIPT",
+      "price": 1.2021
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TOPS",
+      "price": 0.951
+    },
+    {
+      "ticker": "JRJC",
+      "price": 1.98
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TOPS",
+      "price": 0.9475
+    },
+    {
+      "ticker": "RCON",
+      "price": 1.54
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RCON",
+      "price": 1.5466
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SINO",
+      "price": 1.1758
+    },
+    {
+      "ticker": "BGI",
+      "price": 1.5899
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CPHI",
+      "price": 0.269
+    },
+    {
+      "ticker": "SINO",
+      "price": 1.175
+    }
+  ]
+}

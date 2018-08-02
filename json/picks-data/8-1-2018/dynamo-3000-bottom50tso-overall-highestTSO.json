@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CDTI",
+      "price": 0.5501
+    },
+    {
+      "ticker": "OGEN",
+      "price": 0.55
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPWH",
+      "price": 4.86
+    },
+    {
+      "ticker": "SLS",
+      "price": 1.12
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HYRE",
+      "price": 3.3592
+    },
+    {
+      "ticker": "SPWH",
+      "price": 4.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WYY",
+      "price": 0.5202
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.4632
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDTI",
+      "price": 0.53
+    },
+    {
+      "ticker": "ABIL",
+      "price": 3.07
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ACRX",
+      "price": 2.625
+    },
+    {
+      "ticker": "AGRX",
+      "price": 0.281
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABIL",
+      "price": 3.0425
+    },
+    {
+      "ticker": "WIN",
+      "price": 3.28
+    }
+  ]
+}

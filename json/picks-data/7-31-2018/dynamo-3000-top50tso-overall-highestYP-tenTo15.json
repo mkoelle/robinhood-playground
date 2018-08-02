@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AFIN",
+      "price": 14.95
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.7501
+    }
+  ],
+  "40": [
+    {
+      "ticker": "LOV",
+      "price": 12.0412
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDNA",
+      "price": 12.9105
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.55
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.64
+    },
+    {
+      "ticker": "CDNA",
+      "price": 12.96
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 14.68
+    },
+    {
+      "ticker": "CDNA",
+      "price": 13.04
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CDNA",
+      "price": 13.3
+    },
+    {
+      "ticker": "GFN",
+      "price": 13.75
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDNA",
+      "price": 13.41
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.55
+    }
+  ]
+}

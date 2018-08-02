@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "LIND",
+      "price": 13.04
+    },
+    {
+      "ticker": "BGCP",
+      "price": 10.72
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.38
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DGII",
+      "price": 13.625
+    },
+    {
+      "ticker": "KRNY",
+      "price": 13.7
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.13
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LIND",
+      "price": 13.22
+    },
+    {
+      "ticker": "JMBA",
+      "price": 10.98
+    },
+    {
+      "ticker": "DGII",
+      "price": 13.7
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMBA",
+      "price": 11
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.64
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "JMBA",
+      "price": 10.91
+    },
+    {
+      "ticker": "KRNY",
+      "price": 13.95
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.46
+    }
+  ],
+  "351": [
+    {
+      "ticker": "JMBA",
+      "price": 11.015
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.575
+    },
+    {
+      "ticker": "KRNY",
+      "price": 14.2
+    }
+  ],
+  "381": [
+    {
+      "ticker": "JMBA",
+      "price": 11
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.75
+    },
+    {
+      "ticker": "KRNY",
+      "price": 14.35
+    }
+  ]
+}

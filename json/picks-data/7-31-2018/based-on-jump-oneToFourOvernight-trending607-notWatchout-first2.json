@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TAIT",
+      "price": 2.25
+    },
+    {
+      "ticker": "CDXC",
+      "price": 4.61
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 2.96
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.24
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UUUU",
+      "price": 2.88
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.2727
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UUUU",
+      "price": 2.91
+    },
+    {
+      "ticker": "TAIT",
+      "price": 2.17
+    }
+  ]
+}

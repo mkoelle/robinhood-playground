@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VKTX",
+      "price": 9.93
+    },
+    {
+      "ticker": "XNET",
+      "price": 10.6462
+    }
+  ],
+  "40": [
+    {
+      "ticker": "SPRO",
+      "price": 11.44
+    },
+    {
+      "ticker": "CCXI",
+      "price": 11.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SYRS",
+      "price": 10.06
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.18
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYRS",
+      "price": 10.07
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.225
+    }
+  ],
+  "260": [
+    {
+      "ticker": "VKTX",
+      "price": 10.355
+    },
+    {
+      "ticker": "CLUB",
+      "price": 10.825
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYRS",
+      "price": 10.115
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYRS",
+      "price": 10.13
+    },
+    {
+      "ticker": "INOV",
+      "price": 10.75
+    }
+  ]
+}

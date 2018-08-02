@@ -1,0 +1,48 @@
+{
+  "10": [
+    {
+      "ticker": "CRMD",
+      "price": 0.6501
+    }
+  ],
+  "50": [
+    {
+      "ticker": "CRMD",
+      "price": 0.6471
+    },
+    {
+      "ticker": "NAK",
+      "price": 0.5951
+    },
+    {
+      "ticker": "NDRA",
+      "price": 2.2871
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CRMD",
+      "price": 0.579
+    }
+  ],
+  "300": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5801
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 3.99
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CRMD",
+      "price": 0.5911
+    },
+    {
+      "ticker": "ZKIN",
+      "price": 3.82
+    }
+  ]
+}

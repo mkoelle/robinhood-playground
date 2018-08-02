@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SHIP",
+      "price": 0.96
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.89
+    },
+    {
+      "ticker": "CYRN",
+      "price": 3.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SHIP",
+      "price": 0.96
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.01
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.56
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SHIP",
+      "price": 0.9003
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.83
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.01
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SHIP",
+      "price": 0.9321
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.86
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.01
+    }
+  ]
+}

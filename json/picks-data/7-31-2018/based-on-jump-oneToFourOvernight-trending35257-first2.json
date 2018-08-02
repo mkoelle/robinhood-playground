@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "QTRH",
+      "price": 1.14
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.07
+    }
+  ],
+  "5": [
+    {
+      "ticker": "QTRH",
+      "price": 1.12
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.07
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QTRH",
+      "price": 1.11
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.058
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QTRH",
+      "price": 1.1035
+    },
+    {
+      "ticker": "VTNR",
+      "price": 1.0602
+    }
+  ]
+}

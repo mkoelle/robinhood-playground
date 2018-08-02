@@ -1,7 +1,7 @@
 const fs = require('mz/fs');
 
 const getTrend = require('../utils/get-trend');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const jsonMgr = require('../utils/json-mgr');
 const filterByTradeable = require('../utils/filter-by-tradeable');
 const chunkApi = require('../utils/chunk-api');

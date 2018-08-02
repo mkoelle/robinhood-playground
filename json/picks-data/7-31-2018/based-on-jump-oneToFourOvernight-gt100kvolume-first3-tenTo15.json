@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "RRC",
+      "price": 14.935
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.7294
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRC",
+      "price": 14.94
+    },
+    {
+      "ticker": "DB",
+      "price": 13.14
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRC",
+      "price": 14.825
+    },
+    {
+      "ticker": "DB",
+      "price": 13.11
+    },
+    {
+      "ticker": "SBLK",
+      "price": 13.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRC",
+      "price": 14.745
+    },
+    {
+      "ticker": "DB",
+      "price": 13.1
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.1882
+    }
+  ]
+}

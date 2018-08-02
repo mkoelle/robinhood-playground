@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EVFM",
+      "price": 2.2
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.271
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.19
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.262
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.19
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.255
+    },
+    {
+      "ticker": "EVFM",
+      "price": 2.19
+    }
+  ]
+}

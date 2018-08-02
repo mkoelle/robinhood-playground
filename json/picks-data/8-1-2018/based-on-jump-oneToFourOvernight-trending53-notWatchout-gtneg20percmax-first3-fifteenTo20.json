@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "JCAP",
+      "price": 18.84
+    },
+    {
+      "ticker": "NSSC",
+      "price": 15.95
+    },
+    {
+      "ticker": "CY",
+      "price": 17.935
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JCAP",
+      "price": 18.625
+    },
+    {
+      "ticker": "NSSC",
+      "price": 15.6
+    },
+    {
+      "ticker": "CY",
+      "price": 17.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JCAP",
+      "price": 18.67
+    },
+    {
+      "ticker": "NSSC",
+      "price": 15.6
+    },
+    {
+      "ticker": "CY",
+      "price": 17.83
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JCAP",
+      "price": 18.9
+    },
+    {
+      "ticker": "JHX",
+      "price": 16.26
+    },
+    {
+      "ticker": "NSSC",
+      "price": 15.71
+    }
+  ]
+}

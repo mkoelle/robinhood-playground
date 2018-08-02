@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NIHD",
+      "price": 6.677
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NIHD",
+      "price": 6.979
+    },
+    {
+      "ticker": "AMRS",
+      "price": 6.87
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NIHD",
+      "price": 6.78
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.926
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NIHD",
+      "price": 6.9
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.7
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NIHD",
+      "price": 6.865
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.823
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NIHD",
+      "price": 7.054
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NIHD",
+      "price": 6.805
+    },
+    {
+      "ticker": "RFIL",
+      "price": 9.8
+    }
+  ]
+}

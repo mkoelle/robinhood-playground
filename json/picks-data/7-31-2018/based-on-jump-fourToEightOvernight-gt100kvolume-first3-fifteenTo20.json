@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BRX",
+      "price": 17.78
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BRX",
+      "price": 17.295
+    }
+  ],
+  "16": [
+    {
+      "ticker": "QTNA",
+      "price": 16.435
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.5
+    },
+    {
+      "ticker": "BRX",
+      "price": 17.2875
+    }
+  ],
+  "30": [
+    {
+      "ticker": "QTNA",
+      "price": 16.07
+    },
+    {
+      "ticker": "KBR",
+      "price": 19.62
+    },
+    {
+      "ticker": "BRX",
+      "price": 17.53
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LL",
+      "price": 19.21
+    },
+    {
+      "ticker": "MFGP",
+      "price": 16.5
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NYRT",
+      "price": 18.36
+    },
+    {
+      "ticker": "ACAD",
+      "price": 15.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FPRX",
+      "price": 14.99
+    },
+    {
+      "ticker": "CSTE",
+      "price": 15.15
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NYRT",
+      "price": 18.32
+    },
+    {
+      "ticker": "CSTE",
+      "price": 15.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NYRT",
+      "price": 18.37
+    },
+    {
+      "ticker": "CSTE",
+      "price": 15.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NYRT",
+      "price": 18.4
+    },
+    {
+      "ticker": "ACAD",
+      "price": 15.12
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NYRT",
+      "price": 18.36
+    },
+    {
+      "ticker": "ACAD",
+      "price": 15.075
+    }
+  ]
+}

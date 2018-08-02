@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CBIO",
+      "price": 10.13
+    },
+    {
+      "ticker": "RFIL",
+      "price": 10.375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RFIL",
+      "price": 10
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.1395
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FATE",
+      "price": 10.06
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.24
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LBY",
+      "price": 10.12
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.1
+    }
+  ],
+  "260": [
+    {
+      "ticker": "LBY",
+      "price": 10.275
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.1
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LBY",
+      "price": 10.53
+    },
+    {
+      "ticker": "LFVN",
+      "price": 10.04
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LBY",
+      "price": 10.86
+    },
+    {
+      "ticker": "DERM",
+      "price": 10.16
+    }
+  ]
+}

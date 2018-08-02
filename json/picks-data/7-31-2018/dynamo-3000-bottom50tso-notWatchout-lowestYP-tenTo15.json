@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "LCI",
+      "price": 12.2
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.375
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CYOU",
+      "price": 13.26
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.895
+    }
+  ],
+  "100": [
+    {
+      "ticker": "UGP",
+      "price": 11.17
+    },
+    {
+      "ticker": "FTSI",
+      "price": 11.79
+    }
+  ],
+  "200": [
+    {
+      "ticker": "UGP",
+      "price": 11.16
+    },
+    {
+      "ticker": "SQQQ",
+      "price": 13.08
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UGP",
+      "price": 11.03
+    },
+    {
+      "ticker": "NYNY",
+      "price": 13.95
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UGP",
+      "price": 10.94
+    },
+    {
+      "ticker": "NYNY",
+      "price": 14
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UGP",
+      "price": 11.02
+    },
+    {
+      "ticker": "NYNY",
+      "price": 14
+    }
+  ]
+}

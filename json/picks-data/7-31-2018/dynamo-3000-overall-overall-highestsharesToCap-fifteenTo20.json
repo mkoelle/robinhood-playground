@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "FFWM",
+      "price": 15.96
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.5131
+    }
+  ],
+  "40": [
+    {
+      "ticker": "FFWM",
+      "price": 15.13
+    },
+    {
+      "ticker": "SOI",
+      "price": 15.08
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FFWM",
+      "price": 15.35
+    },
+    {
+      "ticker": "ZAGG",
+      "price": 15.1
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DNOW",
+      "price": 15.05
+    },
+    {
+      "ticker": "CASA",
+      "price": 14.99
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TITN",
+      "price": 15.23
+    },
+    {
+      "ticker": "RRC",
+      "price": 15.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CASA",
+      "price": 15.32
+    },
+    {
+      "ticker": "TITN",
+      "price": 15.26
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CASA",
+      "price": 15.27
+    },
+    {
+      "ticker": "TITN",
+      "price": 15.16
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DFRG",
+      "price": 8.5
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8.03
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DFRG",
+      "price": 8.6
+    },
+    {
+      "ticker": "SMFG",
+      "price": 8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HBP",
+      "price": 4.97
+    },
+    {
+      "ticker": "DFRG",
+      "price": 8.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DFRG",
+      "price": 8.65
+    },
+    {
+      "ticker": "SMFG",
+      "price": 7.9964
+    }
+  ]
+}

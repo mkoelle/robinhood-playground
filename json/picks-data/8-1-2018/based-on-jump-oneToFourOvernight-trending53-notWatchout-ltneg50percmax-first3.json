@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "EGLT",
+      "price": 0.3
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.5983
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.9
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CPHI",
+      "price": 0.271
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.2885
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.5983
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CPHI",
+      "price": 0.262
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.3
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.5983
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CPHI",
+      "price": 0.255
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.3
+    },
+    {
+      "ticker": "VRML",
+      "price": 0.64
+    }
+  ]
+}

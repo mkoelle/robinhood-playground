@@ -9,7 +9,7 @@ const fs = require('mz/fs');
 const jsonMgr = require('../utils/json-mgr');
 const getTrend = require('../utils/get-trend');
 // const lookup = require('../utils/lookup');
-const avgArray = require('../utils/avg-array');
+const { avgArray } = require('../utils/array-math');
 const chunkApi = require('../utils/chunk-api');
 
 const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);

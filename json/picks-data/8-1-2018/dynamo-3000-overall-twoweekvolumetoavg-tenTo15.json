@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "UIS",
+      "price": 13.875
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TBIO",
+      "price": 10.94
+    },
+    {
+      "ticker": "TPRE",
+      "price": 14.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "LOOP",
+      "price": 11.06
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "LNDC",
+      "price": 13.65
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PRTA",
+      "price": 13.36
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LNDC",
+      "price": 13.225
+    },
+    {
+      "ticker": "NES",
+      "price": 12.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LOOP",
+      "price": 10.35
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.32
+    }
+  ]
+}

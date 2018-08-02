@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "EMX",
+      "price": 1.4505
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.8599
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NNVC",
+      "price": 0.415
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.4505
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NNVC",
+      "price": 0.415
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NNVC",
+      "price": 0.393
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.35
+    }
+  ]
+}

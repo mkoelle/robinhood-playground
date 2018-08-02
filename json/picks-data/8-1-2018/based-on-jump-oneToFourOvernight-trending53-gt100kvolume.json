@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "AMRN",
+      "price": 2.53
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMRN",
+      "price": 2.56
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.7361
+    }
+  ],
+  "16": [
+    {
+      "ticker": "AMRN",
+      "price": 2.51
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.265
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "AMRN",
+      "price": 2.51
+    },
+    {
+      "ticker": "MNGA",
+      "price": 0.2651
+    },
+    {
+      "ticker": "JONE",
+      "price": 0.3158
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.74
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.37
+    }
+  ]
+}

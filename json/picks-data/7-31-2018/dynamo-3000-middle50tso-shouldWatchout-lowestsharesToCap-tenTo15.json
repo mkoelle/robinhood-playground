@@ -1,0 +1,63 @@
+{
+  "4": [
+    {
+      "ticker": "FLEX",
+      "price": 14.05
+    },
+    {
+      "ticker": "PLSE",
+      "price": 13.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ELF",
+      "price": 14.28
+    },
+    {
+      "ticker": "LIVE",
+      "price": 12.41
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SVXY",
+      "price": 13.74
+    },
+    {
+      "ticker": "MTG",
+      "price": 12.59
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SVXY",
+      "price": 13.76
+    },
+    {
+      "ticker": "JNP",
+      "price": 11.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ECOM",
+      "price": 13.975
+    },
+    {
+      "ticker": "UCTT",
+      "price": 13.4
+    }
+  ],
+  "351": [],
+  "381": [
+    {
+      "ticker": "CDZI",
+      "price": 13.325
+    },
+    {
+      "ticker": "CCRN",
+      "price": 11.72
+    }
+  ]
+}

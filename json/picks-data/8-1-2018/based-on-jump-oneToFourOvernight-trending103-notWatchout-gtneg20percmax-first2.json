@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.365
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ICL",
+      "price": 4.98
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.55
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ICL",
+      "price": 4.97
+    },
+    {
+      "ticker": "CCO",
+      "price": 4.5
+    }
+  ]
+}

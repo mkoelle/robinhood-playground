@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RRC",
+      "price": 14.935
+    },
+    {
+      "ticker": "SVXY",
+      "price": 13.7294
+    }
+  ],
+  "5": [
+    {
+      "ticker": "RRC",
+      "price": 14.94
+    },
+    {
+      "ticker": "DB",
+      "price": 13.14
+    }
+  ],
+  "16": [
+    {
+      "ticker": "RRC",
+      "price": 14.825
+    },
+    {
+      "ticker": "DB",
+      "price": 13.11
+    }
+  ],
+  "30": [
+    {
+      "ticker": "RRC",
+      "price": 14.745
+    },
+    {
+      "ticker": "DB",
+      "price": 13.1
+    }
+  ]
+}

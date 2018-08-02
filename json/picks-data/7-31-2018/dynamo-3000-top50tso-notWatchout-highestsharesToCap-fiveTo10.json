@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PIRS",
+      "price": 5.5
+    },
+    {
+      "ticker": "OCUL",
+      "price": 5.4773
+    }
+  ],
+  "40": [
+    {
+      "ticker": "IEC",
+      "price": 5.2307
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.66
+    }
+  ],
+  "100": [
+    {
+      "ticker": "IEC",
+      "price": 5.23
+    },
+    {
+      "ticker": "PIRS",
+      "price": 5.68
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ONCY",
+      "price": 5.0305
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ONCY",
+      "price": 5.0101
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.025
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CRBP",
+      "price": 5
+    },
+    {
+      "ticker": "SGBX",
+      "price": 5.3
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TIS",
+      "price": 5.0699
+    },
+    {
+      "ticker": "CRBP",
+      "price": 5.05
+    }
+  ]
+}

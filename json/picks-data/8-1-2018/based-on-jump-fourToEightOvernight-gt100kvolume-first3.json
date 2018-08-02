@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "MEET",
+      "price": 4.38
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MEET",
+      "price": 4.54
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SNES",
+      "price": 1.36
+    },
+    {
+      "ticker": "MEET",
+      "price": 4.52
+    },
+    {
+      "ticker": "TRQ",
+      "price": 2.78
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SNES",
+      "price": 1.37
+    },
+    {
+      "ticker": "EDGE",
+      "price": 0.978
+    },
+    {
+      "ticker": "MEET",
+      "price": 4.375
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RFIL",
+      "price": 10.375
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TPH",
+      "price": 14.365
+    },
+    {
+      "ticker": "TPRE",
+      "price": 14.05
+    }
+  ],
+  "100": [
+    {
+      "ticker": "DENN",
+      "price": 14.77
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.47
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.72
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.31
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CEPU",
+      "price": 11.6558
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.4
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYRS",
+      "price": 10.28
+    },
+    {
+      "ticker": "NES",
+      "price": 12.07
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ECA",
+      "price": 14.055
+    },
+    {
+      "ticker": "OXFD",
+      "price": 14.32
+    }
+  ]
+}

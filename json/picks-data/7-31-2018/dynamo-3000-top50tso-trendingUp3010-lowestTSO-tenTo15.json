@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GLRE",
+      "price": 14.25
+    },
+    {
+      "ticker": "CNSL",
+      "price": 12.59
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ENDP",
+      "price": 12.39
+    },
+    {
+      "ticker": "GLRE",
+      "price": 14.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SBLK",
+      "price": 13.35
+    },
+    {
+      "ticker": "GLRE",
+      "price": 14.575
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ULBI",
+      "price": 10.0484
+    },
+    {
+      "ticker": "CSIQ",
+      "price": 13.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DNOW",
+      "price": 14.92
+    },
+    {
+      "ticker": "HABT",
+      "price": 12.725
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 12.775
+    },
+    {
+      "ticker": "ULBI",
+      "price": 10.075
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSIQ",
+      "price": 13.505
+    },
+    {
+      "ticker": "LX",
+      "price": 12.785
+    }
+  ]
+}

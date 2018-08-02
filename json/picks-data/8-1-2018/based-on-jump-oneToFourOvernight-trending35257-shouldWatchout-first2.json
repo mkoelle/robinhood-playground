@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CORV",
+      "price": 4.89
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.76
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TROV",
+      "price": 0.7361
+    },
+    {
+      "ticker": "RNN",
+      "price": 1.55
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CORV",
+      "price": 4.83
+    },
+    {
+      "ticker": "TROV",
+      "price": 0.74
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DSS",
+      "price": 1.525
+    },
+    {
+      "ticker": "CORV",
+      "price": 4.86
+    }
+  ]
+}

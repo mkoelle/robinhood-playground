@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BAS",
+      "price": 9.5
+    },
+    {
+      "ticker": "KALV",
+      "price": 9.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NES",
+      "price": 11.0601
+    },
+    {
+      "ticker": "CSPI",
+      "price": 10.9999
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NES",
+      "price": 11.5
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.112
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NES",
+      "price": 11.4252
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.15
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NES",
+      "price": 11.4252
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NES",
+      "price": 12.07
+    },
+    {
+      "ticker": "LBY",
+      "price": 10.53
+    }
+  ],
+  "381": [
+    {
+      "ticker": "LBY",
+      "price": 10.86
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.48
+    }
+  ]
+}

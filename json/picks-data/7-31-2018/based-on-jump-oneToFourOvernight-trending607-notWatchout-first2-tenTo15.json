@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "DB",
+      "price": 13.16
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "DB",
+      "price": 13.14
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "DB",
+      "price": 13.11
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.1
+    }
+  ],
+  "30": [
+    {
+      "ticker": "DB",
+      "price": 13.1
+    },
+    {
+      "ticker": "KVHI",
+      "price": 12.1
+    }
+  ]
+}
