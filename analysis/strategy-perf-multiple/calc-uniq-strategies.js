@@ -8,5 +8,6 @@ module.exports = stratObj => {
             });
         });
     });
-    return [...new Set(stratNames)];
+    return [...new Set(stratNames)]
+        .filter(s => !s.includes('cheapest-picks'));
 };

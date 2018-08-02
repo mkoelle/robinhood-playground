@@ -1,47 +1,198 @@
 module.exports = allRoundup => {
-
+    console.log('all round', JSON.stringify(allRoundup, null, 2))
     const createBreakdown = ({
-        minPercUp = 0,
-        scoreFn = ({ percUp, avgMax, count }) => percUp * avgMax * count,
-        filterFn = () => true
+        scoreFn = ({ count, playouts: { onlyMax: { percUp, avgTrend }}}) =>
+            percUp * avgTrend * count,
+        filterFn = () => true,
+        includeAll = false,
+        includePlayout
     }) => {
-        const filtered = allRoundup
-            .filter(({ percUp }) => percUp > minPercUp)
-            .filter(filterFn);
-        const withScore = filtered.map(obj => ({
-            ...obj,
-            score: scoreFn(obj)
-        }));
+        const filtered = allRoundup.filter(filterFn);
+        const withScore = filtered.map(obj => {
+
+            const scoreOutput = scoreFn(obj);
+            let score;
+            if (Array.isArray(scoreOutput)) {
+                includePlayout = scoreOutput[1];
+                score = scoreOutput[0];
+            } else {
+                score = scoreOutput;
+            }
+
+            obj = {
+                ...obj,
+                score
+            };
+
+            // remove playouts from obj
+            if (includePlayout) {
+                return {
+                    ...obj,
+                    playouts: {
+                        [includePlayout]: obj.playouts[includePlayout]
+                    }
+                };
+            } else {
+                const { playouts, ...rest } = obj;
+                return rest;
+            }
+
+        });
+        console.log(withScore, 'withScore');
         const sorted = withScore.sort((a, b) => b.score - a.score);
-        return minPercUp === 0 ? sorted : sorted.slice(0, 15);
+        return includeAll ? sorted : sorted.slice(0, 15);
     };
 
     const maxCount = Math.max(...allRoundup.map(o => o.count));
     console.log(maxCount, 'maxCount');
 
+
+
+    const highestLimitSomething = playoutFn => ({
+        count,
+        playouts
+    }) => {
+        let max = Number.NEGATIVE_INFINITY;
+        let limitName;
+        Object.keys(playouts)
+            .filter(key => key.includes('limit'))
+            .forEach(key => {
+                const val = playoutFn(playouts[key], count);
+                if (val > max) {
+                    max = val;
+                    limitName = key;
+                }
+            });
+        return [max, limitName];    // returns the highest avgTrend limit
+    };
+
+    const lowCounts = ({ count }) => count <= maxCount / 2 && count >= 5;
+    const upperHalfCounts = ({ count }) => count > maxCount / 2;
+
     return {
         all: createBreakdown({
-            minPercUp: 0
+            includeAll: true,
+            includePlayout: 'onlyMax'
         }),
-        consistent: createBreakdown({
-            // top 3 quarters
-            filterFn: ({ count }) => count >= maxCount / 4,
-            scoreFn: ({ count, percUp }) => (100 + count) * percUp
+        // consistent: createBreakdown({
+        //     // top 3 quarters
+        //     filterFn: ({ count }) => count >= maxCount / 4,
+        //     scoreFn: ({ count, percUp }) => (100 + count) * percUp
+        // }),
+        // creme: createBreakdown({        // top third count
+        //     filterFn: ({ count }) => count > maxCount * 2 / 3,
+        // }),
+        // moderates: createBreakdown({
+        //     minPercUp: 0.90,
+        //     filterFn: ({ count }) =>    // middle third count
+        //         count <= maxCount * 2 / 3
+        //         && count > maxCount / 3,
+        //     // dont take count into consideration
+        //     scoreFn: ({ percUp, avgMax }) => percUp * avgMax
+        // }),
+        // occasionals: createBreakdown({  // bottom third count
+        //     filterFn: ({ count }) => count <= maxCount / 3
+        // }),
+
+        limit5hundredResult: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: ({
+                playouts: {
+                    limit5: { hundredResult }
+                }
+            }) => hundredResult,
+            includePlayout: 'limit5'
         }),
-        creme: createBreakdown({        // top third count
-            filterFn: ({ count }) => count > maxCount * 2 / 3,
+
+        limit5creme: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: ({
+                count,
+                playouts: {
+                    limit5: { percUp, avgTrend }
+                }
+            }) => count * (percUp * 3) * avgTrend,
+            includePlayout: 'limit5'
         }),
-        moderates: createBreakdown({
-            minPercUp: 0.90,
-            filterFn: ({ count }) =>    // middle third count
-                count <= maxCount * 2 / 3
-                && count > maxCount / 3,
-            // dont take count into consideration
-            scoreFn: ({ percUp, avgMax }) => percUp * avgMax
+
+        highestLimitPlayoutsAvgTrend: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(playout => playout.avgTrend)
         }),
-        occasionals: createBreakdown({  // bottom third count
-            filterFn: ({ count }) => count <= maxCount / 3
+
+        highestLimitPlayoutsPercUp: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(playout => playout.percUp)
         }),
+
+        highestLimitPlayoutsHundredResult: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(playout => playout.hundredResult)
+        }),
+
+        highestLimitPlayoutsPercUpCountAvg: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ percUp, avgTrend }, count) =>
+                count * (percUp * 3) * avgTrend
+            )
+        }),
+
+        highestLimitPlayoutsJohnsSecretRecipe: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }) =>
+                hundredResult * (2 * percUp) * avgTrend * (2 * percHitsPositive)
+            )
+        }),
+
+        highestLimitPlayoutsJohnsSecretRecipeWithCount: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                hundredResult * (2 * percUp) * avgTrend * (2 * percHitsPositive) * count
+            )
+        }),
+
+        highestLimitPlayoutsAvgTrend: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                hundredResult * (2 * percUp) * avgTrend * (2 * percHitsPositive) * count
+            )
+        }),
+
+        lowestLimitPlayoutsHundredResult: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                -1 * hundredResult
+            )
+        }),
+
+        lowestLimitPlayoutsHundredResultCount: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                -1 * hundredResult * count
+            )
+        }),
+
+        lowestLimitPlayoutsHundredResultPercUp: createBreakdown({
+            filterFn: upperHalfCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                -1 * hundredResult * percUp * count
+            )
+        }),
+
+        lowestLimitPlayoutsHundredResultLowCount: createBreakdown({
+            filterFn: lowCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                -1 * hundredResult
+            )
+        }),
+
+        lowestLimitPlayoutsHundredResultPercUpLowCount: createBreakdown({
+            filterFn: lowCounts,
+            scoreFn: highestLimitSomething(({ hundredResult, percUp, avgTrend, percHitsPositive }, count) =>
+                -1 * hundredResult * percUp
+            )
+        }),
+
     };
 
 };
