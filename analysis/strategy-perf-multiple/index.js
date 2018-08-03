@@ -33,6 +33,8 @@ module.exports = async (Robinhood, daysBack = 2, ...strategies) => {
         return strategyAnalysis;
     });
 
+    console.log('done analyzing strategies')
+
     return suppliedStrategies ? allRoundup : generateBreakdowns(allRoundup);
 
 };

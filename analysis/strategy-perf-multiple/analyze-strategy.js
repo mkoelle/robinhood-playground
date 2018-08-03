@@ -41,7 +41,7 @@ const analyzeStrategy = ({
         const breakdowns = keyOrder
             .map(k => obj.breakdowns[k])
             .filter(val => !!val);
-        console.log(obj.date, obj.picks, ':', breakdowns);
+        // console.log(obj.date, obj.picks, ':', breakdowns);
         return breakdowns;
     });
 
@@ -58,9 +58,7 @@ const analyzeStrategy = ({
 
         ...(detailed ? (() => {
 
-
-
-            console.log(breakdownsByDay, 'breakdownsByDay');
+            // console.log(breakdownsByDay, 'breakdownsByDay');
 
             const breakdownRoundup = withoutErrors.reduce((acc, obj) => {
                 const { breakdowns } = obj;
