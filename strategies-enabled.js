@@ -177,15 +177,40 @@ const keepAnEyeOn = [
 ];
 
 
+
+const aug2HighCounts = [
+    'low-float-high-volume-floatPoints-trend10to15-shouldWatchout-315',
+    'low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10-150',
+    'sudden-drops-last3trend-first2-388',
+    'based-on-jump-down3overnight-trending35257-notWatchout-gtneg20percmax-first1-30',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-276',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-tenTo15-6',
+    'constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15-250',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-384',
+    'low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-6',
+    'low-float-high-volume-twoWeekVolToAvgPoints-210',
+];
+
+const aug2LowCounts = [
+    'based-on-jump-fourToEightOvernight-notWatchout-ltneg50percmax-first3-tenTo15-30',
+    'based-on-jump-fourToEightOvernight-shouldWatchout-first3-fifteenTo20-30',
+    'dynamo-3000-top50tso-notWatchout-lowestTSO-fifteenTo20-200',
+    'dynamo-3000-bottom50tso-notWatchout-highestYP-fifteenTo20-260',
+    'low-float-high-volume-floatTimesvolToAvgPoints-trenddown5to7-notWatchout-fifteenTo20-315',
+    'based-on-jump-down5overnight-trending53-notWatchout-gtneg20percmax-16',
+    'dynamo-3000-top50tso-trendingUp3010-fifteenTo20-351',
+    'low-float-high-volume-floatPoints-trenddown3to10-shouldWatchout-fifteenTo20-276'
+];
+const august2 = [
+    ...aug2HighCounts,
+    ...aug2HighCounts,
+    ...aug2LowCounts
+];
+
+
 const forPurchase = [
-    // short sell / buy put option / sell call option:
-    // low-float-high-volume-volTo2WeekPoints-shouldWatchout-25
-    // constant-risers-10minute-percUpHighClose-highovernightjumps-198
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
-    'low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10-276',
-    'sudden-drops-last3trend-filter10-221',
-    ...occasionals,
-    ...moderates
+    '[myRecs-day1-hundredResultCreme]',
+    ...august2
 ];
 
 const cheapestPicksEmailObj = [
@@ -244,6 +269,11 @@ module.exports = {
         shorting,
         secondaryShorting,
         secondaryLowCountShorting,
-        allShorts
+        allShorts,
+
+
+        aug2HighCounts,
+        aug2LowCounts,
+        august2
     }
 };
