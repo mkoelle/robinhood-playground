@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRXC",
+      "price": 5.4
+    },
+    {
+      "ticker": "FTR",
+      "price": 5.57
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NYMT",
+      "price": 6.4336
+    },
+    {
+      "ticker": "OPK",
+      "price": 5.905
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NYMT",
+      "price": 6.48
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.76
+    }
+  ],
+  "200": [
+    {
+      "ticker": "DLHC",
+      "price": 5.74
+    },
+    {
+      "ticker": "NYMT",
+      "price": 6.455
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DLHC",
+      "price": 5.74
+    },
+    {
+      "ticker": "NIHD",
+      "price": 6.435
+    }
+  ],
+  "351": [
+    {
+      "ticker": "DLHC",
+      "price": 5.73
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DLHC",
+      "price": 5.73
+    },
+    {
+      "ticker": "INSE",
+      "price": 6.9
+    }
+  ]
+}

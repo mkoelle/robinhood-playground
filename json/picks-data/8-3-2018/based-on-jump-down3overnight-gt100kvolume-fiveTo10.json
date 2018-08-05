@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMMR",
+      "price": 10.26
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MFA",
+      "price": 7.69
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MFA",
+      "price": 7.725
+    },
+    {
+      "ticker": "NE",
+      "price": 6.065
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UXIN",
+      "price": 6.85
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.715
+    },
+    {
+      "ticker": "NE",
+      "price": 6.09
+    }
+  ]
+}

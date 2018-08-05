@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CVIA",
+      "price": 17.86
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.8001
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TROX",
+      "price": 17.23
+    },
+    {
+      "ticker": "NGVC",
+      "price": 16.47
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SXCP",
+      "price": 16.6101
+    },
+    {
+      "ticker": "NGVC",
+      "price": 17.69
+    }
+  ],
+  "200": [
+    {
+      "ticker": "USAG",
+      "price": 16.17
+    },
+    {
+      "ticker": "NGVC",
+      "price": 17.39
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TMHC",
+      "price": 19.54
+    },
+    {
+      "ticker": "NGVC",
+      "price": 17.16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SOYB",
+      "price": 16.6929
+    },
+    {
+      "ticker": "NGVC",
+      "price": 17.265
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MSON",
+      "price": 17.05
+    },
+    {
+      "ticker": "NGVC",
+      "price": 17.25
+    }
+  ]
+}

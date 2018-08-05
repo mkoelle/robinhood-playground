@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IMMR",
+      "price": 10.26
+    },
+    {
+      "ticker": "MCRB",
+      "price": 6.98
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDFS",
+      "price": 9.99
+    },
+    {
+      "ticker": "MCRB",
+      "price": 7.2
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MCRB",
+      "price": 7.2
+    },
+    {
+      "ticker": "TSRI",
+      "price": 7
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MCRB",
+      "price": 7.32
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.962
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "INAP",
+      "price": 13.09
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.24
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INAP",
+      "price": 12.94
+    },
+    {
+      "ticker": "FRAC",
+      "price": 14.1638
+    }
+  ],
+  "100": [
+    {
+      "ticker": "INAP",
+      "price": 13.12
+    },
+    {
+      "ticker": "EARN",
+      "price": 11.4401
+    }
+  ],
+  "200": [
+    {
+      "ticker": "INAP",
+      "price": 13.1
+    },
+    {
+      "ticker": "EARN",
+      "price": 11.44
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CSPI",
+      "price": 11.0989
+    },
+    {
+      "ticker": "INAP",
+      "price": 13.19
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CSPI",
+      "price": 11.0989
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.65
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CSPI",
+      "price": 11.0989
+    },
+    {
+      "ticker": "RNET",
+      "price": 12.6
+    }
+  ]
+}

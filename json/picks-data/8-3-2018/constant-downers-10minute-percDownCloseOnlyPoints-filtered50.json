@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "GBR",
+      "price": 2.47
+    },
+    {
+      "ticker": "ALRN",
+      "price": 3.01
+    },
+    {
+      "ticker": "ALIM",
+      "price": 0.88
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SYN",
+      "price": 0.125
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3268
+    },
+    {
+      "ticker": "FBIO",
+      "price": 2.06
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FBIO",
+      "price": 1.97
+    },
+    {
+      "ticker": "GNPX",
+      "price": 2.93
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1258
+    }
+  ]
+}

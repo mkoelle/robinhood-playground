@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "GPRO",
+      "price": 6.5
+    },
+    {
+      "ticker": "NICK",
+      "price": 9.67
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPRO",
+      "price": 6.59
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPRO",
+      "price": 6.65
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.548
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPRO",
+      "price": 6.9241
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4952
+    }
+  ]
+}

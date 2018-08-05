@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "MFGP",
+      "price": 16.1301
+    },
+    {
+      "ticker": "APLS",
+      "price": 17.42
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MFGP",
+      "price": 16.13
+    },
+    {
+      "ticker": "VSTO",
+      "price": 16.33
+    },
+    {
+      "ticker": "APLS",
+      "price": 17.11
+    }
+  ],
+  "16": [
+    {
+      "ticker": "MFGP",
+      "price": 16.07
+    },
+    {
+      "ticker": "VSTO",
+      "price": 16.18
+    },
+    {
+      "ticker": "APLS",
+      "price": 17.17
+    }
+  ],
+  "30": [
+    {
+      "ticker": "MFGP",
+      "price": 16.06
+    },
+    {
+      "ticker": "VSTO",
+      "price": 16.05
+    },
+    {
+      "ticker": "APLS",
+      "price": 16.865
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IMOS",
+      "price": 14.87
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.23
+    }
+  ],
+  "40": [
+    {
+      "ticker": "USAT",
+      "price": 14.6
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.22
+    }
+  ],
+  "100": [
+    {
+      "ticker": "USAT",
+      "price": 14.6
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.125
+    }
+  ],
+  "200": [
+    {
+      "ticker": "QNST",
+      "price": 14.07
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.5
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HCLP",
+      "price": 13.467
+    },
+    {
+      "ticker": "ECA",
+      "price": 13.74
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HCLP",
+      "price": 13.25
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HCLP",
+      "price": 13.25
+    },
+    {
+      "ticker": "JAG",
+      "price": 13.745
+    }
+  ]
+}

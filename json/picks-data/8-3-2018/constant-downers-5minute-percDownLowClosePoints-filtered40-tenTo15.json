@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "LFGR",
+      "price": 10.85
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.34
+    },
+    {
+      "ticker": "GENC",
+      "price": 12.8
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EVLO",
+      "price": 12.77
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.17
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.71
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ABCD",
+      "price": 11.95
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.68
+    },
+    {
+      "ticker": "CYOU",
+      "price": 13.85
+    }
+  ]
+}

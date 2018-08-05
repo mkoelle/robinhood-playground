@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "VRAY",
+      "price": 11.32
+    },
+    {
+      "ticker": "VECO",
+      "price": 11.175
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CSSE",
+      "price": 10.28
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.48
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 14.6
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.2
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ALNA",
+      "price": 10.2
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.265
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ALNA",
+      "price": 10.29
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.467
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TORC",
+      "price": 12.46
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 12.3
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.25
+    }
+  ]
+}

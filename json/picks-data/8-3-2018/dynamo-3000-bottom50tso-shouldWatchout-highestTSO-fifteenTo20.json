@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "EGOV",
+      "price": 16.5
+    },
+    {
+      "ticker": "RUSS",
+      "price": 18.565
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EGOV",
+      "price": 16.45
+    },
+    {
+      "ticker": "TGH",
+      "price": 15.95
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MGNX",
+      "price": 19.02
+    },
+    {
+      "ticker": "PAR",
+      "price": 18.66
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FIXX",
+      "price": 17.295
+    },
+    {
+      "ticker": "MGNX",
+      "price": 18.935
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HZO",
+      "price": 18.75
+    },
+    {
+      "ticker": "FIXX",
+      "price": 17.255
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SRRK",
+      "price": 15.32
+    },
+    {
+      "ticker": "PAR",
+      "price": 18.705
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SRRK",
+      "price": 15.32
+    },
+    {
+      "ticker": "PAR",
+      "price": 18.745
+    }
+  ]
+}

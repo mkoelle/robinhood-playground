@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ESND",
+      "price": 16.28
+    },
+    {
+      "ticker": "HRTG",
+      "price": 15.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BLFS",
+      "price": 18.7
+    },
+    {
+      "ticker": "EGOV",
+      "price": 16.45
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PAR",
+      "price": 18.66
+    },
+    {
+      "ticker": "BLFS",
+      "price": 18.61
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PAR",
+      "price": 18.615
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.3744
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PAR",
+      "price": 18.655
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.3999
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PAR",
+      "price": 18.705
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.5444
+    }
+  ],
+  "381": [
+    {
+      "ticker": "PAR",
+      "price": 18.745
+    },
+    {
+      "ticker": "GTXI",
+      "price": 16.53
+    }
+  ]
+}

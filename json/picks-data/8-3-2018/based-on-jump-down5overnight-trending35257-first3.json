@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PACB",
+      "price": 3.42
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PACB",
+      "price": 3.575
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.431
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PACB",
+      "price": 3.57
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PACB",
+      "price": 3.625
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.66
+    }
+  ]
+}

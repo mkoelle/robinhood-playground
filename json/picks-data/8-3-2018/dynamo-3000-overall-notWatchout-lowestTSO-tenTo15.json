@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 10.45
+    },
+    {
+      "ticker": "USX",
+      "price": 13.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 10.2724
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.36
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 10.15
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.305
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 10.06
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.25
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTSO",
+      "price": 11.8
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTSO",
+      "price": 11.7
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.59
+    }
+  ]
+}

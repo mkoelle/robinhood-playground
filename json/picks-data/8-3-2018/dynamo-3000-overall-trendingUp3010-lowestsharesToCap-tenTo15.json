@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HABT",
+      "price": 15
+    },
+    {
+      "ticker": "SFL",
+      "price": 14.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HABT",
+      "price": 14.9
+    },
+    {
+      "ticker": "SFL",
+      "price": 14.825
+    }
+  ],
+  "100": [
+    {
+      "ticker": "HABT",
+      "price": 14.4
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "HABT",
+      "price": 14.4
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.7666
+    }
+  ],
+  "260": [
+    {
+      "ticker": "HABT",
+      "price": 14.35
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.8
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HABT",
+      "price": 14.6
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.77
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HABT",
+      "price": 14.7
+    },
+    {
+      "ticker": "WTTR",
+      "price": 14.86
+    }
+  ]
+}

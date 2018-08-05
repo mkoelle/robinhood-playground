@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PXLW",
+      "price": 3.87
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1155
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ARC",
+      "price": 3.04
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.1
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ARC",
+      "price": 2.78
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.2415
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 3.9517
+    },
+    {
+      "ticker": "ARC",
+      "price": 2.78
+    }
+  ]
+}

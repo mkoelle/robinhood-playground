@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.67
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.99
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.72
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.35
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "IMH",
+      "price": 8.72
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    }
+  ]
+}

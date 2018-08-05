@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PIXY",
+      "price": 3.07
+    },
+    {
+      "ticker": "CASM",
+      "price": 2.25
+    },
+    {
+      "ticker": "IVTY",
+      "price": 4.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PIXY",
+      "price": 3.03
+    },
+    {
+      "ticker": "CASM",
+      "price": 2.2516
+    },
+    {
+      "ticker": "IVTY",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PIXY",
+      "price": 2.9735
+    },
+    {
+      "ticker": "BHTG",
+      "price": 3.75
+    },
+    {
+      "ticker": "CASM",
+      "price": 2.2799
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PIXY",
+      "price": 2.9877
+    },
+    {
+      "ticker": "BHTG",
+      "price": 3.749
+    },
+    {
+      "ticker": "UTI",
+      "price": 3.32
+    }
+  ]
+}

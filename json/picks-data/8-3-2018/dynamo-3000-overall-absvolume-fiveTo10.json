@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CMTA",
+      "price": 9.65
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.7015
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TWI",
+      "price": 8.61
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.54
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TWI",
+      "price": 7.99
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWI",
+      "price": 6.94
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.55
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TWI",
+      "price": 7.005
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TWI",
+      "price": 7.27
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TWI",
+      "price": 7.15
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.73
+    }
+  ]
+}

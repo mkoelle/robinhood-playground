@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ASPN",
+      "price": 4.4499
+    },
+    {
+      "ticker": "OCSL",
+      "price": 4.97
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCSL",
+      "price": 4.97
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ASPN",
+      "price": 4.53
+    },
+    {
+      "ticker": "OCSL",
+      "price": 4.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ASPN",
+      "price": 4.6
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.9764
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASPN",
+      "price": 4.6999
+    },
+    {
+      "ticker": "OCSL",
+      "price": 4.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ASPN",
+      "price": 4.7307
+    },
+    {
+      "ticker": "MOBL",
+      "price": 4.975
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ASPN",
+      "price": 4.7
+    },
+    {
+      "ticker": "TRIL",
+      "price": 4.8258
+    }
+  ]
+}

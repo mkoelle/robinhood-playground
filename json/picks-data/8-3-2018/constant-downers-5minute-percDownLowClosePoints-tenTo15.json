@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "ABUS",
+      "price": 10.275
+    },
+    {
+      "ticker": "VRAY",
+      "price": 10.99
+    },
+    {
+      "ticker": "KTOS",
+      "price": 12.25
+    }
+  ],
+  "242": [
+    {
+      "ticker": "RUN",
+      "price": 13.6
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.35
+    },
+    {
+      "ticker": "HCLP",
+      "price": 13.5
+    }
+  ],
+  "309": [
+    {
+      "ticker": "HCLP",
+      "price": 13.375
+    },
+    {
+      "ticker": "TORC",
+      "price": 12.6
+    },
+    {
+      "ticker": "VRAY",
+      "price": 11.26
+    }
+  ]
+}

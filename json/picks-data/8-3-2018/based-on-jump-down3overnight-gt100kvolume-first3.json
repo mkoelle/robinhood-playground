@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GRPN",
+      "price": 4.35
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GRPN",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PACB",
+      "price": 3.57
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.34
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.6695
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PACB",
+      "price": 3.625
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.545
+    },
+    {
+      "ticker": "LUNA",
+      "price": 3.7
+    }
+  ]
+}

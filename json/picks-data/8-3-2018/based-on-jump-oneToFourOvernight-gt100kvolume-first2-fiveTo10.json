@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "BBD",
+      "price": 8.45
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.5
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BBD",
+      "price": 8.425
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.59
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BBD",
+      "price": 8.4455
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.65
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BBD",
+      "price": 8.51
+    },
+    {
+      "ticker": "GPRO",
+      "price": 6.9241
+    }
+  ]
+}

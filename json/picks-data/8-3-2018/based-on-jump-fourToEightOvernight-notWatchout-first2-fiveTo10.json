@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NERV",
+      "price": 8.25
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.18
+    }
+  ],
+  "5": [
+    {
+      "ticker": "NERV",
+      "price": 8.25
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.365
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NERV",
+      "price": 8.3
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.53
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NERV",
+      "price": 8.175
+    },
+    {
+      "ticker": "ERII",
+      "price": 8.43
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CSSE",
+      "price": 10.34
+    },
+    {
+      "ticker": "GENC",
+      "price": 12.8
+    },
+    {
+      "ticker": "ALNA",
+      "price": 10.65
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ALNA",
+      "price": 10.24
+    },
+    {
+      "ticker": "SBPH",
+      "price": 13.52
+    },
+    {
+      "ticker": "GENC",
+      "price": 12.6
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EVLO",
+      "price": 12.68
+    },
+    {
+      "ticker": "ALNA",
+      "price": 10.219
+    },
+    {
+      "ticker": "FBM",
+      "price": 13.28
+    }
+  ]
+}

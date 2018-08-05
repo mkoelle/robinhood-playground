@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "REPL",
+      "price": 15.76
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.8997
+    },
+    {
+      "ticker": "SRRK",
+      "price": 15.4725
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ORM",
+      "price": 16.86
+    },
+    {
+      "ticker": "OOMA",
+      "price": 15.95
+    },
+    {
+      "ticker": "SMHD",
+      "price": 18.99
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ORM",
+      "price": 16.69
+    },
+    {
+      "ticker": "SBFG",
+      "price": 19.425
+    },
+    {
+      "ticker": "OOMA",
+      "price": 15.8
+    }
+  ]
+}

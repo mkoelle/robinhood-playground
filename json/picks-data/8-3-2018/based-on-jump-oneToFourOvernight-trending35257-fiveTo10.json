@@ -1,0 +1,78 @@
+{
+  "0": [
+    {
+      "ticker": "RELV",
+      "price": 5.25
+    },
+    {
+      "ticker": "CLAR",
+      "price": 9.05
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.94
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.25
+    },
+    {
+      "ticker": "CLAR",
+      "price": 9.05
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.8165
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.1136
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.548
+    },
+    {
+      "ticker": "DLNG",
+      "price": 9.0281
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.1136
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4952
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.78
+    }
+  ]
+}

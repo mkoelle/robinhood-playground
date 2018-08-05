@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "IHT",
+      "price": 1.4382
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.36
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IHT",
+      "price": 1.461
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.431
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IHT",
+      "price": 1.46
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IHT",
+      "price": 1.4453
+    },
+    {
+      "ticker": "JASN",
+      "price": 2.66
+    }
+  ]
+}

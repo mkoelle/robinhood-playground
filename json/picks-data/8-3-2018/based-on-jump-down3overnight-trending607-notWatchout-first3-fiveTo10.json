@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "FLDM",
+      "price": 5.75
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.69
+    },
+    {
+      "ticker": "NE",
+      "price": 5.676
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FLDM",
+      "price": 5.75
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.69
+    },
+    {
+      "ticker": "NE",
+      "price": 5.82
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FLDM",
+      "price": 6.59
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.725
+    },
+    {
+      "ticker": "NE",
+      "price": 6.065
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FLDM",
+      "price": 6.39
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.715
+    },
+    {
+      "ticker": "NE",
+      "price": 6.09
+    }
+  ]
+}

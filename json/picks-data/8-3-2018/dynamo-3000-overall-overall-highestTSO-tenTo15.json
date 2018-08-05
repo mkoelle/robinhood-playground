@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WATT",
+      "price": 13.05
+    },
+    {
+      "ticker": "INAP",
+      "price": 13.09
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WAIR",
+      "price": 13.105
+    },
+    {
+      "ticker": "WATT",
+      "price": 13.8365
+    }
+  ],
+  "100": [
+    {
+      "ticker": "WATT",
+      "price": 13.9336
+    },
+    {
+      "ticker": "FTSI",
+      "price": 12.835
+    }
+  ],
+  "200": [
+    {
+      "ticker": "WATT",
+      "price": 13.995
+    },
+    {
+      "ticker": "FTSI",
+      "price": 13.24
+    }
+  ],
+  "260": [
+    {
+      "ticker": "WATT",
+      "price": 13.91
+    },
+    {
+      "ticker": "WAIR",
+      "price": 13.5
+    }
+  ],
+  "351": [
+    {
+      "ticker": "WATT",
+      "price": 13.74
+    },
+    {
+      "ticker": "WAIR",
+      "price": 13.425
+    }
+  ],
+  "381": [
+    {
+      "ticker": "WATT",
+      "price": 13.8699
+    },
+    {
+      "ticker": "ESCA",
+      "price": 13.25
+    }
+  ]
+}

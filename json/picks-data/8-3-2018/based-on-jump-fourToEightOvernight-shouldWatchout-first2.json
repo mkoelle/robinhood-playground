@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SYN",
+      "price": 0.1361
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.7
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVC",
+      "price": 4.75
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1355
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVC",
+      "price": 4.8735
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.42
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVC",
+      "price": 4.75
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1338
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "AMRN",
+      "price": 2.65
+    },
+    {
+      "ticker": "GSS",
+      "price": 0.72
+    }
+  ],
+  "40": [
+    {
+      "ticker": "PME",
+      "price": 2.58
+    },
+    {
+      "ticker": "MPVD",
+      "price": 2.25
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TA",
+      "price": 4.4
+    },
+    {
+      "ticker": "SMTX",
+      "price": 2.53
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CCM",
+      "price": 3.5571
+    },
+    {
+      "ticker": "ECR",
+      "price": 1.61
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDPI",
+      "price": 1.7928
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.53
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CFRX",
+      "price": 1.9
+    },
+    {
+      "ticker": "APT",
+      "price": 3.4
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RAVE",
+      "price": 1.4
+    },
+    {
+      "ticker": "PTX",
+      "price": 1.96
+    }
+  ]
+}

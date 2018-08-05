@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "HMNY",
+      "price": 0.1155
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PXLW",
+      "price": 4.1
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1249
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PXLW",
+      "price": 4.2415
+    },
+    {
+      "ticker": "HMNY",
+      "price": 0.1177
+    }
+  ],
+  "30": [
+    {
+      "ticker": "WMLP",
+      "price": 3.9517
+    },
+    {
+      "ticker": "PXLW",
+      "price": 4.38
+    }
+  ]
+}

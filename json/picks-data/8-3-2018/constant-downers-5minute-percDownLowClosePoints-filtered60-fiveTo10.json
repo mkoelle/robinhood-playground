@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "MCF",
+      "price": 5.32
+    },
+    {
+      "ticker": "SPKE",
+      "price": 8.3
+    },
+    {
+      "ticker": "SRNE",
+      "price": 5.15
+    }
+  ],
+  "242": [
+    {
+      "ticker": "MCF",
+      "price": 5.08
+    },
+    {
+      "ticker": "SRNE",
+      "price": 5.075
+    },
+    {
+      "ticker": "BBX",
+      "price": 8.525
+    }
+  ],
+  "309": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.68
+    },
+    {
+      "ticker": "BBX",
+      "price": 8.47
+    },
+    {
+      "ticker": "ADRO",
+      "price": 5.45
+    }
+  ]
+}

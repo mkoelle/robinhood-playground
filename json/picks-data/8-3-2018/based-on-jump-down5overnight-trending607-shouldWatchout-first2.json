@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PACB",
+      "price": 3.42
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.29
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PACB",
+      "price": 3.575
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.29
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PACB",
+      "price": 3.57
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PACB",
+      "price": 3.625
+    },
+    {
+      "ticker": "LBIX",
+      "price": 1.25
+    }
+  ]
+}

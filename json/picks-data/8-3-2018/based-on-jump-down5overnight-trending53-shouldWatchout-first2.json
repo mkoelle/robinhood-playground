@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PACB",
+      "price": 3.42
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.4382
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PACB",
+      "price": 3.575
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.461
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PACB",
+      "price": 3.57
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.46
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PACB",
+      "price": 3.625
+    },
+    {
+      "ticker": "IHT",
+      "price": 1.4453
+    }
+  ]
+}

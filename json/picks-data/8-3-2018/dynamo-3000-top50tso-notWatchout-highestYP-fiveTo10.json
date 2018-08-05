@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CERS",
+      "price": 7.99
+    },
+    {
+      "ticker": "LONE",
+      "price": 9.18
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WTI",
+      "price": 7.265
+    },
+    {
+      "ticker": "ORN",
+      "price": 9.38
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ORN",
+      "price": 9.325
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.54
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FLDM",
+      "price": 6.55
+    },
+    {
+      "ticker": "NE",
+      "price": 5.86
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CAMT",
+      "price": 8.66
+    },
+    {
+      "ticker": "ORN",
+      "price": 9.3484
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ORN",
+      "price": 9.405
+    },
+    {
+      "ticker": "FLDM",
+      "price": 6.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FLDM",
+      "price": 6.73
+    },
+    {
+      "ticker": "CELP",
+      "price": 8.19
+    }
+  ]
+}

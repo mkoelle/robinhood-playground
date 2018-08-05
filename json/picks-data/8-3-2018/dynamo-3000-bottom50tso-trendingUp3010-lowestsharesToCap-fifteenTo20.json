@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WU",
+      "price": 19.44
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "WU",
+      "price": 19.4
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.3675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SEM",
+      "price": 19.55
+    },
+    {
+      "ticker": "MDR",
+      "price": 19.78
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MDR",
+      "price": 19.765
+    },
+    {
+      "ticker": "TVPT",
+      "price": 17.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MDR",
+      "price": 19.785
+    },
+    {
+      "ticker": "TVPT",
+      "price": 17.945
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MDR",
+      "price": 19.835
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.42
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MDR",
+      "price": 19.77
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.28
+    }
+  ]
+}

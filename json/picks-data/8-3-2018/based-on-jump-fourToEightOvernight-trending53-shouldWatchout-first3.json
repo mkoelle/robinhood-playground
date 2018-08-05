@@ -1,0 +1,50 @@
+{
+  "0": [
+    {
+      "ticker": "JONE",
+      "price": 0.3255
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "JONE",
+      "price": 0.3299
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.941
+    }
+  ],
+  "16": [
+    {
+      "ticker": "JONE",
+      "price": 0.3143
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.11
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.145
+    }
+  ],
+  "30": [
+    {
+      "ticker": "JONE",
+      "price": 0.3299
+    },
+    {
+      "ticker": "TGC",
+      "price": 1.0922
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.03
+    }
+  ]
+}

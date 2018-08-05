@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "RELV",
+      "price": 5.25
+    },
+    {
+      "ticker": "AKAO",
+      "price": 7.08
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TPIV",
+      "price": 7.89
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.25
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TPIV",
+      "price": 7.889
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.1136
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TPIV",
+      "price": 7.8939
+    },
+    {
+      "ticker": "RELV",
+      "price": 5.1136
+    }
+  ]
+}

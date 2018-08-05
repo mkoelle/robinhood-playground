@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ZFGN",
+      "price": 10.13
+    },
+    {
+      "ticker": "CBIO",
+      "price": 10.43
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTAI",
+      "price": 10.7
+    },
+    {
+      "ticker": "CSSE",
+      "price": 10.28
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLMD",
+      "price": 13.35
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.21
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLMD",
+      "price": 13.3
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYRS",
+      "price": 10.24
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.23
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLMD",
+      "price": 13.3672
+    },
+    {
+      "ticker": "VKTX",
+      "price": 10.23
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLMD",
+      "price": 13.35
+    },
+    {
+      "ticker": "SYRS",
+      "price": 10.18
+    }
+  ]
+}

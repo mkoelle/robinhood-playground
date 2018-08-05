@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    },
+    {
+      "ticker": "USX",
+      "price": 13.325
+    },
+    {
+      "ticker": "CTSO",
+      "price": 13.05
+    },
+    {
+      "ticker": "SE",
+      "price": 14.7836
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "USX",
+      "price": 13.59
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "USX",
+      "price": 13.5
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.551
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    },
+    {
+      "ticker": "USX",
+      "price": 13.47
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.749
+    },
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.5
+    }
+  ]
+}

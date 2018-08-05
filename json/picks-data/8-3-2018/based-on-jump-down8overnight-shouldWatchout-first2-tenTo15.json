@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PDFS",
+      "price": 9.95
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.34
+    }
+  ],
+  "5": [
+    {
+      "ticker": "IMMR",
+      "price": 11.39
+    },
+    {
+      "ticker": "BRS",
+      "price": 12.08
+    }
+  ],
+  "16": [
+    {
+      "ticker": "IMMR",
+      "price": 10.75
+    },
+    {
+      "ticker": "PDFS",
+      "price": 10
+    }
+  ],
+  "30": [
+    {
+      "ticker": "IMMR",
+      "price": 10.85
+    },
+    {
+      "ticker": "PDFS",
+      "price": 10.21
+    }
+  ]
+}

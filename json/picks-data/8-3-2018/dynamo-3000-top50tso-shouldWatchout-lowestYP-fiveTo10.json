@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NETE",
+      "price": 7.11
+    },
+    {
+      "ticker": "BAS",
+      "price": 7.6493
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RIOT",
+      "price": 7.06
+    },
+    {
+      "ticker": "HZN",
+      "price": 6.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIOT",
+      "price": 6.92
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.29
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIOT",
+      "price": 6.89
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "RIOT",
+      "price": 6.9599
+    },
+    {
+      "ticker": "RDVT",
+      "price": 7.509
+    }
+  ],
+  "351": [
+    {
+      "ticker": "RDVT",
+      "price": 7.5178
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.33
+    }
+  ],
+  "381": [
+    {
+      "ticker": "RDVT",
+      "price": 7.55
+    },
+    {
+      "ticker": "JNCE",
+      "price": 7.2
+    }
+  ]
+}

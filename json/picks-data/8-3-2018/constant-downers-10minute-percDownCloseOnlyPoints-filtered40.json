@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "RAVE",
+      "price": 1.42
+    },
+    {
+      "ticker": "PTIE",
+      "price": 2.32
+    },
+    {
+      "ticker": "ALT",
+      "price": 0.3349
+    }
+  ],
+  "242": [
+    {
+      "ticker": "ALT",
+      "price": 0.3268
+    },
+    {
+      "ticker": "FBIO",
+      "price": 2.06
+    },
+    {
+      "ticker": "PAVM",
+      "price": 1.47
+    }
+  ],
+  "309": [
+    {
+      "ticker": "FBIO",
+      "price": 1.97
+    },
+    {
+      "ticker": "GNPX",
+      "price": 2.93
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1258
+    }
+  ]
+}

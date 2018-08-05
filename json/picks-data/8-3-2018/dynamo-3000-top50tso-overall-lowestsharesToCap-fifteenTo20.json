@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MRUS",
+      "price": 19.8001
+    },
+    {
+      "ticker": "SZC",
+      "price": 19.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "MRUS",
+      "price": 19.78
+    },
+    {
+      "ticker": "HASI",
+      "price": 19.995
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MRUS",
+      "price": 19.56
+    },
+    {
+      "ticker": "FUNC",
+      "price": 19.65
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SYMC",
+      "price": 18.64
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.23
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SYMC",
+      "price": 19.13
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.43
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SYMC",
+      "price": 18.975
+    },
+    {
+      "ticker": "MRUS",
+      "price": 19.73
+    }
+  ],
+  "381": [
+    {
+      "ticker": "SYMC",
+      "price": 19.125
+    },
+    {
+      "ticker": "MRUS",
+      "price": 20.41
+    }
+  ]
+}

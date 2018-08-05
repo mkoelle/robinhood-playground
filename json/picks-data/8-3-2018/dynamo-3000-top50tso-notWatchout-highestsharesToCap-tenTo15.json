@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.6
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.49
+    }
+  ],
+  "100": [
+    {
+      "ticker": "AQN",
+      "price": 10.12
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.605
+    }
+  ],
+  "200": [
+    {
+      "ticker": "AQN",
+      "price": 10.11
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.5204
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NTRP",
+      "price": 10.21
+    },
+    {
+      "ticker": "SHSP",
+      "price": 10.59
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SHSP",
+      "price": 10.6
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NTRP",
+      "price": 10.21
+    },
+    {
+      "ticker": "IKNX",
+      "price": 10.3
+    }
+  ]
+}

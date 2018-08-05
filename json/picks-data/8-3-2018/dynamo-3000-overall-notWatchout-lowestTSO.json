@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ALIM",
+      "price": 0.84
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.5205
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTX",
+      "price": 2.34
+    },
+    {
+      "ticker": "ONCY",
+      "price": 4.46
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4824
+    },
+    {
+      "ticker": "PTX",
+      "price": 1.96
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4854
+    },
+    {
+      "ticker": "BTX",
+      "price": 2.34
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4891
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.49
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FBIO",
+      "price": 1.8801
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.479
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GSAT",
+      "price": 0.4751
+    },
+    {
+      "ticker": "FBIO",
+      "price": 1.9
+    }
+  ]
+}

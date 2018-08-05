@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "HQCL",
+      "price": 8.36
+    },
+    {
+      "ticker": "INTT",
+      "price": 8.2
+    }
+  ],
+  "5": [
+    {
+      "ticker": "HQCL",
+      "price": 8.29
+    },
+    {
+      "ticker": "INTT",
+      "price": 8
+    }
+  ],
+  "16": [
+    {
+      "ticker": "HQCL",
+      "price": 8.16
+    },
+    {
+      "ticker": "INTT",
+      "price": 8.0334
+    }
+  ],
+  "30": [
+    {
+      "ticker": "HQCL",
+      "price": 8.15
+    },
+    {
+      "ticker": "INTT",
+      "price": 8.0286
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 3.11
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.04
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 3.0787
+    },
+    {
+      "ticker": "SENS",
+      "price": 4.029
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.0398
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UUUU",
+      "price": 3.1013
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.99
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.0398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UUUU",
+      "price": 3.1868
+    },
+    {
+      "ticker": "SENS",
+      "price": 3.99
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.02
+    }
+  ]
+}

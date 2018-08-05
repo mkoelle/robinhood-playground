@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "CTSO",
+      "price": 13.05
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.73
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.71
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTSO",
+      "price": 12.749
+    },
+    {
+      "ticker": "AMRK",
+      "price": 13.71
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "WMLP",
+      "price": 5.02
+    },
+    {
+      "ticker": "OCC",
+      "price": 4
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NFEC",
+      "price": 4.82
+    },
+    {
+      "ticker": "OCC",
+      "price": 4
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIBT",
+      "price": 2.5
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NFEC",
+      "price": 4.84
+    },
+    {
+      "ticker": "UAMY",
+      "price": 0.5901
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UAMY",
+      "price": 0.6332
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.8475
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UAMY",
+      "price": 0.645
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.8153
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UAMY",
+      "price": 0.64
+    },
+    {
+      "ticker": "NFEC",
+      "price": 4.7906
+    }
+  ]
+}

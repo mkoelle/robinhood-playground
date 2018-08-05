@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSYS",
+      "price": 4.4618
+    },
+    {
+      "ticker": "PKD",
+      "price": 4.1599
+    }
+  ],
+  "40": [
+    {
+      "ticker": "INNT",
+      "price": 4.72
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.065
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NAKD",
+      "price": 4.3092
+    },
+    {
+      "ticker": "HOS",
+      "price": 4.05
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NAKD",
+      "price": 4.289
+    },
+    {
+      "ticker": "NSYS",
+      "price": 4.3
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NAKD",
+      "price": 4.2182
+    },
+    {
+      "ticker": "NSYS",
+      "price": 4.2039
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NSYS",
+      "price": 4.2001
+    },
+    {
+      "ticker": "PKD",
+      "price": 3.8373
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NAKD",
+      "price": 4.1805
+    },
+    {
+      "ticker": "NSYS",
+      "price": 4.25
+    }
+  ]
+}

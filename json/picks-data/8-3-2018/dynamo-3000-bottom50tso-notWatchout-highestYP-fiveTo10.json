@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CAMT",
+      "price": 8.4
+    },
+    {
+      "ticker": "HLIT",
+      "price": 5.2
+    }
+  ],
+  "40": [
+    {
+      "ticker": "CERS",
+      "price": 7.64
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.1
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CERS",
+      "price": 7.42
+    },
+    {
+      "ticker": "RCM",
+      "price": 8.63
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CERS",
+      "price": 7.24
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.05
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CERS",
+      "price": 7.21
+    },
+    {
+      "ticker": "ADMA",
+      "price": 6.05
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CERS",
+      "price": 7.1162
+    },
+    {
+      "ticker": "ABUS",
+      "price": 9.925
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CERS",
+      "price": 7.02
+    },
+    {
+      "ticker": "SIGA",
+      "price": 7.08
+    }
+  ]
+}

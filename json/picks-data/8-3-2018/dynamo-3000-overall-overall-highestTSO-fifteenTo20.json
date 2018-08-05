@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "MRUS",
+      "price": 19.8001
+    },
+    {
+      "ticker": "BLDR",
+      "price": 17.7
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NGVC",
+      "price": 16.47
+    },
+    {
+      "ticker": "EOLS",
+      "price": 19.7927
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NGVC",
+      "price": 17.69
+    },
+    {
+      "ticker": "EOLS",
+      "price": 19.83
+    }
+  ],
+  "200": [
+    {
+      "ticker": "NGVC",
+      "price": 17.39
+    },
+    {
+      "ticker": "UMRX",
+      "price": 15.6
+    }
+  ],
+  "260": [
+    {
+      "ticker": "NGVC",
+      "price": 17.16
+    },
+    {
+      "ticker": "UMRX",
+      "price": 16
+    }
+  ],
+  "351": [
+    {
+      "ticker": "NGVC",
+      "price": 17.265
+    },
+    {
+      "ticker": "UMRX",
+      "price": 16.1699
+    }
+  ],
+  "381": [
+    {
+      "ticker": "NGVC",
+      "price": 17.25
+    },
+    {
+      "ticker": "XERS",
+      "price": 18.455
+    }
+  ]
+}

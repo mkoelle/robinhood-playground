@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "PACB",
+      "price": 3.42
+    },
+    {
+      "ticker": "OBLN",
+      "price": 1.52
+    },
+    {
+      "ticker": "XGTI",
+      "price": 0.602
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PACB",
+      "price": 3.575
+    },
+    {
+      "ticker": "OBLN",
+      "price": 1.51
+    },
+    {
+      "ticker": "XGTI",
+      "price": 0.58
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PACB",
+      "price": 3.57
+    },
+    {
+      "ticker": "OBLN",
+      "price": 1.49
+    },
+    {
+      "ticker": "XGTI",
+      "price": 0.609
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PACB",
+      "price": 3.625
+    },
+    {
+      "ticker": "OBLN",
+      "price": 1.58
+    },
+    {
+      "ticker": "XGTI",
+      "price": 0.607
+    }
+  ]
+}

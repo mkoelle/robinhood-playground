@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HABT",
+      "price": 15
+    },
+    {
+      "ticker": "QNST",
+      "price": 14.649
+    }
+  ],
+  "40": [
+    {
+      "ticker": "HRTG",
+      "price": 14.7425
+    },
+    {
+      "ticker": "ARWR",
+      "price": 14.94
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ARWR",
+      "price": 14.6
+    },
+    {
+      "ticker": "HABT",
+      "price": 14.4
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ARWR",
+      "price": 14.63
+    },
+    {
+      "ticker": "HABT",
+      "price": 14.4
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ARWR",
+      "price": 14.71
+    },
+    {
+      "ticker": "HABT",
+      "price": 14.35
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ARWR",
+      "price": 14.625
+    },
+    {
+      "ticker": "TRNC",
+      "price": 14.87
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ARWR",
+      "price": 14.55
+    },
+    {
+      "ticker": "TRNC",
+      "price": 14.93
+    }
+  ]
+}

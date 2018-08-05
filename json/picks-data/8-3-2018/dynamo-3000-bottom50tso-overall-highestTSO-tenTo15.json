@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "CSSE",
+      "price": 10.6178
+    },
+    {
+      "ticker": "CLF",
+      "price": 10.6493
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTAI",
+      "price": 10.7
+    },
+    {
+      "ticker": "EEP",
+      "price": 11.635
+    }
+  ],
+  "100": [
+    {
+      "ticker": "REI",
+      "price": 11.84
+    },
+    {
+      "ticker": "DDD",
+      "price": 12.95
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CIX",
+      "price": 12.6545
+    },
+    {
+      "ticker": "CPE",
+      "price": 10.615
+    }
+  ],
+  "260": [
+    {
+      "ticker": "DVAX",
+      "price": 13.1
+    },
+    {
+      "ticker": "CIX",
+      "price": 12.6545
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PEI",
+      "price": 10.64
+    },
+    {
+      "ticker": "GEOS",
+      "price": 13.51
+    }
+  ],
+  "381": [
+    {
+      "ticker": "INN",
+      "price": 13.74
+    },
+    {
+      "ticker": "GLMD",
+      "price": 13.35
+    }
+  ]
+}

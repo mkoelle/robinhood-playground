@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.52
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BOJA",
+      "price": 13.65
+    },
+    {
+      "ticker": "LCI",
+      "price": 13.55
+    }
+  ],
+  "100": [
+    {
+      "ticker": "FTSI",
+      "price": 12.835
+    },
+    {
+      "ticker": "BOJA",
+      "price": 13.475
+    }
+  ],
+  "200": [
+    {
+      "ticker": "FTSI",
+      "price": 13.24
+    },
+    {
+      "ticker": "TACT",
+      "price": 14.7164
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TACT",
+      "price": 14.4
+    },
+    {
+      "ticker": "BOJA",
+      "price": 13.75
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TACT",
+      "price": 14.2
+    },
+    {
+      "ticker": "FTSI",
+      "price": 12.945
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ESCA",
+      "price": 13.25
+    },
+    {
+      "ticker": "BOJA",
+      "price": 13.75
+    }
+  ]
+}

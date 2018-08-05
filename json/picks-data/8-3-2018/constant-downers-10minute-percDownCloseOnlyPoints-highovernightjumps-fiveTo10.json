@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "CERS",
+      "price": 7.35
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.85
+    },
+    {
+      "ticker": "MCF",
+      "price": 5.32
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CERS",
+      "price": 7.22
+    },
+    {
+      "ticker": "MCF",
+      "price": 5.08
+    },
+    {
+      "ticker": "NERV",
+      "price": 8.05
+    }
+  ],
+  "309": [
+    {
+      "ticker": "MCF",
+      "price": 5.035
+    },
+    {
+      "ticker": "CERS",
+      "price": 7.18
+    },
+    {
+      "ticker": "NERV",
+      "price": 8
+    }
+  ]
+}

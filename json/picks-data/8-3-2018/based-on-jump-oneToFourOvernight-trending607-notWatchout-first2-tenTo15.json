@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SSP",
+      "price": 13.66
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SSP",
+      "price": 13.845
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SSP",
+      "price": 13.21
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SSP",
+      "price": 13.55
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    }
+  ]
+}

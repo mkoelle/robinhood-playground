@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "TRST",
+      "price": 9.175
+    },
+    {
+      "ticker": "CLAR",
+      "price": 9.05
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVRI",
+      "price": 7.56
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.945
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ESTE",
+      "price": 9.5701
+    },
+    {
+      "ticker": "MJCO",
+      "price": 8.72
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MNI",
+      "price": 9.5201
+    },
+    {
+      "ticker": "ESTE",
+      "price": 9.5256
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 9.8
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.5201
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 9.925
+    },
+    {
+      "ticker": "P",
+      "price": 7.76
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 9.675
+    },
+    {
+      "ticker": "P",
+      "price": 7.835
+    }
+  ]
+}

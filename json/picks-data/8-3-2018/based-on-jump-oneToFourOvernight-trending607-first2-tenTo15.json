@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.36
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.66
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.31
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.845
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.36
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.21
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.39
+    },
+    {
+      "ticker": "SSP",
+      "price": 13.55
+    }
+  ]
+}

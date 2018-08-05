@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "LTBR",
+      "price": 0.88
+    },
+    {
+      "ticker": "PGLC",
+      "price": 1.45
+    },
+    {
+      "ticker": "CKPT",
+      "price": 2.73
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AAU",
+      "price": 0.6503
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.88
+    },
+    {
+      "ticker": "PGLC",
+      "price": 1.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VRML",
+      "price": 0.698
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.6503
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.3015
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VRML",
+      "price": 0.688
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.6504
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.2987
+    }
+  ]
+}

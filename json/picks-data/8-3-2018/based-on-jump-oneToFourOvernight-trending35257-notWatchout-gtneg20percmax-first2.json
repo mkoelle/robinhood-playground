@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "UUUU",
+      "price": 3.11
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "UUUU",
+      "price": 3.0787
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.0398
+    }
+  ],
+  "16": [
+    {
+      "ticker": "UUUU",
+      "price": 3.1013
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.0398
+    }
+  ],
+  "30": [
+    {
+      "ticker": "UUUU",
+      "price": 3.1868
+    },
+    {
+      "ticker": "OIIM",
+      "price": 2.02
+    }
+  ]
+}

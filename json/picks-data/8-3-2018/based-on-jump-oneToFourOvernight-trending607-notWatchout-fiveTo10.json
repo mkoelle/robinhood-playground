@@ -1,0 +1,86 @@
+{
+  "0": [
+    {
+      "ticker": "GPRO",
+      "price": 6.5
+    },
+    {
+      "ticker": "NICK",
+      "price": 9.67
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.3
+    },
+    {
+      "ticker": "CLAR",
+      "price": 9.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GPRO",
+      "price": 6.59
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.35
+    },
+    {
+      "ticker": "SGU",
+      "price": 9.64
+    },
+    {
+      "ticker": "CLAR",
+      "price": 9.05
+    }
+  ],
+  "16": [
+    {
+      "ticker": "GPRO",
+      "price": 6.65
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.548
+    },
+    {
+      "ticker": "DLNG",
+      "price": 9.0281
+    },
+    {
+      "ticker": "VTL",
+      "price": 8.35
+    }
+  ],
+  "30": [
+    {
+      "ticker": "GPRO",
+      "price": 6.9241
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "GCV",
+      "price": 6.4952
+    },
+    {
+      "ticker": "GWRS",
+      "price": 9.78
+    },
+    {
+      "ticker": "DLNG",
+      "price": 9.0148
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.97
+    },
+    {
+      "ticker": "USX",
+      "price": 13.325
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PEI",
+      "price": 10.5139
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "USX",
+      "price": 13.59
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.6501
+    },
+    {
+      "ticker": "USX",
+      "price": 13.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.64
+    },
+    {
+      "ticker": "USX",
+      "price": 13.47
+    }
+  ]
+}

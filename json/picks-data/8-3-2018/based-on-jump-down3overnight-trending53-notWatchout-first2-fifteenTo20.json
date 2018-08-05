@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "KN",
+      "price": 17.29
+    },
+    {
+      "ticker": "WU",
+      "price": 19.4
+    }
+  ],
+  "5": [
+    {
+      "ticker": "KN",
+      "price": 17.31
+    },
+    {
+      "ticker": "WU",
+      "price": 19.45
+    }
+  ],
+  "16": [
+    {
+      "ticker": "KN",
+      "price": 17.39
+    },
+    {
+      "ticker": "WU",
+      "price": 19.475
+    }
+  ],
+  "30": [
+    {
+      "ticker": "KN",
+      "price": 17.37
+    },
+    {
+      "ticker": "WU",
+      "price": 19.4
+    }
+  ]
+}

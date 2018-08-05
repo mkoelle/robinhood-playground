@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "GRPN",
+      "price": 4.35
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.3
+    }
+  ],
+  "5": [
+    {
+      "ticker": "ASPN",
+      "price": 4.4499
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.3
+    }
+  ],
+  "16": [
+    {
+      "ticker": "ASPN",
+      "price": 4.52
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.34
+    }
+  ],
+  "30": [
+    {
+      "ticker": "ASPN",
+      "price": 4.5
+    },
+    {
+      "ticker": "GRPN",
+      "price": 4.545
+    }
+  ]
+}

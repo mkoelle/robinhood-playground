@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "SYN",
+      "price": 0.1361
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.7
+    },
+    {
+      "ticker": "YECO",
+      "price": 1.86
+    }
+  ],
+  "5": [
+    {
+      "ticker": "EVC",
+      "price": 4.75
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1355
+    },
+    {
+      "ticker": "ACRX",
+      "price": 2.7
+    }
+  ],
+  "16": [
+    {
+      "ticker": "EVC",
+      "price": 4.8735
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.42
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1319
+    }
+  ],
+  "30": [
+    {
+      "ticker": "EVC",
+      "price": 4.75
+    },
+    {
+      "ticker": "SYN",
+      "price": 0.1338
+    },
+    {
+      "ticker": "HGSH",
+      "price": 1.489
+    }
+  ]
+}

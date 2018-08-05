@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SDOW",
+      "price": 16.45
+    },
+    {
+      "ticker": "TPC",
+      "price": 18.45
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TGI",
+      "price": 19.4
+    },
+    {
+      "ticker": "CVIA",
+      "price": 17.33
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TGI",
+      "price": 19.225
+    },
+    {
+      "ticker": "CVIA",
+      "price": 17.3
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CVIA",
+      "price": 17.17
+    },
+    {
+      "ticker": "ACRS",
+      "price": 17.12
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CVIA",
+      "price": 17.1264
+    },
+    {
+      "ticker": "ACRS",
+      "price": 17.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CVIA",
+      "price": 16.95
+    },
+    {
+      "ticker": "ACRS",
+      "price": 17.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TGI",
+      "price": 19.25
+    },
+    {
+      "ticker": "CVIA",
+      "price": 16.98
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SYRS",
+      "price": 10.31
+    },
+    {
+      "ticker": "ALNA",
+      "price": 10.65
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.7
+    }
+  ],
+  "242": [
+    {
+      "ticker": "EVLO",
+      "price": 12.77
+    },
+    {
+      "ticker": "VRCA",
+      "price": 13.7
+    },
+    {
+      "ticker": "ABCD",
+      "price": 12.17
+    }
+  ],
+  "309": [
+    {
+      "ticker": "EVLO",
+      "price": 12.68
+    },
+    {
+      "ticker": "ABCD",
+      "price": 11.95
+    },
+    {
+      "ticker": "GEOS",
+      "price": 13.33
+    }
+  ]
+}

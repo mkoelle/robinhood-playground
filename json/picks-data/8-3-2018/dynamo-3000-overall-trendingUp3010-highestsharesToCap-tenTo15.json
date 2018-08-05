@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.0761
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.0553
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MLPA",
+      "price": 10.0384
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.12
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLPA",
+      "price": 10.0616
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.11
+    }
+  ],
+  "260": [
+    {
+      "ticker": "MLPA",
+      "price": 10.06
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.08
+    }
+  ],
+  "351": [
+    {
+      "ticker": "MLPA",
+      "price": 10.074
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.1
+    }
+  ],
+  "381": [
+    {
+      "ticker": "MLPA",
+      "price": 10.071
+    },
+    {
+      "ticker": "AQN",
+      "price": 10.08
+    }
+  ]
+}

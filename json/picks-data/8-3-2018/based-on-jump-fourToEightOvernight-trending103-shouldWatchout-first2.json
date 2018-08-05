@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "AMDA",
+      "price": 0.4898
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 3.1
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AMDA",
+      "price": 0.46
+    },
+    {
+      "ticker": "ASCMA",
+      "price": 2.941
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TGC",
+      "price": 1.11
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.455
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TGC",
+      "price": 1.0922
+    },
+    {
+      "ticker": "AMDA",
+      "price": 0.4613
+    }
+  ]
+}

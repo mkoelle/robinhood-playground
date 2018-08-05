@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABX",
+      "price": 11.04
+    },
+    {
+      "ticker": "BSIG",
+      "price": 12.49
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EVER",
+      "price": 14.105
+    },
+    {
+      "ticker": "NYCB",
+      "price": 10.745
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CHU",
+      "price": 12.2399
+    },
+    {
+      "ticker": "WBAI",
+      "price": 14.03
+    }
+  ],
+  "200": [
+    {
+      "ticker": "CEPU",
+      "price": 11.51
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.8498
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SQQQ",
+      "price": 12.39
+    },
+    {
+      "ticker": "REW",
+      "price": 11.66
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SUPV",
+      "price": 13.32
+    },
+    {
+      "ticker": "GE",
+      "price": 13.145
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GE",
+      "price": 13.14
+    },
+    {
+      "ticker": "REW",
+      "price": 11.66
+    }
+  ]
+}

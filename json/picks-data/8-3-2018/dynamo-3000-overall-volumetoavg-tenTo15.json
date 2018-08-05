@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "ABUS",
+      "price": 10.45
+    },
+    {
+      "ticker": "NAC",
+      "price": 13.3301
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ABUS",
+      "price": 10.2724
+    },
+    {
+      "ticker": "HYT",
+      "price": 10.62
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ABUS",
+      "price": 10.15
+    },
+    {
+      "ticker": "VKQ",
+      "price": 11.97
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ABUS",
+      "price": 10.06
+    },
+    {
+      "ticker": "MIY",
+      "price": 12.857
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    },
+    {
+      "ticker": "CHI",
+      "price": 12.17
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CTSO",
+      "price": 11.8
+    },
+    {
+      "ticker": "NSTG",
+      "price": 12.4101
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CTSO",
+      "price": 11.7
+    },
+    {
+      "ticker": "BPI",
+      "price": 13.11
+    }
+  ]
+}

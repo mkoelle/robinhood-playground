@@ -1,0 +1,100 @@
+{
+  "4": [
+    {
+      "ticker": "HRTG",
+      "price": 15.09
+    },
+    {
+      "ticker": "NYLD",
+      "price": 18.75
+    },
+    {
+      "ticker": "CDEV",
+      "price": 18.15
+    }
+  ],
+  "40": [
+    {
+      "ticker": "COT",
+      "price": 15.49
+    },
+    {
+      "ticker": "ENLK",
+      "price": 17.95
+    },
+    {
+      "ticker": "NYLD",
+      "price": 18.65
+    }
+  ],
+  "100": [
+    {
+      "ticker": "COT",
+      "price": 15.47
+    },
+    {
+      "ticker": "HRTG",
+      "price": 15.145
+    },
+    {
+      "ticker": "CRCM",
+      "price": 18.58
+    }
+  ],
+  "200": [
+    {
+      "ticker": "COT",
+      "price": 15.3075
+    },
+    {
+      "ticker": "DFIN",
+      "price": 19
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.445
+    }
+  ],
+  "260": [
+    {
+      "ticker": "COT",
+      "price": 15.355
+    },
+    {
+      "ticker": "DFIN",
+      "price": 18.565
+    },
+    {
+      "ticker": "NYLD",
+      "price": 18.325
+    }
+  ],
+  "351": [
+    {
+      "ticker": "COT",
+      "price": 15.51
+    },
+    {
+      "ticker": "DFIN",
+      "price": 18.595
+    },
+    {
+      "ticker": "AMD",
+      "price": 18.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "DFIN",
+      "price": 18.46
+    },
+    {
+      "ticker": "NYLD",
+      "price": 18.325
+    },
+    {
+      "ticker": "NYLD.A",
+      "price": 18.3199
+    }
+  ]
+}

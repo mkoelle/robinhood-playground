@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "HLIT",
+      "price": 5.2
+    },
+    {
+      "ticker": "ICL",
+      "price": 5.2585
+    }
+  ],
+  "40": [
+    {
+      "ticker": "RELV",
+      "price": 5.1136
+    },
+    {
+      "ticker": "HQCL",
+      "price": 8.15
+    }
+  ],
+  "100": [
+    {
+      "ticker": "CDMO",
+      "price": 5.565
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.75
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RELV",
+      "price": 5.14
+    },
+    {
+      "ticker": "CDMO",
+      "price": 5.52
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CDMO",
+      "price": 5.51
+    },
+    {
+      "ticker": "BKS",
+      "price": 5.6
+    }
+  ],
+  "351": [
+    {
+      "ticker": "BCRX",
+      "price": 5.795
+    },
+    {
+      "ticker": "LQDT",
+      "price": 6.95
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CDMO",
+      "price": 5.5
+    },
+    {
+      "ticker": "BCRX",
+      "price": 5.795
+    }
+  ]
+}

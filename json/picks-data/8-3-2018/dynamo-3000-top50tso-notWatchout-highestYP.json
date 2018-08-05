@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OCC",
+      "price": 4
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.3
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OCC",
+      "price": 4
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.175
+    }
+  ],
+  "100": [
+    {
+      "ticker": "RIBT",
+      "price": 2.5
+    },
+    {
+      "ticker": "INFU",
+      "price": 3.201
+    }
+  ],
+  "200": [
+    {
+      "ticker": "RIBT",
+      "price": 2.55
+    },
+    {
+      "ticker": "EMX",
+      "price": 1.29
+    }
+  ],
+  "260": [
+    {
+      "ticker": "UUUU",
+      "price": 3.32
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.57
+    }
+  ],
+  "351": [
+    {
+      "ticker": "UUUU",
+      "price": 3.43
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.49
+    }
+  ],
+  "381": [
+    {
+      "ticker": "UUUU",
+      "price": 3.4727
+    },
+    {
+      "ticker": "RIBT",
+      "price": 2.51
+    }
+  ]
+}

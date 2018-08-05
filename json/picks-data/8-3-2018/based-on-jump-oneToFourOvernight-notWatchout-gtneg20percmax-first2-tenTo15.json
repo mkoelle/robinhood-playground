@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.97
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PEI",
+      "price": 10.5139
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.6501
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    },
+    {
+      "ticker": "PEI",
+      "price": 10.64
+    }
+  ]
+}

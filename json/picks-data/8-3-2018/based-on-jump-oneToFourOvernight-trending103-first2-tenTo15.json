@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.36
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.31
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.36
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.39
+    },
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    }
+  ]
+}

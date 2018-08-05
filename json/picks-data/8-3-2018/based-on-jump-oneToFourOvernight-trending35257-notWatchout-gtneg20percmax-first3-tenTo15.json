@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "ticker": "CTSO",
+      "price": 13.05
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.46
+    }
+  ],
+  "5": [
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.39
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.43
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.551
+    }
+  ],
+  "30": [
+    {
+      "ticker": "CTSO",
+      "price": 12.749
+    },
+    {
+      "ticker": "SSRM",
+      "price": 10.4174
+    },
+    {
+      "ticker": "AMRC",
+      "price": 13.5
+    }
+  ]
+}

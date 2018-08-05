@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "RYAM",
+      "price": 19.3946
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.25
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ACRS",
+      "price": 17.2
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.3675
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ACRS",
+      "price": 17.27
+    },
+    {
+      "ticker": "OPNT",
+      "price": 15.25
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ACRS",
+      "price": 17.12
+    },
+    {
+      "ticker": "TVPT",
+      "price": 17.98
+    }
+  ],
+  "260": [
+    {
+      "ticker": "TVPT",
+      "price": 17.945
+    },
+    {
+      "ticker": "CBMG",
+      "price": 19.25
+    }
+  ],
+  "351": [
+    {
+      "ticker": "CBMG",
+      "price": 19.3
+    },
+    {
+      "ticker": "NVTR",
+      "price": 15.19
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CBMG",
+      "price": 19.15
+    },
+    {
+      "ticker": "TVPT",
+      "price": 18.28
+    }
+  ]
+}

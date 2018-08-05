@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "PBR",
+      "price": 12.56
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PBR",
+      "price": 12.53
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PBR",
+      "price": 12.6
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PBR",
+      "price": 12.695
+    },
+    {
+      "ticker": "IMTE",
+      "price": 11.5
+    }
+  ]
+}

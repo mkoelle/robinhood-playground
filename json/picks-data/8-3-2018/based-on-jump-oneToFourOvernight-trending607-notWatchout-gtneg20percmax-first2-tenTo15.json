@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "OFS",
+      "price": 11.99
+    },
+    {
+      "ticker": "CTSO",
+      "price": 13.05
+    }
+  ],
+  "5": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.15
+    }
+  ],
+  "16": [
+    {
+      "ticker": "OFS",
+      "price": 11.75
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.3
+    }
+  ],
+  "30": [
+    {
+      "ticker": "OFS",
+      "price": 11.6
+    },
+    {
+      "ticker": "CTSO",
+      "price": 12.749
+    }
+  ]
+}

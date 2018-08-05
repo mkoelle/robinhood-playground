@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "IESC",
+      "price": 19.25
+    },
+    {
+      "ticker": "KN",
+      "price": 17.27
+    }
+  ],
+  "40": [
+    {
+      "ticker": "DNOW",
+      "price": 18.15
+    },
+    {
+      "ticker": "KN",
+      "price": 17.34
+    }
+  ],
+  "100": [
+    {
+      "ticker": "KN",
+      "price": 17.58
+    },
+    {
+      "ticker": "CCR",
+      "price": 17.245
+    }
+  ],
+  "200": [
+    {
+      "ticker": "KN",
+      "price": 17.59
+    },
+    {
+      "ticker": "CCR",
+      "price": 17.475
+    }
+  ],
+  "260": [
+    {
+      "ticker": "KN",
+      "price": 17.595
+    },
+    {
+      "ticker": "FNKO",
+      "price": 18.45
+    }
+  ],
+  "351": [
+    {
+      "ticker": "FNKO",
+      "price": 18.58
+    },
+    {
+      "ticker": "KN",
+      "price": 17.585
+    }
+  ],
+  "381": [
+    {
+      "ticker": "FNKO",
+      "price": 18.47
+    },
+    {
+      "ticker": "KN",
+      "price": 17.64
+    }
+  ]
+}

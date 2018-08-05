@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "SWIR",
+      "price": 18.45
+    },
+    {
+      "ticker": "HUD",
+      "price": 19
+    }
+  ],
+  "5": [
+    {
+      "ticker": "SWIR",
+      "price": 19.2
+    },
+    {
+      "ticker": "HUD",
+      "price": 18.97
+    }
+  ],
+  "16": [
+    {
+      "ticker": "SWIR",
+      "price": 19.1303
+    },
+    {
+      "ticker": "HUD",
+      "price": 18.89
+    }
+  ],
+  "30": [
+    {
+      "ticker": "SWIR",
+      "price": 19.375
+    },
+    {
+      "ticker": "HUD",
+      "price": 18.45
+    }
+  ]
+}

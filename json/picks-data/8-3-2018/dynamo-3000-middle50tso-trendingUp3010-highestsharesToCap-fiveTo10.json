@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NYMT",
+      "price": 6.2784
+    },
+    {
+      "ticker": "GER",
+      "price": 6.95
+    }
+  ],
+  "40": [
+    {
+      "ticker": "JMP",
+      "price": 5.47
+    },
+    {
+      "ticker": "DZZ",
+      "price": 6.3
+    }
+  ],
+  "100": [
+    {
+      "ticker": "MTEM",
+      "price": 5.4865
+    },
+    {
+      "ticker": "DLHC",
+      "price": 5.5027
+    }
+  ],
+  "200": [
+    {
+      "ticker": "JMP",
+      "price": 5.4499
+    },
+    {
+      "ticker": "LGL",
+      "price": 5.89
+    }
+  ],
+  "260": [
+    {
+      "ticker": "PPT",
+      "price": 5.265
+    },
+    {
+      "ticker": "BKCC",
+      "price": 6.03
+    }
+  ],
+  "351": [
+    {
+      "ticker": "PPT",
+      "price": 5.255
+    },
+    {
+      "ticker": "BKCC",
+      "price": 6.03
+    }
+  ],
+  "381": [
+    {
+      "ticker": "S",
+      "price": 5.63
+    },
+    {
+      "ticker": "BKCC",
+      "price": 6.045
+    }
+  ]
+}

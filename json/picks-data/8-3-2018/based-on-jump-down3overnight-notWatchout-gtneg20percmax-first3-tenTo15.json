@@ -1,0 +1,58 @@
+{
+  "0": [
+    {
+      "ticker": "BOJA",
+      "price": 12.75
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.1
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 12.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "BOJA",
+      "price": 12.75
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.2
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "BOJA",
+      "price": 13.025
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.3
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "BOJA",
+      "price": 13.35
+    },
+    {
+      "ticker": "LOCO",
+      "price": 11.1294
+    },
+    {
+      "ticker": "CHIE",
+      "price": 12.401
+    }
+  ]
+}

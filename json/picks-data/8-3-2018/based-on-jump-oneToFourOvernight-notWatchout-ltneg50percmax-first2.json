@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "LTBR",
+      "price": 0.88
+    },
+    {
+      "ticker": "PGLC",
+      "price": 1.45
+    }
+  ],
+  "5": [
+    {
+      "ticker": "AAU",
+      "price": 0.6503
+    },
+    {
+      "ticker": "LTBR",
+      "price": 0.88
+    }
+  ],
+  "16": [
+    {
+      "ticker": "VRML",
+      "price": 0.698
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.6503
+    }
+  ],
+  "30": [
+    {
+      "ticker": "VRML",
+      "price": 0.688
+    },
+    {
+      "ticker": "AAU",
+      "price": 0.6504
+    }
+  ]
+}

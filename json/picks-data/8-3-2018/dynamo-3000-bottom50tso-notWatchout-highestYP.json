@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "GSS",
+      "price": 0.72
+    },
+    {
+      "ticker": "SRRA",
+      "price": 2.62
+    }
+  ],
+  "40": [
+    {
+      "ticker": "BTX",
+      "price": 2.34
+    },
+    {
+      "ticker": "PME",
+      "price": 2.58
+    }
+  ],
+  "100": [
+    {
+      "ticker": "SMTX",
+      "price": 2.53
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.91
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SDPI",
+      "price": 1.7899
+    },
+    {
+      "ticker": "CCM",
+      "price": 3.5571
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SDPI",
+      "price": 1.7928
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.88
+    }
+  ],
+  "351": [
+    {
+      "ticker": "SDPI",
+      "price": 1.79
+    },
+    {
+      "ticker": "CFRX",
+      "price": 1.9
+    }
+  ],
+  "381": [
+    {
+      "ticker": "BTX",
+      "price": 2.335
+    },
+    {
+      "ticker": "RAVE",
+      "price": 1.4
+    }
+  ]
+}

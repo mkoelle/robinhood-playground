@@ -1,0 +1,40 @@
+{
+  "10": [
+    {
+      "ticker": "ABUS",
+      "price": 10.55
+    },
+    {
+      "ticker": "CDNA",
+      "price": 14.0791
+    }
+  ],
+  "50": [],
+  "200": [],
+  "300": [
+    {
+      "ticker": "CTSO",
+      "price": 12.0526
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CTSO",
+      "price": 11.7
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.11
+    }
+  ],
+  "600": [
+    {
+      "ticker": "CTSO",
+      "price": 11.625
+    },
+    {
+      "ticker": "BTAI",
+      "price": 10.116
+    }
+  ]
+}

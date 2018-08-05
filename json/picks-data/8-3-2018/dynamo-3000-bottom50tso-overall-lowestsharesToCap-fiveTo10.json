@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "PDFS",
+      "price": 9.74
+    },
+    {
+      "ticker": "CMTA",
+      "price": 9.65
+    }
+  ],
+  "40": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.99
+    },
+    {
+      "ticker": "TWI",
+      "price": 8.61
+    }
+  ],
+  "100": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.8
+    },
+    {
+      "ticker": "NDLS",
+      "price": 9.8
+    }
+  ],
+  "200": [
+    {
+      "ticker": "ZFGN",
+      "price": 9.76
+    },
+    {
+      "ticker": "TWI",
+      "price": 6.94
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 9.8
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.98
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 9.925
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.8
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 9.675
+    },
+    {
+      "ticker": "FATE",
+      "price": 9.7501
+    }
+  ]
+}

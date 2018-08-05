@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TACT",
+      "price": 13.1
+    },
+    {
+      "ticker": "MDRX",
+      "price": 13.455
+    }
+  ],
+  "5": [
+    {
+      "ticker": "TACT",
+      "price": 13.4
+    },
+    {
+      "ticker": "MDRX",
+      "price": 13.75
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TACT",
+      "price": 13.262
+    },
+    {
+      "ticker": "MDRX",
+      "price": 13.615
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TACT",
+      "price": 13.262
+    },
+    {
+      "ticker": "MDRX",
+      "price": 13.74
+    }
+  ]
+}

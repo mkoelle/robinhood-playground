@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "OPNT",
+      "price": 15.99
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.1
+    }
+  ],
+  "40": [
+    {
+      "ticker": "OPNT",
+      "price": 15.55
+    },
+    {
+      "ticker": "WTTR",
+      "price": 15.02
+    }
+  ],
+  "100": [
+    {
+      "ticker": "OPNT",
+      "price": 15.25
+    },
+    {
+      "ticker": "CEM",
+      "price": 15.135
+    }
+  ],
+  "200": [
+    {
+      "ticker": "OPNT",
+      "price": 15.3
+    },
+    {
+      "ticker": "CEM",
+      "price": 15.21
+    }
+  ],
+  "260": [
+    {
+      "ticker": "OPNT",
+      "price": 15.26
+    },
+    {
+      "ticker": "CEM",
+      "price": 15.1594
+    }
+  ],
+  "351": [
+    {
+      "ticker": "OPNT",
+      "price": 15.62
+    },
+    {
+      "ticker": "CEM",
+      "price": 15.1903
+    }
+  ],
+  "381": [
+    {
+      "ticker": "OPNT",
+      "price": 15.53
+    },
+    {
+      "ticker": "DPG",
+      "price": 15.3
+    }
+  ]
+}

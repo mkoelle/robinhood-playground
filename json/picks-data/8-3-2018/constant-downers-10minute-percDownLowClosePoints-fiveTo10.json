@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TWI",
+      "price": 8.11
+    },
+    {
+      "ticker": "AHT",
+      "price": 7.02
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.1896
+    }
+  ],
+  "242": [
+    {
+      "ticker": "TWI",
+      "price": 7.02
+    },
+    {
+      "ticker": "TTOO",
+      "price": 5.22
+    },
+    {
+      "ticker": "ADAP",
+      "price": 8.95
+    }
+  ],
+  "309": [
+    {
+      "ticker": "TWI",
+      "price": 7.025
+    },
+    {
+      "ticker": "ABUS",
+      "price": 9.9
+    },
+    {
+      "ticker": "TTOO",
+      "price": 5.15
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "0": [
+    {
+      "ticker": "PDFS",
+      "price": 9.95
+    },
+    {
+      "ticker": "GLBZ",
+      "price": 12.75
+    }
+  ],
+  "5": [
+    {
+      "ticker": "GLBZ",
+      "price": 12.5
+    }
+  ],
+  "16": [
+    {
+      "ticker": "PDFS",
+      "price": 10
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.15
+    }
+  ],
+  "30": [
+    {
+      "ticker": "PDFS",
+      "price": 10.21
+    },
+    {
+      "ticker": "LOV",
+      "price": 12.15
+    }
+  ]
+}

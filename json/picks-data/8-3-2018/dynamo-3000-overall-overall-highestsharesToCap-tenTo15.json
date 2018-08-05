@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "GLMD",
+      "price": 13.8
+    }
+  ],
+  "40": [
+    {
+      "ticker": "NICK",
+      "price": 10.05
+    },
+    {
+      "ticker": "GLMD",
+      "price": 13.67
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GLMD",
+      "price": 13.35
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.0384
+    }
+  ],
+  "200": [
+    {
+      "ticker": "GLMD",
+      "price": 13.3
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.0616
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GLMD",
+      "price": 13.42
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.06
+    }
+  ],
+  "351": [
+    {
+      "ticker": "GLMD",
+      "price": 13.3672
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.074
+    }
+  ],
+  "381": [
+    {
+      "ticker": "GLMD",
+      "price": 13.35
+    },
+    {
+      "ticker": "MLPA",
+      "price": 10.071
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "TSRI",
+      "price": 6.7
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.69
+    }
+  ],
+  "5": [
+    {
+      "ticker": "PDFS",
+      "price": 9.99
+    },
+    {
+      "ticker": "TSRI",
+      "price": 6.95
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TSRI",
+      "price": 7
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.725
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TSRI",
+      "price": 6.962
+    },
+    {
+      "ticker": "MFA",
+      "price": 7.715
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "SUPV",
+      "price": 13.34
+    },
+    {
+      "ticker": "IMOS",
+      "price": 14.87
+    }
+  ],
+  "40": [
+    {
+      "ticker": "EEP",
+      "price": 11.635
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.26
+    }
+  ],
+  "100": [
+    {
+      "ticker": "TORC",
+      "price": 12.83
+    },
+    {
+      "ticker": "EVLO",
+      "price": 13.0664
+    }
+  ],
+  "200": [
+    {
+      "ticker": "SBPH",
+      "price": 13.58
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.74
+    }
+  ],
+  "260": [
+    {
+      "ticker": "SBPH",
+      "price": 13.58
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.77
+    }
+  ],
+  "351": [
+    {
+      "ticker": "TORC",
+      "price": 12.46
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.67
+    }
+  ],
+  "381": [
+    {
+      "ticker": "TORC",
+      "price": 12.3
+    },
+    {
+      "ticker": "EVLO",
+      "price": 12.59
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "TESS",
+      "price": 17.8
+    },
+    {
+      "ticker": "PSCE",
+      "price": 17
+    },
+    {
+      "ticker": "CAPL",
+      "price": 17.8997
+    }
+  ],
+  "242": [
+    {
+      "ticker": "CAPL",
+      "price": 17.89
+    },
+    {
+      "ticker": "ORM",
+      "price": 16.86
+    },
+    {
+      "ticker": "OOMA",
+      "price": 15.95
+    }
+  ],
+  "309": [
+    {
+      "ticker": "OOMA",
+      "price": 15.8
+    },
+    {
+      "ticker": "ORM",
+      "price": 16.69
+    },
+    {
+      "ticker": "SBFG",
+      "price": 19.425
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "77": [
+    {
+      "ticker": "SPKE",
+      "price": 8.3
+    },
+    {
+      "ticker": "GALT",
+      "price": 5.05
+    },
+    {
+      "ticker": "INTT",
+      "price": 7.85
+    }
+  ],
+  "242": [
+    {
+      "ticker": "SRNE",
+      "price": 5.075
+    },
+    {
+      "ticker": "CRVS",
+      "price": 9.15
+    },
+    {
+      "ticker": "ICLK",
+      "price": 5.56
+    }
+  ],
+  "309": [
+    {
+      "ticker": "SRNE",
+      "price": 5.125
+    },
+    {
+      "ticker": "CRVS",
+      "price": 9.11
+    },
+    {
+      "ticker": "BGFV",
+      "price": 5.65
+    }
+  ]
+}

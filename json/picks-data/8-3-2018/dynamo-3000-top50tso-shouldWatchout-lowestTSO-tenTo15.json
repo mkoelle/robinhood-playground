@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "NSTG",
+      "price": 12.54
+    },
+    {
+      "ticker": "PBR.A",
+      "price": 11.37
+    }
+  ],
+  "40": [
+    {
+      "ticker": "XENE",
+      "price": 10.2
+    },
+    {
+      "ticker": "PBR",
+      "price": 12.695
+    }
+  ],
+  "100": [
+    {
+      "ticker": "PBR",
+      "price": 12.595
+    },
+    {
+      "ticker": "VECO",
+      "price": 11.85
+    }
+  ],
+  "200": [
+    {
+      "ticker": "PBR.A",
+      "price": 11.47
+    },
+    {
+      "ticker": "SNAP",
+      "price": 12.9045
+    }
+  ],
+  "260": [
+    {
+      "ticker": "FRD",
+      "price": 10.5
+    },
+    {
+      "ticker": "LOMA",
+      "price": 10.9925
+    }
+  ],
+  "351": [
+    {
+      "ticker": "LOMA",
+      "price": 10.98
+    },
+    {
+      "ticker": "LNTH",
+      "price": 13.55
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CORT",
+      "price": 13.865
+    },
+    {
+      "ticker": "LOMA",
+      "price": 11
+    }
+  ]
+}

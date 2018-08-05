@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "FLDM",
+      "price": 5.75
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.6
+    }
+  ],
+  "5": [
+    {
+      "ticker": "FLDM",
+      "price": 5.75
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.6
+    }
+  ],
+  "16": [
+    {
+      "ticker": "FLDM",
+      "price": 6.59
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.6
+    }
+  ],
+  "30": [
+    {
+      "ticker": "FLDM",
+      "price": 6.39
+    },
+    {
+      "ticker": "CPIX",
+      "price": 5.6
+    }
+  ]
+}

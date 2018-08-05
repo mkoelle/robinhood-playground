@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BXE",
+      "price": 0.8804
+    },
+    {
+      "ticker": "BTG",
+      "price": 2.47
+    }
+  ],
+  "40": [
+    {
+      "ticker": "AAU",
+      "price": 0.6504
+    },
+    {
+      "ticker": "IDXG",
+      "price": 1.0087
+    }
+  ],
+  "100": [
+    {
+      "ticker": "GNMX",
+      "price": 1.0663
+    },
+    {
+      "ticker": "BORN",
+      "price": 1.1542
+    }
+  ],
+  "200": [
+    {
+      "ticker": "MLSS",
+      "price": 0.8426
+    },
+    {
+      "ticker": "UQM",
+      "price": 1.005
+    }
+  ],
+  "260": [
+    {
+      "ticker": "GMO",
+      "price": 0.3953
+    },
+    {
+      "ticker": "MLSS",
+      "price": 0.8426
+    }
+  ],
+  "351": [
+    {
+      "ticker": "HEB",
+      "price": 0.3009
+    },
+    {
+      "ticker": "WWR",
+      "price": 0.343
+    }
+  ],
+  "381": [
+    {
+      "ticker": "HEB",
+      "price": 0.3016
+    },
+    {
+      "ticker": "GMO",
+      "price": 0.3964
+    }
+  ]
+}

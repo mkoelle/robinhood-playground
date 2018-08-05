@@ -1,0 +1,72 @@
+{
+  "4": [
+    {
+      "ticker": "BB",
+      "price": 9.945
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.705
+    }
+  ],
+  "40": [
+    {
+      "ticker": "TWI",
+      "price": 8.61
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.42
+    }
+  ],
+  "100": [
+    {
+      "ticker": "NDLS",
+      "price": 9.8
+    },
+    {
+      "ticker": "TWI",
+      "price": 7.99
+    }
+  ],
+  "200": [
+    {
+      "ticker": "TWI",
+      "price": 6.94
+    },
+    {
+      "ticker": "MNI",
+      "price": 9.5201
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ABUS",
+      "price": 9.8
+    },
+    {
+      "ticker": "TWI",
+      "price": 7.005
+    }
+  ],
+  "351": [
+    {
+      "ticker": "ABUS",
+      "price": 9.925
+    },
+    {
+      "ticker": "TWI",
+      "price": 7.27
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ABUS",
+      "price": 9.675
+    },
+    {
+      "ticker": "TWI",
+      "price": 7.15
+    }
+  ]
+}

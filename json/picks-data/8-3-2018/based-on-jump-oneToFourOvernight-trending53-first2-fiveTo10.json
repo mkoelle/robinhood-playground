@@ -1,0 +1,42 @@
+{
+  "0": [
+    {
+      "ticker": "NICK",
+      "price": 9.67
+    },
+    {
+      "ticker": "ADAP",
+      "price": 9.99
+    }
+  ],
+  "5": [
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    },
+    {
+      "ticker": "TPIV",
+      "price": 7.89
+    }
+  ],
+  "16": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "MLPY",
+      "price": 6.92
+    }
+  ],
+  "30": [
+    {
+      "ticker": "NTWK",
+      "price": 5.9884
+    },
+    {
+      "ticker": "IMH",
+      "price": 8.72
+    }
+  ]
+}
