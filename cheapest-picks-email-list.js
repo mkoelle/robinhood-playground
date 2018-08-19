@@ -6,5 +6,7 @@ module.exports = [
     ['sambar', 'jon@g', 'ma', 'il.com'],
     ['Jhar', 'din47491@gma', 'il.com'],
     ['bxcap', 'one@gma', 'il.com'],
-    ['hu', 's.fi', 'tnes', 's@gm', 'ail.com']
+    ['hu', 's.fi', 'tnes', 's@gm', 'ail.com'],
+    ['Bennettha', 'mmock@gm', 'ail.com'],
+    ['kombinati', 'onkid@gmail.com']
 ].map(val => val.join(''));
